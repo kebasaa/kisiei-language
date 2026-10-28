@@ -17,9 +17,9 @@
 - {lemma: yinnden, status: attested, pos: noun, class: len, forms: [yinnde], gloss: {fr: "feu", en: "fire"}, domains: ["5.5"], childs: {page: 408, form: "yìŋndé"}, example: GEN.22.6}
 - {lemma: yoei, status: attested, pos: noun, class: i, gloss: {fr: "corde, lien, courroie", en: "cord, rope, strap"}, domains: ["6.7.5"], childs: {page: 411, form: "yùèí", sense: "plural of yòòléŋ 'rope, vine'"}, example: JDG.16.7}
 - {lemma: tindaa, status: attested, pos: noun, class: o, plural: tindala, forms: [tinda], gloss: {fr: "bâton, verge", en: "staff, rod"}, domains: ["6.7"], childs: {page: 360, form: "tìndàá", sense: "cane, walking stick"}, example: NUM.17.17}
-- {lemma: tabalio, status: attested, pos: noun, class: o, forms: [tabali], gloss: {fr: "table", en: "table"}, domains: ["5.1.1"], example: LEV.24.6}
+- {lemma: tabalio, status: attested, pos: noun, class: o, forms: [tabali], gloss: {fr: "table", en: "table"}, domains: ["5.1.1"], childs: {page: 358, form: "tìbìíyó"}, example: LEV.24.6}
 - {lemma: tɛngɛ, status: attested, pos: noun, forms: [tɛngɛla], gloss: {fr: "lampe, torche", en: "lamp, torch"}, domains: ["5.5", "8.3.3"], example: PRO.24.20, note: "tɛngɛla « torches » (Jg 7,16)."}
-- {lemma: tɛɛngei, status: attested, pos: noun, class: i, plural: tɛɛngon, gloss: {fr: "trou, brèche, creux", en: "hole, breach, hollow"}, domains: ["7.8.5"], example: JDG.15.19}
+- {lemma: tɛɛngei, status: attested, pos: noun, class: i, plural: tɛɛngon, gloss: {fr: "trou, brèche, creux", en: "hole, breach, hollow"}, domains: ["7.8.5"], childs: {page: 354, form: "tèèŋgɔ̀ɔ́", sense: "hole; burrow (of a rat or squirrel)"}, example: JDG.15.19}
 - {lemma: tuuliaala, status: attested, pos: noun, gloss: {fr: "figures sculptées, images, idoles", en: "carved figures, images, idols"}, domains: ["6.6.5", "4.9.8"], example: DEU.4.23}
 - {lemma: tɔɔmaseloo, status: attested, pos: noun, class: o, forms: [tɔɔmasele], gloss: {fr: "signe, marque", en: "sign, mark"}, domains: ["3.5.6"], childs: {page: 346, form: "tààmàsììyó"}, example: GEN.9.12}
 
@@ -35,7 +35,7 @@
 - {lemma: tullo, status: attested, pos: noun, class: o, gloss: {fr: "sommet", en: "top, summit"}, domains: ["8.6.2", "1.2.1"], example: EXO.24.17, note: "pembei tullo « le sommet de la montagne »."}
 - {lemma: vesɛiyo, status: attested, pos: adj, forms: [vesɛi, vesɛiya, vesɛilan, vesɛilen], gloss: {fr: "sec ; dur ; terre ferme", en: "dry; hard; dry land"}, domains: ["1.3.3", "1.2.1"], childs: {page: 383, form: "wèsɛ́í"}, example: GEN.1.9}
 - {lemma: veselɛilen, status: attested, pos: adj, forms: [veselɛile], gloss: {fr: "aride, désertique (lɛŋnde veselɛilen « désert »)", en: "arid, desert (lɛŋnde veselɛilen 'desert, wilderness')"}, domains: ["1.2.1"], example: JOS.8.15}
-- {lemma: too, status: attested, pos: noun, gloss: {fr: "sud (a ba too « vers le sud »)", en: "south (a ba too 'southward')"}, domains: ["8.5.2"], example: GEN.12.9}
+- {lemma: too, status: attested, pos: noun, gloss: {fr: "sud (a ba too « vers le sud »)", en: "south (a ba too 'southward')"}, domains: ["8.5.2"], childs: {page: 366, form: "tòò", sense: "low, lower part, below, down; also Monrovia (down-country)"}, example: GEN.12.9}
 
 # --- Body
 - {lemma: vulan, status: attested, pos: noun, gloss: {fr: "genoux", en: "knees"}, domains: ["2.1.3"], childs: {page: 392, form: "wùléŋ", sense: "knee (singular, le class)"}, example: EZK.47.4, note: "baŋ vulan « s'agenouiller, se prosterner » (Gn 17,3)."}
@@ -62,7 +62,7 @@
 - {lemma: ɲɛkɛndɛi, status: attested, pos: adv, gloss: {fr: "bien, en sûreté", en: "well, safely"}, domains: ["9.2.2", "8.3.7"], childs: {page: 277, form: "ɲɛ̀-kɛ̀ndɛ̀", sense: "well, thoroughly, completely"}, example: MRK.14.44}
 
 # --- Time, numbers
-- {lemma: telenndo, status: attested, pos: noun, class: o, plural: telenndan, forms: [telen, telennda], gloss: {fr: "temps, moment, époque", en: "time, moment, period"}, domains: ["8.4"], example: ECC.3.6}
+- {lemma: telenndo, status: attested, pos: noun, class: o, plural: telenndan, forms: [telen, telennda], gloss: {fr: "temps, moment, époque", en: "time, moment, period"}, domains: ["8.4"], childs: {page: 352, form: "téléŋndó", sense: "time, period; also chance, opportunity"}, example: ECC.3.6}
 - {lemma: yaandɔɔ, status: attested, pos: num, forms: [yaandɔlen, yaandɔ], gloss: {fr: "troisième", en: "third"}, domains: ["8.1.1"], childs: {page: 395, form: "yàándɔ̀"}, example: GEN.14.4}
 - {lemma: ŋuɛɛnundɔɔ, status: attested, pos: num, forms: [ŋuɛɛnundɔɛi], gloss: {fr: "cinquième", en: "fifth"}, domains: ["8.1.1"], childs: {page: 272, form: "ŋùɛ́ɛ́ndɔ̀-"}, example: GEN.30.17}
 - {lemma: ŋɔmpumndɔɔ, status: attested, pos: num, gloss: {fr: "sixième", en: "sixth"}, domains: ["8.1.1"], example: GEN.30.19}
@@ -153,15 +153,15 @@
 - {lemma: tɛɛmbuuo, status: attested, pos: verb, forms: [tɛɛmbuu, tɛɛmbuunin], gloss: {fr: "détruire, anéantir ; transgresser (une loi)", en: "destroy; break, transgress (a law)"}, domains: ["7.9.3", "4.7"], childs: {page: 353, form: "tèèmbùùwó", sense: "plural of tàmbéí 'be ruined': spoil, break, misuse"}, example: GEN.6.7, note: "Pluriel de tambu « être ruiné »."}
 - {lemma: ɲumi, status: attested, pos: verb, gloss: {fr: "effacer, anéantir", en: "wipe out, blot out"}, domains: ["7.9.3"], example: EXO.32.32}
 - {lemma: ɲumndo, status: attested, pos: verb, forms: [ɲum, ɲumnin], gloss: {fr: "s'éteindre ; pâlir", en: "go out (fire, lamp); fade"}, domains: ["5.5", "8.3.3"], childs: {page: 283, form: "ɲùmndó"}, example: LEV.6.5}
-- {lemma: tengaa, status: attested, pos: verb, forms: [tenga], gloss: {fr: "briller, éclairer, luire", en: "shine, give light"}, domains: ["8.3.3"], example: HAB.3.4, note: "ɲɛ-tengaa « lumière, luminaire » (Gn 1,15)."}
+- {lemma: tengaa, status: attested, pos: verb, forms: [tenga], gloss: {fr: "briller, éclairer, luire", en: "shine, give light"}, domains: ["8.3.3"], childs: {page: 352, form: "tèŋàá", sense: "(noun) an illuminated place, as lit up by a torch or lightning"}, example: HAB.3.4, note: "ɲɛ-tengaa « lumière, luminaire » (Gn 1,15)."}
 - {lemma: teengiaa, status: attested, pos: verb, gloss: {fr: "éclairer, faire briller", en: "light up, make shine"}, domains: ["8.3.3"], example: GEN.1.16, note: "Causatif de tengaa."}
 - {lemma: vulɔɔ, status: attested, pos: verb, forms: [vul, vulnin], gloss: {fr: "pousser, germer", en: "grow, sprout"}, domains: ["1.5.6"], childs: {page: 392, form: "wùlɔ̀ɔ́", sense: "also: thread a needle"}, example: GEN.3.18}
 - {lemma: tendu, status: attested, pos: verb, gloss: {fr: "se réveiller ; se lever", en: "wake up; rise"}, domains: ["5.7.3"], childs: {page: 360, form: "tìndìŋndó", sense: "wake oneself; come back to life"}, example: GEN.28.16}
-- {lemma: tendul, status: attested, pos: verb, forms: [tendulnin], gloss: {fr: "ressusciter, revivre", en: "rise again, revive"}, domains: ["2.6", "4.9.4"], childs: {page: 360, form: "tìndùlló", sense: "awaken for someone; come back to life"}, example: 1CO.15.4, note: "Dérivé de tendu."}
+- {lemma: tendul, status: attested, pos: verb, forms: [tendulnin], gloss: {fr: "ressusciter, revivre", en: "rise again, revive"}, domains: ["2.6", "4.9.4"], childs: {page: 352, form: "tèndùlló", sense: "get up, arise"}, example: 1CO.15.4, note: "Dérivé de tendu."}
 - {lemma: tindi, status: attested, pos: verb, gloss: {fr: "réveiller ; ressusciter (qqn)", en: "wake (someone); raise (from the dead)"}, domains: ["5.7.3", "4.9.4"], childs: {page: 360, form: "tìndìó"}, example: JHN.12.17, note: "Causatif de tendu."}
-- {lemma: velu, status: attested, pos: verb, gloss: {fr: "engendrer (père)", en: "beget, father"}, domains: ["2.6.3"], example: GEN.5.4}
-- {lemma: velun, status: attested, pos: verb, gloss: {fr: "naître", en: "be born"}, domains: ["2.6.3"], example: JHN.3.6, note: "Moyen de velu."}
-- {lemma: vilul, status: attested, pos: verb, gloss: {fr: "enfanter (un enfant) à qqn", en: "bear (a child) to someone"}, domains: ["2.6.3"], example: GEN.30.7, note: "Bénéfactif de violɔɔ « enfanter »."}
+- {lemma: velu, status: attested, pos: verb, gloss: {fr: "engendrer (père)", en: "beget, father"}, domains: ["2.6.3"], childs: {page: 386, form: "wìòlɔ̀ɔ́", sense: "bear, give birth, be born; resemble (the stem wélù is used of a father siring)"}, example: GEN.5.4}
+- {lemma: velun, status: attested, pos: verb, gloss: {fr: "naître", en: "be born"}, domains: ["2.6.3"], childs: {page: 386, form: "wìòlɔ̌ŋndó"}, example: JHN.3.6, note: "Moyen de velu."}
+- {lemma: vilul, status: attested, pos: verb, gloss: {fr: "enfanter (un enfant) à qqn", en: "bear (a child) to someone"}, domains: ["2.6.3"], childs: {page: 386, form: "wìlùlló", sense: "deliver (a child) for someone, as a midwife"}, example: GEN.30.7, note: "Bénéfactif de violɔɔ « enfanter »."}
 - {lemma: velan, status: attested, pos: noun, class: lan, gloss: {fr: "image, ressemblance", en: "image, likeness"}, domains: ["8.3.1"], childs: {page: 383, form: "wèlâŋndáŋ", sense: "resemblances (from wèlǎŋndó 'resemble')"}, example: GEN.1.26, note: "Verbe apparenté vel « ressembler à » (Gn 1,26)."}
 - {lemma: vannun, status: attested, pos: verb, gloss: {fr: "être, rester, demeurer", en: "be, remain, dwell"}, domains: ["9.1.1", "5.9"], example: EZK.16.49, note: "Moyen de va « être »."}
 - {lemma: yɔŋnun, status: attested, pos: verb, forms: [yɔŋnunnin, yɔŋnɔn], gloss: {fr: "devenir, être ; se produire", en: "become, be; happen"}, domains: ["9.1.1"], childs: {page: 414, form: "yɔ̀ŋnɔ̌ŋndó", sense: "happen, occur; become"}, example: GEN.1.5}
