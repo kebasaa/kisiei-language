@@ -20,6 +20,7 @@ Keeping step 2 separate from step 3 means the original text can always be checke
 | --- | --- |
 | [`archive/kissie fondamental (original scan).pdf`](archive/kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of *Essai d'élaboration d'un Kisiei fondamental à l'usage des locuteurs non Kisi*, a 1979 thesis by Sékou Sondo Keita (Institut Polytechnique Gamal Abdel Nasser de Conakry). It covers phonetics, grammar, verb conjugation, syntax, a Kisiei–French lexicon and Kisiei texts in an annex. Written in French and Kisiei, old orthography. |
 | [`archive/kissie fondamental (transcription).md`](archive/kissie%20fondamental%20(transcription).md) | Markdown transcription of the scan above, in the original orthography. |
+| [`archive/kissie fondamental (handwritten notes).md`](archive/kissie%20fondamental%20(handwritten%20notes).md) | Handwritten annotations found on the scan (mostly French glosses and translations, plus Kissidougou variants), listed page by page next to the typed text they refer to. |
 | [`archive/nouvel orthographe kissi.pdf`](archive/nouvel%20orthographe%20kissi.pdf) | One-page guide mapping the old orthography to the new one. |
 
 ## Orthography
@@ -52,14 +53,15 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 
 | Source | Transcription | Conversion |
 | --- | --- | --- |
-| Kissie fondamental (1979) | In progress: typescript pp. 1–24, up to the simple noun (PDF pp. 1–28 of 189) | Not started |
+| Kissie fondamental (1979) | In progress: typescript pp. 1–44, up to the noun functions (PDF pp. 1–48 of 189) | Not started |
 
 ### Transcription conventions
 
 - Reproduce the text exactly: spelling (including the author's typos), diacritics, punctuation and capitalisation.
 - Use precomposed Unicode characters (NFC), for example `ö` as U+00F6.
 - Use Markdown only for structure: headings, tables for lexicons and paradigms, and paragraphs.
-- Do not transcribe handwritten annotations added to the typescript later.
+- Handwritten corrections of the typed text go into the transcription: the struck text as `~~strikethrough~~`, the handwritten replacement as `<ins>…</ins>`.
+- All other handwritten annotations go in a separate `(handwritten notes).md` file: one table per page, each note next to the typed text it refers to, labelled as gloss, translation, variant or comment, with `[?]` for uncertain readings. The glosses and translations there can later be collected into a Kisiei–French word list.
 
 ## External resources
 

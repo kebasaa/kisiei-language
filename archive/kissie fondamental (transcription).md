@@ -3,8 +3,8 @@
 > **Transcription** of `kissie fondamental (original scan).pdf` (Sékou Sondo Keita, Institut Polytechnique Gamal Abdel Nasser de Conakry, 1979).
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
-> - Handwritten annotations and margin ticks added to the typescript later are not transcribed.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux and the first part of the simple noun (typescript pp. 1–24). PDF pages 1 and 3–28 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md).
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived) and the start of the noun functions (typescript pp. 1–44). PDF pages 1 and 3–48 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -358,7 +358,7 @@ Elles sont une modification des voyelles orales simples correspondantes par adjo
 
 ce sont : an, on, in, èn, un, en, ön.
 
-Exemple : Lisons ces mots : Dolan (le nom) Peelen ; Mènndan ; Tunndo (le chien) ; Komndo (la porte) Pulönndo (se laver) Lilinndo (la racine).
+Exemple : Lisons ces mots : Dolan (le nom) Peelen ; Mènndan ; Tunndo (le chien) ; Komndo (la porte) Pulönndo (se laver) Lilinndo (~~la racine~~ <ins>le moineau</ins>).
 
 REMARQUE : En kisiei, les sons : am, om, im, èm, um, öm, em, ne sont pas attestés comme étant les voyelles nasales. Car en réalité, sur le plan de la réalisation nous avons en fait : une voyelle orale suivie d'une nasale. Ils se réalisent comme par exemple dans le mot français : Tam - Tam.
 
@@ -394,7 +394,7 @@ KPandilen (patate) ; KanKPoKPoo (espèce d'oiseau) ; KPeloo (le lit) KPaasalen (
 
 - avec Gb
 
-FenGBöö (la percale) ; KanGBöö (le pigeon) ; KpenGBoo (escabot) ; KpènGBöö (petit tambour) ; KanGBaa (favori) ; KpaanGBaa (natte) ; LanGBanöö (adulte) ; SanGBaa (sorte de tambour) ; SanGBoo (épis de riz détruit par les oiseaux prédateurs) ; SenGboo (espèce de poisson d'eau douce) ; TènGBöö (espèce de petit animal ;
+FenGBöö (la percale) ; KanGBöö (~~le pigeon~~) ; KpenGBoo (escabot) ; KpènGBöö (petit tambour) ; KanGBaa (~~favori~~ <ins>cotelette</ins>) ; KpaanGBaa (natte) ; LanGBanöö (adulte) ; SanGBaa (sorte de tambour) ; SanGBoo (épis de riz détruit par les oiseaux prédateurs) ; SenGboo (espèce de poisson d'eau douce) ; TènGBöö (espèce de petit animal ;
 
 b)- LES DIGRAPHES NASALES : Nh - Ny
 
@@ -438,7 +438,7 @@ EXERCICE DE PRONONCIATION : Lisez ce Texte
 
 **O FEEYAA NIN**
 
-Maa Faya n tyo haw ni. Diilèn pun, mi Teeva laa ndö tyua yolöölan mo köa o hunndo nin. Yaamöö mösönha vanaafèèya ; kani ndu tyo tyuaapiaandua (tyuaa - piaa - ndua) bolten ni. Mo hiaw a nda o hunndo nin. Tiiyaa döö, mo kili pèltan, mi bè tundun o pèl ndöö nin. Mi kotaa oo, Sia oo, Tyaanha ndaa, toal vanaafèèyaa kööli, le bungan tyumullo. Baala tyuvöö, ma muungu tyiee.
+Maa Faya n tyo haw ni. Diilèn pun, mi Teeva laa ndö tyua yolöölan mo köa o hunndo nin. Yaamöö mösönha vanaafèèya ; ~~kani~~ <ins>katu</ins> ndu tyo tyuaapiaandua (tyuaa - piaa - ndua) bolten ni. Mo hiaw a nda o hunndo nin. Tiiyaa döö, mo kili pèltan, mi bè tundun o pèl ndöö nin. Mi kotaa oo, Sia oo, Tyaanha ndaa, toal vanaafèèyaa kööli, le bungan tyumullo. Baala tyuvöö, ma muungu tyiee.
 
 ### III-LES UNITES PROSODIQUES
 
@@ -720,3 +720,779 @@ b°) Apprenons de nouveaux chiffres .
 | 16 | 17 | 18 | 19 | 20 |
 | --- | --- | --- | --- | --- |
 | tö a nhömpum | tö a nhömmèw | tö a nhömaa | tö a nhömahiöölu | bidiin. |
+
+CONJUGAISON : Conjuguons au présent de l'indicatif le verbe : "Dioo" (manger).
+
+| FORME AFFIRMATIVE | FORME NEGATIVE |
+| --- | --- |
+| I tyo dioo | I tyo dio le |
+| A tyo dioo | A tyo dio le |
+| O tyo dioo | O tyo dio le |
+| N tyo dioo | N tyo dio le |
+| La tyo dioo | La tyo dio le |
+| A (nda) tyo dioo | A (nda) tyo dio le |
+
+---
+
+## LE NOM: SINGULIER - PLURIEL
+
+La langue Kisiei regroupe les noms en sigulier et en pluriel qu'un indice vient morphologiquement différencier. Cette formation du pluriel se caractérise parfois par une variation vocalique.
+
+Ce qu'il faut surtout retenir, c'est que pour la formation du pluriel, la langue obéit à la catégorisation (ou classification) des noms. Ce qui nous fait dire, qu'à chacun des morphèmes peut correspondre une ou plusieurs formes du pluriel.
+
+Le pluriel d'un nom singulier s'obtient généralement en substituent au morphème classificateur (modalité nominale), le morphème correspondant de la marque du pluriel.
+
+### 1°)- LES NOMS TERMINES AU SINGULIER PAR "ö" :
+
+Règle 1 : Tous les noms de personnes et d'animaux terminés au singulier par "ö" font leur pluriel en "a" (nda, ndua quand la finale du radical est nasale et "la" quand elle est latérale).
+
+Exemples :
+- Bobonöö = Boboa
+- Kisinöö : kisia
+- Völöö : Völla
+- Höölöö : hööla
+- Kaasonnöö : kaasonnda
+- Laanöö : laandua
+- Sungulnöö : sungulla
+
+Règle 2 : Tous les noms d'arbre terminés au singulier par "ö" font leur pluriel en "èi".
+
+Exemples :
+- Bööndöö : bööndöèi
+- Bölöö : bölèi
+- Kumöö : Kumöèi
+- Yalabööndöö : yalabööndöèi.
+
+Règle 3 : Les noms de choses, d'objets terminés par "ö" au singulier forment leur pluriel en "lan".
+
+Exemples :
+- Yöösöö : yöösölan
+- Bölöö : bölölan
+- Fèlöö : Fèlèlan
+- Yèndöö : yèndèlan
+
+### 2°)- LES NOMS TERMINES PAR "o" AU SINGULIER :
+
+Règle : Les noms terminés au singulier par "o" forment leur pluriel en "lan" qui se réalise "tan" - ndan" selon que la finale du radical est latérale ou nasale. Sauf les noms de personnes et d'animaux qui font leur pluriel en "a".
+
+Exemples :a) Singulier o ------→ Pluriel lan (tan - ndan)
+
+- Hoo : Holan
+- Kobio : Kobilan
+- Kpeloo : Kpelelan
+- Kuuvo : Kuulan
+- Tullo : Tultan
+- Mösillo : Mösiltan
+- Konndo : Konndan
+- Lamndo : Lamndan
+
+Exceptions :
+
+Vawvo : Vawvan; Kollo : Kolle; Hollo: Holle ; Howvo : Howve; Kilio : Kilion; Tyieo : Tyieon.
+
+b°)- Singulier o------→ Pluriel a
+
+- Kposio : Kposia
+- Dèluo : Dèlua
+- Miallo : Mialla
+- Tömndo : Tömnda
+- Kiallo : Kialla
+
+### 3°) LES NOMS TERMINES PAR "a" AU SINGULIER :
+
+Règle Les noms terminés au singulier par "a" font leur pluriel en "lan".
+
+Exemples :
+
+| | | | |
+| --- | --- | --- | --- |
+| Domaa | Domalan | Samtaa | Samtalan |
+| Naa | Naalan | Kpakpaa | Kpakpalan |
+| Dolaa | Dolalan | Maa | Maalan |
+| Paa | Paalan | | |
+
+EXCEPTIONS : Saa, Yangaa, Nyinaa restent invariables.
+
+### 4°)- LES NOMS TERMINES PAR "e - ei - èi" AU SINGULIER :
+
+Règle 1 Les noms terminés au singulier par "e - ei " forment leur pluriel en "on"
+
+Exemples : Kawve : Kawvon ; Pangei : Pangon
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Yèiye | yèiyon | ; | Boosei | : | Booson |
+| Sièiye | Sièiyon | ; | Suei | : | Suon |
+| Kulle | Kullon | ; | Koei | : | Koon |
+
+Règle 2 Les noms terminés au singulier par "èi" font leur pluriel en "ön".
+
+Exemples :
+- Kèmbèi : Kèmbön
+- Möèi : Möön
+- Söèi : Söön
+- Köèi : Köön
+
+Exception : Suèi : Suan ; Kelèi: Kelan
+
+### 5°)- LES NOMS TERMINES PAR "len" AU SINGULIER :
+
+Règle Tous les noms terminés au singulier par "len" font leur pluriel en "an" qui se réalise : van, yan, tan selon les contextes.
+
+Exemples :
+- Pema<u>len</u> : Pema<u>an</u>
+- Siawlen : Siawvan
+- Kèèlen : Kèèyan
+- Nilen : Nilan
+- Pelten : Peltan.
+
+Exceptions : Kulen et Yoolen font Kuei, Yoei au pluriel
+
+REMARQUES :
+
+1°)- Tous les noms désignant la matière, une masse sont invariables. Ils sont toujours au singulier.
+
+Exemple : Hèlle ; Möèiyan ; Mènndan ; Tuilian etc....
+
+2°)- De même les noms désignant des idées, des notions abstraites sont toujours au singulier.
+
+Exemples : Diolan ; Nyumndan ; Bolofaa ; Balafondolan ; Bèèlen ; Hoiiye ; Hangullo.
+
+3°)- Les noms collectifs sont quant à eux toujours au pluriel. Exemples : Diallon ; Tööyön.
+
+Nota-Bene : La langue Kisiei ne connaît pas d'article. Ainsi l'opposition Masculin - Féminin est marquée par: Piaando (pour le masculin) et laando (pour le féminin).
+
+Exemples :
+- <u>Sow</u> : So piaando So laando
+- <u>Nyaayoo</u> :Nyai piaando Nyai laando
+- <u>Tunndo</u> : Tun piaando Tun laando .
+
+EXERCICES : 1. Donner le Pluriel des mots suivants ;
+
+Bollo ; Vuiyo ; Sèmtöö ; Möèiyan ; Pendei ; Hunndo ; Domaa ; Pemalen ; Tyalen ; Hèlle ; Hangullo ; Yangaa ; Bawvo ; Mösillo ; Suèi ; Möèi ; Kèmbèi ; Diallon.
+
+2. Mettez ces noms suivants au singulier .
+
+~~Soon~~ <ins>Suon</ins> ; Söön ; Kelan ; Tyinndon ; Balafondolan ; Towvan ; Koon ; Nyinaa ; Samtalan ; Tööyon ; Nyumndan ; Kawvon ; Mialla.
+
+CORRECTION DES EXERCICES :
+
+1. Boltan ; Vuiya ; Sèmtèlan ; Möèiyan ; Pendon ; Hunndan ;Domalan Pemaan ; Tyèi (ou Tyai) ; Hèlle ; Hangullo ; Yangaa ; Bawlan ; Mösiltan ; Suan ; Möön ; Kèmbön ; Diallon.
+
+2. Soei ; Söèi ; Kelèi ; Tyinnde ; Balafondolan ; Towlen ; Koei ; Nyinaa ; Samtaa ; Tööyon ; Nyumndan ; Kawve ; Miallo.
+
+LANGAGE : Expression de la quantité.
+
+Le nombre tel que nous l'avons vu en grammaire ne peut servir qu'à marquer la différence entre un seul (singulier) et plus d'un (pluriel).Mais le kisiei possède d'autres moyens d'expression de la quantité. Aujourd'hui nous verons l'expression de la quantité avec les numéraux cardinaux (que nous apprenons dans la rubrique "comptons"). Ici, on détermine la quantité exacte.
+
+Exemples : I nö Vösiei tö a i nhiun
+Tunndo nö pelon mun hiöölu
+Vanatyieo nö pelon mun miun
+
+REPONDONS AUX QUESTIONS SUIVANTES :
+
+- Vèènè lakolia tyo yè o tongoo nin ? A tyo nvan belehiöölu a nhuèènu
+- Vèèkpè n nö yè Kayeelan ? I nö lan tan Nhömahiöölu
+- Tamba vèènè n nö yè nawva ? ~~A nhiöön~~ <ins>A höölu</ins>
+- Faya vèènè n Pondu yè doma numndo ? I pendun siiliyon kèmè a bele - nhuèènu.
+- Saa vèènè n nö yè vösiei ? I nö vösiei tö a ~~i~~ <ins>la</ins> nhömpum
+- Nyuma vèènè ya i nö yè möön ? A nö mun miun
+- Vèèkpè saa ndu nö yè mun ? Ndii pilè.
+- Vèènè Hali nö yè sèbèdimiaalan ? o nö lan tan nhömaa
+- Kumba vèèkpè n yiinun yè yoei ? I yiinun yoei ndii nhiun
+- Vèènè vanatyieo nö yè söon ? Vanatyieo nö ~~söon~~ <ins>suon</ins> mun nhuèènu.
+
+COMPTONS : Revisons les vingts prémiers nombres étudiés en comptant à rebours (de 20 à 1).
+
+Bidiin (20) tö a nhömahiöölu (19) tö a nhömaa (18) tö a nhömmèw(17) tö a nhömpum(16) tö a nhuèènu (15) tö a hiöölu (14)Tö a Yaa (13) Tö a miun (12) tö a Pilè (11) Tö (10) nhömahiöölu (9) nhömaa (8) nhömmèw (7) nhömpum (6) Nhuèènu (5) Hiöölu (4) yaa(3) miun (2) Pilè (1).
+
+CONJUGAISON : Nous allons reprendre la conjugaison précédente, mais cette fois-ci en ajoutant un complément : mömöö
+
+I tyo mömöö dioo
+A tyo mömöö dioo
+O tyo mömöö dioo
+N tyo mömöö dioo
+La tyo mömöö dioo
+A (nda) tyo mömöö dioo
+
+N.B. : Au présent de l'indicatif, le complément s'inserre entre l'auxiliaire être "tyo" et le verbe. La forme négative s'obtient en ajoutant la particule de négation "le" en fin de phrase.
+
+Exemple : I tyo mömöö dio le
+
+- Reprenez cette même conjugaison à la forme affirmative et à la forme négative, en remplaçant mömöö par bölöö.
+
+---
+
+## LES NOMS COMPOSES :
+
+La langue Kisiei dispose d'assez de possibilité en matière de composition. Pour constituer les noms composés, le kisiei procède par la combinaison d'éléments de même nature (ex. nom+nom) ou de natures différentes (ex. Verbe + Nom ...). Ce qui occasionne la pluralité des noms composés dans cette langue.
+
+En effet, nous distinguons les combinaisons suivantes :
+
+### 1- NOM + NOM = NOM :
+
+Dans ce type de composé, le second nom est complément du premier. Ils s'écrivent soit séparé soit en un seul mot, toujours est-il qu'ils perdent leurs sens premiers pour désigner une nouvelle réalité.
+
+Exemples :
+- Mömöö + Tömndo = Mömötömndo
+- Kisièi + Tyuinndo = Kisèi Tyuinnde
+- Billo + Yömndo = Bilyömndo
+- Benguo + Fönö = Bèngufönö.
+
+### 2- NOM +VERBE = NOM
+
+Exemples :
+- Peo + Kolöö = Peekolaa
+- Yalaa + yööyaa =Yalayöyaa
+- Hölla + heluo = Hölaaheelua
+- Yowvo + yööyaa = Yow yööyaa
+
+### 3- NOM + ADJECTIF = NOM
+
+Exemples :
+- Naa + sianhaa = Naasianhaa
+- Kèwvo + tinhio = Kèw tinhio
+- Söön + tanion = Sööntaanion
+
+### 4- NOM + VERBE + Particule de Négation = NOM
+
+Exemples :
+- Tömndo + työw + le = Tömtyilon
+- Kulle + vaa + le = Kuluvelon
+
+### 5- NOM + Référent de morphème + NOM = NOM
+
+Exemples :
+- Tengiaa + ma + mènndan = Tèngiamamènndo
+- Naa + le + yinnde = Naaleyinndo
+- Kelaa + ma + nyumndan = Kelamanyumndan
+
+### 6- VERBE + ADVERBE = NOM :
+
+Exemple : Simndan + latyi = simlatyinöö
+
+### 7- NOM + ADVERBE = NOM :
+
+Exemples : lö + tyièi = Lötyièyo ; Poo + pèi = Popèi.
+
+### 8- NOM + Monème Fonctionnel + NOM = NOM :
+
+Exemples:
+- Työwvo + la + baa = Työwlabaa
+- Söön + ma + Sinndè = Söönmasinndön
+
+N.B. : Des composés sont obtenus dans les noms propres en ajoutant au Prénom l'évènement dominant qui a caractérisé sa naissance.
+
+Exemples :
+- Tamba löö = qui est né le jour du marché (Hebdomadaire).
+- Fara yian = né au moment de la Période de soudure.
+- Saa muuloo = né au moment de la Période des impôts.
+
+Exercice : Soulignez les noms composés contenus dans les phrases suivant suivantes :
+
+- Vanpiaandua tyo Kuluvelon kili
+- Pomböö Pisul a mömötömndo
+- Nde pendu yalayööyaa le yeemaa nun.
+- Lötyièiyo kel Nyuma o vawvo tyoo
+- Vanlaandua köè samasanalea yööya
+- Fala tyo pisultan a teengiaamamènndo
+- Kumba ~~köl~~ <ins>töl</ins> tömtyilon o tyièi nin.
+
+CORRECTION DE L'EXERCICE : Les mots à souligner sont : Kuluvelon ; mömötömndo ; yalayööyaa ; lötyièiyo ; samasanalea ; Teengiaamamènndo ; tömtyilon ;
+
+LANGAGE : L'expression de la quantité (suite)
+
+Nous allons maintenant voir l'expression de la quantité avec les adverbes de quantité qui s'emploient si l'on n'a pas une idée exacte de la quantité.
+
+Ces adverbes sont : ~~Taw~~ <ins>Tay</ins>, Hölöli, ~~tyapooli~~, (beaucoup) ; böö (beaucoup, trop) ; nyèenbö ; nyèpömbö ; tyobe (un peu) ; siaama (beaucoup).
+
+- Ke ya sukalaa <u>nyèpömbö</u>
+- Yöngu ndu hèlle <u>nyèmbö</u>
+- N nö nawva <u>taw</u>
+- Doma nuu pendun siliiyon <u>~~tyapooli~~</u> <ins>tau</ins>
+- A nö <u>möön</u> <u>~~siaama~~</u> <ins>tay</ins>
+- O nö sèbèla <u>böö</u> le
+- Vanatyieo nö tyinndon <u>taw</u>
+- Lakolia <u>böö</u> a tyo <ins>o</ins> tongo nin te.
+- Pomböö hoo de bölèi <u>hölöbi</u>
+- Vo Fanta työèiyan <u>tyobe</u>
+- Lakolia bööböö a köènnun.
+
+- INTERVERTISSEZ LES ADVERBES AU NIVEAU DES PHRASES :
+
+Exemples : I nö volion taw - I nö volion nyèembö
+O no sèbèla böö le - O nö sèbèla siaama le.
+
+COMPTONS : Lisez ces chiffres en kisiei :
+
+20 - 9 - 14 - 10 - 17 - 1 - 12 - 5 - 18 - 2 - 7 - 11 - 3 - 11 - 3 - 15 - 4 - 16 - 8 - 13 - 16 - 19 .
+
+CONJUGAISON : Le verbe Dioo au Passé composé de l'indicatif.
+
+| FORME AFFIRMATIVE | FORME NEGATIVE. |
+| --- | --- |
+| I de | I di le |
+| A de | A di le |
+| O de | O di le |
+| N de | N di le |
+| La de | La di le |
+| A de | A di le. |
+
+---
+
+## LES NOMS DERIVES :
+
+Comme la composition ; la dérivation est un procédé de formation de mots nouveaux. Elle consiste au radical soit un préfixe, soit un infixe, soit un suffixe en vue d'un élargissement de sens.
+
+Le Kisiei comme beaucoup de langue Africaine, utilise également ce procédé de dérivation. Nous distinguons deux groupes de dérivatifs en kisiei.
+
+- LES DERIVATIFS PURS : qui apparaîssent le plus souvent suffixés aux lexèmes dont ils élargissent le sens, et
+- LES DERIVATIFS LEXICAUX qui sont généralement préfixés.
+
+### I- LES DERIVATIFS PURS :
+
+Ils sont au nombre de sept (7) ce sont :
+
+Yèi ou Yai, le, ei - èi, nöö, -i... ei, len et ndöö
+
+#### 1°)- LE DERIVATIF : yèi ou yai
+
+Toujours suffixé au radical, il exprime l'état, la qualité ou le fait ; et sert à former des noms abstraits.
+
+Exemples :
+- Paanduyèi = Paandu + yèi
+- Tyuaamböyèi = Tyuaamböö + yèi
+- Vanayèi = vana + yèi
+- Felengoyèi = felengoo + yèi.
+
+#### 2°)- LE DERIVATIF : LE
+
+Il est le seul qui se préfixe parmi les dérivatifs purs. Ce dérivatif s'ajoute au numéraux pour exprimer la mesure ou la répétition. (ce, de 1 à 9).
+
+Exemples :
+- Lepilè = le + Pilè
+- Leyaa = le + yaa
+- Lenhömpum = le + nhömpum.
+
+#### 3°)- LE DERIVATIF : Nöö
+
+Il est très productif dans la langue. Il sert à former des noms désignant :
+
+- L'origine ou la nationalité.
+
+Exemples : Labe<u>nöö</u>, Bofanöö, Kankannöö, Kisidunöö, Kpekedunöö, Layinènöö, Afilikinöö, laabelanöö, Maalinöö.
+
+- Les Noms de Famille .
+
+Exemples : Dufangadunöö, Tundufendunöö, Kambadunöö, Falankadunöö Sosoadunöö,
+
+- Les Noms d'Agent.
+
+Exemples : Kööfanöö, Kaandennöö, Sumnöö, Dötölönöö.
+
+- Le Locuteur de telle ou telle Langue
+
+Exemples : Fèènènöö, Kisinöö, Sosonöö, Tömènöö, Lelnöö.
+
+#### 4°)- LE DERIVATIF : ndöö
+
+Suffixé aux numéraux cardinaux, il sert à former des adjectifs numéraux ordinaux.
+
+Exemples : Pilèndöö, Töndöö, Kèmèndöö, Bidinndöö.
+
+#### 5°)- LE DERIVATIF : i....ei
+
+Ce dérivatif qui se présente sous la forme discontinue, s'ajoute aux radicaux pour former des noms d'état.
+
+Exemples : <u>I</u>leeveeleev<u>ei</u>, Ilaasilaasiei, Ilafilafiei, Ilömösösöei.
+
+#### 6°)- LE DERIVATIF : ei - èi (nde quand la finale du radical est nasale)
+
+Il s'ajoute aux noms de lieux pour former les noms de Parlers de langues. Exemples : Sosoei, Fulèi, Kisiei, Kankande, Siyilinde, Sayaninnde, Tove, Luande.
+
+#### 7°)- LE DERIVATIF : len (ten - den)
+
+Il sert à former les diminutifs
+
+Exemples :
+- Tyualen = Tyuaa + len
+- Poombölen = Poomböö + len
+- Falten = Fallo + len
+
+Outre cette valeur de diminutif, "len" sert aussi à former :
+
+- des noms marquant la qualité, l'état ou l'action.
+
+Exemples :
+- Masalen = Masaa + len
+- Yalalen = Yalanöö + len
+- Yaamöölen = Yaamöö + len.
+
+- Des noms qui expriment la culture d'une communauté socio-linguistique.
+
+Exemples : Fèènèlen, Kisilen, Sosolen, Tömèlen.
+
+- Dans le cas où il est suffixé aux noms d'animaux, "len" exprime la qualité ou le défaut en caractérisant le comportement social de certains hommes.
+
+Exemples :
+- Nyaayoo + len = Nyaayilen
+- Tömndo + len = Tömnden
+- Tunndo + len = Tunnden
+- Sanndo + len = Sannden
+- Völöö + len = Völölen.
+
+EXERCICES :
+
+1- Soulignez d'un trait les noms dérivés contenus dans le texte ci-dessous.
+
+Bangula könökilinöö tiya kpoese. Kamanö yiya ndu o köfanöö lo tyièi nin. Vannda tyo kisiei söèi. Mialltui i tyelen te, mèè sosoei a puluei. Tyuambölen le hum yil ndu a bèèlen. Mbo mulin , mbo fanda ndu. Mi Bangula sina maa dièèmuyèi tyo kisi a mial te, a biilu nda biilu ndu vo.
+
+2- Séparez d'un tiret les radicaux des dérivatifs dans les mots suivants :
+
+Exemple : Könökilinöö = Könökili - nöö
+
+Sindèyèi ; lehiöölu ; Mamunöö ; ilafilafiei ; kambadunöö ; Sosolen ; Könökiliei ; Dötölölen ; Kpèlèsènöö ; Fulanöö ; yaamöölen ; lenhömmèw ; Masalen ; yaandöö ; Tömèlen ; Mamuei ; Nyaayilen ; kaasonyèi.
+
+CORRECTION DES EXERCICES :
+
+1- Les noms à souligner sont :
+
+Könökilinöö, Kamanöö, Köfanöö, Kisiei, Tyuambölen, sosoei, Puluei, Dièèmuyèi.
+
+2- Sindè - yèi ; le - hiöölu ; mamu - nöö ; i - lafilafi - ei ; Kambadu - nöö ; Soso - len ; Könökili - ei ; Dötölö - len ; Kpèlèsè - nöö ; Fula - nöö ; Yaamöö - len ; le - nhömmèw ; masa - len ; yaa - ndöö ; Tömè - len ; Mamu - ei ; Nyaayi - en ; Kaason - yèi.
+
+LANGAGE : Apprenons les jours de la semaine.
+
+- Sayèiyo
+- Tambèiyo
+- Fayèiyo
+- Falèiyo
+- Nyumèiyo
+- Halèiyo
+- Kundèiyo.
+
+COMPTONS : de 10 en 10 jusqu'à 100.
+
+| 10 | 20 | 30 | 40 | 50 |
+| --- | --- | --- | --- | --- |
+| Tö | Bidiin | Beleyaa | Belehiöölu | Belenhuèènu |
+
+| 60 | 70 | 80 | 90 | 100 |
+| --- | --- | --- | --- | --- |
+| Belenhömpum | Belenhömmèw | Belenhömaa | Belenhömahiöölu | Kèmè |
+
+CONJUGAISON : Reprenons notre dernière conjugaison avec un complément : "mangolten".
+
+| FORME AFFIRMATIVE | FORME NEGATIVE. |
+| --- | --- |
+| I de mangolten | I di mangolten te |
+| A de mangolten | A di mangolten te |
+| O de mangolten | O di mangolten te |
+| N de mangolten | N di mangolten te |
+| La de mangolten | La di mangolten te |
+| A (nda) de mangolten | A (nda) di mangolten te. |
+
+N.B. : Au passé composé le complément se place toujours après le verbe.
+
+- Pour la forme négative, lorsque la finale du mot qui précède la particule de négation "le" est une voyelle nasale ou une consonne, "le" devient "te".
+
+---
+
+## LES NOMS DERIVES (SUITE)
+
+### II- LES DERIVATIFS LEXICAUX.
+
+Ils entrent dans la constitution de différents mots, élargissent leurs sens et perdent leur autonomie habituelle. Ils sont au nombre de cinq en Kisiei. Ce sont : "Dènè", "Köl", "Nyè", "Ba" qui servent à former des noms abstraits, et "Vana" qui s'ajoute aux lexèmes pour donner des noms d'agents.
+
+#### 1- LE DERIVATIF "Dènè".
+
+Il vient (transposé) de Dènöö qui signifie : acte, phénomène, évènement.
+
+Exemples :
+- Dènèkèndöö
+- Dènèsinaa
+- Dènèpalaa
+- Dènèvööndo.
+
+#### 2- LE DERIVATIF "Köl".
+
+Il vient de Köllo qui signifie le coeur.
+
+Exemples :
+- Költuwvo
+- Kölvesèiye
+- Kölvööndo
+- Kölkalno
+- Kölfulaa
+- Költambèiyo.
+
+#### 3- LE DERIVATIF "Nyè"
+
+Il est transposé du lexème nyöö qui signifie : chose, objet.
+
+Exemples :
+- Nyèsölaa
+- Nyèkèsiaa
+- Nyèdiaa
+- Nyètosaa
+- Nyèkèndöö
+- Nyènyuloo.
+
+#### 4- LE DERIVATIF "Ba".
+
+Il vient du lexème baa qui signifie : la main.
+
+Exemples :
+- Bahavèiyo
+- Basièndaa
+- Bahiavaa
+- Batiuvaa
+- Bamello
+- Bakèndöö.
+
+#### 5- LE DERIVATIF "Vana".
+
+Il est transposé du lexème "Vanndö" qui signifie : quelqu'un.
+
+Exemples :
+
+| | |
+| --- | --- |
+| Vanavaa | Vanayööyaa |
+| Vanakolaa | Vanasööa |
+| Vanavallo | Vanavilèiyo |
+
+REMARQUES:
+
+1- Il arrive quelquefois que le dérivatif lexical "Nyè" conserve son autonomie, dans ce cas il s'écrit séparement.
+
+Exemples : Nyè fawfawvo ; Nyè lelènndo
+
+2- Il faut signaler que ; pour des besoins d'ordre stylistique, la langue procède quelquefois par redoublement d'unités c'est-à-dire par reduplication.
+
+- Malöö ------→ Mèlimèlio
+- Kiolöö ------→ Kilikilio
+- Kpèlun ------→ Kpèlunkpèlun
+- Kolöö ------→ Kolikolio
+- leve ------→ leveleve
+- Kpen ------→ Kpenkpen
+- Duen ------→ Duenduen.
+
+EXERCICE. Relevez les noms dérivés contenus dans les phrases suivantes, et séparez d'un trait vertical le radical du dérivatif.
+
+- Tamba de mömöö a bamèllo
+- Faya köè vananyètyaa kööli
+- Vanayunguo soli tyo ni
+- Bahavèiyo del la haw
+- Seku nö böö Kölvesèiye
+- Kölkaluo o nö ni tei
+- Nyuma sinnu vanakolaa ma möèi
+- Vanavallo Kisinöö tyo ni.
+
+CORRECTION : Les noms dérivés contenus dans la phrases sont les suivants :
+
+Bamèllo : Ba/mèllo ; Vananyètyaa : van/nyètyaa ; Vanayunguo : vana/yunguo ; Bahavèiyo : Ba/haveiyo ; Kölvesèiye : Kol/vesèiyo ; Kölkaluo : Köl/kaluo ; Vanakolaa : Vana/kolaa ; Vanavallo :vana/vallo Kisinöö : Kisi/nöö.
+
+LANGAGE : En société :
+
+- Seku isè !
+- Mba Kumba isè !
+- A yangaa kèndè
+- Tanatana le, <u>mèi le num</u> !
+- I tyo haw <u>fön</u> te
+- yèè tyo yè num nèi ?
+- Diallon tyo ya nèi ni
+- A tiiya lobitaa ?
+- Lon ya i tyo fula ni
+- Vè ! a sola koovan ?
+- i söla
+- Maanu, maa Hala yolaa
+- Niilu kèndu Seku.
+- i tyo sun tiiya num yilöö.
+
+COMPTONS : a) Comptons à rebours de 10 en 10 de 100 à 10.
+
+Kèmè (100) ; Belenhömahiöölu (90) ; Belenhömaa (80) ; Belenhömmèw(70) Belenhömpum (60) ; Belenhuèènu (50) ; Belehiöölu (40) ; Beleyaa(30); Bidiin (20) ; Tö (10).
+
+b) Faites l'inverse et inversement sans vous lasser jusqu'à une maîtrise et une prononciation parfaite.
+
+CONJUGAISON : Nous allons à présent voir le futur avec notre même verbe : "Dioo".
+
+| FORME AFFIRMATIVE | FORME NEGATIVE. |
+| --- | --- |
+| I dianin | I diinin te |
+| A dianin | A diinin te |
+| O dianin | O diinin te |
+| N dianin | N diinin te |
+| La dianin | La diinin te |
+| A (nda) dianin | A (nda) diinin te |
+
+---
+
+## LES FONCTIONS DU NOM :
+
+### LA FONCTION SUJET :
+
+En Kisiei, un nom, un pronom ou un groupe de mots peut jouer (assumer) la fonction sujet. On dit qu'un nom, un pronom ou un groupe de mots assume la fonction sujet, lorsqu'il fait ou subit l'action exprimée par le verbe.
+
+Exemples :
+1. Faya hin o Kafoo
+2. Fallo Köè o Pangaa
+3. O vaa maalon
+4. A höönu Hunndo
+5. Köofanöö wösi diinndö vosan Dièlèn
+
+Dans ces exemples, les mots soulignés de deux traits assument la fonction de sujet par rapport aux verbes qui sont soulignés d'un trait. D'où par exemple : Faya est en fonction sujet par rapport à "hin".
+
+O est en fonction sujet par rapport à vaa
+
+Köfanöö vösi diinndö est en fonction sujet par rapport à "Vosan".
+
+#### COMMENT RECONNAIT-ON LE SUJET DU VERBE ?
+
+1°) Le sujet du verbe est toujours placé avant le verbe.
+
+2°) Pour trouver le sujet du verbe on peut poser l'une des questions suivantes :
+
+- Nèènè + verbe + yè s'emploie pour les personnes
+- Yèènè + verbe + yè s'emploie pour les choses et les animaux.
+
+Mais lorsque la finale du verbe est latérale,"yè"devient "lè". Toutefois, après yè on peut ajouter le reste de la phrase. Aussi, pour un soucis d'économie les questions peuvent être réduites en :
+
+nèè + verbe ou yèè + verbe + yè (formes plus courantes).
+
+Exemples :
+
+1- <u>Fala Kiimbu Kolaa</u>
+
+nèènè kiimbu yè ? ou Nèè kiimbu yè kolaa ? Rep.Fala ; Fala = sujet de "Kiimbu"
+
+2- Nyaayoo bi bèlöö
+
+Yèè bi yè ? yèè bi yè bèlöö ? Nyaayoo ; Nyaayoo = sujet de "bi".
+
+3- Lènndo boli Tamba
+
+Yèèboli yè Tamba ? Lènndo ; Lènndo = sujet de boli
+
+REMARQUE : Nèènè ou nèè deviennent nèènèa ou nèèa lorsqu'il s'agit d'un na pluriel.
+
+Exemples : Lakolia hin
+
+nèènèa hin yè ou nèèa hin yè ? Lakolia
+
+Parce que lakolia fait au singulier lakolinöö.
+
+EXERCICE : Dans les phrases ci-dessous, soulignez de deux traits le sujet des verbes soulignés.
+
+1. Tamba <u>sungu</u> yambalen
+2. Domaa Fatewa <u>del</u> o pee lo
+3. Saa <u>Ke</u> lefu ndö kpeloo
+4. Fanta <u>töö</u> volölan
+5. O kafoo Faya <u>Köè</u> ni
+6. Hoeiye <u>tyua</u> sèböö
+7. Möèi he nde <u>Pendu</u> ni
+8. Mömbillo <u>del</u> o nèi Masantaa
+9. Kumba <u>Höönu</u> hunndo
+
+CORRECTION :
+
+1. Nèè sungu yè yambalen ? Tamba sungu ni : tamba est le sujet de sungu .
+2. yèè del lè o pee lo ? Domaa Fatewa del ni : Domaa Fatewa sujet de Del.
+3. Nèè ke yè lefu ndö kpeloo ? saa ni : saa sujet de ke.
+4. Nèè too yè volölan ? Fanta töö ni : Fanta est le sujet de töö
+5. Nèè köè yè o kafoo ? Faya köè ni : Faya sujet de köè
+6. yèè tyua yè sèböö ? hoeiye tyua sèbö ni : Hoeiye sujet de tyua
+7. Nèè Pendu yè möèi ? Nde pèndu ni : Nde sujet de Pendu.
+8. Yèè del lè o nèi masanta ? Mömbillo ni : Mömbillo sujet de del
+9. Nèè höönu yè hunndo ? kumba höönu ni : Kumba sujet de höönu
+
+LANGAGE AU DISPENSAIRE.
+
+- Dötölö isè !
+- Mba isè fallo !
+- I tyo haw kèndia le
+- yè tyo yè num nèè ?
+- Demboo tyo ya nèi ni.
+- Tuma köè o kandun yè num ?
+- O tyo haw lö pilè
+- Kooma sun yè n va yè tyuaa ?
+- Bilta makisilan ya va kolöö ni
+- Kö a nöö maa kö nua
+- I tyo söndan lediindo hoo le
+- Kö tyua koovan man haw, siödii
+- Mi kuè ya köè yè a lan
+- i kèi manum le sinaa nyè tyo num
+- Nuvali Dötölö .
+
+COMPTONS : Aux dizaines, ajoutons les unités.
+
+| 21 | 22 | 33 | 34 |
+| --- | --- | --- | --- |
+| Bidiin a Pilè | Bidiin a mium | Beleyaa a yaa | Beleyaa a hiöölu |
+
+| 45 | 66 | 77 |
+| --- | --- | --- |
+| Belehiöölu a nhuèènu | Belenhömpum a nhömpum | Belenhommew a nhömmèw |
+
+N.B. : L'adjonction des unités aux dizaines a lieue grâce à la particule connective "a" qui assure la liaison.
+
+- Procéder de la même manière (comme on l'a fait de 10 à 20) et compter de 1 à 100.
+
+CONJUGAISON : Le verbe "Dioo" au futur avec un complément: bölöö.
+
+FORME AFFIRMATIVE.
+
+I dianin bölöö
+A dianin bölöö
+O dianin bölöö
+N dianin bölöö
+La dianin bölöö
+A (nda) dianin bölöö
+
+Reprénez cette même conjugaison mais à la forme négative..
+
+---
+
+## LES FONCTIONS DU NOM. (Suite).
+
+### LA FONCTION COMPLEMENT D'OBJET.
+
+La fonction complément d'objet est assumée par un nom de personne,d'animal ou de chose, sur lequel porte l'action exprimée par le verbe. En d'autres termes, le complément d'objet est celui qui subit l'action exprimée par le verbe. Nous distinguons deux sortes de complément d'objet .
+
+Le complément d'objet est :
+
+- Direct, quand le mot qui assure cette fonction est directement relié au verbe.
+
+| Exemples | |
+| --- | --- |
+| Saa Kèolu <u>Yömndo</u> (C.O.D) | Yömndo, mösillo,Domaa sont des C.O.D. des verbes kiolu, tyua et töö. |
+| Hoeiyè tyua <u>mösillo</u> | |
+| Sia töö <u>Domaa</u> | |
+
+- Indirect lorsque le mot qui assume cette fonction est relié au verbe par la préposition "a" qui signifie "avec".
+
+| Exemples | |
+| --- | --- |
+| Fallo Nyaanun a <u>sèböö</u> (C.O.I.) | Sèböö, Yunguo et Dèndöö sont complément d'objet indirect des verbes Nyaanun, Köè et del car ils subissent l'action exprimée par les verbes. |
+| Faya Köè a <u>yunguo</u> | |
+| Tamba del a <u>dèndöö</u> | |
+
+REMARQUE : Lorsque l'énoncé est au présent ou à l'imparfait de l'indicatif, le complément d'objet direct se placer entre l'auxilliaire tyo et le verbe.
+
+Exemples : Seku tyo <u>yömndo</u> kiolöö
+Kumba ba mömöö yawvo
+
+- Pour trouver le complément d'objet direct on pose la question suivante :
+
+Yè + Sujet + Verbe + Yè ou Nè + Sujet + Verbe + Yè (Pour les personnes)
+
+Exemples :
+
+Hali pèl sianio - yè hali pèl lè ? Sianio ; sianio = C.O.D.
+Sia töö Domaa - Yè sia Töö yè ? Domaa ; Domaa = C.O.D.
+Tunndo kel Fala - nè tunndo kel lè , Fala ; Fala = C.O.D
+
+- Pour trouver le Complément d'objet indirect, on pose la question suivante :
+
+a + yè + sujet + verbe + yè ou a + nè + sujet + verbe +yè
