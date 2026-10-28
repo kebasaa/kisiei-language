@@ -52,7 +52,7 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 
 | Source | Transcription | Conversion |
 | --- | --- | --- |
-| Kissie fondamental (1979) | Pilot: title page, table of contents, avant-propos (PDF pp. 1–8 of 189) | Not started |
+| Kissie fondamental (1979) | In progress: typescript pp. 1–24, up to the simple noun (PDF pp. 1–28 of 189) | Not started |
 
 ### Transcription conventions
 
