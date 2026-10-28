@@ -13,9 +13,11 @@ Le kisiei forme beaucoup de noms nouveaux en associant deux mots ou plus. On en 
 | nom + référent + nom | {{kelamaɲumndan\|r}} « promenade nocturne » | | |
 | nom + mot de liaison + nom | {{cɔwlabaa\|r}} « bagarre » (guerre + de + main) | | |
 
+Le type *nom + référent + nom* correspond au modèle général décrit pour le kissi du Sud, où le second nom est précédé de son propre pronom de classe [[(Childs1995, p. 209-210)]] : dans *kelamaɲumndan*, *ma* est le pronom de classe de {{ɲumndan}} « nuit ». Le kissi du Sud forme aussi des composés à partir d'un verbe ou d'un adjectif tiré d'un verbe [[(Childs1995, p. 211)]].
+
 ## Composés de la Bible
 
-La Bible crée de nombreux composés pour les réalités religieuses, juridiques ou techniques. Ils sont presque toujours écrits **avec traits d'union** entre leurs parties :
+La Bible crée de nombreux composés pour les réalités religieuses, juridiques ou techniques ; le kissi du Sud nomme de même les objets nouveaux par des composés [[(Childs1995, p. 210-211)]]. Ils sont presque toujours écrits **avec traits d'union** entre leurs parties :
 
 | Composé | Parties | Sens |
 | --- | --- | --- |
@@ -39,7 +41,10 @@ Les composés anciens et très courants s'écrivent **en un seul mot** :
 !!! rule "Règle d'écriture"
     - Un composé **figé et courant** s'écrit en un seul mot ({{vanapɔnɔɔ}}).
     - Un composé **descriptif**, dont chaque partie garde son sens, s'écrit avec **traits d'union** ({{vana-solia-lasálàá}}).
-    - Le premier élément est à la **forme radicale** ({{fuɲa}}-, non *fuɲaa*-) ; seul le dernier porte la terminaison de classe et le pluriel ({{vanaa-solia-lasálàá}} « les prêtres »).
+    - Au singulier, le premier élément est à la **forme radicale** ({{fuɲa}}-, non *fuɲaa*-).
+    - Au pluriel, c'est le **premier élément** qui prend la marque du pluriel : {{vanaa-solia-lasálàá}} « les prêtres » [[GEN.47.22]], {{fuɲaa-mamaa}} « ancêtres » [[GEN.10.32]] ; dans certains composés, chaque élément la reçoit : {{cɛila-kolala-toandaalan}} « tentes » [[GEN.13.5]].
+
+En kissi du Sud aussi, c'est le premier nom, tête du composé, qui marque le nombre par son pronom de classe, et sa terminaison passe à la fin du composé [[(Childs1995, p. 209-210)]].
 
 ## Noms propres composés
 

@@ -49,13 +49,13 @@ Dans le récit, le pronom sujet se combine avec le marqueur **mi** (« et alors 
 | {{má}} | *mi* + *a* « et ils/elles » | {{má kuumbuu}} « et ils couvrirent » [[GEN.9.23]] |
 | {{mí n}}, {{mí la}}, {{mí ya i}} | *mi* + autre pronom | {{mí n komal Esau}} « et nous avons rencontré Ésaü » [[GEN.32.7]] |
 
-Les formes à ton bas {{mò}}, {{mà}}, {{mì}} marquent le **subjonctif** (« pour qu'il… ») ; voir [Temps, aspects, modes](../verbs/tense-aspect-mood.md) et [Tons](../../orthography/tone.md).
+En kissi du Sud, la même fusion donne *mi, ma, mbo, miŋ, mila, ma* [[(Childs1995, p. 75, 107)]]. Les formes à ton bas {{mò}}, {{mà}}, {{mì}} marquent le **subjonctif** (« pour qu'il… ») ; voir [Temps, aspects, modes](../verbs/tense-aspect-mood.md) et [Tons](../../orthography/tone.md).
 
 Le pronom indépendant se combine aussi avec la voyelle *oo* / *aa* du passé (1979 : *ndu oo*, *ya oo* [[(Keita1979, p. 87)]]). La Bible [[(BKG)]] l'écrit en un seul mot, avec tons : {{ndóò}} « il, elle (avait) », {{ndáà}} « ils, elles (avaient) », {{yáà}} « je (avais) » : {{yɔmndo ndu pilɛ bɛɛ ndóò vil-lɔ o lɛŋnden coo le}} « aucun arbre n'avait encore poussé sur la terre » [[GEN.2.5]].
 
 ## Le pronom indépendant comme sujet
 
-Le pronom indépendant peut remplacer le pronom sujet pour **mettre en relief** la personne [[(Keita1979, p. 86)]] : *Ndu yɔngu ya ni* « C'est lui qui me l'a donné ». Dans la Bible : {{Nda yɔŋnun kuubaa}} « Ce sont eux qui devinrent des héros » [[GEN.6.4]].
+Le pronom indépendant peut remplacer le pronom sujet pour **mettre en relief** la personne [[(Keita1979, p. 86)]] : *Ndu yɔngu ya ni* « C'est lui qui me l'a donné ». Dans la Bible : {{Nda yɔŋnun kuubaa}} « Ce sont eux qui devinrent des héros » [[GEN.6.4]]. Le pronom indépendant est souvent suivi du pronom sujet : {{Niaa pila bɛɛ la sina}} « vous-mêmes, vous savez » [[GEN.31.6]]. Le kissi du Sud emploie les deux mêmes tournures, pour l'insistance ou le contraste [[(Childs1995, p. 105-106)]].
 
 !!! note "Comparaison"
-    Des pronoms très proches figurent dans la grammaire du kissi [[(Childs1995)]] et dans la notice Wikipédia sur le kissi du Nord : sujets *i, a, o, n, la, aa* ; compléments *ya, nɔm, ndu, na(a), nia(a), ndaa*. La notice écrit *y* pour « je » devant voyelle et *aa* pour « ils » ; la Bible écrit {{i}} et {{a}}.
+    En kissi du Sud, les pronoms sujets sont *í, à, ò, ŋ̀, là, à* et les pronoms compléments *yá, nùm, ndú, náá, ɲá, ndá* [[(Childs1995, p. 104-105)]] : les sujets ont un ton bas (sauf *í* « je »), les compléments un ton haut. Les écarts avec la Bible tiennent surtout à la graphie (*ŋ̀* pour {{n}} « nous ») et à la 2e personne du pluriel (*ɲá* pour {{niaa}}). La notice Wikipédia sur le kissi du Nord donne des formes proches ; elle écrit *y* pour « je » devant voyelle et *aa* pour « ils », là où la Bible écrit {{i}} et {{a}}.

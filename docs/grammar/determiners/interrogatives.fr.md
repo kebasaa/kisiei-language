@@ -14,21 +14,23 @@ Les règles de cette page sont dégagées des textes de la Bible en kisiei [[(BK
 | {{vɛ̀ɛ̀}} | est-ce que ? comment ? | {{Vɛ̀ɛ̀ o co kɛndɛ lon}} « Est-ce qu'il va bien ? » [[GEN.29.6]] |
 | {{bàà}} | est-ce que… vraiment ? | {{bàà mà tɛɛmbuu nda}} « vas-tu vraiment les détruire ? » [[GEN.18.24]] |
 
+Les mêmes mots existent en kissi du Sud : *kùɛ́ɛ́* « où », *nɛ̀ɛ́* « qui », *yɛ̀ɛ́* « quoi », *wɛ̀ɛ́* « comment, combien » [[(Childs1995, p. 111, 264)]] ; le *w* initial y correspond au *v* de la Bible ({{vɛ̀ɛ̀}}).
+
 ## Construction de la question
 
 ### Questions partielles (qui, quoi, où…)
 
 1. Le mot interrogatif se place **en tête** de la phrase, ou juste après le nom qu'il détermine ({{Dɛnɛ yɛɛ}} « quelle chose », {{Langbanɔ kuɛɛ}} « quel homme »).
-2. Il est souvent suivi de la particule {{nɛ}}, facultative et sans changement de sens notable (de même en kissi du Sud [[(Childs1995, p. 144)]]) : {{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? », {{Yɛɛ nɛ kendu yɛ a Mɛlɛka}} « Qu'y a-t-il de trop difficile pour le Seigneur ? » [[GEN.18.14]].
+2. Il est souvent suivi de la particule {{nɛ}}, facultative et sans changement de sens notable (de même en kissi du Sud [[(Childs1995, p. 144)]]) : {{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? », {{Yɛɛ nɛ kendu yɛ a Mɛlɛka}} « Qu'y a-t-il de trop difficile pour le Seigneur ? » [[GEN.18.14]]. En kissi du Sud, cette particule (*-nɛ́*) est facultative et ne change pas le sens [[(Childs1995, p. 111, 265)]].
 3. Le verbe est suivi de la particule **{{yɛ}}**, qui ferme la question : {{n co yɛ}}, {{n tosa yɛ}}. Au futur, {{yɛ}} s'attache à *-nin* : {{yɛnin}} ({{vɛ̀ɛ̀ ya sina yɛnin}} « comment le saurai-je ? » [[GEN.15.8]]).
 
 Le pronom sujet prend la forme de la série des relatives : {{n}} « tu », {{ya}} « je », {{naa n}} « nous », {{niaa}} « vous » ({{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? » ; {{kuɛɛ niaa fula yɛ}} « d'où venez-vous ? » [[GEN.29.4]]). Voir [Propositions relatives](../pronouns/relative.md).
 
-La particule de fin de question est déjà décrite en 1979 (*yè*, « particule qui apparaît après le verbe ») [[(Keita1979, p. 67)]].
+La particule de fin de question est déjà décrite en 1979 (*yè*, « particule qui apparaît après le verbe ») [[(Keita1979, p. 67)]]. Le kissi du Sud a la même particule *yɛ̀*, placée après le verbe conjugué ; elle manque quand la proposition n'a pas de verbe conjugué [[(Childs1995, p. 111, 265)]].
 
 ### Questions totales (oui ou non)
 
-La question totale s'ouvre par {{vɛ̀ɛ̀}} : {{Vɛ̀ɛ̀ a yeema mì la kɔɛ niaa langbanɔɔ ho}} « Veux-tu partir avec cet homme ? » [[GEN.24.58]]. Sans mot interrogatif, seule la montée de la voix marque la question ; à l'écrit, le point d'interrogation suffit [[(Keita1979, p. 69)]].
+La question totale s'ouvre par {{vɛ̀ɛ̀}} : {{Vɛ̀ɛ̀ a yeema mì la kɔɛ niaa langbanɔɔ ho}} « Veux-tu partir avec cet homme ? » [[GEN.24.58]]. Sans mot interrogatif, seule la montée de la voix marque la question ; à l'écrit, le point d'interrogation suffit [[(Keita1979, p. 69)]]. En kissi du Sud, c'est le cas général : la question totale ne se distingue de l'affirmation que par l'intonation montante [[(Childs1995, p. 264)]].
 
 {{bàà}} introduit une question qui attend une réponse négative ou exprime l'étonnement [[GEN.20.4]].
 

@@ -45,7 +45,7 @@ L'ancienne orthographe ne notait pas les tons. En réécrivant, on ajoute les ac
 
 ### 3. Les relatifs et les référents
 
-L'orthographe de 1979 écrit les relatifs comme des mots séparés (*Domaa n pendu vo sèsa*) [[(Keita1979, p. 88-89)]]. La Bible rattache le référent au dernier mot du groupe par un trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Coupure des mots](word-division.md).
+L'orthographe de 1979 écrit les relatifs comme des mots séparés (*Domaa n pendu vo sèsa*) [[(Keita1979, p. 88-89)]]. La Bible rattache le référent au dernier mot du groupe par un trait d'union ({{kɔngɔ vesɛi fula-o}}). La description du kissi du Sud analyse elle aussi cette marque comme une terminaison placée à la fin de la relative [[(Childs1995, p. 285-286)]]. Voir [Coupure des mots](word-division.md).
 
 ### 4. Fautes et variantes du manuel
 

@@ -13,7 +13,7 @@ Les indéfinis désignent les êtres et les choses de façon vague : « un certa
 | {{kpede}} | tous (sans exception) | {{yowva kpede}} « tous les oiseaux » [[GEN.8.17]] |
 | {{faw}} | tous, entièrement | {{visia bɛndua a à pɔmbɔa faw}} « les bêtes grandes et petites, toutes » [[GEN.8.17]] |
 
-{{celen}} ne varie ni en classe ni en nombre ({{po celen}}, {{cuavaa celen}}).
+{{celen}} ne varie ni en classe ni en nombre ({{po celen}}, {{cuavaa celen}}). {{pum}} correspond à l'adjectif *pùm* « quelque » du kissi du Sud [[(Childs1995, p. 127)]].
 
 ## « Chaque », « n'importe quel » : *X oo X*
 
@@ -23,7 +23,9 @@ Le nom répété, relié par {{oo}}, signifie « chaque, tout » :
 - {{Visi oo visi}} « chaque animal » [[GEN.2.19]] ;
 - {{fonda oo fonda}} « partout, en tout lieu » [[GEN.20.13]].
 
-Le nom est à la forme radicale ; {{oo}} s'écrit séparé.
+Le nom est à la forme radicale ; {{oo}} s'écrit séparé. Plusieurs noms de temps prennent un préfixe *i-* et d'autres noms le pronom de classe *le-* : {{idii oo idii}} « chaque matin » [[2KI.16.15]], {{icɔl oo icɔl}} « chaque soir » [[1KI.17.6]], {{ipaangu oo ipaangu}} « chaque mois » [[1KI.5.28]], {{lepola oo lepola}} « chaque tribu » [[DEU.1.23]].
+
+La même construction (« distributif ») est décrite pour le kissi du Sud : nom répété autour d'une particule *ó*, avec le pronom de classe préfixé hors de la classe *o*, et un préfixe *ì-* devant certains noms de temps [[(Childs1995, p. 197-198)]].
 
 ## « Quelqu'un, quelque chose » : redoublement
 
@@ -51,4 +53,4 @@ Dans la description de 1979, cette série s'écrit *pilöö*, *pilèi*, *pilèle
     - *X oo X* s'écrit en trois mots : {{visi oo visi}}.
 
 !!! keita "Usage de 1979"
-    La description de 1979 cite aussi *kèkè* « n'importe quel » et *yööli* « tout » [[(Keita1979, p. 71)]], qui n'apparaissent pas dans la Bible ; celle-ci emploie *X* {{oo}} *X* et {{kpow}}. Ces mots restent à vérifier auprès de locuteurs.
+    La description de 1979 cite aussi *kèkè* « n'importe quel » et *yööli* « tout » [[(Keita1979, p. 71)]], qui n'apparaissent pas dans la Bible ; celle-ci emploie *X* {{oo}} *X* et {{kpow}}. Ces mots restent à vérifier auprès de locuteurs. Le kissi du Sud connaît *kɛ́kɛ̀* « n'importe quel », précédé du pronom de classe (*ò-kɛ́kɛ̀* « n'importe qui, n'importe quoi ») [[(Childs1995, p. 160)]].

@@ -32,6 +32,8 @@ Le kisiei a emprunté des mots au maninka, au français, à l'anglais et au krio
 
 {{sɛbɛ}} « livre, lettre » (du maninka), {{volion}} « argent », {{rɛsɛn}} « raisin » (du français), {{kafo}} « fête, réunion ».
 
+En kissi du Sud, l'emprunt s'adapte à la syllabe kisi : un groupe de consonnes est séparé par une voyelle, et un mot qui commencerait par une voyelle reçoit souvent un *h* ; {{Hala}} « Dieu » vient ainsi de l'arabe *Allah* [[(Childs1995, p. 64-65)]]. Les emprunts y entrent surtout dans la classe *o* au singulier et *la* au pluriel [[(Childs1995, p. 163)]]. Les noms propres de la Bible gardent en revanche leurs groupes de consonnes ({{Israɛl}}, {{Esipte}}).
+
 !!! rule "Règle"
     - Un emprunt **intégré** s'écrit selon l'orthographe kisiei : on n'y met ni *é*, ni *è*, ni *ou*, ni *ch* ({{rɛsɛn}}, non *raisin*).
     - On peut garder *r* dans un emprunt où il se prononce ({{rɛsɛn}}).

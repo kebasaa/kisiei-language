@@ -59,6 +59,8 @@ Le nombre se place **après** le nom. À partir de 2, il est souvent précédé 
 
 Sans pronom, le nombre suit directement le nom : {{kɔla palɛi yaa}} « un trajet de trois jours » [[EXO.3.18]], {{vanaa yaa}} « trois personnes ». Le pronom de la classe *lan* prend la forme {{tan}} après *n* ({{vàálan tan}}).
 
+« Deux » change de forme selon la classe du nom compté : {{ŋiɔn}} pour les personnes ({{poaa nda ŋiɔn}} « deux fils » [[GEN.10.25]]), {{ŋiin}} pour la classe *i* ({{palɛi ndii ŋiin}} « deux jours » [[EXO.16.29]]), {{miɔn}} pour la classe *an* ({{polan man miɔn}} « deux rangées » [[1KI.7.18]]) et {{tiɔn}} pour la classe *lan*. Le kissi du Sud a la même série (*ŋìɔ́ɔ́ŋ*, *ŋìíŋ*, *mìɔ̀ɔ́ŋ*, *tìɔ́ɔ́ŋ*), alors que « trois » y varie peu et « quatre » pas du tout [[(Childs1995, p. 113)]]. Le pronom de classe s'y attache au nombre (*sálà-láŋ là-tìɔ́ɔ́ŋ* « deux sacrifices ») [[(Childs1995, p. 113)]] ; dans la Bible, il ne s'attache qu'à l'unité d'un nombre composé ({{latiɔn}}).
+
 ## Nombres ordinaux
 
 Le premier se dit {{tasoo}} [[GEN.1.1]]. Les autres ordinaux se forment avec **-ndɔɔ** et s'accordent avec la classe du nom :
@@ -73,7 +75,7 @@ Le premier se dit {{tasoo}} [[GEN.1.1]]. Les autres ordinaux se forment avec **-
 
 Exemples : {{paale ŋɔmmɛwndɔlen}} « le septième jour » [[GEN.2.2]], {{paangii tɔ́ndɔɛi}} « le dixième mois » [[GEN.8.5]], {{paangii diinndɔɛi}} « le deuxième mois » [[GEN.8.14]].
 
-« Deuxième » se dit {{diinndɔɔ}} ; {{tiɔnndɔɔ}} est très rare [[NEH.13.6]].
+« Deuxième » se dit {{diinndɔɔ}} ; {{tiɔnndɔɔ}} est très rare [[NEH.13.6]]. Le radical *diin* « deux » se retrouve dans {{bidiin}} « 20 » et {{kɛmɛ lediin}} « 200 » ; le kissi du Sud forme de même « deuxième » sur *dìíŋ* et dit « premier » avec un mot à part, *tásè* [[(Childs1995, p. 112, 201)]].
 
 ## Nombre de fois
 

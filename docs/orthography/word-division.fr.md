@@ -12,6 +12,8 @@ Un nom a deux formes écrites (voir [Classes nominales](../grammar/nouns/noun-cl
 !!! rule "Règle"
     La forme radicale est **un mot à part**, séparé par un espace de ce qui suit. On n'écrit pas *cɛikon* ni *cɛi-kon*.
 
+Le kissi du Sud connaît la même alternance : la terminaison du nom passe sur le mot qui le détermine [[(Childs1995, p. 150-151)]].
+
 ## Les mots grammaticaux sont séparés
 
 Les pronoms, les auxiliaires, les prépositions, les démonstratifs et les possessifs s'écrivent comme des mots séparés :
@@ -20,7 +22,7 @@ Les pronoms, les auxiliaires, les prépositions, les démonstratifs et les posse
 
 {{Mí Hala ca maa ɲɛ-tengaa naŋ}} « Et Dieu vit que la lumière était bonne » [[GEN.1.4]].
 
-La négation finale {{le}} / {{te}} est aussi un mot séparé : {{La kei nanu le}} « ne passez pas ici » [[NUM.20.20]], {{Vana diinin nɔm te}} « on ne te tuera pas » [[2SA.19.24]].
+La négation finale {{le}} / {{te}} est aussi un mot séparé ; on écrit {{te}} après *n*, *m*, *ŋ* ou *l*, et {{le}} après une voyelle ou *w* (voir [Négation](../grammar/verbs/negation.md) ; en kissi du Sud, *te* suit toute consonne [[(Childs1995, p. 89, 125)]]) : {{La kei nanu le}} « ne passez pas ici » [[NUM.20.20]], {{Vana diinin nɔm te}} « on ne te tuera pas » [[2SA.19.24]].
 
 ## Le trait d'union
 
@@ -42,11 +44,11 @@ Quand un **groupe nominal** se termine par autre chose que le nom lui-même — 
 Le choix entre *-o*, *-ndo*, *-yo* ou *-lo* (et de même *-a / -nda*, *-e / -nde*) dépend de la fin du mot auquel on attache le référent : après une nasale on écrit *-ndo*, *-nda*, *-nde* ({{lɛŋnden-ndo}}, {{nin-nda}}) ; ailleurs la forme simple ({{fula-o}}, {{coo-an}}). La [page Accord](../grammar/agreement.md) détaille ces formes.
 
 !!! keita "Usage de 1979"
-    En 1979, ces référents sont présentés comme des **pronoms relatifs** séparés (*vo, ve, van, lan…*), écrits après le verbe [[(Keita1979, p. 88-89)]] : *Domaa n pendu vo sèsa* « la chemise que tu as achetée s'est déchirée ». La Bible écrit la même marque **collée par un trait d'union** à la fin de la relative ; la forme *vo* n'apparaît presque jamais seule. On suit la Bible.
+    En 1979, ces référents sont présentés comme des **pronoms relatifs** séparés (*vo, ve, van, lan…*), écrits après le verbe [[(Keita1979, p. 88-89)]] : *Domaa n pendu vo sèsa* « la chemise que tu as achetée s'est déchirée ». La Bible écrit la même marque **collée par un trait d'union** à la fin de la relative ; la forme *vo* n'apparaît presque jamais seule. On suit la Bible. La description du kissi du Sud va dans le même sens : la terminaison du nom est un suffixe qui se place à la fin de la relative [[(Childs1995, p. 285-286)]].
 
 ### 2. Les mots composés
 
-Le trait d'union relie les éléments d'un **nom composé** dont les parties gardent leur forme : {{Cɛi-Hala-o}} « la maison de Dieu » [[GEN.28.17]], {{fuɲa-mamaa}} « ancêtre », {{fonda-loamaa-lasálàá}} « autel (lieu où l'on brûle les sacrifices) », {{cɛi-kola}} « tente (maison de toile) ».
+Le trait d'union relie les éléments d'un **nom composé** dont les parties gardent leur forme (en kissi du Sud, ces composés non figés se prononcent comme des mots distincts [[(Childs1995, p. 216)]]) : {{Cɛi-Hala-o}} « la maison de Dieu » [[GEN.28.17]], {{fuɲa-mamaa}} « ancêtre », {{fonda-loamaa-lasálàá}} « autel (lieu où l'on brûle les sacrifices) », {{cɛi-kola}} « tente (maison de toile) ».
 
 Les composés très courants s'écrivent souvent en un seul mot : {{vanapɔnɔɔ}} « homme », {{vanalanɔɔ}} « femme », {{halataalaa}} « ciel ». Voir [Noms composés](../grammar/nouns/compounds.md).
 

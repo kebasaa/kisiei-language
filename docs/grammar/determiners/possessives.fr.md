@@ -6,6 +6,8 @@ Le possessif se place **après** le nom, qui prend sa forme radicale : {{cɛi nd
 - la **classe** et le **nombre** du nom possédé ;
 - et, dans la classe *o*, selon que le possédé est une **personne** ou une **chose**.
 
+La construction est la même en kissi du Sud : le nom possédé, suivi de son pronom de classe (sauf dans la classe *o*), puis le possessif portant la terminaison du nom [[(Childs1995, p. 106)]].
+
 ## Possédé de la classe *o* : personnes et choses
 
 La Bible [[(BKG)]] distingue nettement deux séries. Avec un nom de **personne** (parent, maître, serviteur), le possessif est court ; avec un nom de **chose**, il porte la terminaison de classe *-ndo* / *-ɔ* :
@@ -43,6 +45,8 @@ Exemples :
 - *len* : {{lɛŋnde nilen}} « mon pays » [[GEN.20.15]], {{lɛŋnde naalen}} « notre pays » [[GEN.26.16]] ;
 - *lan* : {{silala nilan}} « mes lois » [[GEN.26.5]], {{diola ndalan}} « leurs noms » [[GEN.10.32]] ;
 - personnes plur. : {{vanaa nia bɛndua}} « mes seigneurs » [[GEN.18.3]], {{poaa ndɔa}} « ses fils » [[GEN.7.7]], {{cuavaa naa}} « nos enfants » [[GEN.31.16]].
+
+En kissi du Sud aussi, le possessif de la 1re personne du singulier a deux formes, *nù* et *nì*, comme {{nuu}} et *ni-* ({{nii}}, {{nilen}}) dans la Bible ; les possessifs y ont un ton bas, alors que les pronoms compléments ont un ton haut [[(Childs1995, p. 106)]].
 
 !!! note "1re sing. pluriel et 2e plur."
     La Bible distingue {{nia}} « mes » (personnes) et {{niaa}} « vos, votre » : {{vanaa nia}} « mes seigneurs », {{fuɲaa niaa}} « vos pères ». L'orthographe de 1979 écrit les deux *niaa* [[(Keita1979, p. 61)]].

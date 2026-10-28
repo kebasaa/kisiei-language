@@ -48,15 +48,17 @@ Plusieurs sons s'écrivent avec deux lettres. Ce ne sont pas des suites de deux 
 | ng | [ᵑɡ] prénasalisée | {{tenga}} | briller |
 | ll | [lː] l long | {{hangullo}} | chaleur |
 
+Les prénasalisées et *kp* sont aussi analysées comme des consonnes uniques en kissi du Sud [[(Childs1995, p. 24, 30-31)]]. Le *ll* y est en revanche décrit comme deux *l* appartenant à deux syllabes [[(Childs1995, p. 151)]] (voir [Consonnes](consonants.md#la-consonne-longue-ll)).
+
 Les voyelles longues (*aa, ee, ɛɛ, ii, oo, ɔɔ, uu*) sont décrites à la page [Voyelles](vowels.md).
 
 ## Lettres à place restreinte
 
 Certaines lettres n'apparaissent qu'à certaines places dans le mot :
 
-- **g** n'apparaît que dans **ng** et **gb** ; aucun mot kisiei ne commence par *g*.
+- **g** n'apparaît que dans **ng** et **gb** ; aucun mot kisiei ne commence par *g*. En kissi du Sud non plus, *g* n'existe pas seul : un *g* initial d'emprunt y devient *k* ou *ng* [[(Childs1995, p. 25, 30)]].
 - **w** ne s'écrit qu'**après une voyelle**, en fin de syllabe : {{taw}}, {{kpow}}, {{nawvo}}. Aucun mot ne commence par *w*.
-- **r** n'apparaît que dans les noms propres et les emprunts : {{Abraham}}, {{rɛsɛn}} « raisin ».
+- **r** n'apparaît que dans les noms propres et les emprunts : {{Abraham}}, {{rɛsɛn}} « raisin ». Certains parlers du Nord prononcent *r* dans des mots kisi ordinaires, mais la Bible y écrit *l* (voir [Parlers régionaux](../introduction/dialects.md)).
 - **ŋ** se trouve surtout en fin de radical ({{naŋ}}, {{lɛŋ}}) et devant *n* ({{lɛŋnden}}) ; au début d'un mot, il n'apparaît que dans quelques mots, dont les nombres {{ŋuɛɛnu}} « cinq » et {{ŋɔmpum}} « six ».
 
 ## Ordre alphabétique

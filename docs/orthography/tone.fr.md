@@ -2,7 +2,7 @@
 
 ## Une langue à tons
 
-Le kisiei est une **langue à tons** : la hauteur de la voix sur une syllabe peut changer le sens d'un mot ou la valeur grammaticale d'une forme. On distingue deux registres, **haut** et **bas**, qui peuvent se combiner sur une syllabe longue en **haut-descendant** et **bas-montant** [[(Keita1979, p. 17-18)]]. En voici des paires minimales (formes réécrites) :
+Le kisiei est une **langue à tons** : la hauteur de la voix sur une syllabe peut changer le sens d'un mot ou la valeur grammaticale d'une forme. On distingue deux registres, **haut** et **bas**, qui peuvent se combiner sur une syllabe longue en **haut-descendant** et **bas-montant** [[(Keita1979, p. 17-18)]] ; le kissi du Sud a le même inventaire [[(Childs1995, p. 43)]]. En voici des paires minimales (formes réécrites) :
 
 | Ton | Mot | Sens | | Ton | Mot | Sens |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Certains mots portent un accent dans presque toutes leurs occurrences, parce qu'
 
 ### Les autres mots
 
-Les noms, les verbes et les adjectifs courants ne portent **pas** d'accent : {{pɔmbɔɔ}}, {{cɛiyo}}, {{tosa}}, {{naŋ}}. Quand un même mot apparaît dans la Bible avec et sans accent, la forme sans accent est en général de loin la plus fréquente ({{naŋ}} plutôt que {{náŋ}}).
+Les noms, les verbes et les adjectifs courants ne portent **pas** d'accent : {{pɔmbɔɔ}}, {{cɛiyo}}, {{tosa}}, {{naŋ}}. Quand un même mot apparaît dans la Bible avec et sans accent, la forme sans accent est en général de loin la plus fréquente ({{naŋ}} plutôt que {{náŋ}}). En kissi du Sud, la plupart des noms n'ont que des tons bas, et le ton des verbes est fixé par la conjugaison plutôt que par le mot lui-même [[(Childs1995, p. 54-55)]].
 
 !!! rule "Règle pratique"
     1. On marque **toujours** le ton sur {{mí}}/{{mì}}, {{mó}}/{{mò}}, {{má}}/{{mà}} et sur les petits mots de la liste ci-dessus.
@@ -49,8 +49,10 @@ Les noms, les verbes et les adjectifs courants ne portent **pas** d'accent : {{p
     4. Un accent par voyelle : une voyelle longue en reçoit deux ({{ndóò}}, {{háá}}).
 
 !!! note "Note"
-    Les règles exactes du ton en kisiei (tons de base des mots, changements de ton dans la phrase) ne sont décrites ni dans le manuel de 1979 ni dans la Bible. Elles font partie des [questions ouvertes](../reference/open-questions.md).
+    Les règles exactes du ton en kisiei (tons de base des mots, changements de ton dans la phrase) ne sont décrites ni dans le manuel de 1979 ni dans la Bible. Elles font partie des [questions ouvertes](../reference/open-questions.md). Pour le kissi du Sud, elles sont décrites en détail [[(Childs1995, p. 43-65, 91-98)]], sans qu'on sache encore lesquelles valent aussi pour le kisiei.
 
 ## Intonation
 
 La phrase a aussi une **intonation** [[(Keita1979, p. 17)]] : une question se termine par une montée de la voix, une affirmation par une descente. À l'écrit, on la rend simplement par le point d'interrogation ou le point : {{A hin?}} « Tu viens ? », {{I hin.}} « Je viens. »
+
+En kissi du Sud, seule la question fermée (réponse oui ou non) se termine par une montée ; la question avec un mot interrogatif finit, comme l'affirmation, par une descente [[(Childs1995, p. 60-61, 264)]].

@@ -18,6 +18,8 @@ Le kisiei n'a pas de pronom relatif séparé comme le français *qui*, *que*. La
 
 Dans les classes *an*, *len* et *lan*, le nom garde devant la relative son **pronom de classe** ({{mɛmma}} = *mɛm-* + *ma*, {{lɛŋnde}}, {{kobila}}), comme devant un adjectif ; dans la classe *o*, le radical est nu ({{kɔngɔ}}). Voir [Classes nominales](../nouns/noun-classes.md).
 
+Souvent, un démonstratif {{hoo}} « ce…-ci » ou {{kon}} « ce…-là » se place à la fin de la relative, juste avant la terminaison : {{Kpema ya yii hoo-o}} « l'alliance que j'établis » [[GEN.17.7]], {{fonda n sim kon-ndo}} « l'endroit où tu te tiens » [[GEN.13.14]], {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [[GEN.3.14]]. Le kissi du Sud emploie aussi un démonstratif à l'intérieur de la relative, surtout quand le nom relativisé est placé en tête de phrase comme thème [[(Childs1995, p. 288-289)]].
+
 ## La terminaison finale
 
 La terminaison qui ferme la relative est celle de la classe du nom ; elle change de forme selon le **dernier son du mot** auquel elle s'attache, exactement comme les terminaisons de noms [[(Childs1995, p. 151-153)]] :

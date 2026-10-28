@@ -54,7 +54,7 @@ Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les
 
 ## Les classes
 
-On distingue huit terminaisons [[(Keita1979, p. 22-25)]], regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*).
+On distingue huit terminaisons [[(Keita1979, p. 22-25)]], regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*). Les mêmes variantes sont décrites pour le kissi du Sud [[(Childs1995, p. 151-156)]].
 
 | Classe | Terminaisons du singulier | Contenu typique | Exemples (Bible) |
 | --- | --- | --- | --- |
@@ -64,6 +64,10 @@ On distingue huit terminaisons [[(Keita1979, p. 22-25)]], regroupées ici en cla
 | **an** | *-an, -yan, -van, -ndan* | liquides, masses | {{mɛnndan}} « eau », {{koovan}} « sang », {{cuɛiyan}} « huile » |
 | **lan** | *-lan, -tan, -ndan* | abstraits ; et pluriel de nombreux noms | {{diolan}} « nom », {{yolan}} « danse » |
 | **len** | *-len, -ten, -nden* | fruits, certaines parties du corps, objets souples ; diminutifs | {{nilen}} « oreille », {{bollen}} « tête », {{lɛŋnden}} « pays » |
+
+Les séries *i* et *e* ne forment qu'une classe en kissi du Sud : la terminaison *-e* y devient *-ei* ou *-ɛi* après un radical terminé par une voyelle [[(Childs1995, p. 148, 153)]]. La Bible va dans le même sens : les noms des deux séries sont repris par le même pronom {{i}}, ont le même référent *-e* (voir [Accord](../agreement.md)) et le même pluriel en *-on*.
+
+Les grandes valeurs se retrouvent en kissi du Sud : grains et noms de langues dans la classe *i*, diminutifs dans la classe *le* (*len*), liquides dans la classe *ma* (*an*) [[(Childs1995, p. 165-169)]]. Les noms abstraits y relèvent en revanche surtout de la classe *le* [[(Childs1995, p. 169)]].
 
 Le pluriel est traité à la page [Pluriel](plural.md).
 
@@ -79,4 +83,4 @@ La Bible confirme les grandes lignes du système décrit en 1979 : forme pleine 
 
 ## Masculin et féminin
 
-Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » à la forme radicale [[(Keita1979, p. 28)]] : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].
+Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » à la forme radicale [[(Keita1979, p. 28)]] : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». Le même procédé est décrit en kissi du Sud pour les animaux [[(Childs1995, p. 216-217)]]. La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].

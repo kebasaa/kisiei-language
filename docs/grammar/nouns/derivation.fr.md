@@ -12,6 +12,8 @@ Le suffixe **-nɔɔ** (pluriel **-nda** ou **-a**) forme des noms de personnes :
 - **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [[2SA.18.24]], {{kiilanɔɔ}} « messager » [[GEN.50.16]], {{mandenɔɔ}} « marabout, devin » ;
 - **qualité** : {{kuubanɔɔ}} « héros », {{langbanɔɔ}} « homme adulte ».
 
+Le kissi du Sud a le même suffixe d'agent, *-nɔ̀ɔ́*, avec un pluriel en *-a* [[(Childs1995, p. 198-199)]].
+
 Le même suffixe forme aussi des noms de familles (*Kambadunɔɔ*) et de locuteurs d'une langue ({{Kisinɔɔ|r}} « un Kisi ») [[(Keita1979, p. 35)]].
 
 ### -yɛi : qualité, état
@@ -28,11 +30,11 @@ Le suffixe **-yɛi** forme des noms abstraits :
 
 ### -ndɔɔ : rang (ordinaux)
 
-Ajouté à un nombre, **-ndɔɔ** forme l'ordinal : {{ŋɔmmɛwndɔɔ}} « septième ». Voir [Nombres](../determiners/numerals.md).
+Ajouté à un nombre, **-ndɔɔ** forme l'ordinal : {{ŋɔmmɛwndɔɔ}} « septième », comme *-ndɔ̀ɔ́* en kissi du Sud [[(Childs1995, p. 200-201)]]. Voir [Nombres](../determiners/numerals.md).
 
 ### -len : diminutif
 
-Le suffixe **-len** (classe *len*) peut former des **diminutifs** [[(Keita1979, p. 23, 35)]] : {{pɔmbɔlen}} « tout petit », et, sur des noms d'animaux, des noms de défauts ou de qualités humaines (*tunnden* « saleté », de {{tunndo}} « chien »).
+Le suffixe **-len** (classe *len*) peut former des **diminutifs** [[(Keita1979, p. 23, 35)]] : {{pɔmbɔlen}} « tout petit », et, sur des noms d'animaux, des noms de défauts ou de qualités humaines (*tunnden* « saleté », de {{tunndo}} « chien »). En kissi du Sud aussi, la classe *le* sert à former des diminutifs et la plupart des noms abstraits [[(Childs1995, p. 166, 203)]].
 
 ### i-…-ei : état
 
@@ -52,6 +54,8 @@ Plusieurs noms s'emploient comme premier élément de nombreux dérivés ; ils p
 | **kɔl-** « cœur » | {{kɔllo}} | {{kɔlɲuloo}} « réconfort, repos » [[GEN.5.29]], {{kɔlvesɛiyo}} « violence » [[GEN.6.13]], {{kɔltuwvo}} « colère » [[EXO.11.8]], {{kɔlkɛndɔɔ}} « joie » |
 | **vana-** « personne » | {{vana}} | {{vanacieo}} « être humain », {{vanayɛi}} « parenté », {{vana-solia-lasálàá}} « prêtre » |
 | **dɛnɛ** « acte, chose » | {{dɛnɛ}} | {{dɛnɛ kɛndɔɔ}} « le bien », {{dɛnɛ vɔɔndo}} « le mal » [[GEN.2.9]] |
+
+**vana-** correspond au préfixe d'agent *wànà-* du kissi du Sud, tiré lui aussi du mot « personne » [[(Childs1995, p. 199-200)]]. Le mot « chose » y entre de même dans tant de composés qu'il devient presque un préfixe [[(Childs1995, p. 216)]].
 
 !!! keita "Usage de 1979"
     On trouve aussi en 1979 *ba-* « main » (*bamɛllo* « main gauche ») et *dɛnɛ-* écrit attaché (*dɛnɛkɛndɔɔ*) [[(Keita1979, p. 38-39)]]. La Bible écrit {{dɛnɛ}} comme un mot séparé : {{dɛnɛ kɛndɔɔ}}.

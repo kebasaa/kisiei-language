@@ -23,7 +23,7 @@ Le nom se met à la forme radicale décrite à la page [Classes nominales](../no
 
 ## Formes de quelques adjectifs courants
 
-Le radical de l'adjectif reste le même ; seule la terminaison change :
+Le radical de l'adjectif reste le même ; seule la terminaison change. Sa voyelle finale se combine avec la terminaison, comme en kissi du Sud, où *bɛ̀ndù* + *-ó* donne *bɛ̀ndòó* [[(Childs1995, p. 201)]] (Bible : {{bɛndoo}}) :
 
 | Sens | *o* | personnes plur. | *i* | *an* | *len* | *lan* | plur. *-on* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ L'intensité s'exprime :
 - par l'adverbe {{taw}} « très, beaucoup » après l'adjectif ou le verbe d'état : {{dɛnɛ kɛndɔɔ taw}} « un très grand bien » [[GEN.12.16]], {{n naŋ taw}} « c'était très bon » [[GEN.1.31]] ;
 - par le **redoublement** de l'adjectif, écrit avec trait d'union : {{bɛndu-bɛnduan}} « très grandes (eaux) » [[GEN.1.2]].
 
-Le redoublement intensif est également décrit en kissi du Sud (*bendubindu* « très grand ») [[(Childs1995, p. 126)]].
+Le redoublement intensif est également décrit en kissi du Sud (*bɛ̀ndùbɛ́ndù* « très grand ») [[(Childs1995, p. 126)]].
 
 ### Comparaison
 
@@ -57,6 +57,8 @@ La comparaison se fait avec le verbe {{hiow}} « dépasser » [[(Keita1979, p. 5
 
 - {{Kɛwvo ndóò hiow visia yondoa … kɔlkalu vɔɔndo ni}} « Le serpent dépassait tous les animaux sauvages en ruse » [[GEN.3.1]] ;
 - {{pangele hiow vaa}} « le plus grand luminaire » [[GEN.1.16]].
+
+Le kissi du Sud compare de la même façon avec le verbe « dépasser » ; le superlatif s'y dit « dépasser tous » [[(Childs1995, p. 283-285)]].
 
 !!! rule "Règles d'écriture"
     - L'adjectif s'écrit **séparé** du nom : {{lɛŋnde kɛndɛlen}}, et non *lɛŋndekɛndɛlen*.
