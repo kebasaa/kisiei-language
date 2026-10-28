@@ -1,5 +1,8 @@
 name: Deploy guide-book
 
+# Builds the MkDocs site and publishes it to the gh-pages branch.
+# GitHub Pages is set to "Deploy from a branch": gh-pages, / (root).
+
 on:
   push:
     branches: [main]
@@ -7,9 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
@@ -30,18 +31,12 @@ jobs:
         run: python tools/build_lexicon.py --check
       - name: Build (strict)
         run: mkdocs build --strict
-      - uses: actions/upload-pages-artifact@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Publish to gh-pages
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: site
-
-  deploy:
-    if: github.ref == 'refs/heads/main'
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "Deploy guide-book from ${{ github.sha }}"

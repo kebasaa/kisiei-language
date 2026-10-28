@@ -36,7 +36,7 @@ uv run --with-requirements requirements-docs.txt mkdocs serve
 uv run --with-requirements requirements-docs.txt mkdocs build --strict
 ```
 
-The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions builds the site and publishes it to GitHub Pages at <https://kebasaa.github.io/kisiei-language/>. Pages must use the source "GitHub Actions" (repository **Settings → Pages → Build and deployment**); the address is also shown there and in the summary of each "Deploy guide-book" run under the **Actions** tab.
+The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions runs these checks, builds the site and pushes the result to the `gh-pages` branch, from which GitHub Pages serves it at <https://kebasaa.github.io/kisiei-language/>. In the repository **Settings → Pages → Build and deployment**, the source is "Deploy from a branch", branch `gh-pages`, folder `/ (root)`; the site address is also shown there. Do not edit `gh-pages` by hand: it is overwritten on every deployment.
 
 ### Bible tools
 
