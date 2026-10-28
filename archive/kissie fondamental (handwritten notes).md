@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–95 (PDF pages 1 and 3–108), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–113 (PDF pages 1 and 3–128), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -1209,3 +1209,142 @@ The tone marks on this page are drawn by hand in the typescript (a high stroke f
 | I tyo pulönndo = je me lave | i tyo pu… le | variant |
 | I tyo diöm te. O tyo vana semèi le. | (dire [?]) above diöm; lui (above vana) | gloss |
 | Ndu tyo bolten ni. | chef | gloss |
+
+## p. 96 (PDF 109)
+
+The left edge of the page is in the binding shadow; an annotator rewrote some lost words in the right margin (le, au, d', Là, -te), which the transcription uses.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| I kiimbu (j'ai volé) | I kiimbu (le vole) [?] | variant |
+| … est réalisé avec un Ton bas. | R¹ | comment |
+| I va dioo | (I tyo) circled; I ve diodo le (negative) | variant |
+| I va dioo / O va tyanndo / A va pulönndo. | ve do kaudu [?] (margin) | comment |
+| O va tyanndo | O ve tyanndo le; o ve tyan te [?] | variant |
+| A va pulönndo. | A ve pulönndo le; a ve pulön te; "radical" circled, with an arrow to pulön | variant |
+
+## p. 97 (PDF 110)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| … d'où serai(ent) absent | "nT" written over the end of "serais" (applied in the transcription as seraient) | comment |
+| Nous allons conjuguer … Pulönndo (se laver) | n (above the typed u of "Pulönudo"; applied in the transcription) | comment |
+| … et työn (voir) | u (above the n of työn) | variant |
+| nous allons limiter notre illustration | ons [?] (above limiter) | comment |
+| aux première, deuxième et sixièmes personnes pour l'indicatif, et au deuxième, quatrième et cinquième personnes pour l'indicatif. | "pour l'indicatif" (first) and "quatrième et cinquième" are struck through (struck in the transcription); a stroke "7" before "deuxième"; the second "pour l'indicatif" is underlined. The typescript presumably meant "pour l'impératif" the second time [?] | comment |
+
+## p. 98 (PDF 111)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Column headings: Présent Duratif / Présent Habituel / Passé / Futur Proche | tone labels written above them: haut / bas / haut / bas | comment |
+| Futur Proche column (1- Kolöö) | i, a, o, n, la, (nd)a (je vais) — the full list of persons, written down the right margin | comment |
+| *(right margin, by each block of rows)* | F.A. / F.N. (forme affirmative / forme négative) | comment |
+| Présent Habituel and Passé, Forme Négative (Kolöö) | bas / haut (tone labels written above the negative rows) | comment |
+
+## p. 99 (PDF 112)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Column heading: Présent de l'Indic. | impératif (written above; the column actually gives imperative forms) | comment |
+| I tölnin / A tölnin / nda tölnin | a (written above the ö of each: tal-?) [?] | variant |
+| Työw, Présent de l'Indic. column (left blank in the typescript) | työ (affirmative); tya le (negative) | variant |
+| *(right margin, by each block of rows)* | F. Aff. / F. Nég. | comment |
+
+## Verso of p. 99 (PDF 113)
+
+The back of the sheet has no typed text; these handwritten notes are conditional sentences anticipating the conditional on the next typed page. Braces in the original group alternatives, rendered here with "/".
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | ii / ya (bas) — kuanin — te ya i / tii — söra — pè nèsoo / nèsoo pè | comment |
+| *(free note)* | aa / nöm aa — kuanin — te aa / taa — söra pè nèsoo | comment |
+| *(free note)* | ii va lakö tii söra pè nèsoo | comment |
+
+## p. 100 (PDF 114)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| I- LE MODE CONDITIONNEL : | cf p 90 : exemples | comment |
+| Il est d'abord caractérisé par un allongement de la voyelle finale | accentué! (above allongement) | comment |
+| Ii kolnin (te ya i söla pè) | (si j') aurai en passé [?]; je boirais (j'aurai …) si j'ai gagné [?] | translation |
+| Nn kolnin te hina la söla pè | nia (above hina) | variant |
+| Ii va Kolöö | te ya i söla pè … j'aurais bu si j'avais eu. | translation |
+
+## p. 101 (PDF 115)
+
+The left edge of this page is in the binding shadow; the first word of the two example sentences (probably "Maa") is lost and marked `…` in the transcription.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Maa i volu | enfanter [?] | gloss |
+| … vösi sènèiyo komala nia kèndè | trouve (above komala); koloma (below komala); kèndia (below kèndè) | variant |
+
+## p. 104 (PDF 118)
+
+The left edge is in the binding shadow; an annotator rewrote the lost line ends in the right margin (-ques, très), which the transcription uses. There are no other notes on this page.
+
+## p. 105 (PDF 119)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(below the key to the abbreviations)* | Aff. = Affirmative / Nég. = Négative | comment |
+
+## p. 106 (PDF 120)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| TEMPS column (rows 1–4 and 7–10) | Présent: Duratif, Habituel; Futur: lointain, Prochain — handwritten row labels where the typed ones are lost in the binding shadow (used in the transcription) | comment |
+| Last column heading "3e gr." | the 3 is overwritten, probably as 4 [?] (the column gives the 4th-group radicals) | comment |
+| *(right margin)* | haut (Présent duratif), bas (Présent habituel), haut (Passé), bas (Futur proche) — tone of each tense | comment |
+| *(right margin, against the rows from Présent to Imparfait)* | INDICATIF | comment |
+| *(right margin, against the last two rows)* | IMPÉRATIF | comment |
+| *(bottom of the page, written sideways)* | (P)ARTS [?] — partly legible | comment |
+
+## p. 107 (PDF 121)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Fèèyaa (1er Groupe) | défricher | gloss |
+| Vaa (2è Groupe) | labourer | gloss |
+| Kovöö (3è Groupe) | moissonner | gloss |
+| Yomöö (4è Groupe) | raser [?] | gloss |
+| MODES | 1 (marked beside the heading) | comment |
+
+## p. 108 (PDF 122)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Höönuo (1er Groupe) | désherber | gloss |
+| Mamöö (2è Groupe) | rire | gloss |
+| Söndöö (3è Groupe) | coudre | gloss |
+| Dioo (4è Groupe) | manger | gloss |
+| O söndu (Habituel, Aff.) | soandu written beside it (applied as a correction in the transcription [?]) | comment |
+| I söndunin (Futur lointain, Aff.) | oa written above the ö (applied as a correction in the transcription [?]) | comment |
+| Nda söndu le / A söndunin te | small marks above the ö (reading unclear) | comment |
+| MODES | 1 (marked beside the heading, as on p. 107) | comment |
+
+## p. 109 (PDF 123)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Sendinndo (1er Groupe) | se coucher [?] | gloss |
+| Yawvo (2è Groupe) | cuire | gloss |
+| Tonhöö (3è Groupe) | griller | gloss |
+| Viöw (4è Groupe) | cogner | gloss |
+| MODES | 1 (marked beside the heading) | comment |
+
+## p. 110 (PDF 124)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Löan (2è Groupe) | dormir; "2è" overwritten with "1er" (applied in the transcription) | gloss |
+| Pulönndo (2è Groupe) | se laver; "2è" overwritten with "1er" (applied in the transcription) | gloss |
+| Hövöö (3è Groupe) | piquer | gloss |
+| Kölan (4è Groupe) | aller, partir | gloss |
+| Pulönndo column | FI / R₁ marks written beside several cells (forme infinitive / 1st radical) | comment |
+| MODES | 1 (marked beside the heading) | comment |
+
+## p. 113 (PDF 128)
+
+This page has no handwritten notes, but the French column is hard to read: the typescript carries an offset "ghost" of the facing page, and several French words are struck over twice. The transcription gives the most likely reading of these entries, which should be checked against another copy if one turns up: Silaa (Conseiller), Simio (Faire arrêter), Simisimio (Superposer), Simullo (Se dresser contre [?]), Sinaa (Connaître), Singaa (Echanger), Solio (Faire sortir), Sölaa (Recevoir), Sungöö (Arracher), Susaa / Susanndo (Frotter / Se frotter), Susöö (Sucer plusieurs fois [?]), Tosaa (Faire), Toolno (Arranger (reparer) [?]). The French gloss of Sèèsiaa is cut off at the right margin ("Chif…").

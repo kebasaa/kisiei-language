@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb up to the start of the conjugation (typescript pp. 1–95). PDF pages 1 and 3–108 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation (tables, verb groups) and the start of the verb lexicon (typescript pp. 1–113). PDF pages 1 and 3–128 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -3338,3 +3338,530 @@ I kiimbu = je vole (d'habitude)
 Exemples : I tyo diöm te. O tyo vana semèi le. Ndu tyo bolten ni.
 
 #### 2. <u>LE PASSE</u> : Il indique qu'une action est entièrement accomplie dans un temps complètement écoulé. Les locuteurs le réalisent avec un <u>Ton Haut</u> qui le distingue du Présent habituel ;
+
+> ✎ [Handwritten notes, p. 96](kissie%20fondamental%20(handwritten%20notes).md#p-96-pdf-109)
+
+car il arrive que ces deux temps (Présent Habituel et Passé) aient le même statut morphologique.
+
+Exemples : I de (j'ai mangé)
+I kiimbu (j'ai volé)
+
+#### 3)- <u>LE FUTUR</u> : Il exprime une action à venir, comme proche ou lointaine. Ainsi nous distinguons :
+
+a) <u>UN FUTUR IMMEDIAT</u> : (proche). Quand l'action exprimée par le verbe doit être accomplie dans un temps qui n'est plus loin du moment où l'on parle. Ce qui le distingue du présent duratif (car il utilise aussi l'auxiliaire "tyo") c'est que le verbe se présente sous sa forme radicale (démuni de la modalité verbale) et est réalisé avec un <u>Ton bas</u>.
+
+Exemples : I tyo <u>dio</u> = je mangerai (je vais manger)
+I tyo <u>tyan</u> = je pleurerai (je vais pleurer)
+I tyo <u>pulön</u> = je me laverai (je vais me laver)
+
+b) <u>UN FUTUR LOINTAIN</u> : quand l'action est à accomplir dans un temps éloigné du moment où l'on parle. Il s'obtient par la suffixation au radical verbal, de la désinence "-nin".
+
+Exemples : I dianin
+I tyannin
+I pulunnin
+
+#### 4)- <u>L'IMPARFAIT</u> : Il sert à exprimer une action qui, dans le passé a duré un certain temps. Il est exprimé en kisiei grâce au second radical du verbe être (Vaw) : "Va" qui joue le rôle d'auxilliaire pour l'imparfait. Sa forme négative est "Ve......le". Là également, comme pour le présent Duratif, le verbe se présente sous sa forme infinitive.
+
+I va dioo
+O va tyanndo
+A va pulönndo.
+
+### II- <u>LE MODE IMPERATIF</u> :
+
+Il exprime essentiellement un ordre, un commandement ; mais aussi une invitation, une prière ou une interdiction formelle. Ces énoncés sont de type affirmatif opposée au type négatif marqué par la présence de la particule "le" (quand la finale verbale est orale) et "te" (quand la finale est nasale, ou une consonne).
+
+> ✎ [Handwritten notes, p. 97](kissie%20fondamental%20(handwritten%20notes).md#p-97-pdf-110)
+
+Hun (viens) Hun te
+Kö (vas) Koa le
+Löl (dors) löl te
+
+<u>Nota bene</u> : Le locuteur adoptera différentes attitudes selon les contextes :
+
+-On peut ordonner à un groupe auquel appartient le locuteur lui-même. Dans ce cas le sujet explicite et la personne (4èP.)
+
+Exemples :
+
+N Kö ( allons)
+N fula (Sortons)
+N Kol (buvons)
+
+- Le locuteur peut vouloir mobiliser un tiers, ou lui faire faire quelque chose. (3ème Pers.).
+
+O tyèl (qu'il accepte)
+O tyan (qu'il pleure)
+O löèi (qu'il entre)
+
+Le locuteur peut ordonner à un groupe auquel il est extérieur (5ème Pers.).
+
+La tyal (assoyez-vous)
+La hinin (couchez-vous)
+La fula (sortez).
+
+En fin le locuteur peut mobiliser un groupe de tiers d'où serai<ins>ent</ins> absent et le locuteur, et son interlocuteur. (6ème pers.)
+
+A tol (qu'ils descendent)
+A höönu (qu'elles desherbent).
+
+### - I L L U S T R A T I O N -
+
+Nous allons conjuguer Kolöö (boire) Pulönndo (se laver) - Tölöö (planter) et työn (voir) aux différents modes et temps étudiés. Mais puisque dans la conjugaison kisiei, se sont les personnes qui varient, le verbe une fois le radical obtenu à la première personne reste invariable ; nous allons limiter notre illustration aux première, deuxième et sixièmes personnes ~~pour l'indicatif~~, et au deuxième, ~~quatrième et cinquième~~ personnes pour l'indicatif.
+
+> ✎ [Handwritten notes, p. 98](kissie%20fondamental%20(handwritten%20notes).md#p-98-pdf-111)
+
+| Présent Duratif | Présent Habituel | Passé | Futur Proche. |
+| --- | --- | --- | --- |
+| **1- Kolöö :** | | | |
+| *Forme affirmative* | *Forme Affirmative* | *Forme Affirm.* | *Forme Affirmative* |
+| I tyo Kolöö | I Kol | I Kol | I tyo kolö |
+| A tyo kolöö | A Kol | A Kol | A tyo Kolö |
+| A (nda) tyo Kolöö | Nda Kol | nda Kol | Nda tyo KoLö |
+| *Forme Négative* | | | |
+| I tyo Kolö le | I Kol te | I Kol te | I tyo kolö le |
+| A tyo kolö le | A kol te | A kol te | A tyo kolö le |
+| nda tyo kolö le | nda kol te | nda kol te | nda tyo kolö le |
+| **2- Pulönndo :** | | | |
+| I tyo pulönndo | I pulun | I pulun | I tyo pulön |
+| A tyo pulönndo | A pulun | A pulun | A tyo Pulön |
+| nda tyo pulönndo | nda pulun | nda pulun | nda tyo Pulön. |
+| I tyo pulön te | I pulun te | I pulun te | I tyo pulön te |
+| A tyo pulön te | A pulun te | A pulun te | A tyo pulön te |
+| nda tyo pulön te | nda pulun te | nda pulun te | nda tyo pulön te. |
+| **3- Tölöö** | | | |
+| I tyo tölöö | I töl | I töl | I tyo tölö |
+| A tyo tölöö | A töl | A töl | A tyo tölö |
+| nda tyo tölöö | nda töl | nda töl | nda tyo tölö |
+| I tyo tölö le | I tol te | I tol te | I tyo tölö le |
+| A tyo tölö le | A tol te | A tol te | A tyo tölö le |
+| nda tyo tölö le | nda tol te | nda tol te | nda tyo tölö le. |
+| **4- Työw** | | | |
+| I tyo työw | I tya | I tye | I tyo työ |
+| A tyo työw | A tya | A tye | A tyo työ |
+| nda tyo työw | nda tya | nda tye | nda tyo työ |
+| I tyo työ le | I tyi le | I tyi le | I tyo työ le |
+| A tyo työ le | A tyi le | A tyi le | A tyo työ le |
+| nda tyo työ le | nda tyi le | nda tyi le | nda tyo työ le. |
+
+> ✎ [Handwritten notes, p. 99](kissie%20fondamental%20(handwritten%20notes).md#p-99-pdf-112)
+
+| Futur lointain | Imparfait | Présent de l'Indic. |
+| --- | --- | --- |
+| I Kolnin | I va kolöö | Kol |
+| A Kolnin | A va kolöö | N Kol |
+| Nda Kolnin | nda va kolöö | La Kol |
+| I kolnin te | I ve kolö le | Kol te |
+| A kolnin te | A ve kolö le | N Kol te |
+| nda kolnin te | nda ve kolö le | La kol te |
+| | **Pulönndo** | |
+| I pulunnin | I va pulönndo | Pulun |
+| A pulunnin | A va pulönndo | N Pulun |
+| nda pulunnin | nda va pulönndo | La pulun |
+| I pulunnin te | I ve pulön te | Pulun te |
+| A pulunnin te | A ve pulön te | N pulun te |
+| nda pulunnin te | nda ve pulön te | La pulun te. |
+| | **Tölöö** | |
+| I tölnin | I va tölöö | Töl |
+| A tölnin | A va tölöö | N töl |
+| nda tölnin | Nda va tölöö | La töl |
+| I tölnin te | I ve tölö le | Töal te |
+| A tolnin te | A ve tölö le | N Töal te |
+| Nda tolnin te | nda ve tölö le | La töal te. |
+| | **Työw** | |
+| I tyanin | I va työw | |
+| A tyanin | A va työw | |
+| nda tyanin | Nda va työw | |
+| I tyinin te | I ve työ le | |
+| A tyinin te | A ve työ le | |
+| Nda tyinin te | nda ve työ le. | |
+
+> ✎ [Handwritten notes, verso of p. 99](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-99-pdf-113)
+
+---
+
+## LES AUTRES MODES DE LA CONJUGAISON :
+
+> ✎ [Handwritten notes, p. 100](kissie%20fondamental%20(handwritten%20notes).md#p-100-pdf-114)
+
+### I- <u>LE MODE CONDITIONNEL</u> :
+
+Il exprime une action dépendant d'une condition qui n'est pas réalisée. C'est-à-dire que le déroulement d'une action est lié à l'accomplissement d'une première action.
+
+La maîtrise de ce mode, vous facilitera la compréhension des phrases complexes. Le conditionnel kisiei a deux (2) temps :
+
+#### 1. <u>LE PRESENT</u> :
+
+Il est d'abord caractérisé par un allongement de la voyelle finale, au niveau des substituts sujets de forme V ou C.V ; c'est-à-dire au niveau des 1ère, 2è, 3è , 5è et 6è Personnes. Cet allongement correspond au niveau de la 4è Personne, à une insistance sur le substitut "N" que nous symboliserons conventionnellement par "Nn". Nous notons aussi la suffixation de la désinence "Nin" au radical verbal.
+
+Ii kolnin (te ya i söla pè)
+Aa kolnin te num a söla pè
+Oo kolnin te ndu o söla pè
+Nn kolnin te hina la söla pè
+Aa (ndaa) kolnin te nda a söla pè.
+
+#### 2. <u>LE PASSE</u> :
+
+Ce qui le distinguera de l'imparfait de l'Indicatif, c'est l'allongement vocalique et consonnantique (au niveau de la 4è Personne) au niveau des Pronoms Personnels comme pour le présent.
+
+Ii va Kolöö
+Aa va Kolöö
+Oo va Kolöö
+Nn va Kolöö
+Laa va Kolöö
+Aa (ndaa) va Kolöö
+
+### II- <u>LE MODE SUBJONCTIF</u> :
+
+Il sert à exprimer un souhait, un désir, tout en indiquant que l'action est évoquée et non décrite parce qu'elle n'est pas accomplie. La langue, pour l'expression de ce mode, fait précéder les pronoms personnels de la particule "Maa" que l'on peut traduire par la conjonction "que".
+
+> ✎ [Handwritten notes, p. 101](kissie%20fondamental%20(handwritten%20notes).md#p-101-pdf-115)
+
+Maa i volu
+
+---
+
+Maa n volu
+
+---
+
+Maa A volu.
+
+…a baala tosan (que le travail se fasse)
+…a vösi sènèiyo komala nia kèndè (que le nouvel an vous trouve en bonne santé).
+
+#### -=-=- I L L U S T R A T I O N -=-=-
+
+| CONDITIONNEL : Présent | CONDITIONNEL : Passé | SUBJONCTIF : Présent |
+| --- | --- | --- |
+| Ii kolnin | Ii va kolöö | Maa i kol |
+| Aa kolnin | Aa va kolöö | Maa a kol |
+| Ndaa kolnin | ndaa va kolöö | Maa nda kol |
+| Ii kolnin te | Ii ve kolö le | Maa i kol te |
+| Aa kolnin te | Aa ve kolö le | Maa a kol te |
+| ndaa kolnin te | Ndaa ve kolö le | Maa nda kol te |
+| | **Pulönndo** | |
+| Ii pulunnin | Ii va pulön | Maa i pulun |
+| Aa pulunnin | Aa va pulön | Maa a pulun |
+| Ndaa pulunnin | ndaa va pulön | Maa nda pulun |
+| Ii pulunnin te | Ii ve pulön te | Maa i pulun te |
+| Aa pulunnin te | Aa ve pulön te | Maa a pulun te |
+| ndaa pulunnin te | ndaa ve pulön te | Maa nda pulun te |
+| | **Tölöö** | |
+| Ii tölnin | Ii va tölö | Maa i töl |
+| Aa tölnin | Aa va tölö | Maa a töl |
+| Ndaa tölnin | Ndaa va tölö | Maa nda töl |
+| Ii tolnin te | Ii ve tölö le | Maa i toal te |
+| Aa tolnin te | Aa ve tölö le | Maa a toal te |
+| Ndaa tolnin te | ndaa ve tölö le | Maa nda toal te. |
+
+| CONDITIONNEL : Présent | CONDITIONNEL : Passé | SUBJONCTIF : Présent |
+| --- | --- | --- |
+| | **Työw** | |
+| Ii tyanin | Ii va työw | Maa i työ |
+| Aa tyanin | Aa va työw | Maa a työ |
+| Ndaa tyanin | Nda va työw | Maa ndo työ |
+| Ii tyenin te | Ii va työ le | Maa i tya le |
+| Aa tyenin te | Aa ve työl le | Maa a tya le |
+| Ndaa tyenin | Nda ve työ le | Maa nda tya le. |
+
+---
+
+## - MECANISME DE LA CONJUGAISON KISIEI -
+
+Il existe en kisiei quatre types de verbes ; ce qui nous permet de distinguer quatre groupes de verbes. Cette division est dûe au fait qu'en kisiei, il existe des verbes qui changent de radical selon qu'ils passent d'un temps à un autre ; ou selon qu'ils sont à la forme affirmative ou à la forme négative ; ou encore selon qu'ils passent d'un mode à un autre. Ce changement, est caractérisé par une variation vocalique de la forme infinitive à la forme conjugué.
+
+### 1. <u>LES VERBES DU 1er GROUPE</u> :
+
+Ils sont très nombreux et très fréquents dans le langage courant. Appartiennent à ce groupe, tous les verbes qui, à tous les modes, à tous les temps et sous toutes les formes (affirmative ou négative) ne subissent aucune variation au sein du radical.
+
+Exemples :
+
+Sèvaa (écrire) I tyo <u>sèvaa</u> - I <u>sèva</u> - I <u>sèvanin</u> - I <u>sèva</u> le
+Yilöö (Saluer) I tyo <u>yilöö</u> - I <u>yil</u> - I <u>Yilnin</u> = I <u>yil</u> te
+Diinönndo (se tuer) I tyo diinönndo - I <u>diinun</u> - I <u>diinun</u>-I <u>diinunnin</u> - I <u>diinun</u> te .
+
+### 2. <u>LES VERBES DU 2è GROUPE</u> :
+
+Appartiennent à ce groupe, les verbes qui subissent une seule variation vocalique au sein du Radical. Ce sont les verbes qui se présentent sous deux radicaux différents :
+
+Exemples :
+
+Malöö (laisser) I <u>mal</u> (R<sub>1</sub>) - i <u><u>mel</u></u> (R<sub>2</sub>) te
+Vaa (cultiver) I <u>vaa</u> - I <u><u>vee</u></u> le
+Yawoo (cuire) I <u>yaw</u> - I <u><u>yow</u></u> le.
+
+### 3. <u>LES VERBES DU 3è GROUPE</u> :
+
+Ce sont les verbes qui connaissent deux variations vocaliques au sein du radical et se présentent sous trois radicaux différents. Ils sont moins nombreux que les précédents.
+
+Kovöö (récolter) I <u>koaw</u> (1) - <u>kow</u> (2) - I <u>kuu</u> (3) le
+Sömndo (croquer) I söam - söm - I somnin te
+Tölöö (planter) I töal - töl = tol te.
+
+> ✎ [Handwritten notes, p. 104](kissie%20fondamental%20(handwritten%20notes).md#p-104-pdf-118)
+
+### 4. <u>LES VERBES DU 4è GROUPE</u> :
+
+Ce sont des verbes qui subissent trois variations vocaliques, se présentant ainsi sous quatre radicaux différents. Ils sont très peu dans la langue.
+
+Dioo (manger) I tyo dioo - <u>I de</u> (R<sub>1</sub>) - I <u>dia</u> (R<sub>2</sub>) - <u>dio</u> (R<sub>3</sub>) - I <u>di</u> (R<sub>4</sub>) le
+Söèi (Parler) I tyo söèi - I so - I soa -Soo- I suu le
+Kölan (marcher) I tyo kölan - I köè - I köa - Kö - I koe le
+Piölöö (casser) I tyo piölöö - I pèl - I pial - piöl - I pel te
+
+---
+
+## TABLEAU RESUME DU MECANISME DE CONJUGAISON DES VERBES KISIEI
+
+> ✎ [Handwritten notes, p. 105](kissie%20fondamental%20(handwritten%20notes).md#p-105-pdf-119)
+
+Ce tableau a été établi conformément au modèle de conjugaison des verbes du Kisiei, selon que le verbe appartienne à un groupe donné. Nous avons fait correspondre le radical qu'il faut employer au présent, au passé ou au futur etc..., le radical correspondant et selon qu'on conjugue à la forme affirmative ou à la forme négative.
+
+- R ou R<sub>1</sub> est le 1er radical obtenu par simple suppression de la marque infinitive du verbe.
+
+- Les autre radicaux R<sub>2</sub> - R<sub>3</sub> et R<sub>4</sub> sont les modifications que subissent les verbes selon que l'on passe d'un temps à un autre ou d'un mode à un autre. R<sub>2</sub> correspond généralement à la forme négative.
+
+N.B. F.I = forme infinitive du verbe, c'est-à-dire que le verbe se présente muni de son infinitif.
+
+R = radical unique pour les verbes du 1er groupe
+
+R<sub>1</sub> = le 1er radical - R<sub>2</sub> le 2e radical - R<sub>3</sub> le 3e radical et R<sub>4</sub> = le 4e radical.
+
+Ainsi en élaborant le lexique de quelques verbes Kisiei, nous avons pris soin de présenter le verbe sous ses radicaux différents en vue de vous faciliter la tâche.
+
+> ✎ [Handwritten notes, p. 106](kissie%20fondamental%20(handwritten%20notes).md#p-106-pdf-120)
+
+| TEMPS | | FORMES | 1er groupe | 2e groupe | 3e groupe | 3e gr. |
+| --- | --- | --- | --- | --- | --- | --- |
+| <ins>Présent</ins> | <ins>Duratif</ins> | Aff. | F.I. | F.I. | F.I. | F.I. |
+| | | Nég. | R | R<sub>1</sub> | F.I. | R<sub>1</sub> |
+| | <ins>Habituel</ins> | Aff. | R | R<sub>1</sub> | R<sub>3</sub> | R<sub>3</sub>. |
+| | | Nég. | R | R<sub>2</sub> | R<sub>2</sub> | R<sub>4</sub> |
+| PASSE | | Aff. | R | R<sub>1</sub> | R<sub>1</sub> | R<sub>2</sub> |
+| | | Nég. | R | R<sub>2</sub> | R<sub>2</sub> | R<sub>4</sub> |
+| <ins>Futur</ins> | <ins>lointain</ins> | Aff. | R | R<sub>1</sub> | R<sub>3</sub> | R<sub>3</sub> |
+| | | Nég. | R | R<sub>2</sub> | R<sub>2</sub> | R<sub>4</sub> |
+| | <ins>Prochain</ins> | Aff. | R | R<sub>1</sub> | R<sub>1</sub> | R<sub>1</sub> |
+| | | Nég. | R | R<sub>1</sub> | R<sub>1</sub> | R<sub>1</sub> |
+| IMPARFAIT | | Aff. | F.I. | F.I. | F.I. | F.I. |
+| | | Nég. | R | R<sub>1</sub> | F.I. | R<sub>1</sub> |
+| PRESENT | | Aff. | R | R<sub>1</sub> | R<sub>1</sub> | R<sub>1</sub> |
+| | | Nég. | R | R<sub>1</sub> | R<sub>3</sub> | R<sub>3</sub>. |
+
+The column heading above the four groups reads "RADICAUX DES VERBES". The labels marked as inserted are handwritten; the typed labels for these rows are lost in the binding shadow.
+
+---
+
+## TABLEAUX ILLUSTRATIFS
+
+> ✎ [Handwritten notes, p. 107](kissie%20fondamental%20(handwritten%20notes).md#p-107-pdf-121)
+
+The typescript prints this table sideways (landscape) across the page; it is given here in reading order.
+
+| MODES | TEMPS | | FORMES | Fèèyaa (1er Groupe) | Vaa (2è Groupe) | Kovöö (3è Groupe) | Yomöö (4è Groupe) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INDICATIF | PRESENT | Duratif | Aff. | I tyo fèèyaa | I tyo vaa | I tyo kovöö | I tyo yomöö |
+| | | | Nég. | A tyo fèèya le | A tyo vaa le | A tyo kovö le | A tyo yomö le |
+| | | Habituel | Aff. | O fèèya | O vaa | O koaw | O yam |
+| | | | Nég. | N fèèya le | N vee le | N kuw le | N yim te |
+| | PASSE | | Aff. | La fèèya | La vaa | La kow | La yem |
+| | | | Nég. | Nda fèèya le | Nda vee le | Nda kuw le | Nda yim te |
+| | FUTUR | Lointain | Aff. | I fèèyanin | I vaanin | I koawnin | I yamnin |
+| | | | Nég. | A fèèyanin te | A veenin te | A kuwnin te | A yimnin te |
+| | | Proche | Aff. | O tyo fèèya | O tyo vaa | O tyo kovöö | O tyo yomö |
+| | | | Nég. | N tyo fèèya le | N tyo vee le | N tyo kovöö le | N tyo yomö le |
+| | IMPARFAIT | | Aff. | La va fèèyaa | La va vaa | La va kovöö | La va yomöö |
+| | | | Nég. | Nda ve fèèya le | Nda ve vaa le | Nda ve kovöö le | Nda ve yomöö le |
+| IMPERATIF | PRESENT | | Aff. | Fèèya | Vaa | Kow | Yom |
+| | | | Nég. | La fèèya le | La vaa le | La koaw le | La yam te |
+
+> ✎ [Handwritten notes, p. 108](kissie%20fondamental%20(handwritten%20notes).md#p-108-pdf-122)
+
+| MODES | TEMPS | | FORMES | Höönuo (1er Groupe) | Mamöö (2è Groupe) | Söndöö (3è Groupe) | Dioo (4è Groupe) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INDICATIF | PRESENT | Duratif | Aff. | I tyo höönuo | I tyo mamöö | I tyo söndöö | I tyo dioo |
+| | | | Nég. | A tyo höönu le | A tyo mamö le | A tyo söndö le | A tyo dio le |
+| | | Habituel | Aff. | O höönu | O mam | O ~~söndu~~ <ins>soandu</ins> | O dia |
+| | | | Nég. | N höönu le | N mem te | N söndu le | N di le |
+| | PASSE | | Aff. | La höönu | La mam | La söndu | La de |
+| | | | Nég. | Nda höönu le | Nda mem te | Nda söndu le | Nda di le |
+| | FUTUR | Lointain | Aff. | I höönunin | I mamnin | I s<ins>oa</ins>ndunin | I dianin |
+| | | | Nég. | A höönunin te | A memnin te | A söndunin te | A dinin te |
+| | | Proche | Aff. | O tyo höönu | O tyo mamö | O tyo, söndö | O tyo dio |
+| | | | Nég. | N tyo höönu le | N tyo mamö le | N tyo söndö le | N tyo dio le |
+| | IMPARFAIT | | Aff. | La va höönuo | La va mamöö | La va söndöö | La va dioo |
+| | | | Nég. | Nda ve höönu le | Nda ve mamö le | Nda ve söndö le | Nda ve dio le |
+| IMPERATIF | PRESENT | | Aff. | Höönu | Mam | Söndu | Dio |
+| | | | Nég. | La höönu le | La mam te | La soandu le | La dia le |
+
+> ✎ [Handwritten notes, p. 109](kissie%20fondamental%20(handwritten%20notes).md#p-109-pdf-123)
+
+| MODES | TEMPS | | FORMES | Sendinndo (1er Groupe) | Yawvo (2è Groupe) | Tonhöö (3è Groupe) | Viöw (4è Groupe) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INDICATIF | PRESENT | Duratif | Aff. | I tyo sendinndo | I tyo yawvo | I tyo tonhöö | I tyo viöw |
+| | | | Nég. | A tyo sendin te | A tyo yaw le | A tyo tonhöö le | A tyo viö le |
+| | | Habituel | Aff. | O sendin | O yaw | O toan | O via |
+| | | | Nég. | N sendin te | N yew le | N tun te | N ve le |
+| | PASSE | | Aff. | La sendin | La yaw | La ton | La vè |
+| | | | Nég. | Nda sendin te | Nda yew le | Nda tun te | Nda ve le |
+| | FUTUR | Lointain | Aff. | I sendinnin | I yawnin | I toanin | I vianin |
+| | | | Nég. | A sendinnin te | A yewnin te | A tunnin te | A venin te |
+| | | Proche | Aff. | O tyo sendin | O tyo yaw | O tyo tonhö | O tyo viö |
+| | | | Nég. | N tyo sendin te | N tyo yaw le | N tyo tonhö le | N tyo viö le |
+| | IMPARFAIT | | Aff. | La va sendinndo | La va yawvo | La va tonhöö | La va viöw |
+| | | | Nég. | Nda ve sendin te | Nda ve yaw le | Nda ve tonhöö le | Nda ve viö le |
+| IMPERATIF | PRESENT | | Aff. | Sendin | Yaw | Ton | Viö |
+| | | | Nég. | La sendin te | La yaw le | La toan te | La via le |
+
+> ✎ [Handwritten notes, p. 110](kissie%20fondamental%20(handwritten%20notes).md#p-110-pdf-124)
+
+| MODES | TEMPS | | FORMES | Löan (~~2è~~ <ins>1er</ins> Groupe) | Pulönndo (~~2è~~ <ins>1er</ins> Groupe) | Hövöö (3è Groupe) | Kölan (4è Groupe) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| INDICATIF | PRESENT | Duratif | Aff. | I tyo löan | I tyo pulönndo | I tyo hövöö | I tyo kölan |
+| | | | Nég. | A tyo malö le | A tyo pulön te | A tyo hövöö le | A tyo lakö le |
+| | | Habituel | Aff. | O löl | O pulun | O höaw | O köa |
+| | | | Nég. | N löl te | N pulun te | N how le | N koe le |
+| | PASSE | | Aff. | La löl | La pulun | La höw | La köè |
+| | | | Nég. | Nda löl te | Nda pulun te | Nda how le | Nda koe le |
+| | FUTUR | Lointain | Aff. | I lölnin | I pulunnin | I höawnin | I köanin |
+| | | | Nég. | A lölnin te | A pulunnin te | A hownin te | A koenin te |
+| | | Proche | Aff. | O tyo malö | O tyo pulön | O tyo hövö | O tyo lakö |
+| | | | Nég. | N tyo malö le | N tyo pulön te | N tyo hövö le | N tyo lakö le |
+| | IMPARFAIT | | Aff. | La va löan | La va pulönndo | La va hövöö | La va kölan |
+| | | | Nég. | Nda ve malö le | Nda ve pulön te | Nda ve hövöö le | Nda ve lakö le |
+| IMPERATIF | PRESENT | | Aff. | Löl | Pulun | Höw | Kö |
+| | | | Nég. | La löl te | La pulun te | La höaw le | La köa le |
+
+---
+
+## -=- LEXIQUE DES VERBES DU KISIEI -=-
+
+### 1. <u>LES VERBES DU 1er GROUPE</u> :
+
+| FORME INFINITIVE | RADICAL | FRANCAIS. |
+| --- | --- | --- |
+| Banhaa | Banha | Délivrer |
+| Bolio | Boli | Blesser |
+| Bolinndo | Bolin | se blesser |
+| Bonhaa | Bonha | Talocher |
+| Bönhaa | Bönha | Rencontrer |
+| Bönhallo | Bönhal | Acceuillir pour |
+| Bènhia | Bènhi | Démonter |
+| Bèsio | Bèsi | Ecobuer |
+| Bèsinndo | Bèsin | S'écobuer |
+| Biyöö | Bi | Attraper |
+| Biyanndo | Biyan | S'attraper |
+| Binönndo | Binun | S'entretenir (Propriété) |
+| Delöö | Del | Tomber |
+| Delio | Deli | Tomber çà et là |
+| Denga dengiaa | Dengadengia | Superposer |
+| Denhio | Denhi | Crier |
+| Dillo | Dil | Manger pour |
+| Dimio | Dimi | Dire |
+| Dindindio | Dindin | Rendre propre |
+| Diinönndo | Diinun | Se tuer |
+| Diyöö | Di | tuer |
+| Fanhaa | Fanha | Enlever |
+| Fanhiaa | Fanhia | Enlever beaucoup |
+| Fèèyaa | Fèèya | Défricher |
+| Fèèyallo | Fèèyal | Défricher pour |
+| Fèèyiaa | Fèèyia | Défricher en +eurs endroi… |
+| Fulaa | Fula | Sortir |
+| Holöö | Hol | Monter |
+| Heeluo | Heelu | Faire monter |
+| Hèlio | Hèli | Trier |
+| Hèlihèlio | Hèlihèli | Trier plusieurs fois |
+| Hinullo | Hinul | Menacer |
+| Hivio | Hivi | Faire passer |
+| Hivihivio | Hivihivi | Faire passer + fois |
+| Höönuo | Höönu | Désherber |
+
+*(PDF page 126 is a second scan of typescript p. 111; it adds no new text and is not repeated here.)*
+
+| FORME INFINITIVE | RADICAL | FRANCAIS. |
+| --- | --- | --- |
+| Hulöö | Hulu | Vider |
+| Huuluö | Huulu | Sauter |
+| Kalaa | Kala | Déterrer |
+| Kaalaa | Kaala | Aimer (Cherir) |
+| Kelaa | Kela | Marcher |
+| Keeliaa | Keelia | Faire marcher (promener) |
+| Kelanndo | Kelan | Se promener |
+| Keo | Ke | Offrir , donner |
+| Kelenhaa | Kelenha | être rapide, se dépêcher |
+| Kèèyaa | Kèèya | diminuer (tailler) |
+| Kèsio | Kèsi | Déposer |
+| Kèsullo | Kèsul | Déposer pour |
+| Kèsikèsio | Kèsikèsi | Arranger |
+| Kèw | Kèè | Refuser |
+| Kilikilio | Kilikili | Couper plusieurs fois |
+| Kindinndo | Kindin | S'efforcer |
+| Kinhikinhio | Kinhikinhi | Découper |
+| Kolöö | Kol | Boire |
+| Köösöö | Köösö | Juger |
+| Kombaa | Komba | Abattre, renverser |
+| Kombiaa | Kombia | Renverser, abattre plusieurs |
+| Kungaa | Kunga | Cloturer |
+| Kungulaa | Kungula | butter |
+| Kuusuo | Kuusu | Vomir |
+| Liimiaa | Liimia | Tromper |
+| Löw | Lö | Tresser |
+| Malaa | Mala | Aider |
+| Maalianndo | Maalian | S'entre-aider |
+| Maiyo | Mei | Se taire |
+| Mello | Mel | Garder pour |
+| Mèlio | Mèli | Faire Tomber |
+| Mèlimèlio | Mèlimèli | Faire Tomber çà et là |
+| Mèènaa | Mèèna | Maudire |
+| Mèèniaa | Mèènia | Maudire plusieurs fois |
+| Mösönhaa | Mösönha | Regrouper, rassembler |
+| Mösönhiaa | Mösönhia | Regrouper, rassembler plusieurs |
+| Mulio | Muli | Repondre |
+| Mulullo | Mulul | Repondre pour ou à |
+| Muuluo | Muulu | Retourner, renverser |
+| Nambaa | Namba | Glisser |
+| Nöw | Nö | Avoir, … |
+
+> ✎ [Handwritten notes, p. 113](kissie%20fondamental%20(handwritten%20notes).md#p-113-pdf-128)
+
+| FORME INFINITIVE | RADICAL | FRANCAIS. |
+| --- | --- | --- |
+| Nuufaa | Nuufa | Regarder |
+| Nuufiaa | Nuufia | Chercher |
+| Pèngioo | Pèngi | se reposer |
+| Pèèngio | Pèengi | Cesser |
+| Pöènndo | Pöèn | Oblier |
+| Pöènnönndo | Pöènun | S'oblier |
+| Pölaa | Pöla | Tremper, mouiller |
+| Piasaa | Piasa | S'écarter |
+| Pisio | Pisi | Vendre |
+| Pisultan | Pisul | Jouer, s'amusêr |
+| Puusiaa | Puusia | Disperser, déranger |
+| Sangaa | Sanga | être fatiguer |
+| Sangiaa | Sangia | Faire fatiguer |
+| Sanganndo | Sangan | Se fatiguer |
+| Sendio | Sendi | Coiffer, raser |
+| Sendinndo | Sendin | Se coiffer, se raser |
+| Sèvaa | Sèva | écrire |
+| Sèèviaa | Sèèvia | Gribouiller |
+| Sèvallo | Sèval | Ecrire (pour ou à) |
+| Sèèsaa | Sèèsa | Déchirer |
+| Sèèsiaa | Sèèsia | Déchirer plusieurs fois, Chif… |
+| Silaa | Sila | Conseiller |
+| Simio | Simi | Faire arrêter (dresser) |
+| Simisimio | Simisimi | Superposer (dresser) |
+| Siööndaa | Siöönda | Chuchoter |
+| Simullo | Simul | Se dresser contre |
+| Sinaa | Sina | Connaître |
+| Singaa | Singa | Echanger |
+| Solio | Soli | Faire sortir |
+| Sölaa | Söla | Recevoir |
+| Sullo | Sul | Grandire |
+| Sungöö | Sungu | Arracher |
+| Susaa | Susa | Frotter |
+| Susanndo | Susan | Se frotter |
+| Suusiaa | Suusia | Frotter plusieurs fois |
+| Susöö | Susu | Sucer plusieurs fois |
+| Tèndaa | Tènda | Fendre |
+| Tosaa | Tosa | Faire |
+| Toosiaa | Toosia | Faire arranger (reparer) |
+| Toolno | Toolu | Arranger (reparer) |

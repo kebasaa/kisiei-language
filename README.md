@@ -53,7 +53,7 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 
 | Source | Transcription | Conversion |
 | --- | --- | --- |
-| Kissie fondamental (1979) | In progress: typescript pp. 1–95, up to the conjugation (PDF pp. 1–108 of 189) | Not started |
+| Kissie fondamental (1979) | In progress: typescript pp. 1–113, up to the verb lexicon (PDF pp. 1–128 of 189) | Not started |
 
 ### Transcription conventions
 
