@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–131 (PDF pages 1 and 3–148), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–148 (PDF pages 1 and 3–168), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -1620,3 +1620,288 @@ The first two Kisiei entries are blotted out on the typescript and rewritten by 
 | Kölkelle : le rein | tyanmnda [?] | variant |
 | Kandontyindo : Kan-do-ntyin-do | an arrow marks the syllable break after "Kan" | comment |
 | *(right margin, against la main, la tête, le pied, le ventre, l'oeil, la face, le coeur, le dos, le corps, le sang, la joue)* | short dashes marking these entries | comment |
+
+## p. 132 (PDF 149)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Löluan, Löluoo | underlined | comment |
+| Tuilian (typed "Tuiliian", overtyped) | tiilian (written beside it) | variant |
+| Tyannda : la hanche | ou Vonga | variant |
+| *(right margin, against le nez, l'oreille, le lait, le pied, la bouche, le doigt, la dent)* | short dashes marking these entries | comment |
+
+## p. 133 (PDF 150)
+
+The dialogue is covered in two layers of handwritten translation (a large dark pen and fainter pencil); much of the large hand is only partly legible.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(above the dialogue heading)* | Mèèmèè = Nèènèè | variant |
+| (L'étranger = lamini) | mialla ou … [?] | variant |
+| Mèèmèè le ! hina yè ? | nia (above hina); toi | gloss |
+| Le saw mèlèka tana vö le | à la grâce de Dieu; (les anges); pas mal [?] | translation |
+| Mba ! tyalnun | n (added above tyalnun); assieds-toi [?] | translation |
+| Vè laa num yè ? | lana (above laa); comment va ta femme | translation |
+| La tyo kèndè ? | plusieurs [?] | comment |
+| I mèi ndu kèndè ! | je l'ai laissée [?] en bonne santé | translation |
+| Ndu bè tyo kèndè ! A yil hina laapi ! | lui aussi [?]; nia; beaucoup; il vous dit bien des choses | translation |
+| Mba ! A tye söö, fandaa ni | voir la poule [?], c'est le souhait de la bienvenue; il y a un coq à donner [?] | translation |
+| Tyèiyo ni, nua nèa num pèngia. | regarde bien; reposer; c'est la maison, voici le lieu pour te reposer | translation |
+| *(below the dialogue)* | … nya thoni [?] / … nga ! — partly legible | comment |
+
+## p. 134 (PDF 151)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Bömöö : la tante | ?? | comment |
+| Finyaa : le père | finhaa (written beside it); L fingal [?] (faint, in the syllable column) | variant |
+| Mbokponi : la demoiselle | ?? | comment |
+| *(right margin, against le grand-père, le grand frère, l'oncle, le père, la mère, la grand-mère, l'aîné, l'épouse, l'époux, le jeune frère, le petit-fils, l'homme, la femme, la soeur)* | short dashes marking these entries | comment |
+
+## p. 135 (PDF 152)
+
+A large-pen translation runs down the right of the dialogue; a fainter pencil gloss sits above many words.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| LANGAGE : | YUNGUO (written as the dialogue's title) | comment |
+| Molisi ! Nkö (miukö) yil yungu nummdo. | allons pour aller [?]; allons saluer ta famille; nom : do [?] | translation |
+| O nan taw, nkö naa nhiön | c'est bon; à deux; c'est très bien, allons tous 2 | translation |
+| Köè fiinya num tyo yè ? | où | translation |
+| Nufa ndön o tongo nin ? | regarde-le; en dans; regarde-le dans le … [?] | translation |
+| Kè ! Kala num yè ? | mais; et ! | translation |
+| Vè a nö pömbö a ? | as-tu des frères ? | translation |
+| I nö pömböa a yaa | j'en ai 3 … | translation |
+| Köè nda tyo yè ? | où sont-ils | translation |
+| A tyo o kaanden | école; à la prière (chrétienne) | translation |
+| Ndu pilè ya i nö ni, diolan a Sia | j'en ai qu'une, son nom Sia | translation |
+| Ndu bè o kaanden o tyo ni ? | ehdo [?]; elle aussi est à la prière ? | translation |
+| O köè mènnda köndö | de l'eau; puiser; chercher de l'eau | translation |
+| Mèè Molisi i kwè | alors; bon, je suis prêt [?] | translation |
+| Nuali Teeva. Nkö i liila num. | allons je t'accompagne | translation |
+
+## p. 136 (PDF 153)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Buukuo : le sabot | (buwaa) | variant |
+| Dèluo, Keemaa / Ngeemaa | underlined; a tick above Ngeemaa | comment |
+| Faaboo : le perroquet | ? | comment |
+| Kamaa : l'éléphant | Sambaa (Kdg) [?] | variant |
+| Kèkèuvo : l'écaille | Kellö (written beside it); "l'écaille" underlined | variant |
+| Lèu : l'abeille | = liö | variant |
+| Maloo : l'hippopotame | ? Yirankama [?] | variant |
+| *(right margin, against la patte, le ver, le canard, l'éléphant, le serpent, l'aile, le lézard, la queue, le moustique, le chat, le cochon)* | short dashes marking these entries | comment |
+
+## Verso of p. 136 (PDF 154)
+
+The back of the sheet has no typed text (the faunal list of p. 136 shows through in reverse). It holds a handwritten French–Kisiei version of the "Yunguo" dialogue from p. 135, with some forms corrected:
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | allons saluer ta fam[ille] : nko yil~~oo~~ yungu nummdo | translation |
+| *(free note)* | c'est très bien : o nan taw | translation |
+| *(free note)* | où est ton père ? : köè (tyo yè) finya num~~ndo~~ ? (an arrow moves "(tyo yè)" to the end) | translation |
+| *(free note)* | regarde-le dans la case : Nufa ndön o tongo nin | translation |
+| *(free note)* | et ta mère ? : kala num yè ? | translation |
+| *(free note)* | as-tu des frères ? : vè a nö pomböa ? | translation |
+| *(free note)* | j'en ai 3 : I nö pomboa ~~ya~~ ~~a~~ ~~tan~~ yaa | translation |
+| *(free note)* | où sont-ils ? : köè nda tyo yè ? | translation |
+| *(free note)* | elle aussi est à la prière ? : ndu bè ~~tyo~~ o kaanden ? o tyo ni | translation |
+| *(free note)* | elle est allée chercher de l'eau : o köè mènnda~~n~~ köndö | translation |
+
+## p. 137 (PDF 155)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Pèèpèi : la nageoire | ? | comment |
+| Sangöö : la tortue | n (above the ng); Köngösiroa [?] (written beside it) | variant |
+| Soonöö : la sauterelle | Soonoo [?] (written beside it) | variant |
+| Siamndo | underlined | comment |
+| Tambillo-kuello : la panthère | la (above the first syllable) | comment |
+| Tasaa : la chauve-souris | (Töngannda) | variant |
+| Toovio : le bouc | Tooyo | variant |
+| *(right margin, against la mouche, l'oeuf, le mouton, la brebis, l'âne, la fourni, le poisson, le papillon, le singe, le chien, l'animal)* | short dashes marking these entries | comment |
+
+## p. 138 (PDF 156)
+
+The dialogue has a large-pen translation on the right, partly illegible.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| LANGAGE : Työlua | animaux | gloss |
+| Seku, vèè a nö työlua | combien d'animaux as-tu [?] (partly legible) | translation |
+| I nö Tunndo a nyaayoo | j'ai un chien et un chat [?] | translation |
+| Tyièiyo o manda ni | il garde la maison | translation |
+| E nyaaye nö yè ? | "mummdo" overwritten with "nö" (applied in the transcription); et ton chat [?] | translation |
+| Bèlla ndu töaw ni | il attrape les souris | translation |
+| A nö tyanhaa kèndè | tu as des bons amis | translation |
+| I nö vèlè visia tyieyaa tyelen | aussi; j'ai aussi d'autres animaux domestiques [?] | translation |
+| A köè ? | lesquels | translation |
+| I nö söö, saa a nawva | j'ai des poules, moutons et vaches [?] | translation |
+| Nyeeman työlua tönö nda tyo o böö. | tönö underlined; l'animal [?] … richesse / bénéfice est grand | translation |
+
+## p. 139 (PDF 157)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Lembulten : le citron | dumbulten [?] (written beside it) | variant |
+| *(right margin, against aubergine, l'herbe, noix de coco, noix de cola, le concombre, la patate, branche d'arbre, le riz, la feuille)* | short dashes marking these entries | comment |
+
+## p. 140 (PDF 158)
+
+The scan of this page cuts off the edge of the first column, and the typed French column is faint in places; "la savane", "la sève", "le roseau" and "le néré" are the most likely readings.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Senhaa : la raphia | Senyaa (written beside it) | variant |
+| Senhan : vin de raphia | lumbian [?] (written beside it) | variant |
+| Taala itendoo, Yambele | underlined | comment |
+| *(right margin, against l'orange, le maïs, la calebasse, l'arachide, la papaye, l'ananas, la fleur, l'arbre, le manioc)* | short dashes marking these entries | comment |
+
+## p. 141 (PDF 159)
+
+Both dialogues carry a large-pen French translation, much of it only partly legible.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Yondoo | brousse [?] | gloss |
+| Poa n könnun kelaa | allons se promener | translation |
+| Le yömi veselèi nuuviaa | pour chercher du bois sec [?] | translation |
+| Ya, Tèngèlan ya köa nuuvia ni | moi, … des roseaux [?] | translation |
+| Nkönnun. Kè ya kèmbön ya köa tyovia ni | allons, mais moi je vais ramasser des … de palme | translation |
+| Le kölan a mun o lakolio | pour les emporter à l'école [?] | translation |
+| Num yè saa ? | et toi Saa ? | translation |
+| Le kungaa nuu bèndiaa | pour faire ma clôture | translation |
+| Bundöö | la grande forêt (a struck-out word before it) | gloss |
+| Nyuma, nufa yondo bèndo si ! | regarde la grande brousse | translation |
+| Kpoki kundu ! O tyo yondo le tyo hoo le | c'est … [?] | translation |
+| I tyo la kö le | je ne vais pas | translation |
+| Yalaa, kuella a kèwva vöönda tyo lon taw | lions, panthères et serpents mauvais sont là-bas [?] | translation |
+| Num sina maa bundöö nö tönöö le ? | tu ne sais pas que la forêt n'a pas [d'utilité] ? | translation |
+| A nö di tyan nuu, bundöö tyo nyè kèndè. | tu as raison mon ami, la forêt [est une] bonne chose; elle donne (du bois) des planches, celui qui fait … aussi qu'il plante [?] | translation |
+| *(below the dialogue)* | 2 pers. : Nkö / plus : Nkönnun | comment |
+
+## p. 142 (PDF 160)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Bilio : la rue (route) | / nèlei [?] | variant |
+| Kabilaa | underlined | comment |
+| Vuköö : lieu où se traite … | ? | comment |
+| *(right margin, against la cour, la rue, le basfond, la prison, le puit, la clôture, le chemin, la plantation, le marché, le jardin, le pont, le village, la maison, la forêt sacrée)* | short dashes marking these entries | comment |
+
+## p. 143 (PDF 161)
+
+Both dialogues carry a full handwritten French translation in the right margin. Small handwritten letters inserted into the typed text ("n" in *lan*, "w" before *vaa*/*va*) are applied in the transcription; "(ko)" written above *lan* in the 4th line is a variant.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Kuè n tyo yè tan nua | où sa [?]; d'où tu te lèves ? | translation |
+| I tyo lan o hunndo nin | (ko) above lan; je vais au bas-fond | translation |
+| Le kunga bèndiaa. Num yè | pour faire clôture; et toi ? | translation |
+| I tyo lan yambèi fèèya | je vais manioc défricher | translation |
+| Laa num tyo nan? | ta femme est là ? | translation |
+| O köè höönuo o Poli | elle est partie désherber le champ | translation |
+| Vè a köanin siödii | est-ce que tu pars demain ? | translation |
+| Kuè ? | où | translation |
+| O hun bilikadio nin | qqch qui appartient à tous; dans; bas-fond | translation |
+| Le yè ? | pourquoi | translation |
+| Le bungèila masinio mèi lan wvaa | pour parcelles machine a laissé cultiver | translation |
+| Kuè poo numdo tyo yè | où est ton garçon ? | translation |
+| O köè bèllon kiolöö | il est parti couper les palmes | translation |
+| Ntyiikan döö. | à ce soir | translation |
+| Mbemba, vè tyie naa wva yè lökon ? | avant comment était notre village | translation |
+| Tyièila pilèn pilèn ndan ko ndu o nö ni | maisons n'étaient pas serrées, pêle-mêle | translation |
+| A yè hina tongia yè tyièilan ? | avec quoi vous éclairez maisons ? | translation |
+| Bombola ma tyuèilan naa n va kiisuu ni | avec huile rouge | translation |
+| La nö pa tyièi le kaando ? | vous avez maison prière ? | translation |
+| O yè nin niaa kela yè ? | vous marchez comment ? | translation |
+| A n pelu naa n wva kela ni | on marchait à pieds | translation |
+| Nèèla bèndulen vèlè tyiulan tèèn | gdes routes partout | translation |
+| Tangulla kèndèlan la tyo babako | belles constructions | translation |
+
+## p. 144 (PDF 162)
+
+No handwritten notes. The lower half of this scan is a double exposure: a second, offset copy of the same page is printed over it, and the handwriting of the facing p. 143 shows through faintly at the top. The transcription follows the sharper of the two impressions; the first-column entries Pèèlènnden, Seenguuvo and Työngöi are partly overprinted, and the column headings are blank on the typescript.
+
+## Verso of p. 144 (PDF 163)
+
+The back of the sheet has no typed text (the clothing list of p. 144 shows through in reverse). It holds a handwritten French–Kisiei version of the start of the "Vali hunndan" dialogue from p. 143, with some forms corrected:
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | je vais au bas-fond : i ~~tya~~ ~~lan~~ o hunndo nin | translation |
+| *(free note)* | pr quoi faire ? : ~~le~~ yè tosa | translation |
+| *(free note)* | pr faire clôture. et toi ? : le kungua bèndiaa, num yè ? | translation |
+| *(free note)* | je vais manioc défricher : i ~~tyalan~~ yambè ~~fèèyaa~~ | translation |
+| *(free note)* | ta femme est là ? : laa num tyo nan ? | translation |
+| *(free note)* | elle est partie désherber le champ : o köè höönuo o poli | translation |
+| *(free note)* | est-ce que tu pars demain ? : vè a köanin soidi | translation |
+| *(free note)* | où ? pquoi ? : köè ? le yè ~~vè~~ ? | translation |
+| *(free note)* | où est ton garçon ? : köè pöö nummdo tyo yè ? | translation |
+
+## p. 145 (PDF 164)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vèè bioba bioba nö yè baa ? | Vèè tan nö yè wongiö ? [?] (written beside it) | variant |
+| Fallo biobalan vèè nè ? | Fallo pla tan tan woè nè ? [?] (written beside it) | variant |
+| Fallo ya yè ? | ? | comment |
+| A tye volun numdon, mingul la singaa. | A tye (rewritten below the overtyped "A") | comment |
+
+## Verso of p. 146 (PDF 166)
+
+The back of the sheet has no typed text (the professions list of p. 146 shows through in reverse). It holds a handwritten French translation of the "O Baaluo nin" dialogue from p. 145, headed "Au bar p. 145":
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | T. : qu'est-ce que vous avez ici, qqch à manger ? | translation |
+| *(free note)* | – nous avons du riz, oeufs, viande grillée, vin, intestins du coq, orange[s] | translation |
+| *(free note)* | – combien ça coûte | translation |
+| *(free note)* | – … | translation |
+| *(free note)* | – Mets-nous riz + viande | translation |
+| *(free note)* | – Fallo, combien de plats ? | translation |
+| *(free note)* | – … 1 de riz, 1 viande | translation |
+| *(free note)* | – et toi mon camarade, que veux-tu ? | translation |
+| *(free note)* | – mets-moi plat coq avec 1 bt vin | translation |
+| *(free note)* | – Fallo, que tu m'apportes encore : vèlè jus orange | translation |
+| *(free note)* | – Camarade ! ton argent combien en tout | translation |
+| *(free note)* | – 140 | translation |
+| *(free note)* | – Fallo et moi | translation |
+| *(free note)* | – toi = num 150 | translation |
+| *(free note)* | – tu as vu ton argent, remets-moi la monnaie | translation |
+
+## p. 147 (PDF 167)
+
+Both dialogues carry a handwritten French translation on the right; the faint typed list of the facing p. 148 shows through behind them.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| BAALAHAN | Baaralan : les travaux | gloss |
+| O vanasöndöa lo ya i tyo yö ni | chez le tailleur, je vais apporter … | translation |
+| Ndu pilè tosa baala ni ? | il travaille seul ? | translation |
+| O nö kaandenkaa | il a des apprentis | translation |
+| O nan, kè Dötölölen ya how yeema | c'est bon, mais je préfère être d[octeur] | translation |
+| Vanavaa o tyo ni. Bom num yè ? | il est cultivateur. et ton oncle | translation |
+| Sumnden o tosa ni | il est forgeron | translation |
+| Ntyiikan vèlè. | on se reverra | translation |
+| Ya ni | c'est moi | translation |
+| La nö pa fondaa nanun ? | vous avez place ici; "fondaa" underlined | translation |
+| Nkö mi i tofa lan | allons je vais regarder | translation |
+| La pömbö suula lan, siiliyon 150 | la petite là, 150 | translation |
+| Hoo yè ? | celle-là ? | translation |
+| La bèndan suu va siiliyon 200 | la grande | translation |
+| Mèè i tyua hoo | je prends celle-là | translation |
+| Bii kiiye | tiens la clé | translation |
+| Tyu ya volöla nilan | amène-moi mon bagage | translation |
+| Nua lan | les voici | translation |
+| Pena ya tindii siödii pum | demain matin tu me réveilles | translation |
+| I toei | j'ai entendu | translation |
+
+## p. 148 (PDF 168)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Deltyoonöö : De-löö-tyoo- | nöö (completing the syllabification; applied in the transcription) | comment |
+| *(right margin, against le roi, l'étranger, la vérité, l'enfant)* | short dashes marking these entries | comment |

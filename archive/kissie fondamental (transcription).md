@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation, the verb lexicon, adverbs, particles and linking words, syntax (alliterative structure, simple and complex sentences), and the start of the Kisiei–French lexicon (typescript pp. 1–131). PDF pages 1 and 3–148 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation, the verb lexicon, adverbs, particles and linking words, syntax (alliterative structure, simple and complex sentences), and the Kisiei–French lexicon up to "La société" (typescript pp. 1–148). PDF pages 1 and 3–168 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -4471,3 +4471,627 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Koongo lehöllo | Koo-ngo/le-höl-lo | la paupière |
 | Kuuvo | Kuu-vo | la joue |
 | … | … | … |
+
+> ✎ [Handwritten notes, p. 132](kissie%20fondamental%20(handwritten%20notes).md#p-132-pdf-149)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Kpannde | Kpan-nde | la tempe |
+| Kpèndèi | Kpè-ndèi | la côte |
+| Kpelenkpelennde | Kpe-len-kpe-len-nde | la chevielle |
+| Lalle | Lal-le | la sueur |
+| Löluan | Lö-lu-an | la salive |
+| Löömei | Löö-mei | la morve |
+| Löluoo | Lö-lu-oo | la cuisse |
+| Malalèi | Ma-la-lèi | le pancréas |
+| Mèèlen | Mèè-len | le sein |
+| Mèmèan | Mè-mè-an | les larmes |
+| Milinndo | Mi-lin-ndo | le nez |
+| Munduo | Mun-nduo | la nuque |
+| Nilen | Nilen | l'oreille |
+| Nönöö | Nö-nöö | le lait |
+| Paa | Paa | l'os |
+| Paa tyongu tumndo | Paa/tyo-ngu/tum-ndo | l'omoplate |
+| Pelei | Pe-lei | le pied |
+| Peliiyolle | Pe-lii-yol-le | le mollet |
+| Pulen | Pu-len | le nombril |
+| Sondoo | So-ndoo | la bouche |
+| Suei | Suei | le doigt |
+| Suei bènduei | Suei/bèn-duei | le pouce |
+| Suei bèndiei | Suei/bèn-diei | l'index |
+| Suei/bawve | Suei/baw-ve | le majeur |
+| Suei lilèi | Suei/li-lèi | l'annulaire |
+| Suei mèèlèi | Suei/mèè-lèi | l'auriculaire |
+| Taayoo | Taa-yoo | molaire |
+| Takpaa | Ta-kpaa | la poitrine |
+| Tendei | Te-ndei | le front |
+| Töndikööliei | To-ndi-köö-liei | le tendon |
+| Tuilian | Tui-lian | l'urine |
+| Tyannda | Tyan-nda | la hanche |
+| Tyonguo | Tyo-nguo | l'épaule |
+| Työtyöèi | Työ-työèi | la lèvre |
+| Tyinnde | Tyin-nde | la dent |
+| Tyinhikiolèi | Tyi-nhi-kia-lèi | l'incisive |
+
+> ✎ [Handwritten notes, p. 133](kissie%20fondamental%20(handwritten%20notes).md#p-133-pdf-150)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Tyinhiitaaye | Tyi-nhiitaa-ye | la dent de molaire |
+| Tyinhiipianduei | Tyi-nhii-pian-duei | la canine |
+| Tyuèyan | Tyuè-yan | la graisse |
+| Visiei | Vi-siei | la chair |
+| Vulen | Vu-len | le genou |
+| Vööndo | Vöö-ndo | l'aisselle |
+| Yawvo | Yaw-vo | la peau |
+| Yèmbèi | Yè-mbèi | l'ongle |
+| Yemnde | Yem-nde | le foie |
+| Yiinde | Yii-nde | les cheveux |
+| Yiinhii lakoongoei | Yii-nhii/la-koo-ngoei | les cils |
+| Yiinhii lamilinde | Yii-nhii/la-mi-lin-de | les moustaches |
+
+#### SALUTATIONS A L'ARRIVEE D'UN ETRANGER
+
+(L'étranger = lamini)
+
+| | |
+| --- | --- |
+| <u>Lamini</u> | la vosè ! |
+| <u>Sukudu</u> | Mba isè ! A tyo kèndè ? |
+| <u>Lamini</u> | Mèèmèè le ! hina yè ? |
+| <u>Sukudu</u> | Le saw mèlèka tana vö le |
+| <u>Lamini</u> | I sè ! |
+| <u>Sukudu</u> | Mba ! tyalnun |
+| <u>Lamini</u> | <u>Vè</u> <u>laa</u> num <u>yè</u> ? |
+| <u>Sukudu</u> | O Köè o löö nin |
+| <u>Lamini</u> | La tyo kèndè ? |
+| <u>Sukudu</u> | Tana oo tana le ! Kala num tyo kènde ? |
+| <u>Lamini</u> | I mèi ndu kèndè ! |
+| <u>SUKUDU</u> | Finya num yè ? |
+| <u>Lamini</u> | Ndu bè tyo kèndè ! A yil hina laapi ! |
+| <u>Sukudu</u> | Mba ! A tye söö, fandaa ni |
+| <u>Lamini</u> | Balika |
+| <u>Sukudu</u> | Tyèiyo ni, nua nèa num pèngia. |
+
+### LA FAMILLE
+
+> ✎ [Handwritten notes, p. 134](kissie%20fondamental%20(handwritten%20notes).md#p-134-pdf-151)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bembaa | Be-mbaa | le grand-père |
+| Bènduo | Bè-nduo | le grand frère |
+| Bomndo | Bom-ndo | l'oncle |
+| Bölaa | Bö-laa | belle-soeur/beau-frère |
+| Bömöö | Bö-möö | la tante |
+| Finyaa | Fi-nyaa | le père |
+| Falnö | Fal-nö | beau-père/beau fils |
+| Kalaa | Ka-laa | la mère |
+| Kalamamaa | Ka-la-ma-maa | la grand-mère |
+| Kaasonnöö | Kaa-son-nöö | l'aîné |
+| Lefuo | Le-fuo | le gendre:la bru |
+| Lanöö | La-nöö | l'épouse |
+| Mbokponi | Mbo-kpo-ni | la demoiselle |
+| Nde lefu | Nde/le-fu | la belle mère |
+| Pönöö | Pö-nöö | l'époux |
+| Pömböö | Pö-mböö | le jeune frère |
+| Pèndunöö | Pè-ndu-nöö | le jumeau |
+| Toongoo Piaanduo | Too-ngoo/Piaa-nduo | le neveu |
+| Toongoo laanduo | Too-ngoo/laa-nduo | la nièce |
+| Tyua mamaa | Tyua/ma-maa | le petit-fils |
+| Vanapönöö | Va-na-pö-nöö | l'homme |
+| Vanalanöö | Va-na-la-nöö | la femme |
+| Viiyo | Vii-yo | l'orphelin |
+| Yemaa | Ye-maa | la soeur |
+| Yembuo | Ye-mbuo | le célibataire |
+| Yunguo | Yu-nguo | la famille |
+
+> ✎ [Handwritten notes, p. 135](kissie%20fondamental%20(handwritten%20notes).md#p-135-pdf-152)
+
+<u>LANGAGE</u> :
+
+| | |
+| --- | --- |
+| <u>Teeva</u> | Molisi ! Nkö (miukö) yil yungu nummdo. |
+| <u>Molisi</u> | O nan taw, nkö naa nhiön |
+| <u>Teeva</u> | Köè fiinya num tyo yè ? |
+| <u>Molisi</u> | Nufa ndön o tongo nin ? |
+| <u>Teeva</u> | Kè ! Kala num yè ? |
+| <u>Molisi</u> | O Köè o löö nin. |
+| <u>Teeva</u> | Vè a nö pömbö a ? |
+| <u>Molisi</u> | I nö pömböa a yaa |
+| <u>Teeva</u> | Köè nda tyo yè ? |
+| <u>Molisi</u> | A tyo o kaanden |
+| <u>Teeva</u> | Köè yeemaa nummda tyo yè ? |
+| <u>Molisi</u> | Ndu pilè ya i nö ni, diolan a Sia |
+| <u>Teeva</u> | Ndu bè o kaanden o tyo ni ? |
+| <u>Molisi</u> | O köè mènnda köndö |
+| <u>Teeva</u> | Mèè Molisi i kwè |
+| <u>Molisi</u> | Nuali Teeva. Nkö i liila num. |
+
+### LA FAUNE
+
+> ✎ [Handwritten notes, p. 136](kissie%20fondamental%20(handwritten%20notes).md#p-136-pdf-153)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Böölen | Böö-len | la plume |
+| Bènguo | Bè-nguo | la patte |
+| Buukuo | Buu-kuo | le sabot |
+| Dèluo | Dè-luo | le ver |
+| Dökuuvo | Dö-kuu-vo | le canard |
+| Faaboo | Faa-boo | le perroquet |
+| Kamaa | Kamaa | l'éléphant |
+| Kaangoo | Kaa-ngoo | le termite |
+| Kambalaa | Ka-mba-laa | l'insecte |
+| Kankpoo | Kan-kpoo | le pigeon ramier |
+| Kèwvo | Kèw-vo | le serpent |
+| Keemaa ou Ngeemaa | Kee-maa ; ngee-maa | le scorpion |
+| Kèkèuvo | Kè-kèu-vo | l'écaille |
+| Koondo | Koo-ndo | l'épervier |
+| Kovöö | Ko-vöö | l'aigle |
+| Kiinkiindo | Kiin-kii-ndo | la mouche maçonne |
+| Kölölöndöö | Kö-lö-lö-ndöö | le mille pattes |
+| Kuiyo | Kui-yo | le caïman |
+| Kumbanndo | Ku-mban-ndo | l'aile |
+| Kposio | Kpo-sio | le lézard |
+| Kpööndo | Kpöön-do | le cynocéphale |
+| Leu | Leu | la corne |
+| Lèu | Lèu | l'abeille |
+| Leendo | Lee-ndo | le margouilaat |
+| Lian | Lian | le miel |
+| Lomnden | Lom-nden | la queue |
+| Maloo | Ma-loo | l'hippopotame |
+| Muiyo | Mui-yo | le moustique |
+| Nimöö | Ni-möö | trompe d'éléphant |
+| Nyaayoo | Nyaa-yoo | le chat |
+| Nyaaye yondoo | Nyaa-ye/yon-doo | le chat tigre |
+| Pewvo | Pew-vo | le cochon |
+
+> ✎ [Handwritten notes, verso of p. 136](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-136-pdf-154)
+
+> ✎ [Handwritten notes, p. 137](kissie%20fondamental%20(handwritten%20notes).md#p-137-pdf-155)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Pengoo | Pe-ngoo | la mouche |
+| Pelten | Pel-ten | l'oeuf |
+| Pèèpèi | Pèè-pèi | la nageoire |
+| Poonpoonndo | Poon-poo-ndo | le pigeon vert |
+| Saa | Saa | le mouton |
+| Sanndo | San-ndo | le lièvre |
+| Sangöö | Sa-ngöö | la tortue |
+| Saa kondoo | Saa/kon-doo | le bélier |
+| Saa laanduo | Saa laa-nduo | la brebis |
+| Sengoo | Se-ngoo | l'antilope |
+| Sow | Sow | le cheval |
+| Solaanduo | So-laa-nduo | la jument |
+| Sofèlöö | So-fè-löö | l'âne domestique |
+| Sölöö | Sö-löö | la grenouille |
+| Söö | Söö | le poulet |
+| Soonöö | Soo-nöö | la sauterelle |
+| Siamndo | Siam-ndo | la pintade |
+| Sisinndo | Si-sin-ndo | la fourni |
+| Sulukuo | Sulukuo | l'hyène |
+| Suwvo | Suw-vo | le poisson |
+| Tambillo-kuello | Ta-mbil-lo ; kuel-lo | la panthère |
+| Tandanpollo | Tan-dan-pol-lo | le papillon |
+| Tasaa | Ta-saa | la chauve-souris |
+| Tèu | Tèu | la termitière |
+| Toovaa | Too-vaa | le taureau |
+| Toovio | Too-vio | le bouc |
+| Tömndo | Töm-ndo | le singe |
+| Tunndo | Tun-ndo | le chien |
+| Tuntyua | Tun-tyua | le chiot |
+| Tyowvo | Tyow-vo | le rat palmiste |
+| Tyokaatyoo | Tyo-kaa-tyoo | le crapaud |
+| Työtyöèi | Työ-työèi | le bec |
+| Tyinhii kamaa | Tyi-nhii/ka-maa | l'ivoire |
+| Tyuinndo | Tyuin-ndo | la chèvre |
+| Visio | Vi-sio | l'animal |
+| Völöö | Vö-löö | la perdrix |
+
+> ✎ [Handwritten notes, p. 138](kissie%20fondamental%20(handwritten%20notes).md#p-138-pdf-156)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Vèènden | Vèè-nden | le nid |
+| Yalaa | Ya-laa | le lion |
+| Yowvo | Yow-vo | l'oiseau |
+| Yöönyöö | Yöö-nyöö | le pangolin |
+
+<u>LANGAGE</u> : Työlua
+
+| | |
+| --- | --- |
+| <u>Henri</u> | Seku, vèè a nö työlua |
+| <u>Seku</u> | I nö Tunndo a nyaayoo |
+| <u>Henri</u> | O yè tun nummdo tyo yè tosa ? |
+| <u>Seku</u> | Tyièiyo o manda ni |
+| <u>Henri</u> | E nyaaye ~~mummdo~~ <ins>nö</ins> yè ? |
+| <u>Seku</u> | Bèlla ndu töaw ni |
+| <u>Henri</u> | A nö tyanhaa kèndè |
+| <u>Seku</u> | I nö vèlè visia tyieyaa tyelen |
+| <u>Henri</u> | A köè ? |
+| <u>Seku</u> | I nö söö, saa a nawva |
+| <u>Henri</u> | Nyeeman työlua tönö nda tyo o böö. |
+
+### LA FLORE & LES SUBSTANCES VEGETALES
+
+> ✎ [Handwritten notes, p. 139](kissie%20fondamental%20(handwritten%20notes).md#p-139-pdf-157)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bandaa | Ban-daa | le fromager |
+| Boo | Boo | coque-écorce-peau de fruit |
+| Bölöö | Bö-löö | banane |
+| Bölö Tumndo | Bö-lö/Tum-ndo | le bananier |
+| Beesenhan | Bee-se-nhan | petite aubergine très amère |
+| Bèi, Bai | Bèi ; Bai | aubergine |
+| Bèllon | Bèl-lon | palmiste |
+| Bölöan | Bö-löan | vin de palme extrait du tronc |
+| Bèngu lefunndo | Bè-ngu/le-fun-ndo | le cotonnier |
+| Billo | Bil-lo | l'herbe |
+| Funnden | Fun-nden | le coton |
+| Hemndo | Hem-ndo | la gourde |
+| Hollo | Hol-lo | le champignon |
+| Kawve | Kaw-ve | le haricot |
+| Kaan | Kaan | l'indigot |
+| Kèmbèi | Kè-mbèi | amande de palmiste |
+| Kèmbèi kokoei | Kè-mbèi/Ko-koei | noix de coco |
+| Kollo | Kol-lo | noix de cola |
+| Kökumbèiyo | Kö-ku-mbèi-yo | le concombre |
+| Kulen | Ku-len | l'igname |
+| Kulle | Kul-le | la graine |
+| Kumtulen | Kum-tu-len | le fougère |
+| Koei | Koei | vin de palme extrait de la fleur |
+| Kisèi - Kisai | Ki-sèi ; Ki-sai | le piment |
+| Kpaasalen | Kpaa-sa-len | le gombo |
+| Kpaanyaa | Kpaan-yan | feuilles de patate |
+| Kpandilen | Kpan-di-len | la patate |
+| Kpèiyo | Kpèi-yo | le caoutchouc |
+| Lèwve | Lèw-ve | branche d'arbre |
+| Lembulten | Le-mbul-ten | le citron |
+| Maalon | Maa-lon | le riz |
+| Möèma vawvan | Möè-ma/vaw-van | vin de palme |
+| Peelen | Pee-len | la feuille |
+
+> ✎ [Handwritten notes, p. 140](kissie%20fondamental%20(handwritten%20notes).md#p-140-pdf-158)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Peele taanndon | Pee-le taan-ndon | feuille de tabac |
+| Puiyo | Pui-yo | la paille |
+| Puundulen | Puun-du-len | la racine |
+| Sayaa | Sa-yaa | la savane |
+| Senhaa | Se-nhaa | la raphia |
+| Senhan | Se-nhan | vin de raphia |
+| Siawlen | Siaw-len | l'orange |
+| Siètullan | Siè-tul-lan | huile de karité |
+| Sömöö | Sö-möö | acajou |
+| Suèi | Suèi | le maïs |
+| Suanlawomndo | Suan-la-wom-ndo | le petit mil |
+| Tandoo | Tan-doo | la sève |
+| Taando | Taa-ndo | le tabac |
+| Taan Tyuiyaa | Taan/tyui-yaa | tabac en poudre |
+| Taala itendoo | Taa-la/i-ten-doo | la calebasse |
+| Tèi | Tèi | l'arachide |
+| Tölöö | Tö-löö | la plante |
+| Tèngèlen | Tè-ngè-len | le roseau |
+| Tyalen | Tya-len | la papaye |
+| Tyale tumnden | Tya-le/tum-nden | le papayer |
+| Työnndon | Työn-ndon | le gros mil |
+| Tyèngilen | Tyè-ngi-len | la canne à sucre |
+| Vawvo | Vaw-vo | le palmier à huile |
+| Yasaa | Ya-saa | l'épi |
+| Yabibio | Ya-bi-bio | l'ananas |
+| Yandöö | Yan-döö | la fleur |
+| Yömndo | Yöm-ndo | l'arbre, le bois |
+| Yoolen | Yoo-len | la liane |
+| Yendioo | Yen-dioo | le néré |
+| Yambèi | Ya-mbèi | tubercules |
+| Yambele folalen | Ya-mba-le/fo-la-len | le manioc |
+
+> ✎ [Handwritten notes, p. 141](kissie%20fondamental%20(handwritten%20notes).md#p-141-pdf-159)
+
+<u>Yondoo</u>
+
+| | |
+| --- | --- |
+| <u>Fala</u> | Poa n könnun kelaa |
+| <u>Faya</u> | Kuè ! |
+| <u>Fala</u> | Yondoo nim |
+| <u>Saa</u> | Yè tosa ? |
+| <u>Fala</u> | Le yömi veselèi nuuviaa |
+| <u>Saa</u> | Ya, Tèngèlan ya köa nuuvia ni |
+| <u>Faya</u> | Nkönnun. Kè ya kèmbön ya köa tyovia ni |
+| <u>Fala</u> | Faya le yè tosa |
+| <u>Faya</u> | Le kölan a mun o lakolio |
+| <u>Fala</u> | Num yè saa ? |
+| <u>Saa</u> | Le kungaa nuu bèndiaa |
+| <u>Fala</u> | Mèè poa nkönnun. |
+
+<u>Bundöö</u>
+
+| | |
+| --- | --- |
+| <u>Kundu</u> | Nyuma, nufa yondo bèndo si ! |
+| <u>Nyuma</u> | Kpoki kundu ! O tyo yondo le tyo hoo le |
+| <u>Kundu</u> | Yèè nin ? |
+| <u>Nyuma</u> | Bundöö tyo hoo ni |
+| <u>Kundu</u> | Nkö yömi kamèi nufia |
+| <u>Nyuma</u> | I tyo la kö le |
+| <u>Kundu</u> | Le yè ? |
+| <u>Nyuma</u> | Yalaa, kuella a kèwva vöönda tyo lon taw |
+| <u>Kundu</u> | N lum bundi kon te ? |
+| <u>Nyuma</u> | Num sina maa bundöö nö tönöö le ? |
+| <u>Kundu</u> | Ö tönö ndöö ? |
+| <u>Nyuma</u> | O yöngu naa yömi sialèi, ndu tosa vèlè ni mii hala Sia taw |
+| <u>Kundu</u> | A nö di tyan nuu, bundöö tyo nyè kèndè. |
+
+### LE VILLAGE
+
+> ✎ [Handwritten notes, p. 142](kissie%20fondamental%20(handwritten%20notes).md#p-142-pdf-160)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Böö | Böö | la concession, cour |
+| Bilio | Bi-lio | la rue (route) |
+| Hunndo | Hun-ndo | le basfond |
+| Kaa ; kondaa | Kaa ; kon-dan | le grenier |
+| Kabilaa | ka-bi-laa | le clan |
+| Kaasoo | Kaa-soo | la prison |
+| Kölönndo | Kö-lön-ndo | le puit |
+| Kungaa | Ku-nga | la clôture,palissade |
+| Maando | Maa-ndo | le sanctuaire |
+| Nèiyo | Nèi-yo | le chemin, route |
+| Naaköö | Naa-köö | la plantation |
+| Nèa soalaa | Nèa/soa-la | lieux d'aisance |
+| Löö | Löö | le marché |
+| Sallo | Sal-lo | le tas d'ordure |
+| Sèsiei | Sè-siei | le jardin |
+| Sèmtöö | Sèm-töö | la véranda |
+| Tallo | Tal-lo | le pont |
+| Tongo työwvo | To-ngo/Työw-vo | la forge |
+| Tyieo | Tyieo | le village |
+| Tyièiyo | Tyièi-yo | la maison |
+| Tyièi tollo, tyièi panio | Tyièi/tol-lo ; Tyièi pa-nio | Maison en tôle |
+| Tyiei puiyo | Tyièi/Pui-yo | Maison en paille |
+| Söndökölöö | Sön-dö-kö-löö | le hameau |
+| Vuköö | Vu-köö | lieu où se traite tous les problèmes du village |
+| Yasabaa | Ya-sa-baa | Atelier |
+| Yondo toomaa | Yon-do/too-maa | la forêt sacrée |
+
+> ✎ [Handwritten notes, p. 143](kissie%20fondamental%20(handwritten%20notes).md#p-143-pdf-161)
+
+<u>VALI HUNNDAN</u>
+
+| | |
+| --- | --- |
+| <u>Sepe</u> | Kèli isè |
+| <u>Kèli</u> | Nba Sepe isè ! |
+| <u>Sepe</u> | Kuè n tyo yè tan nua |
+| <u>Kèli</u> | I tyo lan o hunndo nin |
+| <u>Sepe</u> | Yè tosa |
+| <u>Kèli</u> | Le kunga bèndiaa. Num yè |
+| <u>Sepe</u> | I tyo la<ins>n</ins> yambèi fèèya |
+| <u>Kèli</u> | Laa num tyo nan? |
+| <u>Sepe</u> | O köè höönuo o Poli |
+| <u>Kèli</u> | Vè a köanin siödii |
+| <u>Sepe</u> | Kuè ? |
+| <u>Kèli</u> | O hun bilikadio nin |
+| <u>Sepe</u> | Le yè ? |
+| <u>Kèli</u> | Le bungèila masinio mèi lan <ins>w</ins>vaa |
+| <u>Sepe</u> | Kuè poo numdo tyo yè |
+| <u>Kèli</u> | O köè bèllon kiolöö |
+| <u>Sepe</u> | Niilu kèndè... |
+| <u>Kèli</u> | Ntyiikan döö. |
+
+<u>HIOWVO LATYIO</u>
+
+| | |
+| --- | --- |
+| <u>Kundu</u> | Mbemba, vè tyie naa <ins>w</ins>va yè lökon ? |
+| <u>Bembaa</u> | Tyièila pilèn pilèn ndan ko ndu o nö ni |
+| <u>Kundu</u> | A yè hina tongia yè tyièilan ? |
+| <u>Bembaa</u> | Bombola ma tyuèilan naa n va kiisuu ni |
+| <u>Kundu</u> | La nö pa tyièi le kaando ? |
+| <u>Bembaa</u> | Tyun ndöö bè ve le |
+| <u>Kundu</u> | O yè nin niaa kela yè ? |
+| <u>Bembaa</u> | A n pelu naa n <ins>w</ins>va kela ni |
+| <u>Kundu</u> | Haw yè, mömbillan, halipulennden, motolan la tyo |
+| <u>Bembaa</u> | Nèèla bèndulen vèlè tyiulan tèèn |
+| <u>Kundu</u> | Tangulla kèndèlan la tyo babako |
+| <u>Bembaa</u> | Depandan yöngu hiowvö latyi kon ni. |
+
+### LE VETEMENT - LA PARURE - LA TOILETTE
+
+> ✎ [Handwritten notes, p. 144](kissie%20fondamental%20(handwritten%20notes).md#p-144-pdf-162)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Domaa | Do-maa | la chemise |
+| Fuo | Fuo | l'éponge |
+| Filaniiyo | Fi-la-nii-yo | le tricot |
+| Kelèi | ke-lèi | l'anneau |
+| Kelèi bai | Ke-lèi bai | le bracelet |
+| Kelèi Pelei | Ke-lèi Pe-lei | anneau de pied |
+| Kelèi isoei | Ke-lèi/i-soei | bague |
+| Kelèi sianiei | Ke-lèi/si-niei | -"- en or |
+| -"- nkaniei | Ke-lèi/nka-niei | -"- en argent |
+| Kola buiyo | Ko-la, bui-yo | le jupon |
+| Kolaa | Ko-la | le pagne, le tissu |
+| Kookoo, yoolen | Koo-koo ; yoo-len | le mouchoir de tête |
+| Koei | Koei | le cauri |
+| Kola kuumbuando | Ko-la/kuu-mbua-ndo | la couverture |
+| Koongo löèyaa<br>Hölaa Piömndo | Koo-ngo/löè-yaa<br>Hö-laa/piöm-ndo | le masque |
+| Kpokoloo | Kpo-ko-loo | latérite servant au maquillage |
+| Lasikölöö | La-si-kö-löö | le parfum |
+| Lèmböö ; Kuilio | Lè-mböö ; kui-lio | la culotte |
+| Lèmbèvilèiyo | Lè-mbè-vi-lèi-yo | le pantalon |
+| Mösillo | Mö-sil-lo | coiffure en général |
+| Paamaa | Paa-maa | sorte de slip des femmes |
+| Pondaa | Pon-daa | encre noire pour maquillage |
+| Pèèlènnden | Pèè-lèn-nden | le cache-sexe |
+| Samtaa | Sam-taa | chaussure en général |
+| Sangio | Sa-ngio | le peigne |
+| Seenguuvo | See-nguu-vo | coquillage |
+| Tofanndo | To-fan-ndo | le miroir |
+| Tooma Pööndo | Too-ma/Pöö-ndo | tatouages |
+| Työngöi | Työ-ngöi | cache-sexe devenu accoutrement artistique |
+
+> ✎ [Handwritten notes, verso of p. 144](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-144-pdf-163)
+
+> ✎ [Handwritten notes, p. 145](kissie%20fondamental%20(handwritten%20notes).md#p-145-pdf-164)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Tyuèiyan | Tyuèi-yan | Pommade vaseline-huile |
+| Yawlen | Yaw-len | la ceinture |
+| Yöövaa | Yöö-vaa | collier-perle |
+| Yiföö | Yi-föö | la poche |
+| Yöwviaa | Yöw-viaa | le maquillage |
+| Yuuluo | Yuu-luo | le chiffon |
+
+<u>O Baaluo nin</u>
+
+| | |
+| --- | --- |
+| <u>Tamba</u> | Fallo isè ! |
+| <u>Mamadu</u> | Mba isè ! |
+| <u>Tamba</u> | Yèè nia nö yè nanun maa nyèdia ? |
+| <u>Mamadu</u> | N nö mömöö, pelta söölan, visi toanhaa, möèiyan, pulun söö, a siaw ma vaiyan. |
+| <u>Tamba</u> | Vèè bioba bioba nö yè baa ? |
+| <u>Mamadu</u> | Mömöö siiliyon 25, vision 60, möèiyan 100, pelta söölan 30, pulun söö 40, siawma vaiyan siiliyon 20. |
+| <u>Tamba</u> | Dow naa mömöö a vision |
+| <u>Mamadu</u> | Fallo biobalan vèè nè ? |
+| <u>Tamba</u> | Biobalan : mömöö o pilè, vision o pilè |
+| <u>Mamadu</u> | Poo num yè n yeema yè ? |
+| <u>Faya</u> | Dow ya Pulun söö bioba o pilè a möèiyan sianie i pilè |
+| <u>Tamba</u> | Fallo ! maa tyu ya vèlè siawma vaiyan |
+| <u>Faya</u> | Poo ! Volin numdon vèinè faw faw ? |
+| <u>Mamadu</u> | Faw-faw siiliyon 140 |
+| <u>Tamba</u> | Fallo ya yè ? |
+| <u>Mamadu</u> | Num siiliyon 105 |
+| <u>Tamba</u> | A tye volun numdon, mingul la singaa. |
+
+### LES PROFESSIONS
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bondomanöö | Bon-do-ma-nöö | le guitariste |
+| Doosunöö | Doo-su-nöö | le chasseur |
+| Dötölönöö | Dö-tö-lö-nöö | le docteur |
+| Hönlesènnöö | Hön-le-sèn-nöö | le flûtiste |
+| Kalangènöö | Ka-la-ngè-nöö | le cordonnier |
+| Kamafoeinöö | Ka-ma-foei-nöö | le photographeur |
+| Kèèmianöö | Kèè-mia-nöö | le décorateur |
+| Kiliiyömnöö | Ki-lii-yöm-nöö | le bûcheron |
+| Kööfanöö | Köö-fa-nöö | le maître-l'enseignant |
+| Kuntiinöö | Kun-tii-nöö | le chef-directeur |
+| Lakolinöö-Kaandennöö | La-ko-li-nöö - Kaa-nden-nöö | l'élève |
+| Lawnöö | Law-nöö | la tresseuse |
+| Luakolanöö | Lua-ko-la-nöö | le tisserand |
+| Saabelanöö | Saa-be-la-nöö | architecte |
+| Sendinöö | Sen-di-nöö | le coiffeur |
+| Sèvanöö | Sè-va-nöö | l'écrivain |
+| Silanöö | Si-la-nöö | l'éducateur |
+| Sodasinöö | So-da-si-nöö | le soldat |
+| Solanöö | So-la-nöö | l'expert |
+| Sokonöö | So-ko-nöö | le médecin |
+| Sumnöö | Sum-nöö | le forgeron |
+| Tangulnöö | Ta-ngul-nöö | le maçon |
+| Tèndanöö | Tè-nda-nöö | le chirurgien |
+| Tuulianöö | Tuu-lia-nöö | le dessinateur |
+| Vanakaa | Va-na-kaa | le teinturier |
+| Vananyètyaa | Va-na-nyè-tyaa | le musicien |
+| Vanasialaa | Va-na-sia-laa | le menuisier |
+| Vanatyamndo | Va-na-tyam-ndo | la magicien |
+| Yinnöö | Yin-nöö | le peintre |
+| Yulanöö | Yu-la-nöö | le commerçant, marchand |
+
+> ✎ [Handwritten notes, verso of p. 146](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-146-pdf-166)
+
+> ✎ [Handwritten notes, p. 147](kissie%20fondamental%20(handwritten%20notes).md#p-147-pdf-167)
+
+<u>BAALAHAN</u>
+
+| | |
+| --- | --- |
+| <u>Nyuma</u> | Hali ! O yè n tyo yè tosaa a kolan ho ? |
+| <u>Hali</u> | O vanasöndöa lo ya i tyo yö ni |
+| <u>Nyuma</u> | Ndu pilè tosa baala ni ? |
+| <u>Hali</u> | O nö kaandenkaa |
+| <u>Nyuma</u> | O yè yiyan yi a baala kala ? |
+| <u>Hali</u> | O nan, kè Dötölölen ya how yeema |
+| <u>Nyuma</u> | Yè fiinya num tyo yè tosaa ? |
+| <u>Hali</u> | Vanavaa o tyo ni. Bom num yè ? |
+| <u>Nyuma</u> | Sumnden o tosa ni |
+| <u>Hali</u> | Niilu kèndè Nyuma |
+| <u>Nyuma</u> | Ntyiikan vèlè. |
+
+<u>O LOTELLO</u>
+
+| | |
+| --- | --- |
+| <u>Fala</u> | Poo isè ! |
+| <u>Musa</u> | Mba isè ! |
+| <u>Fala</u> | O fanfannö tyo nan ndo ? |
+| <u>Musa</u> | Ya ni |
+| <u>Fala</u> | La nö pa fondaa nanun ? |
+| <u>Musa</u> | Nnö lumuilan lan nhuèènu |
+| <u>Fala</u> | Vèè lumuiyo nö yè baa ? |
+| <u>Musa</u> | Mèè lumuiya va yè lende kani baa va ni |
+| <u>Fala</u> | Nkö mi i tofa lan |
+| <u>Musa</u> | Tyum ndö i tyua wö kiiyon |
+| <u>Fala</u> | Vè lumuiyo hoo nö yè baa ? |
+| <u>Musa</u> | La pömbö suula lan, siiliyon 150 |
+| <u>Fala</u> | Hoo yè ? |
+| <u>Musa</u> | La bèndan suu va siiliyon 200 |
+| <u>Fala</u> | Mèè i tyua hoo |
+| <u>Musa</u> | Bii kiiye |
+| <u>Fala</u> | Tyu ya volöla nilan |
+| <u>Musa</u> | Nua lan |
+| <u>Fala</u> | Pena ya tindii siödii pum |
+| <u>Musa</u> | I toei |
+
+### LA SOCIETE
+
+> ✎ [Handwritten notes, p. 148](kissie%20fondamental%20(handwritten%20notes).md#p-148-pdf-168)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Baala folobaa | Baa-la/fo-lo-baa | l'investissement humain |
+| Bèndutyieo | Bèn-du-tyieo | le notable |
+| Bönhanndo | Bö-nhan-ndo | le meeting |
+| Delöötyoo | De-löö-tyoo | l'agression |
+| Deltyoonöö | De-löö-tyoo-<ins>nöö</ins> | l'agresseur |
+| Dènèkèndöö-Yelelaa | Dè-nè-kè-ndöö ; Ye-le-laa | le bonheur |
+| Dènèpalaa | Dè-nè-pa-laa | le malheur |
+| Diyöö koya | Di-yöö/Ko-yaa | l'assassinat |
+| Duniaa | Du-niaa | l'humanité |
+| Felengöyèi | Fe-le-ngö-yèi | la jeunesse |
+| Folio | Fo-lio | la grossesse |
+| Hööyèi | Höö-yèi | la liberté |
+| Kafalan | Ka-fa-lan | l'injustice |
+| Kèèsinanndo | Kèè-si-nan-ndo | l'acculturation |
+| Kitio, yamèi | Ki-tio ; ya-mèi | le jugement |
+| Kiilanöö | Kii-la-nöö | le messager |
+| kölnyuluo | Köl-nyu-luo | la paix |
+| Kpalilnöö | Kpa-lil-nöö | le gardien |
+| Masaa | Ma-saa | le roi, le chef |
+| Makoo | Ma-koo | l'affaire |
+| Miallo | Mial-lo | l'étranger |
+| Muloo | Mu-loo | l'impôt |
+| Nöw | Nöw | le mariage |
+| Pèngulan | Pè-ngu-lan | les limites, frontière |
+| Puusianöö | Puu-sia-nöö | le réactionnaire |
+| Sèiyo | Sèi-yo | la tombe |
+| Suansuannöö | Suan-suan-nöö | l'espion |
+| Tomaa | To-maa | le vieillard |
+| Suundaa | Suun-daa | l'adultère |
+| Tonyaa | To-nyaa | la vérité, la justice |
+| Tyaanyèi | Tyaan-yèi | l'amitié |
+| Tyèlèkpöö | Tyè-lè-kpöö | le bébé |
+| Tyèw | Tyèw | l'escalve |
+| Tyuaamböö | Tyuaa-mböö | l'enfant |
