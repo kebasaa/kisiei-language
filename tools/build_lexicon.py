@@ -88,6 +88,9 @@ def validate(domains, entries, words):
         for d in e.get("domains") or []:
             if str(d) not in domains:
                 errors.append(f"{where}: unknown semantic domain {d}")
+        ch = e.get("childs")
+        if ch is not None and (not isinstance(ch, dict) or set(ch) - {"page", "form", "sense"}):
+            errors.append(f"{where}: 'childs' takes only page, form, sense")
         lemma = str(e.get("lemma", ""))
         if e.get("status") == "attested":
             for form in [lemma] + [str(x) for x in ([e["plural"]] if e.get("plural") else []) + (e.get("forms") or [])]:
@@ -115,14 +118,16 @@ def export_csv(entries, words):
     out = io.StringIO()
     w = csv.writer(out, lineterminator="\n")
     w.writerow(["lemma", "status", "pos", "class", "plural", "forms", "gloss_fr", "gloss_en",
-                "domains", "bible_count", "bible_ref", "keita_form", "keita_page", "childs_page", "note"])
+                "domains", "bible_count", "bible_ref", "keita_form", "keita_page", "childs_page",
+                "childs_form", "southern_sense_en", "note"])
     for e in sorted(entries, key=sort_key):
         b = bible_info(e, words)
         kt, ch = e.get("keita") or {}, e.get("childs") or {}
         w.writerow([e["lemma"], e["status"], e["pos"], e.get("class", ""), e.get("plural", ""),
                     "; ".join(map(str, e.get("forms") or [])), e["gloss"]["fr"], e["gloss"]["en"],
                     " ".join(map(str, e["domains"])), b[0] if b else "", b[1] if b else "",
-                    kt.get("form", ""), kt.get("page", ""), ch.get("page", ""), e.get("note", "")])
+                    kt.get("form", ""), kt.get("page", ""), ch.get("page", ""), ch.get("form", ""),
+                    ch.get("sense", ""), e.get("note", "")])
     return out.getvalue()
 
 
@@ -157,7 +162,10 @@ def export_lift(entries, domains, words):
         if e.get("keita"):
             src.append(f"Keita 1979, p. {e['keita'].get('page', '?')}: {e['keita'].get('form', '')}")
         if e.get("childs"):
-            src.append(f"Childs 2000, p. {e['childs'].get('page', '?')}")
+            src.append(f"Childs 2000, p. {e['childs'].get('page', '?')}"
+                       + (f": {e['childs']['form']}" if e["childs"].get("form") else ""))
+            if e["childs"].get("sense"):
+                parts.append(f"    <field type=\"southern-kissi-sense\">{form('en', e['childs']['sense'])}</field>")
         if src:
             parts.append(f"    <note type=\"source\">{form('en', '; '.join(src))}</note>")
         if e.get("note"):
@@ -168,7 +176,7 @@ def export_lift(entries, domains, words):
 
 
 TEXT = {
-    "fr": {"title": "Listes de mots", "kis": "Kisiei", "pos": "Catégorie", "gloss": "Français",
+    "fr": {"south": "kissi du Sud (Childs 2000, en anglais)", "title": "Listes de mots", "kis": "Kisiei", "pos": "Catégorie", "gloss": "Français",
            "src": "Source", "intro": (
                "Ces listes sont produites automatiquement à partir du [lexique](https://github.com/kebasaa/Kisie/tree/main/lexicon) "
                "du projet ({n} entrées). Les mots sont classés par **domaines sémantiques** selon la classification "
@@ -176,7 +184,7 @@ TEXT = {
                "Les mots attestés renvoient à leur première occurrence dans la Bible en kisiei ; les mots "
                "<span class=\"ks-badge ks-res\">Réécrit</span> viennent de la description de 1979 et doivent être "
                "confirmés. Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
-    "en": {"title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
+    "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
            "src": "Source", "intro": (
                "These lists are generated automatically from the project's [lexicon](https://github.com/kebasaa/Kisie/tree/main/lexicon) "
                "({n} entries). Words are grouped by **semantic domain** following the "
@@ -219,6 +227,9 @@ def export_page(lang, entries, domains, words):
             else:
                 src = ""
             gloss = e["gloss"][lang].replace("|", "/")
+            sense = (e.get("childs") or {}).get("sense")
+            if sense:
+                gloss += f" — *{t['south']} :* {sense.replace('|', '/')}"
             lines.append(f"| {word} | {pos} | {gloss} | {src} |")
         lines.append("")
     return "\n".join(lines)

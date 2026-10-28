@@ -38,13 +38,17 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
   gloss: {fr: "tête", en: "head"}
   domains: ["2.1.1"]         # SIL semantic domain codes (quoted strings)
   keita: {form: "Bollen (ten)", page: 131}   # form as printed in Keita 1979, typescript page
-  childs: {page: 30, form: "bòlléŋ"}        # Childs 2000 page and headword, read from the page image
+  childs: {page: 30, form: "bòlléŋ", sense: "head; top, chief"}
+                             # Childs 2000: printed page and headword (read from the page image), and
+                             # optionally `sense`: the Southern Kissi meaning in English, in your own words,
+                             # when it adds to or differs from the northern (Bible) meaning
   example: GEN.3.15          # a verse showing the word (USFM reference)
   note: "free text, in French"
 ```
 
 - **Verbs:** the lemma is the long form (*tosaa*, *dioo*). The short stems go in `forms`.
-- **Glosses:** short and comma-separated. Use the meaning seen in the Bible; add Keita's or Childs's other senses after a semicolon.
+- **Glosses:** short and comma-separated. Use the meaning seen in the Bible; add Keita's other northern senses after a semicolon. Childs's Southern Kissi senses go in `childs.sense` (see below).
+- **Southern Kissi meanings:** Childs's dictionary may be used whenever a meaning or semantic field is uncertain. A Southern Kissi sense that differs from or adds to the northern meaning goes in `childs.sense`, never in `gloss`; the word lists show it separately, labelled "kissi du Sud (Childs 2000)". `gloss` describes Kisiei as written in Guinea.
 - **Bible counts and references:** do not add them by hand. The build script takes them from `references/bible-bkg-wordforms.tsv`.
 
 ## License
