@@ -64,3 +64,9 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 ## External resources
 
 - **Kisiei Bible** (YouVersion): <https://www.bible.com/bible/1394/GEN.1.BKG>. A large text in the modern orthography, including tone marks and long vowels. It is the main reference for modern spelling conventions when converting the archive transcriptions.
+
+## License
+
+The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see [`LICENSE`](LICENSE). You may share and adapt the material for non-commercial purposes, as long as you give appropriate credit.
+
+The original works in `archive/`, such as Sékou Sondo Keita's 1979 thesis, remain the work of their authors. When using them or their transcriptions, credit the original author as well as this repository.
