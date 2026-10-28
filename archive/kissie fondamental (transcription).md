@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives and the start of the possessives (typescript pp. 1–61). PDF pages 1 and 3–68 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites and the start of the cardinal numerals (typescript pp. 1–77). PDF pages 1 and 3–88 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -2189,3 +2189,535 @@ TABLEAU DES PROMONS POSSESSIFS.
 | | Pluriel | a Ndöa | I Ndön | ↑ | Ma Ndöan | ↑ | Les Siens |
 
 In both tables, separate forms that the typescript lists in one cell are given on separate lines. `↑` marks an *an* or *lan* cell that the typescript writes once, centred across the Sing. and Pluriel rows, so the form above applies to both.
+
+> ✎ [Handwritten notes, p. 62](kissie%20fondamental%20(handwritten%20notes).md#p-62-pdf-69)
+
+| PERSONNES \ MODALITES | | o, a, ö | e - i | an | len | lan | Franç. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5èPers. | Sing. | O Niaa | I Nièi,<br>nai | Ma Niaan | Le Niaa-len | La Niaa-lan | Le vôtre |
+| | Pluriel | A Niaa<br>I Niai | N Nian | ↑ | Ma Niaan<br>I nèèi | ↑ | les vôtres |
+| 6èPers. | Sing. | O Ndaa | I Ndai | Ma Ndaan | Le ndaa-len | La nda-lan | le leur |
+| | Pluriel | A Ndaa<br>I Ndai | Ndaan | ↑ | Ma Na-laan,<br>I ndai | ↑ | les leurs |
+
+EXERCIE : Remplacez les pointillés par les possessifs (adjectifs ou pronoms) convenbles dans les énoncés suivants :
+
+Yow ya kelèi......, ....... lo
+Pöa...... tyo o kaannden ; ......köè o yömnde
+Ke ya bölèi...... ma kèsi.......
+Möèina...... yeela le...... ma nan taw
+Köfanö....... tyo kèndia le....... hin te
+Min....... hiow biönnön a ........
+Yinhii...... velan a .........
+Tyèila...... la hiow........ bandei
+Yoole....... le hiw....... nanhöö le
+
+CORRECTION DE L'EXERCICE :
+
+Yow ya kelèi <u>nummde</u> (ndöèi), <u>i nii</u> loo
+Poa <u>niaa</u> (ndöa, nummda) tyo o kaannden, a ndöa (a niaa) köè o yömnde
+Ke ya bölèi <u>nii</u> (ndöèi) ma kèsi i <u>nummde</u> (N nièi)
+Möèina ndaan (nian) yeela le, <u>ma nian</u> (ma ndöan) ma nan taw
+Köfanö <u>naa</u> (Niaa, ndaa) tyo kèndia le, o <u>niaa</u> (o ndaa, o naa)hin te
+Min <u>nuu</u> (ndöö, nummdo) hiow biönnön a o <u>nummdo</u> (o ndöö, o nuu)
+Yinhii <u>ndöèi</u> ( nummde, nii) velan a i <u>nii</u> (i ndöèi, i nummde)
+Tyèila <u>nialan</u> (naalan, ndalan) hiow <u>la naalan</u> (la ndaalan) bandei
+Yoole <u>nilen</u> (nummden, ndölen) le hiw <u>le nummden</u> (le ndölen)nanhöö le.
+
+LANGAGE : L'expression de l'appartenance, la possession en Kisiei : outre les adjectifs et pronoms possessifs, on peut exprimer la possession :
+
+1°) Avec le verbe "nöw" (avoir)
+
+Ya nö söö hoo ni
+Tamba nö tyièiyo hoo ni
+Finda nö möèi he ni
+Saa nö samtalan lan ni
+Kumba nö yolen len ni
+Ndo nö siawvan man ni
+
+> ✎ [Handwritten notes, p. 63](kissie%20fondamental%20(handwritten%20notes).md#p-63-pdf-70)
+
+Nous notons l'apparition de la particule d'affirmation " ni " (c'est) qui précise en éloignant tout doute sur l'objet ou l'être possédé et son possesseur. Dans ces modèles d'expression, l'objet ou l'être possédé vient toujours après le verbe "nöw". Tandis que le possesseur se place avant le verbe.
+
+2°)- Avec la particule "ni" sans le verbe "nöw".
+
+Naw Fateeva vo ni.
+Yawle Tamba len ni.
+Möèina fode van ni.
+Samtala Kumba lan ni.
+Möèi Sia ve ni.
+
+Dans ces modèles d'expression, l'objet ou l'être possédé se place en début de phrase; ensuite vient le possesseur. Et la particule "ni" toujours en fin de phrase.
+
+COMPTONS : Apprenons à compter de mille en mille .
+
+| 1.000 | 2.000 | 3.000 | 4.000 | 5.000 |
+| --- | --- | --- | --- | --- |
+| Vaa pilè | Valan la tiön | Valan la yaa | Valan la hiöölu | Valan la nh… |
+
+| 6.000 | 7.000 | 7.000 | 8.000 | 9.000 |
+| --- | --- | --- | --- | --- |
+| Valan la nhömpum | Valan la nhömmèw | | Valan la nhömaa | Valan la nhömahiöölu |
+
+| 10.000 |
+| --- |
+| Valan Tö |
+
+A partir de 1.000 , la langue procède à une multiplication grâce à la particule " la ".
+
+Ex : Valan la tiön ( 1.000 X 2 = 2.000 ) en mettant le terme " vaa " au pluriel : Vaa = Valan.
+
+CONJUGAISON : Le verbe " dioo " au présent du conditionnel.
+
+| FORME AFFIRMATIVE | FORME NEGATIVE |
+| --- | --- |
+| Ii dianin | Ii dinin te |
+| Aa dianin | Aa dinin te |
+| Oo dianin | Oo dinin te |
+| Nn dianin | Nn dinin te |
+| Laa dianin | Laa dinin te |
+| Aa (Ndaa) dianin | Aa (Ndaa) dinin te |
+
+> ✎ [Handwritten notes, verso of p. 63](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-63-pdf-71)
+
+---
+
+## LES ADJECTIFS ET PRONOMS INTERROGATIFS.
+
+> ✎ [Handwritten notes, p. 64](kissie%20fondamental%20(handwritten%20notes).md#p-64-pdf-72)
+
+En kisiei, selon qu'ils servent à déterminer ou à remplacer un nom, les adjectifs et pronoms interrogatifs sont utilisés pour interroger, demander. C'est à dire qu'ils ont pour rôle de présenter l'énoncé sous la forme interrogative.
+
+### I- LES ADJECTIFS INTERROGATIFS
+
+Nous distinguons trois sortes d'adjectifs interrogatifs qui sont : Köè, Ngö (ö), Nèènè qui sont invariables quelle que soit la classe et le nombre du nom auquel ils se rapportent.
+
+1- Köè : Ses correspondants en français sont : quel, quelle quels, quelles. Il se place toujours après le nom.
+
+| Exemples : | |
+| --- | --- |
+| Doma köè ? | Bölö köè ? |
+| Yoole köè ? | Yondoo köè ? |
+| Mènma köè ? | Domala köè ? |
+| Bölölan köè ? | |
+
+2- Ngö (ö) : peut aussi se traduire par quel, quelle, quels, quelles. Il se place, contrairement au premier, toujours avant le nom qu'il détermine. Signalons qu'il fonction avec les adjectifs démonstratifs d'éloignement qui se placent après le nom déterminé par l'interrogatif. Ainsi, les noms fonctionnent sous leur forme indéfinie ; c'est-à-dire sans le morphème de classe (ou modalité) qui est repris sur le démonstratif.
+
+Exemples : Ngö doma kon ?
+Ngö mènma man ?
+Ngö yoole ~~ken~~ <ins>len</ins> ?
+Ö nèi ken ?
+Ö volö kon ?
+Ö nèila lan ?
+Ö volöla lan ?
+
+3- Nèènè : suit toujours le nom (comme le premier) et peut être traduit par : "de qui". Il s'emploie quand le possesseur est une personne. Les noms qui fonctionnent avec cet interrogatif, se présentent sans leur modalité (quand ils sont au singulier).
+
+Naw nèènè ?
+Nawva nèènè ?
+Möèina nèènè ?
+Samtalan nèènè ?
+
+> ✎ [Handwritten notes, p. 65](kissie%20fondamental%20(handwritten%20notes).md#p-65-pdf-73)
+
+LANGAGE : Emploi des adjectifs interrogatifs et l'expression de l'idée de possession avec les adjectifs et pronoms possessifs.
+
+- Doma nèènè tyo yè hoo ?
+  Doma nuu ni - o nuu ni
+- Ngö yawlen le loo ~~vo~~ <ins>len</ins> ?
+  Yawle nilen le loo ni. - Le nilen le tyo ya o ba
+- Kolèi köè o kiimbu yè ?
+  Kolèi nummde o kiimbu ni - i nummde.
+- Naw nèènè faya dii yè ?
+  Naw ndöö o dii ni - o ndöö
+- Ngö mènma o pulun ~~man~~ <ins>ndan</ins> ?
+  A mènma ndöan o pulun ni - Ma ndöan.
+- Möèi nèènè ya tyua yè ?
+  Möèi ndai n tyua ni - i ndai
+- ö bölöö o sèèsa vo ?
+  Bölöö ndöö o sèèsa ni - o ndöö
+- Möèina köö o kol lè ?
+  Möèi nummdan o kol ni - Ma nian o kol ni
+- Kolala~~n~~ nèènè o töö yè ?
+  Kolala ndölan o too ni - La nd<ins>ö</ins>lan
+- Yoole köè ya i tyu yè num ?
+  Yoole niile sianhalen - le sianhale ni~~i~~len.
+
+COMPTONS : A partir de mille, nous allons compter de 100 en 100.
+
+| 1.100 | 1.200 | 2.300 |
+| --- | --- | --- |
+| Vaa a kèmè | Vaa a kèmè lediin | Vaalan tan tiön a kèmè leyaa |
+
+| 3.400 | 4.500 |
+| --- | --- |
+| Vaalan tan yaa a kèmè lehiöölu | Vaalan tan hiöölu a kèmè lenhuèènu |
+
+| 5.600 | 6.700 |
+| --- | --- |
+| Vaalan tan nhuèènu kèmè le nhömpum | Vaalan tan nhömpum a Kèmè lenhömmèw |
+
+| 7.800 | 8.900 |
+| --- | --- |
+| Vaalan tan nhömmèw kèmè lenhömaa | Vaalan tan nhömaa kèmè a lenhömahiöölu. |
+
+N.B. : Les locuteurs, pour un souci d'économie regie par la loi du moindre effort, prononcent pour :
+
+1.200 : Vaa pilè kèmè lediin ; 2.400 : Vaala tiön kèmè lehiöölu ; 8.900 : Vala nhömaa kèmè lenhömahiöölu etc... (quand il s'agit du prix d'un article par exemple).
+
+CONJUGAISON : Le verbe "dioo" au passé du conditionnel
+
+| | |
+| --- | --- |
+| Ii va dioo | Ii ve dio le |
+| Aa va dioo | Aa ve dio le |
+| Oo va dioo | Oo ve dio le |
+| Nn va dioo | Nn ve dio le |
+| Laa va dioo | Laa ve dio le |
+| Aa (ndaa) va dioo | Aa (ndaa) ve dio le |
+
+> ✎ [Handwritten notes, verso of p. 66](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-66-pdf-75)
+
+---
+
+### II- LES PRONOMS INTERROGATIFS.
+
+> ✎ [Handwritten notes, p. 67](kissie%20fondamental%20(handwritten%20notes).md#p-67-pdf-76)
+
+Ils sont au nombre de trois en kisiei ; ce sont : Nèè, Kuè, Ngö(ö).
+
+1°)- Nèè (au pluriel nèa) se fait précéder du morphème réferent de la classe du nom qu'il remplace. Son équivalent en français est qui. Il ne s'emploie que pour les personnes, se présent sous le schéma discontinu suivant :
+
+~~O~~ nèè... yè ou ~~A~~ nèa.... yè (pour le pluriel).
+
+Exemples : Vanndo hin ! ~~O~~ nèè hin yè ?
+Vannda hin ! ~~A~~ nèa hin yè ?
+
+2°)- Kuè : Il se fait précéder de morphèmes référent tou en s'accordant avec la classe nominale du substantif. Nous allons l'expliciter dans le tableau ci-dessous.
+
+| NOMBRE \ MODALITES | a, -o, ö | e - i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| SINGULIER | O Kuè (lequel) | I Kuè | Ma Kuè | Le Kuè | La Kuè |
+| PLURIEL | A Kuè<br>La Kuè<br>I Kuè<br>Lesquels | N Kuè | Ma Kuè | Ma Kuè<br>I Kuè | La Kuè |
+
+Exemples : Tyun ya saa - O Kuè ?
+Kö ba nawva - A Kuè ?
+Yöngu ndu työèiyan - Ma Kuè ?
+Kuè N kèsi yè möön - N Kuè ?
+
+- Lorsque nous construisons des phrases, nous constaterons l'apparition de la particule "yè" après le verbe.
+
+Exemples : O Kuè ya tyua yè ?
+I Kuè o yöngu yè num ?
+
+3°)- Ngö (ö) : Contrairement au précédent, il ne se fait pas précéder de morphèmes référent de classe, mais il se fait succéder des pronoms personnels compléments des 3ème et 6ème personnes en rapport avec la classe et le nombre du nominal. On le traduit par "lequel".
+
+| NOMBRE \ MODALITES | a, o, ö | e - i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| SINGULIER | Ngö Ndu | Ngö Ndi | Ngö Man | Ngö len | Ngö Lan |
+| PLURIEL | Ngö Nda<br>Ngö Lan<br>Ngö Ndi | Ngö Mun | ↑ | Ngö Man<br>Ngö Ndi | ↑ |
+
+Exemples : Nuel la naw kon - Ngö ndu
+Kol lö mènndan man - Ngö man
+Kö tyua vö möèi ken - Ngö ndi
+Nan dö yawlen len - Ngö len
+Kiondu siawvan man - Ngö man.
+
+N.B. : "Ngö", lorsqu'il sert à l'interroger ou demander des renseignements, des situations, des phénomènes sur des éléments il se présente sous les formes suivantes : (cette fois-ci, il précède les morphèmes référent de classe).
+
+| NOMBRE \ MODALITES | a, o, ö | e - i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| SINGULIER | Ngö o... | Ngö i... | Ngö ma... | Ngö le... | Ngö la... |
+| PLURIEL | Ngö a...<br>Ngö la..<br>Ngö i... | Ngö n... | ↑ | Ngö ma...<br>Ngö i.... | ↑ |
+
+In the two tables above, `↑` marks an *an* or *lan* cell that the typescript writes once, between the Sing. and Pluriel rows, so it applies to both.
+
+> ✎ [Handwritten notes, verso of p. 68](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-68-pdf-78)
+
+> ✎ [Handwritten notes, p. 69](kissie%20fondamental%20(handwritten%20notes).md#p-69-pdf-79)
+
+EXEMPLES : Tinndo kisidu tèèn nda könökili, a tinndo kisidu tèèn nda sèlèkpèlè, ngö o hew bandei yo ?
+Möön mun mun muun ngö i löèi ye ?
+Siawvan ma yaa man ngö le diw le ~~ye~~ <ins>len</ins> ?
+
+REMARQUE : Dans le langage, la répétition n'est pas mauvaise en kisiei. Ce qui revient à dire que cette dernière forme de ngö (du nota-bene) n'est pas absolue. Ainsi on peut dire :
+
+- Tinndo kisidu tèèn nda könökili, a tinndo kisidu tèèn nda sèlèkpèl… Ngö (ö) tin hew bandei yo ?
+- Möön mun mun muun ngö möèi löèi ye ?
+- Siawvan ma yaa man ngö siawle diw ~~ye~~ <ins>len</ins> ?
+
+LANGAGE : L'interrogation avec le ton et l'affirmation. En Kisiei, l'interrogation peut se marquer avec le ton. Dans ce cas, la phrase se termine par une montée mélodique ; c'est-à-dire que le dernier terme de la phrase est prononcé avec un ton haut. Tandis que l'affirmation se réalise par une détention progressive des cordes vocales; c'est-à-dire que la phrase se termine par un ton bas sur le dernier terme de la phrase.
+
+| AFFIRMATION | INTERROGATION. |
+| --- | --- |
+| A nan köl a baala nummdo | A nan köl a baala nummdo ? |
+| Kumba huninn siödii | Kumba huninn siödii ? |
+| A naa o tyo ni | A naa o tyo ni ? |
+| Hangullo tyo num leköö taw | Hangullo tyo num leköö taw ? |
+| Domaa hoo, Doma nummdo ni | Domaa hoo, Doma nummdo ni ? |
+| Ndu nö tyièiyo hoo ni | Ndu nö tyièiyo hoo ni ? |
+| Sia hin | Sia hin ? |
+| Teeva höönu tyièi | Teeva höönu tyièi ? |
+| Mamadu köè | Mamadu köè ? |
+| Binta tyo nan | Binta tyo nan ? |
+| Faya suili vösi~~ei~~<ins>lan</ins> tö | Faya suili vösiei tö ? |
+| Doosulen le hènan num | Dosulen le hènan num ? |
+| A kol möèiyan | A kol möèiyan ? |
+| O tyo hunöö siödii | O tyo hunöö siödii ? |
+
+COMPTONS :
+
+| 10.000 | 20.000 | 30.000 | 40.000 |
+| --- | --- | --- | --- |
+| Vaalan tö | Vaalan bidiin | Vaalan beleyaa | Vaalan belehiöölu |
+
+| 50.000 | 60.000 | 70.000 |
+| --- | --- | --- |
+| Vaalan belenhuèènu | Vaalan belenhömpum | Vaalan belenhömmèw |
+
+| 80.000 | 90.000 | 100.000 |
+| --- | --- | --- |
+| Vaalan belenhömaa | Vaalan belehömahiöölu | Vaalan kèmè. |
+
+CONJUGAISON : Le verbe "dioo" au présent du subjontif.
+
+| | |
+| --- | --- |
+| Maa i dio | Maa i di le |
+| Maa a dio | Maa a di le |
+| Maa O dio | Maa o di le |
+| Maa N dio | Maa n di le |
+| Maa La dio | Maa la di le |
+| Maa A (nda) dio | Maa a (nda) di le. |
+
+> ✎ [Handwritten notes, verso of p. 70](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-70-pdf-81)
+
+---
+
+## LES ADJECTIFS ET PRONOMS INDEFINIS
+
+> ✎ [Handwritten notes, p. 71](kissie%20fondamental%20(handwritten%20notes).md#p-71-pdf-82)
+
+Ils constituent dans la langue des unités qui servent à déterminer où à remplacer les substantifs de manière vague en générale. Ils peuvent être au singulier ou au pluriel.
+
+### I LES ADJECTIFS INDEFINIS
+
+Ils se placent toujours après le substantif qu'ils déterminent pour indiquer une idée vague de quantité, de qualité, de ressemblance ou de différence.
+
+Nous distinguons six (6) formes. Pum, Kèkè, yöli, Tyelen, ~~Rlöö~~ <ins>pilöö</ins> et Pila.
+
+1°)Les formes: Pum, Kèkè, yöli et Tyelen sont invariable quelque soient la classe et le nombre du substantif qu'ils déterminent.
+
+a) Pum: signifie certain, quelque
+
+Exemples: Fallo <u>Pum</u> langa va nöm nyunaa !
+Nawa <u>Pum</u> de malun faya von
+
+b) Kèkè: signifie quelconque, n'importe quel
+
+Exemples: Peele <u>kèkè</u>
+tyu ya vala <u>kèkè</u>
+
+c) Tyelen: signifie autre, différent
+
+Exemples: söö tyelen o dii ni
+Doma tyelen nda ke ya ni
+Kelèi tyelen ya pendu ni
+Yiyan tyelen n söla ni
+
+d) yööli: Signifie (tout, tous, toute).
+
+Exemples: Bèö yööli lakolinöö ndupilè ~~kpe~~ <ins>gbe</ins>
+~~Mala~~ <ins>Hala</ins> tyo masa nyeön yööli <ins>ni</ins>
+Tyèiyo hoo yööli tyua nda nhön
+
+2°) Les Formes: Pilöö et Pilaa s'accordent avec les substantifs selon leur nombre (voir tableau ci-dessous).
+
+Exemples : Suei Pilèi :
+suei pilai :
+Dole pilalan:
+Dole Piltan :
+yole pilèlen:
+yole pilalen:
+yèyii pilèè
+yèi pilèi
+
+> ✎ [Handwritten notes, p. 72](kissie%20fondamental%20(handwritten%20notes).md#p-72-pdf-83)
+
+Samtala pilèlan
+Samtala pilalan
+
+TABLEAU ILLUSTRATIF POUR "Pilöö" et "Pilaa".
+
+| | FORMES \ MODALITES | a, o, ö | i - e | an | len | lan | Français |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pilöö | SINGULIER | Pilöö | Pilèi | Pilèan | Pilèlen<br>ou<br>Pilèan | Pilèlan<br>ou<br>Piltan | Le même ou<br>La même |
+| | PLURIEL | Pilèlan | Pilöön | ↑ | Pilèan<br>Pilèi | ↑ | Les mêmes |
+| Pilaa | SINGULIER | Pilaa | Bilèi<br>(ton haut) | Pilan | Pilalen | Pilalan | Autrui |
+| | PLURIEL | Pilalan<br>Pilaa | Pilan<br>Pilaon | ↑ | Pilan<br>Pilèi | ↑ | Autruis |
+
+`↑`: the *an* and *lan* forms are written once, between the Sing. and Pluriel rows, and apply to both.
+
+N.B. : Pilèi avec ton bas signifie le même, la même
+Pilèi avec ton haut signifie <ins>d'</ins>autrui.
+
+EXERCICE : Remplacez les points par les adjectifs indéfinis qui correspondent :
+
+Dosulen
+
+Tyuaatyieeya.... a va nèa pilè, tyuamböa..... a va nda ikèi, yekpandan la va dosua... o ba, nda..... nda oo nan köl. Mi visiaa töömaa.... a diinun, o kon mi..... söla visiei i ndöèi. Kè mi vanaa..... boolun, kè vanapönö.... tembu köl te.
+
+CORRECTION DE L'EXERCICE :
+
+Tyuaatyieeya <u>yööli</u> a va naa pilè, tyuamböa <u>bööböö</u> a va nda ikèi ; ye kpandan la va dosua <u>pum</u> o ba, nda <u>faw</u> nda oo nan köl. Mi visiaa töömaa <u>siaama</u> a diinun, o kon mi <u>bè</u> söla visiei indöèi? Kè mi vanaa <u>siaama</u> (tyelen) boolun, kè vanapönö <u>bè</u> tembu köl te.
+
+LANGAGE : La reponse négative
+
+Sa caractéristique essentielle est la présence de la particule de négation "le" qui se réalise "te" lorsque la finale du mot qui le pré-
+cède est nasale. Précisons que "le" (te) se place toujours en fin de phrase.
+
+Vèè a naa Faya tyo ni ? O tyo a naa le
+Hangullo tyo num leköö ni ? Hangulu tyo ya leköö le
+A kol möèiyan ? i kol ma möèi le
+Mamadu köennun ? O koe le
+Dosulen le hènan num ? Dosulen le hènan ya le.
+Sia hin diilèn ? Sia hin diilèn te
+Vèè Tamba bolin ni ? O Tamba le bolin te
+Faya kiimbu volion ni ? O tyo Faya le kiimbu te.
+Vèè a koanin o löö nin ? i koe nin te.
+Domaa hoo, doma nummdo ni ? Domaa hoo tyo doma nii le.
+A nan köl a baala nuu ? i nin köl te
+Num nö kelèi hee ni ? O tyo ya le.
+
+COMPTONS : Revisions : Lisez ces chiffres en kisiei.
+
+3;000 ; 7.000 ; 1.000 ; 9.000 ; 6.000 ; 8.000 ; 2.000 ; 4.000 ;
+5.000 ; 2.100 ; 8.200 ; 6.700 ; 3.800 ; 4.600 ; 1.900 ; 5.300 ;
+7.400 ; 9;500 ; 10.000 ; 40.000 ; 70.000 ; 100.000 ; 20.000 ;
+50.000 ; 80.000 ; 30.000 ; 60.000 ; 90.000.
+
+---
+
+### II- LES PRONOMS INDEFINIS :
+
+> ✎ [Handwritten notes, p. 74](kissie%20fondamental%20(handwritten%20notes).md#p-74-pdf-85)
+
+Quatre des formes des adjectifs indéfinis, précédées des particules de référence catégorielle, jouent le rôle de pronom indéfinis. Ce sont : Pum, tyelen, Kèkè qui sont invariables et Pilöö qui s'accorde suivant la classe nominale du substantif qu'il remplace.
+
+| FORMES \ MODALITES | a, o, ö | e - i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| Pum | O Pum<br>Quelqu'un | I Pum<br>Quelque | Ma Pum | Le Pum | La Pum |
+| Pilöö | O Pilöö<br>L'un | I Pilèi | Ma Pilèan | Le Pilèlen | La Pilèlan |
+| Kèkè | O Kèkè<br>Quelconque<br>n'importe | I Kèkè | Ma Kèkè | Le Kèkè | La Kèkè |
+| Tyelen | O Tyelen<br>un autre | I Tyelen | Ma tyelen | Le Tyelen | La Tyelen |
+| Pum | O Pum<br>La Pum<br>Quelques 1 | N Pum | Ma Pum | Ma Pum<br>I Pum | La Pum |
+| Pilöö | a Pilla<br>La Piltan | N Pilöö | Ma Pilèen | Ma Pilèan<br>I Pilèi | La Piltan<br>La Pilèlan |
+| Kèkè | La Kèkè<br>a Kèkè | N Kèkè | Ma Kèkè | Ma Kèkè<br>I Kèkè | La Kèkè |
+| Tyelen | a Tyelen<br>La Tyelen | N Tyelen<br>D'autres | Ma tyelen | Ma tyelen<br>I tyelen | La tyelen |
+
+Exemples : O yöngu num böö nummdo ? O tyelen o yöngu ya ni
+A tyua työèiyan ? I tyua ma pum
+I tyu num mènma tuvan ? ma kèkè <ins>n</ins> tyu ya pè.
+Domalan n ke ya lan, o pilöö hiow ya.
+
+REMARQUES : Il existe en kisiei certains constituants d'énoncé qui peuvent être employés comme pronoms indéfinis. Ce sont :
+
+> ✎ [Handwritten notes, p. 75](kissie%20fondamental%20(handwritten%20notes).md#p-75-pdf-86)
+
+- <u>Vana</u> que l'on traduit par "on"
+
+Exemples : Vana tyel o powvo hoo tyoo le
+Vana yei bè num te
+Vana löèi o bundöö hoo nin te
+
+- <u>Num oo num</u> qui signifie quiconque.
+
+Exemples : Num o num kuè pè n kinda num
+Num o num soo pè a fula.
+
+- <u>Vana oo vana ou vanna</u> qui signifie Personne, quiconque.
+
+Exemples : Vanna nyuna ya le
+Vana oo vana hin ya kööli le
+Vanna kumbi pè dio nuu, i vöw naa tèèn.
+
+Notons qu'ils sont d'une fréquence remarquable dans la langue et s'emploient pour les personnes.
+
+Exercice : Remplacez les points par les adjectifs ou pronoms indéfinis dans le texte ci-dessous.
+
+I.työl tyiee
+
+Sia veelu vanaa nda tyal la...... le piwvo o ndu lo.
+Mi a tyal o bèè o pangii diandèi..... hin a vala ndaa,
+..... a kpengbeilan, mi bè tyal.
+Tyuaamböa..... a tundun o söngilan. Ivönövökö..... tyo le.
+Bè tyo finya nda bèndu yuuvèiyo nufaa ; o kon mi ndu työm nda söèi sindèi lelènnde .....,Te o tyii pe nda ken tombolal, tyuaamböa nyuna ..... Nyumndan ma köè nin landan, tyan ko o tyongun, o mungu o mungu o ndu lo...... tembu köl a piw konte.
+
+CORRECTION DE L'EXERCICE :
+
+Sia veelu vanaa nda tyal la <u>apum</u> le piwvo a ndu lo.
+Mi a tyal o bèè o pangii diandèi. Apum hin a vala ndaa, apum a kpengbeilan, mi bè tyal.
+Tyuaamböa bööböa (pum) a tundun o songilan. Ivökövökö <u>bèè</u> (kèkè) tyo le.
+Bè tyo tyo finya nda bèndu yuuvèiyo nufaa, o kon mi ndu työm nda Söèi sidèi lelènnde <u>pum</u>. Te o tyii pè nda ken tombolal, tyuaamböa nyuna <u>i tyelen</u>. Nyumndan ma köè nin landan, <u>vana</u> tyan ko o tyongun , O mungu o ndu lo. <u>vana oo vana</u> tembu köl a piw kon te.
+
+LANGAGE : Apprenons les noms des mois de l'année.
+
+| | |
+| --- | --- |
+| 1- Pondoo (Po-ndoo) | 7- Suèèsuèö (Suèè-suèö) |
+| 2- Tèkpaa (Tè-kpaa) | 8- Naanöö (Naa-nöö) |
+| 3- Fuo (Fuo) | 9- Tapio (Ta-pio) |
+| 4- Nyaakuèyo (Nyaa-kuè-yo) | 10- Saa (Saa) |
+| 5- Bukuloo (Bu-ku-loo) | 11- Bèngufönö (Bè-ngu-fö-nö) |
+| 6- Koondo (koo-ndo) | 12- Yindimiiyo (Yi -ndi-mii-yo). |
+
+Lisez sans vous lassez jusqu'à une prononciation parfaite et une maîtrise totale.
+
+COMPTONS : a) Compter à rebours - de 1000 à 100
+- de 10.000 à 1.000
+- de 10.000 à 1000(de 100 en 100)
+- de 100.000 à 10.000 et inversement.
+
+---
+
+## LES ADJECTIFS NUMERAUX CARDINAUX :
+
+> ✎ [Handwritten notes, p. 77](kissie%20fondamental%20(handwritten%20notes).md#p-77-pdf-88)
+
+Ils relèvent du système comptable kisiei et ont pour rôle d'exprimer le nombre. L'examen de ce système, il ressort que les unités de 1 à 4 se distinguent morphologiquement tandis que de 5 à 9 nous notons la présence d'un radical "nho".
+
+| | |
+| --- | --- |
+| Pilè = 1 | Nhömpum = 6 |
+| Miun = 2 | Nhömmew = 7 |
+| Yaa = 3 | Nhömaa = 8 |
+| Hiöölu = 4 | Nhömahiöölu = 9 |
+| Nhuèènu = 5 | Tö = 10. |
+
+- En effet, les unités 6, 7, 8, 9 sont obtenus par addition à partir de 5. Ainsi on a :
+
+Nhömpum = Nhuèènu (5) + Pilè (1) = 6
+Nhömmèw = Nhuèènu (5) + Miun (2) = 7
+Nhömaa = Nhuèènu (5) + yaa(3) = 8
+Nhömahiöölu ≙ Nhuèènu (5) + Hiöölu (4) = 9
+
+- A partir des dizaines 10, 20, 30, 40 etc...., la langue procède par une connection. Ce qui donne lieu à des syntagmes coordinatifs dans lesquels la particule de liaison est "a". Ainsi on a :
+
+| | |
+| --- | --- |
+| Tö a pilè = 11 | Beleyaa = 30 |
+| Tö a miun = 12 | Beleyaa a nhuèènu = 35 |
+| Tö a yaa = 13 | Beleyaa a nhömpum = 36 |
+| ---------- | ---------- |
+| Tö a nhömahiöölu = 19 | Belehiöölu = 40 |
+| Bidiun = 20 | ---------- |
+| Bidiun a pile = 21 | Belenhömmèw = 70 |
+| Bidium a hiöölu = 24 | ---------- |
+| ---------- | Belenhömahiöölu = 90 |
+
+- Lorsqu'on multiplie les centaines, la langue utilise la particule "le" (qui signifie fois x) que l'on préfixe du chiffre multiplicateur.
+
+Kèmè = 100
+Kèmè lediun = 200 = 100 x 2
+Kèmè leyaa = 300 = 100 x 3
+Kèmè lehiöölu = 400 = 100 x 4
+Kèmè lenhuèènu = 500 = 100 x 5

@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–61 (PDF pages 1 and 3–68), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–77 (PDF pages 1 and 3–88), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -820,3 +820,164 @@ The back of the sheet has no typed text; it holds a handwritten table of compari
 | 4èPers. Pluriel: Naalan, Naa | objets; êtres | gloss |
 | 6èPers. Pluriel: Ndalan, … | ndöö (written above) | comment |
 | Pronoms possessifs, 1èPers. Pluriel: Nii | circled | comment |
+
+## p. 62 (PDF 69)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(above the table: the typescript has no 4th-person row)* | 4è Pers. — Sing.: o naa / I nai / Ma naan / le naalen / la naa-lan — Pluriel: la naalan, a naa / n naan / manaan / ma nan, I nèi / la naalan | comment |
+| 6èPers. Pluriel: Ndaan | a large handwritten circle before the word | comment |
+| Yow ya kelèi……, ……. lo | prêter; perdu | gloss |
+| Pöa…… tyo o kaannden ; ……köè o yömnde | le fils; bois | gloss |
+| Möèina…… yeela le…… ma nan taw | vin; pardon [?]; in the margin: vin pour … möèian [?] | gloss |
+| Köfanö……. tyo kèndia le……. hin te | le professeur; santé | gloss |
+| Min……. hiow biönnön a …….. | Millin; in the margin: milin (ver); être plat | gloss |
+| Yinhii…… velan a ………. | ressembler | gloss |
+| Yoole……. le hiw……. nanhöö le | la corde | gloss |
+
+## p. 63 (PDF 70)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(page number)* | the typed page number is struck out and "63" written above it | comment |
+| Naw Fateeva vo ni. | pronom relatif (with an arrow to "vo") | comment |
+
+## Verso of p. 63 (PDF 71)
+
+The back of the sheet has no typed text; these handwritten notes prepare the interrogatives on the next typed page.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(boxed)* | kö | comment |
+| *(free note)* | Doma kö ndu tyua ye ? | comment |
+| *(free note)* | Ö ou Ngö [nom] ….. [relatif] ? | comment |
+| *(free note)* | Ngö doma ndu tyua vo ? / Ngö doma kon o ndu tyua vo ? / Ngö möèi ndu tyua ve ? | comment |
+| *(free note)* | Nèenè ou Nèè; plusieurs : Nèènèa ou Nèa | comment |
+| *(free note)* | Naw nèè tyo yè ho ? | comment |
+
+## p. 64 (PDF 72)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(page number)* | –64– written above the title; "104" circled in the margin | comment |
+| 1- Köè | Kdg : kö (köne) (boxed in the margin) | variant |
+| Yondoo köè ? | brousse | gloss |
+| Bölö köè ? Yondoo köè ? … Domalan köè ? | forme radical | comment |
+| Ö nèi ken ? | yoei ken (written above) | variant |
+| (quand ils sont au singulier) | + pluriel | comment |
+
+## p. 65 (PDF 73)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Ngö yawlen le loo len ? | ceinture; qui; perdu; "len" written above the overtyped "vo" (reading uncertain [?]); in the margin: forme nominale → le (qui) | gloss |
+| Kolèi köè o kiimbu yè ? | voler | gloss |
+| Naw nèènè faya dii yè ? | tuer | gloss |
+| Möèi nèènè ya tyua yè ? | prendre | gloss |
+| ö bölöö o sèèsa vo ? | déchirer | gloss |
+| Möèina köö o kol lè ? | l = yè | comment |
+| Möèi nummdan o kol ni | nömndan (written above nummdan) | variant |
+| Kolalan nèènè o töö yè ? | pagne | gloss |
+| Yoole köè ya i tyu yè num ? | envoyer | gloss |
+| *(right margin, next to the dialogue)* | köö … lè/yè ; ngö … yè/vo ; ö … vo | comment |
+
+## Verso of p. 66 (PDF 75)
+
+The back of the sheet has no typed text; it holds two boxed summaries of the interrogative pronouns on the next typed page.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(box)* | Nèè / nèènè : sans morphème de classe; Nèa / nèènèa | comment |
+| *(box)* | Kö (Kuè) (könè) : sans morphème de classe : où; avec : le quel | comment |
+
+## p. 67 (PDF 76)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| O nèè... yè ou A nèa.... yè | ou nèènè (written above) | variant |
+| Tyun ya saa - O Kuè ? | ôm (above Tyun); mouton | gloss |
+| Kö ba nawva - A Kuè ? | va; attacher; lesquelles | gloss |
+| Kuè N kèsi yè möön - N Kuè ? | où (köö written above Kuè) | gloss |
+| Kuè N kèsi yè möön - N Kuè ? | N kö ! [bas] / N kö[ö]n [haut] (tone contrast noted in the margin) | comment |
+| O Kuè ya tyua yè ? | perdre; lequel j'ai pris | translation |
+| I Kuè o yöngu yè num ? | lequel il t'a donné | translation |
+
+## Verso of p. 68 (PDF 78)
+
+The back of the sheet has no typed text; these handwritten notes were written on it.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | möön mun mun miun = ces 2 couteaux | translation |
+| *(free note)* | sawan man ma yaa = ces 3 oranges; under the words: demonstr. / réf. / nombre | translation |
+| *(free note)* | nöm leköö / kööle nömnden | comment |
+
+## p. 69 (PDF 79)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tinndo kisidu tèèn nda könökili, a tinndo kisidu tèèn nda sèlèkpèlè | N'zérékoré (above sèlèkpèlè, by the page number); Kissidougou; Conakry; tayen [?] | gloss |
+| Möön mun mun muun ngö i löèi ye ? | Möön mun miun höölu ngö n löèi yon ? (written alongside); être tranchant | variant |
+| Siawvan ma yaa man ngö le diw le … ? | "man" circled, with an arrow moving it to after Siawvan (twice on the page) | comment |
+| Domaa hoo, Doma nummdo ni | {o} written above, between Doma and nummdo | comment |
+
+## Verso of p. 70 (PDF 81)
+
+The back of the sheet has no typed text; these handwritten notes illustrate the indefinites on the next typed page.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | Tyualla doma lon. / Doma kö ? / O kèkè. | comment |
+| *(free note)* | O kèkè n tosal tyaan nöm pè, o mingulun ni nöm (Tout ce que tu fais pour ton ami, se retourne sur toi) | translation |
+| *(free note)* | naa yööli n tyanun / naa faw faw n könun; (yööli : pas répéter) | comment |
+| *(free note)* | beaucoup : böö böö | gloss |
+| *(free note)* | p. 117 (circled, with two arrows pointing to it) | comment |
+
+## p. 71 (PDF 82)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| a) Pum: signifie certain, quelque | , un | gloss |
+| b) Kèkè: signifie quelconque, n'importe quel | tout ce que | gloss |
+| Yiyan tyelen n söla ni | pensée | gloss |
+| d) yööli | = gbou / = faw (boxed in the margin) | variant |
+| Bèö yööli lakolinöö ndupilè gbe | cour; seul | gloss |
+| Hala tyo masa nyeön yööli ni | roi; classe [?] | gloss |
+
+## p. 72 (PDF 83)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Pilèi avec ton bas signifie le même, la même | pareil | gloss |
+| Pilèi avec ton haut signifie d'autrui. | de quelqu'un d'autre, appartenant à une autre personne | gloss |
+| Tyuaatyieeya…. a va nèa pilè, | fils du village | gloss |
+| tyuamböa….. a va nda ikèi, | eux; à côté | gloss |
+| yekpandan la va dosua… o ba, | fusil; chasseur | gloss |
+| … nda oo nan köl. Mi visiaa | animal | gloss |
+| töömaa…. a diinun, | singe; diinundo = se tuer | gloss |
+| Kè mi vanaa….. boolun, | blesser | gloss |
+
+## p. 74 (PDF 85)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| A tyua työèiyan ? I tyua ma pum | "ma pum" circled: une certaine quantité (pas trop grande) | gloss |
+| I tyu num mènma tuvan ? | chaud | gloss |
+
+## p. 75 (PDF 86)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vana tyel o powvo hoo tyoo le | pierre | gloss |
+| Vana löèi o bundöö hoo nin te | lwei (written above löèi) | variant |
+| Num o num kuè pè n kinda num | si; enfermer | gloss |
+| Num o num soo pè a fula. | ou vana soo pè a fula | variant |
+| Vana oo vana ou vanna | ≠ vana (above vanna) | comment |
+| Vana oo vana hin ya kööli le | être mauvais | gloss |
+| Vanna kumbi pè dio nuu, i vöw naa tèèn. | + söèi (under vöw); tayen (above tèèn) | gloss |
+
+## p. 77 (PDF 88)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Nhömaa = Nhuèènu (5) + yaa(3) = 8 | Nhömaya ——) (in the left margin, pointing to Nhömaa) | variant |

@@ -53,7 +53,7 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 
 | Source | Transcription | Conversion |
 | --- | --- | --- |
-| Kissie fondamental (1979) | In progress: typescript pp. 1–61, up to the possessives (PDF pp. 1–68 of 189) | Not started |
+| Kissie fondamental (1979) | In progress: typescript pp. 1–77, up to the cardinal numerals (PDF pp. 1–88 of 189) | Not started |
 
 ### Transcription conventions
 
