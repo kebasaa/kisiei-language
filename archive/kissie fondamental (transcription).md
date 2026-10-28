@@ -3,7 +3,7 @@
 > **Transcription** of `kissie fondamental (original scan).pdf` (Sékou Sondo Keita, Institut Polytechnique Gamal Abdel Nasser de Conakry, 1979).
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
-> - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md).
+> - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
 > - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived) and the start of the noun functions (typescript pp. 1–44). PDF pages 1 and 3–48 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
@@ -36,6 +36,8 @@ CONAKRY 1979
 ---
 
 ## TABLE DES MATIERES
+
+> ✎ [Handwritten notes, Table des matières](kissie%20fondamental%20(handwritten%20notes).md#table-des-matières-pdf-4)
 
 | Section | Page |
 | --- | ---: |
@@ -324,6 +326,8 @@ Dans ce chapitre nous étudierons successivement : les voyelles simples, longues
 
 #### 1°)- LES VOYELLES SIMPLES :
 
+> ✎ [Handwritten notes, p. 11](kissie%20fondamental%20(handwritten%20notes).md#p-11-pdf-16)
+
 - i, e, (é), è : se prononcent les lèvres écartées, formant une ouverture horizotale ; la langue contre les incisives inférieures. i est cependant plus fermé que e et que è.
 - u (ou), o, ö : se prononcent avec les lèvres arrondies et projetées en avant, mais la pointe de la langue ne touche pas les dents et le dos remonte vers le palais.
 - a : se prononce la bouche largement ouverte.
@@ -331,6 +335,8 @@ Dans ce chapitre nous étudierons successivement : les voyelles simples, longues
 Exemples :lisons ces mots : Faya, Fala, Tölnö, Hali, Poli, Kollo, Sèböö, Teeva, Bölöö, Visio
 
 #### 2°)- LES VOYELLES LONGUES :
+
+> ✎ [Handwritten notes, p. 12](kissie%20fondamental%20(handwritten%20notes).md#p-12-pdf-17)
 
 Ce sont : aa, oo, ii, ee, öö, uu, èè.
 
@@ -362,6 +368,8 @@ Exemple : Lisons ces mots : Dolan (le nom) Peelen ; Mènndan ; Tunndo (le chien)
 
 REMARQUE : En kisiei, les sons : am, om, im, èm, um, öm, em, ne sont pas attestés comme étant les voyelles nasales. Car en réalité, sur le plan de la réalisation nous avons en fait : une voyelle orale suivie d'une nasale. Ils se réalisent comme par exemple dans le mot français : Tam - Tam.
 
+> ✎ [Handwritten notes, p. 14](kissie%20fondamental%20(handwritten%20notes).md#p-14-pdf-18)
+
 Seulement que "S" est toujours sifflant, qu'il soit en initiale ou en position intervocalique ; "H" toujours aspiré.
 
 Pour une bonne prononciation des consonnes de Kisiei, il faut ajouter à chacune le "e" muet ( ə ) qui n'existe pas dans l'alphabet Kisiei.
@@ -387,6 +395,8 @@ Kp ; Gb ; Nh ; Ny ; Mb ; Nd ; Ng ; Ty.
 a)- LES DIGRAPHES COMPLEXES : Kp - Gb
 
 Leur nature complexe s'explique à partir de leur prononciation quelque peu difficile : de par la coarticulation qui commence en arrière du palais pour se réaliser en définitive au niveau des lèvres; ce sont des Labio-Vélaires. Ils se distinguent par le fait que le "Kp" apparaît et en initiale et en intervocalique tandis que le "Gb" n'apparaît jamais en position initiale mais plutôt en intervocalique après une voyelle nasale.
+
+> ✎ [Handwritten notes, p. 15](kissie%20fondamental%20(handwritten%20notes).md#p-15-pdf-19)
 
 Exemples : - avec Kp
 
@@ -420,6 +430,8 @@ c)- LES DIGRAPHES PRENASALES : Mb - Nd - Ng
 
   Exemples : NGopoeiyo (ensemble vocal et instrumental pour la récolte du riz) ; NGeemaa (Scorpion) ; NGelemaa (traitement appliqué aux enfants pour hâter leur marche) ; NGalema , NGömbu, NGomia (sont des noms propres) ; NGeloo (danse ancienne).
 
+> ✎ [Handwritten notes, p. 16](kissie%20fondamental%20(handwritten%20notes).md#p-16-pdf-20)
+
 d)- LA DIGRAPHE DENTALE : TY
 
 Son articulation se situe en avant du palais dur. La pointe de la langue touchant légèrement les dents suivi d'un relachement brusque.
@@ -441,6 +453,8 @@ EXERCICE DE PRONONCIATION : Lisez ce Texte
 Maa Faya n tyo haw ni. Diilèn pun, mi Teeva laa ndö tyua yolöölan mo köa o hunndo nin. Yaamöö mösönha vanaafèèya ; ~~kani~~ <ins>katu</ins> ndu tyo tyuaapiaandua (tyuaa - piaa - ndua) bolten ni. Mo hiaw a nda o hunndo nin. Tiiyaa döö, mo kili pèltan, mi bè tundun o pèl ndöö nin. Mi kotaa oo, Sia oo, Tyaanha ndaa, toal vanaafèèyaa kööli, le bungan tyumullo. Baala tyuvöö, ma muungu tyiee.
 
 ### III-LES UNITES PROSODIQUES
+
+> ✎ [Handwritten notes, p. 17](kissie%20fondamental%20(handwritten%20notes).md#p-17-pdf-21)
 
 Dans cette études nous n'insisterons que sur les tons et précisement sur la fonction distinctive des tons qui est indispensable dans l'apprentissage de notre langue kisiei.
 
@@ -475,6 +489,8 @@ Exemples :
 | Söö (T B M) = le poulet | ≠ | Söö (T H D) = enfonce |
 | Baa (T B M) = la main | ≠ | Baa (T H D) = le prix |
 | Bölöö (T B M) = banane | ≠ | Bölöö(T H D) = le sac |
+
+> ✎ [Handwritten notes, p. 18](kissie%20fondamental%20(handwritten%20notes).md#p-18-pdf-22)
 
 Les tons nous permettent aussi de distinguer deux temps de conjugaison dans la langue , le présent habituel du passé : c'est la fonction grammaticale.
 
@@ -526,6 +542,8 @@ Exemples : Dènèpalaa, Kpèlunkpèlun, Kilikilio, Vanakelaa Vanakolaa, Balafond
 
 N.B. : Les tétrasyllabiques sont obtenues dans la langue soit par dérivation, soit par composition, soit par reduplication.
 
+> ✎ [Handwritten notes, p. 19](kissie%20fondamental%20(handwritten%20notes).md#p-19-pdf-23)
+
 REMARQUE :
 
 - Les formes V et C sont très rares dans la langue. Ils ne se rencontrent qu'au niveau des substituts personnels (I=Je, A=tu, O=il et N= nous)
@@ -539,6 +557,8 @@ Exemples :
 ---
 
 ## LES RADICAUX DU KISIEI :
+
+> ✎ [Handwritten notes, p. 20](kissie%20fondamental%20(handwritten%20notes).md#p-20-pdf-24)
 
 Les radicaux sont des supports de mots que l'on obtient en supprimant les morphèmes (modalités ou dérivatifs). Ils sont de deux types :
 
@@ -569,6 +589,8 @@ Exemples :
 N.B. : La différence entre Nom et Verbe est purement syntaxique. Les nominaux apparaissant toujours antéposés (dans ce cas ils sont sujets) ou post-posés au prédicat verbal, c'est-à-dire en expansion (dans ce cas ils sont compléments). Tandis que les verbaux apparaissent généralement après le sujet comme nous le constatons dans les exemples cidessus.
 
 ### LANGAGE : APPRENONS A SALUER
+
+> ✎ [Handwritten notes, p. 21](kissie%20fondamental%20(handwritten%20notes).md#p-21-pdf-25)
 
 - Tamba isè !
 - Mbaa saa isè ! A tyo Kèndè ?
@@ -606,6 +628,8 @@ COMPTONS : apprenons à compter de 1 à 10
 
 ## LA MOPHOLOGIE DU NOM SIMPLE :
 
+> ✎ [Handwritten notes, p. 22](kissie%20fondamental%20(handwritten%20notes).md#p-22-pdf-26)
+
 En Kisiei, les noms sont groupés sous huit (8) terminaisons (morphèmes phonologiquement différentes. Ce sont : a, o, i, ö, e, lan, len, an qui permettent de regrouper les noms en catégories.
 
 ### 1°) Les Morphèmes a o ö
@@ -642,6 +666,8 @@ Pulue + i = Puluei (langue Française) Sosoe + i =Sosoei(langue s…)
 ### 3°) LE MORPHEME "e" :
 
 Il caractérise les objets dénonbrables (graines, objets en collection) mais dissociables, Il se présente tantôt sous la forme "ye", tantôt "nde" selon que la finale du radical est latérale, orale ou nasale ; et "ve" quand la finale du radical est l'occlusive fricative "w".
+
+> ✎ [Handwritten notes, p. 23](kissie%20fondamental%20(handwritten%20notes).md#p-23-pdf-27)
 
 Exemples : Ka
 
@@ -686,6 +712,8 @@ N.B. : Il faut signaler que ce morphème possède une autre valeur dérivative d
 Exemples : Pombölen (dimunitif de Pomböö)
 bölölen (diminutif de bölöö)
 
+> ✎ [Handwritten notes, p. 24](kissie%20fondamental%20(handwritten%20notes).md#p-24-pdf-28)
+
 EXERCICE : Séparez d'un tiret le radical de son morphème dans les mots suivants : Exemple Hunndo = Hun - ndo
 
 Soei ; Pèllo ; Paa ; Köllo ; Dèluo ; Vawvo ; Mènndan ; Domaa ; Tuilian Pemalen ; Sièiye ; Yömndo ; Kèmbèi ; Kposio ; Fallo ; Lamndo ; Tyieo Bèlöö ; Yowvo ; Siawlen ; Sièmbulan.
@@ -721,6 +749,8 @@ b°) Apprenons de nouveaux chiffres .
 | --- | --- | --- | --- | --- |
 | tö a nhömpum | tö a nhömmèw | tö a nhömaa | tö a nhömahiöölu | bidiin. |
 
+> ✎ [Handwritten notes, p. 25](kissie%20fondamental%20(handwritten%20notes).md#p-25-pdf-29)
+
 CONJUGAISON : Conjuguons au présent de l'indicatif le verbe : "Dioo" (manger).
 
 | FORME AFFIRMATIVE | FORME NEGATIVE |
@@ -735,6 +765,8 @@ CONJUGAISON : Conjuguons au présent de l'indicatif le verbe : "Dioo" (manger).
 ---
 
 ## LE NOM: SINGULIER - PLURIEL
+
+> ✎ [Handwritten notes, p. 26](kissie%20fondamental%20(handwritten%20notes).md#p-26-pdf-30)
 
 La langue Kisiei regroupe les noms en sigulier et en pluriel qu'un indice vient morphologiquement différencier. Cette formation du pluriel se caractérise parfois par une variation vocalique.
 
@@ -772,6 +804,8 @@ Exemples :
 - Yèndöö : yèndèlan
 
 ### 2°)- LES NOMS TERMINES PAR "o" AU SINGULIER :
+
+> ✎ [Handwritten notes, p. 27](kissie%20fondamental%20(handwritten%20notes).md#p-27-pdf-31)
 
 Règle : Les noms terminés au singulier par "o" forment leur pluriel en "lan" qui se réalise "tan" - ndan" selon que la finale du radical est latérale ou nasale. Sauf les noms de personnes et d'animaux qui font leur pluriel en "a".
 
@@ -818,6 +852,8 @@ EXCEPTIONS : Saa, Yangaa, Nyinaa restent invariables.
 Règle 1 Les noms terminés au singulier par "e - ei " forment leur pluriel en "on"
 
 Exemples : Kawve : Kawvon ; Pangei : Pangon
+
+> ✎ [Handwritten notes, p. 28](kissie%20fondamental%20(handwritten%20notes).md#p-28-pdf-32)
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -866,6 +902,8 @@ Exemples :
 - <u>Sow</u> : So piaando So laando
 - <u>Nyaayoo</u> :Nyai piaando Nyai laando
 - <u>Tunndo</u> : Tun piaando Tun laando .
+
+> ✎ [Handwritten notes, p. 29](kissie%20fondamental%20(handwritten%20notes).md#p-29-pdf-33)
 
 EXERCICES : 1. Donner le Pluriel des mots suivants ;
 
@@ -925,6 +963,8 @@ Exemple : I tyo mömöö dio le
 
 ## LES NOMS COMPOSES :
 
+> ✎ [Handwritten notes, p. 31](kissie%20fondamental%20(handwritten%20notes).md#p-31-pdf-35)
+
 La langue Kisiei dispose d'assez de possibilité en matière de composition. Pour constituer les noms composés, le kisiei procède par la combinaison d'éléments de même nature (ex. nom+nom) ou de natures différentes (ex. Verbe + Nom ...). Ce qui occasionne la pluralité des noms composés dans cette langue.
 
 En effet, nous distinguons les combinaisons suivantes :
@@ -977,6 +1017,8 @@ Exemples : lö + tyièi = Lötyièyo ; Poo + pèi = Popèi.
 
 ### 8- NOM + Monème Fonctionnel + NOM = NOM :
 
+> ✎ [Handwritten notes, p. 32](kissie%20fondamental%20(handwritten%20notes).md#p-32-pdf-36)
+
 Exemples:
 - Työwvo + la + baa = Työwlabaa
 - Söön + ma + Sinndè = Söönmasinndön
@@ -1018,6 +1060,8 @@ Ces adverbes sont : ~~Taw~~ <ins>Tay</ins>, Hölöli, ~~tyapooli~~, (beaucoup) ;
 - Vo Fanta työèiyan <u>tyobe</u>
 - Lakolia bööböö a köènnun.
 
+> ✎ [Handwritten notes, p. 33](kissie%20fondamental%20(handwritten%20notes).md#p-33-pdf-37)
+
 - INTERVERTISSEZ LES ADVERBES AU NIVEAU DES PHRASES :
 
 Exemples : I nö volion taw - I nö volion nyèembö
@@ -1041,6 +1085,8 @@ CONJUGAISON : Le verbe Dioo au Passé composé de l'indicatif.
 ---
 
 ## LES NOMS DERIVES :
+
+> ✎ [Handwritten notes, p. 34](kissie%20fondamental%20(handwritten%20notes).md#p-34-pdf-38)
 
 Comme la composition ; la dérivation est un procédé de formation de mots nouveaux. Elle consiste au radical soit un préfixe, soit un infixe, soit un suffixe en vue d'un élargissement de sens.
 
@@ -1081,6 +1127,8 @@ Il est très productif dans la langue. Il sert à former des noms désignant :
 - L'origine ou la nationalité.
 
 Exemples : Labe<u>nöö</u>, Bofanöö, Kankannöö, Kisidunöö, Kpekedunöö, Layinènöö, Afilikinöö, laabelanöö, Maalinöö.
+
+> ✎ [Handwritten notes, p. 35](kissie%20fondamental%20(handwritten%20notes).md#p-35-pdf-39)
 
 - Les Noms de Famille .
 
@@ -1134,6 +1182,8 @@ Exemples : Fèènèlen, Kisilen, Sosolen, Tömèlen.
 
 - Dans le cas où il est suffixé aux noms d'animaux, "len" exprime la qualité ou le défaut en caractérisant le comportement social de certains hommes.
 
+> ✎ [Handwritten notes, p. 36](kissie%20fondamental%20(handwritten%20notes).md#p-36-pdf-40)
+
 Exemples :
 - Nyaayoo + len = Nyaayilen
 - Tömndo + len = Tömnden
@@ -1171,6 +1221,8 @@ LANGAGE : Apprenons les jours de la semaine.
 - Halèiyo
 - Kundèiyo.
 
+> ✎ [Handwritten notes, p. 37](kissie%20fondamental%20(handwritten%20notes).md#p-37-pdf-41)
+
 COMPTONS : de 10 en 10 jusqu'à 100.
 
 | 10 | 20 | 30 | 40 | 50 |
@@ -1199,6 +1251,8 @@ N.B. : Au passé composé le complément se place toujours après le verbe.
 ---
 
 ## LES NOMS DERIVES (SUITE)
+
+> ✎ [Handwritten notes, p. 38](kissie%20fondamental%20(handwritten%20notes).md#p-38-pdf-42)
 
 ### II- LES DERIVATIFS LEXICAUX.
 
@@ -1252,6 +1306,8 @@ Exemples :
 
 #### 5- LE DERIVATIF "Vana".
 
+> ✎ [Handwritten notes, p. 39](kissie%20fondamental%20(handwritten%20notes).md#p-39-pdf-43)
+
 Il est transposé du lexème "Vanndö" qui signifie : quelqu'un.
 
 Exemples :
@@ -1293,6 +1349,8 @@ CORRECTION : Les noms dérivés contenus dans la phrases sont les suivants :
 
 Bamèllo : Ba/mèllo ; Vananyètyaa : van/nyètyaa ; Vanayunguo : vana/yunguo ; Bahavèiyo : Ba/haveiyo ; Kölvesèiye : Kol/vesèiyo ; Kölkaluo : Köl/kaluo ; Vanakolaa : Vana/kolaa ; Vanavallo :vana/vallo Kisinöö : Kisi/nöö.
 
+> ✎ [Handwritten notes, p. 40](kissie%20fondamental%20(handwritten%20notes).md#p-40-pdf-44)
+
 LANGAGE : En société :
 
 - Seku isè !
@@ -1330,6 +1388,8 @@ CONJUGAISON : Nous allons à présent voir le futur avec notre même verbe : "Di
 ---
 
 ## LES FONCTIONS DU NOM :
+
+> ✎ [Handwritten notes, p. 41](kissie%20fondamental%20(handwritten%20notes).md#p-41-pdf-45)
 
 ### LA FONCTION SUJET :
 
@@ -1370,6 +1430,8 @@ nèènè kiimbu yè ? ou Nèè kiimbu yè kolaa ? Rep.Fala ; Fala = sujet de "Ki
 2- Nyaayoo bi bèlöö
 
 Yèè bi yè ? yèè bi yè bèlöö ? Nyaayoo ; Nyaayoo = sujet de "bi".
+
+> ✎ [Handwritten notes, p. 42](kissie%20fondamental%20(handwritten%20notes).md#p-42-pdf-46)
 
 3- Lènndo boli Tamba
 
@@ -1425,6 +1487,8 @@ LANGAGE AU DISPENSAIRE.
 - i kèi manum le sinaa nyè tyo num
 - Nuvali Dötölö .
 
+> ✎ [Handwritten notes, p. 43](kissie%20fondamental%20(handwritten%20notes).md#p-43-pdf-47)
+
 COMPTONS : Aux dizaines, ajoutons les unités.
 
 | 21 | 22 | 33 | 34 |
@@ -1455,6 +1519,8 @@ Reprénez cette même conjugaison mais à la forme négative..
 ---
 
 ## LES FONCTIONS DU NOM. (Suite).
+
+> ✎ [Handwritten notes, p. 44](kissie%20fondamental%20(handwritten%20notes).md#p-44-pdf-48)
 
 ### LA FONCTION COMPLEMENT D'OBJET.
 

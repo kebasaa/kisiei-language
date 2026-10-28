@@ -61,7 +61,7 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 - Use precomposed Unicode characters (NFC), for example `ö` as U+00F6.
 - Use Markdown only for structure: headings, tables for lexicons and paradigms, and paragraphs.
 - Handwritten corrections of the typed text go into the transcription: the struck text as `~~strikethrough~~`, the handwritten replacement as `<ins>…</ins>`.
-- All other handwritten annotations go in a separate `(handwritten notes).md` file: one table per page, each note next to the typed text it refers to, labelled as gloss, translation, variant or comment, with `[?]` for uncertain readings. The glosses and translations there can later be collected into a Kisiei–French word list.
+- All other handwritten annotations go in a separate `(handwritten notes).md` file: one table per page, each note next to the typed text it refers to, labelled as gloss, translation, variant or comment, with `[?]` for uncertain readings. In the transcription, a `> ✎ [Handwritten notes, p. N](…#p-n-pdf-m)` line where that page's content begins links to the matching notes section. The glosses and translations there can later be collected into a Kisiei–French word list.
 
 ## External resources
 
