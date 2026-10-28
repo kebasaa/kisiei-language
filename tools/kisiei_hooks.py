@@ -169,14 +169,26 @@ def on_page_markdown(markdown, page, config, files):
 
     markdown = re.sub(r"\[\[((?:" + "|".join(BOOKS) + r")\.\d+(?:\.\d+(?:-\d+)?)?)\]\]", bible, markdown)
 
+    # [[Key]] -> Keita (1979); [[Key, p. 57]] -> Keita (1979, p. 57);
+    # [[(Key, p. 57)]] -> (Keita 1979, p. 57); [[Key|text]] -> custom link text
     def cite(m):
-        k, _, text = m.group(1).partition("|")
-        k = k.strip()
+        paren, body = m.group(1), m.group(2)
+        body, _, text = body.partition("|")
+        k, _, loc = body.partition(",")
+        k, loc = k.strip(), loc.strip()
         if k not in _bib:
             raise PluginError(f"{src}: unknown citation key [[{k}]]")
-        return f'<a class="cite" href="{_rel(page, BIBLIO_PAGE[lang])}#{k}">{text.strip() or _short(_bib[k])}</a>'
+        e = _bib[k]
+        if e.get("shorthand"):
+            short = e["shorthand"] + (f", {loc}" if loc else "")
+            label = text.strip() or (f"({short})" if paren else short)
+        else:
+            name, year = _short(e).rsplit(" (", 1)
+            year = year.rstrip(")") + (f", {loc}" if loc else "")
+            label = text.strip() or (f"({name} {year})" if paren else f"{name} ({year})")
+        return f'<a class="cite" href="{_rel(page, BIBLIO_PAGE[lang])}#{k}">{label}</a>'
 
-    markdown = re.sub(r"\[\[([A-Za-z][A-Za-z0-9_:\-]*(?:\|[^\]]+)?)\]\]", cite, markdown)
+    markdown = re.sub(r"\[\[(\(?)([A-Za-z][A-Za-z0-9_:\-]*(?:,[^\]|)]+)?(?:\|[^\]]+)?)\)?\]\]", cite, markdown)
 
     if src.startswith("sources/bibliography."):
         items = "\n".join(_format(k, _bib[k]) for k in sorted(_bib, key=lambda k: _short(_bib[k]).lower()))
