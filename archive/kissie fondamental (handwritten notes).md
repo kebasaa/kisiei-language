@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–77 (PDF pages 1 and 3–88), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–95 (PDF pages 1 and 3–108), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -981,3 +981,231 @@ The back of the sheet has no typed text; these handwritten notes illustrate the 
 | Typed text | Note | Kind |
 | --- | --- | --- |
 | Nhömaa = Nhuèènu (5) + yaa(3) = 8 | Nhömaya ——) (in the left margin, pointing to Nhömaa) | variant |
+
+## p. 78 (PDF 89)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vaalan la tiön = 2.000 | ou: tan | variant |
+
+## p. 79 (PDF 90)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| La tiön = 2 | ou: tan tiön | variant |
+| ndu pilè = 1 (lorsque ce sont des personnes) | + animaux | comment |
+| nda nhiön = 2 | a ou (boxed "a", as an alternative to nda) | variant |
+| i pilè =1 | ndi ou (boxed "ndi", as an alternative to i) | variant |
+| Len pilè | pl. en ma (an); pl. en e, i | comment |
+| … Lakolia tèènn a vösi tasendöa | tayèn (in the margin, pointing to tèènn) | variant |
+
+## p. 80 (PDF 91)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Fallo (nuel) la sèböö ho | "nuel" bracketed; tofal [?] written above, with an arrow and "ya" pointing to "la" | variant |
+| Tuma paale yönganden a de bakaa | "bakaa" underlined; Sèliyo written beside it | variant |
+| idii oo idii a tyua höwvö haa mi ma tyu | piqûre (above höwvö); prenez (koovan) (above ma tyu) | gloss |
+
+## Verso of p. 80 (PDF 92)
+
+The back of the sheet has no typed text; these handwritten notes anticipate the ordinals on the next typed page.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | pilè ndöö – si on continue à compter | comment |
+| *(free note)* | fölönndo – plus fréquent; taseo; ~ équivalents | comment |
+
+## p. 81 (PDF 93)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Mènma tasean ; tyuèima fölönndan | "uè" handwritten into the gap between "ty" and "ima" (applied in the transcription; reading uncertain [?]) | comment |
+
+## p. 82 (PDF 94)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Deuxième : … Diindöö | plus fréquent (pointing to the Diindöö forms) | comment |
+
+## p. 83 (PDF 95)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| … utilisez les ordinaux hiölundöö, tö a pilèndöö | pilèndöö written out in the margin (the typed word is cut by the binding) | comment |
+
+## Verso of p. 84 (PDF 97)
+
+The back of the sheet has no typed text; these handwritten notes were written on it.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | Tewöö : chasser | gloss |
+| *(free note)* | I yöngu ndu sèbö / Sèbö ya yöngu ndu ni. / Ndu ya yöngu sèbö ni. — phrases ± équivalentes ("I" devient "ya" si autre mot avant) | comment |
+
+## p. 85 (PDF 98)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| 1ère Personne : … I pim | rassasier | gloss |
+| 3è : … o köènnun | est parti; verbe être sous-entendu | gloss |
+| 5è : … la tyo baalaa | (le commande [?]); travail | gloss |
+| Il arrive qu'ils apparaissent devant le verbe … complément d'objet. | "????" in the margin; the sentence is bracketed | comment |
+| 2è pers. : Num (Nöm) / Numpila (nömpila) | Num and Numpila struck out (the bracketed forms are kept) | comment |
+| 5è pers. : Nia, (hina) / Niapila (hinapila) | Nia and Niapila struck out (the bracketed forms are kept) | comment |
+| I yöngu ndu sèbö | I yöngu ndu ndu (written beside it) | variant |
+| Numpila ya yöngu sèbö | ni (added after sèbö) | comment |
+| O ke ya volion | O ke ya mun / O ke mun ya | variant |
+
+## p. 86 (PDF 99)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(above the table)* | Noms propres (with an arrow to the table) | comment |
+| Möön tyo ya ba mun miun | (o) above ya, 2 above miun; j'ai 2 couteaux dans la main | translation |
+| Mala ndu, ke ndu, työölu ndu | Mara (in the margin); aide; donne-lui; augmente-lui; dööria ndu : diminuer | gloss |
+| Nyuna ndu lisa ndu | demande-lui; donne-lui (pardon [?]) | gloss |
+| en : Malan, ken, työölun, Nyunan, lisan. | dööriàn | variant |
+| i tyo vèènön o kesu ndu kèsè vololo ndö lan ndo. | cacher; la caisse; il; déposer; s (under ndu), v (under kèsè) | gloss |
+| Nia nyaanun ni | fuir, courir | gloss |
+| Nda tosa viilen ni | le vol | gloss |
+
+## p. 87 (PDF 100)
+
+The left edge of this page is lost in the binding shadow; in the transcription, `…` at the start of a line marks the lost beginning.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tyavaamböyèi nii | pardon (in the margin) | comment |
+| … i va tabali nde ndu oo kuumbu | taper; maman; elle; serveur [?]; donner (faire peur) | gloss |
+| … ntaalala ndölan ndo nyindöö. | yalantaalala : la valeur [?] (in the margin) | gloss |
+| … mi ya … iannun o kesu ndu oo kèsi kolala | cacher; dans; le coffre [?]; pour lui | gloss |
+| A yön bèè aa … ya o sèèsa vala ndu oo pèngèla vo, ndu oo tuulu köl te. | déchirer; la natte; (chambre [?]); vos; gbèlèlè (margin) | gloss |
+| ya oo nö … lele ndu oo vian ipala len, mi ndu oo söngu len | cacher; la journée; trouver; auprès (margin) | gloss |
+| …mba a de mömöö ? I di mömöle, i pim. | yalantaalala [?] (margin) | comment |
+| …maa Faya tyo ni ? O tyo a naa le, sangaa o sanga ni. | naa (written above the lost start); maladie; fatigue | gloss |
+| …osulen le hènan hina ? Doosulen le hènan naa le, yööyaa hènan naa ni | nia (above hina); la chasse; plaire; nous; la pêche | gloss |
+| …a nö bölöö hoo ni ? tyo nda le nö ndu le, ya nöni | nda (above the lost start); sac; ceci; le (sac) | gloss |
+| …pèi yènyè nummdo ? I pèi le, sèbè num lohnun ! | maltèa [?] (margin); apprendre; cahier; perdu; Lassi (le mot qui va casser les nuits [?]) | gloss |
+| …nö buluo le saasan pisi ? A nö bulu le, mömö kuyaa nda nö ni | pain; acheter; cabine d'argent [?] | gloss |
+| …ösiei tö a i nhiin n nö ni ? | 12 ans | gloss |
+| … söla kayeelan ? O söla lakayee le, sèbèdimiaalan o söla ni. | cahier; livre de lecture; gagner, avoir | gloss |
+| … kutya dalaa ? N kutya ndu le, fèèyaa naa n fèèya ndu ni. | plaine (Ebene [?]); défricher | gloss |
+| … kol möèiyan ? I kol mamöèi le, sidefiliviiyo ya i kol ni | jus de fruit | gloss |
+| …èè bè num köè kelaa ? O koe le, tyo o ndu lo. | est; chez lui | gloss |
+
+## p. 88 (PDF 101)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| TABLEAU DES PRONOMS RELATIFS : | unvollständig! | comment |
+| a : … lan (la, ya)Pour les obj. | nda (above ya) | variant |
+| … Va pour les personnes. | et animaux | comment |
+| len : len | nden | variant |
+
+## p. 89 (PDF 102)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Domaa n pendu vo sèsa | tu paie [?]; déchirer | gloss |
+| Möèi Tamba pendu ve lo | perdu | gloss |
+| Mènma o köndu van ma tyon | puiser; verser | gloss |
+| Naw kom ndo ovi tyèi | acheter [?]; mourir; hier | gloss |
+| Hèli n pendu ve nan | sel; bon | gloss |
+| Visi riaa de von | vous mangez | gloss |
+| Vana ya yil lo tyel te | gentil [?] | gloss |
+| Mial hin tyiei yo miinun | étrange [?]; hier; retourner; Mungu (in the margin) | gloss |
+| Söö n ton ndo yeela. | griller [?]; est doux | gloss |
+| Kuei n ke ya…… nin te | arracher [?]; mûr [?] (margin) | gloss |
+| Yowva o dii…… tyoo o bölöö nin | tuer; sur; (la perdrix [?] dans le sac) | gloss |
+| A völöö o hin….. ya i tyo lamndo yaw ni | pour préparer | gloss |
+| Yoole niaa ke ndu….. nan taw | vous | gloss |
+| Siawma o kèndu ….. yeela. | ty (above kèndu); doux | gloss |
+| Mial hin haw….. tyo kèndia le | malade | gloss |
+| Nua möèima o pendu….. | (yo) parce que la phrase ne continue pas!; la bière [?] | comment |
+| Kola o pendu…., o tyii bèndu ndöö yöngö | (pagne [?]); grand [?] | gloss |
+
+## p. 90 (PDF 103)
+
+Most lines of this page have a pencil translation written beside or above them; several are only partly legible. The left edge is in the binding shadow; `…` in the transcription marks a lost start.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Te ndaa dimul la pè, a ve malö o kaasoo le. | ils; dire; pour (parler [?]) (kya); passer la nuit; prison | gloss |
+| Te ya toei pè, o va lakö. | entendre; Si j'aurai appris, … tout cas, il n'aurait pas … [?] | translation |
+| …va ndu bahavèiyo kiolöö, te ndu o ve sinamaköèiyo le. | S'il était (pas) … il ad… [?] (margin) | translation |
+| Te ndu o va pè vana bofofaa, o va mömbillo piondöö. | riche (above bofofaa) | gloss |
+| …va hina maalon ke, te hinaa hin pè | nia (above hina, twice); si | gloss |
+| …va o tenta pè, i va kiallo hoo diyöö | si moi j'aurais [?]; biche; tuer; Kiallo = tyallo (margin) | gloss |
+| Te ya o laalan num pè, i va num volin nuun ke kèsio. | si; i (above o); confiance; je te donnerais ma … argent [?]; = mandoa (margin) | gloss |
+| I va tangulu nuu siow, te ya nö pè simanndo. | construction; ciment; Seu (le ciment [?]) | gloss |
+| O va kolöö, te ndu o söla pè. | boire; prendre; Si vous les avait pas pris [?] | gloss |
+| A va le nyaanön te hina bii nda le | nia (above hina); fuir | gloss |
+| Köfa va ya lö, te i nyaanun te. | le professeur allait me frapper; si je ne m'enfuis pas | translation |
+| Te num o kol pè, a va vu. | Si tu manges ton …, tu allais mourir; mourir | translation |
+| Komal la tyèi nin, te nyumndan ma tol pè. | trouvez-moi; la maison; nuit; descendre; Trouvez-moi là où vous serez le soir [?] | translation |
+| Te nda yöngu ya vöngu lamndo pè, i va mömöö yaw | le prix; je vais préparer le riz … [?]; sauce | translation |
+| Oo va ya nyisöö, te ii yei ndu pè. | frapper avec violence (with an arrow to nyisöö) | gloss |
+
+## p. 91 (PDF 104)
+
+The left edge of this page is in the binding shadow; an annotator rewrote the lost words of the first paragraphs in the right margin (en, apparaître, tantôt, verbes, -tés, sein, sujet, de). The transcription uses these to complete the lost text.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Höönuo Kandun tyèi | désherbage; débuter; hier | gloss |
+| Sia tyo Höönuo o Poli | désherbe; présent | gloss |
+| Finda va höönuo o poli | imparfait | comment |
+| Teeva höönu hunndo | prés. habituelle | comment |
+| Hawa höönunin hunndo | futur | comment |
+| … susaa (frotter) | Sösaa | variant |
+| … kuusuwo (vomir) etc.... | paenndo (oublier) | gloss |
+
+## p. 92 (PDF 105)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Pulöö (laver : s'emploie pour les hommes) | humains (above hommes) | comment |
+| 5°)- Avec "w" | ou "u" | comment |
+| miöw (être à terme) … vaw (être) | u written above the w of miöw, viöw and vaw | variant |
+| *(left margin)* | a vertical line marks the whole morphology section (3°–5°) | comment |
+| Susa(a) + ndo / Susan - ndo | radical (above Susan) | comment |
+
+## p. 93 (PDF 106)
+
+The typed lines "Vannda tyo yilanndo ; les gens …" and "Vanvalla tyo veeluanndo le kölan.(les" are cut off on the typescript itself (their French translations were never finished).
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| 2. LES VERBES PRONOMINAUX OBTENUS AVEC " anndo" et "la | nndo (completing the heading at the margin) | comment |
+| Vaa (cultiver) + lanndo = vaalanndo | the typescript reads "veelanndo"; the "a" is written over the first "e" (applied in the transcription as vaalanndo [?]) | comment |
+| Baa (attacher) + Lanndo = Balanndo | "a" written over the typed vowel of Balanndo | comment |
+| Yiyöö (ligoter) + Lanndo = yèèlanndo | a looped mark under the word (reading of the typed vowels uncertain [?]) | comment |
+| *(left margin, at "1. LES VERBES EXPRIMANT UNE IDEE D'AIDE")* | several vertical strokes (emphasis) | comment |
+| Tyuaa (prendre) + lo … tyuello | e (written above the overtyped vowel) | comment |
+| Mandaa (garder) + lo … Mandallo (garder pour) etc.. | dimullo (written below, as another example) | gloss |
+| Faya tyo bon ndöö tyièi fèèyallo | oncle (above bon) | gloss |
+| Kumba sèvala kala ndöö sèböö | lettre (above sèböö); a (under the second a of sèvala) | gloss |
+
+## p. 94 (PDF 107)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| diondöö (blanchir) + i = dindioo (faire blanchir) | – 2e tour lessive / ou – 3e tour pillage [?] (in the margin, against veesiaa and dindioo) | gloss |
+| Mèènaa (maudire) + i = Mèèniaa (maudire plusieurs fois) | malédiction précise | gloss |
+| Kilio ----- kilikilio | couper (above Kilio) | gloss |
+| Köfanöö tyo kaandenda simisimio. | les étudiants (above kaandenda) | gloss |
+
+## p. 95 (PDF 108)
+
+The tone marks on this page are drawn by hand in the typescript (a high stroke for "ton haut", a low stroke for "ton bas"); the transcription renders them as ( ́ ) and ( ̀ ).
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| nous nous baserons essentiellement … mode indicatif, … mode impératif | -ons (completing "baser"); faint letters in the two gaps (sur le [?], le [?]) | comment |
+| Sa forme négative est "Tyo...... le." | + forme radicale | comment |
+| I tyo dioo = je mange | i tyo doole | variant |
+| I tyo tyanndo = Je pleure | i tyo tyann… le | variant |
+| I tyo pulönndo = je me lave | i tyo pu… le | variant |
+| I tyo diöm te. O tyo vana semèi le. | (dire [?]) above diöm; lui (above vana) | gloss |
+| Ndu tyo bolten ni. | chef | gloss |

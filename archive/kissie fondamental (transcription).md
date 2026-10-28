@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites and the start of the cardinal numerals (typescript pp. 1–77). PDF pages 1 and 3–88 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb up to the start of the conjugation (typescript pp. 1–95). PDF pages 1 and 3–108 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -2721,3 +2721,620 @@ Kèmè lediun = 200 = 100 x 2
 Kèmè leyaa = 300 = 100 x 3
 Kèmè lehiöölu = 400 = 100 x 4
 Kèmè lenhuèènu = 500 = 100 x 5
+
+> ✎ [Handwritten notes, p. 78](kissie%20fondamental%20(handwritten%20notes).md#p-78-pdf-89)
+
+Kèmè lenhömpum = 100 x 6 = 600
+Kèmè lenhömmèw = 100 x 7 = 700
+Kèmè lenhömaa = 100 x 8 = 800
+Kèmè lenhömahiöölu = 100 x 9 = 900.
+
+- Quand on compte de mille en mille; la langue fait appel à la référence catégorielle de la classe lan: "la" (autonome).
+
+| | |
+| --- | --- |
+| Vaa pilè = 1.000 | Vaalan la nhömpum = 6.000 |
+| Vaalan la tiön = 2.000 | Vaalan la nhömmèw = 7.000 |
+| Vaalan la yaa = 3.000 | Vaalan la nhömaa = 8.000 |
+| Vaalan la hiöölu = 4.000 | Vaalan la nhömahiöölu =9.000 |
+| Vaalan la nhuèènu = 5.000 | |
+
+- A partir de 10.000 et quand on compte de 10.000 en 10.000, on ne note la présence d'aucune particule de liaison.
+
+Vaalan tö = 10.000
+Vaalan bidiin = 20.000
+Vaalan beleyaa = 30.000
+Vaalan belehiöölu = 40.000
+Vaalan belenhuèènu = 50.000
+Vaalan belenhömpum = 60.000
+Vaalan belenhömmèw = 70.000 Vaalan belenhömaa = 80.000
+Vaalan belenhömahiöölu = 90.000
+Vaalan kèmè = 100.000.
+
+- Mais lorsqu'on compte de 100 en 100 à partir de 1.000, nous notons l'apparition de la particule de liaison "a".
+
+Vaa a kèmè = 1.100
+Vaa a Kèmè lediin = 1.200
+--------
+--------
+Vaa a Kèmè lenhömahiöölu = 1.900.
+
+\* Par ailleurs, l'efficacité de la langue liée à sa structure allitérative veut, lorsqu'on compte des objets, qu'on fasse appel au morphème référentiel de la classe de cet objet. Ainsi on dira par exemple :
+
+a) Pour les objets dont les noms sont terminés par "a,o,ö"
+
+> ✎ [Handwritten notes, p. 79](kissie%20fondamental%20(handwritten%20notes).md#p-79-pdf-90)
+
+| | |
+| --- | --- |
+| O pilè = 1 | Tö a o pilè = 11 |
+| La tiön = 2 | bidii a la hiöölu = 24 |
+| la yaa = 3 | Beleyaa a o pilè |
+| -------- | Belenhuèènu a la nhömpum |
+| la nhömahiöölu = 9 | Belenhöma a la nhömmèw. |
+
+Exemples : Doma o pilè, domalan la tiöm.
+
+Mais lorsque ce sont des personnes, on dira :
+
+| | |
+| --- | --- |
+| ndu pilè = 1 | tö a ndu pilè |
+| nda nhiön = 2 | tö a nda nhiön |
+| nda yaa = 3 | tö a nda yaa. |
+
+b) Pour les objets dont les noms sont terminés par "e,i:"
+
+| | |
+| --- | --- |
+| i pilè =1 | Tö a i pilè |
+| n muun =2 | tö a n muun |
+| n yaa = 3 | tö a n yaa |
+| -------- | -------- |
+| -------- | -------- |
+| n nhömahiölu = 9 | tö a n nhömahiöölu. |
+
+c) Pour les objets dont les noms sont terminés par "len".
+
+| | |
+| --- | --- |
+| Len pilè | Tö a len pilè |
+| ma miön, ndi nhin = 2 | tö a ma miön, tö a ndi nhin |
+| ma yaa, ndi yaa = 3 | tö a ma nhömahiöölu, tö a ndi nhömahiöölu. |
+| -------- | |
+| ma nhömahiöölu, ndi nhömahiöölu | |
+
+REMARQUE : Nous remarquons que pour toutes ces classes d'objets, il existe un référentiel singulier qui n'est utilisé que pour le premier cardinal, et un référentiel pluriel à partir de 2 jusqu'à 9 selon la forme du pluriel de ce nom.
+
+EXERCICE : Reprenez ce texte en écrivant les chiffres en lettres, puis vous les soulignez.
+
+Vana bilikalla tosa tyièi bungan 120 ; naköla iyambalan lan 2 : hoo bungan 25, hoo bungan 30. A va n van 18, lakolia va nda tèèn n van 10, maneevulua vanaa 5. Vana va vallo bolten ndo. Ndu pilè, a nyanun masinio vo nda 2, o bèndia du vo vana 1. Lakolia tèènn a vösi tasendöa va nda 3, a vösi yaandöa va nda 5, a vösi hiöölundöa va nda 2.
+
+> ✎ [Handwritten notes, p. 80](kissie%20fondamental%20(handwritten%20notes).md#p-80-pdf-91)
+
+CORRECTION DE L'EXERCICE :
+
+Vana bilikalla tosa tyièi bungan <u>kèmè a bidiin</u> ; naköla iyambalan lan tiön, hoo bungan <u>bidiin a n nhuèènu</u>, hoo bungan <u>beleyaa</u>. A va vivan <u>tö a nhömaa</u>, lakolia va nda tèèn nvan <u>tö</u>, maneevulua vanaa <u>nhuèènu</u> Vana va vallo bolten ndo ndu <u>pilè</u>, a nyanun masinio vo nda nhiön, O bèndia ndu vo vana <u>pilè</u>. Lakolia tèèn, a vösi tasendöa va nda yaa,a vösi yaandöa va nda <u>nhuèènu</u>, a vösi hiöölundöa va nda <u>nhiön</u>.
+
+LANGAGE : A la Pharmacie.
+
+- La vosè !
+- Mba isè !
+- Fallo (nuel) la sèböö ho
+- koovan suulan tan yaa nda sèval num ni
+- vèè la nö yè baa ?
+- Fawfaw siiliyon 250
+- vèè vana tyua yè kooma man ?
+- O fölönndo hoo, tyua idii a di nyèdia le
+- Tuma kuè ya dâ yè ni mömöö ?
+- Tuma paale yönganden a de bakaa
+- Man yè ?
+- idii oo idii a tyua höwvö haa mi ma tyu
+- O mèèlaa hoo yè ?
+- Kpungban mun nhönpum o paalen bèngu
+- o lepilè ya tyua mun faw ni.
+- idii kpumgban mium, ipaalaa miun, ityöl mium.
+
+> ✎ [Handwritten notes, verso of p. 80](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-80-pdf-92)
+
+---
+
+## LES ADJECTIFS NUMERAUX ORDINAUX :
+
+> ✎ [Handwritten notes, p. 81](kissie%20fondamental%20(handwritten%20notes).md#p-81-pdf-93)
+
+Les Ordinaux s'obtiennent en kisiei par suffixation du dérivatif "ndöö" au numéral cardinal. Ils s'accordent en classe et en nombre suivant le nom dont ils déterminent le rang.
+
+Il faut cependant faire remarquer que l'ordinal kisiei qui correspond à "Premier" revêt trois formes différentes. En effet "Premier" en kisiei peut s'exprimer par : Pilè ndöö, Fölön et Tase.
+
+### 1- LES FORMES TASE ET Fölön :
+
+| | FORMES \ MODALITES | o, a, ö | e ; i | an | len | lan |
+| --- | --- | --- | --- | --- | --- | --- |
+| SINGUL. | Tase | Taseo | Tasei | Tasean | Taselen | Taselan |
+| | Fölön | Fölönndo | Fölönnde | Fölönndan | Fölönnden | Fölönndan |
+| PLURIEL | Tase | Taselan<br>Tasea | Taseon | Tasean | Tasean<br>Tasei | Taselan |
+| | Fölön | Fölönndan<br>Fölönnda | Fölönndon | Fölönndan | Fölönndan<br>Fölönnde | Fölönndan. |
+
+Exemples :
+
+Kola taseo ; Kolala taselan
+Yow taseo ; yowva tasea
+Söèi fölönnde ; söön fölönndon
+Diola taselan ; diola fölönndan
+Mènma tasean ; ty<ins>uè</ins>ima fölönndan
+Yoole taselen ; yoei fölönnde
+Siawle fölönnden ; siawma tasean
+
+2)- LES AUTRES ORDINAUX : s'intègrent selon la classe du nom dont ils déterminent le rang.
+
+> ✎ [Handwritten notes, p. 82](kissie%20fondamental%20(handwritten%20notes).md#p-82-pdf-94)
+
+| MODALITE | o, a, ö | e ; i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| Deuxième | Tiönndöö<br>Diindöö | Tiönndöèi<br>Diindöèi | Tiönndöan<br>Diindöan | Tiönndölen<br>Diindölen | Tiönndölan<br>Diindölan |
+| Troisième | Yaandöö | Yaandöèi | Yaandöan | Yaandölan | Yaandölan |
+| Cinquième | N huèènundöö | Huèènundöèi | Nhuèènundöan | Nhuèènundölen | nhuèènundölan |
+| Huitième | N hömandöö | N hömandöèi | N hömandöan | n hömandölen | N hömandölan |
+| Onzième | Tö a o<br>Pilè ndöö | Tö a i<br>Pilèndöèi | Tö a ma<br>Pilèndöan | Tö a le<br>Pilèndölen | Tö a la<br>Pilèlandölan |
+| Quatorzième | bidiin a o<br>hiöölundöö | bidiin a i<br>hiöölundöèi | bidiin a ma<br>hiöölundöan | bidiin a le<br>hiöölundölen | bidiin a la<br>hiöölundölan. |
+| Premier | Pilèndöö | Pilèndöèi | Pilèndöan | Pilèndöan | Pilèndölan |
+
+Exemples :
+
+Kolaa diindöö ; yoole nhömandölen
+Möèi yaandoèi ; Diola diindölan
+Yow nhuèènundöö ; siawle tö a le pilèndölen
+Mènma tö a ma Pilèndöan.
+
+REMARQUES : 1- Lorsque par exemple le maître procède à un classement de ses élèves, il s'agira tout simplement de suffixer le dérivatif "ndöö" au numéral cardinal.
+
+2- Lorsque ce sont des années nous appliquons le même procédé.
+
+Exemples : Vösi vaa pilè kèmè lenhömahiöölundöö(pour l'an 1.900).
+Vösi vaa pilè kèmè lenhöma belenhuèènu a nhömmèwndöö(l'an 1857)
+Vösi vaa pilè kèmè lenhömmèwndöö (l'an 1700)
+Vösi vaa pilè kèmè lenhömahiöölu belenhömmèw a nhömahiöölu ndöö (1979).
+
+> ✎ [Handwritten notes, p. 83](kissie%20fondamental%20(handwritten%20notes).md#p-83-pdf-95)
+
+EXERCICES : 1- Transformer les cardinaux ci-dessous en ordinaux. :
+
+2 - 4 - 6 - 8 - 11 - 15 - 26.
+30 - 47 - 54 - 62 - 78 - 100
+83 - 99
+
+2- Utiliser les ordinaux Tasé et fölön avec les noms suivants :
+
+Kelèi, doma, Kulen, Mènndan , samtalan
+Möön, Nawvo , yowva , yoei, siawvan.
+
+Exemple : Möèi : Möèi tasei (fölönnde) ; Tunndo : Tun taséo(fölönndo).
+
+3- A travers cet exemple ci-dessous, faites un tableau identique et utilisez les ordinaux hiölundöö, tö a pilèndöö et bidiin a nhuèènundöö avec les noms suivants :
+
+Kolaa, Möèi, yoolen, siawvan, domalan, kuei.
+
+Exemple :
+
+| NOMS | Hiölendöö | Tö a pilèndöö | Bidiin a nhuèènundöö |
+| --- | --- | --- | --- |
+| Domaa | Hiölundöö | Tö a o pilèndöö | Bidiin a o nhuèèndöö |
+
+b) Déterminer le nombre de ces objets en utilisant le cardinal correspondant.
+
+CORRECTION DES EXERCICES :
+
+1- Diindöölu tiöndöö (2 ndöö), hiöölundöö (4 ndöö), Nhömpumndöö (6 ndöö), nhömandöö (8 ndöö), Tö a pilèndöö (11 ndöö), Tö a nhuèènundöö (15 ndöö), bidiin a nhömpumndöö (26 ndöö), beleyaandöö (30 ndöö), belehiöölu a nhömmèwndöö (47 ndöö), belenhuèènu a hiöölundöö (54 ndöö), Belenhömpum a tiöndöö diindöö (62 ndöö), belenhömmèw a nhömandöö (78 ndöö), belenhöma a yaandöö (83 ndöö) belenhömahiölu a nhömahiölundöö (99 ndöö), Kèmèndöö (100 ndöö).
+
+2- Kelèi tasei (fölönnde) ; doma taseo (fölönndo) ; kule taselen (fölönnden) ; Mènma taseo (fölönndo) ; Kule taselen (fölönnden) Mènma tasean (fölönndan) ; Samtala taselan (fölönndan) ; Möön taseon (fölönndon)naw taseo (fölönndo) ; yowva tasea (fölönnda) Yoei tasei (fölönnde).
+
+| NOMS | Hiölundöö | Tö a pilèndöö | Bidiin a nhuèènumdöö |
+| --- | --- | --- | --- |
+| Kolaa | Hiölundöö | Tö a o Pilèndöö | Bidiin a o nhuèènundöö |
+| Möèi | Hiölundöèi | Tö a i pilèndöèi | Bidiin a i nhuèènundöèi |
+| Yoole | Hiölundölen | Tö a le pilèndö - len | Bidiin a le nhuèènundölen |
+| Siawma | Hiölundöan | Tö a ma pilèndöan | Bidiin a ma nhuèènundöan |
+| | Hiöölu | Tö a pilè | Bidiin a nhuèènu |
+| Kolalan | Tan hiöölu | Tö a o pilè | Bidiin a la nhuèènu |
+| Möön | Mun hiöölu | Tö a i pilè | Bidiin a n nhuèènu |
+| Yoei | ndi hiöölu | Tö a ~~le~~ <ins>i</ins> pilè | Bidiin a n nhuèènu |
+| Siawvan | Man hiöölu | Tö a le pilè | Bidiin a nan nhuèènu. |
+
+> ✎ [Handwritten notes, verso of p. 84](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-84-pdf-97)
+
+---
+
+## LES PRONOMS PERSONNELS.
+
+> ✎ [Handwritten notes, p. 85](kissie%20fondamental%20(handwritten%20notes).md#p-85-pdf-98)
+
+Ils sont au nombre de (12) dans la langue et se repartissent en deux groupes :
+
+### 1. LES PRONOMS PERSONNELS SUJETS :
+
+Ils sont au nombre de six (6) et se placent toujours devant le verbe. C'est-à-dire qu'ils actualisent le prédicat verbal dans la structure s.n.s + s.v. D'où nous disons que la langue ne les utilise que comme sujet et comme personnes de la conjugaison. Ce sont :
+
+1ère Personne : i = je exemple : I pim
+2è- Personne : a = tu exemple : A de mömö
+3è -"- : o = il, elle exemple :o köènnun
+4è -"- : N = Nous exemple : N hin
+5è -"- : la = vous -"- : la tyo baalaa
+6è -"- : A = ils, elles : A fula.
+
+### 2. LES PRONOMS PERSONNELS COMPLEMENTS :
+
+Ils sont également au nombre de six (6) et apparaissent généralement après le verbe, c'est-à-dire en fonction de complément. Il arrive qu'ils apparaissent devant le verbe et même dans ce cas ils jouent le rôle de complément d'objet. Ce sont :
+
+| FORME SIMPLE | FORME D'INSISTANCE. |
+| --- | --- |
+| 1ère pers. : Ya = (moi) | Yapila = moi mêmê |
+| 2è pers. : ~~Num~~ (Nöm) = (toi) | ~~Numpila~~ (nömpila) =toi-mêmê |
+| 3è Pers. : Ndu = lui, le | Ndupila : lui-mêmê,elles-mêmê |
+| 4è pers. : Naa = Nous | Naapila = Nous-mêmê |
+| 5è pers. : ~~Nia~~, (hina) = vous | ~~Niapila~~ (hinapila) vous-mêmê |
+| 6è pers. : Nda = eux, les | Ndapila = Eux-mêmê. |
+
+Exemples :
+
+| | |
+| --- | --- |
+| I yöngu ndu sèbö | Numpila ya yöngu sèbö ni .. |
+| O ke ya volion | O ke yapila kulio |
+| A tow nda | Ndapila ke ndu ni |
+
+REMARQUES :
+
+1. Les pronoms personnels compléments des 3è et 6è personnes se présentent sous diverses formes suivant la classe du substantif qu'ils remplacent.
+
+> ✎ [Handwritten notes, p. 86](kissie%20fondamental%20(handwritten%20notes).md#p-86-pdf-99)
+
+| | o, a, ö | e ; i | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| 3è Pers. | Ndu | Ndi | Man | Len | lan |
+| 6è Pers. | Nda, ndi | Mun | Man | Man, Ndii | Lan |
+
+Exemple : Möön tyo ya ba mun miun
+Kolle ndi nhiin.
+
+2. Il faut aussi signaler que les locuteurs kisia, ont très souvent tendance à contracter des énoncés du type :
+
+Mala ndu, ke ndu, työölu ndu
+Nyuna ndu lisa ndu
+
+en : Malan, ken, työölun, Nyunan, lisan.
+
+A ce propos nous dirons avec le Camarade Jacob Tamba TOLNO dans "Etude descriptive du système phonologique du Kisiei" (Page 51) que "La disparition du substitut complément d'objet dans des énoncés contractés a entraîné une nasalisation de la voyelle finale de l'unique constituant".
+
+3. Dans le fonctionnement de la langue, bien que les pronoms personnels sujets et compléments peuvent être employés simultanément (le complément avant le sujet) exemple : ya i tyo o pömböö ; ndu o kue nin te nia la köanin ; les pronoms personnels compléments peuvent assumer dans la langue la fonction de sujet. Mais dans ce cas, le pronom personnel sujet est omis.
+
+Exemples : <u><u>Ya</u></u> <u>tyo</u> o pömböö
+i tyo vèènön o kesu <u><u>ndu</u></u> <u>kèsè</u> volola ndö lan ndo.
+<u><u>Ya</u></u> <u>nö</u> kpeloo hoo ni
+<u><u>Ndu</u></u> <u>yöngu</u> ya ni
+<u><u>Nia</u></u> <u>nyaanun</u> ni
+<u><u>Nda</u></u> <u>tosa</u> viilen ni
+
+EXERCICE : Soulignez dans ce texte, les pronoms personnels sujets d'un trait et deux traits les pronoms personnels compléments.
+
+> ✎ [Handwritten notes, p. 87](kissie%20fondamental%20(handwritten%20notes).md#p-87-pdf-100)
+
+Tyavaamböyèi nii
+
+…va va pömbö vo, i va tabali nde ndu oo kuumbu …ntaalala ndölan ndo nyindöö. Le ndu sioonde loeiyo, mi ya …iannun o kesu ndu oo kèsi kolala ndölan ndo nin. A yön bèè aa …ya o sèèsa vala ndu oo pèngèla vo, ndu oo tuulu köl te. ya oo nö …lele ndu oo vian ipala len, mi ndu oo söngu len ityöl kpele ndöö …pilè.
+
+CORRECTION DE L'EXERCICE :
+
+…<u>ya</u> va o pömbö vo, <u>i</u> va tabali nde <u>ndu</u> oo kumbu yalantaalala …lan ndo nyindöö. Le <u>ndu</u> sioonde loeiyo, mi <u>ya</u> oo viannun o kesu … oo kèsi kolala ndölan ndo nin. <u>A</u> yön bèè aa mi <u>ya</u> o sèèsa vala … oo pèngèla vo, <u>ndu</u> oo tuulu köl te. <u>Ya</u> oo nö kpelele <u>ndu</u> oo vian …la len, mi <u>ndu</u> oo söngu len ityöl kpele ndöö bapilè.
+
+LANGAGE : Nous allons apprendre à repondre négativement, puis positivement après une question en utilisant les pronoms personnels.
+
+…mba a de mömöö ? I di mömöle, i pim.
+…maa Faya tyo ni ? O tyo a naa le, sangaa o sanga ni.
+…osulen le hènan hina ? Doosulen le hènan naa le, yööyaa hènan naa ni
+…a nö bölöö hoo ni ? tyo nda le nö ndu le, ya nöni
+…pèi yènyè nummdo ? I pèi le, sèbè num lohnun !
+…nö buluo le saasan pisi ? A nö bulu le, mömö kuyaa nda nö ni
+…ösiei tö a i nhiin n nö ni ? I nö vösii tö i nhii te, i nhömahiöölu ya i nö ni
+… söla kayeelan ? O söla lakayee le, sèbèdimiaalan o söla ni.
+… kutya dalaa ? N kutya ndu le, fèèyaa naa n fèèya ndu ni.
+… kol möèiyan ? I kol mamöèi le, sidefiliviiyo ya i kol ni
+…èè bè num köè kelaa ? O koe le, tyo o ndu lo.
+
+N.B. : Attention ! ne confondez pas "o" pronom personnel sujet et "o" préposition. La différence entre les deux est que : "O" pronom personnel se place avant le verbe dont il est le sujet tandis que "O" préposition introduit toujours le complément en se plaçant après le verbe et avant le complément. Il peut se présenter sous les formes discontinues o.... lo et o.... nin.
+
+---
+
+## LES PRONOMS RELATIFS :
+
+> ✎ [Handwritten notes, p. 88](kissie%20fondamental%20(handwritten%20notes).md#p-88-pdf-101)
+
+Toute langue marque la relation entre les éléments de l'énoncé, de manière interne à son système. Cet élément qui n'a pour fonction que de joindre le substantif dont il tient la place, à la proposition subordonnée..
+
+En kisiei, ces éléments marquant la relation s'accordent selon la classe nominale et le nombre du substantif qu'ils remplacent. Ce sont : Vo, Ve, len, lan, van qui font leur pluriel en Va, von, van, lan.
+
+Le pronom relatif se place après le verbe tout en s'accordant avec le substantif qu'il remplace. Ainsi :
+
+Lorsque la finale du radical verbal est latérale (l), "vo" se réalise en "lo".
+
+"ve" quand la finale du radical verbal est "ei" ou èi". Ou à la suite de la semi consonne "Y" en finale du nominal qui précède immédiatement (c'est-à-dire le nom qui s'inserre entre le verbe et le pronom), vo se réalise "Yo" et ve se réalise "Ye". Après une nasale il devient "ndo", ve devient nde et van , lan se réalisent ndan.
+
+TABLEAU DES PRONOMS RELATIFS :
+
+| MODALITES | RELATIFS : SINGULIER | RELATIFS : PLURIEL |
+| --- | --- | --- |
+| a | Vo (lo, yo, ndo) | lan (la, ya)Pour les obj.<br>Va pour les personnes. |
+| O | Vo (lo, yo, ndo) | Va<br>lan |
+| ö | Vo (lo, yo, ndo) | Va (la, ya)<br>lan |
+| e - i | Ve (le, ye, nde) | Von (lon yondon) |
+| an | Van (ndan) | van ( ndan) |
+| len | len | van, ve |
+| Lan (ndan) | Lan (ndan) | Lan (ndan). |
+
+> ✎ [Handwritten notes, p. 89](kissie%20fondamental%20(handwritten%20notes).md#p-89-pdf-102)
+
+EXEMPLES : Doma<u>a</u> n pendu <u>vo</u> sèsa
+
+Möè<u>i</u> Tamba pendu <u><u>ve</u></u> lo
+Mènm<u>a</u> o köndu <u>van</u> ma tyon
+Na<u>w</u> kom <u>ndo</u> ovi tyèi
+Hèl<u>i</u> n pendu <u>ve</u> nan
+Mangolte ya i pendulen le lo
+Nawv<u>a</u> o pendu <u>va</u> nyanun
+Domal<u>a</u> o söndu <u>lan</u> la sèsa
+Visi riaa de <u>von</u>
+Vana ya yil <u>lo</u> tyel te
+Mial hin tyiei <u>yo</u> miinun
+Söö n ton <u>ndo</u> yeela.
+
+EXERCICE : Remplissez les pointillés par l'un relatif convenable .
+
+Kuei n ke ya...... nin te
+Yowva o dii...... tyoo o bölöö nin
+A völöö o hin..... ya i tyo lamndo yaw ni
+Yoole niaa ke ndu..... nan taw
+Siawma o kèndu ..... yeela.
+Ngö suwva n hin tyièi..... ?
+Mial hin haw..... tyo kèndia le
+Nua möèima o pendu.....
+Kola o pendu...., o tyii bèndu ndöö yöngö
+Samtala n ke ya..... la hiow ya.
+
+CORRECTION DE L'EXERCICE :
+
+Kuei n ke ya <u>ve</u> nin te
+Yowva o dii <u>va</u> tyoo o bölöö nin
+A völöö o hin <u>ndo</u> ya i tyo lamndo yaw ni
+Yoole niaa ke ndu <u>len</u> le taw.
+Siawma o kèndu <u>yan</u> ma yeela.
+Ngö suvaa n hin tyèi <u>ya</u>
+Mial hin pèi <u>yo</u> tyo kèndia le
+Nua möèima o pendu <u>van</u>
+kola o pendu <u>vo</u> o tyii pömbö ndöö yöngu,
+Samtala n ke ya <u>lan</u> la hiow ya.
+
+> ✎ [Handwritten notes, p. 90](kissie%20fondamental%20(handwritten%20notes).md#p-90-pdf-103)
+
+LANGAGE : Comment on exprime une action soumise à une condition;
+
+Te ndaa dimul la pè, a ve malö o kaasoo le.
+Te ya toei pè, o va lakö.
+…va ndu bahavèiyo kiolöö, te ndu o ve sinamaköèiyo le.
+Te ndu o va pè vana bofofaa, o va mömbillo piondöö.
+…va hina maalon ke, te hinaa hin pè
+…va o tenta pè, i va kiallo hoo diyöö
+Te ya o laalan num pè, i va num volin nuun ke kèsio.
+I va tangulu nuu siow, te ya nö pè simanndo.
+O va kolöö, te ndu o söla pè.
+A va le nyaanön te hina bii nda le
+Köfa va ya lö, te i nyaanun te.
+Te num o kol pè, a va vu.
+Komal la tyèi nin, te nyumndan ma tol pè.
+Te nda yöngu ya vöngu lamndo pè, i va mömöö yaw
+Oo va ya nyisöö, te ii yei ndu pè.
+
+---
+
+## LE VERBE : Vue d'Ensemble.
+
+> ✎ [Handwritten notes, p. 91](kissie%20fondamental%20(handwritten%20notes).md#p-91-pdf-104)
+
+### I- GENERALITES :
+
+Nous avons vu dans l'étude des Radicaux, qu'il existe en Kisiei, des lexèmes verbo-nominaux ou bivalents.qui peuvent apparaître tantôt en fonction non prédicative (sujet ou complément) tantôt en fonction prédicative (verbe). D'Où il s'ensuit que les verbes et les noms ayant les mêmes terminaison, on a des difficultés à les identifier. Leur identification repose :
+
+1°)- Sur le fait qu'ils se distribuent différemment au sein de l'énoncé. C'est ainsi que les noms ne peuvent apparaître qu'en fonction : sujet et complément, tandis que les verbes n'apparaissent qu'en fonction prédicative et sont parfois accompagnés des auxilliaires du verbe être "Vaw" (tyo pour le présent et va pour l'imparfait) qui les séparent ou des moins les rattachent au sujet.
+
+2°)- Sur le fait que le verbe est porteur des marques de temps.
+
+Exemples :
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| <u>Höönuo</u> | <u>Kandun</u> | <u>tyèi</u> | | |
+| s | v | c | | |
+| <u>Sia</u> | tyo | <u>Höönuo</u> | o | <u>Poli</u> |
+| s | | v | | c |
+| <u>Finda</u> | va | <u>höönuo</u> | o | <u>poli</u> |
+| s | | v | | c |
+| <u>Teeva</u> | <u>höönu</u> | <u>hunndo</u> | | |
+| s | v | c | | |
+| <u>Hawa</u> | <u>höönunin</u> | <u>hunndo</u> | | |
+| s | v | c | | |
+
+### II- MORPHOLOGIE :
+
+En kisiei, les verbes se présentent sous cinq (5) terminaisons morphologiquement différentes :
+
+1°)- <u>Avec "a"</u>:
+
+Exemples : Vaa (laboure) nölaa (pouvoir) Kelenhaa (être rapide, se dépècher) baa (attacher) siööndaa (chuchoter) susaa (frotter) puusiaa (déranger) etc....
+
+2°)- <u>Avec "O"</u> (ndo) :
+
+Exemples : Kèsio (poser) mulio (repondre) tyanndo (pleurer) meiyo (se taire) bolinndo (se blesser) Delio (tomber plusieurs fois) Danhio (crier) kuusuwo (vomir) etc....
+
+> ✎ [Handwritten notes, p. 92](kissie%20fondamental%20(handwritten%20notes).md#p-92-pdf-105)
+
+3°)- <u>Avec "ö"</u> :
+
+Exemples : Kolöö (boire) biönhöö (clignoter) Pulöö (laver : s'emploie pour les hommes). Tonhöö (griller) Kandöö (commencer) töö (laver : s'emploie pour les objets). Mamöö (rire) etc....
+
+4°)- <u>Avec "an"</u> (lan, tan, ndan).
+
+Exemples : Kölan (partir) pisultan (jouer) löan (dormir) Poènndon (oublier). Les verbes en an sont peu nombreux dans la langue.
+
+5°)- <u>Avec "w"</u>
+
+Exemples : Työw (voir) miöw (être à terme) nöw (posséder, avoir) viöw (cogner), siöw (pourrir) vaw (être).
+
+## LES VERBES PRONOMINAUX
+
+En kisiei, les verbes pronominaux sont obtenus par dérivation, en suffissant à un radical, l'un des dérivatifs suivants : ndo, nönndo, anndo et lanndo.
+
+### 1°) <u>Les verbes pronominaux obtenus avec "ndo et "nönndo"</u>
+
+Lorsque ces dérivatifs sont suffixés à un radical verbal, ils nous permettent d'obtenir des verbes pronominaux à sens réfléchi. C'est-à-dire que l'action exprimée par ces verbes est faite et retombe sur le sujet.
+
+Exemples: a) <u>avec - ndo</u>
+
+| | |
+| --- | --- |
+| ~~velaa~~ <ins>biö</ins> (tenir) + ndo | ~~velanndo~~ <ins>bianndo</ins> (se tenir) |
+| Susaa (frotter)+ ndo | susanndo (se frotter) |
+| Nyasöö (gratter) + ndo | Nyasönndo ( se gratter) |
+| Bolio (blesser) + ndo | Bolinndo ( se blesser) |
+| Tyuköö(Piquer) + ndo | tyukönndo ( se Piquer) |
+
+Faya <u>susan</u> a fuo (faya s'est frotté avec l'éponge)
+Kumba <u>Bolin</u> a Möèi (kumba s'est blessé avec le couteau)
+Saa tyo nyasönndo a yömndo (Saa se gratte avec le bois)
+
+Remarque: Le dérivatif "ndo" entrant en fonction, entraine une nasalisation de la voyelle finale du radical après s'être substitué à la modalité.
+
+| | |
+| --- | --- |
+| Susa(a) + ndo | Susan - ndo |
+
+b) <u>avec nönndo</u>
+
+| | |
+| --- | --- |
+| Baa (attacher) + nönndo | baanönndo (s'attacher) |
+| löö (frapper) + nönndo | löönönndo (se frapper) |
+
+> ✎ [Handwritten notes, p. 93](kissie%20fondamental%20(handwritten%20notes).md#p-93-pdf-106)
+
+| | |
+| --- | --- |
+| Diöö (tuer) + nönndo --------) | Diinönndo (se tuer) |
+| Nuaa (regarde) + nönndo -----) | Nuanönndo (se regarder) |
+| Hawvo (caler) + nönndo ------) | Hawnönndo (se caler). |
+
+### 2. <u>LES VERBES PRONOMINAUX OBTENUS AVEC " anndo" et "lanndo</u>
+
+Les dérivatifs "anndo" et "lanndo" à un radical verbal permettent d'obtenir des verbes pronominaux à sens réciproque. C'est-à-dire que l'action exprimée par ces verbes, rejaillit de manière réciproque sur les sujets qui la font.
+
+Exemples :
+
+a) <u>Avec - anndo</u> :
+
+Yilöö (saluer) + anndo = Yilanndo (se saluer)
+Veeluo (appeler) + anndo = veeluanndo (s'interpeler)
+Mamöö (rire) + anndo = Mamanndo (rire l'un de l'autre)
+Biyöö (attraper) + anndo = biyanndo (s'attraper)
+bènhio (démonter) + anndo = bènhianndo (se demonter)
+Vannda tyo yilanndo ; les gens …
+Vanvalla tyo veeluanndo le kölan.(les
+
+b) <u>Avec - lanndo</u>
+
+Vaa (cultiver) + lanndo = vaalanndo (cultiver l'un pour l'autre)
+Baa (attacher) + Lanndo = Balanndo (s'accrocher l'un à l'autre)
+Yiyöö (ligoter) + Lanndo = yèèlanndo (se ligoter l'un et l'autre),
+
+## LES VERBES EXPRIMANT DES IDEES D'AIDE ET DE REPETITION :
+
+### 1. <u>LES VERBES EXPRIMANT UNE IDEE D'AIDE</u> :
+
+Ils sont obtenus grâce au dérivatif verbal "lo" que l'on suffixe à un radical verbal. Ces verbes ainsi obtenus, expriment une action faite au détriment du sujet et en faveur d'un tiers.
+
+| | |
+| --- | --- |
+| Sèvaa (écrire) + lo------) | sèvallo (écrire pour) |
+| Kèsio (poser) + lo ----) | Kèsullo (poser pour) |
+| Fèèyaa (défricher) + lo ------ | Fèèyallo (défricher pour) |
+| Tyuaa (prendre) + lo ---------- | tyuello (prendre pour) |
+| Mandaa (garder) + lo ---------- | Mandallo (garder pour) etc.. |
+
+Faya tyo bon ndöö tyièi fèèyallo (
+Kumba sèvala kala ndöö sèböö
+
+> ✎ [Handwritten notes, p. 94](kissie%20fondamental%20(handwritten%20notes).md#p-94-pdf-107)
+
+REMARQUES : La suffixation de ce dérivatif entraîne dans la plupart des cas une variation vocalique au sein du radical. D'autre part, nous constatons que le "l" se mutte en sa variante geminée "ll".
+
+### 2. <u>LES VERBES EXPRIMANT UNE IDEE DE REPETITION</u> :
+
+Dans la langue, ils sont obtenus grâce au dérivati "i" que l'on infixe à un radical verbal. Les verbes issus de cette dérivation, indiquent non seulement une répétition, mais aussi que l'action qu'ils expriment rejaillit sur une personne, un objet, un animal (outre le sujet).
+
+Veesaa (sècher) + i = veesiaa (faire sècher)
+diondöö (blanchir) + i = dindioo (faire blanchir)
+hiovöö (passer) + i = hivioo (faire passer)
+Simndan (s'arrêter) + i = simio (faire arrêter)
+Fèèyaa + i = Fèèyiaa (défricher en plusieurs endroits)
+Mèènaa (maudire) + i = Mèèniaa (maudire plusieurs fois)
+Sèèvaa (écrire) + i = sèèviaa (gribouiller) etc....
+Hawa veesia maalon
+Teeva mèènia po ndöö
+
+REMARQUE : Comme nous le constatons, le dérivatif "i" s'infixe dans la dernière syllabe (entre la consonne et la voyelle), et dans certains cas, il entraîne une variation vocalique : öö...io.
+
+Diondöö ------- dindioo, hiovöö----- hivioo.
+
+3°)- Il existe aussi des <u>Verbes Obtenus par Reduplication</u> qui ont la même caractéristique que les verbes exprimant l'idée de répétition.
+
+| | |
+| --- | --- |
+| Kèsio-------- | Kèsikesio (disposer, arranger) |
+| Kinhio------ | Kinhikinhio (graduer) |
+| Simio ----- | Simisimio (superposer, aligner) |
+| Kilio ----- | kilikilio (découper en menu morceaux). |
+
+Finda tyo vision kilikilio
+Köfanöö tyo kaandenda simisimio.
+
+---
+
+## LA CONJUGAISON :
+
+> ✎ [Handwritten notes, p. 95](kissie%20fondamental%20(handwritten%20notes).md#p-95-pdf-108)
+
+Dans cette partie de l'étude du verbe, nous nous baserons essentiellement … mode indicatif, … mode impératif et de leurs temps qui sont les plus usités dans la langue.
+
+### I- <u>LE MODE INDICATIF ET SES TEMPS</u> :
+
+Ce mode, présente une action comme réelle, déjà accomplie, en cours d'accomplissement ou à venir mais à accomplir : c'est le mode du certain. Ses temps sont les suivants :
+
+#### 1. <u>LE PRESENT</u> :
+
+Dans la langue, nous distinguons deux (2) sortes de présent :
+
+a)- Quand une action actuelle, est entrain de se produire, c'est-à-dire en cours d'accomplissement : c'est le <u>Présent Duratif</u> (ou ponctuel).
+
+Pour l'expression de ce temps, le locuteur Kisinöö utilise un élément intermédiaire "tyo" (entre le sujet et le verbe) qui jour le rôle d'auxilliaire <u>être</u>. A ce temps, le verbe se présente sous sa forme infinitive (c'est-à-dire muni de sa modalité verbale) et se réalise avec un <u>ton haut</u> ( ́ ). Sa forme négative est "Tyo...... le."
+
+Exemples : I tyo dioo = je mange (je suis en train de manger)
+I tyo tyanndo = Je pleure (je suis en train de pleurer)
+I tyo pulönndo = je me lave (je suis en train de me laver)
+
+b)- Une action habituelle, valable pour le passé, le présent et l'avenir : c'est le <u>Présent Habituel</u>. Il est réalisé par les locuteurs avec un <u>Ton bas</u> sur la dernière voyelle du verbe( ̀ )
+
+Exemples : I dia = je mange (habituellement je mange).
+I kiimbu = je vole (d'habitude)
+
+<u>Remarque</u> : "Tyo" connaît une existance autonome dans la langue. Il est bien une variante de vaw, l'équivalent du verbe être.
+
+Exemples : I tyo diöm te. O tyo vana semèi le. Ndu tyo bolten ni.
+
+#### 2. <u>LE PASSE</u> : Il indique qu'une action est entièrement accomplie dans un temps complètement écoulé. Les locuteurs le réalisent avec un <u>Ton Haut</u> qui le distingue du Présent habituel ;
