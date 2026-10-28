@@ -1,0 +1,3 @@
+# interjections (fr)
+
+À rédiger.

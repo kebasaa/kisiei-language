@@ -1,0 +1,3 @@
+# adjectives (fr)
+
+À rédiger.

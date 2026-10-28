@@ -1,0 +1,61 @@
+# Dérivation
+
+La dérivation forme des noms nouveaux en ajoutant un **suffixe** ou un **préfixe** à un radical. Keita [[Keita1979]] (p. 34-40) distingue les *dérivatifs purs* (des suffixes) et les *dérivatifs lexicaux* (d'anciens noms devenus préfixes). Les exemples ci-dessous sont, sauf indication, tirés de la Bible [[BKG]].
+
+## Suffixes
+
+### -nɔɔ : personne qui fait, personne de
+
+Le suffixe **-nɔɔ** (pluriel **-nda** ou **-a**) forme des noms de personnes :
+
+- **origine, peuple** : {{Esiptenɔɔ}} « Égyptien » [[GEN.16.1]], {{Israɛlnɔɔ}} « Israélite », {{Filistinɔɔ}} « Philistin » ;
+- **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [[2SA.18.24]], {{kiilanɔɔ}} « messager » [[GEN.50.16]], {{mandenɔɔ}} « marabout, devin » ;
+- **qualité** : {{kuubanɔɔ}} « héros », {{langbanɔɔ}} « homme adulte ».
+
+Keita y ajoute les noms de familles (*Kambadunɔɔ*) et de locuteurs d'une langue ({{Kisinɔɔ|r}} « un Kisi »).
+
+### -yɛi : qualité, état
+
+Le suffixe **-yɛi** forme des noms abstraits :
+
+| Base | Dérivé | Sens |
+| --- | --- | --- |
+| {{vana}} « personne » | {{vanayɛi}} | parenté |
+| {{cuaambɔɔ}} « enfant » | {{cuaambɔyɛi}} | enfance |
+| *felengoo* « jeune » | {{felengiyɛi}} | jeunesse [[GEN.8.21]] |
+| *vanakɛndɛ* « personne bonne » | {{vanakɛndɛyɛi}} | bonté, justice [[1SA.24.19]] |
+| *hɔ́ɔ́* « libre » | {{hɔ́ɔ́yɛi}} | liberté [[EXO.21.2]] |
+
+### -ndɔɔ : rang (ordinaux)
+
+Ajouté à un nombre, **-ndɔɔ** forme l'ordinal : {{ŋɔmmɛwndɔɔ}} « septième ». Voir [Nombres](../determiners/numerals.md).
+
+### -len : diminutif
+
+Keita (p. 25 et 39) note que **-len** (classe *len*) peut former des **diminutifs** : {{pɔmbɔlen}} « tout petit », et, sur des noms d'animaux, des noms de défauts ou de qualités humaines (*tunnden* « saleté », de {{tunndo}} « chien »).
+
+### i-…-ei : état
+
+Une forme discontinue *i-…-ei* forme des noms d'état (Keita, p. 37) : *ilafilafiei* « le fait d'être toujours pressé ». Ce type est rare dans la Bible ; il reste à confirmer auprès de locuteurs.
+
+### le- : nombre de fois
+
+Préfixé à un nombre, **le-** exprime la répétition (Keita, p. 35) : {{leyaa}} « trois fois », {{leŋɔmmɛw}} « sept fois ».
+
+## Préfixes issus de noms
+
+Plusieurs noms s'emploient comme premier élément de nombreux dérivés ; ils perdent alors leur terminaison :
+
+| Préfixe | Nom d'origine | Dérivés (Bible) |
+| --- | --- | --- |
+| **ɲɛ-** « chose » | {{ɲɛ}} | {{ɲɛdiaa}} « nourriture », {{ɲɛkɛndɛi}} « bonne chose, bonheur », {{ɲɛ-sɔlaa}} « richesse », {{ɲɛ-tengaa}} « lumière » |
+| **kɔl-** « cœur » | {{kɔllo}} | {{kɔlɲuloo}} « réconfort, repos » [[GEN.5.29]], {{kɔlvesɛiyo}} « violence » [[GEN.6.13]], {{kɔltuwvo}} « colère » [[EXO.11.8]], {{kɔlkɛndɔɔ}} « joie » |
+| **vana-** « personne » | {{vana}} | {{vanacieo}} « être humain », {{vanayɛi}} « parenté », {{vana-solia-lasálàá}} « prêtre » |
+| **dɛnɛ** « acte, chose » | {{dɛnɛ}} | {{dɛnɛ kɛndɔɔ}} « le bien », {{dɛnɛ vɔɔndo}} « le mal » [[GEN.2.9]] |
+
+!!! keita "Keita 1979"
+    Keita cite aussi *ba-* « main » (*bamɛllo* « main gauche ») et *dɛnɛ-* écrit attaché (*dɛnɛkɛndɔɔ*). La Bible écrit {{dɛnɛ}} comme un mot séparé : {{dɛnɛ kɛndɔɔ}}.
+
+## Redoublement
+
+Redoubler un mot ou un radical forme un dérivé à valeur d'intensité, de distribution ou de répétition ; on l'écrit avec un trait d'union : {{taw-taw}} « vraiment beaucoup », {{ɲɛ-ɲɛ}} « quoi que ce soit », {{vana-vana}} « qui que ce soit », {{bɛndu-bɛnduan}} « très grandes ».

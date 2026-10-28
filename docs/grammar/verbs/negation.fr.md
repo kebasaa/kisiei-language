@@ -1,0 +1,3 @@
+# negation (fr)
+
+À rédiger.

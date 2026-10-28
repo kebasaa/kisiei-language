@@ -1,0 +1,82 @@
+# Classes nominales
+
+## Le principe
+
+Chaque nom kisiei se compose d'un **radical**, qui porte le sens, et d'une **terminaison de classe** (Keita [[Keita1979]] parle de *morphème* ou de *modalité nominale*), qui indique la classe du nom et son nombre :
+
+| Nom | Radical | Terminaison | Sens |
+| --- | --- | --- | --- |
+| {{yɔmndo}} | {{yɔm}} | *-ndo* | arbre |
+| {{cɛiyo}} | {{cɛi}} | *-yo* | maison |
+| {{diolan}} | {{diola}} | *-n* (classe *lan*) | nom |
+| {{mɛnndan}} | *mɛn-* | *-ndan* | eau |
+| {{nawvo}} | {{naw}} | *-vo* | vache |
+
+La terminaison n'est pas seulement une fin de mot : elle **revient** sur les mots qui accompagnent le nom (déterminants, pronoms, relatifs). C'est le système d'**accord** décrit à la page [Accord](../agreement.md).
+
+## Forme pleine et forme radicale
+
+Le nom a deux formes :
+
+- la **forme pleine** (radical + terminaison) : quand le nom est seul, ou en fin de groupe ;
+- la **forme radicale** (radical seul) : quand le nom est suivi d'un mot qui le détermine — adjectif, démonstratif, possessif, nombre, complément du nom. La terminaison passe alors sur ce mot.
+
+| Forme pleine | Forme radicale + déterminant |
+| --- | --- |
+| {{cɛiyo}} « la maison » | {{cɛi kon}} « cette maison-là » |
+| {{yɔmndo}} « l'arbre » | {{yɔm kon}} « cet arbre-là » |
+| {{diolan}} « le nom » | {{diola ndɔlan}} « son nom » |
+| {{kalaa}} « la mère » | {{kala ndɔ}} « sa mère » |
+| {{pɔmbɔɔ}} « le cadet » | {{pɔmbɔ ndɔ}} « son frère cadet » |
+
+Keita (p. 20) appelle la forme radicale la **forme indéfinie** et la forme pleine la **forme définie** ; la forme pleine joue en effet le rôle de l'article défini français, que le kisiei ne connaît pas.
+
+!!! rule "Règle"
+    On n'écrit jamais la terminaison deux fois : *cɛiyo kon* est fautif ; on écrit {{cɛi kon}}.
+
+### Classes *lan*, *len* et *an* : radical + pronom de classe
+
+Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les classes ***lan***, ***len*** et ***an***, la Bible écrit devant le déterminant le radical **suivi du pronom de classe** sans sa nasale finale : *-la*, *-le*, *-ma*. Après une nasale, *-le* devient *-nde* ; après *l*, *-lle*. Keita (p. 122) ne le signale que pour la classe *an* ; Childs [[Childs1995]] (p. 150) décrit la même construction en kissi du Sud (« nom + pronom de classe + adjectif »).
+
+| Forme pleine | Forme radicale | Exemple (Bible) |
+| --- | --- | --- |
+| {{diolan}} « nom » | {{diola}} | {{diola ndalan}} « leurs noms » [[GEN.10.32]] |
+| {{kobilan}} « villes » | {{kobila}} | {{kobila lan}} « ces villes » [[GEN.19.25]] |
+| {{lɛŋnden}} « pays » | {{lɛŋnde}} | {{lɛŋnde Havila len}} « le pays de Havila » [[GEN.2.11]] |
+| {{bollen}} « tête » | {{bolle}} | {{bolle ndɔlen}} « son sommet » [[GEN.11.4]] |
+| {{nilen}} « oreille » | {{nile}} | {{nile tiilannde}} « le lobe de l'oreille » [[EXO.29.20]] |
+| {{mɛnndan}} « eau » | {{mɛmma}} | {{mɛmma co lebɛngu-an}} « les eaux qui sont en bas » [[GEN.1.7]] |
+| {{koovan}} « sang » | {{kooma}} | {{kooma pɔmbɔ nɔmndan}} « le sang de ton frère » [[GEN.4.10]] |
+| {{cuɛiyan}} « huile » | {{cuɛima}} | |
+
+!!! rule "Règle"
+    Devant un déterminant, on écrit en un seul mot : *radical + la* (classe *lan*), *radical + le / nde / lle* (classe *len*), *radical + ma* (classe *an*) : {{diola ndɔlan}}, {{lɛŋnde len}}, {{mɛmma man}}.
+
+## Les classes
+
+Keita (p. 22-25) distingue huit terminaisons, regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*).
+
+| Classe | Terminaisons du singulier | Contenu typique | Exemples (Bible) |
+| --- | --- | --- | --- |
+| **o / a / ɔ** | *-o, -ndo, -vo, -lo, -yo* ; *-a* ; *-ɔ* | êtres vivants (personnes, animaux) et beaucoup d'objets | {{yɔmndo}} « arbre », {{nawvo}} « vache », {{kalaa}} « mère », {{pɔmbɔɔ}} « cadet », {{miallo}} « étranger » |
+| **i** | *-i, -ei, -ɛi* | certains objets solides, noms de langues | {{pelei}} « pied », {{mɔɛi}} « couteau », {{kelɛi}} « bracelet », {{sɔɛi}} « parole » |
+| **e** | *-e, -ye, -nde, -ve, -le* | grains, objets nombrables, collections | {{ciŋnde}} « dent », {{yɛiye}} « semence » |
+| **an** | *-an, -yan, -van, -ndan* | liquides, masses | {{mɛnndan}} « eau », {{koovan}} « sang », {{cuɛiyan}} « huile » |
+| **lan** | *-lan, -tan, -ndan* | abstraits ; et pluriel de nombreux noms | {{diolan}} « nom », {{yolan}} « danse » |
+| **len** | *-len, -ten, -nden* | fruits, certaines parties du corps, objets souples ; diminutifs | {{nilen}} « oreille », {{bollen}} « tête », {{lɛŋnden}} « pays » |
+
+Le pluriel est traité à la page [Pluriel](plural.md).
+
+!!! note "Comparaison : Childs 1995"
+    Pour le kissi du Sud, Childs [[Childs1995]] (p. 148-149) nomme les classes d'après leur pronom : *o*, *a*, *i*, *ŋ*, *le*, *la*, *ma*. Les paires singulier/pluriel les plus fréquentes sont *o/la* (choses), *o/a* (personnes, animaux) et *i/ŋ* ; viennent ensuite *le/i*, *le/la*, *le/ma* et *o/i*. Le pluriel en *-on* de Keita ({{pelon}}, {{sɔɔn}}) correspond à la classe *ŋ* de Childs. Le même système se retrouve en kisiei de Guinée, avec d'autres formes de détail.
+
+## Ce que montre la Bible
+
+La Bible confirme les grandes lignes du système de Keita : forme pleine et forme radicale, terminaisons de classe et reprise de la classe sur les déterminants. Elle apporte deux précisions :
+
+1. Les terminaisons en *-nd-* gardent la nasale finale du radical, qu'elle soit *n* ou *ŋ* : {{mɛnndan}} (radical *mɛn-*), mais {{lɛŋnden}} (radical {{lɛŋ}}). Voir [Consonnes](../../orthography/consonants.md#n-et-ŋ).
+2. Quand un groupe nominal se termine par une relative ou un complément, la classe du nom est **reprise à la fin du groupe** par un référent attaché par trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Accord](../agreement.md).
+
+## Masculin et féminin
+
+Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » (Keita, p. 28) à la forme radicale : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].
