@@ -96,7 +96,7 @@ def validate(domains, entries, words):
             for form in [lemma] + [str(x) for x in ([e["plural"]] if e.get("plural") else []) + (e.get("forms") or [])]:
                 if not attested(form, words):
                     errors.append(f"{where}: '{form}' is marked attested but is not in the Bible word list")
-        elif lemma and attested(lemma, words):
+        elif e.get("status") == "respelled" and " " not in lemma and lemma and attested(lemma, words):
             warnings.append(f"{where}: '{lemma}' is in the Bible word list; status could be 'attested'")
         k = (key(lemma), e.get("pos"), (g or {}).get("fr") if isinstance(g, dict) else None)
         if k in seen:
