@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–113 (PDF pages 1 and 3–128), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–131 (PDF pages 1 and 3–148), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -1348,3 +1348,275 @@ The left edge is in the binding shadow; an annotator rewrote the lost line ends 
 ## p. 113 (PDF 128)
 
 This page has no handwritten notes, but the French column is hard to read: the typescript carries an offset "ghost" of the facing page, and several French words are struck over twice. The transcription gives the most likely reading of these entries, which should be checked against another copy if one turns up: Silaa (Conseiller), Simio (Faire arrêter), Simisimio (Superposer), Simullo (Se dresser contre [?]), Sinaa (Connaître), Singaa (Echanger), Solio (Faire sortir), Sölaa (Recevoir), Sungöö (Arracher), Susaa / Susanndo (Frotter / Se frotter), Susöö (Sucer plusieurs fois [?]), Tosaa (Faire), Toolno (Arranger (reparer) [?]). The French gloss of Sèèsiaa is cut off at the right margin ("Chif…").
+
+## Verso of p. 113 (PDF 129)
+
+The back of the sheet has no typed text. It holds a handwritten copy of the start of the 1st-group verb list from typed p. 111 (Banhaa … Höönuo), headed "111 V. 1er gr." with columns Inf. / Radical / meaning. The handwritten list matches the typed one, with these differences:
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Hèlio : Hèli : Trier | "trier" written after a struck-out first attempt | comment |
+| Diyöö : Di : tuer | " (ditto mark: same meaning as "se tuer" above, i.e. tuer) | comment |
+| Höönuo : Höönu : Désherber | désherber | gloss |
+| *(added at the end of the handwritten list; not in the typed list)* | Yeemaa : vouloir, devoir | gloss |
+
+## p. 114 (PDF 130)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tyuello : Tyuel | a curved stroke and slash through Tyuel (meaning unclear [?]) | comment |
+| Yiyamndo | n written over the m (applied in the transcription) | comment |
+| Yoomuo : Yoomun | a stroke through the final n (possibly deleting it: Yoomu [?]) | comment |
+| 2è RADICAL R₂ (column heading) | Nég (written above R₂: the 2nd radical is the negative form) | comment |
+| Nuaa | underlined | comment |
+| *(right margin, against Accepter, Saluer, Loger, Pêcher, Venir, Commencer, Rire, Regarder)* | short dashes marking these entries | comment |
+
+## p. 115 (PDF 131)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Pulönndo, Töö | underlined | comment |
+| Yandöö : Yandu : Yendu : Pleurer | the typed meaning is overtyped and hard to read (Pleurer / Fleurir [?]) | comment |
+| R₁ (3è groupe, column heading) | Impératif (written under R₁) | comment |
+| Kiöndöö | työndöö (written beside it) | variant |
+| Kiandu (R₃ of Kiöndöö) | the typed nn is overtyped (Kinndu / Kiandu [?]) | comment |
+| Violöö | Voröö (written beside it) | variant |
+| Violu : viälu : viälu | the second vowel of R₂ and R₃ is overtyped (viälu / vialu [?]) | comment |
+| *(right margin, against several entries: Laver, Se laver, Pleuvoir, Laver, Pleurer, Prendre, Mourrir, Cuire, Dépasser, Brûler, Frapper, être)* | short dashes marking these entries | comment |
+
+## p. 116 (PDF 132)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| R₁ / R₂ / R₃ / R₄ (column headings) | Impér. [?] / Présent / Passé / Négatif (written under the headings) | comment |
+| Kiolöö | työröö (written beside it) | variant |
+| Työw : … : Voir | the typed "Voir" is struck through (it was overtyped) and "Voir" rewritten by hand | comment |
+| *(several Kisiei forms)* | underlined (Biönhöö, Bian, Dioo, Dio, Miolöö, Piölöö, Siöw, Siö, Siongöö, Siongu) | comment |
+| *(right margin, against Manger, Couper, Partir, Guérir, Voir, Se lever)* | short dashes marking these entries | comment |
+
+## p. 117 (PDF 133)
+
+In the list of adverbs of place, "levil, polon, nanu kpèèlun, ikèi lon" is struck out on the typescript itself (a repeat of words already listed); it is shown struck out in the transcription.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Kalaa hoo man taw. | nan (written after it, correcting or glossing "man" [?]) | variant |
+| Kpèèlun, levil, polon, nanu, lon, nda, kè, lenin | proche, loin, loin (landan), ici, là-bas, (là-bas), loin, là-dedans | gloss |
+| lebèngu, latyi, leköölï, letyoo, ikèi | dessous, devant, dehors / derrière, là-haut, à côté | gloss |
+| lon, nda | a slash drawn between them | comment |
+| Nawvo vi nanu kpèèlun | mourir (above vi) | gloss |
+| Mömbillo köèn kè | s'en aller; plus long que maintenant [?]; il y a deux ans [?] | gloss |
+| Lapöm, tyièi, haw, siödii, dièn, pèi, lakam | l'année passée, hier, aujourd'hui, demain, après-demain, l'autre jour, avant l'année passée | gloss |
+| sunsun, pèipa, diilèn, ityöl ; sunpa, tyièi työl, haw dii, sindè | tout de suite, l'autre fois, ce matin, le soir, tout de suite, hier soir, aujourd'hui matin, autrefois (ancêtres) | gloss |
+| nyinasian, löökon, sun nannde | maintenant [?], cet an [?] / mais plus proche [?] | gloss |
+| pèipa, sunpa | the final "a" of each is circled | comment |
+| Yolan la tyo haw | danse (above Yolan) | gloss |
+| A ke ndu volion diilèn | A = nda; A = tu (haut), ils (bas) | comment |
+| duènduèn, fukufuku, kpasukpasu, lakalukalu | doucement, avec violence (vent), finement, avec violence (personne) | gloss |
+| fan, den, työtyö, bèn, bènbèn, lebeè, lekèndèi, kpö | avec force, en plein air [?], rapidement, lentement, avec respect, réellement, vrai; ghô (beside kpö) | gloss |
+| lebeè | le respect : bèèlen / avec " : lebèè | gloss |
+| Kelenha työtyö | rapidité, vitesse | gloss |
+| Tunndo sim den | arrêter [?] (above sim) | gloss |
+| böö, pömbö, taw, hölöbi, faw, nyèmbö, tyoba | beaucoup, un peu / petit, (beaucoup), tout, entièrement [?] / petit, un peu | gloss |
+| bööböö, tyapo, tawtaw | beaucoup; très petit [?] | gloss |
+| Tyua hoo vöw böö | méchant (above vöw) | gloss |
+| Tamba vo kumba tyuèiyan tyobe. | mettre (above vo) | gloss |
+
+## p. 118 (PDF 134)
+
+The left edge of the page is in the binding shadow; an annotator rewrote the lost line starts and ends in the margins (En, peut, mé-, Leur, plus, Les, un, -po-), which the transcription uses.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| pèn ; | effectivement | gloss |
+| tunun sii (seulement) | tuun written above tunun (applied in the transcription) | comment |
+| Faya bèè tyaa tyoq sivaa | connaître; l'enfant; the typed last word is overtyped (sivaa / sèvaa [?]); Sira (conseiller) written beside it, with an "l" above the r (= Sila) | gloss |
+| Ya bèè tyaa tyondei | le chant | gloss |
+| O saa vèlè söèi hee. | langue | gloss |
+| Tundo pila kisikisin | se mordre | gloss |
+| Ndu pila diinun ni | se tuer | gloss |
+| Num pèn nda va veelo ni | c'est effectivement; appeler | gloss |
+| Kumba kpekpe kèè yawvo ni | refuser | gloss |
+| A yiyan a num sii sina dènè ni nè ? | penser que; la sagesse [?] | gloss |
+| Yema num kuani tyo vanatyieo ni. | humain [?] | gloss |
+
+## p. 119 (PDF 135)
+
+The left edge of the page is in the binding shadow; an annotator rewrote the lost line starts and ends (phrases, con-, de, "a", "le" (pour), mi (et), vis, du), which the transcription uses. The typed underlining in the examples (single and double, marking the parts of each sentence) is simplified to single underlines.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Faya hin a lèènndo | Fagbaa (above lèènndo); = coupe-coupe | gloss |
+| Finda bolin o pelei | se blesser; pied | gloss |
+| Saa nyaanun nda kumba | fuir; avec | gloss |
+| Nyaayo bii bèlöö a yowvo | et; l'oiseau | gloss |
+| Tyuaa hoo nan kè o sunèi | belle; mais; aveugle | gloss |
+| I yöngu tamba volion hanikpe o mala … vaa | pour qu'il; aide à labourer (a blot hides one typed word, probably "a") | gloss |
+| Elles ont pour rôle essentiel, de lier le complément au verbe. | "le complément au verbe" underlined | comment |
+| O bolin a lèènndo | avec | gloss |
+| La hin le kölan ? | pour | gloss |
+| O tyo kölan o poli | il va | gloss |
+| Fanta tyo hunöö a tyanndo | en | gloss |
+| a (et) ; nda (et) … mi (et) | objet (under "a"); entre v. [?] (under "nda"); deux phrases (mi et relat.) [?] (beside "mi (et)") | comment |
+| Faya köè o hunndo nin nda lonöö | au; dans; avec | gloss |
+| Bèlöö niinhan nda nyaayoo le. | être d'accord | gloss |
+| Faya dii söö a dökuo ; | poule | gloss |
+| i pendu dèndöö a fagbaa ; fallo köè kungulaa | acheter; houe; labourer (butter) | gloss |
+
+## p. 120 (PDF 136)
+
+Several Kisiei words in the examples are overtyped or faint; the transcription gives the most likely reading (dènadöö, tyuèi, kianhèi, Lèönnde [?]). In "Le mèè kani et hamikpe", "kani" is struck out on the typescript itself.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Siawlen le del kè le diw le | mais; pas mûr; (in a curved line linking the clauses) | gloss |
+| Poomböö del mi o bolin | (arrow from "mi") | comment |
+| Tyuel la dènadöö te kon te lèènndo | prends pour; ou bien / à la place de; fagbaa (beside lèènndo) | gloss |
+| Hun a lamndo te kon te möèi | viens avec sauce [?]; lalam [?] | gloss |
+| Kö tyuel la lèèn ni fèèyaa a tyuèi nii kianhèi | va me prendre …; pour couper / défricher et machette [?]; tyalai (in the margin, with a boxed, scribbled word) | gloss |
+| La va dion pilè mi la maalian | soyez un et entraide vous | translation |
+| Te Kpèènèi nhol pè, a voo maalon. | mouille [?]; tu mettre; (pour) | gloss |
+| Fala kumbu höltan lemèè kala ndö sina maa o tyo lahöl te yè. | ferme [?]; veiller; ne sais pas que | gloss |
+| Teewa voo sukala o lamndo Baw o tyo ko aa hèlle ni. | mettre; sucre; sauce; parce que; croit; sel | gloss |
+| taa ! | = Vo ou hum [?] | gloss |
+| Kpoki! la toei isè ? | parole nouvelle | gloss |
+| Taa ! a tyi ndu kölan te | est-ce que tu ne l'as pas vu partir ? | translation |
+| Ta poo! a nö böö Lèönnde! | boks [?]; Bönde (written under Lèönnde) | variant |
+
+## p. 121 (PDF 137)
+
+The examples on this page are covered in faint pencil glosses, partly illegible; the modality letters (a, o, ö, i) in front of the examples are circled.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(right margin, beside the table)* | mèndan → o / mamèn… (mèndan, the radical of the a-example) | comment |
+| a : Doma mamènnndo nan a sialten | sg. (radical) ; arc-en-ciel [?] ; jolie; pr. relat.; il est bon pendant la saison des pluies [?] | gloss |
+| *(right margin, boxed)* | kèè : peut-être / refuser | gloss |
+| o : Kolo n mallo yeela a sukalaa | cola [?]; que tu as gardé; pr. relat.; doux; avec; sucre | gloss |
+| ö : Bölö num n ken pèi kèè diuvöö le | banane; (r) pr. prdm. [?]; l'autre jour; peut-être; pas mûr | gloss |
+| e : Tyopio pöw bèlii diuvèi le | la taille [?]; palmier [?]; n'est pas …; diikei (in the margin) | gloss |
+| i : Kelèi nvolii n ke ya ve lo | l'argent; que tu m'as donné; perdu | gloss |
+| an : Työèma sianhan ma tyon | l'huile; rouge; verser | gloss |
+| Len : Yawle bèndule tambalen le kiolu | ceinture; grande; de Tamba; (couper); tyoru (in the margin) | gloss |
+| samtala sènèila n pendu lan la hiow num. | trop grand [?] | gloss |
+
+## Verso of p. 121 (PDF 138)
+
+The back of the sheet has no typed text; it holds handwritten plural examples of the alliterative structure (the circled element is the relative/class marker; an arrow labels it "terminaison du nom").
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note, marked "(x) pl")* | sawma divama o pendu (an) ma vaala. | comment |
+| *(free note)* | kawii divai o pendu (we) i vaala. | comment |
+| *(free note)* | kawun divan o " won n vaala | comment |
+
+## p. 122 (PDF 139)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Mais : siawle divale o pèndu len le vaala. | mûr; amère (above vaala) | gloss |
+| Diola kèndèla n nö lan la hèènan ya | tu; plaire | gloss |
+| *(right margin)* | sawle divalen le tyo le nilen [?] / sawle divalen le o pendu len le vaala — (x) possible mais trop long | comment |
+| Möèi fèèyai ; Kol puavo, doma molisivo, tyinhii fayave | à défricher; de papa; de Moïse; de Faya | gloss |
+
+## p. 123 (PDF 140)
+
+The left edge of the page is in the binding shadow; the first letters of most lines are lost and have been completed from context. The last example "Tol ;" at the end of the first example line is rewritten by hand at the margin.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Dio ; Fula ; Kö ; Hinin ; Kinda ; Sungu ; Tol ; | (impératif); coucher; ferme; arracher; planter | gloss |
+| Tyal ; Hel ; | assoie; monte | gloss |
+| Maalon vesa | est sec (ammahinti [?]) | gloss |
+| Naw ndöö vi | meurt | gloss |
+| kooma ndöan ma nan | médicament; sang [?] | gloss |
+
+## p. 124 (PDF 141)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Sanni nda kumba köè | et; s'en vont | gloss |
+| Pasikali nda molisi sèvanin | Pascal; Moïse | gloss |
+| Tyièiyo nhöè a bolofaa | maison; brûler; richesse | gloss |
+| Bèlöö Tyo nyaanönndo nda nyaayoo | courir | gloss |
+| Vuu o pee lo | jeter; marigot | gloss |
+| Ban tyièiyo | construire | gloss |
+
+## p. 125 (PDF 142)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| O bolin a lènndo | fagbaa (above lènndo) | variant |
+| A kiimba möèi pilèi | voler; autrui / de qn d'autre | gloss |
+| Vanvalla köè o poli | travailleurs | gloss |
+| Piöö sia tyièi | Halaahi [?]; pleut; hier | gloss |
+| Nyamakalaa hin a yoolan | le griot; en dansant | gloss |
+| Musa hin le yèiye | semence | gloss |
+| Nyuma tow kalaa nda tyuaa | non-papa [?]; le enfant [?] | gloss |
+| Kèwvo löva faya nda tun ndöö | le serpent; mordre | gloss |
+| Vananyètyaa tyo hunö siödii | musicien [?] | gloss |
+| Lakolia va kölan o kaannden | l'école / adulte [?] | gloss |
+| Pomböö tyo tyanndo le mèèyan. | le lait maternel | gloss |
+
+## p. 126 (PDF 143)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tamba tyo hunndo vaa | labourer | gloss |
+| Faya di tunndo a yekpandio | le fusil | gloss |
+| bèlöö tyua kosion o bölöö nin | prend; bouillon; sac | gloss |
+| Nyaayoo di bèlöö o kaa | grenier | gloss |
+| lötyièiyo löva faya o hunndo nin. | serpent spéc. (très venimeux) | gloss |
+| Vanlaandua hiow o pee lo le yööyaa | passer; marigot; pêcher | gloss |
+| Nyuma köè haw kpekedu | hier (above haw) | variant |
+| Tunndo kel pèi tamba | a mordu [?] | gloss |
+| Faya kelenha / tyaanda tyo num tyumndo | fait vite; les amis; attendre; ou F.k. baw … (pour que) [?] | gloss |
+| Poomböö komala doma sènèi sènèè / fiinya pindul ndu vo o sèèsèi | trouver; nouvelle (2x); a (written under the è of sènèi and sènèè); acheter, lui; déchirer | gloss |
+| Köfa tow ya / aa i nö la sèbè le | que; an arrow loops "la" to after "sèbè" | gloss |
+| Yowva de / maalun nia san tyièi yon. | mangé; votre; semer; (yon) | gloss |
+| Finda pendu kolaa / le kafoo tosanin ? dièn ndo. | fête; après-demain | gloss |
+| *(left margin, against two examples)* | short slashes marking "lötyièiyo …" and "Vanlaandua …" | comment |
+
+## p. 127 (PDF 144)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tun tinhi pömböö faya vo / kel / vèèndo | petit; de Faya; a mordu; la femme | gloss |
+| Binta vèèn sianhaa fulanöö / hin / a nönöö | femme; teint clair; peule; avec lait | gloss |
+| Poli, lakoli bènduo layinè / köè le vaa | Paul; étudiant; grand; de la Guinée | gloss |
+| Faya, Musa, Tamba, Nyuma / hiow / o kaannden | (nda) (above Nyuma); l'école, église, ailleurs [?] | gloss |
+| Saa, Fala, Sia, Hawa, la työn le kölan o poli. | lever; a slash after Hawa | gloss |
+
+## p. 128 (PDF 145)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| 1. Finda hin a yeelan kani fiinya ndöö vi | avec les pleurs; katu (above kani); parce que; mort | gloss |
+| 2. Masaa di nawvo kani o söla bö mialla | katu (above kani); a eu; beaucoup; l'appel à la prière des musulmans! [?] | gloss |
+| 3. A komal la tyièi nin pèngu nda yonda sèllo vo | trouver; va-ne-…; pendant; ils; prier; prière | gloss |
+| 4. Tamba ven bölöö o doma bèngu le mèè kala sina maa o yön viilen to yè. | cacher; sac; sous la chemise; parce que; c-à-d pas que [?]; connaître [?]; vol | gloss |
+| 5. Kelua kol masasian baw o tya ka aa nönöö ni | nom pr.; boit; le maïs [?]; parce que; croyant; voir que; lait | gloss |
+| 6. Mamadu lö Sia laa ndöö fuule vèn kon kela böö | a frappé; sa femme; parce que; femme; promener beaucoup | gloss |
+| 7. O tya ka aa ndu tyo ya balo dövö ni | a vu que; lui; moi; nouveau; ami [?]; frère [?] | gloss |
+| 8. Doma n pindul la vo Faya kiimbu tyèi ni | acheter pour moi; volé; hier | gloss |
+
+## p. 129 (PDF 146)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| b)- O tya ka(1)/aa/ndu tyo ya balo dövö ni(2) | il croit (que) …; c'est lui qui me … [?] | translation |
+| Ii va vu te yaakol mènndan man pè | je allais mourir si je buvais l'eau là (conditionnel) | translation |
+| Te kpènèi nhol pè, a voo maalon | natte [?]; mettre | gloss |
+| *(right margin, in a bracket)* | Te o tyi pè balaa o hin [?] / (Te) La tyi pè lan mingu [?] / Te o tyi balaa pè o hin — further conditional examples, partly illegible | comment |
+
+## p. 131 (PDF 148)
+
+The first two Kisiei entries are blotted out on the typescript and rewritten by hand (applied in the transcription as Baa, Bakölo → Baköllo [?]); the typed syllabification of the second ("Ba-köl-la") is struck through. The last row of the page is too faint to read and is shown as "…" in the transcription; the typed Kisiei endings of "Koovan…" and "Koongo lehöll…" are partly blotted.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Bènguo : le pied | ou pelei | variant |
+| Köölen : le corps | (ou diallon ?) | variant |
+| Kölkelle : le rein | tyanmnda [?] | variant |
+| Kandontyindo : Kan-do-ntyin-do | an arrow marks the syllable break after "Kan" | comment |
+| *(right margin, against la main, la tête, le pied, le ventre, l'oeil, la face, le coeur, le dos, le corps, le sang, la joue)* | short dashes marking these entries | comment |

@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation (tables, verb groups) and the start of the verb lexicon (typescript pp. 1–113). PDF pages 1 and 3–128 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation, the verb lexicon, adverbs, particles and linking words, syntax (alliterative structure, simple and complex sentences), and the start of the Kisiei–French lexicon (typescript pp. 1–131). PDF pages 1 and 3–148 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -3865,3 +3865,609 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | Tosaa | Tosa | Faire |
 | Toosiaa | Toosia | Faire arranger (reparer) |
 | Toolno | Toolu | Arranger (reparer) |
+
+> ✎ [Handwritten notes, verso of p. 113](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-113-pdf-129)
+
+> ✎ [Handwritten notes, p. 114](kissie%20fondamental%20(handwritten%20notes).md#p-114-pdf-130)
+
+| FORME INFINITIVE | RADICAL | FRANCAIS. |
+| --- | --- | --- |
+| Tyèlöö | Tyèl | Accepter |
+| Tyènhio | Tyènhi | Faire pleurer |
+| Tyuello | Tyuel | Prendre pour |
+| Tyuköö | Tyuku | Piquer |
+| Tyukönndo | Tyukun | Se piquer |
+| Velaa | Vela | Tarir |
+| Vesaa | Vesa | Sècher |
+| Velanndo | Velan | Se tarir |
+| Veesiaa | Veesia | Faire Sècher |
+| Veeluo | Veelu | Appeler |
+| Veeluanndo | Veeluan | S'interpeler |
+| Vooluo | Voolu | Trésaillir |
+| Vömndo | Vöm | Faire la battue |
+| Yilöö | Yil | Saluer |
+| Yilanndo | Yilan | Se saluer |
+| Yiyaa | Yiya | Loger |
+| Yiya~~m~~<ins>n</ins>ndo | Yiyan | Réfléchir |
+| Yoomuo | Yoomun | Respirer |
+| Yööyaa | Yööya | Pêcher |
+
+### 2. <u>LES VERBES DU 2è GROUPE</u> :
+
+| FORME INFINITIVE | 1er RADICAL R<sub>1</sub> | 2è RADICAL R<sub>2</sub> | FRANCAIS |
+| --- | --- | --- | --- |
+| Baa | Ba | Bee | Attacher |
+| Baanönndo | Baanun | Beenun | S'accrocher |
+| Banhullo | Banhul | Benhul | Boucher |
+| Basöö | Basu | Besu | Balayer |
+| Bènhianndo | Bènhian | Bènhi | Se botter |
+| Hawvo | Haw | Hew | Bloquer |
+| Hawnönndo | Hawnun | Hewnun | Se bloquer |
+| Hunöö | Hun | Hin | Venir |
+| Kandöö | Kandu | Kendu | Commencer |
+| Mamöö | Mam | Mem | Rire |
+| Mamanndo | Maman | Meman | Se moquer |
+| Nanöö | Nan | Nen | Tirer |
+| Nuaa | Nua | Nue | Regarder |
+| Nuannönndo | Nuanun | Nuenun | Se regarder |
+| Nyasöö | Nyasu | Nyesu | Gratter |
+| Nyasöönndo | Nyasun | Nyesun | Se gratter. |
+
+> ✎ [Handwritten notes, p. 115](kissie%20fondamental%20(handwritten%20notes).md#p-115-pdf-131)
+
+| FORME INFINITIVE | 1er RADICAL R<sub>1</sub> | 2è RADICAL R<sub>2</sub> | FRANCAIS |
+| --- | --- | --- | --- |
+| Pulöö | Pulu | Pilu | Laver (pour P.) |
+| Pulönndo | Pulön | Pulun | Se laver |
+| Salöö | Salu | Selu | Eplicher, Sarcler |
+| Sanhöö | San | Sen | Semer |
+| Siaa | Sia | Se | Pleuvoir |
+| Tyaa | Tya | Tyee | Savoir |
+| Tangullo | Tangul | Tengul | Construire |
+| Töö | Tö | Too | Laver(pour Objets) |
+| Tyanndo | Tyan | Tyen | Pleurer |
+| Tyuaa | Tyua | Tyue | Prendre |
+| Vuo | Vu | Vi | Mourrir |
+| Vaa | Va | Vee | Cultiver |
+| Yawvo | Yaw | Yew | Cuire(Prép.dans le cadre de la cuisine) |
+| Yandöö | Yandu | Yendu | Pleurer |
+
+### 3. <u>les VERBES DU 3è GROUPE</u> :
+
+| FORME INFINITIVE. | R<sub>1</sub> | R<sub>2</sub> | R<sub>3</sub> | FRANCAIS |
+| --- | --- | --- | --- | --- |
+| Biömnönndo | Biömnun | Bemnun | Biamnun | se blotir |
+| Höwvöö | Höw | How | Höaw | injecter |
+| Hiowvöö | Hiow | Hiw | Hiaw | Dépasser |
+| Kiöndöö | Kiöndu | Kendu | Kiandu | Cueillir |
+| Komöö | Kom | Kum | Koam | donner des fruits, mettre bas. |
+| Konköö | Kon | Kun | Koan | Herser(secouer) |
+| Kovöö | Kow | Kuw | Koaw | Récolter(le riz fonio) |
+| Lomöö | Lom | Lum | Loam | Brûler |
+| Löö | Lö | Loo | Löa | Frapper |
+| Löönönndo | Löönun | Loonun | Löanun | se frapper |
+| Miöw | Mè | Miö | Mia | être à terme |
+| Nhövöö | nhöw | Nhow | Nhöaw | Serrer |
+| Söndöö | Söndu | Sondu | Söandu | Coudre |
+| Söèi | Soo | Suu | Söa | Parler |
+| Tolöö | Tol | Tul | Toal | Descendre |
+| Tölöö | Töl | Tol | Töal | Planter |
+| Tonhöö | Ton | Tun | Toan | Griller |
+| Vaw | Tyo | vo | va | être |
+| Violöö | Violu | viälu | viälu | s'accoucher |
+
+> ✎ [Handwritten notes, p. 116](kissie%20fondamental%20(handwritten%20notes).md#p-116-pdf-132)
+
+### 4. <u>LES VERBES DU 4è GROUPE</u> :
+
+| FORME INFINITIVE | R<sub>1</sub> | R<sub>2</sub> | R<sub>3</sub> | R<sub>4</sub> | FRANCAIS |
+| --- | --- | --- | --- | --- | --- |
+| Biönhöö | Biön | Bèn | Bian | Bin | Cligner des yeux |
+| Dioo | Dio | De | dia | Di | Manger |
+| Kiolöö | Kiolu | Kelu | Kialu | Kilu | Couper |
+| Kölan | Kö | Koè | Köa | Koo | Partir |
+| Miolöö | Miol | Mel | Mial | Mil | Avaler |
+| Piölöö | Piöl | Pèl | Pial | Pel | Briser, casser |
+| Siöw | Siö | Sè | Sia | Si | Pourrir |
+| Siongöö | Siongu | Sengu | Siangu | Singu | Guérir |
+| Työw | Työ | Tye | Tya | Tyi | ~~Voir~~ <ins>Voir</ins> |
+| Työnönndo | Työn | Tyèn | Tyan | Tyen | Se lever |
+| Viöw | Viö | Vè | Via | Ve | Cogner |
+| Yomöö | Yom | Yem | Yam | Yim | Casser en deux |
+
+---
+
+## -=- LES ADVERBES -=-
+
+> ✎ [Handwritten notes, p. 117](kissie%20fondamental%20(handwritten%20notes).md#p-117-pdf-133)
+
+Les adverbes sont des mots invariables qui sont fréquemment employés pour déterminer le verbe ou un autre adverbe, un adjectif.
+
+Exemples : Faya köè <u>levil</u>
+Kalaa hoo man <u>taw</u>.
+
+On distingue :
+
+### 1. <u>LES ADVERBES DE LIEU</u> :
+
+Ce sont : Kpèèlun, levil, polon, nanu, lon, nda, kè, lenin, lebèngu, latyi, leköölï, letyoo, ikèi ; ~~levil, polon, nanu kpèèlun, ikèi lon~~, etc....
+
+Exemples : Tyiee ndaa tyo <u>kpèèlun</u>
+Nawvo vi <u>nanu kpèèlun</u>
+Mömbillo köèn <u>kè</u>
+
+### 2. <u>LES ADVERBES DE TEMPS</u> :
+
+Nous avons : Lapöm, tyièi, haw, siödii, dièn, pèi, lakam sunsun, pèipa, diilèn, ityöl ; sunpa, tyièi työl, haw dii, sindè, nyinasian, löökon, sun nannde, etc.....
+
+Exemples : Yolan la tyo <u>haw</u>
+Finya ndöö vi <u>lakan</u>
+A ke ndu volion <u>diilèn</u>
+Musa hin tyièi <u>työl</u>
+
+### 3. <u>LES ADVERBES DE MANIERE</u> :
+
+Ce sont : duènduèn, fukufuku, kpasukpasu, lakalukalu, fan, den, työtyö, bèn, bènbèn, lebeè, lekèndèi, kpö etc.......
+
+Exemples : Kelenha <u>työtyö</u>
+Tunndo sim <u>den</u>
+faya fula <u>fan</u>
+Tyuamböö yil la a <u>lebèè</u>.
+
+### 4. <u>LES ADVERBES DE QUANTITE</u> :
+
+Ce sont : böö, pömbö, taw, hölöbi, faw, nyèmbö, tyoba, bööböö, tyapo, tawtaw, sui, nyèpömbö, nyènbö sui, nyèmbuini etc...
+
+Exemples : Ke ya hèlle <u>nyèmbö sui</u>
+Faya yöngu ndu maalon <u>tyapo</u>
+Tyua hoo vöw <u>böö</u>
+Tamba vo kumba tyuèiyan <u>tyobe</u>.
+
+---
+
+## LES PARTICULES ADNOMINALES :
+
+> ✎ [Handwritten notes, p. 118](kissie%20fondamental%20(handwritten%20notes).md#p-118-pdf-134)
+
+Ce sont des unités qui apparaissent toujours adjointes aux nominaux. Elles fonctionnent en dépendance soit avec les substituts personnels, soit avec les nominaux proprement dits. Elles n'ont aucune existence autonome dans la langue. Ainsi, leur suppression n'affecte point la structure de la phrase. Ces particules admoninales sont :
+
+Vèlè (encore) ; bèè (aussi) ; pila (même) ; pèn ; Kpekpe (justement) kuani, daama, ~~tunun~~ <ins>tuun</ins> sii (seulement)
+
+Exemples :
+
+Faya <u>bèè</u> tyaa tyoq sivaa
+Ya <u>bèè</u> tyaa tyondei
+O saa <u>vèlè</u> söèi hee.
+Tundo <u>pila</u> kisikisin
+Ndu <u>pila</u> diinun ni
+Num <u>pèn</u> nda va veelo ni
+Kumba <u>kpekpe</u> kèè yawvo ni
+Finda daama pomböö sina ni
+Num <u>tuun</u> o yeema ni
+A yiyan a num sii sina dènè ni nè ?
+Ya kuani köa nda yilöö ni
+Yema num kuani tyo vanatyieo ni.
+
+<ins>En</ins> supprimant ces particules admoninales nous aurons :
+
+Faya tya sèvaa
+Musa saalan söèi hee
+Tunndo kisikisin
+Num o yeema ni
+A yiyan a num sina dènè ni nè ?
+Ya köa nda yilöö ni.
+
+REMARQUE / Nous constatons à travers ces exemples, que seule "vèlè" peut se placer après le verbe ; toutes les autres se placent immédiatement après le nominal ou le substitut personnel.
+
+## LES MOTS DE LIAISON.
+
+Leur étude nous permettra dans les leçons qui suivent de saisir plus aisément les différentes structures syntaxiques du kisiei. Les mots de liaison sont des mots invariables qui servent à unir un nom à un verbe, un nom à un autre, deux phrases ou de deux proposition en établissant un rapport en les deux mots ou les deux
+
+> ✎ [Handwritten notes, p. 119](kissie%20fondamental%20(handwritten%20notes).md#p-119-pdf-135)
+
+phrases ou propositions. Nous distinguons les prépositions et les conjonctions qui se subdivisent en deux groupes : les conjonctions de coordination et les conjonctions de subordination.
+
+<u>Faya</u> <u>hin</u> <u>a</u> <u>lèènndo</u> (N.)
+<u>Finda</u> <u>bolin</u> <u>o</u> <u>pelei</u>
+<u>Saa</u> nyaanun <u>nda</u> <u>kumba</u>
+Nyaayo bii <u>bèlöö</u> (N) <u>a</u> <u>yowvo</u> (N)
+<u>Tyuaa hoo nan</u> <u>kè</u> <u>o sunèi</u>
+<u>I yöngu tamba volion</u> <u>hanikpe</u> <u>o mala</u> … <u>vaa</u>
+
+### <u>LES PREPOSITIONS</u> :
+
+Elles ont pour rôle essentiel, de lier le complément au verbe. Ce sont : "a" (avec, en) ; "O" (au, à) ; "O.... lo" (chez) ; "O... nin" (dans) ; "le" (Pour)
+
+Exemples : O <u>bolin</u> <u>a</u> <u>lèènndo</u>
+La <u>hin</u> <u>le</u> <u>kölan</u> ?
+Nde <u>tyo</u> <u>o</u> <u>naköö</u> <u>nin</u>
+A <u>köè</u> <u>o</u> <u>Faya</u> <u>lo</u>
+O <u>tyo kölan</u> <u>o</u> <u>poli</u>
+Fanta <u>tyo hunöö</u> <u>a</u> <u>tyanndo</u>
+
+### <u>LES CONJONCTIONS DE COORDINATIONS</u> :
+
+Ce sont : a (et) ; nda (et) ; kè (mais) ; te konte (ou) ; mi (et). Elles servent à relier :
+
+a) <u>Deux noms</u> assumant la même fonction de <u>sujet</u> vis à vis du verbe.
+
+Exemples : Faya köè o hunndo nin <u>nda</u> lonöö
+<u>Bèlöö</u> niinhan <u>nda</u> <u>nyaayoo</u> le.
+
+b) <u>Deux noms</u> assumant la fonction de <u>complément</u> vis à vis du verbe. Exemples : O tow <u>kalaa</u> <u>nda</u> <u>tyuaa</u>
+Faya dii <u>söö</u> <u>a</u> <u>dökuo</u> ;
+i pendu <u>dèndöö</u> <u>a</u> <u>fagbaa</u> ; <u>fallo</u> köè kungulaa <u>nda</u> <u>tyuaa</u> ndöa
+
+> ✎ [Handwritten notes, p. 120](kissie%20fondamental%20(handwritten%20notes).md#p-120-pdf-136)
+
+c) <u>Deux phrases</u> (formant une seule proposition ; la proposition indépendante) ?
+
+Siawlen le del <u>kè</u> le diw le
+Poomböö del <u>mi</u> o bolin
+Tyuel la dènadöö <u>te kon te</u> lèènndo
+Hun a lamndo <u>te kon te</u> möèi
+Kö tyuel la lèèn ni fèèyaa <u>a</u> tyuèi nii kianhèi
+La va dion pilè <u>mi</u> la maalian
+
+N.B. "Nda" ne s'emploie que pour les noms de personne et d'animaux
+
+### 3°) <u>Les Conjonctions de subordination</u>
+
+Elles servent à unir deux propositions placées dans un rapport de dépendance. C'est-à-dire que la 1ère proposition pour être complète a besoin d'une seconde qui lui est reliée par une conjonction de subordination. Les conjonctions de subordination sont les suivantes:
+
+Kani (parceque, puisque) Hanikpe (afin que pourque) le mèè (pour que).
+Baw (puisque, parceque) Pèngu (lorsque, au moment) fuule (parceque)
+Te....pè (si, quand) maa (que
+
+- Pèngu et Te....pè indiquent le temps.
+- Le mèè ~~kani~~ et hamikpe indiquent la cause, le but.
+- Baw et fuule indiquent l'<u>agent</u> cause
+
+Exemples: <u>Te</u> Kpèènèi nhol <u>pè</u>, a voo maalon.
+- Fala kumbu höltan <u>lemèè</u> kala ndö sina <u>maa</u> o tyo lahöl te yè.
+- Teewa voo sukala o lamndo <u>Baw</u> o tyo ko aa hèlle ni.
+
+### <u>Les Interjections</u>:
+
+Ce sont des mots invariables qui servent à exprimer une émotion et n'ont pas de relation avec les autres mots de la phrase.
+
+Ce sont: Kanikokoe! (joie), se! (appel), kpoki! (étonnement, surprise), kpöö (dégoût, mépris) <u>taa</u> !
+
+Ex. Kanikokoe! …
+Se! tyun ya.
+Kpoki! la toei isè ?
+Kpöö ! fanhan ya kööli
+Taa ! a tyi ndu kölan te
+Ta poo! a nö böö Lèönnde!
+
+---
+
+## LA STRUCTURE ALLITERATIVE.
+
+> ✎ [Handwritten notes, p. 121](kissie%20fondamental%20(handwritten%20notes).md#p-121-pdf-137)
+
+Nous avons vu dans la morphologie du nom simple, qu'il existe en kisiei, une série différenciée d'affixes (morphèmes classificateurs ou modalités nominales) qui groupaient les noms en catégories ou classes nominales. C'est ainsi que chaque nominal du système appartient à une classe précise que seul le morphème de classe (modalité) permet d'identifier. En abordant l'étude des adjectifs et Pronoms, nous avons constaté que selon qu'ils déterminent ou remplacent le nom, ils s'accordent non seulement en nombre avec celui-ci mais aussi en classe nominale. C'est dire que nécessairement ils doivent porter la modalité de ce nom.
+
+Cette reprise constante, cette redondance, du morphème de classe au niveau de certains éléments de l'énoncé d'une part (adjectif, pronom), et l'apparition de ceux qui reprennent le morphème : " les référents de classe" d'autre part, assurent la parfaite cohésion de la phrase.
+
+C'est ce qui confère à l'énoncé kisiei une STRUCTURE ALLITERATIVE. Ces référents de morphèmes sont les suivant :
+
+| MODALITES | REFERENTS DE MORPHEME : SINGULIER | REFERENTS DE MORPHEME : PLURIEL |
+| --- | --- | --- |
+| a - o - ö | o | a - la - i |
+| e - i | i | n |
+| an | ma | ma |
+| len | le | ma - i |
+| lan | la | la |
+
+Exemples :
+
+a : Doma mamènnndo nan a sialten
+o : Kolo n mallo yeela a sukalaa
+ö : Bölö num n ken pèi kèè diuvöö le
+e : Tyopio pöw bèlii diuvèi le
+i : Kelèi nvolii n ke ya ve lo
+an : Työèma sianhan ma tyon
+Len : Yawle bèndule tambalen le kiolu
+Lan : diola kèndèla n nö lan la hèènan ya
+samtala sènèila n pendu lan la hiow num.
+
+> ✎ [Handwritten notes, verso of p. 121](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-121-pdf-138)
+
+> ✎ [Handwritten notes, p. 122](kissie%20fondamental%20(handwritten%20notes).md#p-122-pdf-139)
+
+REMARQUES : 1- Nous constatons qu'avec cette reprise du morphème sur certains éléments de l'énoncé, les nominaux se présentent sous la forme indéfinie. La forme définie étant étant marquée par la longueur vocalique pour les noms terminés par "a, o, ö, il s'agira tout simplement de suprimer la dernière voyelle (domaa = doma, bölöö = bölö). Mais, au cas où nous constatons l'apparition d'une consonne dite de soutien tels que dans : Hoeiye, Yowvo, kollo, la forme indéfinie s'obtient en supprimant et la consonne de soutien et le morphème (hoeiye = hoei, yowvo = yow, kollo = kol). Précisons que ce ci n'est valable que pour les noms singuliers, les noms pluriels se présentant toujours munient de leur marque de nombre.
+
+2- Pour les noms terminés par " len, lan", seul le trait de nasalité disparaît pour être repris par le dernier élément susceptible de porter le morphème. On ne dira pas par exemple :
+
+Siawlen divalen o pèndu len le vaala ou
+diolan kèndèlan n nö lan la hèènan ya
+
+Mais : siawle divale o pèndu len le vaala.
+Diola kèndèla n nö lan la hèènan ya
+
+(le et la sont des référents de morphème).
+
+3- Pour les noms terminés par "an", la suppression du morphème "an" entraîne la suffixation de "ma" au même radical ; tel l'exige le système de la langue.
+
+Exemples : Mènndan = mènma : Mènma fölönndan ma del
+Tuilian = tuilima ; työèyan = työèma.
+
+### <u>LE SYNTAGME COMPLETIF</u> :
+
+Les éléments de ce syntagme se présentent dans l'ordre Complété + Complétant et entretiennent une cohésion syntagmatique.
+
+Exemples : Möèi fèèyai ; Kol puavo, doma molisivo, tyinhii fayave bolle tambalen, mènma kumbaan.
+
+Les marques suffixales i (de fèèyai) vo (de puavo et molisivo) ve (de fayave) len (de tambalen) et an (de kumbaan), ne sont rien d'autres que des référents de morphèmes de classe en rapport avec le nominal complété. C'est dire que le complétant s'accorde en classe et en nombre avec le complété.
+
+---
+
+## LA PHRASE
+
+> ✎ [Handwritten notes, p. 123](kissie%20fondamental%20(handwritten%20notes).md#p-123-pdf-140)
+
+Après avoir étudié isolément les constituants d'énoncée (nom, adjectif...) nous allons voir à présent comment ces éléments se combinent pour transmettre un message en kisiei. Le kisiei présente plusieurs types de constructions syntaxiques que nous allons dégager à travers l'étude des phrases simples et des phrases complexes.
+
+### I- <u>LA PHRASE SIMPLE</u>
+
+#### 1. <u>PHRASE SIMPLE constitué d'un seul constituant</u> (élément ou terme).
+
+Elle ne se rencontre que lorsque le locuteur veut donner un ordre, une prière, une défense, un conseil à son interlocuteur. Ainsi la compréhension est assurée par la situation, le contexte précis dans lequel se trouvent placés le locuteur et son interlocuteur. Ici, le seul constituant est : le verbe (à l'impératif).
+
+Exemples : Dio ; Fula ; Kö ; Hinin ; Kinda ; Sungu ; Tol ; Tyal ; Hel ; Kumbi ; Kèsi.
+
+#### 2. <u>PHRASE SIMPLE à deux constituants</u>.
+
+Ces types de phrases se présentent sous le schéma suivant : SNS + SV (Syntagme Nominal Sujet + Syntagme Verbal)
+
+Dans cette structure le déterminant du nom est, comme le nom lui-même, un constituant du syntagme : le Syntagme Nominal Sujet qui peut également être constitué de deux noms reliés par une préposition mais assumant tous la même fonction de sujet vis à vis du verbe. De même que la base verbale et la désinence (modale où temporelle) qui l'accompagne sont des éléments constitutifs du syntagme verbal.
+
+Pour rendre notre schéma SNS + SV plus accessible nous allons le décomposer en :
+
+a)- <u>SUJET + VERBE</u>
+
+Exemples : Tamba köè ; Fallo tyèl ; Finda hin ; Maalon vesa
+Naw ndöö vi ; Lam nummdo yeela ; kooma ndöan ma nan
+
+b)- <u>SUJET + MARQUE DE TEMPS + VERBE</u>
+
+Cette formule n'est valable que pour le présent, l'imparfait et le futur proche.
+
+Exemples : Sia tyo höönuo ; Kumba va yawvo
+Tamba tyo vaa ; Seku va fèèyaa.
+
+> ✎ [Handwritten notes, p. 124](kissie%20fondamental%20(handwritten%20notes).md#p-124-pdf-141)
+
+c)- <u>GROUPE SUJET + VERBE</u>
+
+Sanni nda kumba köè
+Nawvo a tyuinndo nyaanun
+Pasikali nda molisi sèvanin
+
+Cette formule peut aussi se présenter sous la forme suivante : Sujet<sub>1</sub> + Verbe + Préposition + Sujet<sub>2</sub>
+Toutefois S<sub>1</sub> et S<sub>2</sub> constituent le groupe sujet.
+
+Exemples :
+
+<u>Tyièiyo</u> nhöè <u>a</u> <u>bolofaa</u>
+<u>Seku</u> nyaanun <u>nda</u> <u>kumba</u>
+<u>Faya</u> köè <u>nda</u> <u>lanöö</u>
+
+d)- <u>GROUPE SUJET + GROUPE VERBAL</u> (marque de temps + verbe)
+
+Bèlöö Tyo nyaanönndo nda nyaayoo
+Musa nda faya tyo pulönndo.
+
+e)- Mais lorsque le locuteur veut présenter son message sous forme d'ordre ou de prière, nous aurons : Verbe + Complément.
+
+| Exemples : | |
+| --- | --- |
+| Tyua ndu | Vuu o pee lo |
+| Dio nönöö | Hun a bölöö |
+| Ban tyièiyo | Kö o poli |
+
+---
+
+## PHRASES SIMPLE EN EXPANSION :
+
+> ✎ [Handwritten notes, p. 125](kissie%20fondamental%20(handwritten%20notes).md#p-125-pdf-142)
+
+La nécessité de cette expansion est liée au souci d'une certaine détermination, visant à identifier l'objet dans une série d'autres semblables. Cette expansion peut être un complèment d'objet ou circonstant, voire toute une proposition.
+
+Ces types de phrases se présentent sous le schéma suivant :
+
+S.N.S + S.V + S.N.O ou S.N.C (syntagme nominal objet ou circonstant).
+
+Précisons que le SNO ou le SNC peut être constitué d'un nom, et de son déterminant ou de deux noms (reliés par une préposition) assumant tous la même fonction de complément vis à vis du verbe.
+
+Examinons à présent notre schéma en détail :
+
+1. Sujet + Verbe + Complément
+
+Exemples : Tamba tow pomböö
+Nyaayoo bii bèlöö
+O bolin a lènndo
+A kiimba möèi pilèi
+Vanvalla köè o poli
+Piöö sia tyièi
+Nyamakalaa hin a yoolan
+Musa hin le yèiye
+Nawvo vi kpèèlun.
+
+2. Sujet + Verbe + Groupe Complément
+
+Nyaayoo bii bèlöö a yowvo
+Nyuma tow kalaa nda tyuaa
+Kèwvo löva faya nda tun ndöö
+Faya dii söö a dökuuo
+
+3. Groupe Sujet + Verbe + Complément (sujet<sub>1</sub> + Verbe + Compl.+ hép. + Sujet<sub>2</sub>.
+
+Faya köè o hunndo nin nda lanöö
+Bèlöö niinhan nda nyaayoo le
+Fallo köè kungulaa nda tyuaa ndöa
+
+4. Sujet + marque de temps + Verbe + Complément.
+
+Vananyètyaa tyo hunö siödii
+Lakolia va kölan o kaannden
+Pomböö tyo tyanndo le mèèyan.
+
+> ✎ [Handwritten notes, p. 126](kissie%20fondamental%20(handwritten%20notes).md#p-126-pdf-143)
+
+5. Sujet + marque de temps + Complément + Verbe
+
+Tamba tyo hunndo vaa
+Vanvalla tyo naköö fèèyaa
+Vanlaandua va hunndo höönuo
+
+\* Il arrive que dans le groupe complément, qu'on ait deux noms assumant le même rôle mais de natures différentes : Objet direct + objet indirect, objet direct + Circonstant ; ou deux circonstants différents : lieu + manière, temps + lieu, but + temps etc.....
+
+ou encore : circonstant + objet.
+
+Exemples :
+
+Faya di tunndo a yekpandio
+bèlöö tyua kosion o bölöö nin
+Teeva yaw mömöö le mialla
+Nyaayoo di bèlöö o kaa
+lötyièiyo löva faya o hunndo nin.
+Vanlaandua hiow o pee lo le yööyaa
+Nyuma köè haw kpekedu
+Köfanöö lö tyièi musa nda fala
+Tunndo kel pèi tamba
+
+- Quand l'expansion est une proposition :
+
+C'est toujours pour apporter plus de précision à la phrase simple que le kisinöö ajoute à la phrase simple toute une proposition.
+
+Faya kelenha / tyaanda tyo num tyumndo
+Poomböö komala doma sènèi sènèè / fiinya pindul ndu vo o sèèsèi
+Köfa tow ya / aa i nö la sèbè le
+Yowva de / maalun nia san tyièi yon.
+Finda pendu kolaa / le kafoo tosanin ? dièn ndo.
+
+De telles sont appelées des Propositions Indépendantes, puisqu'elles ne dépendent d'aucune autre proposition et aucune ne dépend d'elles. Ainsi nous dirons que les Propositions Indépendantes bien que présentant une structure un peu plus complexe que les précédentes, sont à considérér comme des Phrases Simples mais plus étoffées.
+
+> ✎ [Handwritten notes, p. 127](kissie%20fondamental%20(handwritten%20notes).md#p-127-pdf-144)
+
+### - <u>LE SYNTAGME APPOSITIF</u> :
+
+Ici, il y a un premier terme auquel sont apposés d'autres termes, mais tous assumant la même fonction de sujet vis à vis du verbe.
+
+Exemples : Tun tinhi pömböö faya vo / kel / vèèndo
+Binta vèèn sianhaa fulanöö / hin / a nönöö
+Poli, lakoli bènduo layinè / köè le vaa
+Faya, Musa, Tamba, Nyuma / hiow / o kaannden
+Saa, Fala, Sia, Hawa, la työn le kölan o poli.
+
+Ces types de phrases sont également des Phrases Simples.
+
+---
+
+## LES PHRASES COMPLEXES
+
+> ✎ [Handwritten notes, p. 128](kissie%20fondamental%20(handwritten%20notes).md#p-128-pdf-145)
+
+La nature complexe de ces types de phrades, s'explique par le fait que, contrairement à la phrase simple qui n'a qu'une seule proposition (ou deux propositions juxtaposées : indépendante) ; les PHRASES COMPLEXES comportent quant à elles au moins deux propositions liées entre elles par un mot de subordination.
+
+La première proposition renferme toujours une idée que vient compléter la seconde proposition . Ce qui revient à dire que ces deux propositions formant la phrase complexe, sont en rapport du dépendance ; elles ne peuvent être détachées l'une de l'autre. Et les termes qui assurent cette liaison de la 1è re proposition à la seconde sont les conjonctions de subordination et les relatifs.
+
+Exemples :
+
+1. Finda hin a yeelan kani fiinya ndöö vi
+2. Masaa di nawvo kani o söla bö mialla
+3. A komal la tyièi nin pèngu nda yonda sèllo vo
+4. Tamba ven bölöö o doma bèngu le mèè kala sina maa o yön viilen to yè.
+5. Kelua kol masasian baw o tya ka aa nönöö ni
+6. Mamadu lö Sia laa ndöö fuule vèn kon kela böö
+7. O tya ka aa ndu tyo ya balo dövö ni
+8. Doma n pindul la vo Faya kiimbu tyèi ni
+
+Dans ces phrases nous constatons que les différentes propositions possèdent la même structure que celle des Phrases Simples Prenons par exemple la phrase(2) :
+
+Masaa di nawvo (1)/kani/o söla bö mialla(2).
+
+Dans (1) nous avons:Masaa(sujet)+ di(verbe) + nawvo(complément)qui repond effectivement à la structure Sujet+ Verbe + Complément des phrases simples .Egalement dans(2), O = sujet,söla =verbe et bö mialla = complément.
+
+(1) et (2) bien que repondant à la structure des Phrases Simples, elles constituent une Phrase Complexe.Elles sont en relation de dépendance(marquée par kani)car l'idée exprimée dans(1)est complétée dans(2).Nous avons ainsi,une Proposition Principale(1) et une Proposition Subordonnée Conjonctive(2).
+
+Ainsi,l'analyse de la Phrase Complexe revient à recenser d'abord le nombre de verbe(car autant il y a de verbes,autant il y a de propositions) ensuite les mots de subordination assurant la liaison :
+
+> ✎ [Handwritten notes, p. 129](kissie%20fondamental%20(handwritten%20notes).md#p-129-pdf-146)
+
+Analysons les exemples(4) et (7).
+
+a)- Tamba ven bölöö o doma bèngu(1)/le mèè/kala ndö sina(2) /maa/o yön viilen te yè(3)
+
+Dans cette phrase nous avons trois verbes:ven,sina et tosa et deux mots de subordination:le mèè,maa qui assurent la relation entre les propositions.Nous pouvons donc dire qu'il ya trois propositions
+- La 1ère : Tamba ven bölöö o doma bèngu est la Proposition Principale.
+- La 2ème : Le mèè kala ndö sina est la subordonnée conjonctive.
+- La 3ème : Maa o yön viilen te yè est la subordonnée relative.
+
+b)- O tya ka(1)/aa/ndu tyo ya balo dövö ni(2)
+
+Dans cet exemple;(1)est la Proposition Principale et (2)est la Subordonnée Relative.
+
+<u>Nota Bene</u>: Les phrases énoncées au Mode Conditionnel, rejoignent le groupe des Phrases Complexes.Car à ce mode,la réalisation de l'action exprimée dans la 1ère phrase est soumise à une condition émise dans la seconde phrase.Cett condition est marquée par la conjonction Te.....pè qui peut se placer devant le second énoncé ou parfois en début du 1er énoncé de la phrase.Toujours es est-il que l'énoncé compris entre Te....pè est la subordonnée.
+
+Exemples :
+
+Ii va vu te yaakol mènndan man pè
+Te ya kol mènndan man pè ii va vu
+
+Te kpènèi nhol pè, a voo maalon
+Voo maalon te kpènèi nhol pè.
+
+---
+
+## LEXIQUE KISIEI - FRANCAIS
+
+En abordant l'étude de cette partie de notre étude qui sera suivie de textes de conversations, nous allons vous faire une description de la salutation en pays Kisi.
+
+Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans la vie sociale. Elle est également l'entête de toute conversation. En Kisiei, comme nous l'avons déjà vu tout au début de notre étude, la salutation varie selon les moments de la journée. Toujours est-il que, toute conversation commence par "isè" !" ou "lavosè !". Pour prendre congé nous avons "nilu kèndè" (pour la journée) et "Piw kèndè" ou "la piw kèndè" (pour la nuit) se prononcent avec un ton affirmatif (ton bas).
+
+<u>La salutation</u> : on se serre les mains, puis on se claque les doigts.
+
+- Au cours des visites coutumières ou à l'arrivée d'un étranger, après les échanges de mots, selon la circonstance, on peut offrir au visiteur quelque chose (des noix de colas généralement ou un poulet). Si on n'a rien à donner, on s'en excuse par l'un des termes suivants : "Fanda le" ou "a koloma fanda le" et au visiteur de répondre "O tyo le".
+
+- A l'arrivée d'un étranger dans la famille, on accourt vers lui puis on se donne les accolades et on se sert les mains ensuite qui se termine par un claquement de doigts. Après les échanges de mots (isè ! Mba ! ...), on l'invite au logis.
+
+- A l'occasion d'un décès, on serre la main à tous ceux que vous trouvez en place ou à une bonne partie ; ayant prononcé à l'avance en s'adressant au groupe en place : "voni kènè voni kènè". Puis pour témoigner votre chagrin, vous faites un geste si petit soit-il à la famille éplorée selon vos moyens.
+
+### LE CORPS HUMAIN
+
+> ✎ [Handwritten notes, p. 131](kissie%20fondamental%20(handwritten%20notes).md#p-131-pdf-148)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| ~~…~~ <ins>Baa</ins> | Baa | la main, le bras |
+| ~~…~~ <ins>Baköllo</ins> | ~~Ba-köl-la~~ | La paume |
+| Bakpenndo | Ba-kpen-ndo | le poignet |
+| Balöö | Ba-löö | l'avant-bras |
+| Bötaa | Bö-taa | le poing |
+| Bollen (ten) | Bol-len | la tête |
+| Bololen | Bo-lo-len | la gorge |
+| Bènguo | Bè-nguo | le pied |
+| Daadaa | Daa-daa | le menton |
+| Demboo | De-mboo | le ventre, l'estomac |
+| Dièèmulen | Dièè-mu-len | la langue |
+| Dulunndo | Du-lun-ndo | le coude |
+| Föyönnde | Fö-yön-nde | le poumon |
+| Hölten | Höl-ten | l'oeil |
+| Hölla | Höl-la | la face, le visage |
+| Hullan | Hul-lan | le cerveau |
+| Hulma pömböan | Hul-ma/Pö-mböan | la cervelle |
+| Kandontyindo | Kan-do-ntyin-do | la gencive |
+| Köllo | Köl-lo | le coeur |
+| Köö | Köö | le dos |
+| Köölen | Köö-len | le corps |
+| Kölkelle | Köl-kel-le | le rein |
+| Kèsei | Kè-sei | le cou |
+| Kèmbèi Köi | Kè-mbèi/Köi | l'épine dorsale |
+| Kèmbèi laboloei | Kè-mbèi/la-bo-loei | la pomme d'adam |
+| Koovan | Koo-van | le sang |
+| Koongo lehöllo | Koo-ngo/le-höl-lo | la paupière |
+| Kuuvo | Kuu-vo | la joue |
+| … | … | … |
