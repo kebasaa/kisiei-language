@@ -2,7 +2,7 @@
 
 ## Les lettres
 
-L'alphabet kisiei compte **26 lettres**. Les lettres propres au kisiei sont **ɛ**, **ɔ**, **ŋ** et **ɲ** ; les lettres *j*, *q*, *x* et *z* ne s'emploient pas (elles n'apparaissent pas une seule fois dans la Bible).
+L'alphabet kisiei compte **26 lettres**. Les lettres propres au kisiei sont **ɛ**, **ɔ**, **ŋ** et **ɲ** ; les lettres *j*, *q*, *x* et *z* ne s'emploient pas (elles n'apparaissent pas une seule fois dans la Bible [[(BKG)]]).
 
 | Minuscule | Majuscule | Nom proposé | Exemple | Sens |
 | --- | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ L'alphabet kisiei compte **26 lettres**. Les lettres propres au kisiei sont **ɛ
 | w | W | we | {{taw}} | beaucoup |
 | y | Y | ye | {{yaa}} | trois |
 
-Les noms des lettres suivent l'usage décrit par Keita [[Keita1979]] (p. 14) : on prononce chaque consonne suivie d'un *e* bref (*be, de, fe…*) et non à la française (*bé, dé, èf…*).
+Les noms des lettres suivent l'usage décrit en 1979 [[(Keita1979, p. 14)]] : on prononce chaque consonne suivie d'un *e* bref (*be, de, fe…*) et non à la française (*bé, dé, èf…*).
 
 ## Lettres doubles
 
@@ -68,4 +68,4 @@ Pour classer les mots (lexiques, index), on propose l'ordre suivant, où chaque 
 Les groupes *kp*, *gb*, *mb*, *nd*, *ng* sont classés à leur première lettre (*kpemaa* sous *k*). Les accents de ton ne comptent pas pour le classement.
 
 !!! note "Note"
-    Cet ordre est une proposition de ce guide ; ni Keita ni la Bible n'en donnent un. Voir les [questions ouvertes](../reference/open-questions.md).
+    Cet ordre est une proposition de ce guide ; ni le manuel de 1979 ni la Bible n'en donnent un. Voir les [questions ouvertes](../reference/open-questions.md).

@@ -2,7 +2,7 @@
 
 ## Ponctuation
 
-La ponctuation suit les règles du français. La Bible [[BKG]] emploie :
+La ponctuation suit les règles du français. La Bible [[(BKG)]] emploie :
 
 | Signe | Emploi | Exemple |
 | --- | --- | --- |

@@ -6,8 +6,8 @@ Tous les mots et phrases kisiei sont en *italique soulignée*. La couleur et le 
 
 | Marque | Statut | Ce que cela veut dire |
 | --- | --- | --- |
-| {{cɛiyo}} | <span class="ks-badge ks-att">Attesté</span> | Chaque mot figure dans la Bible en kisiei [[BKG]], aux tons et aux majuscules près. C'est l'orthographe de référence. |
-| {{tafeo\|r}} | <span class="ks-badge ks-res">Réécrit</span> | Le mot vient de Keita [[Keita1979]] et a été réécrit selon les règles actuelles, mais il n'apparaît pas dans la Bible. L'orthographe est probable, pas garantie. |
+| {{cɛiyo}} | <span class="ks-badge ks-att">Attesté</span> | Chaque mot figure dans la Bible en kisiei [[(BKG)]], aux tons et aux majuscules près. C'est l'orthographe de référence. |
+| {{tafeo\|r}} | <span class="ks-badge ks-res">Réécrit</span> | Le mot vient du manuel de 1979 [[(Keita1979)]] et a été réécrit selon les règles actuelles, mais il n'apparaît pas dans la Bible. L'orthographe est probable, pas garantie. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">À vérifier</span> | La forme ou le sens est incertain : note manuscrite peu lisible, mot que l'on n'a trouvé qu'une fois, etc. |
 
 Le statut est **vérifié automatiquement** à chaque construction du site : un exemple marqué « attesté » dont un mot ne figure pas dans la liste des mots de la Bible fait échouer la construction (voir [Outils](../sources/tools.md)).
@@ -15,7 +15,7 @@ Le statut est **vérifié automatiquement** à chaque construction du site : un 
 ## Références
 
 - **Bible** : [[GEN.1.3]] renvoie au verset sur bible.com. Les abréviations des livres sont celles de la Bible en français (Gn, Ex, Mt…).
-- **Keita 1979** : « Keita (1979), p. 24 » renvoie à la page dactylographiée du manuel ; la transcription intégrale se trouve dans les [archives](../sources/archive.md).
+- **Keita 1979** : « (Keita 1979, p. 24) » renvoie à la page dactylographiée du manuel ; la transcription intégrale se trouve dans les [archives](../sources/archive.md).
 - Les autres sources sont listées dans la [bibliographie](../sources/bibliography.md).
 
 ## Encadrés
@@ -23,7 +23,7 @@ Le statut est **vérifié automatiquement** à chaque construction du site : un 
 !!! rule "Règle"
     Une règle d'orthographe ou de grammaire à retenir.
 
-!!! keita "Keita 1979"
+!!! keita "Usage de 1979"
     Ce que dit le manuel de 1979 quand il diffère de l'usage de la Bible. Le guide suit la Bible.
 
 !!! note "Note"

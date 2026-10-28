@@ -1,10 +1,10 @@
 # De l'ancienne à la nouvelle orthographe
 
-Les textes kisiei des années 1970-1980, dont le manuel de Keita [[Keita1979]], sont écrits dans l'ancienne orthographe. Cette page explique comment les lire et les réécrire.
+Les textes kisiei des années 1970-1980, dont le manuel de Keita ([[Keita1979|1979]]), sont écrits dans l'ancienne orthographe. Cette page explique comment les lire et les réécrire.
 
 ## Correspondances de base
 
-Ce sont les correspondances de la feuille « nouvelle orthographe » [[NouvelleOrtho]], vérifiées dans la Bible [[BKG]] :
+Ce sont les correspondances de la feuille « nouvelle orthographe » [[NouvelleOrtho]], vérifiées dans la Bible [[(BKG)]] :
 
 | Ancienne | Nouvelle | Exemple ancien | Exemple nouveau | Sens |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Pour les majuscules : *Ty* → **C**, *Nh* → **Ŋ**, *Ny* → **Ɲ**, *È* →
 
 ## Ce que les correspondances de base ne suffisent pas à rendre
 
-En appliquant seulement le tableau ci-dessus aux quelque 700 mots du lexique et de la liste de verbes de Keita, on retrouve environ quatre mots sur dix tels quels dans la Bible. Pour les autres, soit le mot n'apparaît pas dans la Bible (vocabulaire de la vie quotidienne, des maladies, des outils…), soit l'orthographe de la Bible diffère sur un des points suivants.
+En appliquant seulement le tableau ci-dessus aux quelque 700 mots du lexique et de la liste de verbes du manuel de 1979, on retrouve environ quatre mots sur dix tels quels dans la Bible. Pour les autres, soit le mot n'apparaît pas dans la Bible (vocabulaire de la vie quotidienne, des maladies, des outils…), soit l'orthographe de la Bible diffère sur un des points suivants.
 
 ### 1. ŋ en fin de radical
 
@@ -33,7 +33,7 @@ L'ancienne orthographe écrivait *n* pour [n] et pour [ŋ] en fin de syllabe. La
 | *Lènnden* | {{lɛŋnden}} | pays, terre |
 | *Tyinnde* | {{ciŋnde}} | dent |
 | *Tyannda* | {{caŋnda}} | hanches |
-| *Tinndo* | {{tiŋndo}} | intervalle, espace (Keita : « île ») |
+| *Tinndo* | {{tiŋndo}} | intervalle, espace (1979 : « île » [[(Keita1979, p. 155)]]) |
 | *Dièn* | {{diɛŋ}} | après-demain |
 | *nan* « bon » | {{naŋ}} | bon |
 
@@ -45,7 +45,7 @@ L'ancienne orthographe ne notait pas les tons. En réécrivant, on ajoute les ac
 
 ### 3. Les relatifs et les référents
 
-Keita écrit les relatifs comme des mots séparés (*Domaa n pendu vo sèsa*). La Bible rattache le référent au dernier mot du groupe par un trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Coupure des mots](word-division.md).
+L'orthographe de 1979 écrit les relatifs comme des mots séparés (*Domaa n pendu vo sèsa*) [[(Keita1979, p. 88-89)]]. La Bible rattache le référent au dernier mot du groupe par un trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Coupure des mots](word-division.md).
 
 ### 4. Fautes et variantes du manuel
 

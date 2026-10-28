@@ -16,14 +16,14 @@ Les démonstratifs montrent un être ou une chose. Le kisiei en a deux séries :
 
 ## Forme du nom devant le démonstratif
 
-La Bible confirme la remarque de Keita [[Keita1979]] (p. 57) :
+Les textes de la Bible [[(BKG)]] confirment la règle décrite en 1979 [[(Keita1979, p. 57)]] :
 
 - avec le démonstratif **proche**, le nom garde sa **forme pleine** : {{kobio ho}}, {{vannda ha}}, {{pembei he}} ;
 - avec le démonstratif **éloigné**, le nom prend sa **forme radicale** : {{kobi kon}}, {{vanaa kan}}.
 
 Dans la classe *i*, la forme radicale devant {{ken}} remplace *-ei* par **-ii** : {{pembei he}} / {{pembii ken}} « cette montagne », {{paangei he}} / {{paangii ken}} « ce mois » [[EXO.12.3]] [[GEN.8.5]].
 
-Dans les classes *an*, *len* et *lan*, le nom est toujours à la forme radicale + pronom de classe ({{mɛmma man}}, {{lɛŋnde len}}, {{kobila lan}} ; voir [Classes nominales](../nouns/noun-classes.md)). Keita précise que proche et éloigné s'y distinguent par le **ton**, que la Bible ne note pas.
+Dans les classes *an*, *len* et *lan*, le nom est toujours à la forme radicale + pronom de classe ({{mɛmma man}}, {{lɛŋnde len}}, {{kobila lan}} ; voir [Classes nominales](../nouns/noun-classes.md)). Proche et éloigné s'y distinguent par le **ton** [[(Keita1979, p. 58)]], que la Bible ne note pas.
 
 !!! rule "Règle d'écriture"
     - Adjectif proche : **{{ho}}**, **{{ha}}**, **{{he}}** (une seule voyelle) : {{kobio ho}}.
@@ -38,5 +38,5 @@ Le démonstratif employé seul remplace un nom :
 - {{Le hee}} « à cause de cela, c'est pourquoi », très fréquent en tête de phrase [[GEN.2.21]] ;
 - {{O kon kɔɔli}} « après cela » (classe *o*), formule de récit : {{O sɔɔn mun kɔɔli}} « après ces événements » [[GEN.22.1]].
 
-!!! keita "Keita 1979"
-    Keita donne *ho* et *hoo* comme une seule forme, et *tan*, *ten* comme variantes de *lan*, *len* après *l*. La Bible distingue *ho* (adjectif) et *hoo* (pronom) et n'emploie pas *tan*, *ten* comme démonstratifs.
+!!! keita "Usage de 1979"
+    En 1979, *ho* et *hoo* sont donnés comme une seule forme, et *tan*, *ten* comme variantes de *lan*, *len* après *l* [[(Keita1979, p. 57-58)]]. La Bible distingue *ho* (adjectif) et *hoo* (pronom) et n'emploie pas *tan*, *ten* comme démonstratifs.

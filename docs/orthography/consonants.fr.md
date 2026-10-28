@@ -22,7 +22,7 @@
 | **w** | *w* de *watt*, seulement après une voyelle | {{taw}} | beaucoup |
 | **y** | *y* de *yeux* | {{yaa}} | trois |
 
-Keita [[Keita1979]] (p. 14) range *w* et *y* parmi les **semi-voyelles** : *y* commence des syllabes ({{yɔmndo}} « arbre »), tandis que *w* ne les termine que ({{nawvo}} « vache » se coupe *naw-vo*).
+*w* et *y* sont rangés parmi les **semi-voyelles** [[(Keita1979, p. 14)]] : *y* commence des syllabes ({{yɔmndo}} « arbre »), tandis que *w* ne les termine que ({{nawvo}} « vache » se coupe *naw-vo*).
 
 ## Les sons c, ŋ, ɲ
 
@@ -40,7 +40,7 @@ Les suites *ny* et *nh* ne s'écrivent plus que lorsque *n* et *y* (ou *h*) appa
 **kp** et **gb** se prononcent en fermant en même temps l'arrière de la bouche (comme pour *k*, *g*) et les lèvres (comme pour *p*, *b*). Ce sont des consonnes uniques, pas des suites *k + p*.
 
 - **kp** se trouve au début et au milieu des mots : {{kpemaa}} « pacte », {{kpow}} « tout », {{kpede}} « tous ensemble ».
-- **gb** ne se trouve qu'au milieu des mots, après une voyelle nasale (Keita, p. 15) : {{langbanɔɔ}} « homme adulte », {{kpingbi}}.
+- **gb** ne se trouve qu'au milieu des mots, après une voyelle nasale [[(Keita1979, p. 15)]] : {{langbanɔɔ}} « homme adulte », {{kpingbi}}.
 
 ## Consonnes prénasalisées : mb, nd, ng
 
@@ -55,7 +55,7 @@ Ces consonnes commencent par une courte résonance nasale.
 
 ## n et ŋ
 
-À la fin d'un radical, le kisiei distingue **n** et **ŋ** : {{nan}} « tirer » / {{naŋ}} « bon ». L'ancienne orthographe écrivait les deux *n* ; la Bible écrit **ŋ** là où l'on prononce [ŋ] :
+À la fin d'un radical, le kisiei distingue **n** et **ŋ** : {{nan}} « tirer » / {{naŋ}} « bon ». L'ancienne orthographe écrivait les deux *n* ; la Bible [[(BKG)]] écrit **ŋ** là où l'on prononce [ŋ] :
 
 - en fin de mot : {{naŋ}}, {{lɛŋ}}, {{baŋ}}, {{yɔŋ}} ;
 - **devant une terminaison qui commence par *n*** : le radical garde son *ŋ*, et la terminaison s'ajoute après. On écrit donc **ŋn** là où 1979 écrivait *nn* :
@@ -76,7 +76,7 @@ En revanche, quand le radical se termine par *n*, on écrit **nn** : {{mɛnndan}
 
 ## La consonne longue ll
 
-*l* peut être long ; on l'écrit alors **ll**. Le premier *l* ferme une syllabe, le second ouvre la suivante (Keita, p. 16) : {{kɔllo}} *kɔl-lo* « cœur », {{hangullo}} *han-gul-lo* « chaleur », {{bolle}} *bol-le* « tête, sommet ». Le *ll* apparaît surtout quand une terminaison commençant par *l* s'ajoute à un radical terminé par *l* : {{vallo}} « travail (le) », {{dimullo}} « dire à ».
+*l* peut être long ; on l'écrit alors **ll**. Le premier *l* ferme une syllabe, le second ouvre la suivante [[(Keita1979, p. 16)]] : {{kɔllo}} *kɔl-lo* « cœur », {{hangullo}} *han-gul-lo* « chaleur », {{bolle}} *bol-le* « tête, sommet ». Le *ll* apparaît surtout quand une terminaison commençant par *l* s'ajoute à un radical terminé par *l* : {{vallo}} « travail (le) », {{dimullo}} « dire à ».
 
 ## L'apostrophe : n'
 

@@ -1,6 +1,6 @@
 # Dérivation
 
-La dérivation forme des noms nouveaux en ajoutant un **suffixe** ou un **préfixe** à un radical. Keita [[Keita1979]] (p. 34-40) distingue les *dérivatifs purs* (des suffixes) et les *dérivatifs lexicaux* (d'anciens noms devenus préfixes). Les exemples ci-dessous sont, sauf indication, tirés de la Bible [[BKG]].
+La dérivation forme des noms nouveaux en ajoutant un **suffixe** ou un **préfixe** à un radical. On distingue les *dérivatifs purs* (des suffixes) et les *dérivatifs lexicaux* (d'anciens noms devenus préfixes) [[(Keita1979, p. 34-40)]]. Les exemples ci-dessous sont, sauf indication, tirés de la Bible [[(BKG)]].
 
 ## Suffixes
 
@@ -12,7 +12,7 @@ Le suffixe **-nɔɔ** (pluriel **-nda** ou **-a**) forme des noms de personnes :
 - **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [[2SA.18.24]], {{kiilanɔɔ}} « messager » [[GEN.50.16]], {{mandenɔɔ}} « marabout, devin » ;
 - **qualité** : {{kuubanɔɔ}} « héros », {{langbanɔɔ}} « homme adulte ».
 
-Keita y ajoute les noms de familles (*Kambadunɔɔ*) et de locuteurs d'une langue ({{Kisinɔɔ|r}} « un Kisi »).
+Le même suffixe forme aussi des noms de familles (*Kambadunɔɔ*) et de locuteurs d'une langue ({{Kisinɔɔ|r}} « un Kisi ») [[(Keita1979, p. 35)]].
 
 ### -yɛi : qualité, état
 
@@ -32,15 +32,15 @@ Ajouté à un nombre, **-ndɔɔ** forme l'ordinal : {{ŋɔmmɛwndɔɔ}} « septi
 
 ### -len : diminutif
 
-Keita (p. 25 et 39) note que **-len** (classe *len*) peut former des **diminutifs** : {{pɔmbɔlen}} « tout petit », et, sur des noms d'animaux, des noms de défauts ou de qualités humaines (*tunnden* « saleté », de {{tunndo}} « chien »).
+Le suffixe **-len** (classe *len*) peut former des **diminutifs** [[(Keita1979, p. 23, 35)]] : {{pɔmbɔlen}} « tout petit », et, sur des noms d'animaux, des noms de défauts ou de qualités humaines (*tunnden* « saleté », de {{tunndo}} « chien »).
 
 ### i-…-ei : état
 
-Une forme discontinue *i-…-ei* forme des noms d'état (Keita, p. 37) : *ilafilafiei* « le fait d'être toujours pressé ». Ce type est rare dans la Bible ; il reste à confirmer auprès de locuteurs.
+Une forme discontinue *i-…-ei* forme des noms d'état [[(Keita1979, p. 37)]] : *ilafilafiei* « le fait d'être toujours pressé ». Ce type est rare dans la Bible ; il reste à confirmer auprès de locuteurs.
 
 ### le- : nombre de fois
 
-Préfixé à un nombre, **le-** exprime la répétition (Keita, p. 35) : {{leyaa}} « trois fois », {{leŋɔmmɛw}} « sept fois ».
+Préfixé à un nombre, **le-** exprime la répétition [[(Keita1979, p. 35)]] : {{leyaa}} « trois fois », {{leŋɔmmɛw}} « sept fois ».
 
 ## Préfixes issus de noms
 
@@ -53,8 +53,8 @@ Plusieurs noms s'emploient comme premier élément de nombreux dérivés ; ils p
 | **vana-** « personne » | {{vana}} | {{vanacieo}} « être humain », {{vanayɛi}} « parenté », {{vana-solia-lasálàá}} « prêtre » |
 | **dɛnɛ** « acte, chose » | {{dɛnɛ}} | {{dɛnɛ kɛndɔɔ}} « le bien », {{dɛnɛ vɔɔndo}} « le mal » [[GEN.2.9]] |
 
-!!! keita "Keita 1979"
-    Keita cite aussi *ba-* « main » (*bamɛllo* « main gauche ») et *dɛnɛ-* écrit attaché (*dɛnɛkɛndɔɔ*). La Bible écrit {{dɛnɛ}} comme un mot séparé : {{dɛnɛ kɛndɔɔ}}.
+!!! keita "Usage de 1979"
+    On trouve aussi en 1979 *ba-* « main » (*bamɛllo* « main gauche ») et *dɛnɛ-* écrit attaché (*dɛnɛkɛndɔɔ*) [[(Keita1979, p. 38-39)]]. La Bible écrit {{dɛnɛ}} comme un mot séparé : {{dɛnɛ kɛndɔɔ}}.
 
 ## Redoublement
 

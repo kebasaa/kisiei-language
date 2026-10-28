@@ -1,6 +1,6 @@
 # Coupure des mots et trait d'union
 
-Savoir où un mot commence et finit est une des principales difficultés de l'écriture du kisiei. Ce chapitre réunit les règles suivies par la Bible [[BKG]].
+Savoir où un mot commence et finit est une des principales difficultés de l'écriture du kisiei. Ce chapitre réunit les règles suivies par la Bible [[(BKG)]].
 
 ## Forme pleine et forme radicale du nom
 
@@ -41,8 +41,8 @@ Quand un **groupe nominal** se termine par autre chose que le nom lui-même — 
 
 Le choix entre *-o*, *-ndo*, *-yo* ou *-lo* (et de même *-a / -nda*, *-e / -nde*) dépend de la fin du mot auquel on attache le référent : après une nasale on écrit *-ndo*, *-nda*, *-nde* ({{lɛŋnden-ndo}}, {{nin-nda}}) ; ailleurs la forme simple ({{fula-o}}, {{coo-an}}). La [page Accord](../grammar/agreement.md) détaille ces formes.
 
-!!! keita "Keita 1979"
-    Keita (p. 88-89) présente ces référents comme des **pronoms relatifs** séparés (*vo, ve, van, lan…*), écrits après le verbe : *Domaa n pendu vo sèsa* « la chemise que tu as achetée s'est déchirée ». La Bible écrit la même marque **collée par un trait d'union** à la fin de la relative ; la forme *vo* n'apparaît presque jamais seule. On suit la Bible.
+!!! keita "Usage de 1979"
+    En 1979, ces référents sont présentés comme des **pronoms relatifs** séparés (*vo, ve, van, lan…*), écrits après le verbe [[(Keita1979, p. 88-89)]] : *Domaa n pendu vo sèsa* « la chemise que tu as achetée s'est déchirée ». La Bible écrit la même marque **collée par un trait d'union** à la fin de la relative ; la forme *vo* n'apparaît presque jamais seule. On suit la Bible.
 
 ### 2. Les mots composés
 

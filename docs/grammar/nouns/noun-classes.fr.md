@@ -2,7 +2,7 @@
 
 ## Le principe
 
-Chaque nom kisiei se compose d'un **radical**, qui porte le sens, et d'une **terminaison de classe** (Keita [[Keita1979]] parle de *morphème* ou de *modalité nominale*), qui indique la classe du nom et son nombre :
+Chaque nom kisiei se compose d'un **radical**, qui porte le sens, et d'une **terminaison de classe** (appelée aussi *morphème* ou *modalité nominale* [[(Keita1979, p. 20-22)]]), qui indique la classe du nom et son nombre :
 
 | Nom | Radical | Terminaison | Sens |
 | --- | --- | --- | --- |
@@ -29,14 +29,14 @@ Le nom a deux formes :
 | {{kalaa}} « la mère » | {{kala ndɔ}} « sa mère » |
 | {{pɔmbɔɔ}} « le cadet » | {{pɔmbɔ ndɔ}} « son frère cadet » |
 
-Keita (p. 20) appelle la forme radicale la **forme indéfinie** et la forme pleine la **forme définie** ; la forme pleine joue en effet le rôle de l'article défini français, que le kisiei ne connaît pas.
+La forme radicale est aussi appelée **forme indéfinie**, et la forme pleine **forme définie** [[(Keita1979, p. 20)]] ; la forme pleine joue en effet le rôle de l'article défini français, que le kisiei ne connaît pas.
 
 !!! rule "Règle"
     On n'écrit jamais la terminaison deux fois : *cɛiyo kon* est fautif ; on écrit {{cɛi kon}}.
 
 ### Classes *lan*, *len* et *an* : radical + pronom de classe
 
-Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les classes ***lan***, ***len*** et ***an***, la Bible écrit devant le déterminant le radical **suivi du pronom de classe** sans sa nasale finale : *-la*, *-le*, *-ma*. Après une nasale, *-le* devient *-nde* ; après *l*, *-lle*. Keita (p. 122) ne le signale que pour la classe *an* ; Childs [[Childs1995]] (p. 150) décrit la même construction en kissi du Sud (« nom + pronom de classe + adjectif »).
+Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les classes ***lan***, ***len*** et ***an***, la Bible [[(BKG)]] écrit devant le déterminant le radical **suivi du pronom de classe** sans sa nasale finale : *-la*, *-le*, *-ma*. Après une nasale, *-le* devient *-nde* ; après *l*, *-lle*. Le manuel de 1979 ne le signale que pour la classe *an* [[(Keita1979, p. 122)]] ; la même construction est décrite en kissi du Sud (« nom + pronom de classe + adjectif ») [[(Childs1995, p. 150)]].
 
 | Forme pleine | Forme radicale | Exemple (Bible) |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les
 
 ## Les classes
 
-Keita (p. 22-25) distingue huit terminaisons, regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*).
+On distingue huit terminaisons [[(Keita1979, p. 22-25)]], regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*).
 
 | Classe | Terminaisons du singulier | Contenu typique | Exemples (Bible) |
 | --- | --- | --- | --- |
@@ -67,16 +67,16 @@ Keita (p. 22-25) distingue huit terminaisons, regroupées ici en classes d'aprè
 
 Le pluriel est traité à la page [Pluriel](plural.md).
 
-!!! note "Comparaison : Childs 1995"
-    Pour le kissi du Sud, Childs [[Childs1995]] (p. 148-149) nomme les classes d'après leur pronom : *o*, *a*, *i*, *ŋ*, *le*, *la*, *ma*. Les paires singulier/pluriel les plus fréquentes sont *o/la* (choses), *o/a* (personnes, animaux) et *i/ŋ* ; viennent ensuite *le/i*, *le/la*, *le/ma* et *o/i*. Le pluriel en *-on* de Keita ({{pelon}}, {{sɔɔn}}) correspond à la classe *ŋ* de Childs. Le même système se retrouve en kisiei de Guinée, avec d'autres formes de détail.
+!!! note "Comparaison : kissi du Sud"
+    Pour le kissi du Sud, les classes sont nommées d'après leur pronom [[(Childs1995, p. 148-149)]] : *o*, *a*, *i*, *ŋ*, *le*, *la*, *ma*. Les paires singulier/pluriel les plus fréquentes sont *o/la* (choses), *o/a* (personnes, animaux) et *i/ŋ* ; viennent ensuite *le/i*, *le/la*, *le/ma* et *o/i*. Le pluriel en *-on* de la description de 1979 ({{pelon}}, {{sɔɔn}}) correspond à la classe *ŋ* de cette analyse. Le même système se retrouve en kisiei de Guinée, avec d'autres formes de détail.
 
 ## Ce que montre la Bible
 
-La Bible confirme les grandes lignes du système de Keita : forme pleine et forme radicale, terminaisons de classe et reprise de la classe sur les déterminants. Elle apporte deux précisions :
+La Bible confirme les grandes lignes du système décrit en 1979 : forme pleine et forme radicale, terminaisons de classe et reprise de la classe sur les déterminants. Elle apporte deux précisions :
 
 1. Les terminaisons en *-nd-* gardent la nasale finale du radical, qu'elle soit *n* ou *ŋ* : {{mɛnndan}} (radical *mɛn-*), mais {{lɛŋnden}} (radical {{lɛŋ}}). Voir [Consonnes](../../orthography/consonants.md#n-et-ŋ).
 2. Quand un groupe nominal se termine par une relative ou un complément, la classe du nom est **reprise à la fin du groupe** par un référent attaché par trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Accord](../agreement.md).
 
 ## Masculin et féminin
 
-Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » (Keita, p. 28) à la forme radicale : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].
+Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » à la forme radicale [[(Keita1979, p. 28)]] : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].

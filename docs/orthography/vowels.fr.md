@@ -19,7 +19,7 @@ Le kisiei a sept voyelles. Deux d'entre elles s'écrivent avec des lettres qui n
 
 ## Voyelles longues
 
-Une voyelle **longue** se prononce plus longtemps qu'une voyelle brève ; elle s'écrit en **doublant** la lettre : *aa, ee, ɛɛ, ii, oo, ɔɔ, uu*. La longueur change le sens du mot ; Keita [[Keita1979]] (p. 12) signale que c'est la source d'erreurs la plus fréquente chez les apprenants.
+Une voyelle **longue** se prononce plus longtemps qu'une voyelle brève ; elle s'écrit en **doublant** la lettre : *aa, ee, ɛɛ, ii, oo, ɔɔ, uu*. La longueur change le sens du mot ; c'est la source d'erreurs la plus fréquente chez les apprenants [[(Keita1979, p. 12)]].
 
 | Brève | Sens | Longue | Sens |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Deux voyelles différentes peuvent se suivre ; on les écrit telles qu'on les en
 - *ua, uɛ, ui* : {{cuaa}}, {{ŋuɛɛnu}}, {{kuí}} ;
 - *ɛi, ei, oi* : {{cɛiyo}}, {{pelei}}, {{hoeiye}}.
 
-Keita décrit ces suites comme des diphtongues et des triphtongues (p. 11). La Bible les écrit toujours avec les lettres ordinaires.
+Ces suites sont décrites en 1979 comme des diphtongues et des triphtongues [[(Keita1979, p. 11)]]. La Bible [[(BKG)]] les écrit toujours avec les lettres ordinaires.
 
 ## Voyelles nasales
 
@@ -61,4 +61,4 @@ Quand une voyelle est suivie de **n** en fin de syllabe, elle se prononce nasali
 !!! note "Note"
     À la fin d'un radical, le son nasal peut être [n] ou [ŋ], et la Bible les distingue : {{nan}} « tirer » ({{má nan Yosɛf}} « ils tirèrent Joseph » [[GEN.37.28]]) n'est pas {{naŋ}} « bon ». Voir [Consonnes](consonants.md#n-et-ŋ).
 
-Keita précise que *am, om, im…* ne sont pas des voyelles nasales, mais une voyelle suivie de la consonne *m* (p. 13) : {{yɔmndo}} se coupe *yɔm-ndo*.
+Les suites *am, om, im…* ne sont pas des voyelles nasales, mais une voyelle suivie de la consonne *m* [[(Keita1979, p. 13)]] : {{yɔmndo}} se coupe *yɔm-ndo*.

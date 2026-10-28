@@ -1,15 +1,15 @@
 # Parlers régionaux
 
-Keita [[Keita1979]] (p. 8-10) distingue deux grands ensembles de parlers en Guinée. Les locuteurs se comprennent sans difficulté : la grammaire est la même, et les différences portent surtout sur la prononciation de quelques sons et sur une partie du vocabulaire.
+On distingue en Guinée deux grands ensembles de parlers [[(Keita1979, p. 8-10)]]. Les locuteurs se comprennent sans difficulté : la grammaire est la même, et les différences portent surtout sur la prononciation de quelques sons et sur une partie du vocabulaire.
 
 ## Kpekeduei et kisiduei
 
-| Ensemble | Région | Particularités relevées par Keita |
+| Ensemble | Région | Particularités |
 | --- | --- | --- |
-| **Kpekeduei** (parler de Guéckédou) | préfecture de Guéckédou ; sud de Kissidougou (Kondiadou) | Pas de son *r* : on dit *l*. Emprunts au loma, au mende et au krio selon les zones. Keita distingue trois sous-parlers : *Kisii malowwe* (ouest), *Luannde* (est) et *Sayaninnde* (centre). |
+| **Kpekeduei** (parler de Guéckédou) | préfecture de Guéckédou ; sud de Kissidougou (Kondiadou) | Pas de son *r* : on dit *l*. Emprunts au loma, au mende et au krio selon les zones. On y distingue trois sous-parlers : *Kisii malowwe* (ouest), *Luannde* (est) et *Sayaninnde* (centre). |
 | **Kisiduei** (parler de Kissidougou) | Kissidougou, Faranah | Le son *r* existe là où le kpekeduei a *l* ; emprunts au maninka. |
 
-Quelques correspondances données par Keita (formes réécrites) :
+Quelques correspondances (formes réécrites) [[(Keita1979, p. 8-10)]] :
 
 | Sens | Kpekeduei | Kisiduei |
 | --- | --- | --- |
@@ -26,8 +26,8 @@ Les annotations manuscrites de l'exemplaire numérisé [[Notes1979]] ajoutent d'
 
 ## Mots dont le sens change d'un parler à l'autre
 
-Keita signale que certains mots courants dans un parler sont évités ou ont un autre sens dans l'autre ; par exemple {{kundei|r}} « motte de terre » à Kissidougou, mais un sens intime à Guéckédou. En cas de doute, on choisit le terme employé dans la Bible.
+Certains mots courants dans un parler sont évités ou ont un autre sens dans l'autre [[(Keita1979, p. 8-10)]] ; par exemple {{kundei|r}} « motte de terre » à Kissidougou, mais un sens intime à Guéckédou. En cas de doute, on choisit le terme employé dans la Bible.
 
 ## Hors de Guinée
 
-Keita ne décrit pas les parlers de Sierra Leone et du Libéria ; ce guide ne les traite pas non plus. Les locuteurs de ces régions sont invités à signaler les différences (voir [Questions ouvertes](../reference/open-questions.md)).
+Le manuel de 1979 ne décrit pas les parlers de Sierra Leone et du Libéria ; ce guide ne les traite pas non plus. Les locuteurs de ces régions sont invités à signaler les différences (voir [Questions ouvertes](../reference/open-questions.md)).

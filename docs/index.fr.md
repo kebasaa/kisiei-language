@@ -19,7 +19,7 @@ Ce guide s'adresse à celles et ceux qui **écrivent**, **corrigent** ou **ensei
 
 ## La norme : la Bible en kisiei
 
-L'orthographe de ce guide est celle de la **Bible en kisiei** (*Bii Bila*, BKG) [[BKG]]. C'est le texte publié le plus long et le plus récent dans l'orthographe actuelle ; quand une autre source écrit un mot autrement, c'est la forme de la Bible qui fait foi. La grammaire s'appuie sur le manuel de Sékou Sondo Keita [[Keita1979]], relu à la lumière de l'usage de la Bible : chaque règle de 1979 a été vérifiée dans le texte biblique, et les exemples en sont tirés autant que possible.
+L'orthographe de ce guide est celle de la **Bible en kisiei** (*Bii Bila*) [[(BKG)]]. C'est le texte publié le plus long et le plus récent dans l'orthographe actuelle ; quand une autre source écrit un mot autrement, c'est la forme de la Bible qui fait foi. La grammaire s'appuie sur le manuel de Sékou Sondo Keita ([[Keita1979|1979]]), relu à la lumière de l'usage de la Bible : chaque règle de 1979 a été vérifiée dans le texte biblique, et les exemples en sont tirés autant que possible.
 
 ## Lire les exemples
 
@@ -28,7 +28,7 @@ Les mots kisiei sont en italique et soulignés. La couleur du soulignement indiq
 | Marque | Signification |
 | --- | --- |
 | {{pɔmbɔɔ}} <span class="ks-badge ks-att">Attesté</span> | La forme se trouve telle quelle dans la Bible (aux tons près). |
-| {{cɛi lakoli\|r}} <span class="ks-badge ks-res">Réécrit</span> | Forme de Keita (1979) réécrite selon les règles actuelles, mais absente de la Bible. À confirmer par un locuteur. |
+| {{cɛi lakoli\|r}} <span class="ks-badge ks-res">Réécrit</span> | Forme du manuel de 1979 réécrite selon les règles actuelles, mais absente de la Bible. À confirmer par un locuteur. |
 | {{mbara kisi\|?}} <span class="ks-badge ks-chk">À vérifier</span> | Forme ou sens incertain (note manuscrite peu lisible, mot isolé…). |
 
 Voir [Comment lire ce guide](introduction/how-to-read.md) pour les autres conventions.

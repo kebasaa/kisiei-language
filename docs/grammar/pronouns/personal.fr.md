@@ -1,6 +1,6 @@
 # Pronoms personnels
 
-Le kisiei a deux séries principales de pronoms personnels : les pronoms **sujets**, courts, placés devant le verbe, et les pronoms **indépendants**, qui servent de compléments, de sujets mis en relief et de possessifs de personne (Keita [[Keita1979]], p. 85-87).
+Le kisiei a deux séries principales de pronoms personnels : les pronoms **sujets**, courts, placés devant le verbe, et les pronoms **indépendants**, qui servent de compléments, de sujets mis en relief et de possessifs de personne [[(Keita1979, p. 85-87)]].
 
 ## Tableau
 
@@ -15,8 +15,8 @@ Le kisiei a deux séries principales de pronoms personnels : les pronoms **sujet
 
 !!! rule "Règles d'écriture"
     - Les pronoms s'écrivent **séparés** du verbe : {{I tuei}}, {{N kɔɛ}}.
-    - Le mot d'insistance {{pila}} « même » s'écrit **séparé** : {{ya pila}}, {{nda pila}} (Keita écrivait *yapila*).
-    - La 2e personne du singulier s'écrit **{{nɔm}}** (Keita : *num*, corrigé à la main en *nöm*).
+    - Le mot d'insistance {{pila}} « même » s'écrit **séparé** : {{ya pila}}, {{nda pila}} (1979 : *yapila* [[(Keita1979, p. 85)]]).
+    - La 2e personne du singulier s'écrit **{{nɔm}}** (1979 : *num*, corrigé à la main en *nöm* [[(Keita1979, p. 85)]]).
 
 ## Pronoms de 3e personne selon la classe
 
@@ -49,11 +49,11 @@ Dans le récit, le pronom sujet se combine avec le marqueur **mi** (« et alors 
 
 Les formes à ton bas {{mò}}, {{mà}}, {{mì}} marquent le **subjonctif** (« pour qu'il… ») ; voir [Temps, aspects, modes](../verbs/tense-aspect-mood.md) et [Tons](../../orthography/tone.md).
 
-Le pronom indépendant se combine aussi avec la voyelle *oo* / *aa* du passé (Keita : *ndu oo*, *ya oo*). La Bible l'écrit en un seul mot, avec tons : {{ndóò}} « il, elle (avait) », {{ndáà}} « ils, elles (avaient) », {{yáà}} « je (avais) » : {{yɔmndo ndu pilɛ bɛɛ ndóò vil-lɔ o lɛŋnden coo le}} « aucun arbre n'avait encore poussé sur la terre » [[GEN.2.5]].
+Le pronom indépendant se combine aussi avec la voyelle *oo* / *aa* du passé (1979 : *ndu oo*, *ya oo* [[(Keita1979, p. 87)]]). La Bible [[(BKG)]] l'écrit en un seul mot, avec tons : {{ndóò}} « il, elle (avait) », {{ndáà}} « ils, elles (avaient) », {{yáà}} « je (avais) » : {{yɔmndo ndu pilɛ bɛɛ ndóò vil-lɔ o lɛŋnden coo le}} « aucun arbre n'avait encore poussé sur la terre » [[GEN.2.5]].
 
 ## Le pronom indépendant comme sujet
 
-Le pronom indépendant peut remplacer le pronom sujet pour **mettre en relief** la personne (Keita, p. 86) : *Ndu yɔngu ya ni* « C'est lui qui me l'a donné ». Dans la Bible : {{Nda yɔŋnun kuubaa}} « Ce sont eux qui devinrent des héros » [[GEN.6.4]].
+Le pronom indépendant peut remplacer le pronom sujet pour **mettre en relief** la personne [[(Keita1979, p. 86)]] : *Ndu yɔngu ya ni* « C'est lui qui me l'a donné ». Dans la Bible : {{Nda yɔŋnun kuubaa}} « Ce sont eux qui devinrent des héros » [[GEN.6.4]].
 
 !!! note "Comparaison"
-    Childs [[Childs1995]] et la notice Wikipédia sur le kissi du Nord donnent des pronoms très proches : sujets *i, a, o, n, la, aa* ; compléments *ya, nɔm, ndu, na(a), nia(a), ndaa*. La notice écrit *y* pour « je » devant voyelle et *aa* pour « ils » ; la Bible écrit {{i}} et {{a}}.
+    Des pronoms très proches figurent dans la grammaire du kissi [[(Childs1995)]] et dans la notice Wikipédia sur le kissi du Nord : sujets *i, a, o, n, la, aa* ; compléments *ya, nɔm, ndu, na(a), nia(a), ndaa*. La notice écrit *y* pour « je » devant voyelle et *aa* pour « ils » ; la Bible écrit {{i}} et {{a}}.

@@ -8,7 +8,7 @@ Le possessif se place **après** le nom, qui prend sa forme radicale : {{cɛi nd
 
 ## Possédé de la classe *o* : personnes et choses
 
-La Bible distingue nettement deux séries. Avec un nom de **personne** (parent, maître, serviteur), le possessif est court ; avec un nom de **chose**, il porte la terminaison de classe *-ndo* / *-ɔ* :
+La Bible [[(BKG)]] distingue nettement deux séries. Avec un nom de **personne** (parent, maître, serviteur), le possessif est court ; avec un nom de **chose**, il porte la terminaison de classe *-ndo* / *-ɔ* :
 
 | Possesseur | Personne possédée | Chose possédée |
 | --- | --- | --- |
@@ -45,20 +45,20 @@ Exemples :
 - personnes plur. : {{vanaa nia bɛndua}} « mes seigneurs » [[GEN.18.3]], {{poaa ndɔa}} « ses fils » [[GEN.7.7]], {{cuavaa naa}} « nos enfants » [[GEN.31.16]].
 
 !!! note "1re sing. pluriel et 2e plur."
-    La Bible distingue {{nia}} « mes » (personnes) et {{niaa}} « vos, votre » : {{vanaa nia}} « mes seigneurs », {{fuɲaa niaa}} « vos pères ». Keita écrit les deux *niaa*.
+    La Bible distingue {{nia}} « mes » (personnes) et {{niaa}} « vos, votre » : {{vanaa nia}} « mes seigneurs », {{fuɲaa niaa}} « vos pères ». L'orthographe de 1979 écrit les deux *niaa* [[(Keita1979, p. 61)]].
 
 ## Pronoms possessifs
 
-Pour dire « le mien, le tien… », on fait précéder le possessif du pronom de classe (Keita, p. 60-62) : *o nuu* « le mien » (classe *o*), *i nii* (classe *i*), *le nilen* (classe *len*), *la nilan* (classe *lan*), *ma nian* (classe *an*).
+Pour dire « le mien, le tien… », on fait précéder le possessif du pronom de classe [[(Keita1979, p. 60-62)]] : *o nuu* « le mien » (classe *o*), *i nii* (classe *i*), *le nilen* (classe *len*), *la nilan* (classe *lan*), *ma nian* (classe *an*).
 
 ## Autres façons d'exprimer la possession
 
-Keita (p. 62-63) décrit deux autres tournures :
+On relève deux autres tournures [[(Keita1979, p. 62-63)]] :
 
 1. avec le verbe *nɔw* « avoir » et la particule {{ni}} : *Tamba nɔ cɛiyo hoo ni* « Tamba a cette maison » ;
 2. avec le référent de classe et {{ni}} : *Naw Fatee vo ni* « C'est la vache de Fatee ».
 
 Dans la Bible, le possesseur nommé se place **après** le nom possédé, suivi du référent de classe : {{lɛŋnde Esipte len}} « le pays d'Égypte » [[GEN.13.10]], {{nakɔ Mɛlɛka-o}} « le jardin du Seigneur » [[GEN.13.10]].
 
-!!! keita "Keita 1979"
-    Keita écrit la 2e personne *num-* (*nummdo*, *nummde*) ; la Bible écrit **nɔm-** : {{nɔmndo}}, {{nɔmnde}}. Ses formes de 1re et 2e plur. pour les classes *len* et *lan* (*nialen*, *nialan*) sont dans la Bible {{niaalen}}, {{niaalan}}.
+!!! keita "Usage de 1979"
+    L'orthographe de 1979 écrit la 2e personne *num-* (*nummdo*, *nummde*) [[(Keita1979, p. 61)]] ; la Bible écrit **nɔm-** : {{nɔmndo}}, {{nɔmnde}}. Les formes de 1979 de 1re et 2e plur. pour les classes *len* et *lan* (*nialen*, *nialan*) sont dans la Bible {{niaalen}}, {{niaalan}}.

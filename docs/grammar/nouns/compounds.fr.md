@@ -1,10 +1,10 @@
 # Noms composés
 
-Le kisiei forme beaucoup de noms nouveaux en associant deux mots ou plus. Keita [[Keita1979]] (p. 31-33) en distingue huit types ; la Bible [[BKG]] en fait un usage considérable pour les notions nouvelles.
+Le kisiei forme beaucoup de noms nouveaux en associant deux mots ou plus. On en distingue huit types [[(Keita1979, p. 31-33)]] ; la Bible [[(BKG)]] en fait un usage considérable pour les notions nouvelles.
 
 ## Types de composés
 
-| Type | Exemple (Keita, réécrit) | Exemple (Bible) | Sens |
+| Type | Exemple de 1979 (réécrit) | Exemple (Bible) | Sens |
 | --- | --- | --- | --- |
 | nom + nom | {{mɔmɔtɔmndo\|r}} « fruit dont les singes raffolent » (riz + singe) | {{fuɲa-mamaa}} | ancêtre (père + grand-parent) |
 | nom + verbe | {{peekolaa\|r}} « puits » (eau + boire) | {{ɲɛdiaa}} | nourriture (chose + manger) |
@@ -43,4 +43,4 @@ Les composés anciens et très courants s'écrivent **en un seul mot** :
 
 ## Noms propres composés
 
-Keita (p. 33) signale des prénoms composés du prénom de rang et d'un événement lié à la naissance : *Tamba lɔɔ* « Tamba né le jour du marché », *Saa muuloo* « Saa né pendant la période des impôts ».
+On trouve aussi des prénoms composés du prénom de rang et d'un événement lié à la naissance [[(Keita1979, p. 32)]] : *Tamba lɔɔ* « Tamba né le jour du marché », *Saa muuloo* « Saa né pendant la période des impôts ».

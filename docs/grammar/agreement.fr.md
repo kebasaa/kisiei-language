@@ -2,7 +2,7 @@
 
 ## Le principe
 
-En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou le remplacent : pronoms sujets, démonstratifs, possessifs, adjectifs, relatifs. Keita [[Keita1979]] (p. 121-122) appelle ce système la **structure allitérative**, parce que la même terminaison revient comme un écho dans la phrase. Les petits mots qui portent cette reprise sont les **référents de classe**.
+En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou le remplacent : pronoms sujets, démonstratifs, possessifs, adjectifs, relatifs. Ce système est appelé **structure allitérative** [[(Keita1979, p. 121-122)]], parce que la même terminaison revient comme un écho dans la phrase. Les petits mots qui portent cette reprise sont les **référents de classe**.
 
 {{Lɛŋnden le va tulumasaa}} — « La terre (*le*) était informe » [[GEN.1.2]] : {{lɛŋnden}} est de classe *len*, et le pronom sujet qui le reprend est {{le}}.
 
@@ -12,7 +12,7 @@ En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou
 
 ## Tableau des référents
 
-Le tableau réunit les formes décrites par Keita (p. 57-60, 85-86, 121) et vérifiées dans la Bible [[BKG]].
+Le tableau réunit les formes décrites en 1979 [[(Keita1979, p. 57-60, 85-86, 121)]] et vérifiées dans la Bible [[(BKG)]].
 
 | Classe | Exemple | Sujet | Pronom complément | Démonstratif proche | Démonstratif éloigné | Possessif « son, sa » | Référent final |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Le tableau réunit les formes décrites par Keita (p. 57-60, 85-86, 121) et vér
 Remarques :
 
 - Le **sujet** est le pronom placé devant le verbe quand le nom n'est pas répété, ou juste après le nom pour le reprendre ({{Lɛŋnden le va}}).
-- Les démonstratifs des classes *an*, *len* et *lan* ont la même forme pour « ce…-ci » et « ce…-là » ; Keita précise que le **ton** les distingue (bas pour la proximité, haut pour l'éloignement).
+- Les démonstratifs des classes *an*, *len* et *lan* ont la même forme pour « ce…-ci » et « ce…-là » ; c'est le **ton** qui les distingue (bas pour la proximité, haut pour l'éloignement) [[(Keita1979, p. 58)]].
 - Le **possessif** de la 3e personne prend la terminaison de la classe du nom possédé, non du possesseur : {{kala ndɔ}} « sa mère », {{poaa ndɔa}} « ses fils », {{diola ndɔlan}} « son nom ». Voir [Possessifs](determiners/possessives.md).
 
 ## Exemples dans la Bible

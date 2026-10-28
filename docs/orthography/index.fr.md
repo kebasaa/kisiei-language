@@ -1,6 +1,6 @@
 # Orthographe
 
-Ce chapitre décrit l'orthographe actuelle du kisiei telle qu'elle est pratiquée dans la Bible [[BKG]]. Les règles sont tirées de l'usage observé dans ce texte (plus de 300 000 mots) et comparées à la description des sons faite par Keita [[Keita1979]].
+Ce chapitre décrit l'orthographe actuelle du kisiei telle qu'elle est pratiquée dans la Bible [[(BKG)]]. Les règles sont tirées de l'usage observé dans ce texte (plus de 300 000 mots) et comparées à la description des sons de 1979 [[(Keita1979, p. 11-19)]].
 
 ## L'essentiel en dix règles
 

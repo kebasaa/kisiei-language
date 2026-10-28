@@ -1,6 +1,6 @@
 # Pluriel
 
-Le pluriel se forme en **remplaçant la terminaison du singulier** par une terminaison de pluriel. Quelle terminaison ? Cela dépend de la classe du nom et, pour la classe *o / a / ɔ*, de ce que le nom désigne (Keita [[Keita1979]], p. 26-29). Toutes les paires ci-dessous sont attestées dans la Bible [[BKG]].
+Le pluriel se forme en **remplaçant la terminaison du singulier** par une terminaison de pluriel. Quelle terminaison ? Cela dépend de la classe du nom et, pour la classe *o / a / ɔ*, de ce que le nom désigne [[(Keita1979, p. 26-29)]]. Toutes les paires ci-dessous sont attestées dans la Bible [[(BKG)]].
 
 ## Règles
 
@@ -34,7 +34,7 @@ Les noms de choses en *-o*, *-ɔ* ou *-a* font leur pluriel en **-lan** (*-tan* 
 
 ### Classe i : -on, -ɔn, -an
 
-Les noms en *-ei* font leur pluriel en **-on** ; ceux en *-ɛi*, en **-ɔn** (Keita, p. 27-28) :
+Les noms en *-ei* font leur pluriel en **-on** ; ceux en *-ɛi*, en **-ɔn** [[(Keita1979, p. 27-28)]] :
 
 | Singulier | Pluriel | Sens |
 | --- | --- | --- |
@@ -57,9 +57,11 @@ Les noms en *-ei* font leur pluriel en **-on** ; ceux en *-ɛi*, en **-ɔn** (Ke
 | --- | --- | --- |
 | {{nilen}} | {{nilan}} | oreille(s) |
 | {{bollen}} | {{bóltan}} | tête(s) |
-| *pelten* (Keita) | {{peltan}} | œuf(s) |
+| *pelten* [[(Keita1979, p. 28)]] | {{peltan}} | œuf(s) |
 
-### Exceptions relevées par Keita
+### Exceptions
+
+Les exceptions suivantes figurent dans la description de 1979 [[(Keita1979, p. 27)]] :
 
 - *-o* → *-e* : *kollo / kolle* « noix de cola », *hollo / holle* « champignon ».
 - *-o* → *-on* : {{cieo}} / {{cieon}} « village(s) », *kilio / kilion*.
@@ -76,4 +78,4 @@ Les noms en *-ei* font leur pluriel en **-on** ; ceux en *-ɛi*, en **-ɔn** (Ke
 Le pluriel change aussi les mots qui s'accordent avec le nom. Les personnes au pluriel sont reprises par {{nda}} « eux », les choses en *-lan* par {{lan}}, etc. : {{poaa ndɔa}} « ses fils », {{diola ndɔlan}} « son nom ». Voir [Accord](../agreement.md).
 
 !!! note "Note"
-    Pour un nom absent de la Bible, on suit ces règles, mais la forme du pluriel doit être confirmée par un locuteur : plusieurs noms ont des pluriels irréguliers (Keita en signale une douzaine).
+    Pour un nom absent de la Bible, on suit ces règles, mais la forme du pluriel doit être confirmée par un locuteur : plusieurs noms ont des pluriels irréguliers (on en relève une douzaine dans la description de 1979 [[(Keita1979, p. 26-29)]]).
