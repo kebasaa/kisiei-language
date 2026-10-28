@@ -178,7 +178,7 @@ def export_lift(entries, domains, words):
 TEXT = {
     "fr": {"south": "kissi du Sud (Childs 2000, en anglais)", "title": "Listes de mots", "kis": "Kisiei", "pos": "Catégorie", "gloss": "Français",
            "src": "Source", "intro": (
-               "Ces listes sont produites automatiquement à partir du [lexique](https://github.com/kebasaa/Kisie/tree/main/lexicon) "
+               "Ces listes sont produites automatiquement à partir du [lexique](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) "
                "du projet ({n} entrées). Les mots sont classés par **domaines sémantiques** selon la classification "
                "[SIL Semantic Domains](https://semdom.org/v4/) ; un mot peut figurer dans plusieurs domaines. "
                "Les mots attestés renvoient à leur première occurrence dans la Bible en kisiei ; les mots "
@@ -186,7 +186,7 @@ TEXT = {
                "confirmés. Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
     "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
            "src": "Source", "intro": (
-               "These lists are generated automatically from the project's [lexicon](https://github.com/kebasaa/Kisie/tree/main/lexicon) "
+               "These lists are generated automatically from the project's [lexicon](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) "
                "({n} entries). Words are grouped by **semantic domain** following the "
                "[SIL Semantic Domains](https://semdom.org/v4/) classification; a word may appear in several domains. "
                "Attested words link to their first occurrence in the Kisiei Bible; "

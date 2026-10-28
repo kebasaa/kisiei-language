@@ -1,6 +1,6 @@
 # Outils
 
-Les règles de ce guide sont dégagées des textes de la Bible en kisiei [[(BKG)]] à l'aide de quelques outils, disponibles dans le dossier [`tools/`](https://github.com/kebasaa/Kisie/tree/main/tools) du dépôt. Ils s'exécutent avec [uv](https://docs.astral.sh/uv/).
+Les règles de ce guide sont dégagées des textes de la Bible en kisiei [[(BKG)]] à l'aide de quelques outils, disponibles dans le dossier [`tools/`](https://github.com/kebasaa/kisiei-language/tree/main/tools) du dépôt. Ils s'exécutent avec [uv](https://docs.astral.sh/uv/).
 
 ## Le texte de la Bible
 
@@ -12,7 +12,7 @@ uv run tools/fetch_bible.py --delay 1.0
 
 ## La liste des formes de mots
 
-`tools/build_wordlist.py` produit [`references/bible-bkg-wordforms.tsv`](https://github.com/kebasaa/Kisie/blob/main/references/bible-bkg-wordforms.tsv) : chaque forme de mot de la Bible (sans tenir compte des tons ni des majuscules), son nombre d'occurrences, ses graphies avec accents de ton et une première référence. La Bible complète (1 188 chapitres) compte environ 939 000 mots et près de 22 000 formes différentes.
+`tools/build_wordlist.py` produit [`references/bible-bkg-wordforms.tsv`](https://github.com/kebasaa/kisiei-language/blob/main/references/bible-bkg-wordforms.tsv) : chaque forme de mot de la Bible (sans tenir compte des tons ni des majuscules), son nombre d'occurrences, ses graphies avec accents de ton et une première référence. La Bible complète (1 188 chapitres) compte environ 939 000 mots et près de 22 000 formes différentes.
 
 ## La concordance
 

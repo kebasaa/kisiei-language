@@ -2,6 +2,8 @@
 
 A grammar and orthography guide-book for **Kisiei** (Northern Kissi, also written *Kisie* or *Kissi*; ISO 639-3 `kqs`), published as a bilingual French/English website, together with the source material it is based on.
 
+**Read the guide-book:** <https://kebasaa.github.io/kisiei-language/> (français) · <https://kebasaa.github.io/kisiei-language/en/> (English)
+
 Kisiei belongs to the Mel branch of the Atlantic–Congo languages. It is spoken mainly in the Guéckédou and Kissidougou region of south-eastern Guinea, and also in neighbouring parts of Sierra Leone and Liberia.
 
 ## The guide-book
@@ -34,7 +36,7 @@ uv run --with-requirements requirements-docs.txt mkdocs serve
 uv run --with-requirements requirements-docs.txt mkdocs build --strict
 ```
 
-The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions builds the site and publishes it to GitHub Pages (enable Pages with source "GitHub Actions" in the repository settings).
+The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions builds the site and publishes it to GitHub Pages at <https://kebasaa.github.io/kisiei-language/>. Pages must use the source "GitHub Actions" (repository **Settings → Pages → Build and deployment**); the address is also shown there and in the summary of each "Deploy guide-book" run under the **Actions** tab.
 
 ### Bible tools
 

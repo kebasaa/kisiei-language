@@ -1,6 +1,6 @@
 # Tools
 
-The rules of this guide are drawn from the texts of the Kisiei Bible [[(BKG)]] with the help of a few tools, available in the [`tools/`](https://github.com/kebasaa/Kisie/tree/main/tools) folder of the repository. They are run with [uv](https://docs.astral.sh/uv/).
+The rules of this guide are drawn from the texts of the Kisiei Bible [[(BKG)]] with the help of a few tools, available in the [`tools/`](https://github.com/kebasaa/kisiei-language/tree/main/tools) folder of the repository. They are run with [uv](https://docs.astral.sh/uv/).
 
 ## The Bible text
 
@@ -12,7 +12,7 @@ uv run tools/fetch_bible.py --delay 1.0
 
 ## The list of word forms
 
-`tools/build_wordlist.py` produces [`references/bible-bkg-wordforms.tsv`](https://github.com/kebasaa/Kisie/blob/main/references/bible-bkg-wordforms.tsv): each word form of the Bible (ignoring tones and capitals), its number of occurrences, its spellings with tone accents and a first reference. The complete Bible (1,188 chapters) contains about 939,000 words and nearly 22,000 different forms.
+`tools/build_wordlist.py` produces [`references/bible-bkg-wordforms.tsv`](https://github.com/kebasaa/kisiei-language/blob/main/references/bible-bkg-wordforms.tsv): each word form of the Bible (ignoring tones and capitals), its number of occurrences, its spellings with tone accents and a first reference. The complete Bible (1,188 chapters) contains about 939,000 words and nearly 22,000 different forms.
 
 ## The concordance
 

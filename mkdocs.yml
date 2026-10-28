@@ -1,7 +1,7 @@
 site_name: Kisiei — orthographe et grammaire
 site_description: Guide de référence de l'orthographe et de la grammaire du kisiei (kissi du Nord)
-site_url: https://kebasaa.github.io/Kisie/
-repo_url: https://github.com/kebasaa/Kisie
+site_url: https://kebasaa.github.io/kisiei-language/
+repo_url: https://github.com/kebasaa/kisiei-language
 docs_dir: docs
 strict: true
 
