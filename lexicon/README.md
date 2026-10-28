@@ -1,0 +1,52 @@
+# Kisiei lexicon
+
+A structured, machine- and human-readable lexicon of Kisiei, classified by **semantic domains**.
+
+## Method
+
+- **Classification:** words are grouped by the [SIL Semantic Domains](https://semdom.org/v4/) (DDP version 4, Ronald Moe). This classification is used by FieldWorks (FLEx), the Rapid Word Collection method and many dictionary projects. The codes and their French and English labels are in [`domains.yaml`](domains.yaml). A word can belong to several domains.
+- **Sources, in order of authority:**
+  1. **The Kisiei Bible (BKG)** gives the spelling standard and most of the vocabulary. Meanings are worked out from the verse contexts.
+  2. **Keita (1979)**, the thematic lexicon and verb list of *Kisiei fondamental* (see `archive/`), gives French glosses. Its words are respelled to the current orthography.
+  3. **Childs (2000)**, *A Dictionary of the Kisi Language*, describes Southern Kissi. It is used to check words that are not in the Bible (existence, spelling, meaning) and to suggest further senses. It is never copied wholesale; only the page reference and the point checked are recorded.
+- **Status of each entry:**
+  - `attested`: the lemma (and any plural or variant given) is in the Bible word list, ignoring tone. This is checked at build time.
+  - `respelled`: taken from Keita 1979 and converted to the current orthography, but not found in the Bible.
+  - `check`: the form or meaning is uncertain and needs a speaker's confirmation.
+
+## Files
+
+| Path | Content |
+| --- | --- |
+| `entries/*.yaml` | The source data: one file per theme or source, each a list of entries. **Edit these.** |
+| `domains.yaml` | The semantic domains used. |
+| `kisiei.csv` | Generated: one row per entry. |
+| `kisiei.lift` | Generated: [LIFT](https://github.com/sillsdev/lift-standard) 0.13 XML, importable into FieldWorks and other lexicon tools. |
+| `../docs/reference/word-lists.*.md` | Generated: the word-list pages of the guide-book. |
+
+Run `uv run tools/build_lexicon.py` after editing to validate the entries and regenerate the outputs. `uv run tools/build_lexicon.py --check` only validates; `--only lexicon/entries/FILE.yaml` validates a single file.
+
+## Entry format
+
+```yaml
+- lemma: bollen              # citation form, current (Bible) spelling
+  status: attested           # attested | respelled | check
+  pos: noun                  # noun verb adj adv pron num det prep postp conj part interj ideo name
+  class: len                 # noun class (nouns): o, i, an, len, lan; plural classes a, on
+  plural: bóltan             # plural form, if known
+  forms: [bolle]             # other forms: radical form, verb stems, variants
+  gloss: {fr: "tête", en: "head"}
+  domains: ["2.1.1"]         # SIL semantic domain codes (quoted strings)
+  keita: {form: "Bollen (ten)", page: 131}   # form as printed in Keita 1979, typescript page
+  childs: {page: 30, form: "bòlléŋ"}        # Childs 2000 page and headword, read from the page image
+  example: GEN.3.15          # a verse showing the word (USFM reference)
+  note: "free text, in French"
+```
+
+- **Verbs:** the lemma is the long form (*tosaa*, *dioo*). The short stems go in `forms`.
+- **Glosses:** short and comma-separated. Use the meaning seen in the Bible; add Keita's or Childs's other senses after a semicolon.
+- **Bible counts and references:** do not add them by hand. The build script takes them from `references/bible-bkg-wordforms.tsv`.
+
+## License
+
+The lexicon data are licensed under CC BY-NC 4.0, like the rest of the repository. `domains.yaml` contains the SIL Semantic Domains codes and English names, © SIL Global, CC BY-SA 4.0.

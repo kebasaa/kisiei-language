@@ -26,6 +26,8 @@ jobs:
       - run: pip install -r requirements-docs.txt
       - name: Check translations
         run: python tools/check_i18n.py
+      - name: Check lexicon
+        run: python tools/build_lexicon.py --check
       - name: Build (strict)
         run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3

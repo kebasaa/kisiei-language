@@ -1,0 +1,141 @@
+# Function words, numerals and other grammatical words, as described in the guide-book's grammar chapter.
+# All forms follow the Kisiei Bible (BKG).
+
+# Personal pronouns
+- {lemma: i, status: attested, pos: pron, gloss: {fr: "je (sujet)", en: "I (subject)"}, domains: ["9.2.3"]}
+- {lemma: a, status: attested, pos: pron, gloss: {fr: "tu ; ils, elles (sujet)", en: "you (sg.); they (subject)"}, domains: ["9.2.3"]}
+- {lemma: o, status: attested, pos: pron, gloss: {fr: "il, elle (sujet, classe o)", en: "he, she, it (subject, o class)"}, domains: ["9.2.3"]}
+- {lemma: n, status: attested, pos: pron, gloss: {fr: "nous (sujet) ; tu (relative, question)", en: "we (subject); you (sg., in relatives and questions)"}, domains: ["9.2.3"]}
+- {lemma: la, status: attested, pos: pron, gloss: {fr: "vous (sujet) ; pronom de la classe lan", en: "you (pl., subject); lan-class pronoun"}, domains: ["9.2.3"]}
+- {lemma: ya, status: attested, pos: pron, gloss: {fr: "moi, me", en: "me, I (independent)"}, domains: ["9.2.3"]}
+- {lemma: nɔm, status: attested, pos: pron, gloss: {fr: "toi, te", en: "you (sg., independent)"}, domains: ["9.2.3"]}
+- {lemma: ndu, status: attested, pos: pron, gloss: {fr: "lui, elle, le, la", en: "him, her (independent)"}, domains: ["9.2.3"]}
+- {lemma: naa, status: attested, pos: pron, gloss: {fr: "nous (indépendant) ; notre", en: "us (independent); our"}, domains: ["9.2.3"]}
+- {lemma: niaa, status: attested, pos: pron, gloss: {fr: "vous (indépendant) ; votre", en: "you (pl., independent); your (pl.)"}, domains: ["9.2.3"]}
+- {lemma: nda, status: attested, pos: pron, gloss: {fr: "eux, elles, les", en: "them (independent)"}, domains: ["9.2.3"]}
+- {lemma: ndi, status: attested, pos: pron, gloss: {fr: "le, la (classe i)", en: "it (i class, object)"}, domains: ["9.2.3"]}
+- {lemma: pila, status: attested, pos: part, gloss: {fr: "même (lui-même)", en: "self, -self"}, domains: ["9.2.3"]}
+- {lemma: ndóò, status: attested, pos: pron, gloss: {fr: "il, elle (passé révolu)", en: "he, she (remote past)"}, domains: ["9.2.3", "9.4.1"]}
+- {lemma: ndáà, status: attested, pos: pron, gloss: {fr: "ils, elles (passé révolu)", en: "they (remote past)"}, domains: ["9.2.3", "9.4.1"]}
+
+# Possessives (3rd person singular series)
+- {lemma: ndɔɔ, status: attested, pos: det, gloss: {fr: "son, sa (classe o, chose)", en: "his, her (o class, thing)"}, domains: ["9.2.3"]}
+- {lemma: ndɔ, status: attested, pos: det, gloss: {fr: "son, sa (personne)", en: "his, her (person)"}, domains: ["9.2.3"]}
+- {lemma: nuu, status: attested, pos: det, gloss: {fr: "mon, ma", en: "my"}, domains: ["9.2.3"]}
+- {lemma: nɔmndo, status: attested, pos: det, gloss: {fr: "ton, ta (classe o, chose)", en: "your (sg., o class, thing)"}, domains: ["9.2.3"]}
+- {lemma: ndaa, status: attested, pos: det, gloss: {fr: "leur", en: "their"}, domains: ["9.2.3"]}
+
+# Demonstratives
+- {lemma: ho, status: attested, pos: det, gloss: {fr: "ce…-ci (classe o)", en: "this (o class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: hoo, status: attested, pos: pron, gloss: {fr: "celui-ci, ceci", en: "this one"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: kon, status: attested, pos: det, gloss: {fr: "ce…-là (classe o)", en: "that (o class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: he, status: attested, pos: det, gloss: {fr: "ce…-ci (classe i)", en: "this (i class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: ken, status: attested, pos: det, gloss: {fr: "ce…-là (classe i)", en: "that (i class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: ha, status: attested, pos: det, gloss: {fr: "ces…-ci (personnes)", en: "these (persons)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: kan, status: attested, pos: det, gloss: {fr: "ces…-là (personnes)", en: "those (persons)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: man, status: attested, pos: det, gloss: {fr: "ce, ces (classe an)", en: "this, that (an class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: len, status: attested, pos: det, gloss: {fr: "ce, cette (classe len)", en: "this, that (len class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: lan, status: attested, pos: det, gloss: {fr: "ces (classe lan)", en: "these, those (lan class)"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: mun, status: attested, pos: det, gloss: {fr: "ces (pluriel en -on)", en: "these, those (-on plural)"}, domains: ["9.2.3", "8.5.1"]}
+
+# Question words
+- {lemma: nɛ̀ɛ́, status: attested, pos: pron, gloss: {fr: "qui ?", en: "who?"}, domains: ["9.2.3"]}
+- {lemma: yɛɛ, status: attested, pos: pron, gloss: {fr: "quoi ? quel ?", en: "what? which?"}, domains: ["9.2.3"]}
+- {lemma: kuɛɛ, status: attested, pos: adv, gloss: {fr: "où ? quel ?", en: "where? which?"}, domains: ["9.2.3", "8.5.1"]}
+- {lemma: vɛ̀ɛ̀, status: attested, pos: part, gloss: {fr: "est-ce que ? comment ?", en: "yes/no question marker; how?"}, domains: ["9.2.6"]}
+- {lemma: yɛ, status: attested, pos: part, gloss: {fr: "particule de fin de question", en: "question-final particle"}, domains: ["9.2.6"]}
+
+# Indefinites and quantifiers
+- {lemma: pum, status: attested, pos: det, gloss: {fr: "un certain, un", en: "a certain, some"}, domains: ["8.1"]}
+- {lemma: celen, status: attested, pos: det, gloss: {fr: "autre", en: "other, another"}, domains: ["8.3.5"]}
+- {lemma: tɔ̀a, status: attested, pos: det, gloss: {fr: "les autres", en: "the others"}, domains: ["8.1"]}
+- {lemma: kpow, status: attested, pos: det, gloss: {fr: "tout, tout entier", en: "all, whole"}, domains: ["8.1.5"]}
+- {lemma: kpede, status: attested, pos: det, gloss: {fr: "tous, sans exception", en: "all, every one"}, domains: ["8.1.5"]}
+- {lemma: faw, status: attested, pos: adv, gloss: {fr: "tous, entièrement", en: "all, completely"}, domains: ["8.1.5"]}
+- {lemma: vana-vana, status: attested, pos: pron, gloss: {fr: "quelqu'un ; (nég.) personne", en: "anyone; (neg.) no one"}, domains: ["9.2.3"]}
+- {lemma: ɲɛ-ɲɛ, status: attested, pos: pron, gloss: {fr: "quelque chose ; (nég.) rien", en: "anything; (neg.) nothing"}, domains: ["9.2.3", "9.1.3"]}
+
+# Numerals
+- {lemma: pilɛ, status: attested, pos: num, gloss: {fr: "un", en: "one"}, domains: ["8.1.1"]}
+- {lemma: tiɔn, status: attested, pos: num, forms: [ŋiɔn, ŋiin, miɔn], gloss: {fr: "deux", en: "two"}, domains: ["8.1.1"], note: "La forme varie selon la classe du nom compté."}
+- {lemma: yaa, status: attested, pos: num, gloss: {fr: "trois", en: "three"}, domains: ["8.1.1"]}
+- {lemma: hiɔɔlu, status: attested, pos: num, gloss: {fr: "quatre", en: "four"}, domains: ["8.1.1"]}
+- {lemma: ŋuɛɛnu, status: attested, pos: num, gloss: {fr: "cinq", en: "five"}, domains: ["8.1.1"]}
+- {lemma: ŋɔmpum, status: attested, pos: num, gloss: {fr: "six", en: "six"}, domains: ["8.1.1"]}
+- {lemma: ŋɔmmɛw, status: attested, pos: num, gloss: {fr: "sept", en: "seven"}, domains: ["8.1.1"]}
+- {lemma: ŋɔmaa, status: attested, pos: num, gloss: {fr: "huit", en: "eight"}, domains: ["8.1.1"]}
+- {lemma: ŋɔmahiɔɔlu, status: attested, pos: num, gloss: {fr: "neuf", en: "nine"}, domains: ["8.1.1"]}
+- {lemma: tɔ́, status: attested, pos: num, gloss: {fr: "dix", en: "ten"}, domains: ["8.1.1"]}
+- {lemma: bidiin, status: attested, pos: num, gloss: {fr: "vingt", en: "twenty"}, domains: ["8.1.1"]}
+- {lemma: beleyaa, status: attested, pos: num, gloss: {fr: "trente", en: "thirty"}, domains: ["8.1.1"]}
+- {lemma: kɛmɛ, status: attested, pos: num, gloss: {fr: "cent", en: "hundred"}, domains: ["8.1.1"]}
+- {lemma: vaa, status: attested, pos: num, plural: valan, gloss: {fr: "mille", en: "thousand"}, domains: ["8.1.1"]}
+- {lemma: tasoo, status: attested, pos: num, gloss: {fr: "premier", en: "first"}, domains: ["8.1.1"]}
+- {lemma: diinndɔɔ, status: attested, pos: num, gloss: {fr: "deuxième", en: "second"}, domains: ["8.1.1"]}
+
+# Prepositions, postpositions
+- {lemma: a, status: attested, pos: prep, gloss: {fr: "avec ; et", en: "with; and"}, domains: ["9.2.4", "9.2.5"]}
+- {lemma: o, status: attested, pos: prep, gloss: {fr: "à, dans, sur (lieu, temps)", en: "at, in, on (place, time)"}, domains: ["9.2.4"]}
+- {lemma: le, status: attested, pos: prep, gloss: {fr: "pour, à cause de", en: "for, because of"}, domains: ["9.2.4"]}
+- {lemma: nin, status: attested, pos: postp, gloss: {fr: "dans (o … nin)", en: "in, inside (o … nin)"}, domains: ["9.2.4", "8.6.4"]}
+- {lemma: coo, status: attested, pos: postp, gloss: {fr: "sur (o … coo)", en: "on (o … coo)"}, domains: ["9.2.4", "8.6.2"]}
+- {lemma: lo, status: attested, pos: postp, gloss: {fr: "chez, auprès de (o … lo)", en: "at (someone's place) (o … lo)"}, domains: ["9.2.4"]}
+- {lemma: tɛɛn, status: attested, pos: postp, gloss: {fr: "entre, parmi", en: "between, among"}, domains: ["9.2.4", "8.6.5"]}
+- {lemma: ikɛi, status: attested, pos: postp, gloss: {fr: "avec, auprès de", en: "with, beside"}, domains: ["9.2.4"]}
+- {lemma: kɔɔli, status: attested, pos: postp, gloss: {fr: "après, derrière", en: "after, behind"}, domains: ["9.2.4", "8.4.5", "8.6.1"]}
+
+# Conjunctions
+- {lemma: nda, status: attested, pos: conj, gloss: {fr: "et (entre personnes)", en: "and (between persons)"}, domains: ["9.2.5"]}
+- {lemma: kɛ, status: attested, pos: conj, gloss: {fr: "mais", en: "but"}, domains: ["9.2.5"]}
+- {lemma: ɔ́ɔ̀, status: attested, pos: conj, gloss: {fr: "ou ; est-ce que", en: "or; question marker"}, domains: ["9.2.5"]}
+- {lemma: mi, status: attested, pos: conj, forms: [mí, mì, mó, mò, má, mà], gloss: {fr: "et (alors) ; pour que", en: "and (then); so that"}, domains: ["9.2.5", "9.6.3"]}
+- {lemma: kani, status: attested, pos: conj, gloss: {fr: "car, parce que", en: "because, for"}, domains: ["9.2.5"]}
+- {lemma: le tùú, status: attested, pos: conj, gloss: {fr: "parce que", en: "because"}, domains: ["9.2.5"]}
+- {lemma: haliko, status: attested, pos: conj, gloss: {fr: "afin que", en: "so that"}, domains: ["9.2.5"]}
+- {lemma: lelan, status: attested, pos: conj, gloss: {fr: "c'est pourquoi, donc", en: "therefore, so"}, domains: ["9.2.5", "9.6.3"]}
+- {lemma: nduyɛ, status: attested, pos: conj, gloss: {fr: "cependant, en effet", en: "however, indeed"}, domains: ["9.2.5", "9.6.3"]}
+- {lemma: te, status: attested, pos: conj, gloss: {fr: "si (te … pɛ)", en: "if (te … pɛ)"}, domains: ["9.2.5"]}
+- {lemma: pɛ, status: attested, pos: part, gloss: {fr: "particule de condition (te … pɛ)", en: "conditional particle (te … pɛ)"}, domains: ["9.2.6"]}
+- {lemma: mɛɛ, status: attested, pos: conj, gloss: {fr: "quand ; comme", en: "when; as, like"}, domains: ["9.2.5"]}
+- {lemma: tuma, status: attested, pos: conj, gloss: {fr: "au moment où, quand", en: "when, at the time when"}, domains: ["9.2.5", "8.4.5"]}
+- {lemma: maa, status: attested, pos: conj, gloss: {fr: "que (complétive)", en: "that (complementizer)"}, domains: ["9.2.5"]}
+- {lemma: aa, status: attested, pos: part, gloss: {fr: "introduit les paroles rapportées", en: "quotative particle"}, domains: ["9.2.6", "3.5.1"]}
+- {lemma: háá, status: attested, pos: conj, gloss: {fr: "jusqu'à (ce que)", en: "until"}, domains: ["9.2.5", "8.4.5"]}
+- {lemma: hali, status: attested, pos: conj, gloss: {fr: "même ; même si", en: "even; even if"}, domains: ["9.2.5"]}
+
+# Particles
+- {lemma: ni, status: attested, pos: part, gloss: {fr: "c'est… (affirmation, mise en relief)", en: "it is… (focus, identification)"}, domains: ["9.2.6"]}
+- {lemma: le, status: attested, pos: part, forms: [te], gloss: {fr: "ne… pas (négation finale)", en: "not (clause-final negation)"}, domains: ["9.2.6", "9.4.6"]}
+- {lemma: bɛɛ, status: attested, pos: part, gloss: {fr: "aussi ; même ; déjà", en: "also; even; already"}, domains: ["9.2.6"]}
+- {lemma: vɛlɛ, status: attested, pos: adv, gloss: {fr: "encore, de nouveau, aussi", en: "again, also"}, domains: ["9.2.2", "8.4.6"]}
+- {lemma: kpé, status: attested, pos: part, gloss: {fr: "seulement, seul", en: "only, alone"}, domains: ["9.2.6"]}
+- {lemma: kpeekpei, status: attested, pos: part, gloss: {fr: "exactement, précisément", en: "exactly, the very"}, domains: ["9.2.6"]}
+- {lemma: daama, status: attested, pos: part, gloss: {fr: "seulement", en: "only"}, domains: ["9.2.6"]}
+- {lemma: vɔ, status: attested, pos: part, gloss: {fr: "pas encore (vɔ … le)", en: "not yet (vɔ … le)"}, domains: ["9.2.6", "9.4.1"]}
+
+# Auxiliaries and copula
+- {lemma: co, status: attested, pos: verb, gloss: {fr: "être ; auxiliaire du progressif", en: "be; progressive auxiliary"}, domains: ["9.1.1", "9.4.1"]}
+- {lemma: va, status: attested, pos: verb, forms: [ve, vanin], gloss: {fr: "être (passé) ; auxiliaire du progressif passé", en: "be (past); past progressive auxiliary"}, domains: ["9.1.1", "9.4.1"]}
+- {lemma: cii, status: attested, pos: verb, gloss: {fr: "finir, achever", en: "finish"}, domains: ["8.4.6"]}
+
+# Adverbs
+- {lemma: hau, status: attested, pos: adv, gloss: {fr: "aujourd'hui, maintenant", en: "today, now"}, domains: ["9.2.2", "8.4.5"]}
+- {lemma: nihau, status: attested, pos: adv, gloss: {fr: "maintenant, cette fois", en: "now, this time"}, domains: ["9.2.2", "8.4.5"]}
+- {lemma: sunsun, status: attested, pos: adv, gloss: {fr: "maintenant, tout de suite", en: "now, right away"}, domains: ["9.2.2", "8.4.5"]}
+- {lemma: siɔdii, status: attested, pos: adv, gloss: {fr: "demain", en: "tomorrow"}, domains: ["9.2.2", "8.4.5"]}
+- {lemma: idiiyo, status: attested, pos: adv, forms: [idii], gloss: {fr: "le matin, tôt", en: "in the morning, early"}, domains: ["9.2.2", "8.4.1"]}
+- {lemma: icɔllo, status: attested, pos: noun, gloss: {fr: "le soir, la nuit", en: "evening, night"}, domains: ["8.4.1"]}
+- {lemma: ipalaa, status: attested, pos: noun, forms: [ipala], gloss: {fr: "le jour, le matin", en: "day(time), morning"}, domains: ["8.4.1"]}
+- {lemma: few, status: attested, pos: adv, gloss: {fr: "jamais (avec négation) ; pour toujours", en: "never (with negation); forever"}, domains: ["9.2.2", "8.4.5"]}
+- {lemma: nanu, status: attested, pos: adv, gloss: {fr: "ici", en: "here"}, domains: ["9.2.2", "8.5.1"]}
+- {lemma: lon, status: attested, pos: adv, gloss: {fr: "là, là-bas", en: "there"}, domains: ["9.2.2", "8.5.1"]}
+- {lemma: lecoo, status: attested, pos: adv, gloss: {fr: "dessus, en haut", en: "on top, above"}, domains: ["9.2.2", "8.6.2"]}
+- {lemma: taw, status: attested, pos: adv, gloss: {fr: "très, beaucoup", en: "very, a lot"}, domains: ["9.2.2", "9.3"]}
+
+# Interjections
+- {lemma: oi, status: attested, pos: interj, gloss: {fr: "oui", en: "yes"}, domains: ["9.2.7", "9.4.6"]}
+- {lemma: ɛ-ɛ, status: attested, pos: interj, gloss: {fr: "non", en: "no"}, domains: ["9.2.7", "9.4.6"]}
+- {lemma: mbaa, status: attested, pos: interj, gloss: {fr: "oui ? (réponse à un appel)", en: "yes? (answer to a call)"}, domains: ["9.2.7"]}
+- {lemma: isɛ, status: attested, pos: interj, gloss: {fr: "salut (salutation)", en: "greetings, hello"}, domains: ["9.2.7", "4.3.7"]}
+- {lemma: balika, status: attested, pos: interj, gloss: {fr: "merci", en: "thank you"}, domains: ["9.2.7", "4.3.7"]}
+- {lemma: a yandi, status: attested, pos: interj, gloss: {fr: "s'il te plaît, je t'en prie", en: "please"}, domains: ["9.2.7", "4.3.7"]}

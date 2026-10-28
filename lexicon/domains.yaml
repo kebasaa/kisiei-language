@@ -1,0 +1,332 @@
+# Semantic domains used to classify the Kisiei lexicon.
+# Codes and English names follow SIL Semantic Domains, DDP version 4 (Ronald Moe, SIL Global),
+# https://semdom.org/v4/ — licensed CC BY-SA 4.0. French labels are this project's translation.
+# Only the domains used (or likely to be used) by this lexicon are listed; add others as needed,
+# keeping the official code and English name.
+- {code: "1", en: "Universe, creation", fr: "Univers, création"}
+- {code: "1.1", en: "Sky", fr: "Ciel"}
+- {code: "1.1.1", en: "Sun", fr: "Soleil, lune, étoiles"}
+- {code: "1.1.2", en: "Air", fr: "Air"}
+- {code: "1.1.3", en: "Weather", fr: "Temps qu'il fait, météo"}
+- {code: "1.2", en: "World", fr: "Monde"}
+- {code: "1.2.1", en: "Land", fr: "Terre, relief"}
+- {code: "1.2.2", en: "Substance, matter", fr: "Matière, substances"}
+- {code: "1.2.3", en: "Solid, liquid, gas", fr: "Solide, liquide, gaz"}
+- {code: "1.3", en: "Water", fr: "Eau"}
+- {code: "1.3.1", en: "Bodies of water", fr: "Étendues et cours d'eau"}
+- {code: "1.3.2", en: "Movement of water", fr: "Mouvement de l'eau"}
+- {code: "1.3.3", en: "Wet", fr: "Mouillé, humide"}
+- {code: "1.4", en: "Living things", fr: "Êtres vivants"}
+- {code: "1.4.1", en: "Dead things", fr: "Choses mortes"}
+- {code: "1.4.2", en: "Spirits of things", fr: "Esprits des choses"}
+- {code: "1.5", en: "Plant", fr: "Plantes"}
+- {code: "1.5.1", en: "Tree", fr: "Arbres"}
+- {code: "1.5.2", en: "Bush, shrub", fr: "Buissons, arbustes"}
+- {code: "1.5.3", en: "Grass, herb, vine", fr: "Herbes, lianes"}
+- {code: "1.5.4", en: "Moss, fungus, algae", fr: "Mousses, champignons, algues"}
+- {code: "1.5.5", en: "Parts of a plant", fr: "Parties d'une plante"}
+- {code: "1.5.6", en: "Growth of plants", fr: "Croissance des plantes"}
+- {code: "1.6", en: "Animal", fr: "Animaux"}
+- {code: "1.6.1", en: "Types of animals", fr: "Sortes d'animaux"}
+- {code: "1.6.2", en: "Parts of an animal", fr: "Parties d'un animal"}
+- {code: "1.6.3", en: "Animal life cycle", fr: "Cycle de vie des animaux"}
+- {code: "1.6.4", en: "Animal actions", fr: "Actions des animaux"}
+- {code: "1.6.5", en: "Animal home", fr: "Abri des animaux"}
+- {code: "1.6.6", en: "Animal group", fr: "Groupes d'animaux"}
+- {code: "1.6.7", en: "Male and female animals", fr: "Mâles et femelles"}
+- {code: "1.7", en: "Nature, environment", fr: "Nature, environnement"}
+- {code: "2", en: "Person", fr: "Personne"}
+- {code: "2.1", en: "Body", fr: "Corps"}
+- {code: "2.1.1", en: "Head", fr: "Tête"}
+- {code: "2.1.2", en: "Torso", fr: "Tronc"}
+- {code: "2.1.3", en: "Limb", fr: "Membres"}
+- {code: "2.1.4", en: "Skin", fr: "Peau"}
+- {code: "2.1.5", en: "Hair", fr: "Cheveux, poils"}
+- {code: "2.1.6", en: "Bone, joint", fr: "Os, articulations"}
+- {code: "2.1.7", en: "Flesh", fr: "Chair"}
+- {code: "2.1.8", en: "Internal organs", fr: "Organes internes"}
+- {code: "2.2", en: "Body functions", fr: "Fonctions du corps"}
+- {code: "2.2.1", en: "Breathe, breath", fr: "Respirer, souffle"}
+- {code: "2.2.2", en: "Cough, sneeze", fr: "Tousser, éternuer"}
+- {code: "2.2.3", en: "Spit, saliva", fr: "Cracher, salive"}
+- {code: "2.2.4", en: "Mucus", fr: "Mucus"}
+- {code: "2.2.5", en: "Bleed, blood", fr: "Saigner, sang"}
+- {code: "2.2.6", en: "Sweat", fr: "Sueur"}
+- {code: "2.2.7", en: "Urinate, urine", fr: "Uriner, urine"}
+- {code: "2.2.8", en: "Defecate, feces", fr: "Déféquer, excréments"}
+- {code: "2.3", en: "Sense, perceive", fr: "Sens, percevoir"}
+- {code: "2.3.1", en: "See", fr: "Voir"}
+- {code: "2.3.2", en: "Hear", fr: "Entendre"}
+- {code: "2.3.3", en: "Taste", fr: "Goûter"}
+- {code: "2.3.4", en: "Smell", fr: "Sentir (odeur)"}
+- {code: "2.3.5", en: "Sense of touch", fr: "Toucher"}
+- {code: "2.4", en: "Body condition", fr: "État du corps"}
+- {code: "2.4.1", en: "Strong", fr: "Fort"}
+- {code: "2.4.2", en: "Weak", fr: "Faible"}
+- {code: "2.4.4", en: "Tired", fr: "Fatigué"}
+- {code: "2.4.5", en: "Rest", fr: "Repos"}
+- {code: "2.5", en: "Healthy", fr: "Santé"}
+- {code: "2.5.1", en: "Sick", fr: "Malade"}
+- {code: "2.5.2", en: "Disease", fr: "Maladies"}
+- {code: "2.5.3", en: "Injure", fr: "Blessures"}
+- {code: "2.5.4", en: "Disabled", fr: "Handicaps"}
+- {code: "2.5.6", en: "Symptom of disease", fr: "Symptômes"}
+- {code: "2.5.7", en: "Treat disease", fr: "Soigner"}
+- {code: "2.6", en: "Life", fr: "Vie"}
+- {code: "2.6.1", en: "Marriage", fr: "Mariage"}
+- {code: "2.6.2", en: "Sexual relations", fr: "Relations sexuelles"}
+- {code: "2.6.3", en: "Birth", fr: "Naissance"}
+- {code: "2.6.4", en: "Stage of life", fr: "Âges de la vie"}
+- {code: "2.6.5", en: "Male, female", fr: "Homme, femme"}
+- {code: "2.6.6", en: "Die", fr: "Mourir"}
+- {code: "3", en: "Language and thought", fr: "Langage et pensée"}
+- {code: "3.1", en: "Soul, spirit", fr: "Âme, esprit"}
+- {code: "3.1.1", en: "Personality", fr: "Personnalité"}
+- {code: "3.1.2", en: "Mental state", fr: "État d'esprit"}
+- {code: "3.2", en: "Think", fr: "Penser"}
+- {code: "3.2.2", en: "Learn", fr: "Apprendre"}
+- {code: "3.2.3", en: "Know", fr: "Savoir"}
+- {code: "3.2.4", en: "Understand", fr: "Comprendre"}
+- {code: "3.2.6", en: "Remember", fr: "Se souvenir"}
+- {code: "3.3", en: "Want", fr: "Vouloir"}
+- {code: "3.3.1", en: "Decide, plan", fr: "Décider"}
+- {code: "3.3.2", en: "Request", fr: "Demander"}
+- {code: "3.4", en: "Emotion", fr: "Émotions"}
+- {code: "3.4.1", en: "Feel good", fr: "Se sentir bien"}
+- {code: "3.4.2", en: "Feel bad", fr: "Se sentir mal"}
+- {code: "3.5", en: "Communication", fr: "Communication"}
+- {code: "3.5.1", en: "Say", fr: "Dire"}
+- {code: "3.5.3", en: "Language", fr: "Langue"}
+- {code: "3.5.4", en: "Story", fr: "Récit, conte"}
+- {code: "3.5.6", en: "Sign, symbol", fr: "Signe, symbole"}
+- {code: "3.5.7", en: "Reading and writing", fr: "Lire et écrire"}
+- {code: "3.6", en: "Teach", fr: "Enseigner"}
+- {code: "3.6.2", en: "School", fr: "École"}
+- {code: "4", en: "Social behavior", fr: "Vie sociale"}
+- {code: "4.1", en: "Relationships", fr: "Relations"}
+- {code: "4.1.1", en: "Friend", fr: "Amis"}
+- {code: "4.1.2", en: "Types of people", fr: "Sortes de personnes"}
+- {code: "4.1.4", en: "Neighbor", fr: "Voisins"}
+- {code: "4.1.9", en: "Kinship", fr: "Parenté"}
+- {code: "4.2", en: "Social activity", fr: "Activités sociales"}
+- {code: "4.2.1", en: "Come together, form a group", fr: "Se réunir"}
+- {code: "4.2.2", en: "Social event", fr: "Événements sociaux"}
+- {code: "4.2.3", en: "Music", fr: "Musique"}
+- {code: "4.2.4", en: "Dance", fr: "Danse"}
+- {code: "4.2.6", en: "Entertainment, recreation", fr: "Divertissements, jeux"}
+- {code: "4.2.7", en: "Play, fun", fr: "Jouer"}
+- {code: "4.3", en: "Behavior", fr: "Comportement"}
+- {code: "4.3.1", en: "Good, moral", fr: "Bon, moral"}
+- {code: "4.3.3", en: "Love", fr: "Aimer"}
+- {code: "4.3.4", en: "Do good to", fr: "Faire du bien"}
+- {code: "4.3.7", en: "Polite", fr: "Politesse"}
+- {code: "4.3.9", en: "Culture", fr: "Culture, coutumes"}
+- {code: "4.4", en: "Prosperity, trouble", fr: "Prospérité, malheur"}
+- {code: "4.4.2", en: "Trouble", fr: "Malheur, difficultés"}
+- {code: "4.5", en: "Authority", fr: "Autorité"}
+- {code: "4.5.1", en: "Person in authority", fr: "Personnes d'autorité"}
+- {code: "4.5.6", en: "Status", fr: "Rang"}
+- {code: "4.6", en: "Government", fr: "Gouvernement"}
+- {code: "4.6.1", en: "Ruler", fr: "Chef, roi"}
+- {code: "4.6.7", en: "Region", fr: "Région, territoire"}
+- {code: "4.7", en: "Law", fr: "Loi, justice"}
+- {code: "4.7.5", en: "Trial", fr: "Jugement"}
+- {code: "4.7.7", en: "Punish", fr: "Punir"}
+- {code: "4.8", en: "Conflict", fr: "Conflit"}
+- {code: "4.8.2", en: "Fight", fr: "Se battre"}
+- {code: "4.8.3", en: "War", fr: "Guerre"}
+- {code: "4.8.4", en: "Peace", fr: "Paix"}
+- {code: "4.9", en: "Religion", fr: "Religion"}
+- {code: "4.9.1", en: "God", fr: "Dieu"}
+- {code: "4.9.2", en: "Supernatural being", fr: "Êtres surnaturels"}
+- {code: "4.9.4", en: "Miracle, supernatural power", fr: "Pouvoir surnaturel"}
+- {code: "4.9.5", en: "Practice religion", fr: "Pratique religieuse"}
+- {code: "4.9.6", en: "Heaven, hell", fr: "Ciel, enfer"}
+- {code: "4.9.7", en: "Religious organization", fr: "Organisation religieuse"}
+- {code: "4.9.8", en: "Religious things", fr: "Objets religieux"}
+- {code: "5", en: "Daily life", fr: "Vie quotidienne"}
+- {code: "5.1", en: "Household equipment", fr: "Équipement de la maison"}
+- {code: "5.1.1", en: "Furniture", fr: "Meubles"}
+- {code: "5.2", en: "Food", fr: "Nourriture"}
+- {code: "5.2.1", en: "Food preparation", fr: "Préparation des aliments"}
+- {code: "5.2.2", en: "Eat", fr: "Manger"}
+- {code: "5.2.3", en: "Types of food", fr: "Aliments"}
+- {code: "5.2.4", en: "Tobacco", fr: "Tabac"}
+- {code: "5.2.6", en: "Stimulant", fr: "Stimulants (cola…)"}
+- {code: "5.3", en: "Clothing", fr: "Vêtements"}
+- {code: "5.3.3", en: "Traditional clothing", fr: "Vêtements traditionnels"}
+- {code: "5.3.6", en: "Parts of clothing", fr: "Parties du vêtement"}
+- {code: "5.3.7", en: "Wear clothing", fr: "S'habiller"}
+- {code: "5.4", en: "Adornment", fr: "Parure"}
+- {code: "5.4.1", en: "Jewelry", fr: "Bijoux"}
+- {code: "5.4.2", en: "Cosmetics", fr: "Cosmétiques"}
+- {code: "5.4.3", en: "Care for hair", fr: "Coiffure"}
+- {code: "5.4.6", en: "Ritual scar", fr: "Scarifications"}
+- {code: "5.5", en: "Fire", fr: "Feu"}
+- {code: "5.5.6", en: "Fuel", fr: "Combustible"}
+- {code: "5.5.7", en: "Fireplace", fr: "Foyer"}
+- {code: "5.6", en: "Cleaning", fr: "Nettoyage"}
+- {code: "5.6.1", en: "Clean, dirty", fr: "Propre, sale"}
+- {code: "5.6.2", en: "Bathe", fr: "Se laver"}
+- {code: "5.6.4", en: "Wash clothes", fr: "Laver le linge"}
+- {code: "5.6.5", en: "Sweep, rake", fr: "Balayer"}
+- {code: "5.7", en: "Sleep", fr: "Sommeil"}
+- {code: "5.7.2", en: "Dream", fr: "Rêver"}
+- {code: "5.7.3", en: "Wake up", fr: "Se réveiller"}
+- {code: "5.9", en: "Live, stay", fr: "Habiter, rester"}
+- {code: "6", en: "Work and occupation", fr: "Travail et métiers"}
+- {code: "6.1", en: "Work", fr: "Travail"}
+- {code: "6.1.1", en: "Worker", fr: "Travailleurs"}
+- {code: "6.2", en: "Agriculture", fr: "Agriculture"}
+- {code: "6.2.1", en: "Growing crops", fr: "Cultures"}
+- {code: "6.2.2", en: "Land preparation", fr: "Préparation du champ"}
+- {code: "6.2.3", en: "Plant a field", fr: "Semer, planter"}
+- {code: "6.2.4", en: "Tend a field", fr: "Entretenir le champ"}
+- {code: "6.2.5", en: "Harvest", fr: "Récolte"}
+- {code: "6.2.6", en: "Process harvest", fr: "Traiter la récolte"}
+- {code: "6.2.8", en: "Agricultural tool", fr: "Outils agricoles"}
+- {code: "6.2.9", en: "Farmland", fr: "Terres cultivées"}
+- {code: "6.3", en: "Animal husbandry", fr: "Élevage"}
+- {code: "6.3.1", en: "Domesticated animal", fr: "Animaux domestiques"}
+- {code: "6.3.6", en: "Poultry raising", fr: "Volaille"}
+- {code: "6.4", en: "Hunt and fish", fr: "Chasse et pêche"}
+- {code: "6.4.1", en: "Hunt", fr: "Chasser"}
+- {code: "6.4.2", en: "Trap", fr: "Pièges"}
+- {code: "6.4.4", en: "Beekeeping", fr: "Apiculture"}
+- {code: "6.4.5", en: "Fishing", fr: "Pêche"}
+- {code: "6.5", en: "Working with buildings", fr: "Construction"}
+- {code: "6.5.1", en: "Building", fr: "Bâtiments, maison"}
+- {code: "6.5.2", en: "Parts of a building", fr: "Parties d'un bâtiment"}
+- {code: "6.5.3", en: "Building materials", fr: "Matériaux de construction"}
+- {code: "6.5.4", en: "Infrastructure", fr: "Infrastructures (routes, ponts)"}
+- {code: "6.6", en: "Occupation", fr: "Métiers"}
+- {code: "6.6.1", en: "Working with cloth", fr: "Tissage, couture"}
+- {code: "6.6.2", en: "Working with minerals", fr: "Métaux, forge, poterie"}
+- {code: "6.6.3", en: "Working with wood", fr: "Travail du bois"}
+- {code: "6.6.4", en: "Crafts", fr: "Artisanat"}
+- {code: "6.6.5", en: "Art", fr: "Art"}
+- {code: "6.7", en: "Tool", fr: "Outils"}
+- {code: "6.7.1", en: "Cutting tool", fr: "Outils tranchants"}
+- {code: "6.7.2", en: "Pounding tool", fr: "Pilons, outils à frapper"}
+- {code: "6.7.3", en: "Carrying tool", fr: "Outils de portage"}
+- {code: "6.7.5", en: "Fastening tool", fr: "Liens, attaches"}
+- {code: "6.7.7", en: "Container", fr: "Récipients"}
+- {code: "6.8", en: "Finance", fr: "Argent, richesse"}
+- {code: "6.8.1", en: "Have wealth", fr: "Richesse"}
+- {code: "6.8.4", en: "Financial transaction", fr: "Acheter, vendre"}
+- {code: "6.8.6", en: "Money", fr: "Monnaie"}
+- {code: "6.9", en: "Business organization", fr: "Commerce"}
+- {code: "6.9.4", en: "Commerce", fr: "Commerce, marché"}
+- {code: "7", en: "Physical actions", fr: "Actions physiques"}
+- {code: "7.1", en: "Posture", fr: "Posture"}
+- {code: "7.1.1", en: "Stand", fr: "Être debout"}
+- {code: "7.1.2", en: "Sit", fr: "S'asseoir"}
+- {code: "7.1.3", en: "Lie down", fr: "Se coucher"}
+- {code: "7.1.5", en: "Bow", fr: "S'incliner"}
+- {code: "7.2", en: "Move", fr: "Se déplacer"}
+- {code: "7.2.1", en: "Manner of movement", fr: "Manière de se déplacer"}
+- {code: "7.2.2", en: "Move in a direction", fr: "Aller dans une direction"}
+- {code: "7.2.3", en: "Move toward something", fr: "Venir, approcher, partir"}
+- {code: "7.2.4", en: "Travel", fr: "Voyager"}
+- {code: "7.2.5", en: "Accompany", fr: "Accompagner"}
+- {code: "7.2.6", en: "Pursue", fr: "Poursuivre"}
+- {code: "7.2.7", en: "Not moving", fr: "Rester immobile"}
+- {code: "7.2.8", en: "Send someone", fr: "Envoyer quelqu'un"}
+- {code: "7.3", en: "Move something", fr: "Déplacer quelque chose"}
+- {code: "7.3.1", en: "Carry", fr: "Porter"}
+- {code: "7.3.2", en: "Move something in a direction", fr: "Mettre, enlever, tirer, pousser"}
+- {code: "7.3.3", en: "Take somewhere", fr: "Emmener, apporter"}
+- {code: "7.3.4", en: "Handle something", fr: "Manipuler, tenir"}
+- {code: "7.3.6", en: "Open", fr: "Ouvrir, fermer"}
+- {code: "7.3.7", en: "Cover", fr: "Couvrir"}
+- {code: "7.4", en: "Have, be with", fr: "Avoir"}
+- {code: "7.4.1", en: "Give, hand to", fr: "Donner"}
+- {code: "7.4.2", en: "Receive", fr: "Recevoir"}
+- {code: "7.4.3", en: "Get", fr: "Obtenir"}
+- {code: "7.4.5", en: "Keep something", fr: "Garder"}
+- {code: "7.5", en: "Arrange", fr: "Arranger"}
+- {code: "7.5.1", en: "Gather", fr: "Rassembler"}
+- {code: "7.5.2", en: "Join, attach", fr: "Joindre, attacher"}
+- {code: "7.5.3", en: "Mix", fr: "Mélanger"}
+- {code: "7.5.4", en: "Tie", fr: "Nouer, lier"}
+- {code: "7.5.9", en: "Put", fr: "Poser, mettre"}
+- {code: "7.6", en: "Hide", fr: "Cacher"}
+- {code: "7.6.1", en: "Search", fr: "Chercher"}
+- {code: "7.6.2", en: "Find", fr: "Trouver"}
+- {code: "7.6.3", en: "Lose, misplace", fr: "Perdre"}
+- {code: "7.7", en: "Physical impact", fr: "Choc, frapper"}
+- {code: "7.7.1", en: "Hit", fr: "Frapper"}
+- {code: "7.7.5", en: "Rub", fr: "Frotter"}
+- {code: "7.7.6", en: "Grind", fr: "Moudre, écraser"}
+- {code: "7.8", en: "Divide into pieces", fr: "Diviser en morceaux"}
+- {code: "7.8.1", en: "Break", fr: "Casser"}
+- {code: "7.8.3", en: "Cut", fr: "Couper"}
+- {code: "7.8.4", en: "Tear, rip", fr: "Déchirer"}
+- {code: "7.8.5", en: "Make hole, opening", fr: "Percer, trouer"}
+- {code: "7.8.6", en: "Dig", fr: "Creuser"}
+- {code: "7.9", en: "Break, wear out", fr: "Abîmer, user"}
+- {code: "7.9.1", en: "Damage", fr: "Endommager"}
+- {code: "7.9.3", en: "Destroy", fr: "Détruire"}
+- {code: "7.9.4", en: "Repair", fr: "Réparer"}
+- {code: "8", en: "States", fr: "États, qualités"}
+- {code: "8.1", en: "Quantity", fr: "Quantité"}
+- {code: "8.1.1", en: "Number", fr: "Nombres"}
+- {code: "8.1.2", en: "Count", fr: "Compter"}
+- {code: "8.1.4", en: "More", fr: "Plus, davantage"}
+- {code: "8.1.5", en: "All", fr: "Tout"}
+- {code: "8.1.8", en: "Full", fr: "Plein, vide"}
+- {code: "8.2", en: "Big", fr: "Grand"}
+- {code: "8.2.1", en: "Small", fr: "Petit"}
+- {code: "8.2.2", en: "Long", fr: "Long"}
+- {code: "8.2.6", en: "Distance", fr: "Distance"}
+- {code: "8.2.8", en: "Measure", fr: "Mesurer"}
+- {code: "8.3", en: "Quality", fr: "Qualité"}
+- {code: "8.3.1", en: "Shape", fr: "Forme"}
+- {code: "8.3.2", en: "Texture", fr: "Texture"}
+- {code: "8.3.3", en: "Light", fr: "Lumière, couleur"}
+- {code: "8.3.4", en: "Hot", fr: "Chaud, froid"}
+- {code: "8.3.5", en: "Type, kind", fr: "Sorte, espèce"}
+- {code: "8.3.7", en: "Good", fr: "Bon, mauvais"}
+- {code: "8.4", en: "Time", fr: "Temps"}
+- {code: "8.4.1", en: "Period of time", fr: "Périodes de temps"}
+- {code: "8.4.2", en: "Take time", fr: "Durer"}
+- {code: "8.4.4", en: "Telling time", fr: "Heure, calendrier"}
+- {code: "8.4.5", en: "Relative time", fr: "Temps relatif (avant, après)"}
+- {code: "8.4.6", en: "Aspectual time", fr: "Début, fin, répétition"}
+- {code: "8.4.8", en: "Speed", fr: "Vitesse"}
+- {code: "8.5", en: "Location", fr: "Lieu"}
+- {code: "8.5.1", en: "Here, there", fr: "Ici, là"}
+- {code: "8.5.2", en: "Direction", fr: "Direction"}
+- {code: "8.5.4", en: "Area", fr: "Zone, endroit"}
+- {code: "8.6", en: "Parts of things", fr: "Parties des choses"}
+- {code: "8.6.1", en: "Front", fr: "Devant, derrière"}
+- {code: "8.6.2", en: "Top", fr: "Dessus, dessous"}
+- {code: "8.6.3", en: "Side", fr: "Côté"}
+- {code: "8.6.4", en: "Inner part", fr: "Intérieur"}
+- {code: "8.6.5", en: "Middle", fr: "Milieu"}
+- {code: "8.6.6", en: "Edge", fr: "Bord"}
+- {code: "8.6.7", en: "End, point", fr: "Bout, pointe"}
+- {code: "9", en: "Grammar", fr: "Grammaire"}
+- {code: "9.1", en: "General words", fr: "Mots généraux"}
+- {code: "9.1.1", en: "Be", fr: "Être"}
+- {code: "9.1.2", en: "Do", fr: "Faire"}
+- {code: "9.1.3", en: "Thing", fr: "Chose"}
+- {code: "9.2", en: "Part of speech", fr: "Parties du discours"}
+- {code: "9.2.1", en: "Adjectives", fr: "Adjectifs"}
+- {code: "9.2.2", en: "Adverbs", fr: "Adverbes"}
+- {code: "9.2.3", en: "Pronouns", fr: "Pronoms"}
+- {code: "9.2.4", en: "Prepositions, postpositions", fr: "Prépositions, postpositions"}
+- {code: "9.2.5", en: "Conjunctions", fr: "Conjonctions"}
+- {code: "9.2.6", en: "Particles", fr: "Particules"}
+- {code: "9.2.7", en: "Interjections", fr: "Interjections"}
+- {code: "9.2.8", en: "Ideophones", fr: "Idéophones"}
+- {code: "9.2.9", en: "Affixes", fr: "Affixes"}
+- {code: "9.3", en: "Very", fr: "Degré"}
+- {code: "9.4", en: "Semantic constituents related to verbs", fr: "Notions liées au verbe"}
+- {code: "9.4.1", en: "Tense and aspect", fr: "Temps et aspect"}
+- {code: "9.4.6", en: "Yes", fr: "Oui, non"}
+- {code: "9.6", en: "Connected with, related", fr: "Relations logiques"}
+- {code: "9.6.3", en: "Discourse markers", fr: "Marqueurs du discours"}
+- {code: "9.7", en: "Name", fr: "Noms propres"}
+- {code: "9.7.1", en: "Name of a person", fr: "Noms de personne"}
+- {code: "9.7.2", en: "Name of a place", fr: "Noms de lieu"}
