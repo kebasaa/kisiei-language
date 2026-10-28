@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–44 (PDF pages 1 and 3–48). Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and typescript pp. 1–61 (PDF pages 1 and 3–68), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -537,3 +537,286 @@ No handwritten notes of substance.
 | Kumba ba mömöö yawvo | imparfait; était à [illegible]; couper [?] | comment |
 | Hali pèl sianio | casser; bouteille | gloss |
 | Tunndo kel Fala | mord | gloss |
+
+## p. 45 (PDF 49)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| a nèè Faya köè yè ? | nèèa (written above nèè) | variant |
+| Tamba sungu yanbalen | arracher; manioc | gloss |
+| Pomböö pisul a mömötömndo | [illegible] singe [?] | gloss |
+| Könda saran yööya haw ni | pêcher; aujourd'hui | gloss |
+| A volölan sia nyanun ni | avec; laver; c'est | gloss |
+| Nyuma bolin a lamde | blesser [?]; la lame (Klinge) | gloss |
+| Nde Pendu domaa | acheter | gloss |
+| saa kelu yömndo a tyuei | la hache | gloss |
+| Fala kow maalon a möèi | moissonner le riz [?]; couteau | gloss |
+| Kumba tèèmbu dèndöö. | gâter [?] | gloss |
+| Mba isè ! n tyalnun | asseyons-nous | translation |
+| i tyo o pelon tyoo | sur [?] | gloss |
+| vè ? | qu'est-ce qu'il a ? | translation |
+| köè pasikali köfanöö tyo yè o yiyaa ? | où; Pascal; professeur; le logement | gloss |
+| vèè i vöön ni. ? | est-ce que c'est un mal ? | translation |
+| o tyo i vöön te, yilöö ndu kani. | nég.; le saluer; simplement | gloss |
+| o tyèi lakolio ikèi o tyo ni. | l'école; près | gloss |
+| ba köè tyèi lakoli kon tyo yè ? | où; ça; in the margin: la maison du directeur [?] | gloss |
+| o tyie leköö | village; derrière | gloss |
+
+## p. 47 (PDF 51)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| o... lo (chez) | o nèm ndo (chez toi) [?] | variant |
+| Musa köè o Pangaa | la cabane des [?] …; le champ [?] | gloss |
+| Bèlöö löèi o tèngie nin | la souris; le trou | gloss |
+| Faya viow böölöö Polon | jeter; banane [?]; loin | gloss |
+| Mènndan ma tyon lebèngu | verser; en bas | gloss |
+| Nawvo tyo Kpèèlun | vache; tout près | gloss |
+| Kuè + sujet + verbe + yè ? | → pour personne : O nè lo o kuè yè ? chez qui il est parti ? | comment |
+| Fiinya ndöö wi lapöm | son père est mort l'an passé [?]; à ce soir [?] | translation |
+| Fiinya ndöö wi lapöm | Finhè ndö | variant |
+| Piöö sia tyièi | pluie; hier | gloss |
+| Piöö sia tyièi | hallaa | variant |
+
+## p. 48 (PDF 52)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vananyètyaa hin a nyumndan | les artiste traditionnelle; nuit | gloss |
+| Faya köè böllo lö a Pale yönganden. | ballon; ndo [?]; (frapper) jouer; soleil; descendant; ~ dans la soirée vers 16h | gloss |
+| Tuma + Sujet + Verbe + Yè ? | le temps (l'heure) | gloss |
+| Löö + Sujet + Verbe + Yè ? | temps : (la date, le jour) | gloss |
+| Boondi Kuè + Sujet + Verbe + Yè. | (rare) exactement quel moment (= tuma); "Boondi" written out above the ink blot; Köö above Kuè | comment |
+| Tuma kuè Piöö sia yè ? Tyièi | la pluie, pleuvoir | gloss |
+| Boondi köö ndo + tyo yè hunöö ? | Löö (written above Boondi) | variant |
+
+## Verso of p. 48 (PDF 53)
+
+The back of the sheet has no typed text; these handwritten notes were written on it, mostly in two boxes.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(box)* | Kdg : könè / Ngö ba + vo (relatif pour ba) | variant |
+| *(box)* | kpengiè köè (du côté de) = köènèe = ngö ba = ba köe | comment |
+| *(free note)* | ami : tyaan / amis : tyaanhaa / tyaan wöh [?] | gloss |
+| *(free note)* | Kööne [?] | comment |
+
+## p. 49 (PDF 54)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(by the page number)* | – je vient de quitter | translation |
+| Köèènè n tyo yè fulaa hoo ? o baalaa nin ya i tyo fulaa ni | quitter, sortir; maintenant [?]; travail; moi | gloss |
+| Köèènè nda tyo yè työnönndo hoo ? | [illegible] | gloss |
+| Köèènè n tyèn yè ? Kolifaa ya i tyèn ni | lever; village | gloss |
+| Köèènè n tyo yè lan ou … | ? | comment |
+| Köèènè yema num köè yè ? O köè o … tailleurnöö lo | soeur; in the margin: söndu = (coudre, coud) | gloss |
+| Ngö ba Kalaa num vo (ou hiow yè) ? O köè o löö nin | lieu [?] (passer); mardi [?] | gloss |
+| Ngö ba vanaa nummda köè vo ? | tes parents | gloss |
+| Köèènè tyaanhaa naa hiow yè ? a hiow o pu lo | les amis; o (written above the u of pu); the answer is underlined | comment |
+| Ngö ba ya i tyo billo hoo hulöö vo ? Hulu ndu landan. | l'herbe; verser; verse ça; loin | gloss |
+| Ba köè tyièi pisia makongo tyo yè ? tyièi leyulaa bapilè. | maison [?]; pharmacie; [illegible]; à côté | gloss |
+| … o law mömbillo ikèi. | gare voiture | gloss |
+| Tuma köèè n hinyè ? Tyèi ya i hin ni. | venir; hier | gloss |
+| Löö köèè teeva hin yè ? Haw o hin ni. | prénom; aujourd'hui | gloss |
+| A boondii köèè Seku Hin yè ? Pèi Seku hin ni. | avant hier | gloss |
+| Löö köèè Kala num tyo yè lan ? o tyo lan dièn. | kolan; après demain | gloss |
+| A tuma köèè bè num hunnin yè ? O löèinin namun tyuèllèn te kon te siödii. | frère; rentrer; ici; ce soir; on; demain; a large "?" in the margin | gloss |
+| A boondii köèè n kandunin yè baalaa ? Haw | commencer avec le travail | translation |
+| A tuma köèè n tyo yè sèböö sèva ? sunsun. | tu; écrire; tout de suite | gloss |
+
+## p. 51 (PDF 56)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| I hin le malun yèiyon | riz; semence | gloss |
+| Faya fula lanöö le sièlèi ndöèi | être pauvre [?]; femme; pauvre [?] | gloss |
+| Teeva yaw mömöö le mialla | préparer; les étrangers | gloss |
+| lèngèlèngè, Pupulaa, Yöfödöö | (faiblement); (gräulich [?]); aufgelöst [?], aufgedunsen [?] | gloss |
+| Fan (rapidement) | = työtyö | variant |
+| Menndan ma tyo tolöö Fukufuku | descendre | gloss |
+| Tyua del (lakalukalu) | tomber; tan tan | gloss |
+| "comme, en" | arrow from "comme" to the example "O kelaa ma tun" | comment |
+| Siifaa köè a tyanndo | en pleurant (lit. avec des pleurs) | translation |
+| O kelaa ma tun | promène comme un chien; abrégé de tunndo; ≈ il est paresseux (injure) | translation |
+| *(bottom of page)* | a + "nom" : avec… | comment |
+
+## p. 52 (PDF 57)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vè tyua del lè ? (lakalukalu) | tan tan | variant |
+| La kolia tyo hunöö a tyondei | les élèves; viennent; chantant | gloss |
+| O löö tyan ndö le viilen | frapper; ami; son; pour le vol | gloss |
+| Faya fula fan | sortir; avec force | gloss |
+| Jean Pendu nyèdiaa le vanvalla | acheter; la nourriture; travailleurs | gloss |
+| Nawva lö tunndo a ikpasa | frapper; gbasai (Hut [?]) | gloss |
+| Finda del natyali | à manière [?] | gloss |
+| O köè o kalaa lo le volion | chez mère (la); l'argent | gloss |
+| 1°) SUR LA MANIERE | abrégé pour [?] … toi | comment |
+| Vèènè n looku yè hunöö ? A n pelu ya i hin ni | pouvoir; venir; à pied | gloss |
+| Vèènè n keeku yè ma bolin ? O kiltan nin ya i bolin ni | passer; blesser; en courant; dans la course | gloss |
+| Vèè tyaan num tyo yè ? O sianha | ami; ö (above num); rouge | gloss |
+| Vèènè tamba köa yè ? | marche | gloss |
+| Faya yè ? ndu duèènnduèn o köa ni. | lui | gloss |
+| Vèènè vanlaandua tyo yè kölan o biisio ? A tyo lan o bièsio a tyanndo | les funérailles; (kolan); nda | gloss |
+
+## p. 53 (PDF 58)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Vèènè Seku fula yè ? A kiltan o fula ni | courant | gloss |
+| Vèènè hoeiye hön yè ? Fukufuku i hönni. | le vent; souffler | gloss |
+| Le yèènè o köè yè ? le vöngu tusumaa (but) | le prix [?]; la terre | gloss |
+| Le yèènè n pendu yè sèbèdèniaa hoo ? le sèböö dinio pèiyo (but) | pourquoi; acheter; livre de lecture; ce; le livre lire; apprendre | gloss |
+| Le yèènè n kèè yè hunöö ? I ve kèndin le (cause) | toi; refuser; de venir; était pas en bonne santé | gloss |
+| Le yèènè o nyaanun yè ? volion o de ni (cause) | fuire; l'argent qu'il mangé | gloss |
+| Le yèènè n tyo yè lawvo hoo ? I yeema ni i fuula a tumaa o lakolio. | précipité, être pressé; comme ça; veux; que; sortir; à temps; à l'école | gloss |
+
+## p. 54 (PDF 59)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Doma Sènèiyo ; I söla doma sènèiyo | nouvelle; je; avoir | gloss |
+| yöm Bènduo ; Yöm bènduo komba | bois; grand; tombé | gloss |
+| Mènma kèndèan; Mènma Kèndèan nan le kölöö ni. | eau; bonne; mon [?]; être bon pour boire | gloss |
+| doma sianhaa | rouge | gloss |
+| Kelèi : kelèi pömböi | bracelette; petit | gloss |
+| Hoeiye | vent | gloss |
+| volöö : volö Kèndöö | l'habit; bon | gloss |
+| Tömnde : Töm tinhioo | singe; noir | gloss |
+| Diolan : Diola vöönndan | nom; mauvais | gloss |
+| Siawlen : Siawle divalen | mûr | gloss |
+| domala sianhalan ; Siawle divalen ; doma sianhaa | a slash drawn through the "i" of sianhaa / Siawle (syllable mark or deletion [?]) | comment |
+| töm tinhia | a (lors marque de pl.) | comment |
+| Exemples: … töm tinhio | (tömnde) written in the margin | comment |
+| Möèi tinhièi | e (written below the overtyped ending) | comment |
+
+## Verso of p. 54 (PDF 60)
+
+The back of the sheet has no typed text; these handwritten notes were written on it. They illustrate the degrees of the adjective that the next typed page introduces.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | tyèiyo ho tyo o sanha. = Cette maison est rouge. | translation |
+| *(table, column 1)* | la plus grande maison = tyèi bènduo | translation |
+| *(table, column 2)* | la maison est très grande = tyèiyo tyo o böö taw (taw, taw) | translation |
+| *(table, column 3)* | la maison est grande = tyèiyo tyo o böö | translation |
+| *(table, column 4)* | la maison est moins grande que… = tyèiyo tyo tuulen / tin | translation |
+| *(table, column 5)* | la plus petite maison = tyèi pömbo | translation |
+| *(free note)* | dumbulen le tyelul le böö le / dumbulan ma tyelul ma böö le; under "ma böö le": tin / tuulen / taw | comment |
+
+## p. 55 (PDF 61)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| yoole köè ya tya yè ? le tinhilen | la corde; quelle; ma; voir | gloss |
+| Doma köè o wonun yè ? o humbuo | porté | gloss |
+| Ngö kelèi n tyuu ndu ve? i sianhai | tu; envoyer; lui | gloss |
+| ö Samtala ya tyua lan ? la tinhilan | quels chaussures ma prendre [?]; (marque de … au pluriel) | gloss |
+| Mènma köè ya tyuu yè nom ? Ma tuuvan | eau; quelle me envoyer [?]; toi; chaude | gloss |
+| I nö bolte kèndèlen, yinhii tinhiei, nila vilèilan. | long | gloss |
+| a tendui nyove. | (falta) [?]; nez | gloss |
+| O min ni bingio bèngu, sondoo a työtyön | court; cou [?]; sous [?]; bouche; lèvres | gloss |
+| bènduon tyo. Kuula nilan la tyo tiwtiw. | grand; joue; ronde | gloss |
+| I tyo o tyelulaa, | gros | gloss |
+| Kè i tyo yöfödöö le. | grosse mais pas gigantesque [?] | gloss |
+| I nö doma baasio, lèmbè vilöi peekièiyo, | circoncision [?]; long; grand; à vert [?] | gloss |
+| lèmbè | Gdou : lèmbè / Kdg : Kuli | variant |
+| lembulten le tyelul le böö le | citron; morph.; grossir; morph.; trop; gros. le citron n'est pas si gros [?]; peu moins | gloss |
+| Siawlen le tyelul tin | est moins gros | gloss |
+| Panpulumusulen le tyelul taw | très gros | gloss |
+| Domaa hoo nan taw | joli; très joli | gloss |
+
+## Verso of p. 55 (PDF 62)
+
+The back of the sheet has no typed text; it holds a handwritten table of comparison sentences (French on the outer columns, Kisiei in the middle).
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(table, row 1)* | la maison est grande = tyèiyo tyo o böö / tyèiyo tyo o pömbö = la maison est petit | translation |
+| *(table, row 2)* | la maison est plus grande que l'autre = tyèiyo hoo hau hoo vaw o böö (vaw: être (état) [?]) / tyèiyo hoo hau hoo vaw o pömbö (or: dönando) = la maison est plus petite que l'autre | translation |
+| *(table, row 3)* | c'est la plus grande maison = tyèi hau vaw o böö o ni / tyèi hau dönando o ni = c'est la plus petite maison | translation |
+
+## p. 56 (PDF 63)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tyeluo tyuaa hoo hiow a bandei | la grosseur; fille; taille; sa grosseur dépasse sa taille | translation |
+| Pewvo hau tyelul a tyuinndo | le cochon; dépasse; grosseur; que la chèvre | gloss |
+| Kumba hiow sia nanhöö | plus [?]; plus joli | gloss |
+| Comparatif d'infériorité | pintade (Perlhuhn); beauté | gloss |
+| Siamndo nan o hiow dökuwo | canard; in the margin: hau | variant |
+| Siamndo hiw dökuwo nanhö le | in the margin: hiu | variant |
+| "Kpenkpen" | gbengben | variant |
+| Siamndo nda völö nanhöö kpenkpen | et; perdrix; égal | gloss |
+| Poo hoo vöw maa töm | type [?]; vilain; comme; le singe | gloss |
+| Fallo hoo kela maa tun | chien; = il n'a rien à faire | translation |
+
+## p. 57 (PDF 64)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Domaa hoo nin te | (manière [?]) joli | gloss |
+| Hoo hiow nanhöö | l'autre; la beauté | gloss |
+| Yowvo, yow kon - yowva haa - yovaa kan | l'oiseau; pl. | gloss |
+| Tyènnde he, Tyinhii ken - Tyinndon Men … | la dent; pl.; ä (above Men) | gloss |
+| Mènndan man ma nan ; Man yè ma nin te. | pronom; tandis | gloss |
+| Yoolen len le nan kè len num o ba hiow ya hènan | corde; cette; est joli; mais l'autre; [illegible]; dans ta main; plaire | gloss |
+| Domalan lan ha hiow ya ; Tan lamini o ba la bènda ya ni. | l (written above the h of ha); trop grand; l'autre qui sont avec [?] l'ami; me correspondent | gloss |
+| Kolèi he tyo o Paandue ni ken tyo i sianèiye ni | le bracelet; ancienne; nouveau | gloss |
+
+## p. 58 (PDF 65)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| PROXIMITE PLURIEL row | [bas] (in the right margin) | comment |
+| ELOIGNEMENT PLURIEL row | [haut] (in the right margin) | comment |
+| La mèèndan ndö tyuaanböö tyo… | ton; regarder; dépêcher [?]; les enfants | gloss |
+| … fulaa o lakolio va : …nö kaakiilan | sortir; de l'école; pl.; (deux couleurs : kaki) | gloss |
+| Leköö,…. nda nö volöla yönhaalan leköö. | derrière [?]; leurs corps [?]; autre habits | gloss |
+| Tyuambölo….le tyo hunino a bölö ndöö o ba…. | sac à main; avec sa belle chemise; regarder | gloss |
+| … ndu tyo kèèsönndo a doma ndö kèndöö. | danser | gloss |
+| La nufa vö poombö tyelulèi tyo… Kölan nèiyo tyoo vo. | son; le fait [?]; gros; aller; nèiyo; à où la route [?] | gloss |
+
+## p. 59 (PDF 66)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Fallo vèè kolaa hoo nö yè baa | "baa" bracketed; bèèo. Vöngu… | variant |
+| Kolaa pilè, siiliyon kèmè | "siiliyon kèmè" bracketed; frandon walan tan yaa | variant |
+| Döönan tin | pu: Dööna nyepömbö | variant |
+| baa ndöö tyo kon ni | "baa" bracketed; vöngu, bèè | variant |
+| volin tyo ya ba vo tiuw le | ou : i nö kon le (mun, vöno, bööo written above) | variant |
+| Vèè n nö yè ? | combien tu as | translation |
+| tyu kon. | mun | variant |
+| Pisul la nyèènbö le tyoo ! | enlève | gloss |
+
+## p. 60 (PDF 67)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Kola nuu : O nuu | pagne; mon; le mien | gloss |
+| Kolèi nii : i nii | mon bracelet; le mien | gloss |
+| Lènndon naalen : le naalen | terre; notre; la vôtre | gloss |
+| Bala nilan : La nilan. | main; ma; la mienne | gloss |
+| Naw nuu va o tyièi nin (affirmative) | ma vache; était; chambre [?] | gloss |
+| Naw nii ve lon te (négative) | ma vache n'était pas là-bas | translation |
+| A tyil la naw ni lon te ? (interrogative). | tu as vu; vache; là-bas ?; (= ya après l) | gloss |
+| Finya ni mal la Haki ! | mon papa; m'a pardonné; moi; (lit. ma chose est partie [?]); (laissé moi péché) | translation |
+| Kanikokoe ! nyè ni köè pa ! | cri de joie; ma chose; aller pas [?]; tu préfères [?] | translation |
+| Tyalii yungu nummdo kendu | la vie quotidienne [?] de ta fille est difficile; état de naissance [?] | translation |
+| Pömböa nia tyo o kaannden | mes jeunes frères sont à l'école | translation |
+| Ke ya kola nuu | donne-moi mon pagne | translation |
+| Bii bölèi nummde | tient tes bananes | translation |
+
+## p. 61 (PDF 68)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Column heading "o, a, ö" (possessive adjectives) | u (added after ö) | comment |
+| 1èPers. Pluriel: Niaa Nilan | être vivante; objets | gloss |
+| 3èPers. Pluriel (Franç. column, left blank) | ses | gloss |
+| 4èPers. Pluriel: Naalan, Naa | objets; êtres | gloss |
+| 6èPers. Pluriel: Ndalan, … | ndöö (written above) | comment |
+| Pronoms possessifs, 1èPers. Pluriel: Nii | circled | comment |

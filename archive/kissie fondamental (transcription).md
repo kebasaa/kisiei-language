@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived) and the start of the noun functions (typescript pp. 1–44). PDF pages 1 and 3–48 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives and the start of the possessives (typescript pp. 1–61). PDF pages 1 and 3–68 of 189; PDF page 2 is the inserted orthography sheet and is not part of the original.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -1562,3 +1562,628 @@ Tunndo kel Fala - nè tunndo kel lè , Fala ; Fala = C.O.D
 - Pour trouver le Complément d'objet indirect, on pose la question suivante :
 
 a + yè + sujet + verbe + yè ou a + nè + sujet + verbe +yè
+
+> ✎ [Handwritten notes, p. 45](kissie%20fondamental%20(handwritten%20notes).md#p-45-pdf-49)
+
+Exemples :
+
+a yè Fallo Nyaanun yè ? a sèböö ; sèböö = C.O.I
+a nèè Faya köè yè ? a yunguo ? yunguo = C.O.I
+
+N.B. : "yè" devient"lè" lorsque la finale du radical verbal est latérale.
+
+Exercice : Soulignez de deux traits les compléments d'objet indirect. et d'un trait les compléments d'objet direct.
+
+1. Tamba sungu yanbalen
+2. Pomböö pisul a mömötömndo
+3. Könda saran yööya haw ni
+4. A volölan sia nyanun ni
+5. Nyuma bolin a lamde
+6. Nde Pendu domaa
+7. saa kelu yömndo a tyuei
+8. Fala kow maalon a möèi
+9. Kumba tèèmbu dèndöö.
+
+CORRECTION DE L'EXERCICE.
+
+1. Yèè Tamba sungu yè ? Yambalen ; <u>Yambalen</u> = C.O.D
+2. A yèè pomböö pisul lè ? a mömötömndo ; <u><u>mömötömndo</u></u> = C.OI
+3. Yèè saran yööyaa yè haw ? Könnda ; <u>Könnda</u> = C.O.D
+4. A yèè sia nyanun yè ? A volölan ; <u><u>Volölan</u></u> = C.O.I
+5. A yèè Nyuma bolin yè ? a lamnde ; <u>Lamnde</u> = C.O.D
+6. Yèè nde pendu yè ? Domaa ? <u>Domaa</u> = C.O.D.
+7. Yèè saa kelu yè ? <u>Yömndo</u> ! a yèè ? a <u><u>tyuei</u></u> !
+8. Yèè Fala kow yè ? <u>maalon</u> ! a yèè ? a <u><u>möèi</u></u> !
+9. Yèè kumba tèèmbu yè ? dèndöö ! <u>dèndöö</u> = C.O.D.
+
+LANGAGE : Apprenons à demander des renseignements.
+
+- Nde isè !
+- Mba isè ! n tyalnun
+- i tyo o pelon tyoo
+- vè ?
+- köè pasikali köfanöö tyo yè o yiyaa ?
+- vèè i vöön ni. ?
+- o tyo i vöön te, yilöö ndu kani.
+- o tyèi lakolio ikèi o tyo ni.
+- ba köè tyèi lakoli kon tyo yè ?
+- o tyie leköö
+- Nuvali nde.
+
+COMPTONS : De 100 en 100 jusqu'à 1.000.
+
+| 100 | 200 | 300 | 400 | 500 |
+| --- | --- | --- | --- | --- |
+| Kèmè | Kèmè lediin | Kèmè leyaa | Kèmè lehiöölu | Kèmè lenhuèènu |
+
+| 600 | 700 | 800 | 900 | 1.000 |
+| --- | --- | --- | --- | --- |
+| Kèmè lenhömpum | Kèmè lenhömmèw | Kèmè lenhömaa | Kèmè lenhömahiöölu | …pilè . |
+
+N.B. : A partir de 200 jusqu'à 900 nous notons la présence de la particule "le" qui multiplie le terme "Kèmè" aux unités.
+
+---
+
+## LES FONCTION DU NOM (Suite).
+
+> ✎ [Handwritten notes, p. 47](kissie%20fondamental%20(handwritten%20notes).md#p-47-pdf-51)
+
+### LES COMPLEMENTS CIRCONSTANCIEL :
+
+Ils indiquent le lieu, le temps, la manière, la cause ou le but de réalisation de l'action exprimée par le verbe. Il faut surtout ajouter que c'est le sens qui guide (car ils peuvent être direct ou indirect). Ainsi on distingue :
+
+#### 1°) LE COMPLEMENT CIRCONSTANCIEL DE LIEU :
+
+Il est introduit par la préposition "o" (à, au) qui peut se présenter sous les formes discontinues o... lo (chez), o... nin (dans).
+
+Exemples : Musa köè <u>o Pangaa</u>
+Bèlöö löèi <u>o tèngie nin</u>
+
+Cette fonction est également assumée par les adverbes de lieu qui se placent généralement immédiatement après le verbe : Kpèèlun (tout près) levil (très loin) nanun (ici) Polon (loin) ikèi (à côté) landan (loin) lebèngu (en bas) letyoo (en haut).
+
+Exemples : O köè <u>levil</u>
+Faya viow böölöö <u>Polon</u>
+Mènndan ma tyon <u>lebèngu</u>
+Nawvo tyo <u>Kpèèlun</u>
+
+Pour reconnaître le complément circonstanciel de lieu, on pose la question suivante : Kuè + sujet + verbe + yè ?
+
+Exemples :
+~~Kuè~~ <ins>Köö</ins> Musa köè yè ? O <u>Pangaa</u>
+~~Kuè~~ <ins>Kööne</ins> Faya viow yè böölöö ? <u>Polon</u>.
+
+#### 2°) LE COMPLEMENT CIRCONSTANCIEL DE TEMPS :
+
+Cette fonction est essentiellement assumée par les adverbes de temps qui sont directement relié au verbe : lapöm (l'an dernier) Takan (avant l'an dernier) tyèi (hier) haw (aujourd'hui) Pèi (l'autre jour) siödii (demain) dièn (après demain) sunsun (tout de suite) nanden (cette année).
+
+Exemples : Fiinya ndöö wi <u>lapöm</u>
+Piöö sia <u>tyièi</u>
+Nde tyo hunöö <u>siödii</u>
+
+> ✎ [Handwritten notes, p. 48](kissie%20fondamental%20(handwritten%20notes).md#p-48-pdf-52)
+
+Le complément circonstanciel de temps peut être introduit par la préposition "a". Toujours est-il que les noms qu'il relie au verbe, assumant cette fonction sont des noms des moments de la journé (du temps).
+
+Exemples : Vananyètyaa hin a <u>nyumndan</u>
+Faya köè böllo lö a <u>Pale yönganden</u>.
+
+- Pour retrouver le complément circonstanciel de temps, on pose l'une des questions suivantes :
+
+Tuma ~~kuè~~ + Sujet + Verbe + Yè ?
+Löö ~~kuè~~ <ins>köö</ins> + Sujet + Verbe + Yè ? Boondi Kuè + Sujet + Verbe + Yè.
+
+Exemples :
+Tuma kuè Piöö sia yè ? <u>Tyièi</u>
+Boondi ~~kuè~~ <ins>köö</ins> ndo + tyo yè hunöö ? <u>Siödii.</u>
+
+EXERCICE : Déterminer la fonction des mots soulignés (C.C.L. ou C.C.T.) dans les phrases suivantes :
+
+Vanvalla hiow o <u>Pangaa</u>
+A <u>Pale yönganden</u> o ~~ninni~~ <ins>hin ni</ins>
+Nawvo vi <u>Kpèèlun</u>
+Finya ndöö hin <u>sunsun</u>
+Billo vil o <u>maalon</u> nin
+Köfaa tyo hunö <u>Dièn</u>
+<u>Lebèngu</u>, mènndan ma tyo ni
+Nyamakalaa mungu a <u>nyumndan</u>
+
+CORRECTION DE L'EXERCICE :
+
+<u>Pangaa</u> : Compl.circonst.de lieu introduit par "o".
+<u>Pale yönganden</u> : compl.circonst.de temps.introduit par"a"
+<u>Kpèèlun</u> : Compl.circonstanciel de lieu (adv.de lieu)
+<u>Sunsun</u> : complément circonst.de temps (adv.de lieu).
+<u>Maalon</u> : Complément circonst.de lieu (introduit par o..nun)
+<u>Dièn</u> :Complément circonst.de temps (adv.de temps).
+<u>Lebèngu</u> : Compl.circonstantiel de lieu (Adv.de lieu).
+<u>Nyumndan</u> : Compl.circonst.de temps (introduit par "a").
+
+LANGAGE : Comment interroger sur le lieu, le temps et la détermination du lieu, du temps à travers les reponses.
+
+> ✎ [Handwritten notes, verso of p. 48](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-48-pdf-53)
+
+> ✎ [Handwritten notes, p. 49](kissie%20fondamental%20(handwritten%20notes).md#p-49-pdf-54)
+
+a) LE LIEU :
+
+Köèènè n tyo yè fulaa hoo ? o baalaa nin ya i tyo fulaa ni
+Köèènè nda tyo yè työnönndo hoo ? O lakolio nda tyo työnönndo ni
+Köèènè n tyèn yè ? Kolifaa ya i tyèn ni
+Köèènè n tyo yè lan ou köèènè n tyo yè kölan ? I tyo lan (Kölan) o lakolio
+Köèènè yema num köè yè ? O köè o ~~söndunöö~~ <ins>tailleurnöö</ins> lo
+Ngö ba Kalaa num ~~hiow~~ vo (ou hiow yè) ? O köè o löö nin
+Ngö ba vanaa nummda köè ~~yè~~ <ins>vo</ins> ? a köè o Poli
+Köèènè tyaanhaa naa hiow ~~va~~ <ins>yè</ins> ? a hiow o pu lo
+Köènè lakolia haa tyo yè fulaa ? Lakolia haa tyo fulaa o lakolio
+Ngö ba ya i tyo billo hoo hulöö vo ? Hulu ndu landan.
+Ba köè tyièi pisia makongo tyo yè ? tyièi leyulaa bapilè.
+Kpengiè köèè (ou köèènè) löö tyo yè ? o law mömbillo ikèi.
+
+b) LE TEMPS :
+
+Tuma köèè n hinyè ? Tyèi ya i hin ni.
+Löö köèè teeva hin yè ? Haw o hin ni.
+A boondii köèè Seku Hin yè ? Pèi Seku hin ni.
+Löö köèè (ou a tuma köèè, a boondii köèè) n köè yè ? Lapöm pa.
+Löö köèè Kala num tyo yè lan ? o tyo lan dièn.
+A tuma köèè bè num hunnin yè ? O löèinin namun tyuèllèn te kon te siödii.
+A boondii köèè n kandunin yè baalaa ? Haw
+A tuma köèè n tyo yè sèböö sèva ? sunsun.
+
+COMPTONS : Ajoutons à présent les dizaines aux certaines.
+
+| 110 | 130 | 250 |
+| --- | --- | --- |
+| Kèmè a tö | Kèmè a beleyaa | kèmè lediin a belenhuèènu |
+
+| 220 | 340 | 360 |
+| --- | --- | --- |
+| Kèmè Leddin a bidiin | Kèmè leyaa a belenhiöölu | Kèmè leyaa a belenhömpum |
+
+| 470 | 880 | 990 |
+| --- | --- | --- |
+| Kèmè lehiöölu a belenhömmèw | Kèmè lenhömaa a belenhömaa | kèmè lenhömahiöölu a belenhömahiöölu. |
+
+N.B. : On peut supprimer la particule de liaison "a", ainsi on aura: kèmè leddin bidiin (220) kèmè leyaa beleyaa (330) kèmè lenhièènu tö (510).ect...
+
+Conjugaison : Le verbe "Dioo" à l'imparfait de l'indicatif
+
+| Forme affirmative | forme négative |
+| --- | --- |
+| I va dioo | I ve dioo le |
+| A va dioo | A ve dioo le |
+| O va dioo | O ve dioo le |
+| N va dioo | N ve dioo le |
+| La va dioo | La ve dioo le |
+| A (nda) va dioo | A(nda) ve dioo le |
+
+N.B. : l'imparfait de l'indicatif utilise la 2ème forme du l'auxilliaire du verbe être "va" qui devient "ve" à la forme négative et se place entre le sujet et le verbe (dans la conjugaison).
+
+---
+
+## LES FONCTIONS DU NOM (Suite).
+
+> ✎ [Handwritten notes, p. 51](kissie%20fondamental%20(handwritten%20notes).md#p-51-pdf-56)
+
+#### 3°) LE COMPLEMENT CIRCONSTANCIEL DE CAUSE, BUT (CCC) :
+
+Il est introduit par le momème fonctionnel "le" (Pour, par) qui le relie au verbe.
+
+Exemples : I hin le <u>malun yèiyon</u>
+Faya fula lanöö le <u>sièlèi</u> ~~ndöö~~ <ins>ndöèi</ins>
+Teeva yaw mömöö le <u>mialla</u>
+
+On peut découvrir le complément circonstanciel de cause en posant la question suivante : le yè...... yè = Pourquoi, à cause de quoi,
+
+Le yè + Sujet + Verbe + Yè + (le mot qui vient après le verbe) ou
+Le nè + Sujet + Verbe + Yè -"- -"- S'emploie pour les personnes.
+
+Exemples :
+Le yè Faya fula yè lanöö ? le sièlèi ~~ndöö~~ <ins>ndöèi</ins>; <u>Sièlèi</u> = C.C.C.
+Le yè ~~I~~ <ins>ya</ins> hin yè ? le malun yèiyon ; <u>malun yèiyon</u> = C.C.C.
+Le nèa teeva yaw yè mömöö ? le mialla ; <u>mialla</u> = C.C.C.
+
+#### 4°) LE COMPLEMENT CIRCONSTANCIEL DE MANIERE : (C.C.M.).
+
+Cette fonction est assumée par les adverbes dits de manière : Duèèn duèèn (lentement) Fukufuku (avec grand bruit, avec fracas) Kpasukpasu (abondamment) Lakalukalu (gravement, dangereusement bö) Fan (rapidement) lèngèlèngè, Pupulaa, Yöfödöö
+
+Exemples O tyo hunöö <u>duèènduèèn</u>
+Menndan ma tyo tolöö <u>Fukufuku</u>
+Tyua del (<u>lakalukalu</u>)
+
+D'autres mots peuvent également assumer cette fonction, et là, ils sont introduit par les monèmes fonctionnels "ma" et "a" qui les relient au verbe et qui signifient respectivement "comme, en".
+
+Exemples : Siifaa köè a <u>tyanndo</u>
+O kelaa ma <u>tun</u>
+
+On peut découvrir le complément circonstanciel de manière en posant la question suivante :
+
+> ✎ [Handwritten notes, p. 52](kissie%20fondamental%20(handwritten%20notes).md#p-52-pdf-57)
+
+Vè + Sujet + Verbe + Yè (Vè... Yè = Comment)
+
+Lorsque le verbe est précédé d'une particule de conjugaison la question devient :
+
+Vè + Sujet + Particule + Yè + Verbe
+
+Exemples :
+
+Vè tyua del lè ? (lakalukalu) ; lakalukalu = C.C.M.
+Vè siifaa köè yè ? a tyanndo ; a tyanndo ; a tyanndo = C.C.M.
+Vè o kela yè ? matun ; tun = C.C.M.
+Vè o tyo yè hunöö ? duèènduèèn
+
+EXERCICE : Déterminer la fonction des mots soulignés dans les phrases suivantes :
+
+La kolia tyo hunöö a <u>tyondei</u>
+O löö tyan ndö le <u>viilen</u>
+Faya fula <u>fan</u>
+Jean Pendu nyèdiaa le <u>vanvalla</u>
+Nawva lö tunndo a <u>ikpasa</u>
+Finda del <u>natyali</u>
+O köè o <u>kalaa</u> lo le <u>volion</u>
+
+CORRECTION DE L'EXERCICE :
+
+<u>Tyonde</u> : Complément circonstanciel de manière relié au verbe par"a".
+<u>Viilen</u> : Complément circonstanciel de but (cause)introduit par "le"
+<u>Fan</u> : complément circonstanciel de manière (adv.de manière).
+<u>Vanvalla</u> : Complément circonstanciel de but introduit par "le"
+<u>Ikpasa</u> : Complément circonstanciel de Manière introduit par "a"
+<u>Natyali</u> : complément circonstanciel de manière (adverbe)
+<u>Kalaa</u> : complément circonstanciel de lieu introduit par "o"...lo
+<u>Volion</u> : complément circonstanciel de but introduit par "le".
+
+LANGAGE : Apprenos à interroger sur la manière, sur la cause, le but.
+
+1°) SUR LA MANIERE :
+
+Vèènè n looku yè hunöö ? A n pelu ya i hin ni
+Vèènè n keeku yè ma bolin ? O kiltan nin ya i bolin ni
+Vèè tyaan num tyo yè ? O sianha
+Vèènè tamba köa yè ? Tamba köa työtyö
+Faya yè ? ndu duèènnduèn o köa ni.
+Vèènè vanlaandua tyo yè kölan o biisio ? A tyo lan o bièsio a tyanndo
+
+> ✎ [Handwritten notes, p. 53](kissie%20fondamental%20(handwritten%20notes).md#p-53-pdf-58)
+
+Vèènè Seku fula yè ? A kiltan o fula ni
+Vèènè hoeiye hön yè ? Fukufuku i hönni.
+
+2°) SUR LA CAUSE? LE BUT :
+
+Le yèènè o köè yè ? le vöngu tusumaa (but)
+Le yèènè n pendu yè sèbèdèniaa hoo ? le sèböö dinio pèiyo (but)
+Le yèènè n kèè yè hunöö ? I ve kèndin le (cause)
+Le yèènè o nyaanun yè ? volion o de ni (cause)
+Le yèènè n tyo yè lawvo hoo ? I yeema ni i fuula a tumaa o lakolio.
+
+COMPTONS : Ajoutons à présent les unités aux centaines.
+
+| 101 | 202 | 303 | 404 |
+| --- | --- | --- | --- |
+| Kèmè a pilè | Kèmè lediin a miun | Kèmè leyaa a yaa | Kèmè lehiöölu a hiöölu. |
+
+| 505 | 606 | 707 | 808 | 909 |
+| --- | --- | --- | --- | --- |
+| Kèmè lenhuèènu a nhuèènu | Kèmè lenhömpum a nhömpum | Kèmè lenhömmèw a nhömmèw | Kèmè lenhömaa a nhömaa | Kèmè lenhömahiöölu a nhömahiöölu. |
+
+N.B. : L'adjonction des unités aux centaines a lieu grâce à la particule de liaison "a".
+
+CONJUGAISON : Le verbe "dioo" à l'imparfait (avec un complément).
+
+| FORME AFFIRMATIVE : | FORME NEGATIVE : |
+| --- | --- |
+| I va vision dioo | I ve vision dioo le |
+| A va vision dioo | A ve vision dioo le |
+| O va vision dioo | O ve vision dioo le |
+| N va vision dioo | N ve vision dioo le |
+| La va vision dioo | La ve vision dioo le |
+| A (nda) va vision dioo | A (nda) ve vision le. |
+
+---
+
+## LES ADJECTIFS QUALIFICATIFS
+
+> ✎ [Handwritten notes, p. 54](kissie%20fondamental%20(handwritten%20notes).md#p-54-pdf-59)
+
+L'adjectif qualificatif est un mot qui dit comment sont les personnes, les animaux et les choses. Ainsi défini, il désigne la qualité, le défaut, la forme, la couleur de l'être ou de la chose que le nom désigne. En Kisiei, il se place après le nom qu'il qualifie; dans l'ordre; qualifie + qualifiant.
+
+Exemples: Doma <u>Sènèiyo</u> ; I söla doma sènèiyo
+yöm <u>Bènduo</u> ; Yöm bènduo komba
+Mènma kèndèan; Mènma Kèndèan nan le kölöö ni.
+
+Accord de l'adjectif qualificatif.
+
+En Kisiei, l'adjectif qualificatif s'accorde toujours en classe nominale et en nombre avec le nom qu'il qualifie. La qualifié perdant son morphème classificateur qui est repris sur le qualifiant,
+
+Exemples:
+
+| | | |
+| --- | --- | --- |
+| Singulier: | Domm<u>aa</u> | doma sianh<u>aa</u> |
+| | Kel<u>èi</u> | kelèi pömb<u>öi</u> |
+| | Hoei<u>ye</u> | Hoeyii bèndue<u>i</u> |
+| | vol<u>öö</u> | volö Kènd<u>öö</u> |
+| | Tömnd<u>e</u> | Töm tinhi<u>oo</u> |
+| | Mènnd<u>an</u> | Mènma Kendè<u>an</u> |
+| | Dio<u>lan</u> | Diola vöönnd<u>an</u> |
+| | Siaw<u>len</u> | Siawle dival<u>en</u> |
+| Pluriel: | Doma<u>lan</u> | domala sianhal<u>an</u> |
+| | Kel~~ö~~<ins>aa</ins><u>n</u> | Kel~~ö~~<ins>a</ins>n pömbö<u>ön</u> |
+| | Hoei<u>ye</u> | Hoeyi<u>i</u> bèndue<u>i</u> |
+| | volö<u>lan</u> | volöla kèndèl<u>an</u> |
+| | Tömnd<u>a</u> | töm tinhi<u>a</u> |
+| | Mènnd<u>an</u> | Mènma Kèndèan |
+| | Dio<u>lan</u> | Diola vöönndan |
+| | Siawv<u>an</u> | Siawma div<u>an</u> |
+
+Remarques: 1. Les qualificatifs conservent leurs formes lorsqu'ils sont en rapports avec les noms terminés au singulier par les morphèmes a, ö ou o. C'est-à-dire que ce n'est pas parce que le nom est terminé par a, ö, o que le qualifiant en sera de même.
+
+Exemples: Doma tinhio, doma sianhaa, doma humbuo, doma pömböö töm tinhio, töm sianhaa, töm humbuo, töm pömböö, volö tinhio, volö sianhaa, volö humbuo, volö pömböö
+
+Mais : Möèi tinhièi, möèi sianhai, möèi humbuei, möèi pömböi
+
+> ✎ [Handwritten notes, verso of p. 54](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-54-pdf-60)
+
+> ✎ [Handwritten notes, p. 55](kissie%20fondamental%20(handwritten%20notes).md#p-55-pdf-61)
+
+2. L'adjectif qualificatif peut être employé comme nom. Mais dans ce cas, il doit être précédé d'un réfèrent de morphème en rapport avec la classe du nom.
+
+yoole köè ya tya yè ? <u>le</u> tinhil<u>en</u>
+Doma köè o wonun yè ? <u>o</u> humbu<u>o</u>
+Ngö kelèi n tyuu ndu ve? <u>i</u> sianh~~è~~<ins>a</ins><u>i</u>
+ö Samtala ya tyua ~~vo~~ <ins>lan</ins> ? <u>la</u> tinhil<u>an</u>
+Mènma köè ya tyuu yè nom ? <u>Ma</u> tuuv<u>an</u>
+
+EXERCICE: Soulignez dans ce texte les adjectifs qualificatifs de deux traits et d'un trait les noms qu'ils qualifient.
+
+Dialun nuun
+
+I nö bolte kèndèlen, yinhii tinhiei, nila vilèilan. a tendui nyove. O min ni bingio bèngu, sondoo a työtyön bènduon tyo. Kuula nilan la tyo ~~tintiw~~ <ins>tiwtiw</ins>. I tyo o tyelulaa, Kè i tyo yöfödöö le. I nö doma baasio, ~~lènnè~~ <ins>lèmbè</ins> vilöi peekièiyo, samtala tinhilan a mösil sianhaa.
+
+Correction de l'exercice.
+
+I nö <u>bolte</u> <u><u>kèndèlen</u></u>, <u>yinhii</u> <u><u>tinhiei</u></u>; <u>nila</u> <u><u>vilèilan</u></u> a <u>tendii</u> <u><u>nyave</u></u>. O <u>min</u> ni <u>bingio</u> <u><u>bèngu</u></u>, sondoo a <u>työtyön</u> <u><u>bènduon</u></u> tyo. <u>Kuula</u> nilan la tyo <u><u>tiwtiw</u></u>. <u>I</u> tyo o <u><u>tyelulaa</u></u>, Kè <u>i</u> tyo <u><u>yöfödöö</u></u> le. I nö <u>doma</u> <u><u>baasio</u></u>, <u>lèmbè</u> <u><u>vilèi</u></u> <u><u>perkièiyo</u></u>, <u>Samtala</u> <u><u>tinhilan</u></u> a <u>mösil</u> <u><u>sianhaa</u></u>.
+
+Langage: L'expression du degré dans la qualification.
+
+1°) le degré absolu
+
+- le bas degré: On l'exprime par "böö le" placé après l'adjectif et précédé du morphème réfèrent du nom qualifié.
+
+  Exemples: lembulten le tyelul le böö le
+
+- le moyen degré: il est exprimé soit par "tin", soit par "tuulen" placé après l'adjectif.
+
+  Exemples: Siawlen le tyelul tin
+  Siawlen le tyelul tuulen
+
+- Le haut degré: On l'exprime par "taw", placé après l'adjectif.
+
+  Exemples: Panpulumusulen le tyelul taw
+  Domaa hoo nan taw
+
+2°) le degré relatif (ou comparatif)
+
+- Le superlatif: a) comparaison d'une qualité à une autre chez le même être: le Superlatif est exprimé par "hïow" placé après le nominal à comparer.
+
+> ✎ [Handwritten notes, verso of p. 55](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-55-pdf-62)
+
+> ✎ [Handwritten notes, p. 56](kissie%20fondamental%20(handwritten%20notes).md#p-56-pdf-63)
+
+<u>Tyeluo</u> tyuaa hoo <u>hiow</u> a <u>bandei</u>
+
+b) comparaison d'un être à un autre être au point de vue d'une même qualité.
+
+<u>Pewvo</u> ~~<u>hiow</u>~~ <ins>hau</ins> tyelul a <u>tyuinndo</u>
+ou <u>Pewvo</u> <u>hiow</u> <u>tyuinndo</u> tyelul. Faya hiow Musa bande:
+Kumba hiow sia nanhöö
+
+- Comparatif d'infériorité:
+
+  Siamndo nan o hiow dökuwo
+  Siamndo hiw dökuwo nanhö le
+
+- Comparatif d'égalité: il est exprimé par "Kpenkpen" placé après l'adjectif.
+
+  Siamndo nda völö nanhöö kpenkpen
+  Fatamba nda sidiki bandei kpenkpen.
+
+Lorsqu'on veut comparer tel être à tel autre au point de vue caractère, comportement, ce type de comparaison est marqué par "maa" placé après l'adjectif, ou le verbe.
+
+<u>Poo</u> hoo vöw <u>maa</u> <u>töm</u>
+<u>Fallo</u> hoo kela <u>maa</u> <u>tun</u>
+
+Comptons: Aux certaines et dizaines, nous allons ajouter les unités: certaine + dizaine + unité.
+
+| 111 | 234 | 548 |
+| --- | --- | --- |
+| Kèmè a tö a Pilè | Kèmè lediin beleyaa a hiööla | Kèmè lenhuèènu Belehöölu a nhömaa. |
+
+| 621 | 756 |
+| --- | --- |
+| Kèmè lenhömpum bidin a pilè | Kèmè lenhömmèw a nhömpum etc!.! |
+
+- Procéder de la même manière et compter de 100 à 1.000
+
+Conjugaison: Le verbe "Dioo" au Futur
+
+| Forme Affirmative | Forme négative |
+| --- | --- |
+| I diènin mömöö | I dinin mömö le |
+| A dianin mömöö | A dinin mömö le |
+| O dianin mömöö | O dinin mömö le |
+| N dianin mömöö | N dinin mömö le |
+| La dianin mömö | La dinin mömö le |
+| A (nda) dianin mömö | A(nda) dinin mömö le |
+
+---
+
+## LES ADJECTIFS ET PRONOMS DEMOSTRATIFS :
+
+> ✎ [Handwritten notes, p. 57](kissie%20fondamental%20(handwritten%20notes).md#p-57-pdf-64)
+
+En Kisiei, d'une manière générale et du point de vue morphologique, les adjectifs et pronoms démostratifs sont les mêmes. Seul le statut fonctionnel et la distribution qui leurs sont conférés au sein de l'énoncé constituent leur différence. Les adjectifs se placent immédiatement à côté du nom qu'ils déterminent tandis que les pronoms assument les fonctions imparties aux nominaux.
+
+Exemples : 1. Domaa <u>hoo</u> nin te
+2. <u>Hoo</u> hiow nanhöö
+
+Dans le premier exemple hoo est adjectif et dans le second il est pronom. Suivant que l'objet à désigner est à une portée plus ou moins proche du sujet parlant ou de l'interlocuteur, nous distinguons deux groupes de démonstratifs :
+
+- Les premiers indiquent la proximité ; ce sont : Hoo, Hee, Haa, Man, Lan (tan), Len (ten) Mun.
+- Les seconds indiquent l'éloignement, ce sont : Kon, Ken, Kan, Man, Lan, (tan), Len (ten), Mun.
+
+<u>Proximité</u> : Kol<u>aa</u> hoo nin te ; nan
+<u>Eloignement</u> : Kol<u>a</u> Kon ; Kon.
+
+REMARQUONS : que les noms, lorsqu'ils fonctionnent avec les adjectifs démonstratifs de proximité, se présentent sous leur forme définie (c'est-à-dire munie de leur modalité) Tandis qu'ils, sous la forme indéfinie (c'est-à-dire sans leur modalité), sous forme de radical avec les adjectifs démonstratifs d'éloignement. (au singulier).
+
+ACCORD DES DEMONSTRATIFS :
+
+En Kisiei, les démonstratifs s'accordent en classe nominale et en nombre avec les noms qu'ils déterminent. Ainsi nous distinguons une forme du singulier opposée à celle du pluriel. (voir tableau ci-dessous).
+
+Exemples : Yowv<u>o</u>, yow kon - yowva haa - yovaa kan
+Tyènnde he, Tyinhii ken - Tyinndon Men Tyihun ~~num~~ <ins>man</ins>.
+Mènndan man ma nan ; Man yè ma nin te.
+Yoolen len le nan kè len num o ba hiow ya hènan
+Domalan lan ha hiow ya ; Tan lamini o ba la bènda ya ni.
+Kolèi he tyo o Paandue ni ken tyo i sianèiye ni
+
+> ✎ [Handwritten notes, p. 58](kissie%20fondamental%20(handwritten%20notes).md#p-58-pdf-65)
+
+TABLEAU DES DEMONSTRATIFS.
+
+| FORMES \ MODALITES | o, a, ö | i - e | an | len | lan |
+| --- | --- | --- | --- | --- | --- |
+| PROXIMITE SINGULIER | Ho (ce, cette, ceci, cellui-ci, celle-ci | He | Man | Len | Lan |
+| PROXIMITE PLURIEL | Haa ces, ceux-ci celles-ci | Mun | Man | Man He | Tan |
+| ELOIGNEMENT SINGULIER. | Kon cela, celui-là, celle-là | Ken | Man | Len | Lan |
+| ELOIGNEMENT PLURIEL. | Kan - Ken ceux-là, celles-là | Mun | Man | Kèn-Man | ton |
+
+REMARQUE : La distinction entre Proximité et Eloignement lorsque les formes identiques, se fait grâce aux tons. En ce moment, la proximité se réalise avec un ton bas ( ̲ ) tandis que l'éloignement est marqué par le ton haut ( ́ ).
+
+EXERCICE : Remplacez les pointillés par les adjectifs ou pronoms démonstratifs qui conviennent.
+
+La mèèndan ndö tyuaanböö tyo... fulaa o lakolio va :...nö kaakiilan Leköö,.... nda nö volöla yönhaalan leköö.Tyuambölo....le tyo hunino a bölö ndöö o ba.... ndu tyo kèèsönndo a doma ndö kèndöö.La nufa vö poombö tyelulèi tyo... Kölan <ins>nèiyo</ins> tyoo vo.
+
+CORRECTION DE L'EXERCICE :
+
+La mèèndan ndö tyuaanböa tyo <u>haa</u> fulaa o lakolio va : <u>haa</u> nö kaakiilan Leköö, <u>haa</u> nda nö volöla yönhaalan leköö. Tyuambole <u>len</u> le tyo huuluo a bölö ndöö o ba. <u>Hoo</u> ndu tyo kèèsönndo a doma ndö kèndöö? La nufa vö Poombö tyelulèi tyo <u>kon</u> kölan nèiyo tyoo vo.
+
+> ✎ [Handwritten notes, p. 59](kissie%20fondamental%20(handwritten%20notes).md#p-59-pdf-66)
+
+LANGAGE : O löö nin
+
+- Fallo isè !
+- Mba isè !
+- Fallo vèè kolaa hoo nö yè baa
+- Kolaa pilè, siiliyon kèmè
+- Döönan tin
+- baa ndöö tyo kon ni
+- volin tyo ya ba vo tiuw le
+- Vèè n nö yè ?
+- Siiliyon belenhömahiöölu.
+- tyu kon.
+- Samtalan lan yè
+- Siiliyon kèmè lenhömpum
+- Yöngu ya vèlè kolèi ken a yole len le vè nuu.
+- Ken num bapilè ?
+- a vèlè möön mun
+- Nyum ndö i simbul o sèböö nin.
+- Faw-faw vèènè ?
+- Siiliyon vapilè
+- Pisul la nyèènbö le tyoo !
+- i pisi bidiin..
+- Mel la a siiliyon kèmè lenhömahiöölu a belenhuèènu.
+- Yöngu volion.
+- Balika Fallo
+- Mum bè nuvali.
+
+COMPTONS : Revision : Lisez en Kisiei les chiffres suivants :
+
+1 - 8 - 6 - 9 - 12 - 15 - 18 - 24 - 32 - 44 .
+70 - 86 - 99 - 104 - 208 - 301 - 406 - 508.
+300 - 310 - 317 - 420 - 435 - 520 - 535 - 647.
+658 - 713 - 739 - 873 - 886 - 987 - 999 - 1000.
+
+CONJUGAISONS Le Mode Impératif : le Présent.
+
+| FORME AFFIRMATIVE. | FORME NEGATIVE. |
+| --- | --- |
+| Dio | Dia le |
+| O dio | O dia le |
+| N dio | N dia le |
+| La dio | La dia le |
+| A dio | A dia le. |
+
+---
+
+## LES ADJECTIFS ET PRONOMS POSSESSIFS :
+
+> ✎ [Handwritten notes, p. 60](kissie%20fondamental%20(handwritten%20notes).md#p-60-pdf-67)
+
+Les Possessifs servent essentiellement à marquer la possession. Ils varient selon qu'il s'agit de celui qui parle (1ère personne) de celui à qui l'on parle (2ème personne) ou de celui dont on parle (3ème personne).
+
+Les adjectifs Possessifs se distinguent des Pronoms Possessif, par le fait que les Pronoms se font précéder des particules de références catégorielles : "o ; i ; ma ; le ; la" pour le singulier "a (la ; i) ; n ; ma ; et i pour le pluriel.
+
+Exemples :
+
+Kola nuu : O nuu
+Kolèi nii : i nii
+Lènndon naalen : le naalen
+Bala nilan : La nilan.
+
+REMARQUE : Nous attirons d'ors et déjà votre attention sur l'adjectif possessif "Nuu" qui devient "Nii".
+
+1°)- Dans des phrases négatives et interrogatives où il prend une valeur d'indéfinie.
+
+Exemples : Naw <u>nuu</u> va o tyièi nin (affirmative)
+Naw <u>nii</u> ve lon te (négative)
+A tyil la naw ni lon te ? (interrogative).
+
+2°)- Dans des phrases où il a une valeur expressive.
+
+Exemples : Finya <u>ni</u> mal la Haki !
+Kanikokoe ! nyè <u>ni</u> köè pa !
+
+N.B. : Les substantifs déterminés se présentent toujours sous leur forme indéfinie (radicale).
+
+ACCORD DES POSSESSIFS :
+
+Tout comme les Démonstratifs, les Possessifs s'intègrent aisement dans la catégorie nominale. C'est-à-dire qu'ils s'accordent en rapport avec la classe nominale et le nombre qu'ils déterminent.(Voir tableau).
+
+Exemples : Tyalii yungu <u>nummdo</u> kendu
+Pömböa <u>nia</u> tyo o kaannden
+Ke ya kola <u>nuu</u>
+Bii bölèi <u>nummde</u>
+
+> ✎ [Handwritten notes, p. 61](kissie%20fondamental%20(handwritten%20notes).md#p-61-pdf-68)
+
+TABLEAU DES ADJECTIFS POSSESSIFS.
+
+| PERSONNES \ MODALITE | | o, a, ö | e, i | an | len | lan | Franç. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1èPers. | Sing. | Nuu | Nii | Nian | Nilen | Nilan | Mon, Ma |
+| | Pluriel | Niaa Nilan | Nuun | Nian | Nii(Nian) | Nilan | Mes |
+| 2èPers. | Sing. | Nummdo | Nummde | Nummdan | Nummden | Nummdan | Ton, Ta |
+| | Pluriel | Nummda, Num+ndan | Nummdon Nummdan | | Nummde Nummdan | | Tes |
+| 3èPers. | Sing. | Ndöö | Ndöèi | Ndöan | Ndölen | Ndölan | Son, Sa |
+| | Pluriel | Ndöa, Ndöi Ndölan | Ndön | | Ndöè, Ndöan Ndölan | | |
+| 4èPers. | Sing. | Naa | Nèi(Nai) | Naan | Naalen | Nalan | Notre |
+| | Pluriel | Naalan, Naa | Naan | | Nan, Nai | | Nos |
+| 5èPers. | Singu. | Niaa | Nièi(Niai) | Nian | Nialen | Nialan | Votre |
+| | Pluriel | Nialan, Niaa Niai | Nian | | Nian, Niai | | Vos |
+| 6èPers. | Sing. | Ndaa | Ndai | Ndan | Ndalen | Ndalan | Leur |
+| | Pluriel | Ndalan, Ndai ou Ndèi | Ndan | | Ndèi ou Ndai Ndan | | leurs |
+
+TABLEAU DES PROMONS POSSESSIFS.
+
+| PERSONNES \ MODALITES | | o, a, ö | e - i | an | len | lan | Franç. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1èPers. | Sing. | O nuu | I nii | Ma Nian | Le Nilen | La Nilan | Le mien |
+| | Pluriel | a Niaa, I Nii, la Nialan | N Nuun | | Ma Nian I Nii | | Les miens |
+| 2èPers. | Sing. | O Nummdo | I Nummde | Ma Num-ndan | le nummden | La Num-ndan | le tien |
+| | Pluriel | a Nummda, I Nummde, la Nummdan | N Nummden | | Ma nummdan | | les tiens |
+| 3èPers. | Sing. | O Ndöö | I Ndöèi | Ma Ndöan | Le ndölen | La Ndö-lan | le Sien |
+| | Pluriel | a Ndöa | I Ndön | | Ma Ndöan | | Les Siens |
