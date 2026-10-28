@@ -1,74 +1,87 @@
 # Kisie
 
-A collection of sources on the **Northern Kissi** language (also written *Kisie*, *Kisiei* or *Kissi*; ISO 639-3 `kqs`), being digitised for further use.
+A grammar and orthography guide-book for **Kisiei** (Northern Kissi, also written *Kisie* or *Kissi*; ISO 639-3 `kqs`), published as a bilingual French/English website, together with the source material it is based on.
 
-Northern Kissi belongs to the Mel branch of the Atlantic–Congo languages. It is spoken mainly in the Guéckédou and Kissidougou region of south-eastern Guinea, and also in neighbouring parts of Sierra Leone and Liberia.
+Kisiei belongs to the Mel branch of the Atlantic–Congo languages. It is spoken mainly in the Guéckédou and Kissidougou region of south-eastern Guinea, and also in neighbouring parts of Sierra Leone and Liberia.
 
-## Purpose
+## The guide-book
 
-Many written sources on Kisiei exist only as paper typescripts or scans, and most use an older spelling. This repository:
+The site in `docs/` is written for people who **write and teach** Kisiei. It covers:
 
-1. keeps the original scans in `archive/`;
-2. transcribes them into Markdown **exactly as written**, in the original orthography;
-3. later produces versions in the current orthography from those faithful transcriptions.
+- **Orthography:** alphabet, vowels and vowel length, consonants, tone marks, word division and hyphens, punctuation, names and loanwords, and how to read the old (1970s) spelling.
+- **Grammar:** noun classes and agreement, determiners, pronouns and relative clauses, the verb (stems, tense–aspect–mood, negation, derived verbs), invariable words, and the sentence.
+- **Reference:** verb tables, word lists, everyday phrases, a glossary and a list of open questions.
 
-Keeping step 2 separate from step 3 means the original text can always be checked, and spelling conversion errors can be traced back.
+French is the main language (at `/`); English is at `/en/`. A small language icon at the top right switches between them.
+
+### Sources and standard
+
+1. **The Kisiei Bible** (*Bii Bila*, BKG, © Alliance Biblique en Guinée; [bible.com version 1394](https://www.bible.com/bible/1394/GEN.1.BKG)) is the **spelling and usage standard**. It is the most recent and by far the longest text in the current orthography, and it always takes precedence. Grammar rules are derived from its texts, and examples are quoted from it with their verse reference.
+2. **Keita (1979)**, *Essai d'élaboration d'un Kisiei fondamental* (see `archive/`), is the background description of the grammar. Its spelling is outdated and it contains errors, so every point taken from it is checked against the Bible and against Childs.
+3. **Childs (1995)**, *A Grammar of Kisi*, and **Childs (2000)**, *A Dictionary of the Kisi Language*, describe mainly Southern Kissi (Liberia, Sierra Leone). They are used for comparison and analysis, never as the norm. These books are not distributed in this repository.
+
+Every Kisiei example on the site carries a status: **attested** (the form occurs in the Bible), **respelled** (taken from Keita 1979 and converted to the current spelling, but not found in the Bible) or **to check**. Citations use author–date with page numbers, for example "(Keita 1979, p. 57)", and Bible references link to the verse on bible.com.
+
+### Building the site locally
+
+The site uses [MkDocs](https://www.mkdocs.org/) with the Material theme and `mkdocs-static-i18n`. With [uv](https://docs.astral.sh/uv/):
+
+```bash
+uv run --with-requirements requirements-docs.txt mkdocs serve
+```
+
+```bash
+uv run --with-requirements requirements-docs.txt mkdocs build --strict
+```
+
+The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions builds the site and publishes it to GitHub Pages (enable Pages with source "GitHub Actions" in the repository settings).
+
+### Bible tools
+
+The Bible text itself is **not** stored in the repository. The tools download it into the git-ignored `.cache/bible/` folder for local analysis; only the list of word forms is committed.
+
+| Command | Purpose |
+| --- | --- |
+| `uv run tools/fetch_bible.py [--delay 1.0] [--books GEN,EXO]` | Download the BKG chapters (slowly, about one per second) into `.cache/bible/`. Already downloaded chapters are skipped. |
+| `uv run tools/build_wordlist.py` | Rebuild `references/bible-bkg-wordforms.tsv` (distinct word forms, counts, spellings with tone marks, first reference). |
+| `uv run tools/bible_concordance.py -w REGEX` | Search the cached text by word or pattern (`-v` for whole-verse patterns) and show each hit in context with its reference. |
 
 ## Repository contents
 
 | Path | Description |
 | --- | --- |
-| [`archive/kissie fondamental (original scan).pdf`](archive/kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of *Essai d'élaboration d'un Kisiei fondamental à l'usage des locuteurs non Kisi*, a 1979 thesis by Sékou Sondo Keita (Institut Polytechnique Gamal Abdel Nasser de Conakry). It covers phonetics, grammar, verb conjugation, syntax, a Kisiei–French lexicon and Kisiei texts in an annex. Written in French and Kisiei, old orthography. |
-| [`archive/kissie fondamental (transcription).md`](archive/kissie%20fondamental%20(transcription).md) | Markdown transcription of the scan above, in the original orthography. |
-| [`archive/kissie fondamental (handwritten notes).md`](archive/kissie%20fondamental%20(handwritten%20notes).md) | Handwritten annotations found on the scan (mostly French glosses and translations, plus Kissidougou variants), listed page by page next to the typed text they refer to. |
-| [`archive/nouvel orthographe kissi.pdf`](archive/nouvel%20orthographe%20kissi.pdf) | One-page guide mapping the old orthography to the new one. |
+| `docs/` | The guide-book pages (`page.fr.md` and `page.en.md` side by side), the bibliography `references.bib` and the site stylesheet. |
+| `tools/` | MkDocs hook (example checking, citations, Bible links), Bible download and word-list tools, translation check. |
+| `references/bible-bkg-wordforms.tsv` | Word forms of the Kisiei Bible, used to check the examples. |
+| [`archive/kissie fondamental (original scan).pdf`](archive/kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of Sékou Sondo Keita's 1979 thesis (Institut Polytechnique Gamal Abdel Nasser de Conakry): phonetics, grammar, conjugation, syntax and a Kisiei–French lexicon, in French and Kisiei, old orthography. |
+| [`archive/kissie fondamental (transcription).md`](archive/kissie%20fondamental%20(transcription).md) | Complete Markdown transcription of the scan, in the original orthography, with handwritten corrections inline. |
+| [`archive/kissie fondamental (handwritten notes).md`](archive/kissie%20fondamental%20(handwritten%20notes).md) | Handwritten annotations found on the scan (French glosses, translations, Kissidougou variants), page by page. |
+| [`archive/nouvel orthographe kissi.pdf`](archive/nouvel%20orthographe%20kissi.pdf) | One-page table of correspondences between the old and the new orthography. |
 
-## Orthography
+### The Keita transcription
 
-The archive documents use the **old orthography**. The main correspondences with the new orthography are:
+The transcription of Keita (1979) is **complete and final**: all 189 PDF pages (typescript pp. 1–165 and the bibliography; the annex of tales is missing from the scan). It deliberately keeps the old orthography and the author's typos, and it will not be converted to the new spelling; the guide-book uses it as a source instead. Its conventions were:
 
-| Old | New |
-| --- | --- |
-| ty | c |
-| nh | ŋ |
-| ny | ɲ |
-| è | ɛ |
-| ö | ɔ |
-| mb | nb |
+- the text reproduced exactly (spelling, diacritics, punctuation, capitalisation), in precomposed Unicode (NFC);
+- handwritten corrections of the typed text inline, as `~~struck text~~` and `<ins>replacement</ins>`;
+- all other handwritten annotations in the separate notes file, linked from the transcription with `> ✎ [Handwritten notes, p. N](…)` lines.
 
-Example: *Söèi tasei* (old) → *Sɔɛi tasei* (new).
+## Orthography in brief
 
-The new orthography also marks things the old one did not:
+The old spelling used in the archive differs from the current one mainly in these letters:
 
-- **tone**, with accents on vowels (for example `ɔ́`);
-- **vowel length**, by writing the vowel twice (for example `aa`, `ɔɔ`).
-
-**Archive transcriptions deliberately keep the old spelling.** Do not "correct" them to the new orthography; converted versions will be separate files.
-
-## Workflow and status
-
-```
-scan (PDF)  →  faithful transcription (old orthography)  →  converted text (new orthography)
-```
-
-| Source | Transcription | Conversion |
+| Old | New | Example |
 | --- | --- | --- |
-| Kissie fondamental (1979) | Complete: all 189 PDF pages (typescript pp. 1–165 and bibliography; the annex of tales is missing from the scan) | Not started |
+| ty | c | *tyuaa* → *cuaa* |
+| nh | ŋ | *Nhömmèw* → *ŋɔmmɛw* |
+| ny | ɲ | *nyèm* → *ɲɛm* |
+| è | ɛ | *Söèi* → *sɔɛi* |
+| ö | ɔ | *Kolöö* → *kolɔɔ* |
 
-### Transcription conventions
-
-- Reproduce the text exactly: spelling (including the author's typos), diacritics, punctuation and capitalisation.
-- Use precomposed Unicode characters (NFC), for example `ö` as U+00F6.
-- Use Markdown only for structure: headings, tables for lexicons and paradigms, and paragraphs.
-- Handwritten corrections of the typed text go into the transcription: the struck text as `~~strikethrough~~`, the handwritten replacement as `<ins>…</ins>`.
-- All other handwritten annotations go in a separate `(handwritten notes).md` file: one table per page, each note next to the typed text it refers to, labelled as gloss, translation, variant or comment, with `[?]` for uncertain readings. In the transcription, a `> ✎ [Handwritten notes, p. N](…#p-n-pdf-m)` line where that page's content begins links to the matching notes section. The glosses and translations there can later be collected into a Kisiei–French word list.
-
-## External resources
-
-- **Kisiei Bible** (YouVersion): <https://www.bible.com/bible/1394/GEN.1.BKG>. A large text in the modern orthography, including tone marks and long vowels. It is the main reference for modern spelling conventions when converting the archive transcriptions.
+The current orthography, as used in the Bible, also writes long vowels double (*aa*, *ɔɔ*), marks tone with accents where it matters grammatically (*mí* / *mì*, *háá*), keeps *mb*, and writes *ŋ* at the end of a stem before *-nd-* endings (*lɛŋnden*). The guide-book's [orthography chapter](docs/orthography/) describes the rules in full.
 
 ## License
 
-The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see [`LICENSE`](LICENSE). You may share and adapt the material for non-commercial purposes, as long as you give appropriate credit.
+The guide-book text and the transcriptions are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0); see [`LICENSE`](LICENSE). The code in `tools/` is under the MIT License; see [`LICENSE-CODE`](LICENSE-CODE).
 
-The original works in `archive/`, such as Sékou Sondo Keita's 1979 thesis, remain the work of their authors. When using them or their transcriptions, credit the original author as well as this repository.
+The original works in `archive/`, such as Sékou Sondo Keita's 1979 thesis, remain the work of their authors. Bible quotations are short excerpts from the Kisiei Bible, © Alliance Biblique en Guinée. When using this material, credit the original authors as well as this repository.
