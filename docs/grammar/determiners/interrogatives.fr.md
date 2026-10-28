@@ -19,7 +19,7 @@ Les règles de cette page sont dégagées des textes de la Bible en kisiei [[(BK
 ### Questions partielles (qui, quoi, où…)
 
 1. Le mot interrogatif se place **en tête** de la phrase, ou juste après le nom qu'il détermine ({{Dɛnɛ yɛɛ}} « quelle chose », {{Langbanɔ kuɛɛ}} « quel homme »).
-2. Il est souvent suivi de la particule de mise en relief {{nɛ}} : {{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? », {{Yɛɛ nɛ kendu yɛ a Mɛlɛka}} « Qu'y a-t-il de trop difficile pour le Seigneur ? » [[GEN.18.14]].
+2. Il est souvent suivi de la particule {{nɛ}}, facultative et sans changement de sens notable (de même en kissi du Sud [[(Childs1995, p. 144)]]) : {{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? », {{Yɛɛ nɛ kendu yɛ a Mɛlɛka}} « Qu'y a-t-il de trop difficile pour le Seigneur ? » [[GEN.18.14]].
 3. Le verbe est suivi de la particule **{{yɛ}}**, qui ferme la question : {{n co yɛ}}, {{n tosa yɛ}}. Au futur, {{yɛ}} s'attache à *-nin* : {{yɛnin}} ({{vɛ̀ɛ̀ ya sina yɛnin}} « comment le saurai-je ? » [[GEN.15.8]]).
 
 Le pronom sujet prend la forme de la série des relatives : {{n}} « tu », {{ya}} « je », {{naa n}} « nous », {{niaa}} « vous » ({{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? » ; {{kuɛɛ niaa fula yɛ}} « d'où venez-vous ? » [[GEN.29.4]]). Voir [Propositions relatives](../pronouns/relative.md).
