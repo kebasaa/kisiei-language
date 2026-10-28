@@ -1,8 +1,8 @@
 lemma,status,pos,class,plural,forms,gloss_fr,gloss_en,domains,bible_count,bible_ref,keita_form,keita_page,childs_page,childs_form,southern_sense_en,note
 a,attested,pron,,,,"tu ; ils, elles (sujet)",you (sg.); they (subject),9.2.3,35305,GEN.1,,,,,,
 a,attested,prep,,,,avec ; et,with; and,9.2.4 9.2.5,35305,GEN.1,,,,,,
-a yandi,attested,interj,,,,"s'il te plaît, je t'en prie",please,9.2.7 4.3.7,,,,,,,,
-aa,attested,part,,,,introduit les paroles rapportées,quotative particle,9.2.6 3.5.1,8249,GEN.1.3,,,,,,
+a yandi,attested,interj,,,,"s'il te plaît, je t'en prie",please,9.2.7 4.3.7,,,,,398,yándíí,,
+aa,attested,part,,,,introduit les paroles rapportées,quotative particle,9.2.6 3.5.1,8249,GEN.1.3,,,2,àà,"also 'like, as' (comparison)",
 ansan,attested,noun,,,,encens,incense,4.9.8,94,EXO.25.6,,,,,,
 ba,attested,noun,,,,"côté ; (o … ba) chez, auprès de, aux mains de ; (a ba …) du côté de","side; (o … ba) with, at, in the hands of; (a ba …) towards",8.6.3 9.2.4,3579,GEN.2.8,,,,,,a ba paalen le can-ndo « à l'est » ; o ba bɛngu « sous l'autorité de ».
 baa,attested,noun,o,balan,ba,"main, bras","hand, arm",2.1.3,555,GEN.1.9,Baa,131,2,bàá,"hand, arm; also way, fork in a road",
@@ -14,7 +14,7 @@ bakpeŋndo,respelled,noun,o,,,poignet,wrist,2.1.3 2.1.6,,,Bakpenndo,131,211,kpé
 bakɔllo,respelled,noun,o,,,paume de la main,palm of the hand,2.1.3,,,Baköllo,131,5,bàkɔ̀lló,,
 balaa,attested,noun,,,,pourtour ; (o balaa sɔ́) autour,surroundings; (o balaa sɔ́) round about,8.5.4,20,JOS.21.42,,,,,,
 balan,attested,noun,lan,,bala,main(s),hand(s),2.1.3,220,GEN.17.9,,,,,,vana bala fondoo « pauvre » (litt. « main vide »).
-balika,attested,interj,,,,merci,thank you,9.2.7 4.3.7,125,GEN.24.48,,,,,,
+balika,attested,interj,,,,merci,thank you,9.2.7 4.3.7,125,GEN.24.48,,,5,báléká,,
 balikaa,attested,noun,,,,"remerciement, action de grâces","thanks, thanksgiving",4.3.7 4.9.5,51,LEV.7.12,,,,,,Voir l'interjection balika « merci ».
 bállo,attested,noun,o,báltan,,lance,spear,4.8.3 6.4.1,26,NUM.25.7,Ballo,156,6,bàlló,,
 baloo,attested,noun,o,,balo,nourriture ; (dɔwnun balo) se nourrir,food; (dɔwnun balo) feed on,5.2,102,GEN.1.29,,,,,,
@@ -41,11 +41,11 @@ belaŋɔmahiɔɔlu,attested,num,,,,quatre-vingt-dix,ninety,8.1.1,23,GEN.5.9,,,,,
 belaŋɔmmɛw,attested,num,,,,soixante-dix,seventy,8.1.1,72,GEN.4.24,,,,,,
 belaŋɔmpum,attested,num,,,,soixante,sixty,8.1.1,68,GEN.5.15,,,10,béléŋgɔ̀mpùm,,
 belehiɔɔlu,attested,num,,,,quarante,forty,8.1.1,148,GEN.5.13,,,,,,
-beleyaa,attested,num,,,,trente,thirty,8.1.1,191,GEN.5.3,,,,,,
+beleyaa,attested,num,,,,trente,thirty,8.1.1,191,GEN.5.3,,,10,béléyáà,,
 beleŋuɛɛnu,attested,num,,,,cinquante,fifty,8.1.1,150,GEN.6.15,,,,,,
 bembaa,respelled,noun,o,,,grand-père,grandfather,4.1.9,,,Bembaa,134,18,bìmbàá,grandparent,"La Bible dit fuɲa-mamaa « grand-père, ancêtre »."
 bibuloo,respelled,noun,o,,,Bible,Bible,4.9.8,,,Bibuloo,150,,,,
-bidiin,attested,num,,,,vingt,twenty,8.1.1,327,GEN.6.3,,,,,,
+bidiin,attested,num,,,,vingt,twenty,8.1.1,327,GEN.6.3,,,16,bídìíŋ,,
 bii,attested,verb,,,biinin,"saisir, attraper, tenir ; garder, observer (un commandement)","seize, catch, hold; keep (a commandment)",7.3.4 7.4.5,2065,GEN.3.6,,,20,bìyɔ̀ɔ́,,
 biiloo,attested,verb,,,biilu; biilunin,"louer, glorifier, adorer","praise, glorify, worship",4.9.5,316,GEN.9.26,,,,,,
 biilɔnndo,attested,verb,,,,"être glorifié, être loué","be glorified, be praised",4.9.5,13,DEU.12.5,,,,,,Moyen de biiloo « louer ».
@@ -126,7 +126,7 @@ bɛsio,check,verb,,,bɛsi,"écobuer (Keita) ; porter, prendre soin (?)","burn-cl
 bɛsuo,respelled,noun,o,,bɛsu,balai,broom,5.6.5,,,Bèsuo,159,15,bɛ̀sòó,,"Forme radicale bɛsu dans la Bible (Is 14,23)."
 bɛŋianndo,check,verb,,,,se botter (?),put on boots (?),5.3.7,,,Bènhianndo,114,,,,"Glose de Keita peu claire ; peut-être moyen de bɛŋio « se détacher, se défaire »."
 bɛŋio,attested,verb,,,bɛŋi; bɛŋin,"arracher, démonter, détacher","knock out, pull out, dismantle",7.3.2 7.9.3,1,GEN.19.9,Bènhia,110,14,bèŋìó,come out (as a blade from its handle),"Keita écrit bènhia ; la Bible a la forme longue bɛŋio (GEN 19,9). bɛŋi : faire sauter une dent (EXO 21,27) ; bɛŋin : se détacher (fer de hache, DEU 19,5)."
-bɛɛ,attested,part,,,,aussi ; même ; déjà,also; even; already,9.2.6,2221,GEN.1.11,,,,,,
+bɛɛ,attested,part,,,,aussi ; même ; déjà,also; even; already,9.2.6,2221,GEN.1.11,,,11,bɛ́ɛ́,"also 'indeed, just, now'",
 bɛɛlen,attested,noun,len,,bɛɛle,"honneur, gloire ; (ke … bɛɛlen) honorer","honour, glory; (ke … bɛɛlen) honour",4.5.6,180,GEN.30.20,,,,,,
 bɛɛndiaa,attested,verb,,,,"préparer, apprêter ; arranger, réparer","prepare, make ready; set right",7.5 7.9.4,135,GEN.14.14,,,,,,
 bɛɛndian,attested,verb,,,bɛɛndianndo,"se préparer, s'apprêter",get ready,7.5,49,GEN.22,,,,,,Moyen de bɛɛndiaa « préparer ».
@@ -145,11 +145,11 @@ can,attested,verb,,,cannin,"se lever, partir","get up, set out",7.1.1 7.2.3,603,
 caŋnda,attested,noun,,,,"hanche, reins","hip, loins",2.1.2,19,GEN.18.20,Tyannda,132,39,càŋndá,"waist, lower belly","Homographe : caŋnda « clameur, plainte » (Gn 18,20 ; Nb 14,27)."
 caŋndo,attested,verb,,,caŋ; ceŋ; caŋnin; ceŋnin,pleurer ; pleurs,"weep, cry ; weep, cry; weeping",3.4.2,123,GEN.21.16,Tyanndo,115,39,càŋndó,"cry, weep, whine","Keita écrit tyanndo ; la Bible écrit caŋndo (GEN 21,16). ceŋ, ceŋnin : radical négatif (GEN 43,31 ; MAT 11,17)."
 ceendo,attested,noun,o,,,"monde, terre","world, earth",1.2,375,GEN.1,,,,,,
-celen,attested,det,,,,autre,"other, another",8.3.5,783,GEN.4.25,,,,,,
+celen,attested,det,,,,autre,"other, another",8.3.5,783,GEN.4.25,,,39,cělèŋ-,,
 ciei,attested,noun,i,,,mortier,mortar,6.7.2 5.2.1,5,NUM.11.8,Tyiei,160,43,cìéí,,
 cieiyo,respelled,noun,o,,,"lutte, combat","fight, struggle",4.8.2,,,Tyieiyo,156,43,cìèìyó,fight (both verb and noun),
 cieo,attested,noun,o,cieon,ciee,"village, ville","village, town",4.6.7,28,GEN.15.7,Tyieo,142,49,cíóó,,
-cii,attested,verb,,,,"finir, achever",finish,8.4.6,1008,GEN.2.2,,,,,,
+cii,attested,verb,,,,"finir, achever",finish,8.4.6,1008,GEN.2.2,,,47,cììyó,,
 ciimbuu,attested,verb,,,,"voler, dérober",steal,4.3 4.7,43,GEN.31.19,,,,,,
 ciindiaa,attested,verb,,,ciindiaanin,"sauver, secourir","save, rescue",4.4,238,GEN.6.18,,,48,cìndàá,"wean (a child); survive, make survive, rescue",
 cilinnde,attested,noun,i,cilinndon,,"fer, métal ; balle, cartouche","iron, metal; bullet, cartridge",1.2.2 4.8.3,24,EXO.34.17,Tyilinnde,156,48,cìlíŋndé,"metal, iron; twisted iron strips formerly used as money","La Bible n'a que le sens « fer, métal » ; « balle, cartouche » vient de Keita."
@@ -163,12 +163,12 @@ ciŋnde,attested,noun,i,ciŋndon,,dent,tooth,2.1.1,10,EXO.21.24,Tyinnde,132,49,c
 ciŋun kamaa,attested,noun,,,,ivoire,ivory,1.6.2 6.6.4,,,Tyinhii kamaa,137,,,,Litt. « dents d'éléphant ». Keita a le singulier (ciŋii kamaa) ; la Bible le pluriel ciŋun kamaa.
 ciɛi,attested,noun,i,ciɛɔn,,"champ, terre cultivée","field, farmland",6.2.9,92,GEN.4.3,,,43,cìèí,"farm, orchard, rice paddy",
 ciɛi,attested,adv,,,,hier,yesterday,8.4.5,92,GEN.4.3,Tyièi,152,43,cíɛ́í,,Keita donne aussi ciɛi dii « hier matin » et ciɛi cɔl « hier soir ». Homonyme de ciɛi « champ ».
-co,attested,verb,,,,être ; auxiliaire du progressif,be; progressive auxiliary,9.1.1 9.4.1,18903,GEN.1.7,,,,,,
+co,attested,verb,,,,être ; auxiliaire du progressif,be; progressive auxiliary,9.1.1 9.4.1,18903,GEN.1.7,,,50,cò,also future auxiliary,
 cokaacoo,respelled,noun,o,,,crapaud,toad,1.6.1,,,Tyokaatyoo,137,51,còkáácòó,"toad, frog",
 condei,attested,noun,i,condon,condii; condun,"chant, cantique",song,4.2.3,77,EXO.15,,,51,còndúŋ,,
 congoo,attested,noun,o,congulan,congú,épaule,shoulder,2.1.3,13,GEN.49.15,Tyonguo,132,52,còŋgóó,"shoulder, upper arm","o congú « sur l'épaule » (Gn 21,14)."
 connun,attested,verb,,,,se porter bien ; être en repos,be well; be at rest,2.5 2.4.5,74,GEN.43.28,,,,,,
-coo,attested,postp,,,,sur (o … coo),on (o … coo),9.2.4 8.6.2,7185,GEN.1.2,,,,,,
+coo,attested,postp,,,,sur (o … coo),on (o … coo),9.2.4 8.6.2,7185,GEN.1.2,,,53,còó,,
 coocoo,attested,adv,,,,"en haut, au-dessus, dans les airs","up, above, in the air",9.2.2 8.6.2,313,GEN.1.20,,,53,cóó-cóó,far up; also loudly,
 còòlan,attested,noun,lan,,,mensonge(s),"lies, falsehood",3.5 4.3,108,GEN.42.12,,,53,còòláŋ,,
 cowvo,respelled,noun,o,,,rat palmiste,ground squirrel,1.6.1,,,Tyowvo,137,54,còúwó,a large rat; opossum (Liberian English),"Dans la Bible, cowvo est un homonyme sans rapport (1SA.8.12, EXO.20.25)."
@@ -229,7 +229,7 @@ cɛŋio,respelled,verb,,,,faire pleurer,make cry,3.4.2,,,Tyènhio,114,42,cɛ̀ŋ
 cɛɔ,attested,noun,o,cɛa,cɛ,"esclave, serviteur","slave, servant",4.5.6 6.1.1,25,GEN.21.10,Tyèw,148,50,cìɔ́ɔ́,,"Keita écrit Tyèw ; la Bible a cɛɔ (pluriel cɛa). Dans la Bible, cɛw est un verbe, « soigner » (Ex 21,19)."
 cɛɛŋɔnndo,attested,verb,,,cɛɛŋun; cɛɛŋɔnnda,"supplier, implorer ; supplication","plead, beseech; supplication",3.3.2 4.9.5,34,GEN.41.55,,,,,,
 daadaa,respelled,noun,o,,,menton,chin,2.1.1,,,Daadaa,131,69,dáádáá,,
-daama,attested,part,,,,seulement,only,9.2.6,232,GEN.23.15,,,,,,
+daama,attested,part,,,,seulement,only,9.2.6,232,GEN.23.15,,,69,dààmà,,
 dalaa,attested,noun,o,dalalan,,"étang, mare, lac","pond, pool, lake",1.3.1,30,JOS.11.2,Dalaa,155,,,,
 dangaa,attested,noun,,,danga; dangala; dangalaa,malédiction,curse,4.9.5 4.4.2,80,GEN.3.14,,,70,dáŋgáá,"rudeness, disrespect, insulting someone",
 delaa,attested,verb,,,del; deli; delnin; delinin,"tomber ; (del … coo) se jeter sur, attaquer","fall; (del … coo) fall upon, attack",7.2.2 4.8.2,16,EXO.23.5,,,72,dèlɔ̀ɔ́,,
@@ -247,7 +247,7 @@ deŋio,attested,verb,,,deŋi; deŋinin,"crier, s'écrier ; gronder (tonnerre)","
 dialii,attested,noun,i,diallon,dialun,"membre, partie du corps ; chair ; (pl.) le corps","limb, part of the body; flesh; (pl.) the body",2.1 2.1.7,20,GEN.2.23,,,76,ɗìàllé,"body; also health, condition, skin",
 diandaa,attested,adj,,,diandan; diandɛi; diandaalan,"saint, consacré ; pur","holy, consecrated; pure",4.9.5,972,GEN.6.9,,,77,ɗìàndà-,clean,
 dii,attested,verb,,,diinin,tuer,kill,2.6.6 4.8.2,567,GEN.4.8,,,78,ɗìyɔ̀ɔ́,,
-diinndɔɔ,attested,num,,,,deuxième,second,8.1.1,136,GEN.4.19,,,,,,
+diinndɔɔ,attested,num,,,,deuxième,second,8.1.1,136,GEN.4.19,,,79,dìíŋ,two; second,
 diinɔnndo,attested,verb,,,,se tuer,kill oneself,2.6.6,2,ZEC.11.4,Diinönndo,110,78,dììnɔ̀ŋndó,,"Moyen de diyɔɔ (ACT 16,27). Ne pas confondre avec diinun « se rassembler » (GEN 1,9)."
 dillo,respelled,verb,,,,manger pour quelqu'un,eat for someone,5.2.2,,,Dillo,110,,,,Bénéfactif de dioo.
 dimi,attested,verb,,,dimin; diminin,dire,say,3.5.1,2652,GEN.1.3,,,80,ɗìmìó,,Forme longue dimio (« kon co dimio ni aa » « ce qui veut dire »).
@@ -296,7 +296,7 @@ faaboo,respelled,noun,o,,,perroquet,parrot,1.6.1,,,Faaboo,136,93,fàábɔ̀ɔ́,
 fáàndaa,attested,noun,o,,,fronde,sling,4.8.3 6.4.1,6,JDG.20.16,Faandaa,156,93,fáàndáá,"sling, slingshot, also used to chase birds",
 falnɔɔ,respelled,noun,,,,"beau-père, beau-fils","father-in-law, son-in-law",4.1.9,,,Falnö,134,97,fálnɔ̀ɔ́,in-law,Keita écrit Falnö ; voyelle longue d'après Childs (fálnɔ̀ɔ́).
 falɛiyo,respelled,noun,,,,jeudi,Thursday,8.4.4,,,Falèiyo,152,,,,
-faw,attested,adv,,,,"tous, entièrement","all, completely",8.1.5,192,GEN.8.17,,,,,,
+faw,attested,adv,,,,"tous, entièrement","all, completely",8.1.5,192,GEN.8.17,,,99,fáù,"also 'a lot, everywhere'",
 fayaa,respelled,noun,o,,,dynamite,"dynamite, explosive",4.8.3,,,Fayaa,156,,,,
 fayaa cɔwvo,respelled,noun,,,,bombe,bomb,4.8.3,,,Fayaa Työwvo,156,,,,
 fayɛiyo,respelled,noun,,,,mercredi,Wednesday,8.4.4,,,Fayèiyo,152,,,,
@@ -306,7 +306,7 @@ faŋanndo,attested,verb,,,faŋan; faŋannin; faŋanin,"quitter, s'en aller de","
 faŋiaa,respelled,verb,,,,enlever beaucoup,remove many,7.3.2,,,Fanhiaa,110,,,,Pluriel de faŋaa.
 felengiyɛi,attested,noun,i,,,jeunesse,youth,2.6.4,37,GEN.8.21,Felengöyèi,148,,,,Keita écrit Felengöyèi ; la Bible a felengiyɛi.
 felengoo,attested,noun,,felengia,felengi,jeune homme,young man,2.6.4,20,LEV.22.13,,,,,,
-few,attested,adv,,,,jamais (avec négation) ; pour toujours,never (with negation); forever,9.2.2 8.4.5,351,GEN.8.22,,,,,,
+few,attested,adv,,,,jamais (avec négation) ; pour toujours,never (with negation); forever,9.2.2 8.4.5,351,GEN.8.22,,,101,fɛ́ɛ́ŋ,"also 'indeed, first, already'",
 filaniiyo,respelled,noun,o,,,tricot,"knitted garment, sweater",5.3,,,Filaniiyo,144,,,,
 fisa,attested,adj,,,,"meilleur, préférable (o co fisa « il vaut mieux »)","better, preferable (o co fisa 'it is better')",8.3.7,146,GEN.29.19,,,,,,
 fitilio,attested,noun,o,,,crépuscule,"dusk, twilight",8.4.1,1,PRO.7.9,Fitilio,154,107,fìtílìó,"dusk, early evening",
@@ -338,14 +338,14 @@ fɛɛyaa,respelled,verb,,,,défricher,clear (land),6.2.2,,,Fèèyaa,110,102,fè�
 fɛɛyallo,respelled,verb,,,,défricher pour quelqu'un,clear land for someone,6.2.2,,,Fèèyallo,110,,,,Bénéfactif de fɛɛyaa.
 fɛɛyiaa,respelled,verb,,,,défricher en plusieurs endroits,clear land in several places,6.2.2,,,Fèèyiaa,110,,,,Pluriel de fɛɛyaa.
 gbɛɛnɛi,respelled,noun,i,,,marmite,cooking pot,5.1 6.7.7,,,Gbèènèi,159,,,,
-ha,attested,det,,,,ces…-ci (personnes),these (persons),9.2.3 8.5.1,358,GEN.7.1,,,,,,
-háá,attested,conj,,,,jusqu'à (ce que),until,9.2.5 8.4.5,1778,GEN.3.17,,,,,,
+ha,attested,det,,,,ces…-ci (personnes),these (persons),9.2.3 8.5.1,358,GEN.7.1,,,116,háà,,
+háá,attested,conj,,,,jusqu'à (ce que),until,9.2.5 8.4.5,1778,GEN.3.17,,,116,háá,going on for a long time; until,
 haalan,respelled,noun,,,,pluie,rain,1.1.3,,,haalan,155,,,,La Bible emploie piɔɔ pour « pluie » (GEN.7.12).
 hakio,attested,noun,o,hakilan,haki; hakila,"péché, faute","sin, wrongdoing",4.3 4.9.5,365,GEN.4.7,,,117,hákìó,"pardon, forgiveness; sin",
 Hala,attested,name,,,,Dieu,God,4.9.1,6548,GEN.1,Hala,150,117,hálà,,
 halaa,respelled,noun,,,,ciel,sky,1.1,,,Halaa,154,117,hálàá,"cloud, sky, heavens; also the name of a spirit",La Bible emploie halataala pour « ciel » (GEN.1.8) ; halaa y est le pluriel homonyme de Hala « dieu » (1CH.16.26).
 halataalaa,attested,noun,o,,halataala,ciel ; les cieux,sky; heaven,1.1 4.9.6,176,GEN.1,,,,,,
-hali,attested,conj,,,,même ; même si,even; even if,9.2.5,484,GEN.2.5,,,,,,
+hali,attested,conj,,,,même ; même si,even; even if,9.2.5,484,GEN.2.5,,,118,hálì,"also 'only, just'",
 haliko,attested,conj,,,,afin que,so that,9.2.5,956,GEN.1.29,,,,,,
 halimaa,attested,noun,,,,"épidémie, peste (nàà halimaa)","epidemic, pestilence (nàà halimaa)",2.5.2,26,EXO.9,,,,,,
 haliyɛnɛ,attested,noun,,,,paradis,paradise,4.9.6,1,LUK.23.43,Haliyènè,150,121,hècɛ́nɛ̀,heaven,
@@ -353,11 +353,11 @@ halɛiyo,respelled,noun,,,,samedi,Saturday,8.4.4,,,Halèiyo,152,,,,
 handullo,respelled,noun,o,,,bouclier,shield,4.8.3,,,Handullo,156,,,,"La Bible dit kɔ̀ɔ̀ cɔwvo pour « bouclier » (1 S 17,7 ; Ep 6,16)."
 handun,attested,verb,,,,mettre sur soi ; (se) poser,put on oneself; set oneself,7.5.9,34,GEN.9.23,,,,,,Moyen de handɔɔ « mettre ».
 handɔɔ,attested,verb,,,handu; handunin,"mettre, poser ; établir (sur)","put, lay; set (over)",7.5.9,185,GEN.11.4,,,,,,
-hau,attested,adv,,,,"aujourd'hui, maintenant","today, now",9.2.2 8.4.5,436,GEN.4.11,,,,,,
+hau,attested,adv,,,,"aujourd'hui, maintenant","today, now",9.2.2 8.4.5,436,GEN.4.11,,,118,háù,,
 haw,attested,adv,,,,aujourd'hui,today,8.4.5,36,GEN.33.15,Haw,152,118,háù,"today; now, right away; again",
 hawnɔnndo,attested,verb,,,hawnun,se bloquer ; se porter garant,get stuck; stand surety,7.3.4 6.8.4,1,PRO.6,Hawnönndo,114,119,hàùnɔ̀ŋndó,be stuck,"Moyen de hawvo ; hawnun « se porter caution » (PRO 6,1)."
 hawvo,attested,verb,,,haw; hawnin,"bloquer, coincer, presser","block, trap, press",7.3.4,3,EXO.27.3,Hawvo,114,119,hàùwó,be stuck or trapped,"haw : presser (les raisins, GEN 40,11) ; hawnin : être pris (au piège, ISA 24,18)."
-he,attested,det,,,,ce…-ci (classe i),this (i class),9.2.3 8.5.1,213,GEN.9.17,,,,,,
+he,attested,det,,,,ce…-ci (classe i),this (i class),9.2.3 8.5.1,213,GEN.9.17,,,120,héì,,
 heeloo,attested,verb,,,heelu; heelunin; heelaa,"lever, élever","lift up, raise",7.3.2,51,2SA.22.42,,,120,hèèlòó,raise; praise,
 heeluo,respelled,verb,,,,"lever, élever, faire monter","lift, raise",7.3.2,,,Heeluo,110,119,hèèlòó,"put up, raise, lift, erect","Formes attestées dans la Bible : heelu (lever les yeux, la main), heelunin, heelun (GEN 5,24)."
 helɔɔ,attested,verb,,,hel; helnin,monter ; hauteur,"go up, climb; height",7.2.2 8.2.2,135,GEN.6.16,,,120,hèlɔ̀ɔ́,"climb, go up, rise; also mount, breed (animals)",
@@ -376,14 +376,14 @@ hivio,attested,verb,,,hivi; hivia; hivin,faire passer,"make pass, send ahead",7.
 hiw,attested,verb,,,hiwnin,dépasser (une limite),"exceed, go beyond",8.1.4,105,GEN.6.3,,,,,,
 hiyinɔɔ,respelled,noun,o,,,pèlerin,pilgrim,4.9.5,,,Hiyinöö,150,,,,
 hiyioo,respelled,noun,o,,,pèlerinage,pilgrimage,4.9.5,,,Hiyioo,150,,,,
-hiɔɔlu,attested,num,,,,quatre,four,8.1.1,157,GEN.2.10,,,,,,
-ho,attested,det,,,,ce…-ci (classe o),this (o class),9.2.3 8.5.1,1059,GEN.2.16,,,,,,
+hiɔɔlu,attested,num,,,,quatre,four,8.1.1,157,GEN.2.10,,,128,hìɔ́ɔ́lú,,
+ho,attested,det,,,,ce…-ci (classe o),this (o class),9.2.3 8.5.1,1059,GEN.2.16,,,130,hóò,,
 hoeiye,attested,noun,i,,hoeyii,"froid ; souffle, vent ; paludisme, grippe ; air, vent","cold; breath, wind; malaria, flu ; air, wind; cold; breath",2.5.2 8.3.4 1.1.2 1.1.3,107,GEN.7.22,Hoeiye,161,134,hùɛ̀ìyé,"cold, cold wind; cold dry season; fever","Keita : « le palu, la grippe ». Dans la Bible : « froid » (Gn 8,22) et « souffle » (Gn 7,22)."
 hoeyii,attested,noun,i,,,vent ; souffle,wind; breath,1.1.2 2.2.1,157,GEN.2.7,,,134,hùèìyé,"cold wind, cold season; fever",
 hollo,respelled,noun,o,,,champignon,mushroom,1.5.4,,,Hollo,139,130,hòlló,mushroom; helmet,Pluriel holle selon Keita (p. 27).
 holnun,attested,verb,,,holnɔnndo,"s'attacher à, se joindre à","cling to, be joined to",4.1 7.5.2,57,GEN.2.24,,,,,,
 holɔɔ,attested,verb,,,hol; holnun,"attacher, fixer, coller ; monter (Keita)","fix, attach, stick; climb (Keita)",7.5.2,21,EXO.25.7,Holöö,110,130,hòlɔ̀ɔ́,"stick on, lean against","Dans la Bible, hol signifie « fixer, sertir, porter la main sur » (EXO 28,11 ; GEN 22,12) et holnun « s'attacher à » (GEN 2,24). Le sens « monter » de Keita correspond plutôt à hel (Bible) et hèlɔ̀ɔ́ (Childs p. 120)."
-hoo,attested,pron,,,,"celui-ci, ceci",this one,9.2.3 8.5.1,849,GEN.3.3,,,,,,
+hoo,attested,pron,,,,"celui-ci, ceci",this one,9.2.3 8.5.1,849,GEN.3.3,,,130,hóò,,
 huinden,respelled,noun,len,,,gale,scabies,2.5.2,,,Huinden,161,,,,"Cf. vana ihuindo « galeux » (Lv 21,20)."
 huiyo,attested,verb,,,hui,"tromper, trahir","deceive, betray",4.3,22,JDG.16.10,,,134,hùìyó,"cheat, deceive; also break a promise",
 hullan,respelled,noun,lan,,,cerveau,brain,2.1.8,,,Hullan,131,135,hùlláŋ,,
@@ -408,25 +408,25 @@ hɛlihɛlio,respelled,verb,,,,trier plusieurs fois,sort repeatedly,3.3.1,,,Hèli
 hɛlio,attested,verb,,,hɛli; hɛlinin; hɛlin,"choisir, trier","choose, select, sort",3.3.1,29,EXO.18,Hèlio,110,122,hɛ̀lìó,choose,
 hɛlun,attested,verb,,,,"échapper, survivre","escape, survive",4.4,71,GEN.14.10,,,,,,
 hɛnan,attested,verb,,,hɛnanndo; hɛnannin,plaire à,"please, be pleasing to",3.4.1,451,GEN.17.1,,,,,,
-i,attested,pron,,,,je (sujet),I (subject),9.2.3,5732,GEN.1.29,,,,,,
+i,attested,pron,,,,je (sujet),I (subject),9.2.3,5732,GEN.1.29,,,138,í,,
 ibungaa,attested,noun,,,ibunga,gouverneur (masa ibungaa),governor (masa ibungaa),4.6.1,52,JDG.9.30,,,,,,
 ibuŋ,attested,postp,,,,"auprès de, vers (o … ibuŋ)","to, back to, with (o … ibuŋ)",9.2.4,202,GEN.8.11,,,,,,
 icali,attested,noun,,,,"séjour, résidence ; (va icali) habiter","residence; (va icali) live, dwell",5.9,670,GEN.4.12,,,37,càllé,"stay, live (cited as a form of càllé 'sit')",
 icɔl,attested,adv,,,,"le soir, la nuit","in the evening, at night",8.4.1,161,GEN.1.5,Ityöl,152,,,,
-icɔllo,attested,noun,,,,"le soir, la nuit","evening, night",8.4.1,115,GEN.1.5,,,,,,
+icɔllo,attested,noun,,,,"le soir, la nuit","evening, night",8.4.1,115,GEN.1.5,,,138,ìcɔ̀l,,
 idii,attested,adv,,,,le matin,in the morning,8.4.1,103,GEN.19.2,Idii,152,,,,
-idiiyo,attested,adv,,,idii,"le matin, tôt","in the morning, early",9.2.2 8.4.1,90,GEN.19.27,,,,,,
+idiiyo,attested,adv,,,idii,"le matin, tôt","in the morning, early",9.2.2 8.4.1,90,GEN.19.27,,,138,ídìí,,
 ihini,attested,adv,,,,"couché, étendu",lying down,7.1.3,79,GEN.9.22,,,,,,Lié à hini « être couché ».
 ihɛllan,attested,noun,,,ihɛlma; ihɛl,mer (mɛmma ihɛllan),sea (mɛmma ihɛllan),1.3.1,251,GEN.1.10,,,,,,
 ikɔɔ,attested,adj,,,ikɔɔa,"pauvre, nécessiteux","poor, needy",6.8.1 4.4.2,17,EXO.22.24,,,,,,
-ikɛi,attested,postp,,,,"avec, auprès de","with, beside",9.2.4,998,GEN.5.24,,,,,,
+ikɛi,attested,postp,,,,"avec, auprès de","with, beside",9.2.4,998,GEN.5.24,,,139,ìkɛ̀í,,
 imamaa,attested,noun,,,imama,"descendance, générations","descendants, generations",4.1.9,317,GEN.5.1,,,,,,
 ipala,attested,adv,,,,"la journée, le jour",in the daytime,8.4.1,57,GEN.1.5,Ipala,152,139,ìpàlàá,afternoon,
-ipalaa,attested,noun,,,ipala,"le jour, le matin","day(time), morning",8.4.1,15,GEN.1.5,,,,,,
+ipalaa,attested,noun,,,ipala,"le jour, le matin","day(time), morning",8.4.1,15,GEN.1.5,,,139,ìpàláà,afternoon,
 ipulu,attested,noun,,,,descendance ; (naŋ ipúlú) être fécond,offspring; (naŋ ipúlú) be fruitful,4.1.9 2.6.3,56,GEN.1.22,,,,,,
 isiòòn,attested,noun,,,,"peur, crainte",fear,3.4.2,47,GEN.15.1,,,336,sìɔ̀ŋndé,,
 isisi,attested,adv,,,,debout,standing,7.1.1,208,GEN.18.2,,,,,,
-isɛ,attested,interj,,,,salut (salutation),"greetings, hello",9.2.7 4.3.7,6,GEN.27.18,,,,,,
+isɛ,attested,interj,,,,salut (salutation),"greetings, hello",9.2.7 4.3.7,6,GEN.27.18,,,139,ísɛ̀,,
 itambu,attested,noun,,,,"ruine, néant ; (cuu itambu) tomber en ruine","ruin, nothingness; (cuu itambu) come to ruin",7.9.3,45,NUM.21.30,,,,,,
 iyama,attested,noun,,,,"jugement, sentence","judgement, sentence",4.7.5,112,EXO.12.12,,,397,yàmáŋ,,
 iɲíí,attested,noun,,,,"pitié, miséricorde ; (tuinun … iɲíí) avoir pitié de","pity, mercy; (tuinun … iɲíí) have mercy on",4.3.4,162,GEN.30.27,,,277,ɲèéyé,"sorrow, pity, mercy",
@@ -453,12 +453,12 @@ kamafoeinɔɔ,respelled,noun,o,,,photographe,photographer,6.6.5,,,Kamafoeinöö,
 kamalindoŋnden,respelled,noun,len,,,balançoire,swing,4.2.6,,,Kamalindonden,163,146,kàmálíndóŋndó,"swing, usually made of vines",ŋ d'après Childs.
 kambalaa,attested,noun,o,,,insecte,insect,1.6.1,10,LEV.11.20,Kambalaa,136,146,kàmbàlàá,a large edible grasshopper,
 kambɛiyo,attested,noun,o,kambɛilan,,panier,basket,6.7.7,15,EXO.2.3,Kambèiyo,159,146,kàmbɛ́íyó,"large basket, hamper",
-kan,attested,det,,,,ces…-là (personnes),those (persons),9.2.3 8.5.1,1321,GEN.6.4,,,,,,
+kan,attested,det,,,,ces…-là (personnes),those (persons),9.2.3 8.5.1,1321,GEN.6.4,,,148,kàŋ,"these (a class), labelled proximal",
 kanda,attested,verb,,,kandanin,"garder, protéger","guard, protect",7.4.5 4.4,145,GEN.3.24,,,,,,
 kandoncindo,respelled,noun,o,,,gencive,gum (of the teeth),2.1.1,,,Kandontyindo,131,,,,Orthographe à confirmer : la Bible écrit ciŋnde « dent » avec ŋ.
 kandɔɔ,attested,verb,,,kandu; kandunin,commencer ; commencement ; (kandɔɔ …) à partir de,begin ; begin; beginning; (kandɔɔ …) starting from,8.4.6,452,GEN.1.1,Kandöö,114,147,kàndɔ̀ɔ́,,Radical négatif de Keita : kendu.
 kangalan,attested,adv,,,,"sûrement, certainement","surely, certainly",9.2.2,43,GEN.41.32,,,148,káŋgáláŋ,"truly; marks obligation, must",
-kani,attested,conj,,,,"car, parce que","because, for",9.2.5,3719,GEN.2.3,,,,,,
+kani,attested,conj,,,,"car, parce que","because, for",9.2.5,3719,GEN.2.3,,,147,kàní,,
 kankpoo,respelled,noun,o,,,pigeon ramier,wood pigeon,1.6.1,,,Kankpoo,136,149,kâŋgbɔ́ɔ,"dove, pigeon",
 kaolaa,attested,verb,,,kaola,aimer,love,4.3.3,123,DEU.6,,,140,kààlàá,"love, be in love with",
 kawve,respelled,noun,i,,,haricot,bean,5.2.3 6.2.1,,,Kawve,139,150,kàúwóŋ,,
@@ -478,7 +478,7 @@ kelɛi bai,respelled,noun,,,,bracelet,bracelet,5.4.1,,,Kelèi bai,144,,,,"La Bib
 kelɛi n'sianiei,attested,noun,,,,anneau en or,gold ring,5.4.1,,,Kelèi sianiei,144,,,,
 kelɛi pelei,respelled,noun,,,,anneau de pied,anklet,5.4.1,,,Kelèi Pelei,144,,,,"Composé non attesté tel quel ; pour les anneaux de pied, Is 3,20 a yɔlɔn pɔmbɔn n'pelon. Mots attestés séparément dans la Bible, mais pas cette expression."
 kelɛi suei,attested,noun,,,,bague,finger ring,5.4.1,,,Kelèi isoei,144,,,,"Pluriel kelan n'suon (Is 3,21)."
-ken,attested,det,,,,ce…-là (classe i),that (i class),9.2.3 8.5.1,1072,GEN.2.22,,,,,,
+ken,attested,det,,,,ce…-là (classe i),that (i class),9.2.3 8.5.1,1072,GEN.2.22,,,156,kéŋ,,
 kendu,attested,adj,,,,"difficile, dur","difficult, hard",8.3.7 4.4.2,81,GEN.18.14,,,,,,
 kennun,attested,verb,,,,être donné,be given,7.4.2,34,2CH.26.18,,,,,,Moyen de ke « donner ».
 keo,attested,verb,,,ke; kenin,"donner, offrir","give, offer",7.4.1,124,GEN.49.10,Keo,110,170,kìɔ̀ɔ́,"give, offer",
@@ -525,7 +525,7 @@ komal,attested,verb,,,komallo; komalnin,"trouver, rencontrer ; voir","find, come
 kombaa,attested,verb,,,komba; kombanin,"abattre, renverser","fell, knock down",7.9.3,4,DEU.19.5,Kombaa,110,174,kòmbàá,cut down,
 kombiaa,attested,verb,,,,"abattre, renverser (plusieurs)","fell, overthrow (many)",7.9.3,2,2SA.12.31,Kombiaa,110,,,,"Pluriel de kombaa (HAG 2,22)."
 komɔɔ,attested,verb,,,kom; koam; kum; koamnin; kumnin,"porter des fruits, mettre bas ; fruit","bear fruit, bear young; fruit",1.5.6 1.6.3,43,GEN.3.6,Komöö,115,174,kòmɔ̀ɔ́,,"kum, kumnin : radical négatif (HAB 3,17 ; LEV 26,20). komɔɔ est aussi le nom « fruit » (GEN 3,6)."
-kon,attested,det,,,,ce…-là (classe o),that (o class),9.2.3 8.5.1,9758,GEN.1.4,,,,,,
+kon,attested,det,,,,ce…-là (classe o),that (o class),9.2.3 8.5.1,9758,GEN.1.4,,,176,kòŋ,that (o class); also the default demonstrative for other classes,
 kóndóó,attested,noun,o,kóndóa,kóndó,bélier (saa kóndó),ram (saa kóndó),6.3.1 1.6.7,42,GEN.22.13,,,,,,
 kongosalɛu,respelled,noun,,,,danse de l'opérateur après les circoncisions,dance of the circumciser after the circumcisions,4.2.4 4.9.5,,,Kongosalèu,163,,,,
 koni,attested,adv,,,,"aussi, de même (lende koni « de même »)","also, likewise (lende koni 'likewise')",9.2.2,489,GEN.7.2,,,176,kóní,"just, only, alone",
@@ -556,9 +556,9 @@ kpannde,attested,noun,i,,,joue ; tempe (Keita),cheek; temple (Keita),2.1.1,1,LAM
 kpasamaa,attested,noun,o,,,sorte de gale,kind of skin disease,2.5.2,1,DEU.28.22,Kpasamaa,161,,,,
 kpáŋ,attested,ideo,,,,"fermement, solidement","firmly, tightly",9.2.8,32,EXO.16.33,,,205,kpáŋ,"tightly; also carefully, attentively",
 kpaɲaa,respelled,noun,o,kpaɲalan,,pinces,"pincers, tongs",6.7,,,Kpanyaa,159,,,,"Pluriel kpaɲalan « mouchettes » du chandelier (Ex 25,38)."
-kpé,attested,part,,,,"seulement, seul","only, alone",9.2.6,288,GEN.7.1,,,,,,
-kpede,attested,det,,,,"tous, sans exception","all, every one",8.1.5,828,GEN.7.22,,,,,,
-kpeekpei,attested,part,,,,"exactement, précisément","exactly, the very",9.2.6,224,GEN.13.4,,,,,,
+kpé,attested,part,,,,"seulement, seul","only, alone",9.2.6,288,GEN.7.1,,,207,kpé,,
+kpede,attested,det,,,,"tous, sans exception","all, every one",8.1.5,828,GEN.7.22,,,207,kpédé,"also 'all over, everywhere'",
+kpeekpei,attested,part,,,,"exactement, précisément","exactly, the very",9.2.6,224,GEN.13.4,,,207,kpéékpéí,"really, very, a lot",
 kpeekpeiyo,attested,adj,,,kpeekpeiya,"vrai, véritable ; propre (à soi)","true, real; one's own",8.3.7,80,LEV.27.31,,,,,,
 kpekaa,respelled,noun,o,,,tuberculose,tuberculosis,2.5.2,,,Kpekaa,161,,,,
 kpekpeyangaa,respelled,noun,o,,,danse de la sortie des jeunes filles excisées,dance for the coming-out of initiated girls,4.2.4,,,Kpekpeyangaa,163,,,,
@@ -580,7 +580,7 @@ kponyoo,attested,noun,,,,"allégresse, cris de joie","rejoicing, shouts of joy",
 kposio,attested,noun,o,,,lézard,lizard,1.6.1,1,LEV.11.30,Kposio,136,216,kpóósíó,lizard with a red head,
 kposon,attested,adv,,,,"tous, entièrement ; toujours","all, entirely; always",8.1.5,62,GEN.8.21,,,,,,
 kpovaa,attested,noun,o,kpovalan,kpova,"rocher, roc",rock,1.2.1 1.2.2,39,EXO.17,,,216,kpòòwáá,large rock standing by itself,
-kpow,attested,det,,,,"tout, tout entier","all, whole",8.1.5,4972,GEN.1.11,,,,,,
+kpow,attested,det,,,,"tout, tout entier","all, whole",8.1.5,4972,GEN.1.11,,,217,kpóú,,
 kpukpuei,attested,noun,i,,,"bosse, enflure","swelling, lump",2.5.6,1,LEV.13.2,Kpukpuei,161,,,,
 kpundɛ,attested,noun,,kpundɛlan,,"fléau, calamité","plague, calamity",4.4.2 2.5.2,68,GEN.9.11,,,219,kpùndéláŋ,"trouble, mishap, misfortune",
 kpuva,attested,verb,,,,"saisir, s'emparer de, capturer","seize, capture",7.4.3 4.8.3,34,GEN.34.2,,,220,kpùwàá,"grab, seize; also rape",
@@ -620,7 +620,7 @@ kuundian,attested,verb,,,kuundianndo,"s'enorgueillir, être arrogant ; orgueil",
 kuupepelan,respelled,noun,lan,,,oreillons,mumps,2.5.2,,,Kuupepelan,161,,,,
 kuusuo,respelled,verb,,,,vomir,vomit,2.2,,,Kuusuo,110,192,kùìsìó,"vomit, retch","La Bible a kuusuu « vomissure » (ISA 19,14 ; JER 48,26)."
 kuuvo,attested,noun,o,,,joue,cheek,2.1.1,2,ISA.24.20,Kuuvo,131,200,kùúwó,"cheek, jaw","Kuula nɔmndan « tes joues » (Ct 1,10). Homographe : kuuvo, kùùlan « hutte, cabane » (Is 24,20 ; Ne 8,16)."
-kuɛɛ,attested,adv,,,,où ? quel ?,where? which?,9.2.3 8.5.1,236,GEN.3.9,,,,,,
+kuɛɛ,attested,adv,,,,où ? quel ?,where? which?,9.2.3 8.5.1,236,GEN.3.9,,,191,kùɛ́ɛ́,,
 kɔannun,attested,verb,,,,"s'en aller (avec), emmener ; poursuivre (… kɔɔli)","go off (with), take away; pursue (… kɔɔli)",7.2.3 7.2.6,169,GEN.13.14,,,,,,Moyen de kɔlan « aller ».
 kɔduuvo,respelled,noun,o,,,coupe-coupe,machete,6.7.1,,,Köduuvo,159,,,,
 kɔkumbɛiyo,respelled,noun,o,kɔkumbɛilan,,concombre,cucumber,5.2.3 6.2.1,,,Kökumbèiyo,139,,,,Le pluriel kɔkumbɛilan est dans la Bible (NUM.11.5).
@@ -647,11 +647,11 @@ kɔngɔɔ,attested,noun,o,,,"rivage, rive, bord","shore, bank, edge",1.3.1 8.6.6
 kɔɔ,attested,noun,,,,dos,back,2.1.2,879,GEN.18.21,Köö,131,186,kɔ̀ɔ́,,"Homographes : kɔ̀ɔ̀ « bouclier » ; o kɔɔ « au lieu, chez »."
 kɔɔfanɔɔ,attested,noun,o,,,"maître, enseignant","teacher, master",3.6,1,MAT.23.8,Kööfanöö,145,,,,
 kɔɔlen,attested,noun,len,,kɔɔle,corps ; peau du corps,body; skin of the body,2.1,19,GEN.25.25,Köölen,131,187,kɔ̀ɔ́léŋ,skin,
-kɔɔli,attested,postp,,,,"après, derrière","after, behind",9.2.4 8.4.5 8.6.1,2042,GEN.2.8,,,,,,
+kɔɔli,attested,postp,,,,"après, derrière","after, behind",9.2.4 8.4.5 8.6.1,2042,GEN.2.8,,,187,kɔ̀ɔ̀lì,,
 kɔɔsinaa,attested,noun,o,,,"écoulement, blennorragie","genital discharge, gonorrhoea",2.5.2,5,LEV.15.2,Köösinaa,161,,,,
 kɔɔsɔɔ,attested,verb,,,,juger ; jugement,judge; judgment,4.7.5,28,EXO.23.2,Köösöö,110,188,kɔ̀ɔ̀sàá,"litigate, argue a case","Dans la Bible surtout comme nom : o kɔɔsɔɔ nin « au tribunal » (EXO 23,3)."
 kɔɛi,attested,noun,i,kɔɔn,,flèche,arrow,4.8.3 6.4.1,25,GEN.49.24,,,,,,
-kɛ,attested,conj,,,,mais,but,9.2.5,5191,GEN.2.17,,,,,,
+kɛ,attested,conj,,,,mais,but,9.2.5,5191,GEN.2.17,,,157,kɛ́,,
 kɛi,attested,noun,,,kɛila,fil,"thread, yarn",6.6.1,80,GEN.14.23,,,,,,
 kɛkɛwvo,respelled,noun,o,kɛkɛwlan,,écaille,scale (of a fish),1.6.2,,,Kèkèuvo,136,159,kɛ̀kɛ́úwɔ́,,Le pluriel kɛkɛwlan est dans la Bible (LEV.11.9) ; le singulier est réécrit d'après Keita.
 kɛlɛmasaa,respelled,noun,o,,,chef de guerre,war chief,4.8.3 4.5.1,,,Kèlèmasaa,156,,,,
@@ -660,7 +660,7 @@ kɛmbɛi kokoei,respelled,noun,,,,noix de coco,coconut,1.5.5 5.2.3,,,Kèmbèi ko
 kɛmbɛi kɔi,respelled,noun,,,,colonne vertébrale,spine,2.1.6,,,Kèmbèi Köi,131,,,,
 kɛmbɛi laboloei,respelled,noun,,,,pomme d'Adam,Adam's apple,2.1.1,,,Kèmbèi laboloei,131,,,,
 kɛmndan,attested,noun,an,,,rosée,dew,1.1.3,15,GEN.27.28,Kèmndan,154,160,kɛ̀mndáŋ,,
-kɛmɛ,attested,num,,,,cent,hundred,8.1.1,603,GEN.5.3,,,,,,
+kɛmɛ,attested,num,,,,cent,hundred,8.1.1,603,GEN.5.3,,,160,kɛ́mɛ̀,,
 kɛndɔɔ,attested,adj,,,kɛndɛ; kɛndɛa; kɛndɛi; kɛndɛla; kɛndɛlan; kɛndɛan; kɛndɛlen; kɛndɛn; kɛndɔn,bon ; beau,good; beautiful,8.3.7,775,GEN.2.9,,,,,,
 kɛsei,attested,noun,i,,,cou,neck,2.1.1,8,GEN.40.19,Kèsei,131,161,kèséí,neck; shoulder,
 kɛsiaa,attested,verb,,,kɛsi; kɛsin; kɛsinin,"poser, placer, mettre","put, place, set",7.5.9,115,EXO.25,,,,,,
@@ -673,7 +673,7 @@ kɛ́ɔ,attested,noun,,,,"héritage, part","inheritance, portion",6.8.1 4.1.9,18
 kɛɛ,attested,verb,,,kɛɛnin,"refuser, rejeter","refuse, reject",3.3,594,GEN.4.5,,,158,kèènɔ̀ŋndó,"refuse, disagree with, deny (middle form)",
 kɛɛmianɔɔ,respelled,noun,o,,,décorateur,decorator,6.6.5,,,Kèèmianöö,145,,,,"Cf. kɛɛmiaa, attesté pour des objets ornés ou sculptés (Lv 26,1 ; Ps 45,9)."
 kɛɛyaa,respelled,verb,,,,"tailler, couper, diminuer","trim, cut, reduce",7.8.3,,,Kèèyaa,110,159,kɛ̀ɛ̀yàá,"cut (nails), operate on; clean the tapping hole of a palm-wine tree","Forme attestée dans la Bible : kɛɛya « arracher (une pièce) » (LEV 13,56), « couper (les ongles) » (DEU 21,12)."
-la,attested,pron,,,,vous (sujet) ; pronom de la classe lan,"you (pl., subject); lan-class pronoun",9.2.3,11817,GEN.1.11,,,,,,
+la,attested,pron,,,,vous (sujet) ; pronom de la classe lan,"you (pl., subject); lan-class pronoun",9.2.3,11817,GEN.1.11,,,220,là,,
 laalanndo,attested,verb,,,laalan; laalannda,"croire, avoir foi, se fier à ; foi","believe, trust; faith",4.9.5 3.2,188,EXO.4.9,,,221,làálàŋndó,"believe, trust; be sure of","vanaa laalannda « les croyants, les fidèles »."
 laalantɛnɔɔ,respelled,noun,o,,,"païen, incroyant","pagan, unbeliever",4.9.5,,,Laalantènöö,150,,,,Cf. laalan « croire » dans la Bible.
 laalaŋaa,attested,noun,,,,"(vanaa laalaŋaa) assemblée des croyants, Église","(vanaa laalaŋaa) assembly of believers, church",4.9.7,42,MAT.16.18,,,,,,
@@ -689,7 +689,7 @@ lahakio,attested,adj,,lahakia,,"pécheur, coupable","sinful, guilty; sinner",4.9
 lalle,attested,noun,i,,,sueur,sweat,2.2.6,5,GEN.3.19,Lalle,132,222,lǎllé,,
 lalumɛɔ,respelled,noun,,,,armée,army,4.8.3,,,Lalumèö,156,,,,
 lambi,attested,noun,,lambilan,,génération ; fois,generation; time (occasion),8.4.1 4.1.9,37,GEN.50.23,,,,,,"lambilan a lambilan « de génération en génération » ; lambi diinndɔ « une seconde fois » (Jos 5,2)."
-lan,attested,det,,,,ces (classe lan),"these, those (lan class)",9.2.3 8.5.1,3295,GEN.2.19,,,,,,
+lan,attested,det,,,,ces (classe lan),"these, those (lan class)",9.2.3 8.5.1,3295,GEN.2.19,,,223,láŋ,,
 lándán,attested,adv,,,,"au loin, plus loin (levil lándán « bien loin »)","far off, further on (levil lándán 'far away')",8.2.6,65,GEN.4.14,,,,,,
 langbanɔɔ,attested,noun,,langbaa,langbanɔ,"homme (adulte) ; (au pluriel) hommes, compagnons","man (adult male); (pl.) men, followers",2.6.5 2.6.4,177,GEN.24.30,,,,,,
 lanɔɔ,attested,noun,o,laandua,,"épouse, femme",wife,4.1.9 2.6.1,193,GEN.11.29,Lanöö,134,221,lààndɔ̀ɔ́,"woman, wife",
@@ -699,12 +699,12 @@ latámán,attested,noun,,,,"sicle (poids, pièce d'argent)",shekel,6.8.6 8.2.8,8
 latulu,attested,adv,,,,"ensemble, en même temps","together, at the same time",9.2.2 7.5.1,428,GEN.3.6,,,224,làtùlú,,
 latɔŋndo,attested,noun,,latɔŋnda,,loi (de Moïse),law (of Moses),4.7 4.9.5,19,EZR.7.6,,,,,,vanaa pɛɛkaa latɔŋnda « les maîtres de la loi ».
 lawnɔɔ,respelled,noun,o,,,tresseuse,hair braider,5.4.3,,,Lawnöö,145,,,,
-le,attested,prep,,,,"pour, à cause de","for, because of",9.2.4,24773,GEN.1.2,,,,,,
-le,attested,part,,,te,ne… pas (négation finale),not (clause-final negation),9.2.6 9.4.6,24773,GEN.1.2,,,,,,
+le,attested,prep,,,,"pour, à cause de","for, because of",9.2.4,24773,GEN.1.2,,,225,lé,,
+le,attested,part,,,te,ne… pas (négation finale),not (clause-final negation),9.2.6 9.4.6,24773,GEN.1.2,,,225,lé,,
 le hee,attested,conj,,,,alors ; c'est pourquoi,then; therefore,9.2.5 9.6.3,,,,,,,,
 le tùú,attested,conj,,,,parce que,because,9.2.5,,,,,,,,
 lebɛngu,attested,adv,,,,"dessous, en dessous","underneath, below",8.6.2,47,GEN.1.7,,,14,bèŋù,"under, between",
-lecoo,attested,adv,,,,"dessus, en haut","on top, above",9.2.2 8.6.2,538,GEN.1.2,,,,,,
+lecoo,attested,adv,,,,"dessus, en haut","on top, above",9.2.2 8.6.2,538,GEN.1.2,,,225,lécòó,"also 'about, concerning'",
 lediom,attested,noun,,,,"vérité, fidélité, droiture (o lediom coo)","truth, faithfulness, uprightness",4.3.1,188,GEN.47.29,,,,,,
 lee,attested,noun,,leelan,leela,corne ; trompe (en corne),horn; (horn) trumpet,1.6.2 4.2.3,100,GEN.36.7,,,226,lèèyɔ́,,
 leeloo,attested,postp,,,,"de l'autre côté de, au-delà de","on the other side of, beyond",8.5.2 8.6.3,110,GEN.50.10,,,225,lèèlò,"across, on the other side; in Liberia also a name for Guinea",
@@ -713,10 +713,10 @@ lefoo,attested,noun,,,lefu,beau-père ; (lefu … laandoo) belle-mère,father-in
 lefuo,respelled,noun,o,lefua,lefu,"parent par alliance : gendre, bru, beau-père, belle-mère","in-law: son-in-law, daughter-in-law, father-in-law, mother-in-law",4.1.9,,,Lefuo,134,226,lèfòó,in-law,"Forme radicale lefu attestée (Jéthro, beau-père de Moïse, Ex 3,1) ; pluriel lefua « gendres » (Gn 19,14). Keita donne aussi Nde lefu « la belle-mère »."
 lekɔɔli,attested,adv,,,,"dehors, à l'extérieur","outside, on the outside",8.6.4,50,GEN.6.14,,,,,,
 lekɛ́ndɛi,attested,adv,,,,"vraiment, en vérité","truly, really",9.2.2,155,GEN.12.14,,,,,,
-lelan,attested,conj,,,,"c'est pourquoi, donc","therefore, so",9.2.5 9.6.3,1437,GEN.2.24,,,,,,
+lelan,attested,conj,,,,"c'est pourquoi, donc","therefore, so",9.2.5 9.6.3,1437,GEN.2.24,,,226,léláŋ,,
 lemasaa,attested,noun,,lemasalan,lemasa; lemasala,"royauté, majesté ; (après un nom) royal","kingship, majesty; (after a noun) royal",4.6.1 4.5.6,294,GEN.14.17,,,,,,cɛi lemasaa « palais royal ».
 lembulten,respelled,noun,len,,,citron,"lemon, lime",1.5.5 5.2.3,,,Lembulten,139,91,dùmbúltéŋ,"citrus fruit: orange, lemon, lime",
-len,attested,det,,,,"ce, cette (classe len)","this, that (len class)",9.2.3 8.5.1,2940,GEN.2.3,,,,,,
+len,attested,det,,,,"ce, cette (classe len)","this, that (len class)",9.2.3 8.5.1,2940,GEN.2.3,,,227,léŋ,,
 lenamta,attested,noun,,,,"défaut, tare (nɔ lenamta loo « sans défaut »)","blemish, defect (nɔ lenamta loo 'without blemish')",2.5.4 8.3.7,54,EXO.12.5,,,258,nâmtàá,a crippled or handicapped person,
 leo,attested,noun,o,leelan,,corne,horn,1.6.2,5,JOB.41.18,Leu,136,226,lèèyó,,"Keita écrit Leu ; la Bible a leo (HOS.5.8), la forme radicale lee et le pluriel leelan (DAN.8.3)."
 lepalaa,attested,adv,,,lepala,"chaque jour (lepalaa-lepala), tous les jours","daily, every day (lepalaa-lepala)",8.4.6,123,GEN.6.5,,,,,,
@@ -729,12 +729,12 @@ liimiaa,respelled,verb,,,,tromper,deceive,4.3,,,Liimiaa,110,,,,
 linda,attested,verb,,,,pétrir,knead,5.2.1,23,GEN.18.6,,,,,,
 lisaa,attested,verb,,,lisa; lisan; lisanin,"louer, glorifier","praise, glorify",4.9.5 3.5.1,55,EXO.15.1,,,231,lìsàá,,
 litilio,attested,noun,,litililan,,litre (mesure),litre (measure),8.2.8,12,EXO.16.16,,,,,,
-lo,attested,postp,,,,"chez, auprès de (o … lo)",at (someone's place) (o … lo),9.2.4,3784,GEN.1.9,,,,,,
+lo,attested,postp,,,,"chez, auprès de (o … lo)",at (someone's place) (o … lo),9.2.4,3784,GEN.1.9,,,285,ó…ló,also 'to (someone)',
 loamaa,attested,verb,,,loam; loamnin,brûler ; (sálà loamaa) holocauste,burn; (sálà loamaa) burnt offering,5.5 4.9.5,599,GEN.8.20,,,,,,Pluriel du nom : loamaalan (sálàla loamaalan « holocaustes »).
 loei,attested,noun,i,loeon,,étoile,star,1.1.1,15,NUM.24.17,Luei,154,,,,"Keita écrit Luei ; la Bible écrit loei, pluriel loeon (GEN.1.16)."
 lomnden,respelled,noun,len,,,queue,tail,1.6.2,,,Lomnden,136,232,lòmndéŋ,tail; slang for penis,"Absent de la Bible, qui emploie puilen pour « queue » (EXO.4.4, JDG.15.4)."
 lomɔɔ,attested,verb,,,lom; loam; lum; loamnin; lumnin,brûler,burn,5.5,97,GEN.19.28,Lomöö,115,232,lòmɔ̀ɔ́,"burn, be burning","lum : radical négatif selon Keita (lumnin, ISA 43,2), mais aussi « cuire » (GEN 19,3)."
-lon,attested,adv,,,,"là, là-bas",there,9.2.2 8.5.1,1422,GEN.2.10,,,,,,
+lon,attested,adv,,,,"là, là-bas",there,9.2.2 8.5.1,1422,GEN.2.10,,,232,lɔ́ŋ,,
 loo,attested,postp,,,,"sans, privé de","without, lacking",9.2.4,573,GEN.14.21,,,,,,
 loolio,attested,noun,o,,,boue,mud,1.2.2,27,1SA.4.12,Loolio,155,233,lòòlìóó,,
 loonɔnndo,attested,verb,,,loonun; loonunnin,se souvenir,remember,3.2.6,50,GEN.9.13,,,233,lòònɔ̀ŋndɔ́,,
@@ -766,7 +766,7 @@ lɛwve,attested,noun,i,lɛwvon,,branche d'arbre,branch,1.5.5,4,GEN.49.11,Lèwve,
 lɛŋnden,attested,noun,len,,lɛŋnde,"pays, nation ; terre","country, nation; land, earth",4.6.7 1.2,1286,GEN.1,Lènnden,155,229,lɛ̀ŋndéŋ,"land, ground, area; country of origin; world, earth; floor",Keita écrit Lènnden ; la Bible lɛŋnden.
 lɛɛlɛ,attested,noun,,,,heure,hour,8.4.4,19,MAT.20.3,,,,,,
 lɛɛndo,attested,noun,o,,,"coupe-coupe, machette","machete, cutlass",6.7.1,2,ISA.10.34,Lèèndo,159,228,lɛ́ɛ́ŋndó,,
-maa,attested,conj,,,,que (complétive),that (complementizer),9.2.5,5511,GEN.1.4,,,,,,
+maa,attested,conj,,,,que (complétive),that (complementizer),9.2.5,5511,GEN.1.4,,,238,màà,also 'as',
 maalianndo,attested,verb,,,maalian,s'entraider,help one another,4.3.4,2,ISA.41.6,Maalianndo,110,,,,Réciproque de malaa.
 maalon,attested,noun,,,,riz ; blé,rice; wheat,5.2.3 6.2.1,76,GEN.30.14,Maalon,139,,,,La Bible l'emploie aussi pour le blé (GEN.30.14).
 máándo,attested,noun,o,,,"sanctuaire, lieu de culte","shrine, place of worship",4.9.8,7,JDG.17.5,Maando,142,239,máàŋndó,place of worship; secret meeting place of the men in the forest,"Bible : cɛi máándo « maison des idoles, sanctuaire »."
@@ -779,7 +779,7 @@ maluaŋ,attested,noun,,,,nord,north,8.5.2,62,EXO.26.20,,,,,,
 mamaa,attested,noun,,,mama,"grand-parent, ancêtre ; petit-enfant","grandparent, ancestor; grandchild",4.1.9,433,GEN.10.32,,,241,màmá,"grandmother, old woman","fuɲaa mamaa « les ancêtres » ; Lɔt po ndɔ mama « son petit-fils Lot » (Gn 11,31)."
 mamanndo,respelled,verb,,,,se moquer,mock,4.3,,,Mamanndo,114,,,,"Moyen de mamɔɔ. maman « rire » attesté une fois (PSA 126,2)."
 mamɔɔ,attested,verb,,,mam; mem; mamnin,rire,laugh,3.4.1,88,JDG.16.25,Mamöö,114,241,màmɔ̀ɔ́,"laugh, joke","mem : radical négatif (GEN 18,15)."
-man,attested,det,,,,"ce, ces (classe an)","this, that (an class)",9.2.3 8.5.1,475,GEN.1.2,,,,,,
+man,attested,det,,,,"ce, ces (classe an)","this, that (an class)",9.2.3 8.5.1,475,GEN.1.2,,,241,mâŋ,,
 mandaa,attested,verb,,,manda; mandanin,"garder, surveiller, prendre soin de","keep, guard, look after",7.4.5 6.3,368,GEN.2.15,,,241,màndàá,"take care of, raise (animals); mind","vana mandaa n'cɔloo « gardien de moutons, berger » (Gn 4,2)."
 mandanndo,attested,verb,,,mandan,"se garder (de), prendre garde ; mettre de côté","keep oneself (from), beware; store up",7.4.5,12,DEU.11,,,241,màndăŋndó,take care of oneself,Moyen de mandaa.
 mandenɔɔ,attested,noun,o,mandea,,"marabout, devin","diviner, charmer",4.9.4,1,DEU.18.11,Mandenöö,150,241,màndénɔ̀ɔ́,"diviner, fortune teller, medicine man; also a Muslim",
@@ -788,14 +788,14 @@ masaa,attested,noun,o,,,"roi, chef","king, chief",4.6.1,2748,GEN.12.15,Masaa,148
 masalen,attested,noun,len,,masale,"royaume, règne, royauté","kingdom, reign, kingship",4.6 4.6.7,482,GEN.1.28,,,243,màsàlɛ́ŋ,"chieftaincy, rule",De masaa « roi ».
 masɛi,attested,noun,,,,"royaume, nation","kingdom, nation",4.6,65,DEU.3.21,,,,,,
 mayoomoo,attested,adj,,,mayoomu; mayoomua; mayoomulan,"fort, puissant ; fortifié ; (mayoomu) force","strong, mighty; fortified; (mayoomu) strength",2.4.1,20,EXO.32.11,,,,,,"fonda mayoomoo « forteresse, refuge » ; kobila mayoomulan « villes fortifiées »."
-mbaa,attested,interj,,,,oui ? (réponse à un appel),yes? (answer to a call),9.2.7,2,GEN.27.18,,,,,,
+mbaa,attested,interj,,,,oui ? (réponse à un appel),yes? (answer to a call),9.2.7,2,GEN.27.18,,,256,mbàà,response to a greeting,
 mbokponi,check,noun,,,,demoiselle,young lady,2.6.4,,,Mbokponi,134,,,,"Forme inhabituelle, à confirmer."
 mboomaa,respelled,noun,o,,mbòòma,"hamac ; litière, palanquin","hammock; litter, palanquin",5.1.1 7.2.4,,,Nboomaa,159,256,mbòmàá,,"Keita écrit Nboomaa. Forme radicale mbòòma « litière de Salomon » dans la Bible (Ct 3,7.9)."
 mbɔ̀,attested,interj,,,,ah ! hélas ! (exclamation),ah! alas! (exclamation),9.2.7,70,GEN.24.56,,,,,,
 meiyo,attested,noun,,,,"silence, calme (o meiyo nin)","silence, quiet (o meiyo nin)",3.5,19,2KI.7.9,,,243,mèìyɔ́,(verb) keep quiet; set a time,
 meiyo,attested,verb,,,mei; meinin,se taire,be silent,3.5,19,2KI.7.9,Maiyo,110,243,mèìyó,keep quiet,"Keita écrit maiyo ; la Bible écrit meiyo (ECC 3,7). Moyen meinun."
 mello,attested,verb,,,mel; melnin,"laisser (partir), permettre ; garder pour (Keita)","let go, allow; keep for (Keita)",7.2.8,34,EXO.4.23,Mello,110,,,,"Dans la Bible, mello signifie « laisser partir » (EXO 4,23) ; mel et melnin sont les formes négatives de mal « laisser » (GEN 28,15)."
-mi,attested,conj,,,mí; mì; mó; mò; má; mà,et (alors) ; pour que,and (then); so that,9.2.5 9.6.3,20412,GEN.1.1,,,,,,
+mi,attested,conj,,,mí; mì; mó; mò; má; mà,et (alors) ; pour que,and (then); so that,9.2.5 9.6.3,20412,GEN.1.1,,,249,mì,also 'that' (subordinating),
 miallo,attested,noun,o,mialla,,étranger,"stranger, foreigner",4.1.2,34,GEN.23.4,Miallo,148,249,mìàlló,"guest, visitor, outsider",
 milinndo,attested,noun,o,,milin,nez,nose,2.1.1,8,LEV.13.45,Milinndo,132,250,mǐŋndó,,
 mingio,attested,verb,,,mingi; minginin; mingin,"réparer, remettre en état, restaurer ; venger","repair, restore; avenge",7.9.4,148,GEN.4.24,,,249,mìŋìó,"return, go back; retaliate, replace",
@@ -809,7 +809,7 @@ mulinndo,attested,verb,,,mulin; mulinin,"se tourner (vers), retourner ; recommen
 mulio,attested,verb,,,muli; mulinin,"répondre ; tourner, se tourner",answer; turn,3.5.1,27,2SA.14.20,Mulio,110,254,mùlìó,turn over; reply,
 muloo,attested,noun,o,,,"impôt, tribut ; rançon","tax, tribute; ransom",4.6 6.8.4,49,EXO.30,Muloo,148,,,,
 mulullo,attested,verb,,,mulul; mululnin,répondre à ; se tourner vers,answer someone; turn to,3.5.1,24,GEN.45.3,Mulullo,110,,,,Bénéfactif de mulio.
-mun,attested,det,,,,ces (pluriel en -on),"these, those (-on plural)",9.2.3 8.5.1,1752,GEN.1.14,,,,,,
+mun,attested,det,,,,ces (pluriel en -on),"these, those (-on plural)",9.2.3 8.5.1,1752,GEN.1.14,,,255,mùŋ,,
 mundoo,attested,noun,o,,mundu,nuque ; dos,nape of the neck; back,2.1.1 2.1.2,4,EXO.33.23,Munduo,132,255,mùndɔ̀ɔ́,nape of the neck,
 muuluo,respelled,verb,,,,"retourner, renverser","turn over, overturn",7.3.2,,,Muuluo,110,,,,
 muungoo,attested,verb,,,muungu; muungun; muungunin,"retourner, revenir","return, go back",7.2.3,136,GEN.12.9,,,249,mìŋìó,"return, go back; also retaliate, replace (variant mùùŋgóó)",
@@ -831,14 +831,14 @@ mɛmɛan,attested,noun,an,,,larmes,tears,2.2 3.4.2,30,2SA.13.36,Mèmèan,132,247
 mɛndul,attested,verb,,,,allumer (le feu),kindle (a fire),5.5,19,EXO.35.3,,,247,mèndùlló,"light, build a fire",
 mɛngɛlaa,attested,noun,,,,"guet, poste de guet","lookout, watch",4.8.3 2.3.1,35,NUM.23.14,,,,,,
 mɛnndan,attested,noun,an,,mɛmma,eau,water,1.3,444,GEN.1.2,Mènndan,155,248,mɛ̀ŋndáŋ,,Keita donne aussi mɛmma tuwvan « eau chaude » et mɛmma ɲuluan « eau fraîche ».
-mɛɛ,attested,conj,,,,quand ; comme,"when; as, like",9.2.5,4301,GEN.1,,,,,,
+mɛɛ,attested,conj,,,,quand ; comme,"when; as, like",9.2.5,4301,GEN.1,,,244,mɛ̀ɛ́,"also 'since, after, while; except, unless'",
 mɛɛlen,attested,noun,len,,,sein,breast,2.1.2,9,GEN.21.8,Mèèlen,132,246,mɛ̀ɛ̀yáŋ,"breast, breast milk; pus",
 mɛɛlulan,attested,noun,,,mɛɛlula,"fin, dernier moment ; (o mɛɛlulan) à la fin, finalement","end, last part; (o mɛɛlulan) finally, afterwards",8.4.6 8.4.5,166,GEN.30.21,,,,,,
 mɛɛnaa,respelled,verb,,,,maudire,curse,4.9.5 3.5.1,,,Mèènaa,110,,,,La Bible emploie mɛɛniaa pour « maudire ».
 mɛɛndianndo,attested,verb,,,mɛɛndian,"regarder (autour), examiner, observer","look around, examine, observe",2.3.1,33,LEV.13.11,,,245,mèèndìàŋndɔ́,"plural of mèèndăŋndɔ́ 'look into': look around, ponder, scrutinize",
 mɛɛniaa,attested,verb,,,mɛɛnian,maudire ; maudire plusieurs fois (Keita),curse; curse repeatedly (Keita),4.9.5 3.5.1,3,1KI.2.8,Mèèniaa,110,,,,"Pluriel de mɛɛnaa selon Keita ; dans la Bible, sens simple « maudire » (1KI 2,8 ; JAS 3,9)."
-n,attested,pron,,,,"nous (sujet) ; tu (relative, question)","we (subject); you (sg., in relatives and questions)",9.2.3,7904,GEN.1.26,,,,,,
-naa,attested,pron,,,,nous (indépendant) ; notre,us (independent); our,9.2.3,4651,GEN.1.26,,,,,,
+n,attested,pron,,,,"nous (sujet) ; tu (relative, question)","we (subject); you (sg., in relatives and questions)",9.2.3,7904,GEN.1.26,,,269,ŋ̀,we; also the ordinary 2sg subject 'you',
+naa,attested,pron,,,,nous (indépendant) ; notre,us (independent); our,9.2.3,4651,GEN.1.26,,,257,náá,,
 nàà,attested,noun,o,naalan,,maladie,"illness, disease",2.5.1 2.5.2,4651,GEN.1.26,Naa,161,257,nàá,,"La Bible écrit en général nàà avec tons, ce qui le distingue de naa « nous »."
 nàà ciŋnde,respelled,noun,,,,mal de dents,toothache,2.5.2,,,Naa ntyinndo,161,,,,"Composé non attesté tel quel ; Keita écrit Naa ntyinndo. Mots attestés séparément dans la Bible, mais pas cette expression."
 nàà dembe,attested,noun,,,,"mal de ventre, maladie des entrailles","stomach ache, bowel disease",2.5.2,,,Naa demboo,161,,,,
@@ -849,40 +849,40 @@ naanɔɔ,respelled,noun,,,,août,August,8.4.4,,,Naanöö,152,257,nààndɔ́ɔ,m
 nakɔɔ,attested,noun,o,nakɔlan,nakɔ; nakɔla,"jardin, plantation ; jardin, champ cultivé, plantation","garden, plantation ; garden, cultivated field, plantation",6.2.9,40,GEN.2,Naaköö,142,258,nákóó,"garden (Guéckédou dialect, borrowed from Maninka)",Keita écrit une voyelle longue (Naaköö) ; la Bible écrit nakɔɔ (le jardin d'Éden).
 nambaa,check,verb,,,,glisser,"slip, slide",7.2.1,,,Nambaa,110,,,,"Une seule occurrence dans la Bible (JER 32,24), au sens incertain (« escalader » ?)."
 namtalen,attested,noun,len,,,"défaut physique, infirmité ; paralysie","physical defect, infirmity; paralysis",2.5.4,2,LEV.22.25,Namtalen,162,258,nâmtàá,crippled or handicapped person,"Keita : « paralysie » ; dans la Bible, « défaut » d'un animal (Dt 15,21)."
-nanu,attested,adv,,,,ici,here,9.2.2 8.5.1,506,GEN.15.16,,,,,,
+nanu,attested,adv,,,,ici,here,9.2.2 8.5.1,506,GEN.15.16,,,258,nánùŋ,,
 nanɔɔ,attested,verb,,,nan; nannin; nennin,tirer,"pull, draw",7.3.2,14,GEN.34.3,Nanöö,114,258,nànɔ̀ɔ́,"pull, suck, drag","Radical en e de Keita : nen ; nennin (JDG 4,7)."
 nawvo,attested,noun,o,nawva,naw; navaa,"vache, bœuf ; bovin","cow, ox; cattle",6.3.1,27,EXO.21.28,,,259,nàùwɔ́,,navaa tovaa « jeunes taureaux ».
 naŋɔɔ,attested,verb,,,naŋ; naŋnin,"être bon, beau, agréable ; plaire ; bonté, beauté","be good, beautiful, pleasing; goodness, beauty",8.3.7,170,GEN.2.12,,,259,nàŋɔ̀ɔ́,"be good, fine, beautiful; be generous, morally good","naŋ kɔl a … « aimer, apprécier » (1 S 18,5)."
-nda,attested,pron,,,,"eux, elles, les",them (independent),9.2.3,15820,GEN.1.21,,,,,,
-nda,attested,conj,,,,et (entre personnes),and (between persons),9.2.5,15820,GEN.1.21,,,,,,
+nda,attested,pron,,,,"eux, elles, les",them (independent),9.2.3,15820,GEN.1.21,,,266,ndá,,
+nda,attested,conj,,,,et (entre personnes),and (between persons),9.2.5,15820,GEN.1.21,,,266,ndá,also 'with',
 ndáà,attested,pron,,,,"ils, elles (passé révolu)",they (remote past),9.2.3 9.4.1,3298,GEN.6.3,,,,,,
-ndaa,attested,det,,,,leur,their,9.2.3,3298,GEN.6.3,,,,,,
-ndi,attested,pron,,,,"le, la (classe i)","it (i class, object)",9.2.3,485,GEN.2.11,,,,,,
+ndaa,attested,det,,,,leur,their,9.2.3,3298,GEN.6.3,,,266,ndà-,,
+ndi,attested,pron,,,,"le, la (classe i)","it (i class, object)",9.2.3,485,GEN.2.11,,,267,ndì,,
 ndili,respelled,adv,,,,le surlendemain,two days after tomorrow,8.4.5,,,Ndili,152,,,,
-ndóò,attested,pron,,,,"il, elle (passé révolu)","he, she (remote past)",9.2.3 9.4.1,2421,GEN.2.5,,,,,,
-ndu,attested,pron,,,,"lui, elle, le, la","him, her (independent)",9.2.3,13218,GEN.1.7,,,,,,
-nduyɛ,attested,conj,,,,"cependant, en effet","however, indeed",9.2.5 9.6.3,1064,GEN.9.4,,,,,,
-ndɔ,attested,det,,,,"son, sa (personne)","his, her (person)",9.2.3,2287,GEN.1.27,,,,,,
-ndɔɔ,attested,det,,,,"son, sa (classe o, chose)","his, her (o class, thing)",9.2.3,2062,GEN.1.11,,,,,,
+ndóò,attested,pron,,,,"il, elle (passé révolu)","he, she (remote past)",9.2.3 9.4.1,2421,GEN.2.5,,,268,ndóò,only a cross-reference to the imperfective suffix -óó,
+ndu,attested,pron,,,,"lui, elle, le, la","him, her (independent)",9.2.3,13218,GEN.1.7,,,268,ndú,,
+nduyɛ,attested,conj,,,,"cependant, en effet","however, indeed",9.2.5 9.6.3,1064,GEN.9.4,,,268,ndúyɛ́,and then,
+ndɔ,attested,det,,,,"son, sa (personne)","his, her (person)",9.2.3,2287,GEN.1.27,,,268,-ndɔ̀,,
+ndɔɔ,attested,det,,,,"son, sa (classe o, chose)","his, her (o class, thing)",9.2.3,2062,GEN.1.11,,,268,-ndɔ̀,,
 ngeemaa,attested,noun,o,,,scorpion,scorpion,1.6.1,9,NUM.34.4,Ngeemaa,136,269,ŋéémáá,,Keita donne aussi la variante Keemaa.
 ngeloo,respelled,noun,o,,,carnaval,carnival,4.2.2,,,Ngeloo,163,,,,
-ni,attested,part,,,,"c'est… (affirmation, mise en relief)","it is… (focus, identification)",9.2.6,13413,GEN.1.5,,,,,,
-niaa,attested,pron,,,,vous (indépendant) ; votre,"you (pl., independent); your (pl.)",9.2.3,8812,GEN.1.29,,,,,,
+ni,attested,part,,,,"c'est… (affirmation, mise en relief)","it is… (focus, identification)",9.2.6,13413,GEN.1.5,,,262,ní,,
+niaa,attested,pron,,,,vous (indépendant) ; votre,"you (pl., independent); your (pl.)",9.2.3,8812,GEN.1.29,,,273,ɲá,,
 nihau,attested,adv,,,,"maintenant, cette fois","now, this time",9.2.2 8.4.5,141,GEN.2.23,,,,,,
 niinoo,attested,verb,,,niinu,"continuer, ne pas cesser (de)","continue, keep on",8.4.6,24,NUM.33.3,,,,,,
 nilen,attested,noun,len,nilan,nile,oreille,ear,2.1.1,134,GEN.12.19,Nilen,132,263,nìléŋ,,
 nimɔɔ,respelled,noun,o,,,trompe d'éléphant,elephant's trunk,1.6.2,,,Nimöö,136,263,nímɔ́ɔ́,,
-nin,attested,postp,,,,dans (o … nin),"in, inside (o … nin)",9.2.4 8.6.4,11973,GEN.1.17,,,,,,
+nin,attested,postp,,,,dans (o … nin),"in, inside (o … nin)",9.2.4 8.6.4,11973,GEN.1.17,,,263,nǐŋ,"also 'from inside'; ó … nǐŋ also 'during, while'",
 ninginangaa,attested,noun,o,,,arc-en-ciel,rainbow,1.1.3,7,GEN.9.13,Ninginangaa,154,263,níŋgínáŋgàá,,
 niŋ,attested,verb,,,,"être bon, convenir (o niŋ … le « il n'est pas bon que … »)","be good, be fitting (o niŋ … le 'it is not good that …')",8.3.7,57,GEN.2.18,,,,,,
 nuaa,check,verb,,,nua,regarder,look,2.3.1,,,Nuaa,114,265,nùàá,"look at, observe","nua « regarde ! » (GEN 37,32). Mais nuaa est surtout dans la Bible « ainsi, la manière » (GEN 2,1)."
 nuannɔnndo,respelled,verb,,,,se regarder,look at oneself,2.3.1,,,Nuannönndo,114,,,,Moyen de nuaa.
-nuu,attested,det,,,,"mon, ma",my,9.2.3,1533,GEN.4.9,,,,,,
+nuu,attested,det,,,,"mon, ma",my,9.2.3,1533,GEN.4.9,,,265,nù-,,
 nuufaa,respelled,verb,,,,regarder,look,2.3.1,,,Nuufaa,113,266,nùùwàá,"look for, search",
 nuufiaa,respelled,verb,,,,chercher,"search, look for",7.6.1,,,Nuufiaa,113,,,,Pluriel de nuufaa.
 nuwviaa,attested,verb,,,nuwviaanin,chercher ; pourvoir,"seek, look for; provide",7.6.1,363,GEN.26.22,,,266,nùùwìá,"plural of nùùwàá 'look for': search, seek",
 nɔlaa,attested,verb,,,nɔla; nɔlanin; nɔlan,"pouvoir, être capable de","can, be able to",9.4 2.4.1,20,JDG.16.19,,,264,nɔ̀lâá,"be able, can; overcome (someone)",
-nɔm,attested,pron,,,,"toi, te","you (sg., independent)",9.2.3,5782,GEN.2.17,,,,,,
+nɔm,attested,pron,,,,"toi, te","you (sg., independent)",9.2.3,5782,GEN.2.17,,,265,núm,,
 nɔmndo,attested,det,,,,"ton, ta (classe o, chose)","your (sg., o class, thing)",9.2.3,1002,GEN.3.10,,,,,,
 nɔnɔɔ,attested,noun,o,,,lait,milk,5.2.3,3,2SA.17.29,Nönöö,132,,,,
 nɔ̀u,attested,noun,,,,"mariage, état d'épouse ; (o nɔ̀u) mariée","marriage, being a wife; (o nɔ̀u) married",2.6.1,212,GEN.20.3,,,264,nɔ̀ɔ́,marriage; agreement,
@@ -894,9 +894,9 @@ nɛ,attested,part,,,,particule de mise en relief dans les questions (yɛɛ nɛ �
 nɛa soalaa,check,noun,,,,"lieux d'aisance, latrines","latrine, toilet",6.5.1 2.2.8,,,Nèa soalaa,142,,,,Forme et découpage à confirmer.
 nɛiyo,attested,noun,o,nɛilan,,"chemin, route","path, road",6.5.4,231,GEN.22.3,Nèiyo,142,261,nɛ̀ìyó,,
 nɛyɔnndo,attested,verb,,,nɛyɔn,haïr ; la haine,hate; hatred,3.4.2,37,GEN.37.4,,,,,,
-nɛ̀ɛ́,attested,pron,,,,qui ?,who?,9.2.3,1602,GEN.1.9,,,,,,
-o,attested,pron,,,,"il, elle (sujet, classe o)","he, she, it (subject, o class)",9.2.3,58042,GEN.1.1,,,,,,
-o,attested,prep,,,,"à, dans, sur (lieu, temps)","at, in, on (place, time)",9.2.4,58042,GEN.1.1,,,,,,
+nɛ̀ɛ́,attested,pron,,,,qui ?,who?,9.2.3,1602,GEN.1.9,,,260,nɛ̀ɛ́,,
+o,attested,pron,,,,"il, elle (sujet, classe o)","he, she, it (subject, o class)",9.2.3,58042,GEN.1.1,,,284,ò,,
+o,attested,prep,,,,"à, dans, sur (lieu, temps)","at, in, on (place, time)",9.2.4,58042,GEN.1.1,,,284,ó,"also 'to, from, against, near'",
 oi,attested,interj,,,,oui,yes,9.2.7 9.4.6,43,GEN.24.58,,,,,,
 oliviee,attested,noun,,,oliviei,"olivier, olive","olive tree, olive",1.5.1,22,GEN.8.11,,,,,,
 oo,attested,part,,,,"chaque, tout (entre deux noms répétés : X oo X)","every, any (between a repeated noun: X oo X)",8.1.5 9.2.6,819,GEN.1.29,,,284,-ó-,,
@@ -933,10 +933,10 @@ pewvo,attested,noun,o,pewva,,"cochon, porc",pig,1.6.1 6.3.1,4,LEV.11.7,Pewvo,136
 piaa,attested,verb,,,pia,"être plein, rempli (o piaa cá a … « plein de … »)","be full, filled (o piaa cá a … 'full of …')",8.1.8,62,EXO.16.3,,,,,,
 piaandoo,attested,adj,,piaandua,piaandu; piaandaa,"mâle ; garçon, fils","male; boy, son",2.6.5 1.6.7,77,GEN.4.1,,,298,pìàndòó,,
 piasaa,attested,verb,,,piasa,"s'écarter, s'étendre ; (nom) empan","spread apart, extend; (noun) span",7.2 8.2.8,18,EXO.28.16,Piasaa,113,,,,"piasa : branches qui s'étendent sur le mur (GEN 49,22) ; piasaa « empan » (EXO 28,16)."
-pila,attested,part,,,,même (lui-même),"self, -self",9.2.3,1778,GEN.2.12,,,,,,
+pila,attested,part,,,,même (lui-même),"self, -self",9.2.3,1778,GEN.2.12,,,300,pílá,also 'indeed',
 pilannde,respelled,noun,i,,,tabatière,snuffbox,5.2.4,,,Pilannde,159,,,,
 pilanndo,attested,verb,,,pilan,toucher,touch,2.3.5 7.3.4,19,GEN.3.3,,,300,pìlăŋndó,,
-pilɛ,attested,num,,,,un,one,8.1.1,1725,GEN.1.9,,,,,,
+pilɛ,attested,num,,,,un,one,8.1.1,1725,GEN.1.9,,,301,pìlɛ́ɛ́,,
 pim,attested,verb,,,pimi,"être rassasié, avoir assez (bu) ; (pimi) faire boire, rassasier","be satisfied, have enough (to drink); (pimi) give to drink, satisfy",5.2.2,37,GEN.24.19,,,,,,
 pindo,attested,noun,,,,pourtour ; (… pindo) autour de,surroundings; (… pindo) around,8.6.6 9.2.4,97,GEN.19.4,,,,,,
 piondɔɔ,attested,verb,,,piondu; pendu,"acheter, acquérir","buy, acquire",6.8.4,48,GEN.17.12,,,303,pìòndɔ̀ɔ́,"buy, barter, exchange; pendu is one of its stems","pendu : autre radical, au même sens (vana pendu ndu-o « celui qui l'a acheté », Lv 25,30)."
@@ -970,7 +970,7 @@ pulta,attested,noun,,pultan,,cendre,ash,5.5,15,EXO.9.8,,,312,pùltáŋ,,
 pulɔn sɛllo,respelled,noun,,,,ablution,ritual ablution,4.9.5,,,Pulön sèllo,150,,,,
 pulɔnndo,attested,verb,,,pulun,se laver,wash oneself,5.6.2,7,EXO.2.5,Pulönndo,115,,,,Moyen de pulɔɔ.
 pulɔɔ,attested,verb,,,pulu; pilu,"laver (personnes, corps)","wash (people, body)",5.6.2,23,GEN.18.4,Pulöö,115,312,pùlɔ̀ɔ́,"wash, bathe","pilu : radical négatif (MRK 7,2)."
-pum,attested,det,,,,"un certain, un","a certain, some",8.1,1454,GEN.2.10,,,,,,
+pum,attested,det,,,,"un certain, un","a certain, some",8.1,1454,GEN.2.10,,,312,pùm,"also 'a few, part, a little'",
 puuloo,attested,noun,o,,puulu,"terre, sol ; poussière ; boue, argile","earth, soil, ground; dust ; dust; mud, clay",1.2.2,51,GEN.2.7,Puuluo,155,313,pùùlòó,"mud, dirt, stoneless soil; mortar",Keita écrit Puuluo ; la Bible puuloo.
 puundulen,respelled,noun,len,puundun,puundule,racine,root,1.5.5,,,Puundulen,140,314,pùùndúléŋ,,La Bible a la forme radicale puundule (ISA.53.2) et le pluriel puundun (2KI.19.30).
 puusiaa,attested,verb,,,puusian,"disperser, déranger","scatter, disperse",7.5,85,GEN.11.8,Puusiaa,113,314,pùùsìá,"scatter, spread about","Moyen puusian « se disperser » (1SA 13,8)."
@@ -982,7 +982,7 @@ pɔmbɔɔ,attested,noun,o,pɔmbɔa,pɔmbɔ,"cadet, frère ou sœur cadet(te) ; p
 pɔnɔɔ,attested,noun,o,,,"époux, mari",husband,4.1.9 2.6.1,24,EXO.21.22,Pönöö,134,309,pɔ́nɔ̀ɔ́,,
 pɔɛɛnndo,check,verb,,,pɔɛɛn,oublier,forget,3.2.6,,,Pöènndo,113,310,pùɛ̀ɛ̀ŋndó,forget,"Keita écrit pöènndo ; la Bible a le radical pɔɛɛn « oublier » (JER 30,14). La forme longue pɔɛɛnndo n'y est pas attestée."
 pɔɛɛnɔnndo,attested,verb,,,pɔɛɛnun; pɔɛɛnunnin,oublier ; oubli ; s'oublier (Keita),forget; oversight; forget oneself (Keita),3.2.6,12,GEN.43.12,Pöènnönndo,113,310,pùèèŋndɔ́,"forget; ignore, have nothing to do with","Moyen de pɔɛɛnndo. Keita écrit pöènnönndo ; la Bible écrit pɔɛɛnɔnndo (GEN 43,12) et pɔɛɛnun « oublier » (très courant)."
-pɛ,attested,part,,,,particule de condition (te … pɛ),conditional particle (te … pɛ),9.2.6,3807,GEN.1.22,,,,,,
+pɛ,attested,part,,,,particule de condition (te … pɛ),conditional particle (te … pɛ),9.2.6,3807,GEN.1.22,,,350,tè … pɛ́,,
 pɛi,attested,adv,,,,avant-hier ; auparavant,the day before yesterday; formerly,8.4.5,6,GEN.42.35,Pèi,152,,,,"Dans la Bible, « auparavant, autrefois » (2TI.3.14, ACT.21.38)."
 pɛndunɔɔ,attested,noun,o,pɛndua,,"jumeau, jumelle",twin,4.1.9 2.6.3,1,GEN.38.28,Pèndunöö,134,296,pɛ̀ndùnɔ̀ɔ́,,
 pɛngiaalen,attested,noun,len,,,repos ; (paale pɛngiaalen) jour du sabbat,rest; (paale pɛngiaalen) sabbath day,2.4.5 4.9.5,109,GEN.2.3,,,,,,
@@ -1075,7 +1075,7 @@ siowvo,attested,verb,,,siow,"achever, passer (un temps)","complete, spend (a per
 sisa,attested,adv,,,,"maintenant, alors (lelan sisa « maintenant donc »)","now, now then (lelan sisa)",8.4.5 9.6.3,126,GEN.24.49,,,,,,
 sisinndo,attested,noun,o,sisinnda,,fourmi,ant,1.6.1,2,PRO.6.6,Sisinndo,137,337,sìsìŋndó,,
 siŋnɔnndo,attested,verb,,,siŋnun; siŋnunnin; siŋnɔn,devenir,become,9.1.1,53,GEN.24.14,,,,,,
-siɔdii,attested,adv,,,,demain,tomorrow,9.2.2 8.4.5,149,GEN.19.2,,,,,,
+siɔdii,attested,adv,,,,demain,tomorrow,9.2.2 8.4.5,149,GEN.19.2,,,336,sìɔ̀dí,,
 siɔlɔɔ,attested,verb,,,siɔl,"construire, façonner ; tailler","build, make; hew, shape",6.6.3 6.5,16,GEN.6.15,,,,,,
 siɔw,respelled,verb,,,,pourrir,rot,1.4.1,,,Siöw,116,,,,"La Bible a siɔu, siɔ « (le jour) se lever » (JDG 19,26), sens différent."
 siɔɔndaa,respelled,verb,,,,chuchoter,whisper,3.5.1,,,Siööndaa,113,,,,
@@ -1116,7 +1116,7 @@ sumnɔɔ,attested,noun,o,,,forgeron,blacksmith,6.6.2,3,2CH.26.15,Sumnöö,145,34
 sumɛiyo,attested,adj,,sumɛiya,,aveugle,blind,2.5.4,33,LEV.19.14,,,344,sùmèíyé-,,
 sungbule,attested,noun,len,sungbuan,sungbuma,"colonne, pilier, poteau","pillar, column, post",6.5.2,13,EXO.37.20,,,,,,
 sungɔɔ,attested,verb,,,sungu; sungunin,arracher,"pluck, tear away",7.3.2,7,JOB.24.9,Sungöö,113,345,sùŋɔ̀ɔ́,"uproot, pull up, extract",
-sunsun,attested,adv,,,,"maintenant, tout de suite","now, right away",9.2.2 8.4.5,145,GEN.21.23,,,,,,
+sunsun,attested,adv,,,,"maintenant, tout de suite","now, right away",9.2.2 8.4.5,145,GEN.21.23,,,345,súŋsúŋ,,
 susaa,respelled,verb,,,,frotter,rub,7.7.5,,,Susaa,113,345,sùsàá,scrape,
 susanndo,respelled,verb,,,,se frotter,rub oneself,7.7.5,,,Susanndo,113,,,,Moyen de susaa.
 susɔɔ,respelled,verb,,,,sucer plusieurs fois,suck repeatedly,5.2.2,,,Susöö,113,,,,
@@ -1194,11 +1194,11 @@ tangullo,attested,verb,,,tangul; tangulnin; tengul,construire,build,6.5,108,GEN.
 tangulnɔɔ,respelled,noun,o,,,maçon,"mason, builder",6.5,,,Tangulnöö,145,,,,Cf. tangul « bâtir » dans la Bible.
 tapio,respelled,noun,,,,septembre,September,8.4.4,,,Tapio,152,,,,
 tasaa,respelled,noun,o,,,chauve-souris,bat,1.6.1,,,Tasaa,137,350,tàsáá,"large edible fruit bat, flying fox",La Bible emploie tɔnganndo pour la chauve-souris (LEV.11.19).
-tasoo,attested,num,,,,premier,first,8.1.1,217,GEN.1.1,,,,,,
-taw,attested,adv,,,,"très, beaucoup","very, a lot",9.2.2 9.3,1837,GEN.1.20,,,,,,
+tasoo,attested,num,,,,premier,first,8.1.1,217,GEN.1.1,,,350,tàsé-,,
+taw,attested,adv,,,,"très, beaucoup","very, a lot",9.2.2 9.3,1837,GEN.1.20,,,350,táù,"also 'everywhere, plentifully'",
 taŋnden,attested,noun,len,,,foudre ; tonnerre,lightning; thunder,1.1.3,5,1SA.7.10,Tannden,154,350,tâŋndéŋ,,
 taŋɔɔ,attested,verb,,,taŋ,traverser (un fleuve),cross (a river),7.2.4,50,EXO.14.17,,,349,tàŋɔ̀ɔ́,,
-te,attested,conj,,,,si (te … pɛ),if (te … pɛ),9.2.5,7156,GEN.3.3,,,,,,
+te,attested,conj,,,,si (te … pɛ),if (te … pɛ),9.2.5,7156,GEN.3.3,,,350,tè … pɛ́,"if, when",
 teengiaa,attested,verb,,,,"éclairer, faire briller","light up, make shine",8.3.3,60,GEN.1.16,,,,,,Causatif de tengaa.
 tei,attested,adv,,,,"beaucoup, fortement, très","much, strongly, very",9.3 9.2.2,41,GEN.19.3,,,351,téí,"very, a lot, many",
 telenndo,attested,noun,o,telenndan,telen; telennda,"temps, moment, époque","time, moment, period",8.4,99,GEN.13.9,,,352,téléŋndó,"time, period; also chance, opportunity",
@@ -1218,7 +1218,7 @@ tindilen,attested,noun,len,,tindile,colonne,"pillar, column",6.5.2,2,ISA.44.13,,
 tiw,attested,verb,,,,"suffire, être assez grand pour ; venir à bout de","be enough, have room for; master, overcome",8.1 4.8.2,206,GEN.4.7,,,363,tìùwó,"spread throughout; be enough, suffice; fit","tàndá kon ndóò tiw nda le « le pays ne leur suffisait pas » (Gn 13,6)."
 tiwba,attested,verb,,,,"pouvoir, être capable de","be able to, can",9.4,256,GEN.34.14,,,,,,
 tiŋndo,check,noun,,,,île,island,1.2.1 1.3.1,,,Tinndo,155,,,,"Dans la Bible, tiŋndo signifie « trajet, distance » (1KI.19.7) ; le sens « île » est à confirmer."
-tiɔn,attested,num,,,ŋiɔn; ŋiin; miɔn,deux,two,8.1.1,168,GEN.1.6,,,,,,La forme varie selon la classe du nom compté.
+tiɔn,attested,num,,,ŋiɔn; ŋiin; miɔn,deux,two,8.1.1,168,GEN.1.6,,,362,tìɔ́ɔ́ŋ,,La forme varie selon la classe du nom compté.
 toal,attested,verb,,,toalnin,descendre (sur),come down (upon),7.2.2,178,GEN.11.5,,,,,,
 toandaa,attested,verb,,,,"tendre, étendre (toile, filet)","stretch out, spread (cloth, net)",7.3.2,354,GEN.9.21,,,,,,cɛi-kola-toandaa « tente » (maison de toile tendue).
 tofaa,attested,verb,,,tofa; tofanin,"regarder, voir","look at, see",2.3.1,158,GEN.2.9,,,363,tòfàá,"also: inspect, taste, search, find out",
@@ -1265,7 +1265,7 @@ tuuliaala,attested,noun,,,,"figures sculptées, images, idoles","carved figures,
 tuulianɔɔ,respelled,noun,o,,,dessinateur,draughtsman,6.6.5,,,Tuulianöö,145,,,,
 tuusu,attested,verb,,,,descendre ; s'étendre (frontière),go down; extend (border),7.2.2,24,NUM.21.15,,,,,,
 tuuvo,attested,verb,,,,mesurer ; projeter,measure; plan,8.2.8 3.3.1,43,EXO.25,,,375,tùùnɔ̌ŋndó,plan (middle of tùùwó 'measure'),
-tɔ́,attested,num,,,,dix,ten,8.1.1,694,GEN.5.8,,,,,,
+tɔ́,attested,num,,,,dix,ten,8.1.1,694,GEN.5.8,,,368,tɔ́,,
 tɔ̀a,attested,det,,,,les autres,the others,8.1,373,GEN.4.15,,,,,,
 tɔlɔɔ,attested,noun,o,tɔlɔɔlan,,plante,plant,1.5,53,EXO.10.5,Tölöö,140,,,,
 tɔlɔɔ,attested,verb,,,tɔl; tɔal; tɔalnin,"planter ; plante, arbre","plant; plant, tree",6.2.3,53,EXO.10.5,Tölöö,115,,,,"tɔlɔɔ est aussi le nom « arbre, plante » (EXO 10,5)."
@@ -1290,7 +1290,7 @@ tɛɛlɔnndo,attested,verb,,,tɛɛlun,"supplier, implorer, prier ; se plaindre �
 tɛɛmbua,attested,adj,,,,destructeur,"destroying, destroyer",7.9.3,56,EXO.12.13,,,,,,De tɛɛmbuuo. mɛlɛkanɔ tɛɛmbua « l'ange destructeur ».
 tɛɛmbuula,attested,noun,,tɛɛmbuulan,,"transgressions, fautes","transgressions, offences",4.3 4.7,70,LEV.16.21,,,,,,De tɛɛmbuuo « détruire ; transgresser ».
 tɛɛmbuuo,attested,verb,,,tɛɛmbuu; tɛɛmbuunin,"détruire, anéantir ; transgresser (une loi)","destroy; break, transgress (a law)",7.9.3 4.7,176,GEN.19.13,,,353,tèèmbùùwó,"plural of tàmbéí 'be ruined': spoil, break, misuse",Pluriel de tambu « être ruiné ».
-tɛɛn,attested,postp,,,,"entre, parmi","between, among",9.2.4 8.6.5,2313,GEN.1.6,,,,,,
+tɛɛn,attested,postp,,,,"entre, parmi","between, among",9.2.4 8.6.5,2313,GEN.1.6,,,354,tɛ́ɛ̀ŋ,,
 tɛ̀ɛ̀ndo,attested,noun,o,,,teigne,"scalp ringworm, scall",2.5.2,28,EXO.11.4,Tèèndo,162,355,tɛ̀ɛ̀ŋndó,ringworm,"La Bible écrit tɛ̀ɛ̀ndo dans ce sens ; tɛɛndo sans ton y signifie « du milieu » (Ex 26,28)."
 tɛɛngaa,attested,verb,,,,"faire passer, transporter ; transmettre (un message)","convey, carry across; deliver (a message)",7.3.3 3.5,619,GEN.20.7,,,,,,"vana-tɛɛngaa-diom-Hala « prophète » ; vanaa tɛɛngaa « les marins » (Jon 1,5)."
 tɛɛngei,attested,noun,i,tɛɛngon,,"trou, brèche, creux","hole, breach, hollow",7.8.5,17,JDG.15.19,,,354,tèèŋgɔ̀ɔ́,hole; burrow (of a rat or squirrel),
@@ -1300,7 +1300,7 @@ tɛɛnɔn,respelled,noun,,,,gravier,gravel,1.2.2,,,Tèènön,155,,,,
 tɛɛsiaa,attested,verb,,,,"interpréter, expliquer","interpret, explain",3.2.4,29,GEN.40,,,,,,
 tɛɛsial,attested,verb,,,,"interpréter, expliquer (à qqn)","interpret, explain (to someone)",3.2.4,30,GEN.41.12,,,,,,Bénéfactif de tɛɛsiaa.
 va,attested,verb,,,ve; vanin,être (passé) ; auxiliaire du progressif passé,be (past); past progressive auxiliary,9.1.1 9.4.1,11781,GEN.1.2,,,,,,
-vaa,attested,num,,valan,,mille,thousand,8.1.1,666,GEN.1.16,,,,,,
+vaa,attested,num,,valan,,mille,thousand,8.1.1,666,GEN.1.16,,,377,wàá,,
 vaa,check,verb,,,vee; veenin,"cultiver, labourer","farm, plough",6.2.2,,,Vaa,115,,,,"le vàá « labourer » (DEU 22,10) ; vee, veenin : radical négatif (PRO 20,4 ; GEN 45,6). Homonyme de vaa « être »."
 vaa,attested,verb,,,co; va,être,be,9.1.1,666,GEN.1.16,Vaw,115,,,,"Keita écrit vaw (radicaux tyo, vo, va) ; la Bible a le vaa « être » (GEN 3,12) ; vaw y désigne le palmier (JDG 4,5)."
 vallo,attested,noun,o,valtan,vali; valta; vallon,"travail, ouvrage","work, labour",6.1,137,GEN.2.2,,,379,wàlló,,"ɲɛm vallon « ustensiles » (Ex 31,8)."
@@ -1367,7 +1367,7 @@ vunduan,attested,noun,an,,vunduma,"ombre, ombrage (pluriel de vundulen)","shade,
 vundulen,attested,noun,len,,,ombre,"shadow, shade",8.3.3,46,GEN.15.1,Vundulen,155,393,wùndúléŋ,"shade, shadow; the soul of a person",
 vuo,attested,verb,,,vu; vunin; vi; vinin,mourir,die,2.6.6,92,GEN.43.8,Vuo,115,393,wùó,,"vi, vinin : radical négatif (EXO 9,4)."
 vuuo,attested,verb,,,vuu,"jeter, lancer","throw, cast",7.3.2,16,GEN.21.20,,,393,wùùwó,throw (e.g. with a sling); thatch a roof; shoot,"vana caa kpaasiaa vuuo « archer » (Gn 21,20)."
-vɔ,attested,part,,,,pas encore (vɔ … le),not yet (vɔ … le),9.2.6 9.4.1,977,GEN.2.5,,,,,,
+vɔ,attested,part,,,,pas encore (vɔ … le),not yet (vɔ … le),9.2.6 9.4.1,977,GEN.2.5,,,390,wɔ̀,"also 'still, already'",
 vɔlɔɔ,attested,noun,o,,,perdrix,partridge,1.6.1,1,1SA.26.20,Völöö,137,390,wɔ̀lɔ̀ɔ́,bush chicken,
 vɔmndo,attested,verb,,,vɔm,"faire la battue, traquer","beat (for game), hunt down",6.4.1,1,HOS.5.8,Vömndo,114,,,,"vɔm « chasser, traquer » (JER 16,16)."
 vɔngoo,attested,noun,o,,vɔngu,"prix, paiement","price, payment",6.8.4,18,GEN.23.15,,,390,wɔ̀ŋgɔ̀ɔ́,,
@@ -1377,11 +1377,11 @@ vɔɔlen,attested,noun,len,,,saison sèche,dry season,8.4.1 1.1.3,13,GEN.8.22,V�
 vɔɔndo,attested,adj,,,vɔɔn; vɔɔnda; vɔɔnnda; vɔɔnndan; vɔɔnndon; vɔɔnde; vɔɔnnden,"mauvais, méchant","bad, evil, wicked",8.3.7 4.3,547,GEN.2.9,,,391,wɔ̀ɔ́ŋ,"bad, evil; also ugly (wɔ̀ùwó 'be bad or ugly')",Homonyme de vɔɔndo « aisselle ». dɛnɛ vɔɔndo « le mal ».
 vɔɔndo,attested,noun,o,,,aisselle,armpit,2.1.2,547,GEN.2.9,Vööndo,133,391,wɔ̀ɔ̀ŋndó,armpit; bosom,"Sens confirmé par Childs. Dans la Bible, vɔɔndo est surtout un homographe, « mauvais, mal » ; « sous les aisselles » s'y dit o lavɔɔn (Jr 38,12)."
 vɛ,attested,adv,,,,pourquoi ?,why?,9.2.3,52,GEN.24.31,,,,,,
-vɛlɛ,attested,adv,,,,"encore, de nouveau, aussi","again, also",9.2.2 8.4.6,2741,GEN.1.6,,,,,,
-vɛ̀ɛ̀,attested,part,,,,est-ce que ? comment ?,yes/no question marker; how?,9.2.6,922,GEN.15.8,,,,,,
+vɛlɛ,attested,adv,,,,"encore, de nouveau, aussi","again, also",9.2.2 8.4.6,2741,GEN.1.6,,,384,wɛ̀lɛ̀,"also 'more, else, extra'",
+vɛ̀ɛ̀,attested,part,,,,est-ce que ? comment ?,yes/no question marker; how?,9.2.6,922,GEN.15.8,,,383,wɛ̀ɛ́,what? why? how? how much?,
 vɛɛnnden,attested,noun,len,,,nid,nest,1.6.5,4,JOB.39.27,Vèènden,138,378,wàáŋndéŋ,,Keita écrit Vèènden ; la Bible vɛɛnnden.
-ya,attested,pron,,,,"moi, me","me, I (independent)",9.2.3,9382,GEN.3.10,,,,,,
-yaa,attested,num,,,,trois,three,8.1.1,875,GEN.2.19,,,,,,
+ya,attested,pron,,,,"moi, me","me, I (independent)",9.2.3,9382,GEN.3.10,,,394,yá,,
+yaa,attested,num,,,,trois,three,8.1.1,875,GEN.2.19,,,394,yàá,,
 yaafalen,respelled,noun,len,,,trahison,betrayal,4.3,,,Yaafalen,156,,,,
 yaafanɔɔ,respelled,noun,o,,,traître,traitor,4.3 4.1.2,,,Yaafanöö,156,,,,
 yaalaa,attested,verb,,,yaala,"condamner, accuser","condemn, accuse",4.7.5,32,DEU.19.15,,,,,,
@@ -1479,25 +1479,25 @@ yɔɔn,attested,noun,,,,épines,thorns,1.5.2,33,GEN.3.18,,,416,yùéí yɔ́ɔ́
 yɔɔvaa,attested,noun,o,,,"collier de perles, perles","bead necklace, beads",5.4.1,2,PRO.8.11,Yöövaa,145,416,yɔ̀wáá,beads worn around the neck or the waist,
 yɔɔyaa,attested,verb,,,yɔɔya,pêcher,fish,6.4.5,27,LEV.11.18,Yööyaa,114,416,yɔ̀ɔ̀yàá,fish (with a net),
 yɔɔɲɔɔ,respelled,noun,o,,,pangolin,pangolin,1.6.1,,,Yöönyöö,138,,,,
-yɛ,attested,part,,,,particule de fin de question,question-final particle,9.2.6,4440,GEN.1,,,,,,
+yɛ,attested,part,,,,particule de fin de question,question-final particle,9.2.6,4440,GEN.1,,,403,yɛ̀,,
 yɛmbɛi,respelled,noun,i,yɛmbɛn,,"ongle, griffe","nail, claw",2.1.3,,,Yèmbèi,133,404,yɛ́mbɛ̀í,,"Pluriel yɛmbɛn attesté (Dt 21,12 ; 1S 17,37)."
 yɛ́ndɛ́la,attested,adj,,,,plat (pierre plate),flat (of a stone slab),8.3.1,27,EXO.24.12,,,,,,powta yɛ́ndɛ́la « tables de pierre ».
 yɛngiyo,respelled,noun,o,,,danse exécutée sur du bois,dance performed on wood,4.2.4,,,Yèngiyo,163,,,,
-yɛɛ,attested,pron,,,,quoi ? quel ?,what? which?,9.2.3,867,GEN.3.13,,,,,,
+yɛɛ,attested,pron,,,,quoi ? quel ?,what? which?,9.2.3,867,GEN.3.13,,,403,yɛ̀ɛ̀,,
 yɛɛvɛ,attested,adv,,,,"tous, entièrement","all, completely",8.1.5 9.2.2,54,GEN.6.17,,,,,,
-ŋuɛɛnu,attested,num,,,,cinq,five,8.1.1,130,GEN.14.9,,,,,,
+ŋuɛɛnu,attested,num,,,,cinq,five,8.1.1,130,GEN.14.9,,,272,ŋùɛ́ɛ́nú,,
 ŋuɛɛnundɔɔ,attested,num,,,ŋuɛɛnundɔɛi,cinquième,fifth,8.1.1,22,GEN.30.17,,,272,ŋùɛ́ɛ́ndɔ̀-,,
-ŋɔmaa,attested,num,,,,huit,eight,8.1.1,59,GEN.14.14,,,,,,
+ŋɔmaa,attested,num,,,,huit,eight,8.1.1,59,GEN.14.14,,,270,ŋɔ̀máà,,
 ŋɔmaandɔɔ,attested,num,,,ŋɔmaandɔlen,huitième,eighth,8.1.1,13,EXO.10,,,,,,
-ŋɔmahiɔɔlu,attested,num,,,,neuf,nine,8.1.1,13,NUM.29.26,,,,,,
+ŋɔmahiɔɔlu,attested,num,,,,neuf,nine,8.1.1,13,NUM.29.26,,,270,ŋɔ̀máhìɔ́ɔ́lú,,
 ŋɔmahiɔɔlundɔɔ,attested,num,,,,neuvième,ninth,8.1.1,14,EXO.10,,,,,,
-ŋɔmmɛw,attested,num,,,,sept,seven,8.1.1,246,GEN.4.15,,,,,,
+ŋɔmmɛw,attested,num,,,,sept,seven,8.1.1,246,GEN.4.15,,,270,ŋɔ̌mɛ́ú,,
 ŋɔmmɛwndɔɔ,attested,num,,,ŋɔmmɛwndɔlen; ŋɔmmɛwndɔɛi,septième,seventh,8.1.1,39,EXO.9,,,,,,
-ŋɔmpum,attested,num,,,,six,six,8.1.1,91,GEN.30.20,,,,,,
+ŋɔmpum,attested,num,,,,six,six,8.1.1,91,GEN.30.20,,,271,ŋɔ̌ŋpúm,,
 ŋɔmpumndɔɔ,attested,num,,,,sixième,sixth,8.1.1,21,GEN.30.19,,,,,,
 ŋɔvɔɔ,attested,verb,,,ŋɔw; ŋɔaw; ŋɔawnin,"serrer, presser","squeeze, press",7.3.4,4,PRO.16.26,Nhövöö,115,271,ŋɔ̀ùwɔ̀ɔ́,"squeeze, press",
-ɔ́ɔ̀,attested,conj,,,,ou ; est-ce que,or; question marker,9.2.5,179,GEN.18.9,,,,,,
-ɛ-ɛ,attested,interj,,,,non,no,9.2.7 9.4.6,55,GEN.3.2,,,,,,
+ɔ́ɔ̀,attested,conj,,,,ou ; est-ce que,or; question marker,9.2.5,179,GEN.18.9,,,285,ɔ́ɔ̀,question word 'where? what? how?',
+ɛ-ɛ,attested,interj,,,,non,no,9.2.7 9.4.6,55,GEN.3.2,,,92,ɛ̀-ɛ́,,
 ɲaakuɛiyo,respelled,noun,,,,avril,April,8.4.4,,,Nyaakuèiyo,152,274,ɲààkúɛ́íyó,,
 ɲaale,attested,noun,,,,joie (dɔwnun ɲaale « se réjouir »),joy (dɔwnun ɲaale 'rejoice'),3.4.1,255,DEU.12.18,,,,,,
 ɲaaloo,attested,noun,o,,,"joie, allégresse","joy, gladness",3.4.1,181,DEU.28.47,,,,,,

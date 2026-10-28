@@ -962,7 +962,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particule | introduit les paroles rapportées | [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{aa}} | particule | introduit les paroles rapportées — *kissi du Sud (Childs 2000, en anglais) :* also 'like, as' (comparison) | [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{deŋio}} | verbe | crier, s'écrier ; gronder (tonnerre) — *kissi du Sud (Childs 2000, en anglais) :* yell, shout, scream | [Ex 9,29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
 | {{dimi}} | verbe | dire | [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{dimio}} | verbe | dire — *kissi du Sud (Childs 2000, en anglais) :* say, tell, speak | [Gn 3,20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
@@ -2806,7 +2806,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{pum}} | déterminant | un certain, un | [Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{pum}} | déterminant | un certain, un — *kissi du Sud (Childs 2000, en anglais) :* also 'a few, part, a little' | [Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{sɛ́lɛ́}} | adjectif | nombreux, beaucoup | [Gn 16,10](https://www.bible.com/bible/1394/GEN.16.10.BKG) |
 | {{táláá}} | nom | moitié | [Ex 24,6](https://www.bible.com/bible/1394/EXO.24.6.BKG) |
 | {{tiw}} | verbe | suffire, être assez grand pour ; venir à bout de — *kissi du Sud (Childs 2000, en anglais) :* spread throughout; be enough, suffice; fit | [Gn 4,7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
@@ -2824,7 +2824,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{beleyaa}} | nombre | trente | [Gn 5,3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{beleŋuɛɛnu}} | nombre | cinquante | [Gn 6,15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
 | {{bidiin}} | nombre | vingt | [Gn 6,3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{diinndɔɔ}} | nombre | deuxième | [Gn 4,19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
+| {{diinndɔɔ}} | nombre | deuxième — *kissi du Sud (Childs 2000, en anglais) :* two; second | [Gn 4,19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
 | {{hiɔɔlu}} | nombre | quatre | [Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{kɛmɛ}} | nombre | cent | [Gn 5,3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{pilɛ}} | nombre | un | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
@@ -2866,8 +2866,8 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{faw}} | adverbe | tous, entièrement | [Gn 8,17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
-| {{kpede}} | déterminant | tous, sans exception | [Gn 7,22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{faw}} | adverbe | tous, entièrement — *kissi du Sud (Childs 2000, en anglais) :* also 'a lot, everywhere' | [Gn 8,17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
+| {{kpede}} | déterminant | tous, sans exception — *kissi du Sud (Childs 2000, en anglais) :* also 'all over, everywhere' | [Gn 7,22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
 | {{kposon}} | adverbe | tous, entièrement ; toujours | [Gn 8,21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
 | {{kpow}} | déterminant | tout, tout entier | [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{oo}} | particule | chaque, tout (entre deux noms répétés : X oo X) | [Gn 1,29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
@@ -3011,7 +3011,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{idii}} | adverbe | le matin | [Gn 19,2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
 | {{idiiyo}} | adverbe | le matin, tôt | [Gn 19,27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
 | {{ipala}} | adverbe | la journée, le jour — *kissi du Sud (Childs 2000, en anglais) :* afternoon | [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{ipalaa}} | nom | le jour, le matin | [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{ipalaa}} | nom | le jour, le matin — *kissi du Sud (Childs 2000, en anglais) :* afternoon | [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
 | {{lambi}}, pl. {{lambilan}} | nom | génération ; fois | [Gn 50,23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
 | {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | nom (o) | semaine ; marché | [Gn 3,19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
 | {{paale kalalen}} | nom | midi ; soleil de midi | Keita 1979, p. 154 |
@@ -3061,9 +3061,9 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{ciɛi}} | adverbe | hier | [Gn 4,3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
 | {{cɔn}} | verbe | se lever ; (cɔn … nin) depuis | [Gn 8,21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
 | {{diɛŋ}} | adverbe | après-demain | [Ex 19,11](https://www.bible.com/bible/1394/EXO.19.11.BKG) |
-| {{few}} | adverbe | jamais (avec négation) ; pour toujours | [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{few}} | adverbe | jamais (avec négation) ; pour toujours — *kissi du Sud (Childs 2000, en anglais) :* also 'indeed, first, already' | [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 | {{fɔlɔn}} | adverbe | d'abord, auparavant — *kissi du Sud (Childs 2000, en anglais) :* first | [Gn 24,33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
-| {{háá}} | conjonction | jusqu'à (ce que) | [Gn 3,17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{háá}} | conjonction | jusqu'à (ce que) — *kissi du Sud (Childs 2000, en anglais) :* going on for a long time; until | [Gn 3,17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
 | {{hau}} | adverbe | aujourd'hui, maintenant | [Gn 4,11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
 | {{haw}} | adverbe | aujourd'hui — *kissi du Sud (Childs 2000, en anglais) :* today; now, right away; again | [Gn 33,15](https://www.bible.com/bible/1394/GEN.33.15.BKG) |
 | {{kabi}} | préposition | depuis | [Gn 16,5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
@@ -3097,7 +3097,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{pɛngio}} | verbe | se reposer ; cesser ; cesser, arrêter — *kissi du Sud (Childs 2000, en anglais) :* stop an activity, rest | [Gn 24,11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
 | {{pɛɛngio\|?}} | verbe | cesser | Keita 1979, p. 113 |
 | {{siowvo}} | verbe | achever, passer (un temps) | [1 S 14,13](https://www.bible.com/bible/1394/1SA.14.13.BKG) |
-| {{vɛlɛ}} | adverbe | encore, de nouveau, aussi | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vɛlɛ}} | adverbe | encore, de nouveau, aussi — *kissi du Sud (Childs 2000, en anglais) :* also 'more, else, extra' | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 ### 8.4.8 Vitesse
 
@@ -3122,9 +3122,9 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{he}} | déterminant | ce…-ci (classe i) | [Gn 9,17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
 | {{ho}} | déterminant | ce…-ci (classe o) | [Gn 2,16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
 | {{hoo}} | pronom | celui-ci, ceci | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{kan}} | déterminant | ces…-là (personnes) | [Gn 6,4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{kan}} | déterminant | ces…-là (personnes) — *kissi du Sud (Childs 2000, en anglais) :* these (a class), labelled proximal | [Gn 6,4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
 | {{ken}} | déterminant | ce…-là (classe i) | [Gn 2,22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | déterminant | ce…-là (classe o) | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kon}} | déterminant | ce…-là (classe o) — *kissi du Sud (Childs 2000, en anglais) :* that (o class); also the default demonstrative for other classes | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
 | {{kuɛɛ}} | adverbe | où ? quel ? | [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{lan}} | déterminant | ces (classe lan) | [Gn 2,19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
 | {{len}} | déterminant | ce, cette (classe len) | [Gn 2,3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
@@ -3171,7 +3171,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{coocoo}} | adverbe | en haut, au-dessus, dans les airs — *kissi du Sud (Childs 2000, en anglais) :* far up; also loudly | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{labɛngunin}} | adverbe | dessous, en bas ; (o … labɛngunin) sous, aux pieds de — *kissi du Sud (Childs 2000, en anglais) :* under, between | [Gn 16,9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
 | {{lebɛngu}} | adverbe | dessous, en dessous — *kissi du Sud (Childs 2000, en anglais) :* under, between | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{lecoo}} | adverbe | dessus, en haut | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lecoo}} | adverbe | dessus, en haut — *kissi du Sud (Childs 2000, en anglais) :* also 'about, concerning' | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{tullo}} | nom (o) | sommet | [Ex 24,17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
 | {{tɛlɛlɔɔ\|r}} | nom | surface | Keita 1979, p. 155 |
 
@@ -3188,7 +3188,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
 | {{lekɔɔli}} | adverbe | dehors, à l'extérieur | [Gn 6,14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
-| {{nin}} | postposition | dans (o … nin) | [Gn 1,17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{nin}} | postposition | dans (o … nin) — *kissi du Sud (Childs 2000, en anglais) :* also 'from inside'; ó … nǐŋ also 'during, while' | [Gn 1,17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
 
 ### 8.6.5 Milieu
 
@@ -3213,7 +3213,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{co}} | verbe | être ; auxiliaire du progressif | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{co}} | verbe | être ; auxiliaire du progressif — *kissi du Sud (Childs 2000, en anglais) :* also future auxiliary | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{siŋnɔnndo}} | verbe | devenir | [Gn 24,14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
 | {{va}} | verbe | être (passé) ; auxiliaire du progressif passé | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{vaa}} | verbe | être | [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
@@ -3251,7 +3251,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | --- | --- | --- | --- |
 | {{bɔɔle}} | adverbe | peut-être | [Gn 16,2](https://www.bible.com/bible/1394/GEN.16.2.BKG) |
 | {{coocoo}} | adverbe | en haut, au-dessus, dans les airs — *kissi du Sud (Childs 2000, en anglais) :* far up; also loudly | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{few}} | adverbe | jamais (avec négation) ; pour toujours | [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{few}} | adverbe | jamais (avec négation) ; pour toujours — *kissi du Sud (Childs 2000, en anglais) :* also 'indeed, first, already' | [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 | {{fɔlɔn}} | adverbe | d'abord, auparavant — *kissi du Sud (Childs 2000, en anglais) :* first | [Gn 24,33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
 | {{fɔ́ɔ́fɔ̀}} | adverbe | aussitôt, soudain — *kissi du Sud (Childs 2000, en anglais) :* spot, place; on the spot, right away | [Jos 6,20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
 | {{hau}} | adverbe | aujourd'hui, maintenant | [Gn 4,11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
@@ -3263,17 +3263,17 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kpendekele}} | adverbe | face à face ; clairement, ouvertement — *kissi du Sud (Childs 2000, en anglais) :* plainly, clearly, openly | [Gn 32,31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
 | {{kpɛɛlun}} | adverbe | près, proche | [Lv 25,49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
 | {{latulu}} | adverbe | ensemble, en même temps | [Gn 3,6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
-| {{lecoo}} | adverbe | dessus, en haut | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lecoo}} | adverbe | dessus, en haut — *kissi du Sud (Childs 2000, en anglais) :* also 'about, concerning' | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{lekɛ́ndɛi}} | adverbe | vraiment, en vérité | [Gn 12,14](https://www.bible.com/bible/1394/GEN.12.14.BKG) |
 | {{lon}} | adverbe | là, là-bas | [Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{nanu}} | adverbe | ici | [Gn 15,16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
 | {{nihau}} | adverbe | maintenant, cette fois | [Gn 2,23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{siɔdii}} | adverbe | demain | [Gn 19,2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
 | {{sunsun}} | adverbe | maintenant, tout de suite | [Gn 21,23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
-| {{taw}} | adverbe | très, beaucoup | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{taw}} | adverbe | très, beaucoup — *kissi du Sud (Childs 2000, en anglais) :* also 'everywhere, plentifully' | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{tei}} | adverbe | beaucoup, fortement, très — *kissi du Sud (Childs 2000, en anglais) :* very, a lot, many | [Gn 19,3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
 | {{tootoo}} | adverbe | bas ; humblement ; à voix basse — *kissi du Sud (Childs 2000, en anglais) :* underscores how low (ideophone) | [1 S 2,7](https://www.bible.com/bible/1394/1SA.2.7.BKG) |
-| {{vɛlɛ}} | adverbe | encore, de nouveau, aussi | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vɛlɛ}} | adverbe | encore, de nouveau, aussi — *kissi du Sud (Childs 2000, en anglais) :* also 'more, else, extra' | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{yɛɛvɛ}} | adverbe | tous, entièrement | [Gn 6,17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
 | {{ɲɛkɛndɛi}} | adverbe | bien, en sûreté — *kissi du Sud (Childs 2000, en anglais) :* well, thoroughly, completely | [Gn 3,5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
 
@@ -3287,22 +3287,22 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{ho}} | déterminant | ce…-ci (classe o) | [Gn 2,16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
 | {{hoo}} | pronom | celui-ci, ceci | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 | {{i}} | pronom | je (sujet) | [Gn 1,29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{kan}} | déterminant | ces…-là (personnes) | [Gn 6,4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{kan}} | déterminant | ces…-là (personnes) — *kissi du Sud (Childs 2000, en anglais) :* these (a class), labelled proximal | [Gn 6,4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
 | {{ken}} | déterminant | ce…-là (classe i) | [Gn 2,22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | déterminant | ce…-là (classe o) | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kon}} | déterminant | ce…-là (classe o) — *kissi du Sud (Childs 2000, en anglais) :* that (o class); also the default demonstrative for other classes | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
 | {{kuɛɛ}} | adverbe | où ? quel ? | [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{la}} | pronom | vous (sujet) ; pronom de la classe lan | [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{lan}} | déterminant | ces (classe lan) | [Gn 2,19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
 | {{len}} | déterminant | ce, cette (classe len) | [Gn 2,3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
 | {{man}} | déterminant | ce, ces (classe an) | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{mun}} | déterminant | ces (pluriel en -on) | [Gn 1,14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{n}} | pronom | nous (sujet) ; tu (relative, question) | [Gn 1,26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{n}} | pronom | nous (sujet) ; tu (relative, question) — *kissi du Sud (Childs 2000, en anglais) :* we; also the ordinary 2sg subject 'you' | [Gn 1,26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{naa}} | pronom | nous (indépendant) ; notre | [Gn 1,26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{nda}} | pronom | eux, elles, les | [Gn 1,21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
 | {{ndáà}} | pronom | ils, elles (passé révolu) | [Gn 6,3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
 | {{ndaa}} | déterminant | leur | [Gn 6,3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
 | {{ndi}} | pronom | le, la (classe i) | [Gn 2,11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
-| {{ndóò}} | pronom | il, elle (passé révolu) | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{ndóò}} | pronom | il, elle (passé révolu) — *kissi du Sud (Childs 2000, en anglais) :* only a cross-reference to the imperfective suffix -óó | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{ndu}} | pronom | lui, elle, le, la | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{ndɔ}} | déterminant | son, sa (personne) | [Gn 1,27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
 | {{ndɔɔ}} | déterminant | son, sa (classe o, chose) | [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
@@ -3312,7 +3312,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{nɔmndo}} | déterminant | ton, ta (classe o, chose) | [Gn 3,10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
 | {{nɛ̀ɛ́}} | pronom | qui ? | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{o}} | pronom | il, elle (sujet, classe o) | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{pila}} | particule | même (lui-même) | [Gn 2,12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
+| {{pila}} | particule | même (lui-même) — *kissi du Sud (Childs 2000, en anglais) :* also 'indeed' | [Gn 2,12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
 | {{vana}}, pl. {{vanaa}} | pronom | celui qui, quelqu'un (tête de relative) ; personne | [Gn 1,26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{vana-vana}} | pronom | quelqu'un ; (nég.) personne | [Gn 2,25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
 | {{vɛ}} | adverbe | pourquoi ? | [Gn 24,31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
@@ -3335,10 +3335,10 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kɔɔli}} | postposition | après, derrière | [Gn 2,8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
 | {{labɛngunin}} | adverbe | dessous, en bas ; (o … labɛngunin) sous, aux pieds de — *kissi du Sud (Childs 2000, en anglais) :* under, between | [Gn 16,9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
 | {{le}} | préposition | pour, à cause de | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{lo}} | postposition | chez, auprès de (o … lo) | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{lo}} | postposition | chez, auprès de (o … lo) — *kissi du Sud (Childs 2000, en anglais) :* also 'to (someone)' | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{loo}} | postposition | sans, privé de | [Gn 14,21](https://www.bible.com/bible/1394/GEN.14.21.BKG) |
-| {{nin}} | postposition | dans (o … nin) | [Gn 1,17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
-| {{o}} | préposition | à, dans, sur (lieu, temps) | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{nin}} | postposition | dans (o … nin) — *kissi du Sud (Childs 2000, en anglais) :* also 'from inside'; ó … nǐŋ also 'during, while' | [Gn 1,17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{o}} | préposition | à, dans, sur (lieu, temps) — *kissi du Sud (Childs 2000, en anglais) :* also 'to, from, against, near' | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
 | {{pindo}} | nom | pourtour ; (… pindo) autour de | [Gn 19,4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
 | {{tɛɛn}} | postposition | entre, parmi | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
@@ -3348,41 +3348,41 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | --- | --- | --- | --- |
 | {{a}} | préposition | avec ; et | [Gn 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 | {{bau}} | conjonction | car, puisque | [Gn 9,6](https://www.bible.com/bible/1394/GEN.9.6.BKG) |
-| {{háá}} | conjonction | jusqu'à (ce que) | [Gn 3,17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{hali}} | conjonction | même ; même si | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{háá}} | conjonction | jusqu'à (ce que) — *kissi du Sud (Childs 2000, en anglais) :* going on for a long time; until | [Gn 3,17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{hali}} | conjonction | même ; même si — *kissi du Sud (Childs 2000, en anglais) :* also 'only, just' | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{haliko}} | conjonction | afin que | [Gn 1,29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
 | {{kani}} | conjonction | car, parce que | [Gn 2,3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
 | {{kɛ}} | conjonction | mais | [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
 | {{le hee}} | conjonction | alors ; c'est pourquoi |  |
 | {{le tùú}} | conjonction | parce que |  |
 | {{lelan}} | conjonction | c'est pourquoi, donc | [Gn 2,24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{maa}} | conjonction | que (complétive) | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{mi}} | conjonction | et (alors) ; pour que | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{mɛɛ}} | conjonction | quand ; comme | [Gn 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{nda}} | conjonction | et (entre personnes) | [Gn 1,21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
-| {{nduyɛ}} | conjonction | cependant, en effet | [Gn 9,4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
-| {{te}} | conjonction | si (te … pɛ) | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{maa}} | conjonction | que (complétive) — *kissi du Sud (Childs 2000, en anglais) :* also 'as' | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{mi}} | conjonction | et (alors) ; pour que — *kissi du Sud (Childs 2000, en anglais) :* also 'that' (subordinating) | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{mɛɛ}} | conjonction | quand ; comme — *kissi du Sud (Childs 2000, en anglais) :* also 'since, after, while; except, unless' | [Gn 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{nda}} | conjonction | et (entre personnes) — *kissi du Sud (Childs 2000, en anglais) :* also 'with' | [Gn 1,21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
+| {{nduyɛ}} | conjonction | cependant, en effet — *kissi du Sud (Childs 2000, en anglais) :* and then | [Gn 9,4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{te}} | conjonction | si (te … pɛ) — *kissi du Sud (Childs 2000, en anglais) :* if, when | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 | {{tuma}} | conjonction | au moment où, quand | [Gn 2,4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
 | {{yɔŋii}} | conjonction | de peur que, sinon | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{ɔ́ɔ̀}} | conjonction | ou ; est-ce que | [Gn 18,9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
+| {{ɔ́ɔ̀}} | conjonction | ou ; est-ce que — *kissi du Sud (Childs 2000, en anglais) :* question word 'where? what? how?' | [Gn 18,9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
 
 ### 9.2.6 Particules
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particule | introduit les paroles rapportées | [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
-| {{bɛɛ}} | particule | aussi ; même ; déjà | [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{aa}} | particule | introduit les paroles rapportées — *kissi du Sud (Childs 2000, en anglais) :* also 'like, as' (comparison) | [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{bɛɛ}} | particule | aussi ; même ; déjà — *kissi du Sud (Childs 2000, en anglais) :* also 'indeed, just, now' | [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{daama}} | particule | seulement | [Gn 23,15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
 | {{dɛ}} | particule | particule d'insistance (après un ordre ou une défense) | [Gn 19,17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
 | {{kpé}} | particule | seulement, seul | [Gn 7,1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
-| {{kpeekpei}} | particule | exactement, précisément | [Gn 13,4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
+| {{kpeekpei}} | particule | exactement, précisément — *kissi du Sud (Childs 2000, en anglais) :* really, very, a lot | [Gn 13,4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
 | {{le}} | particule | ne… pas (négation finale) | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{ni}} | particule | c'est… (affirmation, mise en relief) | [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
 | {{nɛ}} | particule | particule de mise en relief dans les questions (yɛɛ nɛ … yɛ ?) | [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{oo}} | particule | chaque, tout (entre deux noms répétés : X oo X) | [Gn 1,29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
 | {{pɛ}} | particule | particule de condition (te … pɛ) | [Gn 1,22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{vɔ}} | particule | pas encore (vɔ … le) | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{vɛ̀ɛ̀}} | particule | est-ce que ? comment ? | [Gn 15,8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
+| {{vɔ}} | particule | pas encore (vɔ … le) — *kissi du Sud (Childs 2000, en anglais) :* also 'still, already' | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{vɛ̀ɛ̀}} | particule | est-ce que ? comment ? — *kissi du Sud (Childs 2000, en anglais) :* what? why? how? how much? | [Gn 15,8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
 | {{yɛ}} | particule | particule de fin de question | [Gn 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 9.2.7 Interjections
@@ -3393,7 +3393,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{balika}} | interjection | merci | [Gn 24,48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
 | {{isɛ}} | interjection | salut (salutation) | [Gn 27,18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
 | {{kpòkóó}} | interjection | hélas ! | [Gn 25,22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
-| {{mbaa}} | interjection | oui ? (réponse à un appel) | [Gn 27,18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
+| {{mbaa}} | interjection | oui ? (réponse à un appel) — *kissi du Sud (Childs 2000, en anglais) :* response to a greeting | [Gn 27,18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
 | {{mbɔ̀}} | interjection | ah ! hélas ! (exclamation) | [Gn 24,56](https://www.bible.com/bible/1394/GEN.24.56.BKG) |
 | {{oi}} | interjection | oui | [Gn 24,58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
 | {{ɛ-ɛ}} | interjection | non | [Gn 3,2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
@@ -3412,7 +3412,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{taw}} | adverbe | très, beaucoup | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{taw}} | adverbe | très, beaucoup — *kissi du Sud (Childs 2000, en anglais) :* also 'everywhere, plentifully' | [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{tei}} | adverbe | beaucoup, fortement, très — *kissi du Sud (Childs 2000, en anglais) :* very, a lot, many | [Gn 19,3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
 
 ### 9.4 Notions liées au verbe
@@ -3427,11 +3427,11 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
 | {{bɛnda}} | verbe | devoir, falloir ; (nég.) ne pas devoir | [Gn 2,19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{co}} | verbe | être ; auxiliaire du progressif | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{co}} | verbe | être ; auxiliaire du progressif — *kissi du Sud (Childs 2000, en anglais) :* also future auxiliary | [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{ndáà}} | pronom | ils, elles (passé révolu) | [Gn 6,3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{ndóò}} | pronom | il, elle (passé révolu) | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{ndóò}} | pronom | il, elle (passé révolu) — *kissi du Sud (Childs 2000, en anglais) :* only a cross-reference to the imperfective suffix -óó | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{va}} | verbe | être (passé) ; auxiliaire du progressif passé | [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{vɔ}} | particule | pas encore (vɔ … le) | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{vɔ}} | particule | pas encore (vɔ … le) — *kissi du Sud (Childs 2000, en anglais) :* also 'still, already' | [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 
 ### 9.4.6 Oui, non
 
@@ -3453,8 +3453,8 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | --- | --- | --- | --- |
 | {{le hee}} | conjonction | alors ; c'est pourquoi |  |
 | {{lelan}} | conjonction | c'est pourquoi, donc | [Gn 2,24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{mi}} | conjonction | et (alors) ; pour que | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{nduyɛ}} | conjonction | cependant, en effet | [Gn 9,4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{mi}} | conjonction | et (alors) ; pour que — *kissi du Sud (Childs 2000, en anglais) :* also 'that' (subordinating) | [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{nduyɛ}} | conjonction | cependant, en effet — *kissi du Sud (Childs 2000, en anglais) :* and then | [Gn 9,4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
 | {{sisa}} | adverbe | maintenant, alors (lelan sisa « maintenant donc ») | [Gn 24,49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
 
 ### 9.7 Noms propres

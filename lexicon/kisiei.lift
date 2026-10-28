@@ -33,6 +33,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.7 Interjections"/>
       <trait name="semantic-domain-ddp4" value="4.3.7 Polite"/>
     </sense>
+    <note type="source"><form lang="en"><text>Childs 2000, p. 398: yándíí</text></form></note>
   </entry>
   <entry id="aa_4">
     <lexical-unit><form lang="kqs"><text>aa</text></form></lexical-unit>
@@ -44,7 +45,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
       <trait name="semantic-domain-ddp4" value="3.5.1 Say"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 8249 occurrences, first GEN.1.3</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'like, as' (comparison)</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 8249 occurrences, first GEN.1.3; Childs 2000, p. 2: àà</text></form></note>
   </entry>
   <entry id="ansan_5">
     <lexical-unit><form lang="kqs"><text>ansan</text></form></lexical-unit>
@@ -199,7 +201,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.7 Interjections"/>
       <trait name="semantic-domain-ddp4" value="4.3.7 Polite"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 125 occurrences, first GEN.24.48</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 125 occurrences, first GEN.24.48; Childs 2000, p. 5: báléká</text></form></note>
   </entry>
   <entry id="balikaa_17">
     <lexical-unit><form lang="kqs"><text>balikaa</text></form></lexical-unit>
@@ -540,7 +542,7 @@
       <gloss lang="en"><text>thirty</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 191 occurrences, first GEN.5.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 191 occurrences, first GEN.5.3; Childs 2000, p. 10: béléyáà</text></form></note>
   </entry>
   <entry id="beleŋuɛɛnu_44">
     <lexical-unit><form lang="kqs"><text>beleŋuɛɛnu</text></form></lexical-unit>
@@ -588,7 +590,7 @@
       <gloss lang="en"><text>twenty</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 327 occurrences, first GEN.6.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 327 occurrences, first GEN.6.3; Childs 2000, p. 16: bídìíŋ</text></form></note>
   </entry>
   <entry id="bii_48">
     <lexical-unit><form lang="kqs"><text>bii</text></form></lexical-unit>
@@ -1647,7 +1649,8 @@
       <gloss lang="en"><text>also; even; already</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2221 occurrences, first GEN.1.11</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'indeed, just, now'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 2221 occurrences, first GEN.1.11; Childs 2000, p. 11: bɛ́ɛ́</text></form></note>
   </entry>
   <entry id="bɛɛlen_129">
     <lexical-unit><form lang="kqs"><text>bɛɛlen</text></form></lexical-unit>
@@ -1901,7 +1904,7 @@
       <gloss lang="en"><text>other, another</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.3.5 Type, kind"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 783 occurrences, first GEN.4.25</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 783 occurrences, first GEN.4.25; Childs 2000, p. 39: cělèŋ-</text></form></note>
   </entry>
   <entry id="ciei_148">
     <lexical-unit><form lang="kqs"><text>ciei</text></form></lexical-unit>
@@ -1952,7 +1955,7 @@
       <gloss lang="en"><text>finish</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.4.6 Aspectual time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1008 occurrences, first GEN.2.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1008 occurrences, first GEN.2.2; Childs 2000, p. 47: cììyó</text></form></note>
   </entry>
   <entry id="ciimbuu_152">
     <lexical-unit><form lang="kqs"><text>ciimbuu</text></form></lexical-unit>
@@ -2133,7 +2136,8 @@
       <trait name="semantic-domain-ddp4" value="9.1.1 Be"/>
       <trait name="semantic-domain-ddp4" value="9.4.1 Tense and aspect"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 18903 occurrences, first GEN.1.7</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also future auxiliary</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 18903 occurrences, first GEN.1.7; Childs 2000, p. 50: cò</text></form></note>
   </entry>
   <entry id="cokaacoo_166">
     <lexical-unit><form lang="kqs"><text>cokaacoo</text></form></lexical-unit>
@@ -2201,7 +2205,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
       <trait name="semantic-domain-ddp4" value="8.6.2 Top"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 7185 occurrences, first GEN.1.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 7185 occurrences, first GEN.1.2; Childs 2000, p. 53: còó</text></form></note>
   </entry>
   <entry id="coocoo_171">
     <lexical-unit><form lang="kqs"><text>coocoo</text></form></lexical-unit>
@@ -3042,7 +3046,7 @@
       <gloss lang="en"><text>only</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 232 occurrences, first GEN.23.15</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 232 occurrences, first GEN.23.15; Childs 2000, p. 69: dààmà</text></form></note>
   </entry>
   <entry id="dalaa_232">
     <lexical-unit><form lang="kqs"><text>dalaa</text></form></lexical-unit>
@@ -3282,7 +3286,8 @@
       <gloss lang="en"><text>second</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 136 occurrences, first GEN.4.19</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>two; second</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 136 occurrences, first GEN.4.19; Childs 2000, p. 79: dìíŋ</text></form></note>
   </entry>
   <entry id="diinɔnndo_250">
     <lexical-unit><form lang="kqs"><text>diinɔnndo</text></form></lexical-unit>
@@ -3938,7 +3943,8 @@
       <gloss lang="en"><text>all, completely</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.5 All"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 192 occurrences, first GEN.8.17</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'a lot, everywhere'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 192 occurrences, first GEN.8.17; Childs 2000, p. 99: fáù</text></form></note>
   </entry>
   <entry id="fayaa_299">
     <lexical-unit><form lang="kqs"><text>fayaa</text></form></lexical-unit>
@@ -4063,7 +4069,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 351 occurrences, first GEN.8.22</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'indeed, first, already'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 351 occurrences, first GEN.8.22; Childs 2000, p. 101: fɛ́ɛ́ŋ</text></form></note>
   </entry>
   <entry id="filaniiyo_309">
     <lexical-unit><form lang="kqs"><text>filaniiyo</text></form></lexical-unit>
@@ -4478,7 +4485,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 358 occurrences, first GEN.7.1</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 358 occurrences, first GEN.7.1; Childs 2000, p. 116: háà</text></form></note>
   </entry>
   <entry id="háá_341">
     <lexical-unit><form lang="kqs"><text>háá</text></form></lexical-unit>
@@ -4490,7 +4497,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1778 occurrences, first GEN.3.17</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>going on for a long time; until</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1778 occurrences, first GEN.3.17; Childs 2000, p. 116: háá</text></form></note>
   </entry>
   <entry id="haalan_342">
     <lexical-unit><form lang="kqs"><text>haalan</text></form></lexical-unit>
@@ -4568,7 +4576,8 @@
       <gloss lang="en"><text>even; even if</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 484 occurrences, first GEN.2.5</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'only, just'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 484 occurrences, first GEN.2.5; Childs 2000, p. 118: hálì</text></form></note>
   </entry>
   <entry id="haliko_348">
     <lexical-unit><form lang="kqs"><text>haliko</text></form></lexical-unit>
@@ -4663,7 +4672,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 436 occurrences, first GEN.4.11</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 436 occurrences, first GEN.4.11; Childs 2000, p. 118: háù</text></form></note>
   </entry>
   <entry id="haw_356">
     <lexical-unit><form lang="kqs"><text>haw</text></form></lexical-unit>
@@ -4717,7 +4726,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 213 occurrences, first GEN.9.17</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 213 occurrences, first GEN.9.17; Childs 2000, p. 120: héì</text></form></note>
   </entry>
   <entry id="heeloo_360">
     <lexical-unit><form lang="kqs"><text>heeloo</text></form></lexical-unit>
@@ -4977,7 +4986,7 @@
       <gloss lang="en"><text>four</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 157 occurrences, first GEN.2.10</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 157 occurrences, first GEN.2.10; Childs 2000, p. 128: hìɔ́ɔ́lú</text></form></note>
   </entry>
   <entry id="ho_379">
     <lexical-unit><form lang="kqs"><text>ho</text></form></lexical-unit>
@@ -4989,7 +4998,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1059 occurrences, first GEN.2.16</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1059 occurrences, first GEN.2.16; Childs 2000, p. 130: hóò</text></form></note>
   </entry>
   <entry id="hoeiye_380">
     <lexical-unit><form lang="kqs"><text>hoeiye</text></form></lexical-unit>
@@ -5075,7 +5084,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 849 occurrences, first GEN.3.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 849 occurrences, first GEN.3.3; Childs 2000, p. 130: hóò</text></form></note>
   </entry>
   <entry id="huinden_386">
     <lexical-unit><form lang="kqs"><text>huinden</text></form></lexical-unit>
@@ -5407,7 +5416,7 @@
       <gloss lang="en"><text>I (subject)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 5732 occurrences, first GEN.1.29</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 5732 occurrences, first GEN.1.29; Childs 2000, p. 138: í</text></form></note>
   </entry>
   <entry id="ibungaa_411">
     <lexical-unit><form lang="kqs"><text>ibungaa</text></form></lexical-unit>
@@ -5464,7 +5473,7 @@
       <gloss lang="en"><text>evening, night</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.4.1 Period of time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 115 occurrences, first GEN.1.5</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 115 occurrences, first GEN.1.5; Childs 2000, p. 138: ìcɔ̀l</text></form></note>
   </entry>
   <entry id="idii_416">
     <lexical-unit><form lang="kqs"><text>idii</text></form></lexical-unit>
@@ -5488,7 +5497,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.1 Period of time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 90 occurrences, first GEN.19.27</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 90 occurrences, first GEN.19.27; Childs 2000, p. 138: ídìí</text></form></note>
   </entry>
   <entry id="ihini_418">
     <lexical-unit><form lang="kqs"><text>ihini</text></form></lexical-unit>
@@ -5537,7 +5546,7 @@
       <gloss lang="en"><text>with, beside</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 998 occurrences, first GEN.5.24</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 998 occurrences, first GEN.5.24; Childs 2000, p. 139: ìkɛ̀í</text></form></note>
   </entry>
   <entry id="imamaa_422">
     <lexical-unit><form lang="kqs"><text>imamaa</text></form></lexical-unit>
@@ -5573,7 +5582,8 @@
       <gloss lang="en"><text>day(time), morning</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.4.1 Period of time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 15 occurrences, first GEN.1.5</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>afternoon</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 15 occurrences, first GEN.1.5; Childs 2000, p. 139: ìpàláà</text></form></note>
   </entry>
   <entry id="ipulu_425">
     <lexical-unit><form lang="kqs"><text>ipulu</text></form></lexical-unit>
@@ -5619,7 +5629,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.7 Interjections"/>
       <trait name="semantic-domain-ddp4" value="4.3.7 Polite"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 6 occurrences, first GEN.27.18</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 6 occurrences, first GEN.27.18; Childs 2000, p. 139: ísɛ̀</text></form></note>
   </entry>
   <entry id="itambu_429">
     <lexical-unit><form lang="kqs"><text>itambu</text></form></lexical-unit>
@@ -5982,7 +5992,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1321 occurrences, first GEN.6.4</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>these (a class), labelled proximal</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1321 occurrences, first GEN.6.4; Childs 2000, p. 148: kàŋ</text></form></note>
   </entry>
   <entry id="kanda_456">
     <lexical-unit><form lang="kqs"><text>kanda</text></form></lexical-unit>
@@ -6045,7 +6056,7 @@
       <gloss lang="en"><text>because, for</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3719 occurrences, first GEN.2.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 3719 occurrences, first GEN.2.3; Childs 2000, p. 147: kàní</text></form></note>
   </entry>
   <entry id="kankpoo_461">
     <lexical-unit><form lang="kqs"><text>kankpoo</text></form></lexical-unit>
@@ -6304,7 +6315,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1072 occurrences, first GEN.2.22</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1072 occurrences, first GEN.2.22; Childs 2000, p. 156: kéŋ</text></form></note>
   </entry>
   <entry id="kendu_481">
     <lexical-unit><form lang="kqs"><text>kendu</text></form></lexical-unit>
@@ -6927,7 +6938,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 9758 occurrences, first GEN.1.4</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>that (o class); also the default demonstrative for other classes</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 9758 occurrences, first GEN.1.4; Childs 2000, p. 176: kòŋ</text></form></note>
   </entry>
   <entry id="kóndóó_528">
     <lexical-unit><form lang="kqs"><text>kóndóó</text></form></lexical-unit>
@@ -7331,7 +7343,7 @@
       <gloss lang="en"><text>only, alone</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 288 occurrences, first GEN.7.1</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 288 occurrences, first GEN.7.1; Childs 2000, p. 207: kpé</text></form></note>
   </entry>
   <entry id="kpede_559">
     <lexical-unit><form lang="kqs"><text>kpede</text></form></lexical-unit>
@@ -7342,7 +7354,8 @@
       <gloss lang="en"><text>all, every one</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.5 All"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 828 occurrences, first GEN.7.22</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'all over, everywhere'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 828 occurrences, first GEN.7.22; Childs 2000, p. 207: kpédé</text></form></note>
   </entry>
   <entry id="kpeekpei_560">
     <lexical-unit><form lang="kqs"><text>kpeekpei</text></form></lexical-unit>
@@ -7353,7 +7366,8 @@
       <gloss lang="en"><text>exactly, the very</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 224 occurrences, first GEN.13.4</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>really, very, a lot</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 224 occurrences, first GEN.13.4; Childs 2000, p. 207: kpéékpéí</text></form></note>
   </entry>
   <entry id="kpeekpeiyo_561">
     <lexical-unit><form lang="kqs"><text>kpeekpeiyo</text></form></lexical-unit>
@@ -7636,7 +7650,7 @@
       <gloss lang="en"><text>all, whole</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.5 All"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 4972 occurrences, first GEN.1.11</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 4972 occurrences, first GEN.1.11; Childs 2000, p. 217: kpóú</text></form></note>
   </entry>
   <entry id="kpukpuei_583">
     <lexical-unit><form lang="kqs"><text>kpukpuei</text></form></lexical-unit>
@@ -8165,7 +8179,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 236 occurrences, first GEN.3.9</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 236 occurrences, first GEN.3.9; Childs 2000, p. 191: kùɛ́ɛ́</text></form></note>
   </entry>
   <entry id="kɔannun_623">
     <lexical-unit><form lang="kqs"><text>kɔannun</text></form></lexical-unit>
@@ -8542,7 +8556,7 @@
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
       <trait name="semantic-domain-ddp4" value="8.6.1 Front"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2042 occurrences, first GEN.2.8</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 2042 occurrences, first GEN.2.8; Childs 2000, p. 187: kɔ̀ɔ̀lì</text></form></note>
   </entry>
   <entry id="kɔɔsinaa_650">
     <lexical-unit><form lang="kqs"><text>kɔɔsinaa</text></form></lexical-unit>
@@ -8592,7 +8606,7 @@
       <gloss lang="en"><text>but</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 5191 occurrences, first GEN.2.17</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 5191 occurrences, first GEN.2.17; Childs 2000, p. 157: kɛ́</text></form></note>
   </entry>
   <entry id="kɛi_654">
     <lexical-unit><form lang="kqs"><text>kɛi</text></form></lexical-unit>
@@ -8701,7 +8715,7 @@
       <gloss lang="en"><text>hundred</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 603 occurrences, first GEN.5.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 603 occurrences, first GEN.5.3; Childs 2000, p. 160: kɛ́mɛ̀</text></form></note>
   </entry>
   <entry id="kɛndɔɔ_663">
     <lexical-unit><form lang="kqs"><text>kɛndɔɔ</text></form></lexical-unit>
@@ -8878,7 +8892,7 @@
       <gloss lang="en"><text>you (pl., subject); lan-class pronoun</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 11817 occurrences, first GEN.1.11</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 11817 occurrences, first GEN.1.11; Childs 2000, p. 220: là</text></form></note>
   </entry>
   <entry id="laalanndo_676">
     <lexical-unit><form lang="kqs"><text>laalanndo</text></form></lexical-unit>
@@ -9092,7 +9106,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3295 occurrences, first GEN.2.19</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 3295 occurrences, first GEN.2.19; Childs 2000, p. 223: láŋ</text></form></note>
   </entry>
   <entry id="lándán_692">
     <lexical-unit><form lang="kqs"><text>lándán</text></form></lexical-unit>
@@ -9217,7 +9231,7 @@
       <gloss lang="en"><text>for, because of</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 24773 occurrences, first GEN.1.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 24773 occurrences, first GEN.1.2; Childs 2000, p. 225: lé</text></form></note>
   </entry>
   <entry id="le_702">
     <lexical-unit><form lang="kqs"><text>le</text></form></lexical-unit>
@@ -9230,7 +9244,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
       <trait name="semantic-domain-ddp4" value="9.4.6 Yes"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 24773 occurrences, first GEN.1.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 24773 occurrences, first GEN.1.2; Childs 2000, p. 225: lé</text></form></note>
   </entry>
   <entry id="le hee_703">
     <lexical-unit><form lang="kqs"><text>le hee</text></form></lexical-unit>
@@ -9275,7 +9289,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.6.2 Top"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 538 occurrences, first GEN.1.2</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'about, concerning'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 538 occurrences, first GEN.1.2; Childs 2000, p. 225: lécòó</text></form></note>
   </entry>
   <entry id="lediom_707">
     <lexical-unit><form lang="kqs"><text>lediom</text></form></lexical-unit>
@@ -9390,7 +9405,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
       <trait name="semantic-domain-ddp4" value="9.6.3 Discourse markers"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1437 occurrences, first GEN.2.24</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1437 occurrences, first GEN.2.24; Childs 2000, p. 226: léláŋ</text></form></note>
   </entry>
   <entry id="lemasaa_716">
     <lexical-unit><form lang="kqs"><text>lemasaa</text></form></lexical-unit>
@@ -9432,7 +9447,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2940 occurrences, first GEN.2.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 2940 occurrences, first GEN.2.3; Childs 2000, p. 227: léŋ</text></form></note>
   </entry>
   <entry id="lenamta_719">
     <lexical-unit><form lang="kqs"><text>lenamta</text></form></lexical-unit>
@@ -9593,7 +9608,8 @@
       <gloss lang="en"><text>at (someone's place) (o … lo)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3784 occurrences, first GEN.1.9</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'to (someone)'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 3784 occurrences, first GEN.1.9; Childs 2000, p. 285: ó…ló</text></form></note>
   </entry>
   <entry id="loamaa_732">
     <lexical-unit><form lang="kqs"><text>loamaa</text></form></lexical-unit>
@@ -9666,7 +9682,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1422 occurrences, first GEN.2.10</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1422 occurrences, first GEN.2.10; Childs 2000, p. 232: lɔ́ŋ</text></form></note>
   </entry>
   <entry id="loo_737">
     <lexical-unit><form lang="kqs"><text>loo</text></form></lexical-unit>
@@ -10083,7 +10099,8 @@
       <gloss lang="en"><text>that (complementizer)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 5511 occurrences, first GEN.1.4</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'as'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 5511 occurrences, first GEN.1.4; Childs 2000, p. 238: màà</text></form></note>
   </entry>
   <entry id="maalianndo_769">
     <lexical-unit><form lang="kqs"><text>maalianndo</text></form></lexical-unit>
@@ -10251,7 +10268,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 475 occurrences, first GEN.1.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 475 occurrences, first GEN.1.2; Childs 2000, p. 241: mâŋ</text></form></note>
   </entry>
   <entry id="mandaa_782">
     <lexical-unit><form lang="kqs"><text>mandaa</text></form></lexical-unit>
@@ -10378,7 +10395,8 @@
       <gloss lang="en"><text>yes? (answer to a call)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.7 Interjections"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2 occurrences, first GEN.27.18</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>response to a greeting</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 2 occurrences, first GEN.27.18; Childs 2000, p. 256: mbàà</text></form></note>
   </entry>
   <entry id="mbokponi_791">
     <lexical-unit><form lang="kqs"><text>mbokponi</text></form></lexical-unit>
@@ -10475,7 +10493,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
       <trait name="semantic-domain-ddp4" value="9.6.3 Discourse markers"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 20412 occurrences, first GEN.1.1</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'that' (subordinating)</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 20412 occurrences, first GEN.1.1; Childs 2000, p. 249: mì</text></form></note>
   </entry>
   <entry id="miallo_798">
     <lexical-unit><form lang="kqs"><text>miallo</text></form></lexical-unit>
@@ -10664,7 +10683,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1752 occurrences, first GEN.1.14</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1752 occurrences, first GEN.1.14; Childs 2000, p. 255: mùŋ</text></form></note>
   </entry>
   <entry id="mundoo_812">
     <lexical-unit><form lang="kqs"><text>mundoo</text></form></lexical-unit>
@@ -10948,7 +10967,8 @@
       <gloss lang="en"><text>when; as, like</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 4301 occurrences, first GEN.1</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'since, after, while; except, unless'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 4301 occurrences, first GEN.1; Childs 2000, p. 244: mɛ̀ɛ́</text></form></note>
   </entry>
   <entry id="mɛɛlen_834">
     <lexical-unit><form lang="kqs"><text>mɛɛlen</text></form></lexical-unit>
@@ -11025,7 +11045,8 @@
       <gloss lang="en"><text>we (subject); you (sg., in relatives and questions)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 7904 occurrences, first GEN.1.26</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>we; also the ordinary 2sg subject 'you'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 7904 occurrences, first GEN.1.26; Childs 2000, p. 269: ŋ̀</text></form></note>
   </entry>
   <entry id="naa_840">
     <lexical-unit><form lang="kqs"><text>naa</text></form></lexical-unit>
@@ -11036,7 +11057,7 @@
       <gloss lang="en"><text>us (independent); our</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 4651 occurrences, first GEN.1.26</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 4651 occurrences, first GEN.1.26; Childs 2000, p. 257: náá</text></form></note>
   </entry>
   <entry id="nàà_841">
     <lexical-unit><form lang="kqs"><text>nàà</text></form></lexical-unit>
@@ -11176,7 +11197,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.5.1 Here, there"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 506 occurrences, first GEN.15.16</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 506 occurrences, first GEN.15.16; Childs 2000, p. 258: nánùŋ</text></form></note>
   </entry>
   <entry id="nanɔɔ_852">
     <lexical-unit><form lang="kqs"><text>nanɔɔ</text></form></lexical-unit>
@@ -11234,7 +11255,7 @@
       <gloss lang="en"><text>them (independent)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 15820 occurrences, first GEN.1.21</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 15820 occurrences, first GEN.1.21; Childs 2000, p. 266: ndá</text></form></note>
   </entry>
   <entry id="nda_856">
     <lexical-unit><form lang="kqs"><text>nda</text></form></lexical-unit>
@@ -11245,7 +11266,8 @@
       <gloss lang="en"><text>and (between persons)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 15820 occurrences, first GEN.1.21</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'with'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 15820 occurrences, first GEN.1.21; Childs 2000, p. 266: ndá</text></form></note>
   </entry>
   <entry id="ndáà_857">
     <lexical-unit><form lang="kqs"><text>ndáà</text></form></lexical-unit>
@@ -11268,7 +11290,7 @@
       <gloss lang="en"><text>their</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3298 occurrences, first GEN.6.3</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 3298 occurrences, first GEN.6.3; Childs 2000, p. 266: ndà-</text></form></note>
   </entry>
   <entry id="ndi_859">
     <lexical-unit><form lang="kqs"><text>ndi</text></form></lexical-unit>
@@ -11279,7 +11301,7 @@
       <gloss lang="en"><text>it (i class, object)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 485 occurrences, first GEN.2.11</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 485 occurrences, first GEN.2.11; Childs 2000, p. 267: ndì</text></form></note>
   </entry>
   <entry id="ndili_860">
     <lexical-unit><form lang="kqs"><text>ndili</text></form></lexical-unit>
@@ -11302,7 +11324,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
       <trait name="semantic-domain-ddp4" value="9.4.1 Tense and aspect"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2421 occurrences, first GEN.2.5</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>only a cross-reference to the imperfective suffix -óó</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 2421 occurrences, first GEN.2.5; Childs 2000, p. 268: ndóò</text></form></note>
   </entry>
   <entry id="ndu_862">
     <lexical-unit><form lang="kqs"><text>ndu</text></form></lexical-unit>
@@ -11313,7 +11336,7 @@
       <gloss lang="en"><text>him, her (independent)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 13218 occurrences, first GEN.1.7</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 13218 occurrences, first GEN.1.7; Childs 2000, p. 268: ndú</text></form></note>
   </entry>
   <entry id="nduyɛ_863">
     <lexical-unit><form lang="kqs"><text>nduyɛ</text></form></lexical-unit>
@@ -11325,7 +11348,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
       <trait name="semantic-domain-ddp4" value="9.6.3 Discourse markers"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1064 occurrences, first GEN.9.4</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>and then</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1064 occurrences, first GEN.9.4; Childs 2000, p. 268: ndúyɛ́</text></form></note>
   </entry>
   <entry id="ndɔ_864">
     <lexical-unit><form lang="kqs"><text>ndɔ</text></form></lexical-unit>
@@ -11336,7 +11360,7 @@
       <gloss lang="en"><text>his, her (person)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2287 occurrences, first GEN.1.27</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 2287 occurrences, first GEN.1.27; Childs 2000, p. 268: -ndɔ̀</text></form></note>
   </entry>
   <entry id="ndɔɔ_865">
     <lexical-unit><form lang="kqs"><text>ndɔɔ</text></form></lexical-unit>
@@ -11347,7 +11371,7 @@
       <gloss lang="en"><text>his, her (o class, thing)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2062 occurrences, first GEN.1.11</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 2062 occurrences, first GEN.1.11; Childs 2000, p. 268: -ndɔ̀</text></form></note>
   </entry>
   <entry id="ngeemaa_866">
     <lexical-unit><form lang="kqs"><text>ngeemaa</text></form></lexical-unit>
@@ -11383,7 +11407,7 @@
       <gloss lang="en"><text>it is… (focus, identification)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 13413 occurrences, first GEN.1.5</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 13413 occurrences, first GEN.1.5; Childs 2000, p. 262: ní</text></form></note>
   </entry>
   <entry id="niaa_869">
     <lexical-unit><form lang="kqs"><text>niaa</text></form></lexical-unit>
@@ -11394,7 +11418,7 @@
       <gloss lang="en"><text>you (pl., independent); your (pl.)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 8812 occurrences, first GEN.1.29</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 8812 occurrences, first GEN.1.29; Childs 2000, p. 273: ɲá</text></form></note>
   </entry>
   <entry id="nihau_870">
     <lexical-unit><form lang="kqs"><text>nihau</text></form></lexical-unit>
@@ -11456,7 +11480,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
       <trait name="semantic-domain-ddp4" value="8.6.4 Inner part"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 11973 occurrences, first GEN.1.17</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'from inside'; ó … nǐŋ also 'during, while'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 11973 occurrences, first GEN.1.17; Childs 2000, p. 263: nǐŋ</text></form></note>
   </entry>
   <entry id="ninginangaa_875">
     <lexical-unit><form lang="kqs"><text>ninginangaa</text></form></lexical-unit>
@@ -11516,7 +11541,7 @@
       <gloss lang="en"><text>my</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1533 occurrences, first GEN.4.9</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1533 occurrences, first GEN.4.9; Childs 2000, p. 265: nù-</text></form></note>
   </entry>
   <entry id="nuufaa_880">
     <lexical-unit><form lang="kqs"><text>nuufaa</text></form></lexical-unit>
@@ -11580,7 +11605,7 @@
       <gloss lang="en"><text>you (sg., independent)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 5782 occurrences, first GEN.2.17</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 5782 occurrences, first GEN.2.17; Childs 2000, p. 265: núm</text></form></note>
   </entry>
   <entry id="nɔmndo_885">
     <lexical-unit><form lang="kqs"><text>nɔmndo</text></form></lexical-unit>
@@ -11732,7 +11757,7 @@
       <gloss lang="en"><text>who?</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1602 occurrences, first GEN.1.9</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1602 occurrences, first GEN.1.9; Childs 2000, p. 260: nɛ̀ɛ́</text></form></note>
   </entry>
   <entry id="o_897">
     <lexical-unit><form lang="kqs"><text>o</text></form></lexical-unit>
@@ -11743,7 +11768,7 @@
       <gloss lang="en"><text>he, she, it (subject, o class)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 58042 occurrences, first GEN.1.1</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 58042 occurrences, first GEN.1.1; Childs 2000, p. 284: ò</text></form></note>
   </entry>
   <entry id="o_898">
     <lexical-unit><form lang="kqs"><text>o</text></form></lexical-unit>
@@ -11754,7 +11779,8 @@
       <gloss lang="en"><text>at, in, on (place, time)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 58042 occurrences, first GEN.1.1</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'to, from, against, near'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 58042 occurrences, first GEN.1.1; Childs 2000, p. 284: ó</text></form></note>
   </entry>
   <entry id="oi_899">
     <lexical-unit><form lang="kqs"><text>oi</text></form></lexical-unit>
@@ -12239,7 +12265,8 @@
       <gloss lang="en"><text>self, -self</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1778 occurrences, first GEN.2.12</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'indeed'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1778 occurrences, first GEN.2.12; Childs 2000, p. 300: pílá</text></form></note>
   </entry>
   <entry id="pilannde_936">
     <lexical-unit><form lang="kqs"><text>pilannde</text></form></lexical-unit>
@@ -12275,7 +12302,7 @@
       <gloss lang="en"><text>one</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1725 occurrences, first GEN.1.9</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 1725 occurrences, first GEN.1.9; Childs 2000, p. 301: pìlɛ́ɛ́</text></form></note>
   </entry>
   <entry id="pim_939">
     <lexical-unit><form lang="kqs"><text>pim</text></form></lexical-unit>
@@ -12719,7 +12746,8 @@
       <gloss lang="en"><text>a certain, some</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1 Quantity"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1454 occurrences, first GEN.2.10</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'a few, part, a little'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1454 occurrences, first GEN.2.10; Childs 2000, p. 312: pùm</text></form></note>
   </entry>
   <entry id="puuloo_973">
     <lexical-unit><form lang="kqs"><text>puuloo</text></form></lexical-unit>
@@ -12884,7 +12912,7 @@
       <gloss lang="en"><text>conditional particle (te … pɛ)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3807 occurrences, first GEN.1.22</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 3807 occurrences, first GEN.1.22; Childs 2000, p. 350: tè … pɛ́</text></form></note>
   </entry>
   <entry id="pɛi_985">
     <lexical-unit><form lang="kqs"><text>pɛi</text></form></lexical-unit>
@@ -14101,7 +14129,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 149 occurrences, first GEN.19.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 149 occurrences, first GEN.19.2; Childs 2000, p. 336: sìɔ̀dí</text></form></note>
   </entry>
   <entry id="siɔlɔɔ_1078">
     <lexical-unit><form lang="kqs"><text>siɔlɔɔ</text></form></lexical-unit>
@@ -14630,7 +14658,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.5 Relative time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 145 occurrences, first GEN.21.23</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 145 occurrences, first GEN.21.23; Childs 2000, p. 345: súŋsúŋ</text></form></note>
   </entry>
   <entry id="susaa_1119">
     <lexical-unit><form lang="kqs"><text>susaa</text></form></lexical-unit>
@@ -15643,7 +15671,7 @@
       <gloss lang="en"><text>first</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 217 occurrences, first GEN.1.1</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 217 occurrences, first GEN.1.1; Childs 2000, p. 350: tàsé-</text></form></note>
   </entry>
   <entry id="taw_1197">
     <lexical-unit><form lang="kqs"><text>taw</text></form></lexical-unit>
@@ -15655,7 +15683,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="9.3 Very"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 1837 occurrences, first GEN.1.20</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'everywhere, plentifully'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 1837 occurrences, first GEN.1.20; Childs 2000, p. 350: táù</text></form></note>
   </entry>
   <entry id="taŋnden_1198">
     <lexical-unit><form lang="kqs"><text>taŋnden</text></form></lexical-unit>
@@ -15690,7 +15719,8 @@
       <gloss lang="en"><text>if (te … pɛ)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 7156 occurrences, first GEN.3.3</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>if, when</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 7156 occurrences, first GEN.3.3; Childs 2000, p. 350: tè … pɛ́</text></form></note>
   </entry>
   <entry id="teengiaa_1201">
     <lexical-unit><form lang="kqs"><text>teengiaa</text></form></lexical-unit>
@@ -15961,7 +15991,7 @@
       <gloss lang="en"><text>two</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 168 occurrences, first GEN.1.6</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 168 occurrences, first GEN.1.6; Childs 2000, p. 362: tìɔ́ɔ́ŋ</text></form></note>
     <note><form lang="fr"><text>La forme varie selon la classe du nom compté.</text></form></note>
   </entry>
   <entry id="toal_1221">
@@ -16590,7 +16620,7 @@
       <gloss lang="en"><text>ten</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 694 occurrences, first GEN.5.8</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 694 occurrences, first GEN.5.8; Childs 2000, p. 368: tɔ́</text></form></note>
   </entry>
   <entry id="tɔ̀a_1268">
     <lexical-unit><form lang="kqs"><text>tɔ̀a</text></form></lexical-unit>
@@ -16920,7 +16950,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.4 Prepositions, postpositions"/>
       <trait name="semantic-domain-ddp4" value="8.6.5 Middle"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2313 occurrences, first GEN.1.6</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 2313 occurrences, first GEN.1.6; Childs 2000, p. 354: tɛ́ɛ̀ŋ</text></form></note>
   </entry>
   <entry id="tɛ̀ɛ̀ndo_1293">
     <lexical-unit><form lang="kqs"><text>tɛ̀ɛ̀ndo</text></form></lexical-unit>
@@ -17049,7 +17079,7 @@
       <gloss lang="en"><text>thousand</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 666 occurrences, first GEN.1.16</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 666 occurrences, first GEN.1.16; Childs 2000, p. 377: wàá</text></form></note>
   </entry>
   <entry id="vaa_1303">
     <lexical-unit><form lang="kqs"><text>vaa</text></form></lexical-unit>
@@ -17949,7 +17979,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
       <trait name="semantic-domain-ddp4" value="9.4.1 Tense and aspect"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 977 occurrences, first GEN.2.5</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'still, already'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 977 occurrences, first GEN.2.5; Childs 2000, p. 390: wɔ̀</text></form></note>
   </entry>
   <entry id="vɔlɔɔ_1370">
     <lexical-unit><form lang="kqs"><text>vɔlɔɔ</text></form></lexical-unit>
@@ -18084,7 +18115,8 @@
       <trait name="semantic-domain-ddp4" value="9.2.2 Adverbs"/>
       <trait name="semantic-domain-ddp4" value="8.4.6 Aspectual time"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 2741 occurrences, first GEN.1.6</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>also 'more, else, extra'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 2741 occurrences, first GEN.1.6; Childs 2000, p. 384: wɛ̀lɛ̀</text></form></note>
   </entry>
   <entry id="vɛ̀ɛ̀_1380">
     <lexical-unit><form lang="kqs"><text>vɛ̀ɛ̀</text></form></lexical-unit>
@@ -18095,7 +18127,8 @@
       <gloss lang="en"><text>yes/no question marker; how?</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 922 occurrences, first GEN.15.8</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>what? why? how? how much?</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 922 occurrences, first GEN.15.8; Childs 2000, p. 383: wɛ̀ɛ́</text></form></note>
   </entry>
   <entry id="vɛɛnnden_1381">
     <lexical-unit><form lang="kqs"><text>vɛɛnnden</text></form></lexical-unit>
@@ -18119,7 +18152,7 @@
       <gloss lang="en"><text>me, I (independent)</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 9382 occurrences, first GEN.3.10</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 9382 occurrences, first GEN.3.10; Childs 2000, p. 394: yá</text></form></note>
   </entry>
   <entry id="yaa_1383">
     <lexical-unit><form lang="kqs"><text>yaa</text></form></lexical-unit>
@@ -18130,7 +18163,7 @@
       <gloss lang="en"><text>three</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 875 occurrences, first GEN.2.19</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 875 occurrences, first GEN.2.19; Childs 2000, p. 394: yàá</text></form></note>
   </entry>
   <entry id="yaafalen_1384">
     <lexical-unit><form lang="kqs"><text>yaafalen</text></form></lexical-unit>
@@ -19436,7 +19469,7 @@
       <gloss lang="en"><text>question-final particle</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.6 Particles"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 4440 occurrences, first GEN.1</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 4440 occurrences, first GEN.1; Childs 2000, p. 403: yɛ̀</text></form></note>
   </entry>
   <entry id="yɛmbɛi_1482">
     <lexical-unit><form lang="kqs"><text>yɛmbɛi</text></form></lexical-unit>
@@ -19485,7 +19518,7 @@
       <gloss lang="en"><text>what? which?</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 867 occurrences, first GEN.3.13</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 867 occurrences, first GEN.3.13; Childs 2000, p. 403: yɛ̀ɛ̀</text></form></note>
   </entry>
   <entry id="yɛɛvɛ_1486">
     <lexical-unit><form lang="kqs"><text>yɛɛvɛ</text></form></lexical-unit>
@@ -19508,7 +19541,7 @@
       <gloss lang="en"><text>five</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 130 occurrences, first GEN.14.9</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 130 occurrences, first GEN.14.9; Childs 2000, p. 272: ŋùɛ́ɛ́nú</text></form></note>
   </entry>
   <entry id="ŋuɛɛnundɔɔ_1488">
     <lexical-unit><form lang="kqs"><text>ŋuɛɛnundɔɔ</text></form></lexical-unit>
@@ -19531,7 +19564,7 @@
       <gloss lang="en"><text>eight</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 59 occurrences, first GEN.14.14</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 59 occurrences, first GEN.14.14; Childs 2000, p. 270: ŋɔ̀máà</text></form></note>
   </entry>
   <entry id="ŋɔmaandɔɔ_1490">
     <lexical-unit><form lang="kqs"><text>ŋɔmaandɔɔ</text></form></lexical-unit>
@@ -19554,7 +19587,7 @@
       <gloss lang="en"><text>nine</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 13 occurrences, first NUM.29.26</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 13 occurrences, first NUM.29.26; Childs 2000, p. 270: ŋɔ̀máhìɔ́ɔ́lú</text></form></note>
   </entry>
   <entry id="ŋɔmahiɔɔlundɔɔ_1492">
     <lexical-unit><form lang="kqs"><text>ŋɔmahiɔɔlundɔɔ</text></form></lexical-unit>
@@ -19576,7 +19609,7 @@
       <gloss lang="en"><text>seven</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 246 occurrences, first GEN.4.15</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 246 occurrences, first GEN.4.15; Childs 2000, p. 270: ŋɔ̌mɛ́ú</text></form></note>
   </entry>
   <entry id="ŋɔmmɛwndɔɔ_1494">
     <lexical-unit><form lang="kqs"><text>ŋɔmmɛwndɔɔ</text></form></lexical-unit>
@@ -19600,7 +19633,7 @@
       <gloss lang="en"><text>six</text></gloss>
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 91 occurrences, first GEN.30.20</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 91 occurrences, first GEN.30.20; Childs 2000, p. 271: ŋɔ̌ŋpúm</text></form></note>
   </entry>
   <entry id="ŋɔmpumndɔɔ_1496">
     <lexical-unit><form lang="kqs"><text>ŋɔmpumndɔɔ</text></form></lexical-unit>
@@ -19637,7 +19670,8 @@
       <gloss lang="en"><text>or; question marker</text></gloss>
       <trait name="semantic-domain-ddp4" value="9.2.5 Conjunctions"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 179 occurrences, first GEN.18.9</text></form></note>
+    <field type="southern-kissi-sense"><form lang="en"><text>question word 'where? what? how?'</text></form></field>
+    <note type="source"><form lang="en"><text>BKG: 179 occurrences, first GEN.18.9; Childs 2000, p. 285: ɔ́ɔ̀</text></form></note>
   </entry>
   <entry id="ɛ-ɛ_1499">
     <lexical-unit><form lang="kqs"><text>ɛ-ɛ</text></form></lexical-unit>
@@ -19649,7 +19683,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.7 Interjections"/>
       <trait name="semantic-domain-ddp4" value="9.4.6 Yes"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 55 occurrences, first GEN.3.2</text></form></note>
+    <note type="source"><form lang="en"><text>BKG: 55 occurrences, first GEN.3.2; Childs 2000, p. 92: ɛ̀-ɛ́</text></form></note>
   </entry>
   <entry id="ɲaakuɛiyo_1500">
     <lexical-unit><form lang="kqs"><text>ɲaakuɛiyo</text></form></lexical-unit>

@@ -962,7 +962,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particle | quotative particle | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{aa}} | particle | quotative particle — *Southern Kissi (Childs 2000) :* also 'like, as' (comparison) | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{deŋio}} | verb | cry out, shout; thunder — *Southern Kissi (Childs 2000) :* yell, shout, scream | [Exod 9:29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
 | {{dimi}} | verb | say | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{dimio}} | verb | say — *Southern Kissi (Childs 2000) :* say, tell, speak | [Gen 3:20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
@@ -2806,7 +2806,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pum}} | determiner | a certain, some | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{pum}} | determiner | a certain, some — *Southern Kissi (Childs 2000) :* also 'a few, part, a little' | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{sɛ́lɛ́}} | adjective | many, numerous | [Gen 16:10](https://www.bible.com/bible/1394/GEN.16.10.BKG) |
 | {{táláá}} | noun | half | [Exod 24:6](https://www.bible.com/bible/1394/EXO.24.6.BKG) |
 | {{tiw}} | verb | be enough, have room for; master, overcome — *Southern Kissi (Childs 2000) :* spread throughout; be enough, suffice; fit | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
@@ -2824,7 +2824,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{beleyaa}} | numeral | thirty | [Gen 5:3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{beleŋuɛɛnu}} | numeral | fifty | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
 | {{bidiin}} | numeral | twenty | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{diinndɔɔ}} | numeral | second | [Gen 4:19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
+| {{diinndɔɔ}} | numeral | second — *Southern Kissi (Childs 2000) :* two; second | [Gen 4:19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
 | {{hiɔɔlu}} | numeral | four | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{kɛmɛ}} | numeral | hundred | [Gen 5:3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{pilɛ}} | numeral | one | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
@@ -2866,8 +2866,8 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{faw}} | adverb | all, completely | [Gen 8:17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
-| {{kpede}} | determiner | all, every one | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{faw}} | adverb | all, completely — *Southern Kissi (Childs 2000) :* also 'a lot, everywhere' | [Gen 8:17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
+| {{kpede}} | determiner | all, every one — *Southern Kissi (Childs 2000) :* also 'all over, everywhere' | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
 | {{kposon}} | adverb | all, entirely; always | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
 | {{kpow}} | determiner | all, whole | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{oo}} | particle | every, any (between a repeated noun: X oo X) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
@@ -3011,7 +3011,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{idii}} | adverb | in the morning | [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
 | {{idiiyo}} | adverb | in the morning, early | [Gen 19:27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
 | {{ipala}} | adverb | in the daytime — *Southern Kissi (Childs 2000) :* afternoon | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{ipalaa}} | noun | day(time), morning | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{ipalaa}} | noun | day(time), morning — *Southern Kissi (Childs 2000) :* afternoon | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
 | {{lambi}}, pl. {{lambilan}} | noun | generation; time (occasion) | [Gen 50:23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
 | {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | noun (o) | week ; market; week | [Gen 3:19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
 | {{paale kalalen}} | noun | noon, midday sun | Keita 1979, p. 154 |
@@ -3061,9 +3061,9 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{ciɛi}} | adverb | yesterday | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
 | {{cɔn}} | verb | get up, rise; (cɔn … nin) since | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
 | {{diɛŋ}} | adverb | the day after tomorrow | [Exod 19:11](https://www.bible.com/bible/1394/EXO.19.11.BKG) |
-| {{few}} | adverb | never (with negation); forever | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{few}} | adverb | never (with negation); forever — *Southern Kissi (Childs 2000) :* also 'indeed, first, already' | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 | {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [Gen 24:33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
-| {{háá}} | conjunction | until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{háá}} | conjunction | until — *Southern Kissi (Childs 2000) :* going on for a long time; until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
 | {{hau}} | adverb | today, now | [Gen 4:11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
 | {{haw}} | adverb | today — *Southern Kissi (Childs 2000) :* today; now, right away; again | [Gen 33:15](https://www.bible.com/bible/1394/GEN.33.15.BKG) |
 | {{kabi}} | preposition | since, from (time) | [Gen 16:5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
@@ -3097,7 +3097,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{pɛngio}} | verb | rest; cease ; rest; stop, cease — *Southern Kissi (Childs 2000) :* stop an activity, rest | [Gen 24:11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
 | {{pɛɛngio\|?}} | verb | cease, stop | Keita 1979, p. 113 |
 | {{siowvo}} | verb | complete, spend (a period of time) | [1 Sam 14:13](https://www.bible.com/bible/1394/1SA.14.13.BKG) |
-| {{vɛlɛ}} | adverb | again, also | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vɛlɛ}} | adverb | again, also — *Southern Kissi (Childs 2000) :* also 'more, else, extra' | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 ### 8.4.8 Speed
 
@@ -3122,9 +3122,9 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{he}} | determiner | this (i class) | [Gen 9:17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
 | {{ho}} | determiner | this (o class) | [Gen 2:16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
 | {{hoo}} | pronoun | this one | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{kan}} | determiner | those (persons) | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{kan}} | determiner | those (persons) — *Southern Kissi (Childs 2000) :* these (a class), labelled proximal | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
 | {{ken}} | determiner | that (i class) | [Gen 2:22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | determiner | that (o class) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kon}} | determiner | that (o class) — *Southern Kissi (Childs 2000) :* that (o class); also the default demonstrative for other classes | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
 | {{kuɛɛ}} | adverb | where? which? | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{lan}} | determiner | these, those (lan class) | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
 | {{len}} | determiner | this, that (len class) | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
@@ -3171,7 +3171,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [Gen 16:9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
 | {{lebɛngu}} | adverb | underneath, below — *Southern Kissi (Childs 2000) :* under, between | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{lecoo}} | adverb | on top, above | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lecoo}} | adverb | on top, above — *Southern Kissi (Childs 2000) :* also 'about, concerning' | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{tullo}} | noun (o) | top, summit | [Exod 24:17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
 | {{tɛlɛlɔɔ\|r}} | noun | surface | Keita 1979, p. 155 |
 
@@ -3188,7 +3188,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{lekɔɔli}} | adverb | outside, on the outside | [Gen 6:14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
-| {{nin}} | postposition | in, inside (o … nin) | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{nin}} | postposition | in, inside (o … nin) — *Southern Kissi (Childs 2000) :* also 'from inside'; ó … nǐŋ also 'during, while' | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
 
 ### 8.6.5 Middle
 
@@ -3213,7 +3213,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{co}} | verb | be; progressive auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{co}} | verb | be; progressive auxiliary — *Southern Kissi (Childs 2000) :* also future auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{siŋnɔnndo}} | verb | become | [Gen 24:14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
 | {{va}} | verb | be (past); past progressive auxiliary | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{vaa}} | verb | be | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
@@ -3251,7 +3251,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{bɔɔle}} | adverb | perhaps | [Gen 16:2](https://www.bible.com/bible/1394/GEN.16.2.BKG) |
 | {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{few}} | adverb | never (with negation); forever | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{few}} | adverb | never (with negation); forever — *Southern Kissi (Childs 2000) :* also 'indeed, first, already' | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 | {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [Gen 24:33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
 | {{fɔ́ɔ́fɔ̀}} | adverb | immediately, suddenly — *Southern Kissi (Childs 2000) :* spot, place; on the spot, right away | [Josh 6:20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
 | {{hau}} | adverb | today, now | [Gen 4:11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
@@ -3263,17 +3263,17 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kpendekele}} | adverb | face to face; clearly, openly — *Southern Kissi (Childs 2000) :* plainly, clearly, openly | [Gen 32:31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
 | {{kpɛɛlun}} | adverb | near | [Lev 25:49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
 | {{latulu}} | adverb | together, at the same time | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
-| {{lecoo}} | adverb | on top, above | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lecoo}} | adverb | on top, above — *Southern Kissi (Childs 2000) :* also 'about, concerning' | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{lekɛ́ndɛi}} | adverb | truly, really | [Gen 12:14](https://www.bible.com/bible/1394/GEN.12.14.BKG) |
 | {{lon}} | adverb | there | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
 | {{nanu}} | adverb | here | [Gen 15:16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
 | {{nihau}} | adverb | now, this time | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{siɔdii}} | adverb | tomorrow | [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
 | {{sunsun}} | adverb | now, right away | [Gen 21:23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
-| {{taw}} | adverb | very, a lot | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{taw}} | adverb | very, a lot — *Southern Kissi (Childs 2000) :* also 'everywhere, plentifully' | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
 | {{tootoo}} | adverb | low; humbly; in a whisper — *Southern Kissi (Childs 2000) :* underscores how low (ideophone) | [1 Sam 2:7](https://www.bible.com/bible/1394/1SA.2.7.BKG) |
-| {{vɛlɛ}} | adverb | again, also | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vɛlɛ}} | adverb | again, also — *Southern Kissi (Childs 2000) :* also 'more, else, extra' | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{yɛɛvɛ}} | adverb | all, completely | [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
 | {{ɲɛkɛndɛi}} | adverb | well, safely — *Southern Kissi (Childs 2000) :* well, thoroughly, completely | [Gen 3:5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
 
@@ -3287,22 +3287,22 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{ho}} | determiner | this (o class) | [Gen 2:16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
 | {{hoo}} | pronoun | this one | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 | {{i}} | pronoun | I (subject) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{kan}} | determiner | those (persons) | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{kan}} | determiner | those (persons) — *Southern Kissi (Childs 2000) :* these (a class), labelled proximal | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
 | {{ken}} | determiner | that (i class) | [Gen 2:22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | determiner | that (o class) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kon}} | determiner | that (o class) — *Southern Kissi (Childs 2000) :* that (o class); also the default demonstrative for other classes | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
 | {{kuɛɛ}} | adverb | where? which? | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{la}} | pronoun | you (pl., subject); lan-class pronoun | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{lan}} | determiner | these, those (lan class) | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
 | {{len}} | determiner | this, that (len class) | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
 | {{man}} | determiner | this, that (an class) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{mun}} | determiner | these, those (-on plural) | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{n}} | pronoun | we (subject); you (sg., in relatives and questions) | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{n}} | pronoun | we (subject); you (sg., in relatives and questions) — *Southern Kissi (Childs 2000) :* we; also the ordinary 2sg subject 'you' | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{naa}} | pronoun | us (independent); our | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{nda}} | pronoun | them (independent) | [Gen 1:21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
 | {{ndáà}} | pronoun | they (remote past) | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
 | {{ndaa}} | determiner | their | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
 | {{ndi}} | pronoun | it (i class, object) | [Gen 2:11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
-| {{ndóò}} | pronoun | he, she (remote past) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{ndóò}} | pronoun | he, she (remote past) — *Southern Kissi (Childs 2000) :* only a cross-reference to the imperfective suffix -óó | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{ndu}} | pronoun | him, her (independent) | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{ndɔ}} | determiner | his, her (person) | [Gen 1:27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
 | {{ndɔɔ}} | determiner | his, her (o class, thing) | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
@@ -3312,7 +3312,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{nɔmndo}} | determiner | your (sg., o class, thing) | [Gen 3:10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
 | {{nɛ̀ɛ́}} | pronoun | who? | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{o}} | pronoun | he, she, it (subject, o class) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{pila}} | particle | self, -self | [Gen 2:12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
+| {{pila}} | particle | self, -self — *Southern Kissi (Childs 2000) :* also 'indeed' | [Gen 2:12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
 | {{vana}}, pl. {{vanaa}} | pronoun | the one who, someone (head of a relative clause); person | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{vana-vana}} | pronoun | anyone; (neg.) no one | [Gen 2:25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
 | {{vɛ}} | adverb | why? | [Gen 24:31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
@@ -3335,10 +3335,10 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kɔɔli}} | postposition | after, behind | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
 | {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [Gen 16:9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
 | {{le}} | preposition | for, because of | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{lo}} | postposition | at (someone's place) (o … lo) | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{lo}} | postposition | at (someone's place) (o … lo) — *Southern Kissi (Childs 2000) :* also 'to (someone)' | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{loo}} | postposition | without, lacking | [Gen 14:21](https://www.bible.com/bible/1394/GEN.14.21.BKG) |
-| {{nin}} | postposition | in, inside (o … nin) | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
-| {{o}} | preposition | at, in, on (place, time) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{nin}} | postposition | in, inside (o … nin) — *Southern Kissi (Childs 2000) :* also 'from inside'; ó … nǐŋ also 'during, while' | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{o}} | preposition | at, in, on (place, time) — *Southern Kissi (Childs 2000) :* also 'to, from, against, near' | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
 | {{pindo}} | noun | surroundings; (… pindo) around | [Gen 19:4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
 | {{tɛɛn}} | postposition | between, among | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
@@ -3348,41 +3348,41 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{a}} | preposition | with; and | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 | {{bau}} | conjunction | for, because | [Gen 9:6](https://www.bible.com/bible/1394/GEN.9.6.BKG) |
-| {{háá}} | conjunction | until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{hali}} | conjunction | even; even if | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{háá}} | conjunction | until — *Southern Kissi (Childs 2000) :* going on for a long time; until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{hali}} | conjunction | even; even if — *Southern Kissi (Childs 2000) :* also 'only, just' | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{haliko}} | conjunction | so that | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
 | {{kani}} | conjunction | because, for | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
 | {{kɛ}} | conjunction | but | [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
 | {{le hee}} | conjunction | then; therefore |  |
 | {{le tùú}} | conjunction | because |  |
 | {{lelan}} | conjunction | therefore, so | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{maa}} | conjunction | that (complementizer) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{mi}} | conjunction | and (then); so that | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{mɛɛ}} | conjunction | when; as, like | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{nda}} | conjunction | and (between persons) | [Gen 1:21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
-| {{nduyɛ}} | conjunction | however, indeed | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
-| {{te}} | conjunction | if (te … pɛ) | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{maa}} | conjunction | that (complementizer) — *Southern Kissi (Childs 2000) :* also 'as' | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{mi}} | conjunction | and (then); so that — *Southern Kissi (Childs 2000) :* also 'that' (subordinating) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{mɛɛ}} | conjunction | when; as, like — *Southern Kissi (Childs 2000) :* also 'since, after, while; except, unless' | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{nda}} | conjunction | and (between persons) — *Southern Kissi (Childs 2000) :* also 'with' | [Gen 1:21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
+| {{nduyɛ}} | conjunction | however, indeed — *Southern Kissi (Childs 2000) :* and then | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{te}} | conjunction | if (te … pɛ) — *Southern Kissi (Childs 2000) :* if, when | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 | {{tuma}} | conjunction | when, at the time when | [Gen 2:4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
 | {{yɔŋii}} | conjunction | lest, otherwise | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{ɔ́ɔ̀}} | conjunction | or; question marker | [Gen 18:9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
+| {{ɔ́ɔ̀}} | conjunction | or; question marker — *Southern Kissi (Childs 2000) :* question word 'where? what? how?' | [Gen 18:9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
 
 ### 9.2.6 Particles
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particle | quotative particle | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
-| {{bɛɛ}} | particle | also; even; already | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{aa}} | particle | quotative particle — *Southern Kissi (Childs 2000) :* also 'like, as' (comparison) | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{bɛɛ}} | particle | also; even; already — *Southern Kissi (Childs 2000) :* also 'indeed, just, now' | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{daama}} | particle | only | [Gen 23:15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
 | {{dɛ}} | particle | emphatic particle (after a command) | [Gen 19:17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
 | {{kpé}} | particle | only, alone | [Gen 7:1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
-| {{kpeekpei}} | particle | exactly, the very | [Gen 13:4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
+| {{kpeekpei}} | particle | exactly, the very — *Southern Kissi (Childs 2000) :* really, very, a lot | [Gen 13:4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
 | {{le}} | particle | not (clause-final negation) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | {{ni}} | particle | it is… (focus, identification) | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
 | {{nɛ}} | particle | focus particle in questions (yɛɛ nɛ … yɛ?) | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 | {{oo}} | particle | every, any (between a repeated noun: X oo X) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
 | {{pɛ}} | particle | conditional particle (te … pɛ) | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{vɔ}} | particle | not yet (vɔ … le) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{vɛ̀ɛ̀}} | particle | yes/no question marker; how? | [Gen 15:8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
+| {{vɔ}} | particle | not yet (vɔ … le) — *Southern Kissi (Childs 2000) :* also 'still, already' | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{vɛ̀ɛ̀}} | particle | yes/no question marker; how? — *Southern Kissi (Childs 2000) :* what? why? how? how much? | [Gen 15:8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
 | {{yɛ}} | particle | question-final particle | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 9.2.7 Interjections
@@ -3393,7 +3393,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{balika}} | interjection | thank you | [Gen 24:48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
 | {{isɛ}} | interjection | greetings, hello | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
 | {{kpòkóó}} | interjection | alas! | [Gen 25:22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
-| {{mbaa}} | interjection | yes? (answer to a call) | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
+| {{mbaa}} | interjection | yes? (answer to a call) — *Southern Kissi (Childs 2000) :* response to a greeting | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
 | {{mbɔ̀}} | interjection | ah! alas! (exclamation) | [Gen 24:56](https://www.bible.com/bible/1394/GEN.24.56.BKG) |
 | {{oi}} | interjection | yes | [Gen 24:58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
 | {{ɛ-ɛ}} | interjection | no | [Gen 3:2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
@@ -3412,7 +3412,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{taw}} | adverb | very, a lot | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{taw}} | adverb | very, a lot — *Southern Kissi (Childs 2000) :* also 'everywhere, plentifully' | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 | {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
 
 ### 9.4 Semantic constituents related to verbs
@@ -3427,11 +3427,11 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bɛnda}} | verb | must, should; (neg.) must not | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{co}} | verb | be; progressive auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{co}} | verb | be; progressive auxiliary — *Southern Kissi (Childs 2000) :* also future auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
 | {{ndáà}} | pronoun | they (remote past) | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{ndóò}} | pronoun | he, she (remote past) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{ndóò}} | pronoun | he, she (remote past) — *Southern Kissi (Childs 2000) :* only a cross-reference to the imperfective suffix -óó | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{va}} | verb | be (past); past progressive auxiliary | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{vɔ}} | particle | not yet (vɔ … le) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{vɔ}} | particle | not yet (vɔ … le) — *Southern Kissi (Childs 2000) :* also 'still, already' | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 
 ### 9.4.6 Yes
 
@@ -3453,8 +3453,8 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{le hee}} | conjunction | then; therefore |  |
 | {{lelan}} | conjunction | therefore, so | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{mi}} | conjunction | and (then); so that | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{nduyɛ}} | conjunction | however, indeed | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{mi}} | conjunction | and (then); so that — *Southern Kissi (Childs 2000) :* also 'that' (subordinating) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{nduyɛ}} | conjunction | however, indeed — *Southern Kissi (Childs 2000) :* and then | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
 | {{sisa}} | adverb | now, now then (lelan sisa) | [Gen 24:49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
 
 ### 9.7 Name
