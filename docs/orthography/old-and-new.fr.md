@@ -37,7 +37,7 @@ L'ancienne orthographe écrivait *n* pour [n] et pour [ŋ] en fin de syllabe. La
 | *Dièn* | {{diɛŋ}} | après-demain |
 | *nan* « bon » | {{naŋ}} | bon |
 
-Il n'y a pas de règle mécanique : il faut savoir si le radical se termine par [n] ou par [ŋ] (voir [Consonnes](consonants.md#n-et-ŋ)). Dans le doute, on cherche le mot dans la Bible ou dans le lexique de ce guide.
+Il n'y a pas de règle mécanique : il faut savoir si le radical se termine par [n] ou par [ŋ] (voir [Consonnes](consonants.md#n-et)). Dans le doute, on cherche le mot dans la Bible ou dans le lexique de ce guide.
 
 ### 2. Les tons
 

@@ -61,6 +61,6 @@ Quand une voyelle est suivie de **n** en fin de syllabe, elle se prononce nasali
 En kissi du Sud, cette nasale finale est analysée comme une consonne [ŋ] qui nasalise la voyelle précédente ; elle continuerait d'anciennes voyelles nasales [[(Childs1995, p. 88-89)]].
 
 !!! note "Note"
-    À la fin d'un radical, le son nasal peut être [n] ou [ŋ], et la Bible les distingue : {{nan}} « tirer » ({{má nan Yosɛf}} « ils tirèrent Joseph » [Gn 37,28](https://www.bible.com/bible/1394/GEN.37.28.BKG)) n'est pas {{naŋ}} « bon ». Voir [Consonnes](consonants.md#n-et-ŋ).
+    À la fin d'un radical, le son nasal peut être [n] ou [ŋ], et la Bible les distingue : {{nan}} « tirer » ({{má nan Yosɛf}} « ils tirèrent Joseph » [Gn 37,28](https://www.bible.com/bible/1394/GEN.37.28.BKG)) n'est pas {{naŋ}} « bon ». Voir [Consonnes](consonants.md#n-et).
 
 Les suites *am, om, im…* ne sont pas des voyelles nasales, mais une voyelle suivie de la consonne *m* [[(Keita1979, p. 13)]] : {{yɔmndo}} se coupe *yɔm-ndo*.

@@ -8,112 +8,112 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔvɔɔ}} | verb | make; create | [GEN.2.1](https://www.bible.com/bible/1394/GEN.2.1.BKG) |
+| {{cɔvɔɔ}} | verb | make; create | [Gen 2:1](https://www.bible.com/bible/1394/GEN.2.1.BKG) |
 
 ### 1.1 Sky
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{halaa\|r}} | noun | sky — *Southern Kissi (Childs 2000) :* cloud, sky, heavens; also the name of a spirit | Keita 1979, p. 154 |
-| {{halataalaa}} | noun (o) | sky; heaven | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{halataalaa}} | noun (o) | sky; heaven | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 1.1.1 Sun
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{loei}}, pl. {{loeon}} | noun (i) | star | [NUM.24.17](https://www.bible.com/bible/1394/NUM.24.17.BKG) |
+| {{loei}}, pl. {{loeon}} | noun (i) | star | [Num 24:17](https://www.bible.com/bible/1394/NUM.24.17.BKG) |
 | {{paale kalalen}} | noun | noon, midday sun | Keita 1979, p. 154 |
-| {{paalen}} | noun (len) | sun; day — *Southern Kissi (Childs 2000) :* day, sun; midday, noon, afternoon | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{paangei}} | noun (i) | moon — *Southern Kissi (Childs 2000) :* moon, month; menstrual period | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{paalen}} | noun (len) | sun; day — *Southern Kissi (Childs 2000) :* day, sun; midday, noon, afternoon | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{paangei}} | noun (i) | moon — *Southern Kissi (Childs 2000) :* moon, month; menstrual period | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 
 ### 1.1.2 Air
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [GEN.7.22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
-| {{hoeyii}} | noun (i) | wind; breath — *Southern Kissi (Childs 2000) :* cold wind, cold season; fever | [GEN.2.7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
-| {{hɔŋndo}} | verb | blow; sound (a trumpet) | [EXO.10.13](https://www.bible.com/bible/1394/EXO.10.13.BKG) |
+| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{hoeyii}} | noun (i) | wind; breath — *Southern Kissi (Childs 2000) :* cold wind, cold season; fever | [Gen 2:7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
+| {{hɔŋndo}} | verb | blow; sound (a trumpet) | [Exod 10:13](https://www.bible.com/bible/1394/EXO.10.13.BKG) |
 
 ### 1.1.3 Weather
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{delian}} | verb | make fall, rain down (hail) | [EXO.9](https://www.bible.com/bible/1394/EXO.9.BKG) |
+| {{delian}} | verb | make fall, rain down (hail) | [Exod 9](https://www.bible.com/bible/1394/EXO.9.BKG) |
 | {{haalan\|r}} | noun | rain | Keita 1979, p. 155 |
-| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [GEN.7.22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
-| {{kumnde}} | noun | smoke; cloud | [GEN.19.28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
-| {{kɛmndan}} | noun (an) | dew | [GEN.27.28](https://www.bible.com/bible/1394/GEN.27.28.BKG) |
-| {{mɔ́mndo}} | noun (o) | fog, mist; dew — *Southern Kissi (Childs 2000) :* dew, morning mist | [EXO.16.13](https://www.bible.com/bible/1394/EXO.16.13.BKG) |
-| {{ninginangaa}} | noun (o) | rainbow | [GEN.9.13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
-| {{piɔɔ}} | noun | rain | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{kumnde}} | noun | smoke; cloud | [Gen 19:28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
+| {{kɛmndan}} | noun (an) | dew | [Gen 27:28](https://www.bible.com/bible/1394/GEN.27.28.BKG) |
+| {{mɔ́mndo}} | noun (o) | fog, mist; dew — *Southern Kissi (Childs 2000) :* dew, morning mist | [Exod 16:13](https://www.bible.com/bible/1394/EXO.16.13.BKG) |
+| {{ninginangaa}} | noun (o) | rainbow | [Gen 9:13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
+| {{piɔɔ}} | noun | rain | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 | {{piɔɔ bɛndoo}} | noun | tornado, rainstorm | Keita 1979, p. 155 |
-| {{siaa}} | verb | rain | [GEN.7.4](https://www.bible.com/bible/1394/GEN.7.4.BKG) |
-| {{sialten}} | noun (len) | rainy season | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
-| {{taŋnden}} | noun (len) | lightning; thunder | [1SA.7.10](https://www.bible.com/bible/1394/1SA.7.10.BKG) |
-| {{vɔɔlen}} | noun (len) | dry season | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
-| {{yumbuyumboo}} | noun (o) | cloud, clouds — *Southern Kissi (Childs 2000) :* fog | [GEN.9.14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
+| {{siaa}} | verb | rain | [Gen 7:4](https://www.bible.com/bible/1394/GEN.7.4.BKG) |
+| {{sialten}} | noun (len) | rainy season | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{taŋnden}} | noun (len) | lightning; thunder | [1 Sam 7:10](https://www.bible.com/bible/1394/1SA.7.10.BKG) |
+| {{vɔɔlen}} | noun (len) | dry season | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{yumbuyumboo}} | noun (o) | cloud, clouds — *Southern Kissi (Childs 2000) :* fog | [Gen 9:14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
 
 ### 1.2 World
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ceendo}} | noun (o) | world, earth | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{lɛŋnden}} | noun (len) | country, nation; land, earth — *Southern Kissi (Childs 2000) :* land, ground, area; country of origin; world, earth; floor | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{ceendo}} | noun (o) | world, earth | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{lɛŋnden}} | noun (len) | country, nation; land, earth — *Southern Kissi (Childs 2000) :* land, ground, area; country of origin; world, earth; floor | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 1.2.1 Land
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bundɛcieo\|r}} | noun (o) | clearing | Keita 1979, p. 155 |
-| {{dɛɛlaa}}, pl. {{dɛɛlalan}} | noun (o) | valley, plain — *Southern Kissi (Childs 2000) :* dry swamp suitable for rice growing | [GEN.13.10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
+| {{dɛɛlaa}}, pl. {{dɛɛlalan}} | noun (o) | valley, plain — *Southern Kissi (Childs 2000) :* dry swamp suitable for rice growing | [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
 | {{foloo\|r}} | noun (o) | valley | Keita 1979, p. 155 |
-| {{kpolonndo}} | noun (o) | valley | [1SA.13.23](https://www.bible.com/bible/1394/1SA.13.23.BKG) |
-| {{kpovaa}}, pl. {{kpovalan}} | noun (o) | rock — *Southern Kissi (Childs 2000) :* large rock standing by itself | [EXO.17](https://www.bible.com/bible/1394/EXO.17.BKG) |
-| {{kɔngɔ}} | noun | dry land; shore, bank — *Southern Kissi (Childs 2000) :* bank, shore, dry land; higher ground around a swamp | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{pembei}}, pl. {{pembon}} | noun (i) | mountain — *Southern Kissi (Childs 2000) :* hill, mountain | [GEN.14.6](https://www.bible.com/bible/1394/GEN.14.6.BKG) |
+| {{kpolonndo}} | noun (o) | valley | [1 Sam 13:23](https://www.bible.com/bible/1394/1SA.13.23.BKG) |
+| {{kpovaa}}, pl. {{kpovalan}} | noun (o) | rock — *Southern Kissi (Childs 2000) :* large rock standing by itself | [Exod 17](https://www.bible.com/bible/1394/EXO.17.BKG) |
+| {{kɔngɔ}} | noun | dry land; shore, bank — *Southern Kissi (Childs 2000) :* bank, shore, dry land; higher ground around a swamp | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{pembei}}, pl. {{pembon}} | noun (i) | mountain — *Southern Kissi (Childs 2000) :* hill, mountain | [Gen 14:6](https://www.bible.com/bible/1394/GEN.14.6.BKG) |
 | {{sayaa\|r}} | noun (o) | savanna — *Southern Kissi (Childs 2000) :* savanna grass; grassy savanna, upland | Keita 1979, p. 140 |
-| {{soondo}}, pl. {{soonnda}} | noun (o) | hole; well, pit — *Southern Kissi (Childs 2000) :* hole, well | [GEN.29.3](https://www.bible.com/bible/1394/GEN.29.3.BKG) |
+| {{soondo}}, pl. {{soonnda}} | noun (o) | hole; well, pit — *Southern Kissi (Childs 2000) :* hole, well | [Gen 29:3](https://www.bible.com/bible/1394/GEN.29.3.BKG) |
 | {{tiŋndo\|?}} | noun | island | Keita 1979, p. 155 |
-| {{tullo}} | noun (o) | top, summit | [EXO.24.17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
-| {{veselɛilen}} | adjective | arid, desert (lɛŋnde veselɛilen 'desert, wilderness') | [GEN.12.9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
-| {{vesɛiyo}} | adjective | dry; hard; dry land | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{yondoo}}, pl. {{yondolan}} | noun (o) | bush, open country, field — *Southern Kissi (Childs 2000) :* forest, high bush; also the Poro men's society | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{tullo}} | noun (o) | top, summit | [Exod 24:17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
+| {{veselɛilen}} | adjective | arid, desert (lɛŋnde veselɛilen 'desert, wilderness') | [Gen 12:9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
+| {{vesɛiyo}} | adjective | dry; hard; dry land | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{yondoo}}, pl. {{yondolan}} | noun (o) | bush, open country, field — *Southern Kissi (Childs 2000) :* forest, high bush; also the Poro men's society | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 
 ### 1.2.2 Substance, matter
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cilinnde}}, pl. {{cilinndon}} | noun (i) | iron, metal; bullet, cartridge — *Southern Kissi (Childs 2000) :* metal, iron; twisted iron strips formerly used as money | [EXO.34.17](https://www.bible.com/bible/1394/EXO.34.17.BKG) |
-| {{cilinndon}} | noun | iron — *Southern Kissi (Childs 2000) :* metal, iron; iron strips once used as money | [GEN.4.22](https://www.bible.com/bible/1394/GEN.4.22.BKG) |
-| {{cundoo}} | noun (o) | dust | [GEN.3.14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
-| {{kpovaa}}, pl. {{kpovalan}} | noun (o) | rock — *Southern Kissi (Childs 2000) :* large rock standing by itself | [EXO.17](https://www.bible.com/bible/1394/EXO.17.BKG) |
+| {{cilinnde}}, pl. {{cilinndon}} | noun (i) | iron, metal; bullet, cartridge — *Southern Kissi (Childs 2000) :* metal, iron; twisted iron strips formerly used as money | [Exod 34:17](https://www.bible.com/bible/1394/EXO.34.17.BKG) |
+| {{cilinndon}} | noun | iron — *Southern Kissi (Childs 2000) :* metal, iron; iron strips once used as money | [Gen 4:22](https://www.bible.com/bible/1394/GEN.4.22.BKG) |
+| {{cundoo}} | noun (o) | dust | [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
+| {{kpovaa}}, pl. {{kpovalan}} | noun (o) | rock — *Southern Kissi (Childs 2000) :* large rock standing by itself | [Exod 17](https://www.bible.com/bible/1394/EXO.17.BKG) |
 | {{kpɛiyo\|r}} | noun (o) | rubber | Keita 1979, p. 139 |
-| {{loolio}} | noun (o) | mud | [1SA.4.12](https://www.bible.com/bible/1394/1SA.4.12.BKG) |
-| {{powvo}}, pl. {{powtan}} | noun (o) | stone, pebble — *Southern Kissi (Childs 2000) :* rock, large stone; battery | [GEN.28.11](https://www.bible.com/bible/1394/GEN.28.11.BKG) |
-| {{puuloo}} | noun (o) | earth, soil, ground; dust ; dust; mud, clay — *Southern Kissi (Childs 2000) :* mud, dirt, stoneless soil; mortar | [GEN.2.7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
-| {{safir}} | noun | sapphire | [EXO.24.10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
-| {{sianion}} | noun | gold | [GEN.2.11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
-| {{sióónndon}} | noun | sand | [GEN.22.17](https://www.bible.com/bible/1394/GEN.22.17.BKG) |
+| {{loolio}} | noun (o) | mud | [1 Sam 4:12](https://www.bible.com/bible/1394/1SA.4.12.BKG) |
+| {{powvo}}, pl. {{powtan}} | noun (o) | stone, pebble — *Southern Kissi (Childs 2000) :* rock, large stone; battery | [Gen 28:11](https://www.bible.com/bible/1394/GEN.28.11.BKG) |
+| {{puuloo}} | noun (o) | earth, soil, ground; dust ; dust; mud, clay — *Southern Kissi (Childs 2000) :* mud, dirt, stoneless soil; mortar | [Gen 2:7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
+| {{safir}} | noun | sapphire | [Exod 24:10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
+| {{sianion}} | noun | gold | [Gen 2:11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
+| {{sióónndon}} | noun | sand | [Gen 22:17](https://www.bible.com/bible/1394/GEN.22.17.BKG) |
 | {{tɛɛnɔn\|r}} | noun | gravel | Keita 1979, p. 155 |
 
 ### 1.3 Water
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{mɛnndan}} | noun (an) | water | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{mɛnndan}} | noun (an) | water | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 
 ### 1.3.1 Bodies of water
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dalaa}}, pl. {{dalalan}} | noun (o) | pond, pool, lake | [JOS.11.2](https://www.bible.com/bible/1394/JOS.11.2.BKG) |
+| {{dalaa}}, pl. {{dalalan}} | noun (o) | pond, pool, lake | [Josh 11:2](https://www.bible.com/bible/1394/JOS.11.2.BKG) |
 | {{huŋndo\|r}}, pl. {{huŋndan\|r}} | noun (o) | lowland, swamp — *Southern Kissi (Childs 2000) :* swamp where swamp rice is grown | Keita 1979, p. 142 |
-| {{ihɛllan}} | noun | sea (mɛmma ihɛllan) | [GEN.1.10](https://www.bible.com/bible/1394/GEN.1.10.BKG) |
+| {{ihɛllan}} | noun | sea (mɛmma ihɛllan) | [Gen 1:10](https://www.bible.com/bible/1394/GEN.1.10.BKG) |
 | {{kɔlɔŋndo\|r}} | noun (o) | well | Keita 1979, p. 142 |
-| {{kɔngɔɔ}} | noun (o) | shore, bank, edge — *Southern Kissi (Childs 2000) :* bank, shore, dry land; the higher ground around a swamp | [GEN.41.2](https://www.bible.com/bible/1394/GEN.41.2.BKG) |
+| {{kɔngɔɔ}} | noun (o) | shore, bank, edge — *Southern Kissi (Childs 2000) :* bank, shore, dry land; the higher ground around a swamp | [Gen 41:2](https://www.bible.com/bible/1394/GEN.41.2.BKG) |
 | {{peekolaa\|r}} | noun (o) | spring, fountain | Keita 1979, p. 155 |
-| {{peo}}, pl. {{peelan}} | noun (o) | river, stream | [GEN.13.10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
-| {{pɔ́lɔ́nndo}} | noun (o) | swamp, marsh | [PSA.40.3](https://www.bible.com/bible/1394/PSA.40.3.BKG) |
+| {{peo}}, pl. {{peelan}} | noun (o) | river, stream | [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
+| {{pɔ́lɔ́nndo}} | noun (o) | swamp, marsh | [Ps 40:3](https://www.bible.com/bible/1394/PSA.40.3.BKG) |
 | {{tiŋndo\|?}} | noun | island | Keita 1979, p. 155 |
 | {{tɛiye\|?}} | noun | confluence | Keita 1979, p. 155 |
 
@@ -121,35 +121,35 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuiŋi}} | verb | pour out (a liquid) — *Southern Kissi (Childs 2000) :* spill, pour away; waste | [GEN.35.14](https://www.bible.com/bible/1394/GEN.35.14.BKG) |
-| {{velaa}} | verb | dry up, recede (water) — *Southern Kissi (Childs 2000) :* become dry (of water) | [GEN.8.1](https://www.bible.com/bible/1394/GEN.8.1.BKG) |
+| {{cuiŋi}} | verb | pour out (a liquid) — *Southern Kissi (Childs 2000) :* spill, pour away; waste | [Gen 35:14](https://www.bible.com/bible/1394/GEN.35.14.BKG) |
+| {{velaa}} | verb | dry up, recede (water) — *Southern Kissi (Childs 2000) :* become dry (of water) | [Gen 8:1](https://www.bible.com/bible/1394/GEN.8.1.BKG) |
 | {{velanndo\|?}} | verb | dry up (Keita); likeness, meaning (Bible) — *Southern Kissi (Childs 2000) :* resemble | Keita 1979, p. 114 |
 
 ### 1.3.3 Wet
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pɔlaa}} | verb | anoint; soak, wet (Keita) — *Southern Kissi (Childs 2000) :* soak, immerse in water | [EXO.25.6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
-| {{sɛ́ɛ́n}} | ideophone | (vesa sɛ́ɛ́n) completely dry — *Southern Kissi (Childs 2000) :* (ideophone) describes dryness, or the thinness of a person | [GEN.8.14](https://www.bible.com/bible/1394/GEN.8.14.BKG) |
-| {{veesiaa}} | verb | make dry, wither | [GEN.41.6](https://www.bible.com/bible/1394/GEN.41.6.BKG) |
-| {{vesaa}} | verb | dry, be dry | [JOB.18.16](https://www.bible.com/bible/1394/JOB.18.16.BKG) |
-| {{vesul}} | verb | sprinkle — *Southern Kissi (Childs 2000) :* splash | [LEV.4.6](https://www.bible.com/bible/1394/LEV.4.6.BKG) |
-| {{vesɛiyo}} | adjective | dry; hard; dry land | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{pɔlaa}} | verb | anoint; soak, wet (Keita) — *Southern Kissi (Childs 2000) :* soak, immerse in water | [Exod 25:6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
+| {{sɛ́ɛ́n}} | ideophone | (vesa sɛ́ɛ́n) completely dry — *Southern Kissi (Childs 2000) :* (ideophone) describes dryness, or the thinness of a person | [Gen 8:14](https://www.bible.com/bible/1394/GEN.8.14.BKG) |
+| {{veesiaa}} | verb | make dry, wither | [Gen 41:6](https://www.bible.com/bible/1394/GEN.41.6.BKG) |
+| {{vesaa}} | verb | dry, be dry | [Job 18:16](https://www.bible.com/bible/1394/JOB.18.16.BKG) |
+| {{vesul}} | verb | sprinkle — *Southern Kissi (Childs 2000) :* splash | [Lev 4:6](https://www.bible.com/bible/1394/LEV.4.6.BKG) |
+| {{vesɛiyo}} | adjective | dry; hard; dry land | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 
 ### 1.4.1 Dead things
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{siɔw\|r}} | verb | rot | Keita 1979, p. 116 |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [GEN.23.3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
 
 ### 1.5 Plant
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{funnden}} | noun (len) | cotton; flax — *Southern Kissi (Childs 2000) :* cotton; cotton thread, cotton cloth | [EXO.9.31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
-| {{kaan}} | noun | indigo; blue — *Southern Kissi (Childs 2000) :* indigo tree and the dark blue dye from its bark | [EXO.25.4](https://www.bible.com/bible/1394/EXO.25.4.BKG) |
-| {{tɔlɔɔ}}, pl. {{tɔlɔɔlan}} | noun (o) | plant | [EXO.10.5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
+| {{funnden}} | noun (len) | cotton; flax — *Southern Kissi (Childs 2000) :* cotton; cotton thread, cotton cloth | [Exod 9:31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
+| {{kaan}} | noun | indigo; blue — *Southern Kissi (Childs 2000) :* indigo tree and the dark blue dye from its bark | [Exod 25:4](https://www.bible.com/bible/1394/EXO.25.4.BKG) |
+| {{tɔlɔɔ}}, pl. {{tɔlɔɔlan}} | noun (o) | plant | [Exod 10:5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
 
 ### 1.5.1 Tree
 
@@ -158,14 +158,14 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{bandaa\|r}} | noun (o) | kapok tree, silk-cotton tree | Keita 1979, p. 139 |
 | {{cale tumnden\|r}} | noun | papaya tree | Keita 1979, p. 140 |
 | {{kpɛiyo\|r}} | noun (o) | rubber | Keita 1979, p. 139 |
-| {{oliviee}} | noun | olive tree, olive | [GEN.8.11](https://www.bible.com/bible/1394/GEN.8.11.BKG) |
+| {{oliviee}} | noun | olive tree, olive | [Gen 8:11](https://www.bible.com/bible/1394/GEN.8.11.BKG) |
 | {{seŋaa\|r}} | noun (o) | raffia palm | Keita 1979, p. 140 |
 | {{sɔmɔɔ\|r}} | noun (o) | acajou (mahogany or cashew) | Keita 1979, p. 140 |
-| {{sɛɛdrei}} | noun (i) | cedar | [NUM.24.6](https://www.bible.com/bible/1394/NUM.24.6.BKG) |
-| {{vawvo}}, pl. {{vawvan}} | noun (o) | oil palm; palm tree | [SNG.7.9](https://www.bible.com/bible/1394/SNG.7.9.BKG) |
-| {{voosu}} | noun | fig — *Southern Kissi (Childs 2000) :* fig tree; also a fern-like plant | [NUM.20.5](https://www.bible.com/bible/1394/NUM.20.5.BKG) |
+| {{sɛɛdrei}} | noun (i) | cedar | [Num 24:6](https://www.bible.com/bible/1394/NUM.24.6.BKG) |
+| {{vawvo}}, pl. {{vawvan}} | noun (o) | oil palm; palm tree | [Song 7:9](https://www.bible.com/bible/1394/SNG.7.9.BKG) |
+| {{voosu}} | noun | fig — *Southern Kissi (Childs 2000) :* fig tree; also a fern-like plant | [Num 20:5](https://www.bible.com/bible/1394/NUM.20.5.BKG) |
 | {{yendioo\|r}} | noun (o) | African locust bean tree | Keita 1979, p. 140 |
-| {{yɔmndo}}, pl. {{yɔmii}} | noun (o) | tree; wood | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{yɔmndo}}, pl. {{yɔmii}} | noun (o) | tree; wood | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 
 ### 1.5.2 Bush, shrub
 
@@ -173,21 +173,21 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{bɔlɔ tumndo\|r}} | noun | banana plant — *Southern Kissi (Childs 2000) :* banana, banana tree | Keita 1979, p. 139 |
 | {{bɛngu lefunndo\|r}} | noun | cotton plant | Keita 1979, p. 139 |
-| {{yɔɔn}} | noun | thorns — *Southern Kissi (Childs 2000) :* thorn, splinter (singular yùéí) | [GEN.3.18](https://www.bible.com/bible/1394/GEN.3.18.BKG) |
+| {{yɔɔn}} | noun | thorns — *Southern Kissi (Childs 2000) :* thorn, splinter (singular yùéí) | [Gen 3:18](https://www.bible.com/bible/1394/GEN.3.18.BKG) |
 
 ### 1.5.3 Grass, herb, vine
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{billo}} | noun (o) | grass ; grass, plant, vegetation | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{billo}} | noun (o) | grass ; grass, plant, vegetation | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | {{cɛngilen\|r}} | noun (len) | sugar cane | Keita 1979, p. 140 |
 | {{kumtulen\|r}} | noun (len) | fern | Keita 1979, p. 139 |
-| {{puiyo}} | noun (o) | straw — *Southern Kissi (Childs 2000) :* new sprouts; thatch, grass cut for thatching | [JDG.19.19](https://www.bible.com/bible/1394/JDG.19.19.BKG) |
-| {{rɛsɛnndo}} | noun | vine, grapevine; (rɛsɛnndon) grapes | [GEN.9.20](https://www.bible.com/bible/1394/GEN.9.20.BKG) |
+| {{puiyo}} | noun (o) | straw — *Southern Kissi (Childs 2000) :* new sprouts; thatch, grass cut for thatching | [Judg 19:19](https://www.bible.com/bible/1394/JDG.19.19.BKG) |
+| {{rɛsɛnndo}} | noun | vine, grapevine; (rɛsɛnndon) grapes | [Gen 9:20](https://www.bible.com/bible/1394/GEN.9.20.BKG) |
 | {{sayaa\|r}} | noun (o) | savanna — *Southern Kissi (Childs 2000) :* savanna grass; grassy savanna, upland | Keita 1979, p. 140 |
 | {{sayalen\|r}} | noun (len) | savanna grass — *Southern Kissi (Childs 2000) :* savanna grass; grassy savanna, upland | Keita 1979, p. 155 |
-| {{tɛngɛlen}} | noun (len) | reed | [JOB.40.26](https://www.bible.com/bible/1394/JOB.40.26.BKG) |
-| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [EXO.39.15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
+| {{tɛngɛlen}} | noun (len) | reed | [Job 40:26](https://www.bible.com/bible/1394/JOB.40.26.BKG) |
+| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [Exod 39:15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
 
 ### 1.5.4 Moss, fungus, algae
 
@@ -200,44 +200,44 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{beeseŋan\|r}} | noun | small very bitter eggplant | Keita 1979, p. 139 |
-| {{boo}} | noun (o) | shell, bark, peel; sheath | [JOS.5.13](https://www.bible.com/bible/1394/JOS.5.13.BKG) |
+| {{boo}} | noun (o) | shell, bark, peel; sheath | [Josh 5:13](https://www.bible.com/bible/1394/JOS.5.13.BKG) |
 | {{bɔlɔɔ\|r}} | noun (o) | banana — *Southern Kissi (Childs 2000) :* banana, banana tree | Keita 1979, p. 139 |
 | {{bɛi\|r}} | noun (i) | eggplant, garden egg — *Southern Kissi (Childs 2000) :* bitterball, a small round bitter vegetable | Keita 1979, p. 139 |
 | {{bɛllon\|r}} | noun | palm nuts | Keita 1979, p. 139 |
 | {{calen\|r}} | noun (len) | papaya — *Southern Kissi (Childs 2000) :* papaya; pumpkin; anything gourd-shaped | Keita 1979, p. 140 |
-| {{hemndo}}, pl. {{hemndan}} | noun (o) | gourd, skin bottle — *Southern Kissi (Childs 2000) :* gourd for keeping oil or wine | [JDG.6.19](https://www.bible.com/bible/1394/JDG.6.19.BKG) |
+| {{hemndo}}, pl. {{hemndan}} | noun (o) | gourd, skin bottle — *Southern Kissi (Childs 2000) :* gourd for keeping oil or wine | [Judg 6:19](https://www.bible.com/bible/1394/JDG.6.19.BKG) |
 | {{kollo\|r}} | noun (o) | kola nut — *Southern Kissi (Childs 2000) :* kola nut, kola tree (Cola nitida); Adam's apple | Keita 1979, p. 139 |
 | {{kpaaɲaa\|r}} | noun | sweet potato leaves | Keita 1979, p. 139 |
-| {{kulle}}, pl. {{kullon}} | noun (i) | seed, grain ; seed; fruit — *Southern Kissi (Childs 2000) :* seed (generic) | [1CO.15.37](https://www.bible.com/bible/1394/1CO.15.37.BKG) |
-| {{kɔmnden}} | noun (len) | fruit | [GEN.49.22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
+| {{kulle}}, pl. {{kullon}} | noun (i) | seed, grain ; seed; fruit — *Southern Kissi (Childs 2000) :* seed (generic) | [1 Cor 15:37](https://www.bible.com/bible/1394/1CO.15.37.BKG) |
+| {{kɔmnden}} | noun (len) | fruit | [Gen 49:22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
 | {{kɛmbɛi\|r}} | noun (i) | palm kernel — *Southern Kissi (Childs 2000) :* palm kernel, coconut; wedge; vulgar term for the female genitals | Keita 1979, p. 139 |
 | {{kɛmbɛi kokoei\|r}} | noun | coconut | Keita 1979, p. 139 |
 | {{lembulten\|r}} | noun (len) | lemon, lime — *Southern Kissi (Childs 2000) :* citrus fruit: orange, lemon, lime | Keita 1979, p. 139 |
-| {{lɛwve}}, pl. {{lɛwvon}} | noun (i) | branch | [GEN.49.11](https://www.bible.com/bible/1394/GEN.49.11.BKG) |
-| {{peelen}} | noun (len) | leaf — *Southern Kissi (Childs 2000) :* leaf; sheet (of paper) | [LEV.26.36](https://www.bible.com/bible/1394/LEV.26.36.BKG) |
+| {{lɛwve}}, pl. {{lɛwvon}} | noun (i) | branch | [Gen 49:11](https://www.bible.com/bible/1394/GEN.49.11.BKG) |
+| {{peelen}} | noun (len) | leaf — *Southern Kissi (Childs 2000) :* leaf; sheet (of paper) | [Lev 26:36](https://www.bible.com/bible/1394/LEV.26.36.BKG) |
 | {{puundulen\|r}}, pl. {{puundun\|r}} | noun (len) | root | Keita 1979, p. 140 |
 | {{siawlen\|r}} | noun (len) | orange | Keita 1979, p. 140 |
 | {{taala itendoo\|r}} | noun | calabash | Keita 1979, p. 140 |
-| {{tándoo}} | noun (o) | sap — *Southern Kissi (Childs 2000) :* sap, resin; latex of the rubber tree | [JOB.8.16](https://www.bible.com/bible/1394/JOB.8.16.BKG) |
+| {{tándoo}} | noun (o) | sap — *Southern Kissi (Childs 2000) :* sap, resin; latex of the rubber tree | [Job 8:16](https://www.bible.com/bible/1394/JOB.8.16.BKG) |
 | {{yabibio\|r}} | noun (o) | pineapple | Keita 1979, p. 140 |
 | {{yambɛi\|r}} | noun | tubers — *Southern Kissi (Childs 2000) :* tuber (generic): cassava, eddo, yam | Keita 1979, p. 140 |
-| {{yandɔɔ}} | noun (o) | flower — *Southern Kissi (Childs 2000) :* (verb) to flower, blossom, bear fruit | [EXO.9.31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
-| {{yasaa}}, pl. {{yasalan}} | noun (o) | ear of grain — *Southern Kissi (Childs 2000) :* bunch, ear (of maize), stalk, clump | [MRK.4.8](https://www.bible.com/bible/1394/MRK.4.8.BKG) |
+| {{yandɔɔ}} | noun (o) | flower — *Southern Kissi (Childs 2000) :* (verb) to flower, blossom, bear fruit | [Exod 9:31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
+| {{yasaa}}, pl. {{yasalan}} | noun (o) | ear of grain — *Southern Kissi (Childs 2000) :* bunch, ear (of maize), stalk, clump | [Mark 4:8](https://www.bible.com/bible/1394/MRK.4.8.BKG) |
 
 ### 1.5.6 Growth of plants
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{komɔɔ}} | verb | bear fruit, bear young; fruit | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
-| {{vulɔɔ}} | verb | grow, sprout — *Southern Kissi (Childs 2000) :* also: thread a needle | [GEN.3.18](https://www.bible.com/bible/1394/GEN.3.18.BKG) |
-| {{yandɔɔ}} | verb | flower, blossom — *Southern Kissi (Childs 2000) :* flower, produce flowers | [EXO.9.31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
+| {{komɔɔ}} | verb | bear fruit, bear young; fruit | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{vulɔɔ}} | verb | grow, sprout — *Southern Kissi (Childs 2000) :* also: thread a needle | [Gen 3:18](https://www.bible.com/bible/1394/GEN.3.18.BKG) |
+| {{yandɔɔ}} | verb | flower, blossom — *Southern Kissi (Childs 2000) :* flower, produce flowers | [Exod 9:31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
 
 ### 1.6 Animal
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔloo}}, pl. {{cɔlua}} | noun (o) | animal, beast; livestock | [GEN.4.2](https://www.bible.com/bible/1394/GEN.4.2.BKG) |
-| {{visio}}, pl. {{visia}} | noun (o) | animal | [GEN.27.20](https://www.bible.com/bible/1394/GEN.27.20.BKG) |
+| {{cɔloo}}, pl. {{cɔlua}} | noun (o) | animal, beast; livestock | [Gen 4:2](https://www.bible.com/bible/1394/GEN.4.2.BKG) |
+| {{visio}}, pl. {{visia}} | noun (o) | animal | [Gen 27:20](https://www.bible.com/bible/1394/GEN.27.20.BKG) |
 
 ### 1.6.1 Types of animals
 
@@ -245,55 +245,55 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{cokaacoo\|r}} | noun (o) | toad — *Southern Kissi (Childs 2000) :* toad, frog | Keita 1979, p. 137 |
 | {{cowvo\|r}} | noun (o) | ground squirrel — *Southern Kissi (Childs 2000) :* a large rat; opossum (Liberian English) | Keita 1979, p. 137 |
-| {{cuinndo}}, pl. {{cuinnda}} | noun (o) | goat | [GEN.21.14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{cuinndo}}, pl. {{cuinnda}} | noun (o) | goat | [Gen 21:14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
 | {{dɔkuuvo\|r}} | noun (o) | duck | Keita 1979, p. 136 |
 | {{dɛluo\|r}}, pl. {{dɛlua\|r}} | noun (o) | worm — *Southern Kissi (Childs 2000) :* chigger; any small insect such as a caterpillar or worm | Keita 1979, p. 136 |
 | {{faaboo\|r}} | noun (o) | parrot — *Southern Kissi (Childs 2000) :* a bird, perhaps a small green parrot; also a figure of the initiation society | Keita 1979, p. 136 |
-| {{kaangoo}}, pl. {{kaangoa}} | noun (o) | termite; moth | [NUM.17.3](https://www.bible.com/bible/1394/NUM.17.3.BKG) |
-| {{kamaa}} | noun (o) | elephant | [1SA.14.45](https://www.bible.com/bible/1394/1SA.14.45.BKG) |
-| {{kambalaa}} | noun (o) | insect — *Southern Kissi (Childs 2000) :* a large edible grasshopper | [LEV.11.20](https://www.bible.com/bible/1394/LEV.11.20.BKG) |
+| {{kaangoo}}, pl. {{kaangoa}} | noun (o) | termite; moth | [Num 17:3](https://www.bible.com/bible/1394/NUM.17.3.BKG) |
+| {{kamaa}} | noun (o) | elephant | [1 Sam 14:45](https://www.bible.com/bible/1394/1SA.14.45.BKG) |
+| {{kambalaa}} | noun (o) | insect — *Southern Kissi (Childs 2000) :* a large edible grasshopper | [Lev 11:20](https://www.bible.com/bible/1394/LEV.11.20.BKG) |
 | {{kankpoo\|r}} | noun (o) | wood pigeon — *Southern Kissi (Childs 2000) :* dove, pigeon | Keita 1979, p. 136 |
 | {{kiinkiindo\|r}} | noun (o) | mason wasp | Keita 1979, p. 136 |
-| {{koondo}}, pl. {{koondoa}} | noun (o) | hawk, sparrowhawk | [DEU.14.15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
-| {{kovɔ́ɔ̀}} | noun (o) | eagle — *Southern Kissi (Childs 2000) :* a small species of eagle | [GEN.41.34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
-| {{kposio}} | noun (o) | lizard — *Southern Kissi (Childs 2000) :* lizard with a red head | [LEV.11.30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
+| {{koondo}}, pl. {{koondoa}} | noun (o) | hawk, sparrowhawk | [Deut 14:15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
+| {{kovɔ́ɔ̀}} | noun (o) | eagle — *Southern Kissi (Childs 2000) :* a small species of eagle | [Gen 41:34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
+| {{kposio}} | noun (o) | lizard — *Southern Kissi (Childs 2000) :* lizard with a red head | [Lev 11:30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
 | {{kpɔɔndo\|r}} | noun (o) | baboon | Keita 1979, p. 136 |
-| {{kuiyo}} | noun (o) | crocodile | [GEN.6.1](https://www.bible.com/bible/1394/GEN.6.1.BKG) |
+| {{kuiyo}} | noun (o) | crocodile | [Gen 6:1](https://www.bible.com/bible/1394/GEN.6.1.BKG) |
 | {{kɔlɔlɔndɔɔ\|r}} | noun (o) | millipede | Keita 1979, p. 136 |
-| {{kɛwvo}}, pl. {{kɛwva}} | noun (o) | snake | [GEN.3.1](https://www.bible.com/bible/1394/GEN.3.1.BKG) |
+| {{kɛwvo}}, pl. {{kɛwva}} | noun (o) | snake | [Gen 3:1](https://www.bible.com/bible/1394/GEN.3.1.BKG) |
 | {{leendo\|r}}, pl. {{leenda\|r}} | noun (o) | agama lizard — *Southern Kissi (Childs 2000) :* gecko, a black lizard | Keita 1979, p. 136 |
 | {{lɛu\|r}}, pl. {{lɛa\|r}} | noun (o) | bee | Keita 1979, p. 136 |
 | {{maloo\|r}} | noun (o) | hippopotamus | Keita 1979, p. 136 |
 | {{muiyo\|r}}, pl. {{muiya\|r}} | noun (o) | mosquito; gnat | Keita 1979, p. 136 |
-| {{ngeemaa}} | noun (o) | scorpion | [NUM.34.4](https://www.bible.com/bible/1394/NUM.34.4.BKG) |
+| {{ngeemaa}} | noun (o) | scorpion | [Num 34:4](https://www.bible.com/bible/1394/NUM.34.4.BKG) |
 | {{pengoo\|r}}, pl. {{pengia\|r}} | noun (o) | fly | Keita 1979, p. 137 |
-| {{pewvo}}, pl. {{pewva}} | noun (o) | pig | [LEV.11.7](https://www.bible.com/bible/1394/LEV.11.7.BKG) |
-| {{poonpoon}} | noun | dove | [GEN.8.9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
-| {{poonpoondo}}, pl. {{poonpoonda}} | noun (o) | green pigeon; dove | [GEN.8.8](https://www.bible.com/bible/1394/GEN.8.8.BKG) |
-| {{saa}} | noun (o) | sheep | [GEN.12.16](https://www.bible.com/bible/1394/GEN.12.16.BKG) |
-| {{sangɔɔ}} | noun (o) | tortoise | [LEV.11.30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
-| {{saŋndo}} | noun (o) | hare — *Southern Kissi (Childs 2000) :* a small or pygmy antelope, hero of folk tales | [LEV.11.6](https://www.bible.com/bible/1394/LEV.11.6.BKG) |
-| {{sengoo}} | noun (o) | antelope | [DEU.14.5](https://www.bible.com/bible/1394/DEU.14.5.BKG) |
+| {{pewvo}}, pl. {{pewva}} | noun (o) | pig | [Lev 11:7](https://www.bible.com/bible/1394/LEV.11.7.BKG) |
+| {{poonpoon}} | noun | dove | [Gen 8:9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
+| {{poonpoondo}}, pl. {{poonpoonda}} | noun (o) | green pigeon; dove | [Gen 8:8](https://www.bible.com/bible/1394/GEN.8.8.BKG) |
+| {{saa}} | noun (o) | sheep | [Gen 12:16](https://www.bible.com/bible/1394/GEN.12.16.BKG) |
+| {{sangɔɔ}} | noun (o) | tortoise | [Lev 11:30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
+| {{saŋndo}} | noun (o) | hare — *Southern Kissi (Childs 2000) :* a small or pygmy antelope, hero of folk tales | [Lev 11:6](https://www.bible.com/bible/1394/LEV.11.6.BKG) |
+| {{sengoo}} | noun (o) | antelope | [Deut 14:5](https://www.bible.com/bible/1394/DEU.14.5.BKG) |
 | {{siamndo\|r}} | noun (o) | guinea fowl | Keita 1979, p. 137 |
-| {{sisinndo}}, pl. {{sisinnda}} | noun (o) | ant | [PRO.6.6](https://www.bible.com/bible/1394/PRO.6.6.BKG) |
-| {{sofɛlɔɔ}}, pl. {{sofɛlɛa}} | noun (o) | donkey | [GEN.22.5](https://www.bible.com/bible/1394/GEN.22.5.BKG) |
-| {{sóónɔɔ}}, pl. {{sóónɔa}} | noun (o) | locust, grasshopper | [EXO.10.19](https://www.bible.com/bible/1394/EXO.10.19.BKG) |
-| {{sow}}, pl. {{soa}} | noun (o) | horse | [GEN.49.17](https://www.bible.com/bible/1394/GEN.49.17.BKG) |
+| {{sisinndo}}, pl. {{sisinnda}} | noun (o) | ant | [Prov 6:6](https://www.bible.com/bible/1394/PRO.6.6.BKG) |
+| {{sofɛlɔɔ}}, pl. {{sofɛlɛa}} | noun (o) | donkey | [Gen 22:5](https://www.bible.com/bible/1394/GEN.22.5.BKG) |
+| {{sóónɔɔ}}, pl. {{sóónɔa}} | noun (o) | locust, grasshopper | [Exod 10:19](https://www.bible.com/bible/1394/EXO.10.19.BKG) |
+| {{sow}}, pl. {{soa}} | noun (o) | horse | [Gen 49:17](https://www.bible.com/bible/1394/GEN.49.17.BKG) |
 | {{sulukuo\|r}}, pl. {{sulukua\|r}} | noun (o) | hyena | Keita 1979, p. 137 |
-| {{suwvo}}, pl. {{suwva}} | noun (o) | fish | [2CH.33.14](https://www.bible.com/bible/1394/2CH.33.14.BKG) |
+| {{suwvo}}, pl. {{suwva}} | noun (o) | fish | [2 Chr 33:14](https://www.bible.com/bible/1394/2CH.33.14.BKG) |
 | {{sɔlɔɔ\|r}} | noun (o) | frog | Keita 1979, p. 137 |
-| {{tambillo}}, pl. {{tambilla}} | noun (o) | leopard | [ISA.11.6](https://www.bible.com/bible/1394/ISA.11.6.BKG) |
+| {{tambillo}}, pl. {{tambilla}} | noun (o) | leopard | [Isa 11:6](https://www.bible.com/bible/1394/ISA.11.6.BKG) |
 | {{tandanpollo\|r}} | noun (o) | butterfly | Keita 1979, p. 137 |
 | {{tasaa\|r}} | noun (o) | bat — *Southern Kissi (Childs 2000) :* large edible fruit bat, flying fox | Keita 1979, p. 137 |
-| {{tunndo}}, pl. {{tunnda}} | noun (o) | dog | [EXO.11.7](https://www.bible.com/bible/1394/EXO.11.7.BKG) |
+| {{tunndo}}, pl. {{tunnda}} | noun (o) | dog | [Exod 11:7](https://www.bible.com/bible/1394/EXO.11.7.BKG) |
 | {{tɔmndo\|r}}, pl. {{tɔmnda\|r}} | noun (o) | monkey | Keita 1979, p. 137 |
-| {{vɔlɔɔ}} | noun (o) | partridge — *Southern Kissi (Childs 2000) :* bush chicken | [1SA.26.20](https://www.bible.com/bible/1394/1SA.26.20.BKG) |
-| {{yàlàá}} | noun (o) | lion | [GEN.49.9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
-| {{yowvo}}, pl. {{yowva}} | noun (o) | bird | [EXO.22.14](https://www.bible.com/bible/1394/EXO.22.14.BKG) |
+| {{vɔlɔɔ}} | noun (o) | partridge — *Southern Kissi (Childs 2000) :* bush chicken | [1 Sam 26:20](https://www.bible.com/bible/1394/1SA.26.20.BKG) |
+| {{yàlàá}} | noun (o) | lion | [Gen 49:9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
+| {{yowvo}}, pl. {{yowva}} | noun (o) | bird | [Exod 22:14](https://www.bible.com/bible/1394/EXO.22.14.BKG) |
 | {{yɔɔɲɔɔ\|r}} | noun (o) | pangolin | Keita 1979, p. 138 |
 | {{ɲaaye yondoo\|r}} | noun | wild cat | Keita 1979, p. 136 |
 | {{ɲaayoo\|r}} | noun (o) | cat | Keita 1979, p. 136 |
-| {{ɲɔɔmɛɔ}}, pl. {{ɲɔɔmɛɛa}} | noun (o) | camel | [GEN.24.64](https://www.bible.com/bible/1394/GEN.24.64.BKG) |
+| {{ɲɔɔmɛɔ}}, pl. {{ɲɔɔmɛɛa}} | noun (o) | camel | [Gen 24:64](https://www.bible.com/bible/1394/GEN.24.64.BKG) |
 
 ### 1.6.2 Parts of an animal
 
@@ -301,13 +301,13 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{buukuo\|r}}, pl. {{buukulan\|r}} | noun (o) | hoof | Keita 1979, p. 136 |
 | {{bɔɔlen\|r}}, pl. {{bɔɔlan\|r}} | noun (len) | feather — *Southern Kissi (Childs 2000) :* feather; hem of cloth | Keita 1979, p. 136 |
-| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [JER.35.7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
+| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [Jer 35:7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
 | {{ciŋun kamaa}} | noun | ivory | Keita 1979, p. 137 |
-| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [EXO.28.33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
-| {{kumbanndo}}, pl. {{kumbannda}} | noun (o) | wing — *Southern Kissi (Childs 2000) :* wing of a bird or of an airplane | [RUT.2.12](https://www.bible.com/bible/1394/RUT.2.12.BKG) |
+| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [Exod 28:33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
+| {{kumbanndo}}, pl. {{kumbannda}} | noun (o) | wing — *Southern Kissi (Childs 2000) :* wing of a bird or of an airplane | [Ruth 2:12](https://www.bible.com/bible/1394/RUT.2.12.BKG) |
 | {{kɛkɛwvo\|r}}, pl. {{kɛkɛwlan\|r}} | noun (o) | scale (of a fish) | Keita 1979, p. 136 |
-| {{lee}}, pl. {{leelan}} | noun | horn; (horn) trumpet | [GEN.36.7](https://www.bible.com/bible/1394/GEN.36.7.BKG) |
-| {{leo}}, pl. {{leelan}} | noun (o) | horn | [JOB.41.18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
+| {{lee}}, pl. {{leelan}} | noun | horn; (horn) trumpet | [Gen 36:7](https://www.bible.com/bible/1394/GEN.36.7.BKG) |
+| {{leo}}, pl. {{leelan}} | noun (o) | horn | [Job 41:18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
 | {{lomnden\|r}} | noun (len) | tail — *Southern Kissi (Childs 2000) :* tail; slang for penis | Keita 1979, p. 136 |
 | {{nimɔɔ\|r}} | noun (o) | elephant's trunk | Keita 1979, p. 136 |
 | {{pɛɛpɛi\|r}}, pl. {{pɛɛpɛɛlan\|r}} | noun | fin | Keita 1979, p. 137 |
@@ -316,125 +316,125 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{komɔɔ}} | verb | bear fruit, bear young; fruit | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{komɔɔ}} | verb | bear fruit, bear young; fruit | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 | {{pelten\|r}}, pl. {{peltan\|r}} | noun (len) | egg — *Southern Kissi (Childs 2000) :* egg; any egg-shaped object, e.g. a lamp chimney or a hernia | Keita 1979, p. 137 |
-| {{téndóó}}, pl. {{téndéa}} | adjective | young (animal) | [GEN.22.8](https://www.bible.com/bible/1394/GEN.22.8.BKG) |
+| {{téndóó}}, pl. {{téndéa}} | adjective | young (animal) | [Gen 22:8](https://www.bible.com/bible/1394/GEN.22.8.BKG) |
 | {{tuncua\|r}} | noun | puppy | Keita 1979, p. 137 |
 
 ### 1.6.4 Animal actions
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lɔwviaa}} | verb | bite | [NUM.21.6](https://www.bible.com/bible/1394/NUM.21.6.BKG) |
-| {{sasun}} | verb | creep, crawl | [GEN.7.8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
+| {{lɔwviaa}} | verb | bite | [Num 21:6](https://www.bible.com/bible/1394/NUM.21.6.BKG) |
+| {{sasun}} | verb | creep, crawl | [Gen 7:8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
 
 ### 1.6.5 Animal home
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{tɛu\|?}} | noun | termite mound — *Southern Kissi (Childs 2000) :* chaff, rice straw left after threshing | Keita 1979, p. 137 |
-| {{vɛɛnnden}} | noun (len) | nest | [JOB.39.27](https://www.bible.com/bible/1394/JOB.39.27.BKG) |
+| {{vɛɛnnden}} | noun (len) | nest | [Job 39:27](https://www.bible.com/bible/1394/JOB.39.27.BKG) |
 
 ### 1.6.7 Male and female animals
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kóndóó}}, pl. {{kóndóa}} | noun (o) | ram (saa kóndó) | [GEN.22.13](https://www.bible.com/bible/1394/GEN.22.13.BKG) |
-| {{laandoo}}, pl. {{laandaa}} | adjective | female | [GEN.6.19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
-| {{piaandoo}}, pl. {{piaandua}} | adjective | male; boy, son | [GEN.4.1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
+| {{kóndóó}}, pl. {{kóndóa}} | noun (o) | ram (saa kóndó) | [Gen 22:13](https://www.bible.com/bible/1394/GEN.22.13.BKG) |
+| {{laandoo}}, pl. {{laandaa}} | adjective | female | [Gen 6:19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
+| {{piaandoo}}, pl. {{piaandua}} | adjective | male; boy, son | [Gen 4:1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
 | {{saa kóndóó}} | noun | ram | Keita 1979, p. 137 |
 | {{saa laandoo}} | noun | ewe | Keita 1979, p. 137 |
 | {{so laandoo\|r}} | noun | mare | Keita 1979, p. 137 |
 | {{toovaa\|r}} | noun (o) | bull — *Southern Kissi (Childs 2000) :* male animal (cow, sheep, etc.), bull | Keita 1979, p. 137 |
-| {{toovio}}, pl. {{toovia}} | noun (o) | he-goat, billy goat | [GEN.37.31](https://www.bible.com/bible/1394/GEN.37.31.BKG) |
-| {{tova}} | adjective | male (of cattle) — *Southern Kissi (Childs 2000) :* male (cow, sheep, etc.), bull | [EXO.29.1](https://www.bible.com/bible/1394/EXO.29.1.BKG) |
+| {{toovio}}, pl. {{toovia}} | noun (o) | he-goat, billy goat | [Gen 37:31](https://www.bible.com/bible/1394/GEN.37.31.BKG) |
+| {{tova}} | adjective | male (of cattle) — *Southern Kissi (Childs 2000) :* male (cow, sheep, etc.), bull | [Exod 29:1](https://www.bible.com/bible/1394/EXO.29.1.BKG) |
 
 ## 2. Person
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{vana}}, pl. {{vanaa}} | pronoun | the one who, someone (head of a relative clause); person | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{vanacieo}}, pl. {{vanndacieea}} | noun (o) | human being, man; (pl.) people, mankind — *Southern Kissi (Childs 2000) :* citizen, human being | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{vanndo}}, pl. {{vannda}} | noun (o) | person, human being | [GEN.27.42](https://www.bible.com/bible/1394/GEN.27.42.BKG) |
+| {{vana}}, pl. {{vanaa}} | pronoun | the one who, someone (head of a relative clause); person | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{vanacieo}}, pl. {{vanndacieea}} | noun (o) | human being, man; (pl.) people, mankind — *Southern Kissi (Childs 2000) :* citizen, human being | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{vanndo}}, pl. {{vannda}} | noun (o) | person, human being | [Gen 27:42](https://www.bible.com/bible/1394/GEN.27.42.BKG) |
 
 ### 2.1 Body
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dialii}}, pl. {{diallon}} | noun (i) | limb, part of the body; flesh; (pl.) the body — *Southern Kissi (Childs 2000) :* body; also health, condition, skin | [GEN.2.23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
-| {{kɔɔlen}} | noun (len) | body; skin of the body — *Southern Kissi (Childs 2000) :* skin | [GEN.25.25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
+| {{dialii}}, pl. {{diallon}} | noun (i) | limb, part of the body; flesh; (pl.) the body — *Southern Kissi (Childs 2000) :* body; also health, condition, skin | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{kɔɔlen}} | noun (len) | body; skin of the body — *Southern Kissi (Childs 2000) :* skin | [Gen 25:25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
 
 ### 2.1.1 Head
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bollen}}, pl. {{bóltan}} | noun (len) | head; top — *Southern Kissi (Childs 2000) :* head; point, tip, edge, top | [GEN.3.15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
-| {{bololen}} | noun (len) | throat | [JER.2.25](https://www.bible.com/bible/1394/JER.2.25.BKG) |
+| {{bollen}}, pl. {{bóltan}} | noun (len) | head; top — *Southern Kissi (Childs 2000) :* head; point, tip, edge, top | [Gen 3:15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
+| {{bololen}} | noun (len) | throat | [Jer 2:25](https://www.bible.com/bible/1394/JER.2.25.BKG) |
 | {{ciŋiipianduei\|r}} | noun (i) | canine tooth | Keita 1979, p. 133 |
 | {{ciŋiitaaye\|r}} | noun (i) | molar tooth | Keita 1979, p. 133 |
 | {{ciŋikiolɛi\|r}} | noun (i) | incisor | Keita 1979, p. 132 |
-| {{ciŋnde}}, pl. {{ciŋndon}} | noun (i) | tooth — *Southern Kissi (Childs 2000) :* tooth, tusk | [EXO.21.24](https://www.bible.com/bible/1394/EXO.21.24.BKG) |
-| {{cɔcɔn}} | noun | lips; rim, edge | [EXO.25.11](https://www.bible.com/bible/1394/EXO.25.11.BKG) |
-| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [EXO.28.33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
+| {{ciŋnde}}, pl. {{ciŋndon}} | noun (i) | tooth — *Southern Kissi (Childs 2000) :* tooth, tusk | [Exod 21:24](https://www.bible.com/bible/1394/EXO.21.24.BKG) |
+| {{cɔcɔn}} | noun | lips; rim, edge | [Exod 25:11](https://www.bible.com/bible/1394/EXO.25.11.BKG) |
+| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [Exod 28:33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
 | {{daadaa\|r}} | noun (o) | chin | Keita 1979, p. 131 |
-| {{diɛɛmulen}} | noun (len) | tongue | [JOB.20.12](https://www.bible.com/bible/1394/JOB.20.12.BKG) |
-| {{hɔlaa}} | noun | face; (o … hɔl) before, in the presence of — *Southern Kissi (Childs 2000) :* face; also sky | [GEN.32.31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
-| {{hɔlla}} | noun | face — *Southern Kissi (Childs 2000) :* face; sky | [GEN.12.11](https://www.bible.com/bible/1394/GEN.12.11.BKG) |
-| {{hɔlten}}, pl. {{hɔltan}} | noun (len) | eye ; eye; (nɔ hɔlten … coo) watch over | [GEN.17.18](https://www.bible.com/bible/1394/GEN.17.18.BKG) |
+| {{diɛɛmulen}} | noun (len) | tongue | [Job 20:12](https://www.bible.com/bible/1394/JOB.20.12.BKG) |
+| {{hɔlaa}} | noun | face; (o … hɔl) before, in the presence of — *Southern Kissi (Childs 2000) :* face; also sky | [Gen 32:31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
+| {{hɔlla}} | noun | face — *Southern Kissi (Childs 2000) :* face; sky | [Gen 12:11](https://www.bible.com/bible/1394/GEN.12.11.BKG) |
+| {{hɔlten}}, pl. {{hɔltan}} | noun (len) | eye ; eye; (nɔ hɔlten … coo) watch over | [Gen 17:18](https://www.bible.com/bible/1394/GEN.17.18.BKG) |
 | {{kandoncindo\|r}} | noun (o) | gum (of the teeth) | Keita 1979, p. 131 |
-| {{koongoo}}, pl. {{koongolan}} | noun (o) | eyelid; hollow | [JER.52.21](https://www.bible.com/bible/1394/JER.52.21.BKG) |
-| {{kpannde}} | noun (i) | cheek; temple (Keita) — *Southern Kissi (Childs 2000) :* temple (upper cheek) | [LAM.3.30](https://www.bible.com/bible/1394/LAM.3.30.BKG) |
-| {{kuuvo}} | noun (o) | cheek — *Southern Kissi (Childs 2000) :* cheek, jaw | [ISA.24.20](https://www.bible.com/bible/1394/ISA.24.20.BKG) |
+| {{koongoo}}, pl. {{koongolan}} | noun (o) | eyelid; hollow | [Jer 52:21](https://www.bible.com/bible/1394/JER.52.21.BKG) |
+| {{kpannde}} | noun (i) | cheek; temple (Keita) — *Southern Kissi (Childs 2000) :* temple (upper cheek) | [Lam 3:30](https://www.bible.com/bible/1394/LAM.3.30.BKG) |
+| {{kuuvo}} | noun (o) | cheek — *Southern Kissi (Childs 2000) :* cheek, jaw | [Isa 24:20](https://www.bible.com/bible/1394/ISA.24.20.BKG) |
 | {{kɛmbɛi laboloei\|r}} | noun | Adam's apple | Keita 1979, p. 131 |
-| {{kɛsei}} | noun (i) | neck — *Southern Kissi (Childs 2000) :* neck; shoulder | [GEN.40.19](https://www.bible.com/bible/1394/GEN.40.19.BKG) |
-| {{milinndo}} | noun (o) | nose | [LEV.13.45](https://www.bible.com/bible/1394/LEV.13.45.BKG) |
-| {{mundoo}} | noun (o) | nape of the neck; back — *Southern Kissi (Childs 2000) :* nape of the neck | [EXO.33.23](https://www.bible.com/bible/1394/EXO.33.23.BKG) |
-| {{nilen}}, pl. {{nilan}} | noun (len) | ear | [GEN.12.19](https://www.bible.com/bible/1394/GEN.12.19.BKG) |
-| {{sondoo}} | noun (o) | mouth; entrance, gate — *Southern Kissi (Childs 2000) :* mouth; opening, hole | [GEN.3.24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
+| {{kɛsei}} | noun (i) | neck — *Southern Kissi (Childs 2000) :* neck; shoulder | [Gen 40:19](https://www.bible.com/bible/1394/GEN.40.19.BKG) |
+| {{milinndo}} | noun (o) | nose | [Lev 13:45](https://www.bible.com/bible/1394/LEV.13.45.BKG) |
+| {{mundoo}} | noun (o) | nape of the neck; back — *Southern Kissi (Childs 2000) :* nape of the neck | [Exod 33:23](https://www.bible.com/bible/1394/EXO.33.23.BKG) |
+| {{nilen}}, pl. {{nilan}} | noun (len) | ear | [Gen 12:19](https://www.bible.com/bible/1394/GEN.12.19.BKG) |
+| {{sondoo}} | noun (o) | mouth; entrance, gate — *Southern Kissi (Childs 2000) :* mouth; opening, hole | [Gen 3:24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
 | {{taayoo\|r}} | noun (o) | molar | Keita 1979, p. 132 |
-| {{tendei}} | noun (i) | forehead | [EXO.39.30](https://www.bible.com/bible/1394/EXO.39.30.BKG) |
+| {{tendei}} | noun (i) | forehead | [Exod 39:30](https://www.bible.com/bible/1394/EXO.39.30.BKG) |
 
 ### 2.1.2 Torso
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bololan}} | noun (lan) | neck, throat; (kialu … bololan) slaughter | [GEN.22.10](https://www.bible.com/bible/1394/GEN.22.10.BKG) |
-| {{caŋnda}} | noun | hip, loins — *Southern Kissi (Childs 2000) :* waist, lower belly | [GEN.18.20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
-| {{demboo}} | noun (o) | belly, stomach ; belly; womb | [LEV.11.42](https://www.bible.com/bible/1394/LEV.11.42.BKG) |
-| {{kɔɔ}} | noun | back | [GEN.18.21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
-| {{mundoo}} | noun (o) | nape of the neck; back — *Southern Kissi (Childs 2000) :* nape of the neck | [EXO.33.23](https://www.bible.com/bible/1394/EXO.33.23.BKG) |
-| {{mɛɛlen}} | noun (len) | breast — *Southern Kissi (Childs 2000) :* breast, breast milk; pus | [GEN.21.8](https://www.bible.com/bible/1394/GEN.21.8.BKG) |
+| {{bololan}} | noun (lan) | neck, throat; (kialu … bololan) slaughter | [Gen 22:10](https://www.bible.com/bible/1394/GEN.22.10.BKG) |
+| {{caŋnda}} | noun | hip, loins — *Southern Kissi (Childs 2000) :* waist, lower belly | [Gen 18:20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
+| {{demboo}} | noun (o) | belly, stomach ; belly; womb | [Lev 11:42](https://www.bible.com/bible/1394/LEV.11.42.BKG) |
+| {{kɔɔ}} | noun | back | [Gen 18:21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
+| {{mundoo}} | noun (o) | nape of the neck; back — *Southern Kissi (Childs 2000) :* nape of the neck | [Exod 33:23](https://www.bible.com/bible/1394/EXO.33.23.BKG) |
+| {{mɛɛlen}} | noun (len) | breast — *Southern Kissi (Childs 2000) :* breast, breast milk; pus | [Gen 21:8](https://www.bible.com/bible/1394/GEN.21.8.BKG) |
 | {{pulen\|r}} | noun (len) | navel; umbilical cord | Keita 1979, p. 132 |
-| {{takpaa}} | noun (o) | chest | [EXO.39.23](https://www.bible.com/bible/1394/EXO.39.23.BKG) |
-| {{vɔɔndo}} | noun (o) | armpit — *Southern Kissi (Childs 2000) :* armpit; bosom | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{takpaa}} | noun (o) | chest | [Exod 39:23](https://www.bible.com/bible/1394/EXO.39.23.BKG) |
+| {{vɔɔndo}} | noun (o) | armpit — *Southern Kissi (Childs 2000) :* armpit; bosom | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
 
 ### 2.1.3 Limb
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baa}}, pl. {{balan}} | noun (o) | hand, arm — *Southern Kissi (Childs 2000) :* hand, arm; also way, fork in a road | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{baa}}, pl. {{balan}} | noun (o) | hand, arm — *Southern Kissi (Childs 2000) :* hand, arm; also way, fork in a road | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{bakpeŋndo\|r}} | noun (o) | wrist | Keita 1979, p. 131 |
 | {{bakɔllo\|r}} | noun (o) | palm of the hand | Keita 1979, p. 131 |
-| {{balan}} | noun (lan) | hand(s) | [GEN.17.9](https://www.bible.com/bible/1394/GEN.17.9.BKG) |
+| {{balan}} | noun (lan) | hand(s) | [Gen 17:9](https://www.bible.com/bible/1394/GEN.17.9.BKG) |
 | {{balɔɔ\|?}} | noun | forearm (Keita); around, throughout (Bible) — *Southern Kissi (Childs 2000) :* wrist | Keita 1979, p. 131 |
-| {{bɔtáà}} | noun (o) | fist | [EXO.21.18](https://www.bible.com/bible/1394/EXO.21.18.BKG) |
-| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [JER.35.7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
-| {{congoo}}, pl. {{congulan}} | noun (o) | shoulder — *Southern Kissi (Childs 2000) :* shoulder, upper arm | [GEN.49.15](https://www.bible.com/bible/1394/GEN.49.15.BKG) |
+| {{bɔtáà}} | noun (o) | fist | [Exod 21:18](https://www.bible.com/bible/1394/EXO.21.18.BKG) |
+| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [Jer 35:7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
+| {{congoo}}, pl. {{congulan}} | noun (o) | shoulder — *Southern Kissi (Childs 2000) :* shoulder, upper arm | [Gen 49:15](https://www.bible.com/bible/1394/GEN.49.15.BKG) |
 | {{dulunndo\|r}} | noun (o) | elbow | Keita 1979, p. 131 |
 | {{kpelenkpelennde\|r}}, pl. {{kpelenkpelenndon\|r}} | noun (i) | ankle | Keita 1979, p. 132 |
-| {{lɔloo}}, pl. {{lɔlulan}} | noun (o) | thigh | [GEN.32.32](https://www.bible.com/bible/1394/GEN.32.32.BKG) |
-| {{lɔlu}} | noun | thigh | [GEN.24.2](https://www.bible.com/bible/1394/GEN.24.2.BKG) |
-| {{pelei}}, pl. {{pelon}} | noun (i) | foot, leg — *Southern Kissi (Childs 2000) :* back of the mouth, lower jaw | [GEN.41.44](https://www.bible.com/bible/1394/GEN.41.44.BKG) |
+| {{lɔloo}}, pl. {{lɔlulan}} | noun (o) | thigh | [Gen 32:32](https://www.bible.com/bible/1394/GEN.32.32.BKG) |
+| {{lɔlu}} | noun | thigh | [Gen 24:2](https://www.bible.com/bible/1394/GEN.24.2.BKG) |
+| {{pelei}}, pl. {{pelon}} | noun (i) | foot, leg — *Southern Kissi (Childs 2000) :* back of the mouth, lower jaw | [Gen 41:44](https://www.bible.com/bible/1394/GEN.41.44.BKG) |
 | {{peliiyolle\|r}} | noun (i) | calf (of the leg) | Keita 1979, p. 132 |
-| {{siɛndi}} | verb | stretch out (the hand) | [GEN.8.9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
-| {{suei}}, pl. {{suon}} | noun (i) | finger, toe | [GEN.24.30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
+| {{siɛndi}} | verb | stretch out (the hand) | [Gen 8:9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
+| {{suei}}, pl. {{suon}} | noun (i) | finger, toe | [Gen 24:30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
 | {{suei bawve\|r}} | noun | middle finger | Keita 1979, p. 132 |
 | {{suei bɛndiei\|r}} | noun | index finger | Keita 1979, p. 132 |
 | {{suei bɛndui}} | noun | thumb; big toe | Keita 1979, p. 132 |
 | {{suei lilɛi\|r}} | noun | ring finger | Keita 1979, p. 132 |
 | {{suei mɛɛlɛi\|r}} | noun | little finger | Keita 1979, p. 132 |
 | {{tɔndikɔɔliei\|r}}, pl. {{tɔndikɔɔlion\|r}} | noun (i) | tendon, hamstring | Keita 1979, p. 132 |
-| {{vulan}} | noun | knees — *Southern Kissi (Childs 2000) :* knee (singular, le class) | [GEN.17.3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
+| {{vulan}} | noun | knees — *Southern Kissi (Childs 2000) :* knee (singular, le class) | [Gen 17:3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
 | {{vulen\|r}}, pl. {{vulan\|r}} | noun (len) | knee | Keita 1979, p. 133 |
 | {{yɛmbɛi\|r}}, pl. {{yɛmbɛn\|r}} | noun (i) | nail, claw | Keita 1979, p. 133 |
 
@@ -442,14 +442,14 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yáwvo}} | noun (o) | skin — *Southern Kissi (Childs 2000) :* skin, hide; paper, book; learning | [GEN.25.29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
+| {{yáwvo}} | noun (o) | skin — *Southern Kissi (Childs 2000) :* skin, hide; paper, book; learning | [Gen 25:29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
 
 ### 2.1.5 Hair
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yiinde}} | noun (i) | hair; wool | [GEN.25.25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
-| {{yiiŋii}} | noun (i) | body hair, hair | [GEN.25.25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
+| {{yiinde}} | noun (i) | hair; wool | [Gen 25:25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
+| {{yiiŋii}} | noun (i) | body hair, hair | [Gen 25:25](https://www.bible.com/bible/1394/GEN.25.25.BKG) |
 | {{yiiŋii lakoongoei\|r}} | noun | eyelashes | Keita 1979, p. 133 |
 | {{yiiŋii lamilinde\|r}} | noun | moustache | Keita 1979, p. 133 |
 
@@ -460,32 +460,32 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{bakpeŋndo\|r}} | noun (o) | wrist | Keita 1979, p. 131 |
 | {{dulunndo\|r}} | noun (o) | elbow | Keita 1979, p. 131 |
 | {{kpelenkpelennde\|r}}, pl. {{kpelenkpelenndon\|r}} | noun (i) | ankle | Keita 1979, p. 132 |
-| {{kpɛndɛi}} | noun (i) | rib | [GEN.2.21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
+| {{kpɛndɛi}} | noun (i) | rib | [Gen 2:21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
 | {{kɛmbɛi kɔi\|r}} | noun | spine | Keita 1979, p. 131 |
-| {{paa}}, pl. {{paalan}} | noun (o) | bone — *Southern Kissi (Childs 2000) :* bone; also gambling tops | [GEN.2.23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{paa}}, pl. {{paalan}} | noun (o) | bone — *Southern Kissi (Childs 2000) :* bone; also gambling tops | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{yoovean\|r}} | noun (an) | synovial fluid | Keita 1979, p. 162 |
 
 ### 2.1.7 Flesh
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [GEN.28.18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
-| {{dialii}}, pl. {{diallon}} | noun (i) | limb, part of the body; flesh; (pl.) the body — *Southern Kissi (Childs 2000) :* body; also health, condition, skin | [GEN.2.23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [Gen 28:18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
+| {{dialii}}, pl. {{diallon}} | noun (i) | limb, part of the body; flesh; (pl.) the body — *Southern Kissi (Childs 2000) :* body; also health, condition, skin | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{tɔndikɔɔliei\|r}}, pl. {{tɔndikɔɔlion\|r}} | noun (i) | tendon, hamstring | Keita 1979, p. 132 |
-| {{visiei}} | noun (i) | flesh, meat — *Southern Kissi (Childs 2000) :* meat | [GEN.2.21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
+| {{visiei}} | noun (i) | flesh, meat — *Southern Kissi (Childs 2000) :* meat | [Gen 2:21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
 
 ### 2.1.8 Internal organs
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{demboo}} | noun (o) | belly, stomach ; belly; womb | [LEV.11.42](https://www.bible.com/bible/1394/LEV.11.42.BKG) |
+| {{demboo}} | noun (o) | belly, stomach ; belly; womb | [Lev 11:42](https://www.bible.com/bible/1394/LEV.11.42.BKG) |
 | {{fɔyɔnnde\|r}} | noun (i) | lung | Keita 1979, p. 131 |
 | {{hullan\|r}} | noun (lan) | brain | Keita 1979, p. 131 |
 | {{hulma pɔmbɔan\|r}} | noun | brains (soft matter) | Keita 1979, p. 131 |
 | {{kɔlkelle\|r}}, pl. {{kɔlkelon\|r}} | noun (i) | kidney | Keita 1979, p. 131 |
-| {{kɔllo}}, pl. {{kɔltan}} | noun (o) | heart ; heart; spirit, inner self — *Southern Kissi (Childs 2000) :* heart; seat of the feelings, mind, soul | [GEN.21.11](https://www.bible.com/bible/1394/GEN.21.11.BKG) |
+| {{kɔllo}}, pl. {{kɔltan}} | noun (o) | heart ; heart; spirit, inner self — *Southern Kissi (Childs 2000) :* heart; seat of the feelings, mind, soul | [Gen 21:11](https://www.bible.com/bible/1394/GEN.21.11.BKG) |
 | {{malalɛi\|?}} | noun (i) | pancreas (Keita) | Keita 1979, p. 132 |
-| {{yemnde}} | noun (i) | liver | [EXO.29.13](https://www.bible.com/bible/1394/EXO.29.13.BKG) |
+| {{yemnde}} | noun (i) | liver | [Exod 29:13](https://www.bible.com/bible/1394/EXO.29.13.BKG) |
 
 ### 2.2 Body functions
 
@@ -493,20 +493,20 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{hilihiliei\|r}} | noun (i) | hiccup — *Southern Kissi (Childs 2000) :* to hiccup; to sob | Keita 1979, p. 161 |
 | {{kuusuo\|r}} | verb | vomit — *Southern Kissi (Childs 2000) :* vomit, retch | Keita 1979, p. 110 |
-| {{mɛmɛan}} | noun (an) | tears | [2SA.13.36](https://www.bible.com/bible/1394/2SA.13.36.BKG) |
+| {{mɛmɛan}} | noun (an) | tears | [2 Sam 13:36](https://www.bible.com/bible/1394/2SA.13.36.BKG) |
 
 ### 2.2.1 Breathe, breath
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hoeyii}} | noun (i) | wind; breath — *Southern Kissi (Childs 2000) :* cold wind, cold season; fever | [GEN.2.7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
-| {{yoomuo}} | verb | breathe, live; survive | [2KI.19.30](https://www.bible.com/bible/1394/2KI.19.30.BKG) |
+| {{hoeyii}} | noun (i) | wind; breath — *Southern Kissi (Childs 2000) :* cold wind, cold season; fever | [Gen 2:7](https://www.bible.com/bible/1394/GEN.2.7.BKG) |
+| {{yoomuo}} | verb | breathe, live; survive | [2 Kgs 19:30](https://www.bible.com/bible/1394/2KI.19.30.BKG) |
 
 ### 2.2.3 Spit, saliva
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lɔluan}} | noun (an) | saliva, spittle | [LEV.15.8](https://www.bible.com/bible/1394/LEV.15.8.BKG) |
+| {{lɔluan}} | noun (an) | saliva, spittle | [Lev 15:8](https://www.bible.com/bible/1394/LEV.15.8.BKG) |
 
 ### 2.2.4 Mucus
 
@@ -518,13 +518,13 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{koovan}} | noun (an) | blood — *Southern Kissi (Childs 2000) :* blood; potion | [GEN.9.4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{koovan}} | noun (an) | blood — *Southern Kissi (Childs 2000) :* blood; potion | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
 
 ### 2.2.6 Sweat
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lalle}} | noun (i) | sweat | [GEN.3.19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
+| {{lalle}} | noun (i) | sweat | [Gen 3:19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
 
 ### 2.2.7 Urinate, urine
 
@@ -542,123 +542,123 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biɔŋɔɔ}} | verb | blink; blink of an eye — *Southern Kissi (Childs 2000) :* sting; blink | [JER.4.20](https://www.bible.com/bible/1394/JER.4.20.BKG) |
-| {{cɔmnun}} | verb | appear, show oneself | [GEN.12.7](https://www.bible.com/bible/1394/GEN.12.7.BKG) |
-| {{cɔu}} | verb | see — *Southern Kissi (Childs 2000) :* see, perceive, think | [GEN.2.19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{hɔlten}}, pl. {{hɔltan}} | noun (len) | eye ; eye; (nɔ hɔlten … coo) watch over | [GEN.17.18](https://www.bible.com/bible/1394/GEN.17.18.BKG) |
-| {{komal}} | verb | find, come upon; see | [GEN.9.22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
-| {{mɛngɛlaa}} | noun | lookout, watch | [NUM.23.14](https://www.bible.com/bible/1394/NUM.23.14.BKG) |
-| {{mɛɛndianndo}} | verb | look around, examine, observe — *Southern Kissi (Childs 2000) :* plural of mèèndăŋndɔ́ 'look into': look around, ponder, scrutinize | [LEV.13.11](https://www.bible.com/bible/1394/LEV.13.11.BKG) |
+| {{biɔŋɔɔ}} | verb | blink; blink of an eye — *Southern Kissi (Childs 2000) :* sting; blink | [Jer 4:20](https://www.bible.com/bible/1394/JER.4.20.BKG) |
+| {{cɔmnun}} | verb | appear, show oneself | [Gen 12:7](https://www.bible.com/bible/1394/GEN.12.7.BKG) |
+| {{cɔu}} | verb | see — *Southern Kissi (Childs 2000) :* see, perceive, think | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{hɔlten}}, pl. {{hɔltan}} | noun (len) | eye ; eye; (nɔ hɔlten … coo) watch over | [Gen 17:18](https://www.bible.com/bible/1394/GEN.17.18.BKG) |
+| {{komal}} | verb | find, come upon; see | [Gen 9:22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
+| {{mɛngɛlaa}} | noun | lookout, watch | [Num 23:14](https://www.bible.com/bible/1394/NUM.23.14.BKG) |
+| {{mɛɛndianndo}} | verb | look around, examine, observe — *Southern Kissi (Childs 2000) :* plural of mèèndăŋndɔ́ 'look into': look around, ponder, scrutinize | [Lev 13:11](https://www.bible.com/bible/1394/LEV.13.11.BKG) |
 | {{nuaa\|?}} | verb | look — *Southern Kissi (Childs 2000) :* look at, observe | Keita 1979, p. 114 |
 | {{nuannɔnndo\|r}} | verb | look at oneself | Keita 1979, p. 114 |
 | {{nuufaa\|r}} | verb | look — *Southern Kissi (Childs 2000) :* look for, search | Keita 1979, p. 113 |
-| {{tofaa}} | verb | look at, see — *Southern Kissi (Childs 2000) :* also: inspect, taste, search, find out | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{tofan}} | verb | look back; look to — *Southern Kissi (Childs 2000) :* look at oneself (in a mirror) | [GEN.19.17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
-| {{tofanndo}}, pl. {{tofanndan}} | noun (o) | mirror; looking | [JOS.8.20](https://www.bible.com/bible/1394/JOS.8.20.BKG) |
+| {{tofaa}} | verb | look at, see — *Southern Kissi (Childs 2000) :* also: inspect, taste, search, find out | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{tofan}} | verb | look back; look to — *Southern Kissi (Childs 2000) :* look at oneself (in a mirror) | [Gen 19:17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
+| {{tofanndo}}, pl. {{tofanndan}} | noun (o) | mirror; looking | [Josh 8:20](https://www.bible.com/bible/1394/JOS.8.20.BKG) |
 
 ### 2.3.2 Hear
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [GEN.17.14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
-| {{diomndo}}, pl. {{diomndan}} | noun (o) | voice, sound; word; language — *Southern Kissi (Childs 2000) :* voice, word; also advice, answer, promise; abuse | [GEN.27.22](https://www.bible.com/bible/1394/GEN.27.22.BKG) |
-| {{kpélén}} | ideophone | loudly (cry, weep) — *Southern Kissi (Childs 2000) :* loudly, clearly | [GEN.27.38](https://www.bible.com/bible/1394/GEN.27.38.BKG) |
-| {{tueyɔɔ}} | verb | hear, listen; learn (news) — *Southern Kissi (Childs 2000) :* also: understand; sense, perceive, smell | [GEN.3.10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
-| {{yaŋnun}} | verb | listen to, heed | [EXO.6.12](https://www.bible.com/bible/1394/EXO.6.12.BKG) |
-| {{yaŋɔɔ}} | verb | lend (an ear), listen (yaŋ nilan) — *Southern Kissi (Childs 2000) :* set a trap; prick up one's ears, listen carefully | [GEN.18.10](https://www.bible.com/bible/1394/GEN.18.10.BKG) |
-| {{yeŋ}} | verb | refuse (to listen), disobey (yeŋ … lani) | [GEN.42.21](https://www.bible.com/bible/1394/GEN.42.21.BKG) |
+| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [Gen 17:14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
+| {{diomndo}}, pl. {{diomndan}} | noun (o) | voice, sound; word; language — *Southern Kissi (Childs 2000) :* voice, word; also advice, answer, promise; abuse | [Gen 27:22](https://www.bible.com/bible/1394/GEN.27.22.BKG) |
+| {{kpélén}} | ideophone | loudly (cry, weep) — *Southern Kissi (Childs 2000) :* loudly, clearly | [Gen 27:38](https://www.bible.com/bible/1394/GEN.27.38.BKG) |
+| {{tueyɔɔ}} | verb | hear, listen; learn (news) — *Southern Kissi (Childs 2000) :* also: understand; sense, perceive, smell | [Gen 3:10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
+| {{yaŋnun}} | verb | listen to, heed | [Exod 6:12](https://www.bible.com/bible/1394/EXO.6.12.BKG) |
+| {{yaŋɔɔ}} | verb | lend (an ear), listen (yaŋ nilan) — *Southern Kissi (Childs 2000) :* set a trap; prick up one's ears, listen carefully | [Gen 18:10](https://www.bible.com/bible/1394/GEN.18.10.BKG) |
+| {{yeŋ}} | verb | refuse (to listen), disobey (yeŋ … lani) | [Gen 42:21](https://www.bible.com/bible/1394/GEN.42.21.BKG) |
 
 ### 2.3.3 Taste
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yeela}} | adjective | good, pleasant (to eat) — *Southern Kissi (Childs 2000) :* be enjoyable, tasty, sweet; (of talk) interesting | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{yeela}} | adjective | good, pleasant (to eat) — *Southern Kissi (Childs 2000) :* be enjoyable, tasty, sweet; (of talk) interesting | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
 
 ### 2.3.4 Smell
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cun}} | noun | smell; (cun kɛndɛ) fragrance — *Southern Kissi (Childs 2000) :* smelly; smell of, stink | [GEN.8.21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| {{cun}} | noun | smell; (cun kɛndɛ) fragrance — *Southern Kissi (Childs 2000) :* smelly; smell of, stink | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
 
 ### 2.3.5 Sense of touch
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pilanndo}} | verb | touch | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{pilanndo}} | verb | touch | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 
 ### 2.4.1 Strong
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kindi}} | verb | harden; make strong — *Southern Kissi (Childs 2000) :* complicate, make difficult; roast rice to dry it | [EXO.7.3](https://www.bible.com/bible/1394/EXO.7.3.BKG) |
-| {{kindu}} | adjective | strong, firm; (neg.) weak — *Southern Kissi (Childs 2000) :* be hard; be ripe | [GEN.33.13](https://www.bible.com/bible/1394/GEN.33.13.BKG) |
-| {{kpaayaa}} | noun (o) | strength, power | [GEN.14.20](https://www.bible.com/bible/1394/GEN.14.20.BKG) |
-| {{mayoomoo}} | adjective | strong, mighty; fortified; (mayoomu) strength | [EXO.32.11](https://www.bible.com/bible/1394/EXO.32.11.BKG) |
-| {{nɔlaa}} | verb | can, be able to — *Southern Kissi (Childs 2000) :* be able, can; overcome (someone) | [JDG.16.19](https://www.bible.com/bible/1394/JDG.16.19.BKG) |
-| {{yoomuan}} | noun (an) | strength, vigour; courage — *Southern Kissi (Childs 2000) :* power, strength | [GEN.18.5](https://www.bible.com/bible/1394/GEN.18.5.BKG) |
+| {{kindi}} | verb | harden; make strong — *Southern Kissi (Childs 2000) :* complicate, make difficult; roast rice to dry it | [Exod 7:3](https://www.bible.com/bible/1394/EXO.7.3.BKG) |
+| {{kindu}} | adjective | strong, firm; (neg.) weak — *Southern Kissi (Childs 2000) :* be hard; be ripe | [Gen 33:13](https://www.bible.com/bible/1394/GEN.33.13.BKG) |
+| {{kpaayaa}} | noun (o) | strength, power | [Gen 14:20](https://www.bible.com/bible/1394/GEN.14.20.BKG) |
+| {{mayoomoo}} | adjective | strong, mighty; fortified; (mayoomu) strength | [Exod 32:11](https://www.bible.com/bible/1394/EXO.32.11.BKG) |
+| {{nɔlaa}} | verb | can, be able to — *Southern Kissi (Childs 2000) :* be able, can; overcome (someone) | [Judg 16:19](https://www.bible.com/bible/1394/JDG.16.19.BKG) |
+| {{yoomuan}} | noun (an) | strength, vigour; courage — *Southern Kissi (Childs 2000) :* power, strength | [Gen 18:5](https://www.bible.com/bible/1394/GEN.18.5.BKG) |
 
 ### 2.4.4 Tired
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{sangaa}} | verb | be tired, toil | [GEN.3.17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{sanganndo}} | verb | tire oneself, labour | [PSA.127.1](https://www.bible.com/bible/1394/PSA.127.1.BKG) |
+| {{sangaa}} | verb | be tired, toil | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{sanganndo}} | verb | tire oneself, labour | [Ps 127:1](https://www.bible.com/bible/1394/PSA.127.1.BKG) |
 | {{sangiaa\|r}} | verb | tire, make toil | Keita 1979, p. 113 |
 
 ### 2.4.5 Rest
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{connun}} | verb | be well; be at rest | [GEN.43.28](https://www.bible.com/bible/1394/GEN.43.28.BKG) |
-| {{pɛngiaalen}} | noun (len) | rest; (paale pɛngiaalen) sabbath day | [GEN.2.3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
-| {{pɛngio}} | verb | rest; cease ; rest; stop, cease — *Southern Kissi (Childs 2000) :* stop an activity, rest | [GEN.24.11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
+| {{connun}} | verb | be well; be at rest | [Gen 43:28](https://www.bible.com/bible/1394/GEN.43.28.BKG) |
+| {{pɛngiaalen}} | noun (len) | rest; (paale pɛngiaalen) sabbath day | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
+| {{pɛngio}} | verb | rest; cease ; rest; stop, cease — *Southern Kissi (Childs 2000) :* stop an activity, rest | [Gen 24:11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
 
 ### 2.5 Healthy
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{connun}} | verb | be well; be at rest | [GEN.43.28](https://www.bible.com/bible/1394/GEN.43.28.BKG) |
-| {{siangu}} | verb | get well, recover | [JOS.5.8](https://www.bible.com/bible/1394/JOS.5.8.BKG) |
+| {{connun}} | verb | be well; be at rest | [Gen 43:28](https://www.bible.com/bible/1394/GEN.43.28.BKG) |
+| {{siangu}} | verb | get well, recover | [Josh 5:8](https://www.bible.com/bible/1394/JOS.5.8.BKG) |
 
 ### 2.5.1 Sick
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{nàà}}, pl. {{naalan}} | noun (o) | illness, disease | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{nàà}}, pl. {{naalan}} | noun (o) | illness, disease | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 
 ### 2.5.2 Disease
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bombosoo\|r}} | noun (o) | smallpox | Keita 1979, p. 161 |
-| {{bondokpaa}} | noun (o) | haemorrhoids, tumours | [1SA.5.6](https://www.bible.com/bible/1394/1SA.5.6.BKG) |
+| {{bondokpaa}} | noun (o) | haemorrhoids, tumours | [1 Sam 5:6](https://www.bible.com/bible/1394/1SA.5.6.BKG) |
 | {{bɔgaa\|r}} | noun (o) | jaundice | Keita 1979, p. 161 |
 | {{dɛɛluo\|r}} | noun (o) | (intestinal) worm | Keita 1979, p. 161 |
 | {{fondeiyo\|r}} | noun (o) | bronchitis | Keita 1979, p. 161 |
 | {{foo\|r}} | noun (o) | goitre | Keita 1979, p. 161 |
-| {{fɛlɔɔ}} | noun (o) | measles | [1CO.10.13](https://www.bible.com/bible/1394/1CO.10.13.BKG) |
-| {{halimaa}} | noun | epidemic, pestilence (nàà halimaa) | [EXO.9](https://www.bible.com/bible/1394/EXO.9.BKG) |
-| {{hindɔɔ}} | noun (o) | boil; growth, growing — *Southern Kissi (Childs 2000) :* boil, swelling, lump, sore; growing up, coming to maturity | [EXO.10.5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
-| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [GEN.7.22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{fɛlɔɔ}} | noun (o) | measles | [1 Cor 10:13](https://www.bible.com/bible/1394/1CO.10.13.BKG) |
+| {{halimaa}} | noun | epidemic, pestilence (nàà halimaa) | [Exod 9](https://www.bible.com/bible/1394/EXO.9.BKG) |
+| {{hindɔɔ}} | noun (o) | boil; growth, growing — *Southern Kissi (Childs 2000) :* boil, swelling, lump, sore; growing up, coming to maturity | [Exod 10:5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
+| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
 | {{huinden\|r}} | noun (len) | scabies | Keita 1979, p. 161 |
 | {{kelekeloo\|r}} | noun (o) | whooping cough | Keita 1979, p. 161 |
-| {{kikiɲaa}} | noun (o) | epilepsy — *Southern Kissi (Childs 2000) :* malaria | [MAT.4.24](https://www.bible.com/bible/1394/MAT.4.24.BKG) |
+| {{kikiɲaa}} | noun (o) | epilepsy — *Southern Kissi (Childs 2000) :* malaria | [Matt 4:24](https://www.bible.com/bible/1394/MAT.4.24.BKG) |
 | {{koo\|?}} | noun (o) | scrotal hernia | Keita 1979, p. 161 |
-| {{kpasamaa}} | noun (o) | kind of skin disease | [DEU.28.22](https://www.bible.com/bible/1394/DEU.28.22.BKG) |
+| {{kpasamaa}} | noun (o) | kind of skin disease | [Deut 28:22](https://www.bible.com/bible/1394/DEU.28.22.BKG) |
 | {{kpekaa\|r}} | noun (o) | tuberculosis | Keita 1979, p. 161 |
-| {{kpundɛ}}, pl. {{kpundɛlan}} | noun | plague, calamity — *Southern Kissi (Childs 2000) :* trouble, mishap, misfortune | [GEN.9.11](https://www.bible.com/bible/1394/GEN.9.11.BKG) |
+| {{kpundɛ}}, pl. {{kpundɛlan}} | noun | plague, calamity — *Southern Kissi (Childs 2000) :* trouble, mishap, misfortune | [Gen 9:11](https://www.bible.com/bible/1394/GEN.9.11.BKG) |
 | {{kuupepelan\|r}} | noun (lan) | mumps | Keita 1979, p. 161 |
-| {{kɔɔsinaa}} | noun (o) | genital discharge, gonorrhoea | [LEV.15.2](https://www.bible.com/bible/1394/LEV.15.2.BKG) |
+| {{kɔɔsinaa}} | noun (o) | genital discharge, gonorrhoea | [Lev 15:2](https://www.bible.com/bible/1394/LEV.15.2.BKG) |
 | {{lovɛi\|r}} | noun (i) | strangulated hernia — *Southern Kissi (Childs 2000) :* hernia | Keita 1979, p. 161 |
 | {{lɛlɔn\|r}} | noun | leprosy | Keita 1979, p. 161 |
-| {{nàà}}, pl. {{naalan}} | noun (o) | illness, disease | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{nàà}}, pl. {{naalan}} | noun (o) | illness, disease | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 | {{nàà ciŋnde\|r}} | noun | toothache | Keita 1979, p. 161 |
 | {{nàà dembe}} | noun | stomach ache, bowel disease | Keita 1979, p. 161 |
 | {{nàà malɔɔ\|?}} | noun | sleeping sickness | Keita 1979, p. 161 |
 | {{nàà siaŋaa}} | noun | leprosy | Keita 1979, p. 161 |
 | {{paw pulen\|r}} | noun | ulcer | Keita 1979, p. 162 |
-| {{seemaa}} | noun (o) | madness, folly — *Southern Kissi (Childs 2000) :* to act crazy (verb) | [PRO.17.12](https://www.bible.com/bible/1394/PRO.17.12.BKG) |
-| {{tɛ̀ɛ̀ndo}} | noun (o) | scalp ringworm, scall — *Southern Kissi (Childs 2000) :* ringworm | [EXO.11.4](https://www.bible.com/bible/1394/EXO.11.4.BKG) |
+| {{seemaa}} | noun (o) | madness, folly — *Southern Kissi (Childs 2000) :* to act crazy (verb) | [Prov 17:12](https://www.bible.com/bible/1394/PRO.17.12.BKG) |
+| {{tɛ̀ɛ̀ndo}} | noun (o) | scalp ringworm, scall — *Southern Kissi (Childs 2000) :* ringworm | [Exod 11:4](https://www.bible.com/bible/1394/EXO.11.4.BKG) |
 
 ### 2.5.3 Injure
 
@@ -668,39 +668,39 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{bolinndo\|r}} | verb | hurt oneself | Keita 1979, p. 110 |
 | {{bolio\|r}} | verb | wound, injure | Keita 1979, p. 110 |
 | {{paa yomɛiyo\|r}} | noun | fracture | Keita 1979, p. 162 |
-| {{pawvo}} | noun (o) | sore, wound — *Southern Kissi (Childs 2000) :* sore, abrasion, cut, wound | [LEV.13.3](https://www.bible.com/bible/1394/LEV.13.3.BKG) |
+| {{pawvo}} | noun (o) | sore, wound — *Southern Kissi (Childs 2000) :* sore, abrasion, cut, wound | [Lev 13:3](https://www.bible.com/bible/1394/LEV.13.3.BKG) |
 | {{voosanndo\|r}} | noun (o) | sprain | Keita 1979, p. 162 |
-| {{yɔŋul}} | verb | injure, harm, wound — *Southern Kissi (Childs 2000) :* poison, wound, harm | [LEV.24.19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
+| {{yɔŋul}} | verb | injure, harm, wound — *Southern Kissi (Childs 2000) :* poison, wound, harm | [Lev 24:19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
 
 ### 2.5.4 Disabled
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bobɔnɔɔ\|r}} | noun (o) | mute person — *Southern Kissi (Childs 2000) :* deaf-mute person | Keita 1979, p. 161 |
-| {{lenamta}} | noun | blemish, defect (nɔ lenamta loo 'without blemish') — *Southern Kissi (Childs 2000) :* a crippled or handicapped person | [EXO.12.5](https://www.bible.com/bible/1394/EXO.12.5.BKG) |
+| {{lenamta}} | noun | blemish, defect (nɔ lenamta loo 'without blemish') — *Southern Kissi (Childs 2000) :* a crippled or handicapped person | [Exod 12:5](https://www.bible.com/bible/1394/EXO.12.5.BKG) |
 | {{mɔikpɛnɛnɔɔ\|r}} | noun (o) | albino | Keita 1979, p. 161 |
-| {{namtalen}} | noun (len) | physical defect, infirmity; paralysis — *Southern Kissi (Childs 2000) :* crippled or handicapped person | [LEV.22.25](https://www.bible.com/bible/1394/LEV.22.25.BKG) |
-| {{sumɛiyo}}, pl. {{sumɛiya}} | adjective | blind | [LEV.19.14](https://www.bible.com/bible/1394/LEV.19.14.BKG) |
-| {{suumiaa}} | verb | strike blind | [GEN.19.11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
+| {{namtalen}} | noun (len) | physical defect, infirmity; paralysis — *Southern Kissi (Childs 2000) :* crippled or handicapped person | [Lev 22:25](https://www.bible.com/bible/1394/LEV.22.25.BKG) |
+| {{sumɛiyo}}, pl. {{sumɛiya}} | adjective | blind | [Lev 19:14](https://www.bible.com/bible/1394/LEV.19.14.BKG) |
+| {{suumiaa}} | verb | strike blind | [Gen 19:11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
 | {{vana tambɛiyo\|r}} | noun | disabled person, cripple — *Southern Kissi (Childs 2000) :* poverty | Keita 1979, p. 149 |
 
 ### 2.5.6 Symptom of disease
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpukpuei}} | noun (i) | swelling, lump | [LEV.13.2](https://www.bible.com/bible/1394/LEV.13.2.BKG) |
-| {{kɔlfulaa}} | noun (o) | anger, rage; palpitations | [EST.1.12](https://www.bible.com/bible/1394/EST.1.12.BKG) |
-| {{sɔŋndo}}, pl. {{sɔŋnda}} | noun | sore, (leprous) spot | [LEV.13.2](https://www.bible.com/bible/1394/LEV.13.2.BKG) |
+| {{kpukpuei}} | noun (i) | swelling, lump | [Lev 13:2](https://www.bible.com/bible/1394/LEV.13.2.BKG) |
+| {{kɔlfulaa}} | noun (o) | anger, rage; palpitations | [Esth 1:12](https://www.bible.com/bible/1394/EST.1.12.BKG) |
+| {{sɔŋndo}}, pl. {{sɔŋnda}} | noun | sore, (leprous) spot | [Lev 13:2](https://www.bible.com/bible/1394/LEV.13.2.BKG) |
 
 ### 2.5.7 Treat disease
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dɔtɔlɔnɔɔ}}, pl. {{dɔtɔlɔa}} | noun (o) | doctor | [LUK.5.31](https://www.bible.com/bible/1394/LUK.5.31.BKG) |
+| {{dɔtɔlɔnɔɔ}}, pl. {{dɔtɔlɔa}} | noun (o) | doctor | [Luke 5:31](https://www.bible.com/bible/1394/LUK.5.31.BKG) |
 | {{foenɔɔ\|r}} | noun (o) | doctor, healer | Keita 1979, p. 161 |
 | {{koovaa\|?}} | noun (o) | medicines (Keita) | Keita 1979, p. 161 |
-| {{singio}} | verb | heal | [2KI.5.7](https://www.bible.com/bible/1394/2KI.5.7.BKG) |
-| {{siongɔɔ}} | verb | heal — *Southern Kissi (Childs 2000) :* heal, cure | [EXO.15.26](https://www.bible.com/bible/1394/EXO.15.26.BKG) |
+| {{singio}} | verb | heal | [2 Kgs 5:7](https://www.bible.com/bible/1394/2KI.5.7.BKG) |
+| {{siongɔɔ}} | verb | heal — *Southern Kissi (Childs 2000) :* heal, cure | [Exod 15:26](https://www.bible.com/bible/1394/EXO.15.26.BKG) |
 | {{sokonɔɔ\|r}} | noun (o) | healer, doctor — *Southern Kissi (Childs 2000) :* herbalist, traditional healer, shaman | Keita 1979, p. 145 |
 | {{tɛndanɔɔ\|r}} | noun (o) | surgeon | Keita 1979, p. 145 |
 
@@ -708,95 +708,95 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cindaa}} | noun (o) | life; salvation — *Southern Kissi (Childs 2000) :* (verb) wean; remain alive, survive; rescue | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{kiyɛiyo}} | adjective | living, alive; green, fresh — *Southern Kissi (Childs 2000) :* uncooked, fresh | [GEN.1.12](https://www.bible.com/bible/1394/GEN.1.12.BKG) |
-| {{tendul}} | verb | rise again, revive — *Southern Kissi (Childs 2000) :* get up, arise | [GEN.45.27](https://www.bible.com/bible/1394/GEN.45.27.BKG) |
-| {{yoomaa}} | adjective | living, alive — *Southern Kissi (Childs 2000) :* live, breathe (verb) | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{yoomoo}} | noun (o) | life, soul — *Southern Kissi (Childs 2000) :* life, breath | [GEN.3.20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
-| {{yoomuo}} | verb | breathe, live; survive | [2KI.19.30](https://www.bible.com/bible/1394/2KI.19.30.BKG) |
+| {{cindaa}} | noun (o) | life; salvation — *Southern Kissi (Childs 2000) :* (verb) wean; remain alive, survive; rescue | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{kiyɛiyo}} | adjective | living, alive; green, fresh — *Southern Kissi (Childs 2000) :* uncooked, fresh | [Gen 1:12](https://www.bible.com/bible/1394/GEN.1.12.BKG) |
+| {{tendul}} | verb | rise again, revive — *Southern Kissi (Childs 2000) :* get up, arise | [Gen 45:27](https://www.bible.com/bible/1394/GEN.45.27.BKG) |
+| {{yoomaa}} | adjective | living, alive — *Southern Kissi (Childs 2000) :* live, breathe (verb) | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{yoomoo}} | noun (o) | life, soul — *Southern Kissi (Childs 2000) :* life, breath | [Gen 3:20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
+| {{yoomuo}} | verb | breathe, live; survive | [2 Kgs 19:30](https://www.bible.com/bible/1394/2KI.19.30.BKG) |
 
 ### 2.6.1 Marriage
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lanɔɔ}}, pl. {{laandua}} | noun (o) | wife — *Southern Kissi (Childs 2000) :* woman, wife | [GEN.11.29](https://www.bible.com/bible/1394/GEN.11.29.BKG) |
-| {{nɔ̀u}} | noun | marriage, being a wife; (o nɔ̀u) married — *Southern Kissi (Childs 2000) :* marriage; agreement | [GEN.20.3](https://www.bible.com/bible/1394/GEN.20.3.BKG) |
+| {{lanɔɔ}}, pl. {{laandua}} | noun (o) | wife — *Southern Kissi (Childs 2000) :* woman, wife | [Gen 11:29](https://www.bible.com/bible/1394/GEN.11.29.BKG) |
+| {{nɔ̀u}} | noun | marriage, being a wife; (o nɔ̀u) married — *Southern Kissi (Childs 2000) :* marriage; agreement | [Gen 20:3](https://www.bible.com/bible/1394/GEN.20.3.BKG) |
 | {{nɔw\|r}} | noun | marriage — *Southern Kissi (Childs 2000) :* marriage; agreement | Keita 1979, p. 148 |
-| {{pɔnɔɔ}} | noun (o) | husband | [EXO.21.22](https://www.bible.com/bible/1394/EXO.21.22.BKG) |
-| {{sámáá}} | noun | concubine | [DEU.23.3](https://www.bible.com/bible/1394/DEU.23.3.BKG) |
+| {{pɔnɔɔ}} | noun (o) | husband | [Exod 21:22](https://www.bible.com/bible/1394/EXO.21.22.BKG) |
+| {{sámáá}} | noun | concubine | [Deut 23:3](https://www.bible.com/bible/1394/DEU.23.3.BKG) |
 | {{yembuo\|r}} | noun (o) | unmarried person — *Southern Kissi (Childs 2000) :* unmarried adult | Keita 1979, p. 134 |
-| {{yilɔɔ}} | verb | greet; marry (a wife) — *Southern Kissi (Childs 2000) :* greet or salute | [GEN.24.7](https://www.bible.com/bible/1394/GEN.24.7.BKG) |
+| {{yilɔɔ}} | verb | greet; marry (a wife) — *Southern Kissi (Childs 2000) :* greet or salute | [Gen 24:7](https://www.bible.com/bible/1394/GEN.24.7.BKG) |
 
 ### 2.6.2 Sexual relations
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{suundaa}} | noun (o) | adultery, prostitution — *Southern Kissi (Childs 2000) :* to fornicate (verb) | [LEV.21.9](https://www.bible.com/bible/1394/LEV.21.9.BKG) |
-| {{suundɛiyo}} | adjective | immoral; (vanalanɔ suundɛiyo) prostitute | [GEN.38.15](https://www.bible.com/bible/1394/GEN.38.15.BKG) |
+| {{suundaa}} | noun (o) | adultery, prostitution — *Southern Kissi (Childs 2000) :* to fornicate (verb) | [Lev 21:9](https://www.bible.com/bible/1394/LEV.21.9.BKG) |
+| {{suundɛiyo}} | adjective | immoral; (vanalanɔ suundɛiyo) prostitute | [Gen 38:15](https://www.bible.com/bible/1394/GEN.38.15.BKG) |
 
 ### 2.6.3 Birth
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlɛkpɛ}}, pl. {{cɛlɛkpɛa}} | noun | newborn, baby — *Southern Kissi (Childs 2000) :* newborn boy | [EXO.1.16](https://www.bible.com/bible/1394/EXO.1.16.BKG) |
-| {{folio}} | noun (o) | pregnancy — *Southern Kissi (Childs 2000) :* pregnancy; also crab's shell | [GEN.3.16](https://www.bible.com/bible/1394/GEN.3.16.BKG) |
-| {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | noun (o) | child, offspring | [GEN.4.1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
-| {{ipulu}} | noun | offspring; (naŋ ipúlú) be fruitful | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{cɛlɛkpɛ}}, pl. {{cɛlɛkpɛa}} | noun | newborn, baby — *Southern Kissi (Childs 2000) :* newborn boy | [Exod 1:16](https://www.bible.com/bible/1394/EXO.1.16.BKG) |
+| {{folio}} | noun (o) | pregnancy — *Southern Kissi (Childs 2000) :* pregnancy; also crab's shell | [Gen 3:16](https://www.bible.com/bible/1394/GEN.3.16.BKG) |
+| {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | noun (o) | child, offspring | [Gen 4:1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
+| {{ipulu}} | noun | offspring; (naŋ ipúlú) be fruitful | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
 | {{miɔw\|r}} | verb | be due (pregnancy) | Keita 1979, p. 115 |
-| {{pɛndunɔɔ}}, pl. {{pɛndua}} | noun (o) | twin | [GEN.38.28](https://www.bible.com/bible/1394/GEN.38.28.BKG) |
-| {{velu}} | verb | beget, father — *Southern Kissi (Childs 2000) :* bear, give birth, be born; resemble (the stem wélù is used of a father siring) | [GEN.5.4](https://www.bible.com/bible/1394/GEN.5.4.BKG) |
-| {{velun}} | verb | be born | [GEN.11.28](https://www.bible.com/bible/1394/GEN.11.28.BKG) |
-| {{vilul}} | verb | bear (a child) to someone — *Southern Kissi (Childs 2000) :* deliver (a child) for someone, as a midwife | [GEN.4.21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
-| {{violɔɔ}} | verb | give birth — *Southern Kissi (Childs 2000) :* bear (a child) | [GEN.6.1](https://www.bible.com/bible/1394/GEN.6.1.BKG) |
+| {{pɛndunɔɔ}}, pl. {{pɛndua}} | noun (o) | twin | [Gen 38:28](https://www.bible.com/bible/1394/GEN.38.28.BKG) |
+| {{velu}} | verb | beget, father — *Southern Kissi (Childs 2000) :* bear, give birth, be born; resemble (the stem wélù is used of a father siring) | [Gen 5:4](https://www.bible.com/bible/1394/GEN.5.4.BKG) |
+| {{velun}} | verb | be born | [Gen 11:28](https://www.bible.com/bible/1394/GEN.11.28.BKG) |
+| {{vilul}} | verb | bear (a child) to someone — *Southern Kissi (Childs 2000) :* deliver (a child) for someone, as a midwife | [Gen 4:21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
+| {{violɔɔ}} | verb | give birth — *Southern Kissi (Childs 2000) :* bear (a child) | [Gen 6:1](https://www.bible.com/bible/1394/GEN.6.1.BKG) |
 
 ### 2.6.4 Stage of life
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuaambɔyɛi}} | noun (i) | youth | [GEN.46.34](https://www.bible.com/bible/1394/GEN.46.34.BKG) |
-| {{cuaambɔɔ}}, pl. {{cuaambɔa}} | noun (o) | girl, young woman; young person — *Southern Kissi (Childs 2000) :* girl | [GEN.16.5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
-| {{cɛlɛkpɔɔ}} | noun (o) | baby, small child; young boy | [GEN.4.23](https://www.bible.com/bible/1394/GEN.4.23.BKG) |
-| {{cɛlɛkpɛ}}, pl. {{cɛlɛkpɛa}} | noun | newborn, baby — *Southern Kissi (Childs 2000) :* newborn boy | [EXO.1.16](https://www.bible.com/bible/1394/EXO.1.16.BKG) |
-| {{felengiyɛi}} | noun (i) | youth | [GEN.8.21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
-| {{felengoo}}, pl. {{felengia}} | noun | young man | [LEV.22.13](https://www.bible.com/bible/1394/LEV.22.13.BKG) |
-| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [GEN.48.14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
+| {{cuaambɔyɛi}} | noun (i) | youth | [Gen 46:34](https://www.bible.com/bible/1394/GEN.46.34.BKG) |
+| {{cuaambɔɔ}}, pl. {{cuaambɔa}} | noun (o) | girl, young woman; young person — *Southern Kissi (Childs 2000) :* girl | [Gen 16:5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
+| {{cɛlɛkpɔɔ}} | noun (o) | baby, small child; young boy | [Gen 4:23](https://www.bible.com/bible/1394/GEN.4.23.BKG) |
+| {{cɛlɛkpɛ}}, pl. {{cɛlɛkpɛa}} | noun | newborn, baby — *Southern Kissi (Childs 2000) :* newborn boy | [Exod 1:16](https://www.bible.com/bible/1394/EXO.1.16.BKG) |
+| {{felengiyɛi}} | noun (i) | youth | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| {{felengoo}}, pl. {{felengia}} | noun | young man | [Lev 22:13](https://www.bible.com/bible/1394/LEV.22.13.BKG) |
+| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [Gen 48:14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
 | {{kpokanɔɔ\|r}} | noun (o) | uninitiated person | Keita 1979, p. 161 |
-| {{kɔ̀ndénɔɔ}} | noun (o) | uncircumcised, uninitiated person | [ROM.2.26](https://www.bible.com/bible/1394/ROM.2.26.BKG) |
-| {{langbanɔɔ}}, pl. {{langbaa}} | noun | man (adult male); (pl.) men, followers | [GEN.24.30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
+| {{kɔ̀ndénɔɔ}} | noun (o) | uncircumcised, uninitiated person | [Rom 2:26](https://www.bible.com/bible/1394/ROM.2.26.BKG) |
+| {{langbanɔɔ}}, pl. {{langbaa}} | noun | man (adult male); (pl.) men, followers | [Gen 24:30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
 | {{mbokponi\|?}} | noun | young lady | Keita 1979, p. 134 |
-| {{poombɔɔ}}, pl. {{poambɔa}} | noun | boy, young man — *Southern Kissi (Childs 2000) :* boy, small boy; son, male child | [GEN.21.12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
+| {{poombɔɔ}}, pl. {{poambɔa}} | noun | boy, young man — *Southern Kissi (Childs 2000) :* boy, small boy; son, male child | [Gen 21:12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
 | {{sullo\|r}} | verb | grow up | Keita 1979, p. 113 |
 | {{tomaa\|?}} | noun (o) | old man (Keita) | Keita 1979, p. 148 |
-| {{toomaa}} | noun (o) | circumcision | [GEN.17](https://www.bible.com/bible/1394/GEN.17.BKG) |
-| {{yuuvaa}} | verb | grow old, be old | [2CH.24.15](https://www.bible.com/bible/1394/2CH.24.15.BKG) |
-| {{yuuvɛiyo}}, pl. {{yuuvɛiya}} | noun (o) | old age; old person — *Southern Kissi (Childs 2000) :* (adjective) old | [GEN.42.38](https://www.bible.com/bible/1394/GEN.42.38.BKG) |
+| {{toomaa}} | noun (o) | circumcision | [Gen 17](https://www.bible.com/bible/1394/GEN.17.BKG) |
+| {{yuuvaa}} | verb | grow old, be old | [2 Chr 24:15](https://www.bible.com/bible/1394/2CH.24.15.BKG) |
+| {{yuuvɛiyo}}, pl. {{yuuvɛiya}} | noun (o) | old age; old person — *Southern Kissi (Childs 2000) :* (adjective) old | [Gen 42:38](https://www.bible.com/bible/1394/GEN.42.38.BKG) |
 
 ### 2.6.5 Male, female
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuaa}}, pl. {{cuavaa}} | noun (o) | child; the woman (in question); (pl.) children, descendants — *Southern Kissi (Childs 2000) :* girl, daughter, young woman, woman | [GEN.3.13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
-| {{laandoo}}, pl. {{laandaa}} | adjective | female | [GEN.6.19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
-| {{langbanɔɔ}}, pl. {{langbaa}} | noun | man (adult male); (pl.) men, followers | [GEN.24.30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
-| {{piaandoo}}, pl. {{piaandua}} | adjective | male; boy, son | [GEN.4.1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
-| {{vanalanɔɔ}} | noun (o) | woman, female person | [GEN.1.27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
-| {{vanapɔnɔɔ}} | noun (o) | man, male person | [GEN.1.27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
+| {{cuaa}}, pl. {{cuavaa}} | noun (o) | child; the woman (in question); (pl.) children, descendants — *Southern Kissi (Childs 2000) :* girl, daughter, young woman, woman | [Gen 3:13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
+| {{laandoo}}, pl. {{laandaa}} | adjective | female | [Gen 6:19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
+| {{langbanɔɔ}}, pl. {{langbaa}} | noun | man (adult male); (pl.) men, followers | [Gen 24:30](https://www.bible.com/bible/1394/GEN.24.30.BKG) |
+| {{piaandoo}}, pl. {{piaandua}} | adjective | male; boy, son | [Gen 4:1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
+| {{vanalanɔɔ}} | noun (o) | woman, female person | [Gen 1:27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
+| {{vanapɔnɔɔ}} | noun (o) | man, male person | [Gen 1:27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
 
 ### 2.6.6 Die
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biisio}}, pl. {{biisilan}} | noun (o) | mourning, funeral — *Southern Kissi (Childs 2000) :* funeral arrangements, wake | [GEN.50.7](https://www.bible.com/bible/1394/GEN.50.7.BKG) |
-| {{dii}} | verb | kill | [GEN.4.8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
-| {{diinɔnndo}} | verb | kill oneself | [ZEC.11.4](https://www.bible.com/bible/1394/ZEC.11.4.BKG) |
-| {{diwvo}} | verb | kill (many), slaughter | [EXO.5.21](https://www.bible.com/bible/1394/EXO.5.21.BKG) |
-| {{diyɔɔ}} | verb | kill | [GEN.25.32](https://www.bible.com/bible/1394/GEN.25.32.BKG) |
+| {{biisio}}, pl. {{biisilan}} | noun (o) | mourning, funeral — *Southern Kissi (Childs 2000) :* funeral arrangements, wake | [Gen 50:7](https://www.bible.com/bible/1394/GEN.50.7.BKG) |
+| {{dii}} | verb | kill | [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| {{diinɔnndo}} | verb | kill oneself | [Zech 11:4](https://www.bible.com/bible/1394/ZEC.11.4.BKG) |
+| {{diwvo}} | verb | kill (many), slaughter | [Exod 5:21](https://www.bible.com/bible/1394/EXO.5.21.BKG) |
+| {{diyɔɔ}} | verb | kill | [Gen 25:32](https://www.bible.com/bible/1394/GEN.25.32.BKG) |
 | {{diyɔɔ koya\|?}} | noun | murder | Keita 1979, p. 148 |
-| {{kumbɔɔ}} | verb | cover; bury | [GEN.23](https://www.bible.com/bible/1394/GEN.23.BKG) |
-| {{piɔ́mndo}} | verb | die; death | [GEN.2.17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
-| {{sɛiyo}}, pl. {{sɛilan}} | noun (o) | grave, tomb | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [GEN.23.3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
-| {{vuo}} | verb | die | [GEN.43.8](https://www.bible.com/bible/1394/GEN.43.8.BKG) |
+| {{kumbɔɔ}} | verb | cover; bury | [Gen 23](https://www.bible.com/bible/1394/GEN.23.BKG) |
+| {{piɔ́mndo}} | verb | die; death | [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
+| {{sɛiyo}}, pl. {{sɛilan}} | noun (o) | grave, tomb | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vuo}} | verb | die | [Gen 43:8](https://www.bible.com/bible/1394/GEN.43.8.BKG) |
 
 ## 3. Language and thought
 
@@ -804,222 +804,222 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kɔllo}}, pl. {{kɔltan}} | noun (o) | heart ; heart; spirit, inner self — *Southern Kissi (Childs 2000) :* heart; seat of the feelings, mind, soul | [GEN.21.11](https://www.bible.com/bible/1394/GEN.21.11.BKG) |
-| {{yoomoo}} | noun (o) | life, soul — *Southern Kissi (Childs 2000) :* life, breath | [GEN.3.20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
+| {{kɔllo}}, pl. {{kɔltan}} | noun (o) | heart ; heart; spirit, inner self — *Southern Kissi (Childs 2000) :* heart; seat of the feelings, mind, soul | [Gen 21:11](https://www.bible.com/bible/1394/GEN.21.11.BKG) |
+| {{yoomoo}} | noun (o) | life, soul — *Southern Kissi (Childs 2000) :* life, breath | [Gen 3:20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
 
 ### 3.1.1 Personality
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kɔlkaloo}} | noun (o) | wisdom, intelligence; cunning — *Southern Kissi (Childs 2000) :* wisdom, sense, insight (heart + hard) | [GEN.41.33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
-| {{siɛlɛiyo}} | adjective | lazy; laziness | [JDG.18.9](https://www.bible.com/bible/1394/JDG.18.9.BKG) |
-| {{yongaa}} | noun (o) | pride, arrogance — *Southern Kissi (Childs 2000) :* pride, boasting | [DEU.8.14](https://www.bible.com/bible/1394/DEU.8.14.BKG) |
+| {{kɔlkaloo}} | noun (o) | wisdom, intelligence; cunning — *Southern Kissi (Childs 2000) :* wisdom, sense, insight (heart + hard) | [Gen 41:33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
+| {{siɛlɛiyo}} | adjective | lazy; laziness | [Judg 18:9](https://www.bible.com/bible/1394/JDG.18.9.BKG) |
+| {{yongaa}} | noun (o) | pride, arrogance — *Southern Kissi (Childs 2000) :* pride, boasting | [Deut 8:14](https://www.bible.com/bible/1394/DEU.8.14.BKG) |
 
 ### 3.1.2 Mental state
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kindi}} | verb | harden; make strong — *Southern Kissi (Childs 2000) :* complicate, make difficult; roast rice to dry it | [EXO.7.3](https://www.bible.com/bible/1394/EXO.7.3.BKG) |
-| {{seemaa}} | noun (o) | madness, folly — *Southern Kissi (Childs 2000) :* to act crazy (verb) | [PRO.17.12](https://www.bible.com/bible/1394/PRO.17.12.BKG) |
+| {{kindi}} | verb | harden; make strong — *Southern Kissi (Childs 2000) :* complicate, make difficult; roast rice to dry it | [Exod 7:3](https://www.bible.com/bible/1394/EXO.7.3.BKG) |
+| {{seemaa}} | noun (o) | madness, folly — *Southern Kissi (Childs 2000) :* to act crazy (verb) | [Prov 17:12](https://www.bible.com/bible/1394/PRO.17.12.BKG) |
 
 ### 3.2 Think
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{diɔmndo}} | noun (o) | folly; (pl.) fools — *Southern Kissi (Childs 2000) :* fool, foolish person | [1SA.21.14](https://www.bible.com/bible/1394/1SA.21.14.BKG) |
-| {{kɔlkaloo}} | noun (o) | wisdom, intelligence; cunning — *Southern Kissi (Childs 2000) :* wisdom, sense, insight (heart + hard) | [GEN.41.33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
-| {{kɔlkɛsiaa}} | noun | hope | [EZR.10.2](https://www.bible.com/bible/1394/EZR.10.2.BKG) |
-| {{laalanndo}} | verb | believe, trust; faith — *Southern Kissi (Childs 2000) :* believe, trust; be sure of | [EXO.4.9](https://www.bible.com/bible/1394/EXO.4.9.BKG) |
-| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [GEN.41.33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
-| {{tiindanndo}} | verb | trust in, rely on — *Southern Kissi (Childs 2000) :* depend on, trust (middle of 'step on, press') | [DEU.28.52](https://www.bible.com/bible/1394/DEU.28.52.BKG) |
-| {{tɔɔndan}} | verb | test, try; tempt; attempt | [GEN.22.1](https://www.bible.com/bible/1394/GEN.22.1.BKG) |
-| {{yiyanndo}} | verb | think, consider — *Southern Kissi (Childs 2000) :* think, remind | [GEN.31.2](https://www.bible.com/bible/1394/GEN.31.2.BKG) |
+| {{diɔmndo}} | noun (o) | folly; (pl.) fools — *Southern Kissi (Childs 2000) :* fool, foolish person | [1 Sam 21:14](https://www.bible.com/bible/1394/1SA.21.14.BKG) |
+| {{kɔlkaloo}} | noun (o) | wisdom, intelligence; cunning — *Southern Kissi (Childs 2000) :* wisdom, sense, insight (heart + hard) | [Gen 41:33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
+| {{kɔlkɛsiaa}} | noun | hope | [Ezra 10:2](https://www.bible.com/bible/1394/EZR.10.2.BKG) |
+| {{laalanndo}} | verb | believe, trust; faith — *Southern Kissi (Childs 2000) :* believe, trust; be sure of | [Exod 4:9](https://www.bible.com/bible/1394/EXO.4.9.BKG) |
+| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [Gen 41:33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
+| {{tiindanndo}} | verb | trust in, rely on — *Southern Kissi (Childs 2000) :* depend on, trust (middle of 'step on, press') | [Deut 28:52](https://www.bible.com/bible/1394/DEU.28.52.BKG) |
+| {{tɔɔndan}} | verb | test, try; tempt; attempt | [Gen 22:1](https://www.bible.com/bible/1394/GEN.22.1.BKG) |
+| {{yiyanndo}} | verb | think, consider — *Southern Kissi (Childs 2000) :* think, remind | [Gen 31:2](https://www.bible.com/bible/1394/GEN.31.2.BKG) |
 
 ### 3.2.3 Know
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{caa}} | verb | know how, be skilled | [GEN.4.7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
-| {{lepɛŋndo}} | noun | ignorance; (o sina lepɛŋndo nin) unknowingly | [LEV.4.2](https://www.bible.com/bible/1394/LEV.4.2.BKG) |
-| {{sinaa}} | verb | know — *Southern Kissi (Childs 2000) :* know, understand | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{caa}} | verb | know how, be skilled | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
+| {{lepɛŋndo}} | noun | ignorance; (o sina lepɛŋndo nin) unknowingly | [Lev 4:2](https://www.bible.com/bible/1394/LEV.4.2.BKG) |
+| {{sinaa}} | verb | know — *Southern Kissi (Childs 2000) :* know, understand | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 
 ### 3.2.4 Understand
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bila}} | noun | meaning; (bii … bila) understand | [GEN.19.9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
-| {{sinapɛngoo}} | noun | understanding, discernment | [1KI.3.12](https://www.bible.com/bible/1394/1KI.3.12.BKG) |
-| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [GEN.41.33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
-| {{tɛɛsiaa}} | verb | interpret, explain | [GEN.40](https://www.bible.com/bible/1394/GEN.40.BKG) |
-| {{tɛɛsial}} | verb | interpret, explain (to someone) | [GEN.41.12](https://www.bible.com/bible/1394/GEN.41.12.BKG) |
+| {{bila}} | noun | meaning; (bii … bila) understand | [Gen 19:9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
+| {{sinapɛngoo}} | noun | understanding, discernment | [1 Kgs 3:12](https://www.bible.com/bible/1394/1KI.3.12.BKG) |
+| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [Gen 41:33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
+| {{tɛɛsiaa}} | verb | interpret, explain | [Gen 40](https://www.bible.com/bible/1394/GEN.40.BKG) |
+| {{tɛɛsial}} | verb | interpret, explain (to someone) | [Gen 41:12](https://www.bible.com/bible/1394/GEN.41.12.BKG) |
 
 ### 3.2.6 Remember
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{loonɔnndo}} | verb | remember | [GEN.9.13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
+| {{loonɔnndo}} | verb | remember | [Gen 9:13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
 | {{pɔɛɛnndo\|?}} | verb | forget — *Southern Kissi (Childs 2000) :* forget | Keita 1979, p. 113 |
-| {{pɔɛɛnɔnndo}} | verb | forget; oversight; forget oneself (Keita) — *Southern Kissi (Childs 2000) :* forget; ignore, have nothing to do with | [GEN.43.12](https://www.bible.com/bible/1394/GEN.43.12.BKG) |
+| {{pɔɛɛnɔnndo}} | verb | forget; oversight; forget oneself (Keita) — *Southern Kissi (Childs 2000) :* forget; ignore, have nothing to do with | [Gen 43:12](https://www.bible.com/bible/1394/GEN.43.12.BKG) |
 
 ### 3.3 Want
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [GEN.17.14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
-| {{kindin}} | verb | strive, make an effort; be attached to | [GEN.34.3](https://www.bible.com/bible/1394/GEN.34.3.BKG) |
+| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [Gen 17:14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
+| {{kindin}} | verb | strive, make an effort; be attached to | [Gen 34:3](https://www.bible.com/bible/1394/GEN.34.3.BKG) |
 | {{kɛw\|?}} | verb | refuse, reject — *Southern Kissi (Childs 2000) :* (middle adjective) denied, forsaken | Keita 1979, p. 110 |
-| {{kɛɛ}} | verb | refuse, reject — *Southern Kissi (Childs 2000) :* refuse, disagree with, deny (middle form) | [GEN.4.5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
-| {{makoo}} | noun (o) | need; matter, affair | [GEN.42.33](https://www.bible.com/bible/1394/GEN.42.33.BKG) |
-| {{yeemaa}} | verb | want, desire, love — *Southern Kissi (Childs 2000) :* also: need | [NUM.16.10](https://www.bible.com/bible/1394/NUM.16.10.BKG) |
-| {{yeemɛi}} | noun (i) | desire, longing, will — *Southern Kissi (Childs 2000) :* (adjective) wanting, in need of | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{kɛɛ}} | verb | refuse, reject — *Southern Kissi (Childs 2000) :* refuse, disagree with, deny (middle form) | [Gen 4:5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
+| {{makoo}} | noun (o) | need; matter, affair | [Gen 42:33](https://www.bible.com/bible/1394/GEN.42.33.BKG) |
+| {{yeemaa}} | verb | want, desire, love — *Southern Kissi (Childs 2000) :* also: need | [Num 16:10](https://www.bible.com/bible/1394/NUM.16.10.BKG) |
+| {{yeemɛi}} | noun (i) | desire, longing, will — *Southern Kissi (Childs 2000) :* (adjective) wanting, in need of | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 
 ### 3.3.1 Decide, plan
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [GEN.17.14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
-| {{hɛli}} | verb | choose | [GEN.6.2](https://www.bible.com/bible/1394/GEN.6.2.BKG) |
+| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [Gen 17:14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
+| {{hɛli}} | verb | choose | [Gen 6:2](https://www.bible.com/bible/1394/GEN.6.2.BKG) |
 | {{hɛlihɛlio\|r}} | verb | sort repeatedly | Keita 1979, p. 110 |
-| {{hɛlio}} | verb | choose, select, sort — *Southern Kissi (Childs 2000) :* choose | [EXO.18](https://www.bible.com/bible/1394/EXO.18.BKG) |
-| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [GEN.6.13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
-| {{tuuvo}} | verb | measure; plan — *Southern Kissi (Childs 2000) :* plan (middle of tùùwó 'measure') | [EXO.25](https://www.bible.com/bible/1394/EXO.25.BKG) |
+| {{hɛlio}} | verb | choose, select, sort — *Southern Kissi (Childs 2000) :* choose | [Exod 18](https://www.bible.com/bible/1394/EXO.18.BKG) |
+| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [Gen 6:13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
+| {{tuuvo}} | verb | measure; plan — *Southern Kissi (Childs 2000) :* plan (middle of tùùwó 'measure') | [Exod 25](https://www.bible.com/bible/1394/EXO.25.BKG) |
 
 ### 3.3.2 Request
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛɛŋɔnndo}} | verb | plead, beseech; supplication | [GEN.41.55](https://www.bible.com/bible/1394/GEN.41.55.BKG) |
-| {{piɛilen}} | noun (len) | prayer, request | [GEN.4.26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
-| {{piɛiyo}} | verb | pray; ask, beg — *Southern Kissi (Childs 2000) :* beg; (benefactive) pray or ask on someone's behalf | [DEU.12.5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
-| {{tɛɛlɔnndo}} | verb | plead, implore, pray; complain to | [EXO.9.29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
-| {{ɲunaa}} | verb | ask, question — *Southern Kissi (Childs 2000) :* ask; beg for | [JDG.11.12](https://www.bible.com/bible/1394/JDG.11.12.BKG) |
-| {{ɲɔɔloo}} | verb | beg, entreat; comfort — *Southern Kissi (Childs 2000) :* beg, beseech, ask forgiveness | [GEN.24.67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
+| {{cɛɛŋɔnndo}} | verb | plead, beseech; supplication | [Gen 41:55](https://www.bible.com/bible/1394/GEN.41.55.BKG) |
+| {{piɛilen}} | noun (len) | prayer, request | [Gen 4:26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
+| {{piɛiyo}} | verb | pray; ask, beg — *Southern Kissi (Childs 2000) :* beg; (benefactive) pray or ask on someone's behalf | [Deut 12:5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
+| {{tɛɛlɔnndo}} | verb | plead, implore, pray; complain to | [Exod 9:29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
+| {{ɲunaa}} | verb | ask, question — *Southern Kissi (Childs 2000) :* ask; beg for | [Judg 11:12](https://www.bible.com/bible/1394/JDG.11.12.BKG) |
+| {{ɲɔɔloo}} | verb | beg, entreat; comfort — *Southern Kissi (Childs 2000) :* beg, beseech, ask forgiveness | [Gen 24:67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
 
 ### 3.4 Emotion
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biwnun}} | verb | bear, endure; be patient | [NEH.9.17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
-| {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | noun (o) | wonder, marvel; amazement — *Southern Kissi (Childs 2000) :* surprise, wonder | [GEN.43.33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
-| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [EXO.2.6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{biwnun}} | verb | bear, endure; be patient | [Neh 9:17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
+| {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | noun (o) | wonder, marvel; amazement — *Southern Kissi (Childs 2000) :* surprise, wonder | [Gen 43:33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
+| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
 
 ### 3.4.1 Feel good
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hɛnan}} | verb | please, be pleasing to | [GEN.17.1](https://www.bible.com/bible/1394/GEN.17.1.BKG) |
-| {{kponyoo}} | noun | rejoicing, shouts of joy | [EXO.32.4](https://www.bible.com/bible/1394/EXO.32.4.BKG) |
-| {{kɔlkɛndɔɔ}} | noun (o) | joy, gladness | [GEN.15.15](https://www.bible.com/bible/1394/GEN.15.15.BKG) |
-| {{kɔlkɛsiaa}} | noun | hope | [EZR.10.2](https://www.bible.com/bible/1394/EZR.10.2.BKG) |
-| {{mamɔɔ}} | verb | laugh — *Southern Kissi (Childs 2000) :* laugh, joke | [JDG.16.25](https://www.bible.com/bible/1394/JDG.16.25.BKG) |
-| {{ɲaale}} | noun | joy (dɔwnun ɲaale 'rejoice') | [DEU.12.18](https://www.bible.com/bible/1394/DEU.12.18.BKG) |
-| {{ɲaaloo}} | noun (o) | joy, gladness | [DEU.28.47](https://www.bible.com/bible/1394/DEU.28.47.BKG) |
-| {{ɲulul}} | verb | calm down, be appeased (kɔl) | [GEN.27.44](https://www.bible.com/bible/1394/GEN.27.44.BKG) |
+| {{hɛnan}} | verb | please, be pleasing to | [Gen 17:1](https://www.bible.com/bible/1394/GEN.17.1.BKG) |
+| {{kponyoo}} | noun | rejoicing, shouts of joy | [Exod 32:4](https://www.bible.com/bible/1394/EXO.32.4.BKG) |
+| {{kɔlkɛndɔɔ}} | noun (o) | joy, gladness | [Gen 15:15](https://www.bible.com/bible/1394/GEN.15.15.BKG) |
+| {{kɔlkɛsiaa}} | noun | hope | [Ezra 10:2](https://www.bible.com/bible/1394/EZR.10.2.BKG) |
+| {{mamɔɔ}} | verb | laugh — *Southern Kissi (Childs 2000) :* laugh, joke | [Judg 16:25](https://www.bible.com/bible/1394/JDG.16.25.BKG) |
+| {{ɲaale}} | noun | joy (dɔwnun ɲaale 'rejoice') | [Deut 12:18](https://www.bible.com/bible/1394/DEU.12.18.BKG) |
+| {{ɲaaloo}} | noun (o) | joy, gladness | [Deut 28:47](https://www.bible.com/bible/1394/DEU.28.47.BKG) |
+| {{ɲulul}} | verb | calm down, be appeased (kɔl) | [Gen 27:44](https://www.bible.com/bible/1394/GEN.27.44.BKG) |
 
 ### 3.4.2 Feel bad
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{caŋndo}} | verb | weep, cry ; weep, cry; weeping — *Southern Kissi (Childs 2000) :* cry, weep, whine | [GEN.21.16](https://www.bible.com/bible/1394/GEN.21.16.BKG) |
+| {{caŋndo}} | verb | weep, cry ; weep, cry; weeping — *Southern Kissi (Childs 2000) :* cry, weep, whine | [Gen 21:16](https://www.bible.com/bible/1394/GEN.21.16.BKG) |
 | {{cɛŋio\|r}} | verb | make cry — *Southern Kissi (Childs 2000) :* cause to cry | Keita 1979, p. 114 |
-| {{isiòòn}} | noun | fear | [GEN.15.1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
-| {{kpòkóó}} | interjection | alas! | [GEN.25.22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
-| {{kɔlfulaa}} | noun (o) | anger, rage; palpitations | [EST.1.12](https://www.bible.com/bible/1394/EST.1.12.BKG) |
-| {{kɔltuwvo}} | noun (o) | anger | [EXO.11.8](https://www.bible.com/bible/1394/EXO.11.8.BKG) |
-| {{labɛɛ}} | noun | shame, dishonour | [GEN.34.2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
-| {{lasiɛmbu}} | noun | shame (lasiɛmbu yɔŋ 'be ashamed') | [GEN.2.25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
-| {{mɔnɛi}} | noun | grief, sorrow; regret — *Southern Kissi (Childs 2000) :* sorrow, sadness; pity, remorse, regret | [GEN.6.6](https://www.bible.com/bible/1394/GEN.6.6.BKG) |
-| {{mɛmɛan}} | noun (an) | tears | [2SA.13.36](https://www.bible.com/bible/1394/2SA.13.36.BKG) |
-| {{nɛyɔnndo}} | verb | hate; hatred | [GEN.37.4](https://www.bible.com/bible/1394/GEN.37.4.BKG) |
-| {{paŋalaa}} | noun | jealousy, envy; zeal — *Southern Kissi (Childs 2000) :* (verb) be jealous, envy | [GEN.26.14](https://www.bible.com/bible/1394/GEN.26.14.BKG) |
-| {{pɛɛsaa}} | verb | despise, scorn — *Southern Kissi (Childs 2000) :* oversee; blame, criticize | [NUM.14.11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
-| {{siòòŋii}} | noun | fear | [GEN.9.2](https://www.bible.com/bible/1394/GEN.9.2.BKG) |
-| {{siɛmbulan}} | noun (lan) | shame, disgrace — *Southern Kissi (Childs 2000) :* shame; shyness, bashfulness | [GEN.30.23](https://www.bible.com/bible/1394/GEN.30.23.BKG) |
-| {{somisominndo}} | noun | groaning, lament | [2SA.19.2](https://www.bible.com/bible/1394/2SA.19.2.BKG) |
-| {{tambu}} | verb | be ruined, laid waste; (tambu kɔl) be downcast, angry — *Southern Kissi (Childs 2000) :* be ruined, wrecked; rot, spoil; be poor | [GEN.4.5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
-| {{vo}} | verb | fear, revere | [GEN.9.15](https://www.bible.com/bible/1394/GEN.9.15.BKG) |
+| {{isiòòn}} | noun | fear | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
+| {{kpòkóó}} | interjection | alas! | [Gen 25:22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
+| {{kɔlfulaa}} | noun (o) | anger, rage; palpitations | [Esth 1:12](https://www.bible.com/bible/1394/EST.1.12.BKG) |
+| {{kɔltuwvo}} | noun (o) | anger | [Exod 11:8](https://www.bible.com/bible/1394/EXO.11.8.BKG) |
+| {{labɛɛ}} | noun | shame, dishonour | [Gen 34:2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
+| {{lasiɛmbu}} | noun | shame (lasiɛmbu yɔŋ 'be ashamed') | [Gen 2:25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
+| {{mɔnɛi}} | noun | grief, sorrow; regret — *Southern Kissi (Childs 2000) :* sorrow, sadness; pity, remorse, regret | [Gen 6:6](https://www.bible.com/bible/1394/GEN.6.6.BKG) |
+| {{mɛmɛan}} | noun (an) | tears | [2 Sam 13:36](https://www.bible.com/bible/1394/2SA.13.36.BKG) |
+| {{nɛyɔnndo}} | verb | hate; hatred | [Gen 37:4](https://www.bible.com/bible/1394/GEN.37.4.BKG) |
+| {{paŋalaa}} | noun | jealousy, envy; zeal — *Southern Kissi (Childs 2000) :* (verb) be jealous, envy | [Gen 26:14](https://www.bible.com/bible/1394/GEN.26.14.BKG) |
+| {{pɛɛsaa}} | verb | despise, scorn — *Southern Kissi (Childs 2000) :* oversee; blame, criticize | [Num 14:11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
+| {{siòòŋii}} | noun | fear | [Gen 9:2](https://www.bible.com/bible/1394/GEN.9.2.BKG) |
+| {{siɛmbulan}} | noun (lan) | shame, disgrace — *Southern Kissi (Childs 2000) :* shame; shyness, bashfulness | [Gen 30:23](https://www.bible.com/bible/1394/GEN.30.23.BKG) |
+| {{somisominndo}} | noun | groaning, lament | [2 Sam 19:2](https://www.bible.com/bible/1394/2SA.19.2.BKG) |
+| {{tambu}} | verb | be ruined, laid waste; (tambu kɔl) be downcast, angry — *Southern Kissi (Childs 2000) :* be ruined, wrecked; rot, spoil; be poor | [Gen 4:5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
+| {{vo}} | verb | fear, revere | [Gen 9:15](https://www.bible.com/bible/1394/GEN.9.15.BKG) |
 | {{vooluo\|?}} | verb | startle; take by surprise, fall upon | Keita 1979, p. 114 |
-| {{yeelan}} | noun (lan) | crying, weeping, wailing — *Southern Kissi (Childs 2000) :* weeping, crying | [EXO.11.6](https://www.bible.com/bible/1394/EXO.11.6.BKG) |
-| {{ɲiiyaa}} | verb | tremble, shake — *Southern Kissi (Childs 2000) :* shiver (from cold or fever); be anxious | [JDG.5.5](https://www.bible.com/bible/1394/JDG.5.5.BKG) |
+| {{yeelan}} | noun (lan) | crying, weeping, wailing — *Southern Kissi (Childs 2000) :* weeping, crying | [Exod 11:6](https://www.bible.com/bible/1394/EXO.11.6.BKG) |
+| {{ɲiiyaa}} | verb | tremble, shake — *Southern Kissi (Childs 2000) :* shiver (from cold or fever); be anxious | [Judg 5:5](https://www.bible.com/bible/1394/JDG.5.5.BKG) |
 
 ### 3.5 Communication
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{còòlan}} | noun (lan) | lies, falsehood | [GEN.42.12](https://www.bible.com/bible/1394/GEN.42.12.BKG) |
-| {{cɔmndo}} | verb | count, number; indicate, show — *Southern Kissi (Childs 2000) :* show, point out; also reveal, explain; count | [GEN.13.16](https://www.bible.com/bible/1394/GEN.13.16.BKG) |
-| {{diolan}} | noun (lan) | name; renown | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{diomndo}}, pl. {{diomndan}} | noun (o) | voice, sound; word; language — *Southern Kissi (Childs 2000) :* voice, word; also advice, answer, promise; abuse | [GEN.27.22](https://www.bible.com/bible/1394/GEN.27.22.BKG) |
-| {{kiilanɔ}}, pl. {{kiilaa}} | noun | messenger, envoy; apostle | [2SA.11.22](https://www.bible.com/bible/1394/2SA.11.22.BKG) |
-| {{kiilanɔɔ}} | noun (o) | messenger | [GEN.50.16](https://www.bible.com/bible/1394/GEN.50.16.BKG) |
-| {{kpili}} | noun | silence; (mei kpili) keep silent | [LEV.10.3](https://www.bible.com/bible/1394/LEV.10.3.BKG) |
-| {{meiyo}} | noun | silence, quiet (o meiyo nin) — *Southern Kissi (Childs 2000) :* (verb) keep quiet; set a time | [2KI.7.9](https://www.bible.com/bible/1394/2KI.7.9.BKG) |
-| {{meiyo}} | verb | be silent — *Southern Kissi (Childs 2000) :* keep quiet | [2KI.7.9](https://www.bible.com/bible/1394/2KI.7.9.BKG) |
-| {{tɛɛngaa}} | verb | convey, carry across; deliver (a message) | [GEN.20.7](https://www.bible.com/bible/1394/GEN.20.7.BKG) |
-| {{yoongoo}} | noun (o) | news, message, report | [GEN.38.25](https://www.bible.com/bible/1394/GEN.38.25.BKG) |
+| {{còòlan}} | noun (lan) | lies, falsehood | [Gen 42:12](https://www.bible.com/bible/1394/GEN.42.12.BKG) |
+| {{cɔmndo}} | verb | count, number; indicate, show — *Southern Kissi (Childs 2000) :* show, point out; also reveal, explain; count | [Gen 13:16](https://www.bible.com/bible/1394/GEN.13.16.BKG) |
+| {{diolan}} | noun (lan) | name; renown | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{diomndo}}, pl. {{diomndan}} | noun (o) | voice, sound; word; language — *Southern Kissi (Childs 2000) :* voice, word; also advice, answer, promise; abuse | [Gen 27:22](https://www.bible.com/bible/1394/GEN.27.22.BKG) |
+| {{kiilanɔ}}, pl. {{kiilaa}} | noun | messenger, envoy; apostle | [2 Sam 11:22](https://www.bible.com/bible/1394/2SA.11.22.BKG) |
+| {{kiilanɔɔ}} | noun (o) | messenger | [Gen 50:16](https://www.bible.com/bible/1394/GEN.50.16.BKG) |
+| {{kpili}} | noun | silence; (mei kpili) keep silent | [Lev 10:3](https://www.bible.com/bible/1394/LEV.10.3.BKG) |
+| {{meiyo}} | noun | silence, quiet (o meiyo nin) — *Southern Kissi (Childs 2000) :* (verb) keep quiet; set a time | [2 Kgs 7:9](https://www.bible.com/bible/1394/2KI.7.9.BKG) |
+| {{meiyo}} | verb | be silent — *Southern Kissi (Childs 2000) :* keep quiet | [2 Kgs 7:9](https://www.bible.com/bible/1394/2KI.7.9.BKG) |
+| {{tɛɛngaa}} | verb | convey, carry across; deliver (a message) | [Gen 20:7](https://www.bible.com/bible/1394/GEN.20.7.BKG) |
+| {{yoongoo}} | noun (o) | news, message, report | [Gen 38:25](https://www.bible.com/bible/1394/GEN.38.25.BKG) |
 
 ### 3.5.1 Say
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particle | quotative particle | [GEN.1.3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
-| {{deŋio}} | verb | cry out, shout; thunder — *Southern Kissi (Childs 2000) :* yell, shout, scream | [EXO.9.29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
-| {{dimi}} | verb | say | [GEN.1.3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
-| {{dimio}} | verb | say — *Southern Kissi (Childs 2000) :* say, tell, speak | [GEN.3.20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
-| {{dimulan}} | verb | say to one another | [GEN.11.3](https://www.bible.com/bible/1394/GEN.11.3.BKG) |
-| {{dimullo}} | verb | say to, tell | [GEN.17.3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
-| {{koŋullo}} | verb | cry out, call (for help) | [GEN.4.10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
-| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [DEU.18](https://www.bible.com/bible/1394/DEU.18.BKG) |
-| {{lisaa}} | verb | praise, glorify | [EXO.15.1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
-| {{mulio}} | verb | answer; turn — *Southern Kissi (Childs 2000) :* turn over; reply | [2SA.14.20](https://www.bible.com/bible/1394/2SA.14.20.BKG) |
-| {{mulullo}} | verb | answer someone; turn to | [GEN.45.3](https://www.bible.com/bible/1394/GEN.45.3.BKG) |
+| {{aa}} | particle | quotative particle | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{deŋio}} | verb | cry out, shout; thunder — *Southern Kissi (Childs 2000) :* yell, shout, scream | [Exod 9:29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
+| {{dimi}} | verb | say | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{dimio}} | verb | say — *Southern Kissi (Childs 2000) :* say, tell, speak | [Gen 3:20](https://www.bible.com/bible/1394/GEN.3.20.BKG) |
+| {{dimulan}} | verb | say to one another | [Gen 11:3](https://www.bible.com/bible/1394/GEN.11.3.BKG) |
+| {{dimullo}} | verb | say to, tell | [Gen 17:3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
+| {{koŋullo}} | verb | cry out, call (for help) | [Gen 4:10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
+| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{lisaa}} | verb | praise, glorify | [Exod 15:1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
+| {{mulio}} | verb | answer; turn — *Southern Kissi (Childs 2000) :* turn over; reply | [2 Sam 14:20](https://www.bible.com/bible/1394/2SA.14.20.BKG) |
+| {{mulullo}} | verb | answer someone; turn to | [Gen 45:3](https://www.bible.com/bible/1394/GEN.45.3.BKG) |
 | {{mɛɛnaa\|r}} | verb | curse | Keita 1979, p. 110 |
-| {{mɛɛniaa}} | verb | curse; curse repeatedly (Keita) | [1KI.2.8](https://www.bible.com/bible/1394/1KI.2.8.BKG) |
-| {{seilen}} | noun (len) | testimony, evidence | [GEN.21.30](https://www.bible.com/bible/1394/GEN.21.30.BKG) |
+| {{mɛɛniaa}} | verb | curse; curse repeatedly (Keita) | [1 Kgs 2:8](https://www.bible.com/bible/1394/1KI.2.8.BKG) |
+| {{seilen}} | noun (len) | testimony, evidence | [Gen 21:30](https://www.bible.com/bible/1394/GEN.21.30.BKG) |
 | {{siɔɔndaa\|r}} | verb | whisper | Keita 1979, p. 113 |
-| {{somisominndo}} | noun | groaning, lament | [2SA.19.2](https://www.bible.com/bible/1394/2SA.19.2.BKG) |
-| {{suukanndo}} | verb | speak, talk (with) — *Southern Kissi (Childs 2000) :* talk back and forth (middle of 'talk') | [GEN.18.31](https://www.bible.com/bible/1394/GEN.18.31.BKG) |
-| {{sɔlɔlan}} | verb | confess (one's sins) | [GEN.41.9](https://www.bible.com/bible/1394/GEN.41.9.BKG) |
-| {{sɔɛi}} | verb | speak; word | [GEN.3.17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{sɛɛngianndo}} | verb | quarrel, argue, debate; dispute, strife — *Southern Kissi (Childs 2000) :* plural of sèŋìá 'argue': disagree repeatedly | [GEN.13.7](https://www.bible.com/bible/1394/GEN.13.7.BKG) |
-| {{tiiyallo}} | verb | bring to, deliver to; proclaim (news) to — *Southern Kissi (Childs 2000) :* go somewhere for someone | [LEV.21.8](https://www.bible.com/bible/1394/LEV.21.8.BKG) |
-| {{toɲaa}} | noun (o) | truth; justice — *Southern Kissi (Childs 2000) :* truth; kindness, goodness, a favour | [GEN.18.21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
-| {{tɛɛngullo}} | verb | tell, report (to someone) — *Southern Kissi (Childs 2000) :* take (someone) across for someone | [EXO.4.16](https://www.bible.com/bible/1394/EXO.4.16.BKG) |
-| {{veeloo}} | verb | call ; call; call upon — *Southern Kissi (Childs 2000) :* call, name | [GEN.4.26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
+| {{somisominndo}} | noun | groaning, lament | [2 Sam 19:2](https://www.bible.com/bible/1394/2SA.19.2.BKG) |
+| {{suukanndo}} | verb | speak, talk (with) — *Southern Kissi (Childs 2000) :* talk back and forth (middle of 'talk') | [Gen 18:31](https://www.bible.com/bible/1394/GEN.18.31.BKG) |
+| {{sɔlɔlan}} | verb | confess (one's sins) | [Gen 41:9](https://www.bible.com/bible/1394/GEN.41.9.BKG) |
+| {{sɔɛi}} | verb | speak; word | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{sɛɛngianndo}} | verb | quarrel, argue, debate; dispute, strife — *Southern Kissi (Childs 2000) :* plural of sèŋìá 'argue': disagree repeatedly | [Gen 13:7](https://www.bible.com/bible/1394/GEN.13.7.BKG) |
+| {{tiiyallo}} | verb | bring to, deliver to; proclaim (news) to — *Southern Kissi (Childs 2000) :* go somewhere for someone | [Lev 21:8](https://www.bible.com/bible/1394/LEV.21.8.BKG) |
+| {{toɲaa}} | noun (o) | truth; justice — *Southern Kissi (Childs 2000) :* truth; kindness, goodness, a favour | [Gen 18:21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
+| {{tɛɛngullo}} | verb | tell, report (to someone) — *Southern Kissi (Childs 2000) :* take (someone) across for someone | [Exod 4:16](https://www.bible.com/bible/1394/EXO.4.16.BKG) |
+| {{veeloo}} | verb | call ; call; call upon — *Southern Kissi (Childs 2000) :* call, name | [Gen 4:26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
 | {{veeluanndo\|r}} | verb | call one another | Keita 1979, p. 114 |
-| {{veelɔnndo}} | verb | be called, be named — *Southern Kissi (Childs 2000) :* call oneself | [JER.7.10](https://www.bible.com/bible/1394/JER.7.10.BKG) |
-| {{yeelan}} | noun (lan) | crying, weeping, wailing — *Southern Kissi (Childs 2000) :* weeping, crying | [EXO.11.6](https://www.bible.com/bible/1394/EXO.11.6.BKG) |
-| {{yeowlan}} | verb | mock, insult; curse — *Southern Kissi (Childs 2000) :* abuse repeatedly (plural of yèìyó 'insult, curse') | [JDG.8.15](https://www.bible.com/bible/1394/JDG.8.15.BKG) |
-| {{yiilu}} | verb | make (a covenant) with, promise to | [GEN.9](https://www.bible.com/bible/1394/GEN.9.BKG) |
-| {{yondaa}} | verb | proclaim, cry out, announce — *Southern Kissi (Childs 2000) :* also: call for; complain | [GEN.26.11](https://www.bible.com/bible/1394/GEN.26.11.BKG) |
-| {{yondal}} | verb | call out to, announce to | [JDG.7.3](https://www.bible.com/bible/1394/JDG.7.3.BKG) |
-| {{ɲunaa}} | verb | ask, question — *Southern Kissi (Childs 2000) :* ask; beg for | [JDG.11.12](https://www.bible.com/bible/1394/JDG.11.12.BKG) |
-| {{ɲuuniaa}} | verb | question closely, interrogate — *Southern Kissi (Childs 2000) :* plural of 'ask' | [GEN.43.7](https://www.bible.com/bible/1394/GEN.43.7.BKG) |
+| {{veelɔnndo}} | verb | be called, be named — *Southern Kissi (Childs 2000) :* call oneself | [Jer 7:10](https://www.bible.com/bible/1394/JER.7.10.BKG) |
+| {{yeelan}} | noun (lan) | crying, weeping, wailing — *Southern Kissi (Childs 2000) :* weeping, crying | [Exod 11:6](https://www.bible.com/bible/1394/EXO.11.6.BKG) |
+| {{yeowlan}} | verb | mock, insult; curse — *Southern Kissi (Childs 2000) :* abuse repeatedly (plural of yèìyó 'insult, curse') | [Judg 8:15](https://www.bible.com/bible/1394/JDG.8.15.BKG) |
+| {{yiilu}} | verb | make (a covenant) with, promise to | [Gen 9](https://www.bible.com/bible/1394/GEN.9.BKG) |
+| {{yondaa}} | verb | proclaim, cry out, announce — *Southern Kissi (Childs 2000) :* also: call for; complain | [Gen 26:11](https://www.bible.com/bible/1394/GEN.26.11.BKG) |
+| {{yondal}} | verb | call out to, announce to | [Judg 7:3](https://www.bible.com/bible/1394/JDG.7.3.BKG) |
+| {{ɲunaa}} | verb | ask, question — *Southern Kissi (Childs 2000) :* ask; beg for | [Judg 11:12](https://www.bible.com/bible/1394/JDG.11.12.BKG) |
+| {{ɲuuniaa}} | verb | question closely, interrogate — *Southern Kissi (Childs 2000) :* plural of 'ask' | [Gen 43:7](https://www.bible.com/bible/1394/GEN.43.7.BKG) |
 
 ### 3.5.4 Story
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{taloo}}, pl. {{talelan}} | noun (o) | proverb, parable; riddle — *Southern Kissi (Childs 2000) :* proverb, moral; story, folk tale | [GEN.10.9](https://www.bible.com/bible/1394/GEN.10.9.BKG) |
+| {{taloo}}, pl. {{talelan}} | noun (o) | proverb, parable; riddle — *Southern Kissi (Childs 2000) :* proverb, moral; story, folk tale | [Gen 10:9](https://www.bible.com/bible/1394/GEN.10.9.BKG) |
 
 ### 3.5.6 Sign, symbol
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{foofoo}} | noun (o) | trace, landmark — *Southern Kissi (Childs 2000) :* spot, place, eroded patch; track, footprint | [DAN.2.35](https://www.bible.com/bible/1394/DAN.2.35.BKG) |
+| {{foofoo}} | noun (o) | trace, landmark — *Southern Kissi (Childs 2000) :* spot, place, eroded patch; track, footprint | [Dan 2:35](https://www.bible.com/bible/1394/DAN.2.35.BKG) |
 | {{lɛfɔɔ\|r}} | noun (o) | flag, banner — *Southern Kissi (Childs 2000) :* flag; also a wind-blown bamboo noisemaker that scares birds | Keita 1979, p. 159 |
-| {{pondalen}} | noun (len) | mark, sign; seal | [GEN.4.15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
-| {{tɔɔmaseloo}} | noun (o) | sign, mark | [GEN.9.13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
+| {{pondalen}} | noun (len) | mark, sign; seal | [Gen 4:15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
+| {{tɔɔmaseloo}} | noun (o) | sign, mark | [Gen 9:13](https://www.bible.com/bible/1394/GEN.9.13.BKG) |
 
 ### 3.5.7 Reading and writing
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{pondaa sɛvaa\|r}} | noun | ink | Keita 1979, p. 159 |
-| {{sɛbɔɔ}}, pl. {{sɛbɛlan}} | noun (o) | book, letter, document | [EXO.17.14](https://www.bible.com/bible/1394/EXO.17.14.BKG) |
-| {{sɛvaa}} | verb | write | [EXO.24.7](https://www.bible.com/bible/1394/EXO.24.7.BKG) |
-| {{sɛvallo}} | verb | write for, write to | [JDG.8.14](https://www.bible.com/bible/1394/JDG.8.14.BKG) |
-| {{sɛvan}} | verb | be written | [EXO.28.10](https://www.bible.com/bible/1394/EXO.28.10.BKG) |
+| {{sɛbɔɔ}}, pl. {{sɛbɛlan}} | noun (o) | book, letter, document | [Exod 17:14](https://www.bible.com/bible/1394/EXO.17.14.BKG) |
+| {{sɛvaa}} | verb | write | [Exod 24:7](https://www.bible.com/bible/1394/EXO.24.7.BKG) |
+| {{sɛvallo}} | verb | write for, write to | [Judg 8:14](https://www.bible.com/bible/1394/JDG.8.14.BKG) |
+| {{sɛvan}} | verb | be written | [Exod 28:10](https://www.bible.com/bible/1394/EXO.28.10.BKG) |
 | {{sɛvanɔɔ\|r}} | noun (o) | writer | Keita 1979, p. 145 |
 | {{sɛɛviaa\|r}} | verb | scribble | Keita 1979, p. 113 |
 
@@ -1027,19 +1027,19 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kaandennɔ}}, pl. {{kaandennda}} | noun | disciple | [MAT.10.37](https://www.bible.com/bible/1394/MAT.10.37.BKG) |
-| {{kɔɔfanɔɔ}} | noun (o) | teacher, master | [MAT.23.8](https://www.bible.com/bible/1394/MAT.23.8.BKG) |
-| {{pɛɛkoo}} | verb | teach — *Southern Kissi (Childs 2000) :* teach; also study, learn | [EXO.35.34](https://www.bible.com/bible/1394/EXO.35.34.BKG) |
-| {{pɛɛkula}} | noun | teachings, precepts — *Southern Kissi (Childs 2000) :* teachings; ways of learning | [LEV.25.18](https://www.bible.com/bible/1394/LEV.25.18.BKG) |
-| {{silaa}} | verb | advise, instruct — *Southern Kissi (Childs 2000) :* advise or warn | [GEN.26.26](https://www.bible.com/bible/1394/GEN.26.26.BKG) |
-| {{silalan}} | noun (lan) | statutes, precepts, counsel | [GEN.49.33](https://www.bible.com/bible/1394/GEN.49.33.BKG) |
+| {{kaandennɔ}}, pl. {{kaandennda}} | noun | disciple | [Matt 10:37](https://www.bible.com/bible/1394/MAT.10.37.BKG) |
+| {{kɔɔfanɔɔ}} | noun (o) | teacher, master | [Matt 23:8](https://www.bible.com/bible/1394/MAT.23.8.BKG) |
+| {{pɛɛkoo}} | verb | teach — *Southern Kissi (Childs 2000) :* teach; also study, learn | [Exod 35:34](https://www.bible.com/bible/1394/EXO.35.34.BKG) |
+| {{pɛɛkula}} | noun | teachings, precepts — *Southern Kissi (Childs 2000) :* teachings; ways of learning | [Lev 25:18](https://www.bible.com/bible/1394/LEV.25.18.BKG) |
+| {{silaa}} | verb | advise, instruct — *Southern Kissi (Childs 2000) :* advise or warn | [Gen 26:26](https://www.bible.com/bible/1394/GEN.26.26.BKG) |
+| {{silalan}} | noun (lan) | statutes, precepts, counsel | [Gen 49:33](https://www.bible.com/bible/1394/GEN.49.33.BKG) |
 | {{silanɔɔ\|r}} | noun (o) | educator | Keita 1979, p. 145 |
 
 ### 3.6.2 School
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kaandennɔɔ}}, pl. {{kaandennda}} | noun (o) | pupil, disciple | [ISA.50.4](https://www.bible.com/bible/1394/ISA.50.4.BKG) |
+| {{kaandennɔɔ}}, pl. {{kaandennda}} | noun (o) | pupil, disciple | [Isa 50:4](https://www.bible.com/bible/1394/ISA.50.4.BKG) |
 
 ## 4. Social behavior
 
@@ -1047,38 +1047,38 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlan}} | verb | agree together, ally | [GEN.14.5](https://www.bible.com/bible/1394/GEN.14.5.BKG) |
+| {{cɛlan}} | verb | agree together, ally | [Gen 14:5](https://www.bible.com/bible/1394/GEN.14.5.BKG) |
 | {{duniaa\|r}} | noun (o) | humanity; world | Keita 1979, p. 148 |
-| {{holnun}} | verb | cling to, be joined to | [GEN.2.24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{yungoo}}, pl. {{yungulan}} | noun (o) | family, household; people (of a place) ; family, household; people, nation — *Southern Kissi (Childs 2000) :* family, household; also a cooking tripod, hearth | [GEN.13.13](https://www.bible.com/bible/1394/GEN.13.13.BKG) |
+| {{holnun}} | verb | cling to, be joined to | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
+| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{yungoo}}, pl. {{yungulan}} | noun (o) | family, household; people (of a place) ; family, household; people, nation — *Southern Kissi (Childs 2000) :* family, household; also a cooking tripod, hearth | [Gen 13:13](https://www.bible.com/bible/1394/GEN.13.13.BKG) |
 
 ### 4.1.1 Friend
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{caan}}, pl. {{caanda}} | noun | friend, companion; neighbour | [GEN.38.12](https://www.bible.com/bible/1394/GEN.38.12.BKG) |
-| {{caaŋoo}}, pl. {{caaŋaa}} | noun (o) | companion, friend — *Southern Kissi (Childs 2000) :* friend, companion (plural form) | [2SA.15.37](https://www.bible.com/bible/1394/2SA.15.37.BKG) |
+| {{caan}}, pl. {{caanda}} | noun | friend, companion; neighbour | [Gen 38:12](https://www.bible.com/bible/1394/GEN.38.12.BKG) |
+| {{caaŋoo}}, pl. {{caaŋaa}} | noun (o) | companion, friend — *Southern Kissi (Childs 2000) :* friend, companion (plural form) | [2 Sam 15:37](https://www.bible.com/bible/1394/2SA.15.37.BKG) |
 | {{caaɲɛi\|r}} | noun (i) | friendship — *Southern Kissi (Childs 2000) :* friendship; friend, lover | Keita 1979, p. 148 |
-| {{puapilɛ}}, pl. {{puapilɛa}} | noun | neighbour, fellow; brother (fellow member) | [GEN.9.5](https://www.bible.com/bible/1394/GEN.9.5.BKG) |
+| {{puapilɛ}}, pl. {{puapilɛa}} | noun | neighbour, fellow; brother (fellow member) | [Gen 9:5](https://www.bible.com/bible/1394/GEN.9.5.BKG) |
 | {{yeelannɔɔ\|r}} | noun (o) | ally | Keita 1979, p. 149 |
 
 ### 4.1.2 Types of people
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{miallo}}, pl. {{mialla}} | noun (o) | stranger, foreigner — *Southern Kissi (Childs 2000) :* guest, visitor, outsider | [GEN.23.4](https://www.bible.com/bible/1394/GEN.23.4.BKG) |
-| {{sumialle}} | noun | sojourning as a stranger; (o sumialle) as a stranger | [GEN.15.13](https://www.bible.com/bible/1394/GEN.15.13.BKG) |
-| {{vanacieo}}, pl. {{vanndacieea}} | noun (o) | human being, man; (pl.) people, mankind — *Southern Kissi (Childs 2000) :* citizen, human being | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{vanndo}}, pl. {{vannda}} | noun (o) | person, human being | [GEN.27.42](https://www.bible.com/bible/1394/GEN.27.42.BKG) |
+| {{miallo}}, pl. {{mialla}} | noun (o) | stranger, foreigner — *Southern Kissi (Childs 2000) :* guest, visitor, outsider | [Gen 23:4](https://www.bible.com/bible/1394/GEN.23.4.BKG) |
+| {{sumialle}} | noun | sojourning as a stranger; (o sumialle) as a stranger | [Gen 15:13](https://www.bible.com/bible/1394/GEN.15.13.BKG) |
+| {{vanacieo}}, pl. {{vanndacieea}} | noun (o) | human being, man; (pl.) people, mankind — *Southern Kissi (Childs 2000) :* citizen, human being | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{vanndo}}, pl. {{vannda}} | noun (o) | person, human being | [Gen 27:42](https://www.bible.com/bible/1394/GEN.27.42.BKG) |
 | {{yaafanɔɔ\|r}} | noun (o) | traitor | Keita 1979, p. 156 |
 
 ### 4.1.4 Neighbor
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{caan}}, pl. {{caanda}} | noun | friend, companion; neighbour | [GEN.38.12](https://www.bible.com/bible/1394/GEN.38.12.BKG) |
-| {{puapilɛ}}, pl. {{puapilɛa}} | noun | neighbour, fellow; brother (fellow member) | [GEN.9.5](https://www.bible.com/bible/1394/GEN.9.5.BKG) |
+| {{caan}}, pl. {{caanda}} | noun | friend, companion; neighbour | [Gen 38:12](https://www.bible.com/bible/1394/GEN.38.12.BKG) |
+| {{puapilɛ}}, pl. {{puapilɛa}} | noun | neighbour, fellow; brother (fellow member) | [Gen 9:5](https://www.bible.com/bible/1394/GEN.9.5.BKG) |
 
 ### 4.1.9 Kinship
 
@@ -1088,76 +1088,76 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{bomndo\|r}} | noun (o) | uncle — *Southern Kissi (Childs 2000) :* maternal uncle (mother's brother) | Keita 1979, p. 134 |
 | {{bɔlaa\|r}} | noun (o) | brother-in-law, sister-in-law — *Southern Kissi (Childs 2000) :* a man's brother's wife, a woman's brother-in-law; joking relative | Keita 1979, p. 134 |
 | {{bɔmɔɔ\|r}} | noun (o) | aunt — *Southern Kissi (Childs 2000) :* father's sister; also a spirit of the female initiation society | Keita 1979, p. 134 |
-| {{bɛ}} | noun | elder sibling | [GEN.25.29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
+| {{bɛ}} | noun | elder sibling | [Gen 25:29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
 | {{bɛnduo\|r}} | noun (o) | elder brother — *Southern Kissi (Childs 2000) :* elder, older brother; big one; term of respect | Keita 1979, p. 134 |
 | {{cua mamaa\|r}} | noun | grandchild | Keita 1979, p. 134 |
-| {{cuaa}}, pl. {{cuavaa}} | noun (o) | child; the woman (in question); (pl.) children, descendants — *Southern Kissi (Childs 2000) :* girl, daughter, young woman, woman | [GEN.3.13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
-| {{cɛiyo}}, pl. {{cɛilan}} | noun (o) | house ; house; household | [GEN.19.11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
+| {{cuaa}}, pl. {{cuavaa}} | noun (o) | child; the woman (in question); (pl.) children, descendants — *Southern Kissi (Childs 2000) :* girl, daughter, young woman, woman | [Gen 3:13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
+| {{cɛiyo}}, pl. {{cɛilan}} | noun (o) | house ; house; household | [Gen 19:11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
 | {{falnɔɔ\|r}} | noun | father-in-law, son-in-law — *Southern Kissi (Childs 2000) :* in-law | Keita 1979, p. 134 |
-| {{fuɲaa}} | noun (o) | father ; father; (pl.) forefathers — *Southern Kissi (Childs 2000) :* father; term of respect for a man | [GEN.4.18](https://www.bible.com/bible/1394/GEN.4.18.BKG) |
-| {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | noun (o) | child, offspring | [GEN.4.1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
-| {{imamaa}} | noun | descendants, generations | [GEN.5.1](https://www.bible.com/bible/1394/GEN.5.1.BKG) |
-| {{ipulu}} | noun | offspring; (naŋ ipúlú) be fruitful | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [GEN.48.14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
+| {{fuɲaa}} | noun (o) | father ; father; (pl.) forefathers — *Southern Kissi (Childs 2000) :* father; term of respect for a man | [Gen 4:18](https://www.bible.com/bible/1394/GEN.4.18.BKG) |
+| {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | noun (o) | child, offspring | [Gen 4:1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
+| {{imamaa}} | noun | descendants, generations | [Gen 5:1](https://www.bible.com/bible/1394/GEN.5.1.BKG) |
+| {{ipulu}} | noun | offspring; (naŋ ipúlú) be fruitful | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [Gen 48:14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
 | {{kabilaa\|r}} | noun (o) | clan | Keita 1979, p. 142 |
-| {{kala-mamaa}} | noun (o) | grandmother; ancestress — *Southern Kissi (Childs 2000) :* grandmother, old woman | [GEN.24.60](https://www.bible.com/bible/1394/GEN.24.60.BKG) |
-| {{kalaa}} | noun (o) | mother | [GEN.2.15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
-| {{kɛ́ɔ}} | noun | inheritance, portion | [GEN.15.2](https://www.bible.com/bible/1394/GEN.15.2.BKG) |
-| {{lambi}}, pl. {{lambilan}} | noun | generation; time (occasion) | [GEN.50.23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
-| {{lanɔɔ}}, pl. {{laandua}} | noun (o) | wife — *Southern Kissi (Childs 2000) :* woman, wife | [GEN.11.29](https://www.bible.com/bible/1394/GEN.11.29.BKG) |
-| {{lefoo}} | noun | father-in-law; (lefu … laandoo) mother-in-law | [EXO.18.1](https://www.bible.com/bible/1394/EXO.18.1.BKG) |
+| {{kala-mamaa}} | noun (o) | grandmother; ancestress — *Southern Kissi (Childs 2000) :* grandmother, old woman | [Gen 24:60](https://www.bible.com/bible/1394/GEN.24.60.BKG) |
+| {{kalaa}} | noun (o) | mother | [Gen 2:15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
+| {{kɛ́ɔ}} | noun | inheritance, portion | [Gen 15:2](https://www.bible.com/bible/1394/GEN.15.2.BKG) |
+| {{lambi}}, pl. {{lambilan}} | noun | generation; time (occasion) | [Gen 50:23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
+| {{lanɔɔ}}, pl. {{laandua}} | noun (o) | wife — *Southern Kissi (Childs 2000) :* woman, wife | [Gen 11:29](https://www.bible.com/bible/1394/GEN.11.29.BKG) |
+| {{lefoo}} | noun | father-in-law; (lefu … laandoo) mother-in-law | [Exod 18:1](https://www.bible.com/bible/1394/EXO.18.1.BKG) |
 | {{lefuo\|r}}, pl. {{lefua\|r}} | noun (o) | in-law: son-in-law, daughter-in-law, father-in-law, mother-in-law — *Southern Kissi (Childs 2000) :* in-law | Keita 1979, p. 134 |
-| {{mamaa}} | noun | grandparent, ancestor; grandchild — *Southern Kissi (Childs 2000) :* grandmother, old woman | [GEN.10.32](https://www.bible.com/bible/1394/GEN.10.32.BKG) |
-| {{polalen}} | noun (len) | lineage, descendants, tribe; generations | [EXO.40.23](https://www.bible.com/bible/1394/EXO.40.23.BKG) |
-| {{pɔmbɔɔ}}, pl. {{pɔmbɔa}} | noun (o) | younger sibling; small, lesser — *Southern Kissi (Childs 2000) :* small | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{pɔnɔɔ}} | noun (o) | husband | [EXO.21.22](https://www.bible.com/bible/1394/EXO.21.22.BKG) |
-| {{pɛndunɔɔ}}, pl. {{pɛndua}} | noun (o) | twin | [GEN.38.28](https://www.bible.com/bible/1394/GEN.38.28.BKG) |
-| {{toongoo}} | noun (o) | nephew, niece (sister's child) — *Southern Kissi (Childs 2000) :* nephew, sister's son | [GEN.29.12](https://www.bible.com/bible/1394/GEN.29.12.BKG) |
-| {{vanayɛi}} | noun (i) | kinship, relatives — *Southern Kissi (Childs 2000) :* relative, member of the same family | [GEN.13.8](https://www.bible.com/bible/1394/GEN.13.8.BKG) |
-| {{vííyo}}, pl. {{vííya}} | noun (o) | orphan | [EXO.19.13](https://www.bible.com/bible/1394/EXO.19.13.BKG) |
-| {{yemaa}} | noun (o) | opposite-sex sibling: a man's sister, a woman's brother — *Southern Kissi (Childs 2000) :* sister; brother in some dialects | [GEN.24.55](https://www.bible.com/bible/1394/GEN.24.55.BKG) |
-| {{yungoo}}, pl. {{yungulan}} | noun (o) | family, household; people (of a place) ; family, household; people, nation — *Southern Kissi (Childs 2000) :* family, household; also a cooking tripod, hearth | [GEN.13.13](https://www.bible.com/bible/1394/GEN.13.13.BKG) |
+| {{mamaa}} | noun | grandparent, ancestor; grandchild — *Southern Kissi (Childs 2000) :* grandmother, old woman | [Gen 10:32](https://www.bible.com/bible/1394/GEN.10.32.BKG) |
+| {{polalen}} | noun (len) | lineage, descendants, tribe; generations | [Exod 40:23](https://www.bible.com/bible/1394/EXO.40.23.BKG) |
+| {{pɔmbɔɔ}}, pl. {{pɔmbɔa}} | noun (o) | younger sibling; small, lesser — *Southern Kissi (Childs 2000) :* small | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{pɔnɔɔ}} | noun (o) | husband | [Exod 21:22](https://www.bible.com/bible/1394/EXO.21.22.BKG) |
+| {{pɛndunɔɔ}}, pl. {{pɛndua}} | noun (o) | twin | [Gen 38:28](https://www.bible.com/bible/1394/GEN.38.28.BKG) |
+| {{toongoo}} | noun (o) | nephew, niece (sister's child) — *Southern Kissi (Childs 2000) :* nephew, sister's son | [Gen 29:12](https://www.bible.com/bible/1394/GEN.29.12.BKG) |
+| {{vanayɛi}} | noun (i) | kinship, relatives — *Southern Kissi (Childs 2000) :* relative, member of the same family | [Gen 13:8](https://www.bible.com/bible/1394/GEN.13.8.BKG) |
+| {{vííyo}}, pl. {{vííya}} | noun (o) | orphan | [Exod 19:13](https://www.bible.com/bible/1394/EXO.19.13.BKG) |
+| {{yemaa}} | noun (o) | opposite-sex sibling: a man's sister, a woman's brother — *Southern Kissi (Childs 2000) :* sister; brother in some dialects | [Gen 24:55](https://www.bible.com/bible/1394/GEN.24.55.BKG) |
+| {{yungoo}}, pl. {{yungulan}} | noun (o) | family, household; people (of a place) ; family, household; people, nation — *Southern Kissi (Childs 2000) :* family, household; also a cooking tripod, hearth | [Gen 13:13](https://www.bible.com/bible/1394/GEN.13.13.BKG) |
 
 ### 4.2.1 Come together, form a group
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{baala folobaa\|?}} | noun | communal labour | Keita 1979, p. 148 |
-| {{bɔŋaa}} | verb | meet, go to meet — *Southern Kissi (Childs 2000) :* bring together, join, cover; be sufficient | [GEN.14.17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
+| {{bɔŋaa}} | verb | meet, go to meet — *Southern Kissi (Childs 2000) :* bring together, join, cover; be sufficient | [Gen 14:17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
 | {{bɔŋallo\|r}} | verb | meet, welcome for someone — *Southern Kissi (Childs 2000) :* meet for someone, bring together for | Keita 1979, p. 110 |
-| {{bɔŋan}} | verb | meet, come upon | [GEN.4.15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
-| {{bɔŋanndo}} | noun (o) | meeting, encounter | [EXO.19.3](https://www.bible.com/bible/1394/EXO.19.3.BKG) |
-| {{cuungiaa}} | verb | gather, assemble — *Southern Kissi (Childs 2000) :* gather, collect; also contribute | [GEN.9.14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
-| {{cuungian}} | verb | gather, come together | [GEN.14.8](https://www.bible.com/bible/1394/GEN.14.8.BKG) |
-| {{cɛlan}} | verb | agree together, ally | [GEN.14.5](https://www.bible.com/bible/1394/GEN.14.5.BKG) |
-| {{mɔɔsiaa}} | verb | gather; (mɔɔsian) assemble, come together | [JOS.2.18](https://www.bible.com/bible/1394/JOS.2.18.BKG) |
-| {{sɛ́lɔ́ɔ́}} | noun | crowd, multitude | [GEN.15.5](https://www.bible.com/bible/1394/GEN.15.5.BKG) |
+| {{bɔŋan}} | verb | meet, come upon | [Gen 4:15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
+| {{bɔŋanndo}} | noun (o) | meeting, encounter | [Exod 19:3](https://www.bible.com/bible/1394/EXO.19.3.BKG) |
+| {{cuungiaa}} | verb | gather, assemble — *Southern Kissi (Childs 2000) :* gather, collect; also contribute | [Gen 9:14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
+| {{cuungian}} | verb | gather, come together | [Gen 14:8](https://www.bible.com/bible/1394/GEN.14.8.BKG) |
+| {{cɛlan}} | verb | agree together, ally | [Gen 14:5](https://www.bible.com/bible/1394/GEN.14.5.BKG) |
+| {{mɔɔsiaa}} | verb | gather; (mɔɔsian) assemble, come together | [Josh 2:18](https://www.bible.com/bible/1394/JOS.2.18.BKG) |
+| {{sɛ́lɔ́ɔ́}} | noun | crowd, multitude | [Gen 15:5](https://www.bible.com/bible/1394/GEN.15.5.BKG) |
 
 ### 4.2.2 Social event
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biisio}}, pl. {{biisilan}} | noun (o) | mourning, funeral — *Southern Kissi (Childs 2000) :* funeral arrangements, wake | [GEN.50.7](https://www.bible.com/bible/1394/GEN.50.7.BKG) |
-| {{kafoo}}, pl. {{kafolan}} | noun (o) | feast, festival | [GEN.29.22](https://www.bible.com/bible/1394/GEN.29.22.BKG) |
+| {{biisio}}, pl. {{biisilan}} | noun (o) | mourning, funeral — *Southern Kissi (Childs 2000) :* funeral arrangements, wake | [Gen 50:7](https://www.bible.com/bible/1394/GEN.50.7.BKG) |
+| {{kafoo}}, pl. {{kafolan}} | noun (o) | feast, festival | [Gen 29:22](https://www.bible.com/bible/1394/GEN.29.22.BKG) |
 | {{ngeloo\|r}} | noun (o) | carnival | Keita 1979, p. 163 |
 
 ### 4.2.3 Music
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bangaa}}, pl. {{bangalan}} | noun (o) | harp, lyre; kora | [1SA.16.16](https://www.bible.com/bible/1394/1SA.16.16.BKG) |
+| {{bangaa}}, pl. {{bangalan}} | noun (o) | harp, lyre; kora | [1 Sam 16:16](https://www.bible.com/bible/1394/1SA.16.16.BKG) |
 | {{bondomanɔɔ\|r}} | noun (o) | guitar or harp player | Keita 1979, p. 145 |
-| {{condei}}, pl. {{condon}} | noun (i) | song | [EXO.15](https://www.bible.com/bible/1394/EXO.15.BKG) |
+| {{condei}}, pl. {{condon}} | noun (i) | song | [Exod 15](https://www.bible.com/bible/1394/EXO.15.BKG) |
 | {{cɛkɔɔ\|r}} | noun (o) | men's rattle | Keita 1979, p. 163 |
-| {{dundoo}}, pl. {{dundulan}} | noun (o) | drum, tambourine — *Southern Kissi (Childs 2000) :* big round drum, bass drum | [EXO.15.20](https://www.bible.com/bible/1394/EXO.15.20.BKG) |
+| {{dundoo}}, pl. {{dundulan}} | noun (o) | drum, tambourine — *Southern Kissi (Childs 2000) :* big round drum, bass drum | [Exod 15:20](https://www.bible.com/bible/1394/EXO.15.20.BKG) |
 | {{hɔnlesɛnnɔɔ\|r}} | noun (o) | flute player | Keita 1979, p. 145 |
-| {{hɔŋndo}} | verb | blow; sound (a trumpet) | [EXO.10.13](https://www.bible.com/bible/1394/EXO.10.13.BKG) |
+| {{hɔŋndo}} | verb | blow; sound (a trumpet) | [Exod 10:13](https://www.bible.com/bible/1394/EXO.10.13.BKG) |
 | {{keleŋnde\|r}} | noun (i) | slit drum, wooden xylophone drum — *Southern Kissi (Childs 2000) :* wooden drum: a hollow log with holes, beaten with sticks | Keita 1979, p. 163 |
-| {{lee}}, pl. {{leelan}} | noun | horn; (horn) trumpet | [GEN.36.7](https://www.bible.com/bible/1394/GEN.36.7.BKG) |
-| {{lɔaa}} | verb | strike, beat; play (an instrument) ; strike, beat; play (an instrument); knock — *Southern Kissi (Childs 2000) :* hit, beat, strike | [GEN.4.21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
+| {{lee}}, pl. {{leelan}} | noun | horn; (horn) trumpet | [Gen 36:7](https://www.bible.com/bible/1394/GEN.36.7.BKG) |
+| {{lɔaa}} | verb | strike, beat; play (an instrument) ; strike, beat; play (an instrument); knock — *Southern Kissi (Childs 2000) :* hit, beat, strike | [Gen 4:21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
 | {{samkpaa\|r}} | noun (o) | a kind of drum — *Southern Kissi (Childs 2000) :* drum about three feet high, held between the legs and played with the hands | Keita 1979, p. 163 |
 | {{sinamannden\|r}} | noun (len) | one-stringed musical bow | Keita 1979, p. 163 |
-| {{sɛ̀ŋnden}} | noun (len) | flute, pipe | [JOB.21.12](https://www.bible.com/bible/1394/JOB.21.12.BKG) |
+| {{sɛ̀ŋnden}} | noun (len) | flute, pipe | [Job 21:12](https://www.bible.com/bible/1394/JOB.21.12.BKG) |
 | {{sɛɛlan\|r}} | noun (lan) | women's rattles | Keita 1979, p. 163 |
 | {{tambeloo\|r}} | noun (o) | war drum — *Southern Kissi (Childs 2000) :* a kind of drum | Keita 1979, p. 163 |
 | {{vanaɲɛcaa\|r}} | noun (o) | musician | Keita 1979, p. 145 |
@@ -1173,7 +1173,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kpekpeyangaa\|r}} | noun (o) | dance for the coming-out of initiated girls | Keita 1979, p. 163 |
 | {{kpongo\|r}} | noun | folk dance expressing joy | Keita 1979, p. 163 |
 | {{kungumaa\|r}} | noun (o) | dance to the traditional xylophone — *Southern Kissi (Childs 2000) :* crocodile-like burrowing animal; name of a secret-society figure | Keita 1979, p. 163 |
-| {{yolan}} | noun (lan) | dance | [EXO.15.20](https://www.bible.com/bible/1394/EXO.15.20.BKG) |
+| {{yolan}} | noun (lan) | dance | [Exod 15:20](https://www.bible.com/bible/1394/EXO.15.20.BKG) |
 | {{yolen\|r}} | noun (len) | hip-shaking dance | Keita 1979, p. 165 |
 | {{yɛngiyo\|r}} | noun (o) | dance performed on wood | Keita 1979, p. 163 |
 
@@ -1184,263 +1184,263 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{duudulen\|r}} | noun (len) | hide-and-seek | Keita 1979, p. 163 |
 | {{kamalindoŋnden\|r}} | noun (len) | swing — *Southern Kissi (Childs 2000) :* swing, usually made of vines | Keita 1979, p. 163 |
 | {{koon vuuvo\|r}} | noun | cowry game | Keita 1979, p. 163 |
-| {{pisultan}} | noun (lan) | play, games — *Southern Kissi (Childs 2000) :* play, joke, tease (also a verb) | [GEN.21.9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
+| {{pisultan}} | noun (lan) | play, games — *Southern Kissi (Childs 2000) :* play, joke, tease (also a verb) | [Gen 21:9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
 | {{siiyon yiiyo\|?}} | noun | spinning-top game — *Southern Kissi (Childs 2000) :* spinning top; also a gambling game played with tops | Keita 1979, p. 163 |
 
 ### 4.2.7 Play, fun
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pisultan}} | noun (lan) | play, games — *Southern Kissi (Childs 2000) :* play, joke, tease (also a verb) | [GEN.21.9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
-| {{pisultan}} | verb | play — *Southern Kissi (Childs 2000) :* play, joke | [GEN.21.9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
+| {{pisultan}} | noun (lan) | play, games — *Southern Kissi (Childs 2000) :* play, joke, tease (also a verb) | [Gen 21:9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
+| {{pisultan}} | verb | play — *Southern Kissi (Childs 2000) :* play, joke | [Gen 21:9](https://www.bible.com/bible/1394/GEN.21.9.BKG) |
 
 ### 4.3 Behavior
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biwnun}} | verb | bear, endure; be patient | [NEH.9.17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
-| {{ciimbuu}} | verb | steal | [GEN.31.19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
-| {{còòlan}} | noun (lan) | lies, falsehood | [GEN.42.12](https://www.bible.com/bible/1394/GEN.42.12.BKG) |
-| {{diɔmndo}} | noun (o) | folly; (pl.) fools — *Southern Kissi (Childs 2000) :* fool, foolish person | [1SA.21.14](https://www.bible.com/bible/1394/1SA.21.14.BKG) |
-| {{dúmbú}} | noun | treachery; (yii … dúmbú) betray, deceive | [GEN.21.23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
+| {{biwnun}} | verb | bear, endure; be patient | [Neh 9:17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
+| {{ciimbuu}} | verb | steal | [Gen 31:19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
+| {{còòlan}} | noun (lan) | lies, falsehood | [Gen 42:12](https://www.bible.com/bible/1394/GEN.42.12.BKG) |
+| {{diɔmndo}} | noun (o) | folly; (pl.) fools — *Southern Kissi (Childs 2000) :* fool, foolish person | [1 Sam 21:14](https://www.bible.com/bible/1394/1SA.21.14.BKG) |
+| {{dúmbú}} | noun | treachery; (yii … dúmbú) betray, deceive | [Gen 21:23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
 | {{fulakɔlio\|r}} | noun | betrayal | Keita 1979, p. 156 |
-| {{hakio}}, pl. {{hakilan}} | noun (o) | sin, wrongdoing — *Southern Kissi (Childs 2000) :* pardon, forgiveness; sin | [GEN.4.7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
-| {{hialu}} | verb | take by stealth; slip away, disappear | [GEN.27.35](https://www.bible.com/bible/1394/GEN.27.35.BKG) |
-| {{huiyo}} | verb | deceive, betray — *Southern Kissi (Childs 2000) :* cheat, deceive; also break a promise | [JDG.16.10](https://www.bible.com/bible/1394/JDG.16.10.BKG) |
-| {{kelaa}} | verb | walk ; walk; behave, live — *Southern Kissi (Childs 2000) :* walk around (e.g. to sell) | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{kuundian}} | verb | be proud, be arrogant; pride | [DEU.29.18](https://www.bible.com/bible/1394/DEU.29.18.BKG) |
-| {{kɔlvesɛiyo}} | noun (o) | wickedness, violence; (pl.) the wicked | [GEN.6.13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
-| {{laasiaa}} | verb | corrupt, ruin; confuse (languages) — *Southern Kissi (Childs 2000) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [GEN.11.9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
-| {{laasianndo}} | verb | do wrong, be corrupt, sin; wickedness | [GEN.18.20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
-| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [DEU.18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{hakio}}, pl. {{hakilan}} | noun (o) | sin, wrongdoing — *Southern Kissi (Childs 2000) :* pardon, forgiveness; sin | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
+| {{hialu}} | verb | take by stealth; slip away, disappear | [Gen 27:35](https://www.bible.com/bible/1394/GEN.27.35.BKG) |
+| {{huiyo}} | verb | deceive, betray — *Southern Kissi (Childs 2000) :* cheat, deceive; also break a promise | [Judg 16:10](https://www.bible.com/bible/1394/JDG.16.10.BKG) |
+| {{kelaa}} | verb | walk ; walk; behave, live — *Southern Kissi (Childs 2000) :* walk around (e.g. to sell) | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{kuundian}} | verb | be proud, be arrogant; pride | [Deut 29:18](https://www.bible.com/bible/1394/DEU.29.18.BKG) |
+| {{kɔlvesɛiyo}} | noun (o) | wickedness, violence; (pl.) the wicked | [Gen 6:13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
+| {{laasiaa}} | verb | corrupt, ruin; confuse (languages) — *Southern Kissi (Childs 2000) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [Gen 11:9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
+| {{laasianndo}} | verb | do wrong, be corrupt, sin; wickedness | [Gen 18:20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
+| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
 | {{liimiaa\|r}} | verb | deceive | Keita 1979, p. 110 |
 | {{mamanndo\|r}} | verb | mock | Keita 1979, p. 114 |
-| {{pɛɛsaa}} | verb | despise, scorn — *Southern Kissi (Childs 2000) :* oversee; blame, criticize | [NUM.14.11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
-| {{suundaa}} | noun (o) | adultery, prostitution — *Southern Kissi (Childs 2000) :* to fornicate (verb) | [LEV.21.9](https://www.bible.com/bible/1394/LEV.21.9.BKG) |
-| {{tɛɛmbuula}}, pl. {{tɛɛmbuulan}} | noun | transgressions, offences | [LEV.16.21](https://www.bible.com/bible/1394/LEV.16.21.BKG) |
+| {{pɛɛsaa}} | verb | despise, scorn — *Southern Kissi (Childs 2000) :* oversee; blame, criticize | [Num 14:11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
+| {{suundaa}} | noun (o) | adultery, prostitution — *Southern Kissi (Childs 2000) :* to fornicate (verb) | [Lev 21:9](https://www.bible.com/bible/1394/LEV.21.9.BKG) |
+| {{tɛɛmbuula}}, pl. {{tɛɛmbuulan}} | noun | transgressions, offences | [Lev 16:21](https://www.bible.com/bible/1394/LEV.16.21.BKG) |
 | {{vana lacòòva\|r}} | noun | liar — *Southern Kissi (Childs 2000) :* lie, falsehood | Keita 1979, p. 149 |
-| {{vuiyo}}, pl. {{vuiya}} | noun (o) | thief | [EXO.22.1](https://www.bible.com/bible/1394/EXO.22.1.BKG) |
-| {{vɔɔndo}} | adjective | bad, evil, wicked — *Southern Kissi (Childs 2000) :* bad, evil; also ugly (wɔ̀ùwó 'be bad or ugly') | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{vuiyo}}, pl. {{vuiya}} | noun (o) | thief | [Exod 22:1](https://www.bible.com/bible/1394/EXO.22.1.BKG) |
+| {{vɔɔndo}} | adjective | bad, evil, wicked — *Southern Kissi (Childs 2000) :* bad, evil; also ugly (wɔ̀ùwó 'be bad or ugly') | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
 | {{yaafalen\|r}} | noun (len) | betrayal | Keita 1979, p. 156 |
 | {{yaafanɔɔ\|r}} | noun (o) | traitor | Keita 1979, p. 156 |
-| {{yeowlan}} | verb | mock, insult; curse — *Southern Kissi (Childs 2000) :* abuse repeatedly (plural of yèìyó 'insult, curse') | [JDG.8.15](https://www.bible.com/bible/1394/JDG.8.15.BKG) |
-| {{yongaa}} | noun (o) | pride, arrogance — *Southern Kissi (Childs 2000) :* pride, boasting | [DEU.8.14](https://www.bible.com/bible/1394/DEU.8.14.BKG) |
-| {{yɔŋndo}} | noun (o) | deed, act | [LEV.24.12](https://www.bible.com/bible/1394/LEV.24.12.BKG) |
+| {{yeowlan}} | verb | mock, insult; curse — *Southern Kissi (Childs 2000) :* abuse repeatedly (plural of yèìyó 'insult, curse') | [Judg 8:15](https://www.bible.com/bible/1394/JDG.8.15.BKG) |
+| {{yongaa}} | noun (o) | pride, arrogance — *Southern Kissi (Childs 2000) :* pride, boasting | [Deut 8:14](https://www.bible.com/bible/1394/DEU.8.14.BKG) |
+| {{yɔŋndo}} | noun (o) | deed, act | [Lev 24:12](https://www.bible.com/bible/1394/LEV.24.12.BKG) |
 
 ### 4.3.1 Good, moral
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpakpalaa}} | verb | keep away from, avoid; spare, set apart | [GEN.6](https://www.bible.com/bible/1394/GEN.6.BKG) |
-| {{lediom}} | noun | truth, faithfulness, uprightness | [GEN.47.29](https://www.bible.com/bible/1394/GEN.47.29.BKG) |
-| {{sakpoo}} | adjective | upright, honest — *Southern Kissi (Childs 2000) :* (ideophone) straight ahead, erect; right away | [DEU.32.4](https://www.bible.com/bible/1394/DEU.32.4.BKG) |
-| {{sakpoyɛi}} | noun (i) | uprightness, integrity, equity | [2SA.2.6](https://www.bible.com/bible/1394/2SA.2.6.BKG) |
-| {{sandaa}} | adjective | righteous, just; (dɛnɛ sandaa) righteousness | [GEN.6.9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
-| {{sandei}} | noun (i) | justice, righteousness, equity | [GEN.18.19](https://www.bible.com/bible/1394/GEN.18.19.BKG) |
-| {{sendu}} | adjective | straight, right (… sendu le 'unjust, crooked') — *Southern Kissi (Childs 2000) :* be straight; be honest; (of a lamp or fire) be bright | [JOB.27.7](https://www.bible.com/bible/1394/JOB.27.7.BKG) |
+| {{kpakpalaa}} | verb | keep away from, avoid; spare, set apart | [Gen 6](https://www.bible.com/bible/1394/GEN.6.BKG) |
+| {{lediom}} | noun | truth, faithfulness, uprightness | [Gen 47:29](https://www.bible.com/bible/1394/GEN.47.29.BKG) |
+| {{sakpoo}} | adjective | upright, honest — *Southern Kissi (Childs 2000) :* (ideophone) straight ahead, erect; right away | [Deut 32:4](https://www.bible.com/bible/1394/DEU.32.4.BKG) |
+| {{sakpoyɛi}} | noun (i) | uprightness, integrity, equity | [2 Sam 2:6](https://www.bible.com/bible/1394/2SA.2.6.BKG) |
+| {{sandaa}} | adjective | righteous, just; (dɛnɛ sandaa) righteousness | [Gen 6:9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
+| {{sandei}} | noun (i) | justice, righteousness, equity | [Gen 18:19](https://www.bible.com/bible/1394/GEN.18.19.BKG) |
+| {{sendu}} | adjective | straight, right (… sendu le 'unjust, crooked') — *Southern Kissi (Childs 2000) :* be straight; be honest; (of a lamp or fire) be bright | [Job 27:7](https://www.bible.com/bible/1394/JOB.27.7.BKG) |
 | {{vanacieeyɛi\|?}} | noun (i) | humanity, humaneness (Keita) | Keita 1979, p. 149 |
-| {{vanakɛndɛyɛi}} | noun (i) | kindness, goodness | [1SA.24.19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
+| {{vanakɛndɛyɛi}} | noun (i) | kindness, goodness | [1 Sam 24:19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
 
 ### 4.3.3 Love
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{kaalaa\|r}} | verb | love, cherish — *Southern Kissi (Childs 2000) :* love, be in love with | Keita 1979, p. 110 |
-| {{kaolaa}} | verb | love — *Southern Kissi (Childs 2000) :* love, be in love with | [DEU.6](https://www.bible.com/bible/1394/DEU.6.BKG) |
+| {{kaolaa}} | verb | love — *Southern Kissi (Childs 2000) :* love, be in love with | [Deut 6](https://www.bible.com/bible/1394/DEU.6.BKG) |
 
 ### 4.3.4 Do good to
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{iɲíí}} | noun | pity, mercy; (tuinun … iɲíí) have mercy on — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [GEN.30.27](https://www.bible.com/bible/1394/GEN.30.27.BKG) |
-| {{maalianndo}} | verb | help one another | [ISA.41.6](https://www.bible.com/bible/1394/ISA.41.6.BKG) |
-| {{malaa}} | verb | help | [GEN.2.18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
+| {{iɲíí}} | noun | pity, mercy; (tuinun … iɲíí) have mercy on — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Gen 30:27](https://www.bible.com/bible/1394/GEN.30.27.BKG) |
+| {{maalianndo}} | verb | help one another | [Isa 41:6](https://www.bible.com/bible/1394/ISA.41.6.BKG) |
+| {{malaa}} | verb | help | [Gen 2:18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
 | {{tooluo\|?}} | verb | arrange, repair; provide for — *Southern Kissi (Childs 2000) :* assist, help | Keita 1979, p. 113 |
-| {{tosallo}} | verb | do for, do to (someone) | [GEN.21.12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
-| {{tuinɔnndo}} | verb | show favour, have mercy (tuinun … iɲíí) | [EXO.33.19](https://www.bible.com/bible/1394/EXO.33.19.BKG) |
-| {{vanakɛndɛyɛi}} | noun (i) | kindness, goodness | [1SA.24.19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
-| {{vɔ̀ngɔ̀}} | noun | reward, wages | [GEN.15.1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
-| {{ɲia}} | noun | favour (ca … ɲia 'look on with favour') | [GEN.6.8](https://www.bible.com/bible/1394/GEN.6.8.BKG) |
-| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [EXO.2.6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
-| {{ɲɔɔloo}} | verb | beg, entreat; comfort — *Southern Kissi (Childs 2000) :* beg, beseech, ask forgiveness | [GEN.24.67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
+| {{tosallo}} | verb | do for, do to (someone) | [Gen 21:12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
+| {{tuinɔnndo}} | verb | show favour, have mercy (tuinun … iɲíí) | [Exod 33:19](https://www.bible.com/bible/1394/EXO.33.19.BKG) |
+| {{vanakɛndɛyɛi}} | noun (i) | kindness, goodness | [1 Sam 24:19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
+| {{vɔ̀ngɔ̀}} | noun | reward, wages | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
+| {{ɲia}} | noun | favour (ca … ɲia 'look on with favour') | [Gen 6:8](https://www.bible.com/bible/1394/GEN.6.8.BKG) |
+| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{ɲɔɔloo}} | verb | beg, entreat; comfort — *Southern Kissi (Childs 2000) :* beg, beseech, ask forgiveness | [Gen 24:67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
 
 ### 4.3.7 Polite
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{a yandi}} | interjection | please |  |
-| {{balika}} | interjection | thank you | [GEN.24.48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
-| {{balikaa}} | noun | thanks, thanksgiving | [LEV.7.12](https://www.bible.com/bible/1394/LEV.7.12.BKG) |
-| {{isɛ}} | interjection | greetings, hello | [GEN.27.18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
+| {{balika}} | interjection | thank you | [Gen 24:48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
+| {{balikaa}} | noun | thanks, thanksgiving | [Lev 7:12](https://www.bible.com/bible/1394/LEV.7.12.BKG) |
+| {{isɛ}} | interjection | greetings, hello | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
 | {{yilanndo\|r}} | verb | greet each other | Keita 1979, p. 114 |
-| {{yilɔɔ}} | verb | greet; marry (a wife) — *Southern Kissi (Childs 2000) :* greet or salute | [GEN.24.7](https://www.bible.com/bible/1394/GEN.24.7.BKG) |
+| {{yilɔɔ}} | verb | greet; marry (a wife) — *Southern Kissi (Childs 2000) :* greet or salute | [Gen 24:7](https://www.bible.com/bible/1394/GEN.24.7.BKG) |
 
 ### 4.3.9 Culture
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{naamu}}, pl. {{naamula}} | noun | custom, tradition | [1KI.18.28](https://www.bible.com/bible/1394/1KI.18.28.BKG) |
+| {{naamu}}, pl. {{naamula}} | noun | custom, tradition | [1 Kgs 18:28](https://www.bible.com/bible/1394/1KI.18.28.BKG) |
 | {{yondo toomaa\|r}} | noun | sacred forest (initiation) — *Southern Kissi (Childs 2000) :* men's secret initiation society (Poro), bush school | Keita 1979, p. 142 |
 
 ### 4.4 Prosperity, trouble
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baŋa}} | verb | save, deliver — *Southern Kissi (Childs 2000) :* release, free, redeem | [GEN.14](https://www.bible.com/bible/1394/GEN.14.BKG) |
-| {{baŋaa}} | verb | deliver, save, set free | [GEN.19.20](https://www.bible.com/bible/1394/GEN.19.20.BKG) |
-| {{baŋan}} | verb | be saved, be redeemed | [GEN.45.7](https://www.bible.com/bible/1394/GEN.45.7.BKG) |
-| {{ciindiaa}} | verb | save, rescue — *Southern Kissi (Childs 2000) :* wean (a child); survive, make survive, rescue | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{duaa}} | noun | blessing; happiness | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{baŋa}} | verb | save, deliver — *Southern Kissi (Childs 2000) :* release, free, redeem | [Gen 14](https://www.bible.com/bible/1394/GEN.14.BKG) |
+| {{baŋaa}} | verb | deliver, save, set free | [Gen 19:20](https://www.bible.com/bible/1394/GEN.19.20.BKG) |
+| {{baŋan}} | verb | be saved, be redeemed | [Gen 45:7](https://www.bible.com/bible/1394/GEN.45.7.BKG) |
+| {{ciindiaa}} | verb | save, rescue — *Southern Kissi (Childs 2000) :* wean (a child); survive, make survive, rescue | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{duaa}} | noun | blessing; happiness | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
 | {{dɛnɛ kɛndɔɔ}} | noun | good thing; happiness | Keita 1979, p. 148 |
-| {{hɛlun}} | verb | escape, survive | [GEN.14.10](https://www.bible.com/bible/1394/GEN.14.10.BKG) |
-| {{kanda}} | verb | guard, protect | [GEN.3.24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
+| {{hɛlun}} | verb | escape, survive | [Gen 14:10](https://www.bible.com/bible/1394/GEN.14.10.BKG) |
+| {{kanda}} | verb | guard, protect | [Gen 3:24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
 
 ### 4.4.2 Trouble
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dangaa}} | noun | curse — *Southern Kissi (Childs 2000) :* rudeness, disrespect, insulting someone | [GEN.3.14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
+| {{dangaa}} | noun | curse — *Southern Kissi (Childs 2000) :* rudeness, disrespect, insulting someone | [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
 | {{dɛnɛ palaa}} | noun | misfortune, woe | Keita 1979, p. 148 |
-| {{fofolan}} | noun | famine (yima fofolan) | [GEN.12.10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
-| {{ikɔɔ}} | adjective | poor, needy | [EXO.22.24](https://www.bible.com/bible/1394/EXO.22.24.BKG) |
-| {{kendu}} | adjective | difficult, hard | [GEN.18.14](https://www.bible.com/bible/1394/GEN.18.14.BKG) |
-| {{kpundɛ}}, pl. {{kpundɛlan}} | noun | plague, calamity — *Southern Kissi (Childs 2000) :* trouble, mishap, misfortune | [GEN.9.11](https://www.bible.com/bible/1394/GEN.9.11.BKG) |
-| {{labɛɛ}} | noun | shame, dishonour | [GEN.34.2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
-| {{palaa}} | adjective | bad, evil; (dɛnɛ palaa) misfortune, woe | [GEN.19.15](https://www.bible.com/bible/1394/GEN.19.15.BKG) |
-| {{saangiaa}} | verb | mistreat, oppress, afflict — *Southern Kissi (Childs 2000) :* labour, work hard all the time | [GEN.16.6](https://www.bible.com/bible/1394/GEN.16.6.BKG) |
-| {{siɛmbulan}} | noun (lan) | shame, disgrace — *Southern Kissi (Childs 2000) :* shame; shyness, bashfulness | [GEN.30.23](https://www.bible.com/bible/1394/GEN.30.23.BKG) |
-| {{tɔɔndan}} | verb | test, try; tempt; attempt | [GEN.22.1](https://www.bible.com/bible/1394/GEN.22.1.BKG) |
-| {{yiaan}} | noun (an) | hunger; famine | [GEN.25.30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
+| {{fofolan}} | noun | famine (yima fofolan) | [Gen 12:10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
+| {{ikɔɔ}} | adjective | poor, needy | [Exod 22:24](https://www.bible.com/bible/1394/EXO.22.24.BKG) |
+| {{kendu}} | adjective | difficult, hard | [Gen 18:14](https://www.bible.com/bible/1394/GEN.18.14.BKG) |
+| {{kpundɛ}}, pl. {{kpundɛlan}} | noun | plague, calamity — *Southern Kissi (Childs 2000) :* trouble, mishap, misfortune | [Gen 9:11](https://www.bible.com/bible/1394/GEN.9.11.BKG) |
+| {{labɛɛ}} | noun | shame, dishonour | [Gen 34:2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
+| {{palaa}} | adjective | bad, evil; (dɛnɛ palaa) misfortune, woe | [Gen 19:15](https://www.bible.com/bible/1394/GEN.19.15.BKG) |
+| {{saangiaa}} | verb | mistreat, oppress, afflict — *Southern Kissi (Childs 2000) :* labour, work hard all the time | [Gen 16:6](https://www.bible.com/bible/1394/GEN.16.6.BKG) |
+| {{siɛmbulan}} | noun (lan) | shame, disgrace — *Southern Kissi (Childs 2000) :* shame; shyness, bashfulness | [Gen 30:23](https://www.bible.com/bible/1394/GEN.30.23.BKG) |
+| {{tɔɔndan}} | verb | test, try; tempt; attempt | [Gen 22:1](https://www.bible.com/bible/1394/GEN.22.1.BKG) |
+| {{yiaan}} | noun (an) | hunger; famine | [Gen 25:30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
 
 ### 4.5 Authority
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpaayaa}} | noun (o) | strength, power | [GEN.14.20](https://www.bible.com/bible/1394/GEN.14.20.BKG) |
-| {{kuunaa}} | verb | forbid — *Southern Kissi (Childs 2000) :* stop, prevent | [NUM.22.22](https://www.bible.com/bible/1394/NUM.22.22.BKG) |
-| {{siinguuo}} | verb | make (into), appoint, set apart | [GEN.20.2](https://www.bible.com/bible/1394/GEN.20.2.BKG) |
-| {{tuisinndo}} | verb | humble oneself, submit | [EXO.10.3](https://www.bible.com/bible/1394/EXO.10.3.BKG) |
-| {{yeŋ}} | verb | refuse (to listen), disobey (yeŋ … lani) | [GEN.42.21](https://www.bible.com/bible/1394/GEN.42.21.BKG) |
+| {{kpaayaa}} | noun (o) | strength, power | [Gen 14:20](https://www.bible.com/bible/1394/GEN.14.20.BKG) |
+| {{kuunaa}} | verb | forbid — *Southern Kissi (Childs 2000) :* stop, prevent | [Num 22:22](https://www.bible.com/bible/1394/NUM.22.22.BKG) |
+| {{siinguuo}} | verb | make (into), appoint, set apart | [Gen 20:2](https://www.bible.com/bible/1394/GEN.20.2.BKG) |
+| {{tuisinndo}} | verb | humble oneself, submit | [Exod 10:3](https://www.bible.com/bible/1394/EXO.10.3.BKG) |
+| {{yeŋ}} | verb | refuse (to listen), disobey (yeŋ … lani) | [Gen 42:21](https://www.bible.com/bible/1394/GEN.42.21.BKG) |
 
 ### 4.5.1 Person in authority
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bɛnducieo\|r}} | noun (o) | notable, elder | Keita 1979, p. 148 |
-| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [GEN.48.14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
-| {{kpalilnɔɔ}}, pl. {{kpalilaa}} | noun (o) | guard, watchman | [2SA.18.24](https://www.bible.com/bible/1394/2SA.18.24.BKG) |
+| {{kaasonɔɔ}}, pl. {{kaasonnda}} | noun (o) | elder; adult, grown-up ; elder, old person; (pl.) elders — *Southern Kissi (Childs 2000) :* adult, middle-aged person | [Gen 48:14](https://www.bible.com/bible/1394/GEN.48.14.BKG) |
+| {{kpalilnɔɔ}}, pl. {{kpalilaa}} | noun (o) | guard, watchman | [2 Sam 18:24](https://www.bible.com/bible/1394/2SA.18.24.BKG) |
 | {{kuntiinɔɔ\|r}} | noun (o) | head, director | Keita 1979, p. 145 |
 | {{kɛlɛmasaa\|r}} | noun (o) | war chief | Keita 1979, p. 156 |
-| {{simlacinɔɔ}}, pl. {{simlacia}} | noun | chief, leader, ruler | [GEN.45.8](https://www.bible.com/bible/1394/GEN.45.8.BKG) |
+| {{simlacinɔɔ}}, pl. {{simlacia}} | noun | chief, leader, ruler | [Gen 45:8](https://www.bible.com/bible/1394/GEN.45.8.BKG) |
 
 ### 4.5.6 Status
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{buɛiyo}}, pl. {{buɛyaa}} | noun (o) | servant, young man — *Southern Kissi (Childs 2000) :* servant; also apprentice, learner | [1SA.9.8](https://www.bible.com/bible/1394/1SA.9.8.BKG) |
-| {{bɔɔbɔɔyɛi}} | noun (i) | glory, majesty | [EXO.15.7](https://www.bible.com/bible/1394/EXO.15.7.BKG) |
-| {{bɛɛlen}} | noun (len) | honour, glory; (ke … bɛɛlen) honour | [GEN.30.20](https://www.bible.com/bible/1394/GEN.30.20.BKG) |
-| {{cɛɔ}}, pl. {{cɛa}} | noun (o) | slave, servant | [GEN.21.10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
-| {{hɔ́ɔ́yɛi}} | noun (i) | freedom | [EXO.21.2](https://www.bible.com/bible/1394/EXO.21.2.BKG) |
-| {{lemasaa}}, pl. {{lemasalan}} | noun | kingship, majesty; (after a noun) royal | [GEN.14.17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
-| {{sɔvɛɔ}} | adjective | precious, choice, honoured | [GEN.24.12](https://www.bible.com/bible/1394/GEN.24.12.BKG) |
+| {{buɛiyo}}, pl. {{buɛyaa}} | noun (o) | servant, young man — *Southern Kissi (Childs 2000) :* servant; also apprentice, learner | [1 Sam 9:8](https://www.bible.com/bible/1394/1SA.9.8.BKG) |
+| {{bɔɔbɔɔyɛi}} | noun (i) | glory, majesty | [Exod 15:7](https://www.bible.com/bible/1394/EXO.15.7.BKG) |
+| {{bɛɛlen}} | noun (len) | honour, glory; (ke … bɛɛlen) honour | [Gen 30:20](https://www.bible.com/bible/1394/GEN.30.20.BKG) |
+| {{cɛɔ}}, pl. {{cɛa}} | noun (o) | slave, servant | [Gen 21:10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
+| {{hɔ́ɔ́yɛi}} | noun (i) | freedom | [Exod 21:2](https://www.bible.com/bible/1394/EXO.21.2.BKG) |
+| {{lemasaa}}, pl. {{lemasalan}} | noun | kingship, majesty; (after a noun) royal | [Gen 14:17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
+| {{sɔvɛɔ}} | adjective | precious, choice, honoured | [Gen 24:12](https://www.bible.com/bible/1394/GEN.24.12.BKG) |
 
 ### 4.6 Government
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{masalen}} | noun (len) | kingdom, reign, kingship — *Southern Kissi (Childs 2000) :* chieftaincy, rule | [GEN.1.28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
-| {{masɛi}} | noun | kingdom, nation | [DEU.3.21](https://www.bible.com/bible/1394/DEU.3.21.BKG) |
-| {{muloo}} | noun (o) | tax, tribute; ransom | [EXO.30](https://www.bible.com/bible/1394/EXO.30.BKG) |
-| {{súú}}, pl. {{súúlan}} | noun | kind, species; people, nation | [GEN.6.19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
+| {{masalen}} | noun (len) | kingdom, reign, kingship — *Southern Kissi (Childs 2000) :* chieftaincy, rule | [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+| {{masɛi}} | noun | kingdom, nation | [Deut 3:21](https://www.bible.com/bible/1394/DEU.3.21.BKG) |
+| {{muloo}} | noun (o) | tax, tribute; ransom | [Exod 30](https://www.bible.com/bible/1394/EXO.30.BKG) |
+| {{súú}}, pl. {{súúlan}} | noun | kind, species; people, nation | [Gen 6:19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
 
 ### 4.6.1 Ruler
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ibungaa}} | noun | governor (masa ibungaa) | [JDG.9.30](https://www.bible.com/bible/1394/JDG.9.30.BKG) |
-| {{kpɛŋɛ}} | noun | seat, throne — *Southern Kissi (Childs 2000) :* chair, stool, low bench; position | [GEN.41.40](https://www.bible.com/bible/1394/GEN.41.40.BKG) |
-| {{lemasaa}}, pl. {{lemasalan}} | noun | kingship, majesty; (after a noun) royal | [GEN.14.17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
-| {{masaa}} | noun (o) | king, chief — *Southern Kissi (Childs 2000) :* chief | [GEN.12.15](https://www.bible.com/bible/1394/GEN.12.15.BKG) |
+| {{ibungaa}} | noun | governor (masa ibungaa) | [Judg 9:30](https://www.bible.com/bible/1394/JDG.9.30.BKG) |
+| {{kpɛŋɛ}} | noun | seat, throne — *Southern Kissi (Childs 2000) :* chair, stool, low bench; position | [Gen 41:40](https://www.bible.com/bible/1394/GEN.41.40.BKG) |
+| {{lemasaa}}, pl. {{lemasalan}} | noun | kingship, majesty; (after a noun) royal | [Gen 14:17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
+| {{masaa}} | noun (o) | king, chief — *Southern Kissi (Childs 2000) :* chief | [Gen 12:15](https://www.bible.com/bible/1394/GEN.12.15.BKG) |
 
 ### 4.6.7 Region
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɔɔ}}, pl. {{bɛ́ɛ̀lan}} | noun (o) | compound, courtyard — *Southern Kissi (Childs 2000) :* compound of a patrilineal lineage; yard around a house | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{cieo}}, pl. {{cieon}} | noun (o) | village, town | [GEN.15.7](https://www.bible.com/bible/1394/GEN.15.7.BKG) |
-| {{kobio}}, pl. {{kobilan}} | noun (o) | town, city | [GEN.4.17](https://www.bible.com/bible/1394/GEN.4.17.BKG) |
-| {{lɛŋnden}} | noun (len) | country, nation; land, earth — *Southern Kissi (Childs 2000) :* land, ground, area; country of origin; world, earth; floor | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{masalen}} | noun (len) | kingdom, reign, kingship — *Southern Kissi (Childs 2000) :* chieftaincy, rule | [GEN.1.28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
-| {{pɛngulan}} | noun (lan) | difference, distinction; boundary, border | [LEV.20.25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
-| {{sɔndɔkɔlɔɔ}}, pl. {{sɔndɔkɔltan}} | noun (o) | hamlet | [RUT.1.2](https://www.bible.com/bible/1394/RUT.1.2.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [GEN.24.62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{bɔɔ}}, pl. {{bɛ́ɛ̀lan}} | noun (o) | compound, courtyard — *Southern Kissi (Childs 2000) :* compound of a patrilineal lineage; yard around a house | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{cieo}}, pl. {{cieon}} | noun (o) | village, town | [Gen 15:7](https://www.bible.com/bible/1394/GEN.15.7.BKG) |
+| {{kobio}}, pl. {{kobilan}} | noun (o) | town, city | [Gen 4:17](https://www.bible.com/bible/1394/GEN.4.17.BKG) |
+| {{lɛŋnden}} | noun (len) | country, nation; land, earth — *Southern Kissi (Childs 2000) :* land, ground, area; country of origin; world, earth; floor | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{masalen}} | noun (len) | kingdom, reign, kingship — *Southern Kissi (Childs 2000) :* chieftaincy, rule | [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+| {{pɛngulan}} | noun (lan) | difference, distinction; boundary, border | [Lev 20:25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
+| {{sɔndɔkɔlɔɔ}}, pl. {{sɔndɔkɔltan}} | noun (o) | hamlet | [Ruth 1:2](https://www.bible.com/bible/1394/RUT.1.2.BKG) |
+| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 | {{vukɔɔ\|r}} | noun (o) | village meeting place for settling disputes | Keita 1979, p. 142 |
 
 ### 4.7 Law
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ciimbuu}} | verb | steal | [GEN.31.19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
-| {{kafalan}} | noun | injustice — *Southern Kissi (Childs 2000) :* cheating, deceit, trickery | [GEN.33.4](https://www.bible.com/bible/1394/GEN.33.4.BKG) |
-| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{kuee}} | noun | debt; guilt — *Southern Kissi (Childs 2000) :* debt, loan | [NUM.5.31](https://www.bible.com/bible/1394/NUM.5.31.BKG) |
-| {{kuunaa}} | verb | forbid — *Southern Kissi (Childs 2000) :* stop, prevent | [NUM.22.22](https://www.bible.com/bible/1394/NUM.22.22.BKG) |
-| {{lahakio}}, pl. {{lahakia}} | adjective | sinful, guilty; sinner | [EXO.34.7](https://www.bible.com/bible/1394/EXO.34.7.BKG) |
-| {{latɔŋndo}}, pl. {{latɔŋnda}} | noun | law (of Moses) | [EZR.7.6](https://www.bible.com/bible/1394/EZR.7.6.BKG) |
-| {{sandaa}} | adjective | righteous, just; (dɛnɛ sandaa) righteousness | [GEN.6.9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
-| {{sandei}} | noun (i) | justice, righteousness, equity | [GEN.18.19](https://www.bible.com/bible/1394/GEN.18.19.BKG) |
-| {{silalan}} | noun (lan) | statutes, precepts, counsel | [GEN.49.33](https://www.bible.com/bible/1394/GEN.49.33.BKG) |
-| {{toɲaa}} | noun (o) | truth; justice — *Southern Kissi (Childs 2000) :* truth; kindness, goodness, a favour | [GEN.18.21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
-| {{tɔŋndo}}, pl. {{tɔŋndan}} | noun (o) | law, commandment, order | [GEN.2.16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
-| {{tɛɛmbuula}}, pl. {{tɛɛmbuulan}} | noun | transgressions, offences | [LEV.16.21](https://www.bible.com/bible/1394/LEV.16.21.BKG) |
-| {{tɛɛmbuuo}} | verb | destroy; break, transgress (a law) — *Southern Kissi (Childs 2000) :* plural of tàmbéí 'be ruined': spoil, break, misuse | [GEN.19.13](https://www.bible.com/bible/1394/GEN.19.13.BKG) |
-| {{vuiyo}}, pl. {{vuiya}} | noun (o) | thief | [EXO.22.1](https://www.bible.com/bible/1394/EXO.22.1.BKG) |
-| {{yiilu}} | verb | make (a covenant) with, promise to | [GEN.9](https://www.bible.com/bible/1394/GEN.9.BKG) |
-| {{yiiyo}} | verb | establish, make (covenant); set, put; hatch (a plot) — *Southern Kissi (Childs 2000) :* tie up, wrap; make a charm | [GEN.26.28](https://www.bible.com/bible/1394/GEN.26.28.BKG) |
+| {{ciimbuu}} | verb | steal | [Gen 31:19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
+| {{kafalan}} | noun | injustice — *Southern Kissi (Childs 2000) :* cheating, deceit, trickery | [Gen 33:4](https://www.bible.com/bible/1394/GEN.33.4.BKG) |
+| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{kuee}} | noun | debt; guilt — *Southern Kissi (Childs 2000) :* debt, loan | [Num 5:31](https://www.bible.com/bible/1394/NUM.5.31.BKG) |
+| {{kuunaa}} | verb | forbid — *Southern Kissi (Childs 2000) :* stop, prevent | [Num 22:22](https://www.bible.com/bible/1394/NUM.22.22.BKG) |
+| {{lahakio}}, pl. {{lahakia}} | adjective | sinful, guilty; sinner | [Exod 34:7](https://www.bible.com/bible/1394/EXO.34.7.BKG) |
+| {{latɔŋndo}}, pl. {{latɔŋnda}} | noun | law (of Moses) | [Ezra 7:6](https://www.bible.com/bible/1394/EZR.7.6.BKG) |
+| {{sandaa}} | adjective | righteous, just; (dɛnɛ sandaa) righteousness | [Gen 6:9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
+| {{sandei}} | noun (i) | justice, righteousness, equity | [Gen 18:19](https://www.bible.com/bible/1394/GEN.18.19.BKG) |
+| {{silalan}} | noun (lan) | statutes, precepts, counsel | [Gen 49:33](https://www.bible.com/bible/1394/GEN.49.33.BKG) |
+| {{toɲaa}} | noun (o) | truth; justice — *Southern Kissi (Childs 2000) :* truth; kindness, goodness, a favour | [Gen 18:21](https://www.bible.com/bible/1394/GEN.18.21.BKG) |
+| {{tɔŋndo}}, pl. {{tɔŋndan}} | noun (o) | law, commandment, order | [Gen 2:16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
+| {{tɛɛmbuula}}, pl. {{tɛɛmbuulan}} | noun | transgressions, offences | [Lev 16:21](https://www.bible.com/bible/1394/LEV.16.21.BKG) |
+| {{tɛɛmbuuo}} | verb | destroy; break, transgress (a law) — *Southern Kissi (Childs 2000) :* plural of tàmbéí 'be ruined': spoil, break, misuse | [Gen 19:13](https://www.bible.com/bible/1394/GEN.19.13.BKG) |
+| {{vuiyo}}, pl. {{vuiya}} | noun (o) | thief | [Exod 22:1](https://www.bible.com/bible/1394/EXO.22.1.BKG) |
+| {{yiilu}} | verb | make (a covenant) with, promise to | [Gen 9](https://www.bible.com/bible/1394/GEN.9.BKG) |
+| {{yiiyo}} | verb | establish, make (covenant); set, put; hatch (a plot) — *Southern Kissi (Childs 2000) :* tie up, wrap; make a charm | [Gen 26:28](https://www.bible.com/bible/1394/GEN.26.28.BKG) |
 
 ### 4.7.5 Trial
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{iyama}} | noun | judgement, sentence | [EXO.12.12](https://www.bible.com/bible/1394/EXO.12.12.BKG) |
-| {{kialaa}} | verb | judge; (kialu yamɛi) give judgement | [GEN.49.16](https://www.bible.com/bible/1394/GEN.49.16.BKG) |
-| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [GEN.6.13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
+| {{iyama}} | noun | judgement, sentence | [Exod 12:12](https://www.bible.com/bible/1394/EXO.12.12.BKG) |
+| {{kialaa}} | verb | judge; (kialu yamɛi) give judgement | [Gen 49:16](https://www.bible.com/bible/1394/GEN.49.16.BKG) |
+| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [Gen 6:13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
 | {{kitio\|r}} | noun (o) | judgement — *Southern Kissi (Childs 2000) :* judgement, decision, sentence | Keita 1979, p. 148 |
-| {{kɔɔsɔɔ}} | verb | judge; judgment — *Southern Kissi (Childs 2000) :* litigate, argue a case | [EXO.23.2](https://www.bible.com/bible/1394/EXO.23.2.BKG) |
-| {{seilen}} | noun (len) | testimony, evidence | [GEN.21.30](https://www.bible.com/bible/1394/GEN.21.30.BKG) |
-| {{seiyo}}, pl. {{seiya}} | noun | witness | [GEN.31.48](https://www.bible.com/bible/1394/GEN.31.48.BKG) |
-| {{tɛndaa}} | verb | split, divide; (with seilen) testify — *Southern Kissi (Childs 2000) :* split, cut open | [LEV.5.1](https://www.bible.com/bible/1394/LEV.5.1.BKG) |
+| {{kɔɔsɔɔ}} | verb | judge; judgment — *Southern Kissi (Childs 2000) :* litigate, argue a case | [Exod 23:2](https://www.bible.com/bible/1394/EXO.23.2.BKG) |
+| {{seilen}} | noun (len) | testimony, evidence | [Gen 21:30](https://www.bible.com/bible/1394/GEN.21.30.BKG) |
+| {{seiyo}}, pl. {{seiya}} | noun | witness | [Gen 31:48](https://www.bible.com/bible/1394/GEN.31.48.BKG) |
+| {{tɛndaa}} | verb | split, divide; (with seilen) testify — *Southern Kissi (Childs 2000) :* split, cut open | [Lev 5:1](https://www.bible.com/bible/1394/LEV.5.1.BKG) |
 | {{vukɔɔ\|r}} | noun (o) | village meeting place for settling disputes | Keita 1979, p. 142 |
-| {{yaalaa}} | verb | condemn, accuse | [DEU.19.15](https://www.bible.com/bible/1394/DEU.19.15.BKG) |
-| {{yamɛi}} | noun (i) | judgement, justice, case | [GEN.16.5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
+| {{yaalaa}} | verb | condemn, accuse | [Deut 19:15](https://www.bible.com/bible/1394/DEU.19.15.BKG) |
+| {{yamɛi}} | noun (i) | judgement, justice, case | [Gen 16:5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
 
 ### 4.7.7 Punish
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kaasoo}}, pl. {{kaasolan}} | noun (o) | prison | [GEN.39](https://www.bible.com/bible/1394/GEN.39.BKG) |
-| {{mingullo}} | verb | give back, restore (to someone); repay | [GEN.50.20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
-| {{sionnden}} | noun (len) | stick, rod; lot | [DEU.21.18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
-| {{soaŋ}} | verb | punish, chastise; rebuke | [EXO.20.5](https://www.bible.com/bible/1394/EXO.20.5.BKG) |
-| {{soŋɔɔ}} | verb | strike, smite; punish | [GEN.14.15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
-| {{vii}} | verb | stone (vii … a powtan) | [EXO.17.4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
+| {{kaasoo}}, pl. {{kaasolan}} | noun (o) | prison | [Gen 39](https://www.bible.com/bible/1394/GEN.39.BKG) |
+| {{mingullo}} | verb | give back, restore (to someone); repay | [Gen 50:20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
+| {{sionnden}} | noun (len) | stick, rod; lot | [Deut 21:18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
+| {{soaŋ}} | verb | punish, chastise; rebuke | [Exod 20:5](https://www.bible.com/bible/1394/EXO.20.5.BKG) |
+| {{soŋɔɔ}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{vii}} | verb | stone (vii … a powtan) | [Exod 17:4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
 
 ### 4.8 Conflict
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{delcoonɔɔ\|r}} | noun (o) | aggressor | Keita 1979, p. 148 |
-| {{delɔɔcoo}} | noun (o) | violence, oppression, aggression | [DEU.25.16](https://www.bible.com/bible/1394/DEU.25.16.BKG) |
+| {{delɔɔcoo}} | noun (o) | violence, oppression, aggression | [Deut 25:16](https://www.bible.com/bible/1394/DEU.25.16.BKG) |
 | {{diyɔɔ koya\|?}} | noun | murder | Keita 1979, p. 148 |
-| {{dúmbú}} | noun | treachery; (yii … dúmbú) betray, deceive | [GEN.21.23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
-| {{hinullo}} | verb | come against, advance on; threaten | [EXO.14.10](https://www.bible.com/bible/1394/EXO.14.10.BKG) |
+| {{dúmbú}} | noun | treachery; (yii … dúmbú) betray, deceive | [Gen 21:23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
+| {{hinullo}} | verb | come against, advance on; threaten | [Exod 14:10](https://www.bible.com/bible/1394/EXO.14.10.BKG) |
 | {{puusianɔɔ\|?}} | noun (o) | reactionary (Keita) | Keita 1979, p. 148 |
-| {{saangiaa}} | verb | mistreat, oppress, afflict — *Southern Kissi (Childs 2000) :* labour, work hard all the time | [GEN.16.6](https://www.bible.com/bible/1394/GEN.16.6.BKG) |
-| {{simullo}} | verb | rise against, rebel | [GEN.14.8](https://www.bible.com/bible/1394/GEN.14.8.BKG) |
-| {{sɔngɔ}}, pl. {{sɔngɔlan}} | noun | quarrel, strife — *Southern Kissi (Childs 2000) :* (verb) fight, argue | [GEN.13.8](https://www.bible.com/bible/1394/GEN.13.8.BKG) |
-| {{sɛɛngianndo}} | verb | quarrel, argue, debate; dispute, strife — *Southern Kissi (Childs 2000) :* plural of sèŋìá 'argue': disagree repeatedly | [GEN.13.7](https://www.bible.com/bible/1394/GEN.13.7.BKG) |
-| {{yaamɔɔ}}, pl. {{yaamɔaa}} | noun (o) | enemy — *Southern Kissi (Childs 2000) :* enemy, someone hated | [EXO.23.4](https://www.bible.com/bible/1394/EXO.23.4.BKG) |
+| {{saangiaa}} | verb | mistreat, oppress, afflict — *Southern Kissi (Childs 2000) :* labour, work hard all the time | [Gen 16:6](https://www.bible.com/bible/1394/GEN.16.6.BKG) |
+| {{simullo}} | verb | rise against, rebel | [Gen 14:8](https://www.bible.com/bible/1394/GEN.14.8.BKG) |
+| {{sɔngɔ}}, pl. {{sɔngɔlan}} | noun | quarrel, strife — *Southern Kissi (Childs 2000) :* (verb) fight, argue | [Gen 13:8](https://www.bible.com/bible/1394/GEN.13.8.BKG) |
+| {{sɛɛngianndo}} | verb | quarrel, argue, debate; dispute, strife — *Southern Kissi (Childs 2000) :* plural of sèŋìá 'argue': disagree repeatedly | [Gen 13:7](https://www.bible.com/bible/1394/GEN.13.7.BKG) |
+| {{yaamɔɔ}}, pl. {{yaamɔaa}} | noun (o) | enemy — *Southern Kissi (Childs 2000) :* enemy, someone hated | [Exod 23:4](https://www.bible.com/bible/1394/EXO.23.4.BKG) |
 
 ### 4.8.2 Fight
 
@@ -1448,61 +1448,61 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{biyanndo\|r}} | verb | seize each other, grapple | Keita 1979, p. 110 |
 | {{cieiyo\|r}} | noun (o) | fight, struggle — *Southern Kissi (Childs 2000) :* fight (both verb and noun) | Keita 1979, p. 156 |
-| {{ciŋilanndo}} | verb | wrestle, struggle | [GEN.30.8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
-| {{cɔlɔbaa}} | verb | fight, struggle | [GEN.30.8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
-| {{delaa}} | verb | fall; (del … coo) fall upon, attack | [EXO.23.5](https://www.bible.com/bible/1394/EXO.23.5.BKG) |
+| {{ciŋilanndo}} | verb | wrestle, struggle | [Gen 30:8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
+| {{cɔlɔbaa}} | verb | fight, struggle | [Gen 30:8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
+| {{delaa}} | verb | fall; (del … coo) fall upon, attack | [Exod 23:5](https://www.bible.com/bible/1394/EXO.23.5.BKG) |
 | {{delalɔɔcoo\|r}} | noun | assault, attack | Keita 1979, p. 156 |
-| {{dii}} | verb | kill | [GEN.4.8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| {{dii}} | verb | kill | [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
 | {{diyɔɔkoyaa\|r}} | noun | murder | Keita 1979, p. 156 |
 | {{sɔɔmɛɛnɔɔ\|r}} | noun (o) | bandit, robber | Keita 1979, p. 156 |
-| {{tiw}} | verb | be enough, have room for; master, overcome — *Southern Kissi (Childs 2000) :* spread throughout; be enough, suffice; fit | [GEN.4.7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
+| {{tiw}} | verb | be enough, have room for; master, overcome — *Southern Kissi (Childs 2000) :* spread throughout; be enough, suffice; fit | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
 | {{vooluo\|?}} | verb | startle; take by surprise, fall upon | Keita 1979, p. 114 |
-| {{yɔl}} | verb | throw down; overcome, prevail | [GEN.30.8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
+| {{yɔl}} | verb | throw down; overcome, prevail | [Gen 30:8](https://www.bible.com/bible/1394/GEN.30.8.BKG) |
 
 ### 4.8.3 War
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bállo}}, pl. {{báltan}} | noun (o) | spear | [NUM.25.7](https://www.bible.com/bible/1394/NUM.25.7.BKG) |
+| {{bállo}}, pl. {{báltan}} | noun (o) | spear | [Num 25:7](https://www.bible.com/bible/1394/NUM.25.7.BKG) |
 | {{bulu yekpandio\|r}} | noun | gun barrel | Keita 1979, p. 156 |
 | {{bɔlɔ n'cilinndo\|r}} | noun | cartridge pouch | Keita 1979, p. 156 |
-| {{bɛ̀lɛ̀nnden}} | noun (len) | arrow, javelin | [JOB.41.18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
-| {{cilinnde}}, pl. {{cilinndon}} | noun (i) | iron, metal; bullet, cartridge — *Southern Kissi (Childs 2000) :* metal, iron; twisted iron strips formerly used as money | [EXO.34.17](https://www.bible.com/bible/1394/EXO.34.17.BKG) |
+| {{bɛ̀lɛ̀nnden}} | noun (len) | arrow, javelin | [Job 41:18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
+| {{cilinnde}}, pl. {{cilinndon}} | noun (i) | iron, metal; bullet, cartridge — *Southern Kissi (Childs 2000) :* metal, iron; twisted iron strips formerly used as money | [Exod 34:17](https://www.bible.com/bible/1394/EXO.34.17.BKG) |
 | {{cɔwlaban\|r}} | noun | combat | Keita 1979, p. 156 |
 | {{cɔwlatukpaa\|r}} | noun | artillery | Keita 1979, p. 156 |
 | {{cɔwlɔmbiaa\|r}} | noun | guerrilla warfare | Keita 1979, p. 156 |
 | {{cɔwtaasio\|r}} | noun | guerrilla warfare | Keita 1979, p. 156 |
-| {{cɔwvo}}, pl. {{cɔwlan}} | noun (o) | war ; war, battle; (pl. cɔwva) armies, warriors — *Southern Kissi (Childs 2000) :* war; also the making of weapons, blacksmithing | [GEN.14.2](https://www.bible.com/bible/1394/GEN.14.2.BKG) |
+| {{cɔwvo}}, pl. {{cɔwlan}} | noun (o) | war ; war, battle; (pl. cɔwva) armies, warriors — *Southern Kissi (Childs 2000) :* war; also the making of weapons, blacksmithing | [Gen 14:2](https://www.bible.com/bible/1394/GEN.14.2.BKG) |
 | {{cɛwvo\|?}} | noun (o) | bow (Keita) — *Southern Kissi (Childs 2000) :* bow (weapon); comb for carding cotton | Keita 1979, p. 156 |
-| {{diwvo}} | verb | kill (many), slaughter | [EXO.5.21](https://www.bible.com/bible/1394/EXO.5.21.BKG) |
-| {{dɔ́ɔ́ngɔ́ɔ̀}} | noun (o) | camp | [GEN.11.2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
-| {{fáàndaa}} | noun (o) | sling — *Southern Kissi (Childs 2000) :* sling, slingshot, also used to chase birds | [JDG.20.16](https://www.bible.com/bible/1394/JDG.20.16.BKG) |
+| {{diwvo}} | verb | kill (many), slaughter | [Exod 5:21](https://www.bible.com/bible/1394/EXO.5.21.BKG) |
+| {{dɔ́ɔ́ngɔ́ɔ̀}} | noun (o) | camp | [Gen 11:2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
+| {{fáàndaa}} | noun (o) | sling — *Southern Kissi (Childs 2000) :* sling, slingshot, also used to chase birds | [Judg 20:16](https://www.bible.com/bible/1394/JDG.20.16.BKG) |
 | {{fayaa\|r}} | noun (o) | dynamite, explosive | Keita 1979, p. 156 |
 | {{fayaa cɔwvo\|r}} | noun | bomb | Keita 1979, p. 156 |
 | {{handullo\|r}} | noun (o) | shield | Keita 1979, p. 156 |
-| {{hinul}} | verb | attack, wage war on (… a cɔwvo) | [GEN.31.52](https://www.bible.com/bible/1394/GEN.31.52.BKG) |
-| {{kpaasiaa}} | noun | bow | [GEN.21.20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
-| {{kpuva}} | verb | seize, capture — *Southern Kissi (Childs 2000) :* grab, seize; also rape | [GEN.34.2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
-| {{kuello}} | verb | pursue; go out against — *Southern Kissi (Childs 2000) :* go toward someone (benefactive of 'go') | [EXO.14.4](https://www.bible.com/bible/1394/EXO.14.4.BKG) |
-| {{kuubanɔ}}, pl. {{kuubaa}} | noun | mighty warrior, hero | [EXO.15.3](https://www.bible.com/bible/1394/EXO.15.3.BKG) |
-| {{kuubanɔɔ}}, pl. {{kuubaa}} | noun (o) | hero, valiant warrior — *Southern Kissi (Childs 2000) :* warrior with magical powers who could capture villages | [JDG.6.12](https://www.bible.com/bible/1394/JDG.6.12.BKG) |
+| {{hinul}} | verb | attack, wage war on (… a cɔwvo) | [Gen 31:52](https://www.bible.com/bible/1394/GEN.31.52.BKG) |
+| {{kpaasiaa}} | noun | bow | [Gen 21:20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
+| {{kpuva}} | verb | seize, capture — *Southern Kissi (Childs 2000) :* grab, seize; also rape | [Gen 34:2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
+| {{kuello}} | verb | pursue; go out against — *Southern Kissi (Childs 2000) :* go toward someone (benefactive of 'go') | [Exod 14:4](https://www.bible.com/bible/1394/EXO.14.4.BKG) |
+| {{kuubanɔ}}, pl. {{kuubaa}} | noun | mighty warrior, hero | [Exod 15:3](https://www.bible.com/bible/1394/EXO.15.3.BKG) |
+| {{kuubanɔɔ}}, pl. {{kuubaa}} | noun (o) | hero, valiant warrior — *Southern Kissi (Childs 2000) :* warrior with magical powers who could capture villages | [Judg 6:12](https://www.bible.com/bible/1394/JDG.6.12.BKG) |
 | {{kɔngɔlɔɛi\|?}} | noun (i) | tactic (Keita) — *Southern Kissi (Childs 2000) :* long war sword (about four feet) | Keita 1979, p. 156 |
-| {{kɔɛi}}, pl. {{kɔɔn}} | noun (i) | arrow | [GEN.49.24](https://www.bible.com/bible/1394/GEN.49.24.BKG) |
+| {{kɔɛi}}, pl. {{kɔɔn}} | noun (i) | arrow | [Gen 49:24](https://www.bible.com/bible/1394/GEN.49.24.BKG) |
 | {{kɛlɛmasaa\|r}} | noun (o) | war chief | Keita 1979, p. 156 |
 | {{lalumɛɔ\|r}} | noun | army | Keita 1979, p. 156 |
 | {{lɛfɔɔ\|r}} | noun (o) | flag, banner — *Southern Kissi (Childs 2000) :* flag; also a wind-blown bamboo noisemaker that scares birds | Keita 1979, p. 159 |
-| {{mɔɛi}}, pl. {{mɔɔn}} | noun (i) | knife; sword | [GEN.22.6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
-| {{mɛngɛlaa}} | noun | lookout, watch | [NUM.23.14](https://www.bible.com/bible/1394/NUM.23.14.BKG) |
+| {{mɔɛi}}, pl. {{mɔɔn}} | noun (i) | knife; sword | [Gen 22:6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
+| {{mɛngɛlaa}} | noun | lookout, watch | [Num 23:14](https://www.bible.com/bible/1394/NUM.23.14.BKG) |
 | {{pelemundoo\|r}} | noun | trigger | Keita 1979, p. 156 |
-| {{poondiaa}} | verb | carry off (as plunder, captive), take away, confiscate — *Southern Kissi (Childs 2000) :* take away (plural action); shuck | [NUM.14.3](https://www.bible.com/bible/1394/NUM.14.3.BKG) |
+| {{poondiaa}} | verb | carry off (as plunder, captive), take away, confiscate — *Southern Kissi (Childs 2000) :* take away (plural action); shuck | [Num 14:3](https://www.bible.com/bible/1394/NUM.14.3.BKG) |
 | {{sakiei\|r}} | noun (i) | sword — *Southern Kissi (Childs 2000) :* sword, dagger | Keita 1979, p. 156 |
 | {{sodasinɔɔ\|r}} | noun (o) | soldier | Keita 1979, p. 145 |
 | {{suansuaannɔɔ\|r}}, pl. {{suansuaanda\|r}} | noun (o) | spy — *Southern Kissi (Childs 2000) :* spy for a war leader (in former times) | Keita 1979, p. 148 |
-| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [GEN.41.33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
+| {{taasio}} | noun (o) | wisdom, skill, strategy; tactic ; wisdom, discernment; advice — *Southern Kissi (Childs 2000) :* being sensible or active | [Gen 41:33](https://www.bible.com/bible/1394/GEN.41.33.BKG) |
 | {{tambeloo\|r}} | noun (o) | war drum — *Southern Kissi (Childs 2000) :* a kind of drum | Keita 1979, p. 163 |
-| {{tiilaa}} | verb | besiege, surround | [DEU.20.19](https://www.bible.com/bible/1394/DEU.20.19.BKG) |
+| {{tiilaa}} | verb | besiege, surround | [Deut 20:19](https://www.bible.com/bible/1394/DEU.20.19.BKG) |
 | {{tum yekpandio\|r}} | noun | rifle butt | Keita 1979, p. 156 |
-| {{yasabaa}} | noun (o) | shelter, camp; workshop — *Southern Kissi (Childs 2000) :* temporary cooking site on a farm, before the farm kitchen is built | [ISA.28.15](https://www.bible.com/bible/1394/ISA.28.15.BKG) |
+| {{yasabaa}} | noun (o) | shelter, camp; workshop — *Southern Kissi (Childs 2000) :* temporary cooking site on a farm, before the farm kitchen is built | [Isa 28:15](https://www.bible.com/bible/1394/ISA.28.15.BKG) |
 | {{yekpandio\|r}} | noun (o) | gun | Keita 1979, p. 156 |
 | {{ɲɛ cɔwvo}}, pl. {{ɲɛm cɔwvon}} | noun | weapon; weapons | Keita 1979, p. 156 |
 
@@ -1510,111 +1510,111 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{kɔlɲuloo}}, pl. {{kɔlɲululan}} | noun (o) | peace ; peace, rest; (pl.) peace offerings | [GEN.5.29](https://www.bible.com/bible/1394/GEN.5.29.BKG) |
-| {{sɔngɔɔ}} | noun (o) | peace | [JDG.21.13](https://www.bible.com/bible/1394/JDG.21.13.BKG) |
-| {{ɲulu}} | noun | peace, safety | [GEN.49.21](https://www.bible.com/bible/1394/GEN.49.21.BKG) |
-| {{ɲulul}} | verb | calm down, be appeased (kɔl) | [GEN.27.44](https://www.bible.com/bible/1394/GEN.27.44.BKG) |
+| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{kɔlɲuloo}}, pl. {{kɔlɲululan}} | noun (o) | peace ; peace, rest; (pl.) peace offerings | [Gen 5:29](https://www.bible.com/bible/1394/GEN.5.29.BKG) |
+| {{sɔngɔɔ}} | noun (o) | peace | [Judg 21:13](https://www.bible.com/bible/1394/JDG.21.13.BKG) |
+| {{ɲulu}} | noun | peace, safety | [Gen 49:21](https://www.bible.com/bible/1394/GEN.49.21.BKG) |
+| {{ɲulul}} | verb | calm down, be appeased (kɔl) | [Gen 27:44](https://www.bible.com/bible/1394/GEN.27.44.BKG) |
 
 ### 4.9 Religion
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dinaa}} | noun (o) | religion | [ACT.17.22](https://www.bible.com/bible/1394/ACT.17.22.BKG) |
+| {{dinaa}} | noun (o) | religion | [Acts 17:22](https://www.bible.com/bible/1394/ACT.17.22.BKG) |
 | {{dumbu kilitia\|?}} | noun | Christian religion (Keita) | Keita 1979, p. 150 |
 
 ### 4.9.1 God
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɔɔbɔɔyɛi}} | noun (i) | glory, majesty | [EXO.15.7](https://www.bible.com/bible/1394/EXO.15.7.BKG) |
-| {{Hala}} | proper name | God | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{bɔɔbɔɔyɛi}} | noun (i) | glory, majesty | [Exod 15:7](https://www.bible.com/bible/1394/EXO.15.7.BKG) |
+| {{Hala}} | proper name | God | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 4.9.2 Supernatural being
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{kalankafoo\|r}} | noun (o) | ghost, spirit of the dead — *Southern Kissi (Childs 2000) :* ghost of a dead person not yet among the ancestors | Keita 1979, p. 150 |
-| {{mɛlɛkanɔɔ}} | noun (o) | angel | [GEN.19.17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
+| {{mɛlɛkanɔɔ}} | noun (o) | angel | [Gen 19:17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
 | {{ɲamavuloo\|r}}, pl. {{ɲamavulua\|r}} | noun (o) | ghost | Keita 1979, p. 150 |
-| {{ɲinaa}} | noun | spirit, demon — *Southern Kissi (Childs 2000) :* spirit, esp. spirits of the land or of ancestors | [DEU.18.11](https://www.bible.com/bible/1394/DEU.18.11.BKG) |
+| {{ɲinaa}} | noun | spirit, demon — *Southern Kissi (Childs 2000) :* spirit, esp. spirits of the land or of ancestors | [Deut 18:11](https://www.bible.com/bible/1394/DEU.18.11.BKG) |
 
 ### 4.9.4 Miracle, supernatural power
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{camndo\|r}} | noun (o) | magic | Keita 1979, p. 150 |
-| {{kaamaa}}, pl. {{kaamaalan}} | noun | awesome thing, miracle; awesome — *Southern Kissi (Childs 2000) :* amazing, incredible, wonderful | [GEN.28.17](https://www.bible.com/bible/1394/GEN.28.17.BKG) |
-| {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | noun (o) | wonder, marvel; amazement — *Southern Kissi (Childs 2000) :* surprise, wonder | [GEN.43.33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
-| {{mandenɔɔ}}, pl. {{mandea}} | noun (o) | diviner, charmer — *Southern Kissi (Childs 2000) :* diviner, fortune teller, medicine man; also a Muslim | [DEU.18.11](https://www.bible.com/bible/1394/DEU.18.11.BKG) |
-| {{tendul}} | verb | rise again, revive — *Southern Kissi (Childs 2000) :* get up, arise | [GEN.45.27](https://www.bible.com/bible/1394/GEN.45.27.BKG) |
-| {{tindi}} | verb | wake (someone); raise (from the dead) | [LEV.13.23](https://www.bible.com/bible/1394/LEV.13.23.BKG) |
+| {{kaamaa}}, pl. {{kaamaalan}} | noun | awesome thing, miracle; awesome — *Southern Kissi (Childs 2000) :* amazing, incredible, wonderful | [Gen 28:17](https://www.bible.com/bible/1394/GEN.28.17.BKG) |
+| {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | noun (o) | wonder, marvel; amazement — *Southern Kissi (Childs 2000) :* surprise, wonder | [Gen 43:33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
+| {{mandenɔɔ}}, pl. {{mandea}} | noun (o) | diviner, charmer — *Southern Kissi (Childs 2000) :* diviner, fortune teller, medicine man; also a Muslim | [Deut 18:11](https://www.bible.com/bible/1394/DEU.18.11.BKG) |
+| {{tendul}} | verb | rise again, revive — *Southern Kissi (Childs 2000) :* get up, arise | [Gen 45:27](https://www.bible.com/bible/1394/GEN.45.27.BKG) |
+| {{tindi}} | verb | wake (someone); raise (from the dead) | [Lev 13:23](https://www.bible.com/bible/1394/LEV.13.23.BKG) |
 | {{vanacamndo\|r}} | noun (o) | magician | Keita 1979, p. 145 |
 
 ### 4.9.5 Practice religion
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{balikaa}} | noun | thanks, thanksgiving | [LEV.7.12](https://www.bible.com/bible/1394/LEV.7.12.BKG) |
-| {{baŋa}} | verb | save, deliver — *Southern Kissi (Childs 2000) :* release, free, redeem | [GEN.14](https://www.bible.com/bible/1394/GEN.14.BKG) |
-| {{baŋannde}} | noun | atonement (faleŋii baŋannde) | [EXO.30.10](https://www.bible.com/bible/1394/EXO.30.10.BKG) |
-| {{biiloo}} | verb | praise, glorify, worship | [GEN.9.26](https://www.bible.com/bible/1394/GEN.9.26.BKG) |
-| {{biilɔnndo}} | verb | be glorified, be praised | [DEU.12.5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
+| {{balikaa}} | noun | thanks, thanksgiving | [Lev 7:12](https://www.bible.com/bible/1394/LEV.7.12.BKG) |
+| {{baŋa}} | verb | save, deliver — *Southern Kissi (Childs 2000) :* release, free, redeem | [Gen 14](https://www.bible.com/bible/1394/GEN.14.BKG) |
+| {{baŋannde}} | noun | atonement (faleŋii baŋannde) | [Exod 30:10](https://www.bible.com/bible/1394/EXO.30.10.BKG) |
+| {{biiloo}} | verb | praise, glorify, worship | [Gen 9:26](https://www.bible.com/bible/1394/GEN.9.26.BKG) |
+| {{biilɔnndo}} | verb | be glorified, be praised | [Deut 12:5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
 | {{bɛɛyan vomɔɔ\|?}} | noun | divination with pebbles | Keita 1979, p. 163 |
-| {{cɛɛŋɔnndo}} | verb | plead, beseech; supplication | [GEN.41.55](https://www.bible.com/bible/1394/GEN.41.55.BKG) |
-| {{dangaa}} | noun | curse — *Southern Kissi (Childs 2000) :* rudeness, disrespect, insulting someone | [GEN.3.14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
-| {{diandaa}} | adjective | holy, consecrated; pure — *Southern Kissi (Childs 2000) :* clean | [GEN.6.9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
-| {{dindin}} | verb | purify oneself, consecrate oneself | [GEN.35.2](https://www.bible.com/bible/1394/GEN.35.2.BKG) |
-| {{dindio}} | verb | make clean, purify ; purify, sanctify — *Southern Kissi (Childs 2000) :* make clean (causative of 'be clean') | [EXO.29.36](https://www.bible.com/bible/1394/EXO.29.36.BKG) |
-| {{dindu}} | adjective | clean (ritually); clear — *Southern Kissi (Childs 2000) :* be clean | [GEN.7.2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
-| {{duaa}} | noun | blessing; happiness | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{dɔvɔɔ}} | verb | bless (… duaa) | [GEN.17.16](https://www.bible.com/bible/1394/GEN.17.16.BKG) |
-| {{hakio}}, pl. {{hakilan}} | noun (o) | sin, wrongdoing — *Southern Kissi (Childs 2000) :* pardon, forgiveness; sin | [GEN.4.7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
+| {{cɛɛŋɔnndo}} | verb | plead, beseech; supplication | [Gen 41:55](https://www.bible.com/bible/1394/GEN.41.55.BKG) |
+| {{dangaa}} | noun | curse — *Southern Kissi (Childs 2000) :* rudeness, disrespect, insulting someone | [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
+| {{diandaa}} | adjective | holy, consecrated; pure — *Southern Kissi (Childs 2000) :* clean | [Gen 6:9](https://www.bible.com/bible/1394/GEN.6.9.BKG) |
+| {{dindin}} | verb | purify oneself, consecrate oneself | [Gen 35:2](https://www.bible.com/bible/1394/GEN.35.2.BKG) |
+| {{dindio}} | verb | make clean, purify ; purify, sanctify — *Southern Kissi (Childs 2000) :* make clean (causative of 'be clean') | [Exod 29:36](https://www.bible.com/bible/1394/EXO.29.36.BKG) |
+| {{dindu}} | adjective | clean (ritually); clear — *Southern Kissi (Childs 2000) :* be clean | [Gen 7:2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
+| {{duaa}} | noun | blessing; happiness | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{dɔvɔɔ}} | verb | bless (… duaa) | [Gen 17:16](https://www.bible.com/bible/1394/GEN.17.16.BKG) |
+| {{hakio}}, pl. {{hakilan}} | noun (o) | sin, wrongdoing — *Southern Kissi (Childs 2000) :* pardon, forgiveness; sin | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
 | {{hiyinɔɔ\|r}} | noun (o) | pilgrim | Keita 1979, p. 150 |
 | {{hiyioo\|r}} | noun (o) | pilgrimage | Keita 1979, p. 150 |
 | {{kongosalɛu\|r}} | noun | dance of the circumciser after the circumcisions | Keita 1979, p. 163 |
-| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{kpemaa}} | noun (o) | pact, covenant ; covenant, agreement — *Southern Kissi (Childs 2000) :* pact, covenant; also a vow | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
 | {{kpokanɔɔ\|r}} | noun (o) | uninitiated person | Keita 1979, p. 161 |
-| {{kɔ̀ndénɔɔ}} | noun (o) | uncircumcised, uninitiated person | [ROM.2.26](https://www.bible.com/bible/1394/ROM.2.26.BKG) |
-| {{laalanndo}} | verb | believe, trust; faith — *Southern Kissi (Childs 2000) :* believe, trust; be sure of | [EXO.4.9](https://www.bible.com/bible/1394/EXO.4.9.BKG) |
+| {{kɔ̀ndénɔɔ}} | noun (o) | uncircumcised, uninitiated person | [Rom 2:26](https://www.bible.com/bible/1394/ROM.2.26.BKG) |
+| {{laalanndo}} | verb | believe, trust; faith — *Southern Kissi (Childs 2000) :* believe, trust; be sure of | [Exod 4:9](https://www.bible.com/bible/1394/EXO.4.9.BKG) |
 | {{laalantɛnɔɔ\|r}} | noun (o) | pagan, unbeliever | Keita 1979, p. 150 |
-| {{laasianndo}} | verb | do wrong, be corrupt, sin; wickedness | [GEN.18.20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
-| {{lahakio}}, pl. {{lahakia}} | adjective | sinful, guilty; sinner | [EXO.34.7](https://www.bible.com/bible/1394/EXO.34.7.BKG) |
-| {{latɔŋndo}}, pl. {{latɔŋnda}} | noun | law (of Moses) | [EZR.7.6](https://www.bible.com/bible/1394/EZR.7.6.BKG) |
-| {{lisaa}} | verb | praise, glorify | [EXO.15.1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
-| {{loamaa}} | verb | burn; (sálà loamaa) burnt offering | [GEN.8.20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
+| {{laasianndo}} | verb | do wrong, be corrupt, sin; wickedness | [Gen 18:20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
+| {{lahakio}}, pl. {{lahakia}} | adjective | sinful, guilty; sinner | [Exod 34:7](https://www.bible.com/bible/1394/EXO.34.7.BKG) |
+| {{latɔŋndo}}, pl. {{latɔŋnda}} | noun | law (of Moses) | [Ezra 7:6](https://www.bible.com/bible/1394/EZR.7.6.BKG) |
+| {{lisaa}} | verb | praise, glorify | [Exod 15:1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
+| {{loamaa}} | verb | burn; (sálà loamaa) burnt offering | [Gen 8:20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
 | {{mɛɛnaa\|r}} | verb | curse | Keita 1979, p. 110 |
-| {{mɛɛniaa}} | verb | curse; curse repeatedly (Keita) | [1KI.2.8](https://www.bible.com/bible/1394/1KI.2.8.BKG) |
-| {{nɔɔliaa}} | verb | defile, profane; (nɔɔlian) be defiled — *Southern Kissi (Childs 2000) :* make dirty | [GEN.49.4](https://www.bible.com/bible/1394/GEN.49.4.BKG) |
-| {{nɔɔlɛiyo}} | adjective | unclean, abominable; (dɛnɛ nɔɔlɛi) abomination — *Southern Kissi (Childs 2000) :* dirty | [EXO.23.24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
-| {{piɛilen}} | noun (len) | prayer, request | [GEN.4.26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
-| {{piɛiyo}} | verb | pray; ask, beg — *Southern Kissi (Childs 2000) :* beg; (benefactive) pray or ask on someone's behalf | [DEU.12.5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
+| {{mɛɛniaa}} | verb | curse; curse repeatedly (Keita) | [1 Kgs 2:8](https://www.bible.com/bible/1394/1KI.2.8.BKG) |
+| {{nɔɔliaa}} | verb | defile, profane; (nɔɔlian) be defiled — *Southern Kissi (Childs 2000) :* make dirty | [Gen 49:4](https://www.bible.com/bible/1394/GEN.49.4.BKG) |
+| {{nɔɔlɛiyo}} | adjective | unclean, abominable; (dɛnɛ nɔɔlɛi) abomination — *Southern Kissi (Childs 2000) :* dirty | [Exod 23:24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
+| {{piɛilen}} | noun (len) | prayer, request | [Gen 4:26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
+| {{piɛiyo}} | verb | pray; ask, beg — *Southern Kissi (Childs 2000) :* beg; (benefactive) pray or ask on someone's behalf | [Deut 12:5](https://www.bible.com/bible/1394/DEU.12.5.BKG) |
 | {{pulɔn sɛllo\|r}} | noun | ritual ablution | Keita 1979, p. 150 |
-| {{pɔlaa}} | verb | anoint; soak, wet (Keita) — *Southern Kissi (Childs 2000) :* soak, immerse in water | [EXO.25.6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
-| {{pɛngiaalen}} | noun (len) | rest; (paale pɛngiaalen) sabbath day | [GEN.2.3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
-| {{sálàá}}, pl. {{sálàlan}} | noun | sacrifice, offering — *Southern Kissi (Childs 2000) :* sacrifice; blessing; charm, talisman | [GEN.4.3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
-| {{solio}} | verb | bring out; offer (a sacrifice) — *Southern Kissi (Childs 2000) :* take something out | [GEN.12.20](https://www.bible.com/bible/1394/GEN.12.20.BKG) |
-| {{solullo}} | verb | offer (to), present; bring forth for; sing (a song) to | [GEN.8.20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
-| {{sooloo}} | verb | worship, serve (a god), bow down to — *Southern Kissi (Childs 2000) :* plural of 'talk'; worship (God, an idol) | [EXO.12.12](https://www.bible.com/bible/1394/EXO.12.12.BKG) |
-| {{sumndo}} | noun | fast, fasting | [LEV.16.29](https://www.bible.com/bible/1394/LEV.16.29.BKG) |
-| {{sɔlɔlan}} | verb | confess (one's sins) | [GEN.41.9](https://www.bible.com/bible/1394/GEN.41.9.BKG) |
-| {{tiindanndo}} | verb | trust in, rely on — *Southern Kissi (Childs 2000) :* depend on, trust (middle of 'step on, press') | [DEU.28.52](https://www.bible.com/bible/1394/DEU.28.52.BKG) |
-| {{toomaa}} | noun (o) | circumcision | [GEN.17](https://www.bible.com/bible/1394/GEN.17.BKG) |
-| {{tundun}} | verb | bow down, prostrate oneself | [GEN.27.29](https://www.bible.com/bible/1394/GEN.27.29.BKG) |
-| {{tɔ́ndɔɔ}} | numeral | tenth; tithe | [GEN.28.22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
-| {{tɛɛlɔnndo}} | verb | plead, implore, pray; complain to | [EXO.9.29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
-| {{veeloo}} | verb | call ; call; call upon — *Southern Kissi (Childs 2000) :* call, name | [GEN.4.26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
-| {{vesul}} | verb | sprinkle — *Southern Kissi (Childs 2000) :* splash | [LEV.4.6](https://www.bible.com/bible/1394/LEV.4.6.BKG) |
-| {{vo}} | verb | fear, revere | [GEN.9.15](https://www.bible.com/bible/1394/GEN.9.15.BKG) |
-| {{yinɔɔ}} | verb | dip, immerse; dye; baptize — *Southern Kissi (Childs 2000) :* dunk, soak (e.g. for dyeing cloth) | [EXO.24.10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
-| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [EXO.39.15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
+| {{pɔlaa}} | verb | anoint; soak, wet (Keita) — *Southern Kissi (Childs 2000) :* soak, immerse in water | [Exod 25:6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
+| {{pɛngiaalen}} | noun (len) | rest; (paale pɛngiaalen) sabbath day | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
+| {{sálàá}}, pl. {{sálàlan}} | noun | sacrifice, offering — *Southern Kissi (Childs 2000) :* sacrifice; blessing; charm, talisman | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
+| {{solio}} | verb | bring out; offer (a sacrifice) — *Southern Kissi (Childs 2000) :* take something out | [Gen 12:20](https://www.bible.com/bible/1394/GEN.12.20.BKG) |
+| {{solullo}} | verb | offer (to), present; bring forth for; sing (a song) to | [Gen 8:20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
+| {{sooloo}} | verb | worship, serve (a god), bow down to — *Southern Kissi (Childs 2000) :* plural of 'talk'; worship (God, an idol) | [Exod 12:12](https://www.bible.com/bible/1394/EXO.12.12.BKG) |
+| {{sumndo}} | noun | fast, fasting | [Lev 16:29](https://www.bible.com/bible/1394/LEV.16.29.BKG) |
+| {{sɔlɔlan}} | verb | confess (one's sins) | [Gen 41:9](https://www.bible.com/bible/1394/GEN.41.9.BKG) |
+| {{tiindanndo}} | verb | trust in, rely on — *Southern Kissi (Childs 2000) :* depend on, trust (middle of 'step on, press') | [Deut 28:52](https://www.bible.com/bible/1394/DEU.28.52.BKG) |
+| {{toomaa}} | noun (o) | circumcision | [Gen 17](https://www.bible.com/bible/1394/GEN.17.BKG) |
+| {{tundun}} | verb | bow down, prostrate oneself | [Gen 27:29](https://www.bible.com/bible/1394/GEN.27.29.BKG) |
+| {{tɔ́ndɔɔ}} | numeral | tenth; tithe | [Gen 28:22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
+| {{tɛɛlɔnndo}} | verb | plead, implore, pray; complain to | [Exod 9:29](https://www.bible.com/bible/1394/EXO.9.29.BKG) |
+| {{veeloo}} | verb | call ; call; call upon — *Southern Kissi (Childs 2000) :* call, name | [Gen 4:26](https://www.bible.com/bible/1394/GEN.4.26.BKG) |
+| {{vesul}} | verb | sprinkle — *Southern Kissi (Childs 2000) :* splash | [Lev 4:6](https://www.bible.com/bible/1394/LEV.4.6.BKG) |
+| {{vo}} | verb | fear, revere | [Gen 9:15](https://www.bible.com/bible/1394/GEN.9.15.BKG) |
+| {{yinɔɔ}} | verb | dip, immerse; dye; baptize — *Southern Kissi (Childs 2000) :* dunk, soak (e.g. for dyeing cloth) | [Exod 24:10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
+| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [Exod 39:15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
 
 ### 4.9.6 Heaven, hell
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{halataalaa}} | noun (o) | sky; heaven | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{haliyɛnɛ}} | noun | paradise — *Southern Kissi (Childs 2000) :* heaven | [LUK.23.43](https://www.bible.com/bible/1394/LUK.23.43.BKG) |
+| {{halataalaa}} | noun (o) | sky; heaven | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{haliyɛnɛ}} | noun | paradise — *Southern Kissi (Childs 2000) :* heaven | [Luke 23:43](https://www.bible.com/bible/1394/LUK.23.43.BKG) |
 | {{ɲahanama\|r}} | noun | hell | Keita 1979, p. 150 |
 
 ### 4.9.7 Religious organization
@@ -1622,13 +1622,13 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bolle sɛllo\|?}} | noun | imam | Keita 1979, p. 150 |
-| {{Cɛi-Hala}} | noun | temple, church (house of God) | [JOS.9.23](https://www.bible.com/bible/1394/JOS.9.23.BKG) |
-| {{kaandennɔ}}, pl. {{kaandennda}} | noun | disciple | [MAT.10.37](https://www.bible.com/bible/1394/MAT.10.37.BKG) |
+| {{Cɛi-Hala}} | noun | temple, church (house of God) | [Josh 9:23](https://www.bible.com/bible/1394/JOS.9.23.BKG) |
+| {{kaandennɔ}}, pl. {{kaandennda}} | noun | disciple | [Matt 10:37](https://www.bible.com/bible/1394/MAT.10.37.BKG) |
 | {{kila hala\|?}} | noun | prophet (Keita) | Keita 1979, p. 150 |
 | {{kilitilen\|r}} | noun (len) | Christianity | Keita 1979, p. 150 |
 | {{kilitinɔɔ\|r}} | noun (o) | Christian | Keita 1979, p. 150 |
 | {{kisɔɔsinɔɔ\|r}} | noun (o) | Protestant | Keita 1979, p. 150 |
-| {{laalaŋaa}} | noun | (vanaa laalaŋaa) assembly of believers, church | [MAT.16.18](https://www.bible.com/bible/1394/MAT.16.18.BKG) |
+| {{laalaŋaa}} | noun | (vanaa laalaŋaa) assembly of believers, church | [Matt 16:18](https://www.bible.com/bible/1394/MAT.16.18.BKG) |
 | {{misiliminɔɔ\|r}} | noun (o) | Muslim | Keita 1979, p. 150 |
 | {{misilio\|r}} | noun (o) | mosque | Keita 1979, p. 150 |
 | {{pɛɛlunɔɔ\|r}} | noun (o) | priest | Keita 1979, p. 150 |
@@ -1638,19 +1638,19 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ansan}} | noun | incense | [EXO.25.6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
+| {{ansan}} | noun | incense | [Exod 25:6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
 | {{bibuloo\|r}} | noun (o) | Bible | Keita 1979, p. 150 |
 | {{bɔlɔɔn\|r}} | noun | prayer beads | Keita 1979, p. 150 |
-| {{caltan}} | noun (lan) | dwelling, tent; (Calta Mɛlɛka) the tabernacle — *Southern Kissi (Childs 2000) :* lodgings, settlements, living quarters | [JOS.3.1](https://www.bible.com/bible/1394/JOS.3.1.BKG) |
+| {{caltan}} | noun (lan) | dwelling, tent; (Calta Mɛlɛka) the tabernacle — *Southern Kissi (Childs 2000) :* lodgings, settlements, living quarters | [Josh 3:1](https://www.bible.com/bible/1394/JOS.3.1.BKG) |
 | {{hɔlaa piɔ́mndo\|r}} | noun | mask | Keita 1979, p. 144 |
-| {{kesu}} | noun | chest, box; ark (kesu kpemaa) | [GEN.50.26](https://www.bible.com/bible/1394/GEN.50.26.BKG) |
+| {{kesu}} | noun | chest, box; ark (kesu kpemaa) | [Gen 50:26](https://www.bible.com/bible/1394/GEN.50.26.BKG) |
 | {{kitabuo\|r}} | noun (o) | Koran | Keita 1979, p. 150 |
 | {{koongo lɔɛyaa\|r}} | noun | mask | Keita 1979, p. 144 |
-| {{máándo}} | noun (o) | shrine, place of worship — *Southern Kissi (Childs 2000) :* place of worship; secret meeting place of the men in the forest | [JDG.17.5](https://www.bible.com/bible/1394/JDG.17.5.BKG) |
-| {{piɔmaa}} | noun | idols, images of gods | [GEN.31.19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
-| {{sɛvɛi}} | noun (i) | amulet — *Southern Kissi (Childs 2000) :* protective amulet; cowry | [JOS.10.13](https://www.bible.com/bible/1394/JOS.10.13.BKG) |
-| {{tombon}} | noun | high places (shrines) | [1KI.13.33](https://www.bible.com/bible/1394/1KI.13.33.BKG) |
-| {{tuuliaala}} | noun | carved figures, images, idols | [DEU.4.23](https://www.bible.com/bible/1394/DEU.4.23.BKG) |
+| {{máándo}} | noun (o) | shrine, place of worship — *Southern Kissi (Childs 2000) :* place of worship; secret meeting place of the men in the forest | [Judg 17:5](https://www.bible.com/bible/1394/JDG.17.5.BKG) |
+| {{piɔmaa}} | noun | idols, images of gods | [Gen 31:19](https://www.bible.com/bible/1394/GEN.31.19.BKG) |
+| {{sɛvɛi}} | noun (i) | amulet — *Southern Kissi (Childs 2000) :* protective amulet; cowry | [Josh 10:13](https://www.bible.com/bible/1394/JOS.10.13.BKG) |
+| {{tombon}} | noun | high places (shrines) | [1 Kgs 13:33](https://www.bible.com/bible/1394/1KI.13.33.BKG) |
+| {{tuuliaala}} | noun | carved figures, images, idols | [Deut 4:23](https://www.bible.com/bible/1394/DEU.4.23.BKG) |
 | {{yallo\|r}} | noun (o) | fetish | Keita 1979, p. 150 |
 | {{yondo toomaa\|r}} | noun | sacred forest (initiation) — *Southern Kissi (Childs 2000) :* men's secret initiation society (Poro), bush school | Keita 1979, p. 142 |
 
@@ -1663,8 +1663,8 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{cukanioo\|r}} | noun (o) | spoon | Keita 1979, p. 159 |
 | {{gbɛɛnɛi\|r}} | noun (i) | cooking pot | Keita 1979, p. 159 |
 | {{kola kuumbuanndo\|r}} | noun | blanket, covering cloth | Keita 1979, p. 144 |
-| {{kpɛɛnɛi}}, pl. {{kpɛɛnɛn}} | noun (i) | cooking pot; basin — *Southern Kissi (Childs 2000) :* water pot; also wasp nest | [LEV.2.5](https://www.bible.com/bible/1394/LEV.2.5.BKG) |
-| {{lafitinaa}} | noun | lamp, light | [EXO.25.6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
+| {{kpɛɛnɛi}}, pl. {{kpɛɛnɛn}} | noun (i) | cooking pot; basin — *Southern Kissi (Childs 2000) :* water pot; also wasp nest | [Lev 2:5](https://www.bible.com/bible/1394/LEV.2.5.BKG) |
+| {{lafitinaa}} | noun | lamp, light | [Exod 25:6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
 | {{peletiiyo\|r}} | noun (o) | plate | Keita 1979, p. 159 |
 | {{salillo\|r}} | noun (o) | cooking pot | Keita 1979, p. 159 |
 
@@ -1672,77 +1672,77 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hinia}}, pl. {{hinilan}} | noun | bed | [GEN.24.31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
-| {{kpɛŋɛ}} | noun | seat, throne — *Southern Kissi (Childs 2000) :* chair, stool, low bench; position | [GEN.41.40](https://www.bible.com/bible/1394/GEN.41.40.BKG) |
+| {{hinia}}, pl. {{hinilan}} | noun | bed | [Gen 24:31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
+| {{kpɛŋɛ}} | noun | seat, throne — *Southern Kissi (Childs 2000) :* chair, stool, low bench; position | [Gen 41:40](https://www.bible.com/bible/1394/GEN.41.40.BKG) |
 | {{mboomaa\|r}} | noun (o) | hammock; litter, palanquin | Keita 1979, p. 159 |
-| {{tabalio}} | noun (o) | table | [EXO.25.23](https://www.bible.com/bible/1394/EXO.25.23.BKG) |
+| {{tabalio}} | noun (o) | table | [Exod 25:23](https://www.bible.com/bible/1394/EXO.25.23.BKG) |
 | {{yalahiniaa\|r}} | noun (o) | hammock | Keita 1979, p. 159 |
 
 ### 5.2 Food
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baloo}} | noun (o) | food; (dɔwnun balo) feed on | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{fofolan}} | noun | famine (yima fofolan) | [GEN.12.10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
-| {{ɲɛdiaa}} | noun (o) | food | [GEN.3.17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{baloo}} | noun (o) | food; (dɔwnun balo) feed on | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{fofolan}} | noun | famine (yima fofolan) | [Gen 12:10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
+| {{ɲɛdiaa}} | noun (o) | food | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
 
 ### 5.2.1 Food preparation
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ciei}} | noun (i) | mortar | [NUM.11.8](https://www.bible.com/bible/1394/NUM.11.8.BKG) |
-| {{linda}} | verb | knead | [GEN.18.6](https://www.bible.com/bible/1394/GEN.18.6.BKG) |
-| {{lum}} | verb | bake, prepare (a meal) | [GEN.19.3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
-| {{lɛvɛnndo}} | noun | leaven, yeast | [EXO.12.15](https://www.bible.com/bible/1394/EXO.12.15.BKG) |
+| {{ciei}} | noun (i) | mortar | [Num 11:8](https://www.bible.com/bible/1394/NUM.11.8.BKG) |
+| {{linda}} | verb | knead | [Gen 18:6](https://www.bible.com/bible/1394/GEN.18.6.BKG) |
+| {{lum}} | verb | bake, prepare (a meal) | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
+| {{lɛvɛnndo}} | noun | leaven, yeast | [Exod 12:15](https://www.bible.com/bible/1394/EXO.12.15.BKG) |
 | {{salɔɔ\|r}} | verb | peel, weed — *Southern Kissi (Childs 2000) :* scrape (a surface) | Keita 1979, p. 115 |
-| {{toŋɔɔ}} | verb | fry, bake (cakes) — *Southern Kissi (Childs 2000) :* fry, cook | [JER.7.18](https://www.bible.com/bible/1394/JER.7.18.BKG) |
-| {{yawvo}} | verb | cook | [GEN.25.29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
+| {{toŋɔɔ}} | verb | fry, bake (cakes) — *Southern Kissi (Childs 2000) :* fry, cook | [Jer 7:18](https://www.bible.com/bible/1394/JER.7.18.BKG) |
+| {{yawvo}} | verb | cook | [Gen 25:29](https://www.bible.com/bible/1394/GEN.25.29.BKG) |
 
 ### 5.2.2 Eat
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{dillo\|r}} | verb | eat for someone | Keita 1979, p. 110 |
-| {{dioo}} | verb | eat — *Southern Kissi (Childs 2000) :* eat, consume, use up | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{kolɔɔ}} | verb | drink — *Southern Kissi (Childs 2000) :* drink; also smoke (tobacco) | [GEN.24.19](https://www.bible.com/bible/1394/GEN.24.19.BKG) |
-| {{lɔwviaa}} | verb | bite | [NUM.21.6](https://www.bible.com/bible/1394/NUM.21.6.BKG) |
-| {{miolɔɔ}} | verb | swallow | [PSA.88.18](https://www.bible.com/bible/1394/PSA.88.18.BKG) |
-| {{pim}} | verb | be satisfied, have enough (to drink); (pimi) give to drink, satisfy | [GEN.24.19](https://www.bible.com/bible/1394/GEN.24.19.BKG) |
+| {{dioo}} | verb | eat — *Southern Kissi (Childs 2000) :* eat, consume, use up | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{kolɔɔ}} | verb | drink — *Southern Kissi (Childs 2000) :* drink; also smoke (tobacco) | [Gen 24:19](https://www.bible.com/bible/1394/GEN.24.19.BKG) |
+| {{lɔwviaa}} | verb | bite | [Num 21:6](https://www.bible.com/bible/1394/NUM.21.6.BKG) |
+| {{miolɔɔ}} | verb | swallow | [Ps 88:18](https://www.bible.com/bible/1394/PSA.88.18.BKG) |
+| {{pim}} | verb | be satisfied, have enough (to drink); (pimi) give to drink, satisfy | [Gen 24:19](https://www.bible.com/bible/1394/GEN.24.19.BKG) |
 | {{susɔɔ\|r}} | verb | suck repeatedly | Keita 1979, p. 113 |
-| {{yiaan}} | noun (an) | hunger; famine | [GEN.25.30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
+| {{yiaan}} | noun (an) | hunger; famine | [Gen 25:30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
 
 ### 5.2.3 Types of food
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{buloo}}, pl. {{bululan}} | noun (o) | bread | [GEN.14.18](https://www.bible.com/bible/1394/GEN.14.18.BKG) |
+| {{buloo}}, pl. {{bululan}} | noun (o) | bread | [Gen 14:18](https://www.bible.com/bible/1394/GEN.14.18.BKG) |
 | {{bɔlɔan\|r}} | noun (an) | palm wine tapped from the trunk | Keita 1979, p. 139 |
 | {{bɔlɔɔ\|r}} | noun (o) | banana — *Southern Kissi (Childs 2000) :* banana, banana tree | Keita 1979, p. 139 |
 | {{calen\|r}} | noun (len) | papaya — *Southern Kissi (Childs 2000) :* papaya; pumpkin; anything gourd-shaped | Keita 1979, p. 140 |
-| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [GEN.28.18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
-| {{cɔnndon}} | noun | sorghum | [EZK.4.9](https://www.bible.com/bible/1394/EZK.4.9.BKG) |
+| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [Gen 28:18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
+| {{cɔnndon}} | noun | sorghum | [Ezek 4:9](https://www.bible.com/bible/1394/EZK.4.9.BKG) |
 | {{kawve\|r}} | noun (i) | bean | Keita 1979, p. 139 |
 | {{koei\|r}} | noun | palm wine tapped from the flower | Keita 1979, p. 139 |
 | {{kpaasalen\|r}} | noun (len) | okra | Keita 1979, p. 139 |
 | {{kpaaɲaa\|r}} | noun | sweet potato leaves | Keita 1979, p. 139 |
 | {{kpandilen\|r}} | noun (len) | sweet potato | Keita 1979, p. 139 |
-| {{kpeyanndo}} | noun (o) | flour — *Southern Kissi (Childs 2000) :* pure white rice flour | [EXO.7.28](https://www.bible.com/bible/1394/EXO.7.28.BKG) |
+| {{kpeyanndo}} | noun (o) | flour — *Southern Kissi (Childs 2000) :* pure white rice flour | [Exod 7:28](https://www.bible.com/bible/1394/EXO.7.28.BKG) |
 | {{kulen\|r}} | noun (len) | yam | Keita 1979, p. 139 |
 | {{kɔkumbɛiyo\|r}}, pl. {{kɔkumbɛilan\|r}} | noun (o) | cucumber | Keita 1979, p. 139 |
 | {{kɛmbɛi kokoei\|r}} | noun | coconut | Keita 1979, p. 139 |
 | {{lembulten\|r}} | noun (len) | lemon, lime — *Southern Kissi (Childs 2000) :* citrus fruit: orange, lemon, lime | Keita 1979, p. 139 |
-| {{lɛan}} | noun (an) | honey | [GEN.43.11](https://www.bible.com/bible/1394/GEN.43.11.BKG) |
-| {{maalon}} | noun | rice; wheat | [GEN.30.14](https://www.bible.com/bible/1394/GEN.30.14.BKG) |
+| {{lɛan}} | noun (an) | honey | [Gen 43:11](https://www.bible.com/bible/1394/GEN.43.11.BKG) |
+| {{maalon}} | noun | rice; wheat | [Gen 30:14](https://www.bible.com/bible/1394/GEN.30.14.BKG) |
 | {{mɔima vawvan\|r}} | noun | palm wine | Keita 1979, p. 139 |
-| {{mɔiyan}} | noun (an) | wine — *Southern Kissi (Childs 2000) :* liquor (generic), spirits | [GEN.9.21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
-| {{nɔnɔɔ}} | noun (o) | milk | [2SA.17.29](https://www.bible.com/bible/1394/2SA.17.29.BKG) |
+| {{mɔiyan}} | noun (an) | wine — *Southern Kissi (Childs 2000) :* liquor (generic), spirits | [Gen 9:21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
+| {{nɔnɔɔ}} | noun (o) | milk | [2 Sam 17:29](https://www.bible.com/bible/1394/2SA.17.29.BKG) |
 | {{seŋan\|r}} | noun (an) | raffia wine | Keita 1979, p. 140 |
 | {{siawlen\|r}} | noun (len) | orange | Keita 1979, p. 140 |
 | {{siɛtullan\|r}} | noun | shea butter | Keita 1979, p. 140 |
 | {{suanlawomndo\|r}} | noun (o) | millet | Keita 1979, p. 140 |
 | {{suɛi\|r}} | noun (i) | maize | Keita 1979, p. 140 |
 | {{tɛi\|r}} | noun (i) | groundnut, peanut | Keita 1979, p. 140 |
-| {{voosu}} | noun | fig — *Southern Kissi (Childs 2000) :* fig tree; also a fern-like plant | [NUM.20.5](https://www.bible.com/bible/1394/NUM.20.5.BKG) |
+| {{voosu}} | noun | fig — *Southern Kissi (Childs 2000) :* fig tree; also a fern-like plant | [Num 20:5](https://www.bible.com/bible/1394/NUM.20.5.BKG) |
 | {{yabibio\|r}} | noun (o) | pineapple | Keita 1979, p. 140 |
 | {{yambele folalen\|r}} | noun | cassava | Keita 1979, p. 140 |
 | {{yambɛi\|r}} | noun | tubers — *Southern Kissi (Childs 2000) :* tuber (generic): cassava, eddo, yam | Keita 1979, p. 140 |
@@ -1766,16 +1766,16 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{domaa}}, pl. {{domalan}} | noun (o) | shirt, garment ; garment, clothing, cloak — *Southern Kissi (Childs 2000) :* shirt, gown, robe | [GEN.39.12](https://www.bible.com/bible/1394/GEN.39.12.BKG) |
+| {{domaa}}, pl. {{domalan}} | noun (o) | shirt, garment ; garment, clothing, cloak — *Southern Kissi (Childs 2000) :* shirt, gown, robe | [Gen 39:12](https://www.bible.com/bible/1394/GEN.39.12.BKG) |
 | {{filaniiyo\|r}} | noun (o) | knitted garment, sweater | Keita 1979, p. 144 |
-| {{kola}}, pl. {{kolalan}} | noun | cloth, fabric; veil — *Southern Kissi (Childs 2000) :* standard piece of cloth, wrapper (lappa) | [GEN.9.21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
+| {{kola}}, pl. {{kolalan}} | noun | cloth, fabric; veil — *Southern Kissi (Childs 2000) :* standard piece of cloth, wrapper (lappa) | [Gen 9:21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
 | {{kola buiyo\|r}} | noun | underskirt, slip — *Southern Kissi (Childs 2000) :* woman's under-wrapper worn as a slip | Keita 1979, p. 144 |
-| {{kolaa}}, pl. {{kolalan}} | noun (o) | cloth, wrapper | [GEN.16.7](https://www.bible.com/bible/1394/GEN.16.7.BKG) |
+| {{kolaa}}, pl. {{kolalan}} | noun (o) | cloth, wrapper | [Gen 16:7](https://www.bible.com/bible/1394/GEN.16.7.BKG) |
 | {{kookoo\|r}} | noun (o) | head scarf | Keita 1979, p. 144 |
 | {{lɛmbɛvilɛiyo\|?}} | noun (o) | trousers | Keita 1979, p. 144 |
-| {{mɔsillo}} | noun (o) | headgear, turban, cap | [EXO.28.4](https://www.bible.com/bible/1394/EXO.28.4.BKG) |
-| {{samtaa}}, pl. {{samtalan}} | noun (o) | shoe, sandal | [DEU.25.9](https://www.bible.com/bible/1394/DEU.25.9.BKG) |
-| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [EXO.39.15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
+| {{mɔsillo}} | noun (o) | headgear, turban, cap | [Exod 28:4](https://www.bible.com/bible/1394/EXO.28.4.BKG) |
+| {{samtaa}}, pl. {{samtalan}} | noun (o) | shoe, sandal | [Deut 25:9](https://www.bible.com/bible/1394/DEU.25.9.BKG) |
+| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [Exod 39:15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
 | {{yuuluo\|r}}, pl. {{yuululan\|r}} | noun (o) | rag | Keita 1979, p. 145 |
 
 ### 5.3.3 Traditional clothing
@@ -1790,7 +1790,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yáwlen}} | noun (len) | belt, sash | [EXO.12.11](https://www.bible.com/bible/1394/EXO.12.11.BKG) |
+| {{yáwlen}} | noun (len) | belt, sash | [Exod 12:11](https://www.bible.com/bible/1394/EXO.12.11.BKG) |
 | {{yifɔɔ\|r}}, pl. {{yifɔlan\|r}} | noun (o) | pocket | Keita 1979, p. 145 |
 
 ### 5.3.7 Wear clothing
@@ -1798,36 +1798,36 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bɛŋianndo\|?}} | verb | put on boots (?) | Keita 1979, p. 114 |
-| {{solinndo}} | verb | take off, remove; come out | [LEV.17.11](https://www.bible.com/bible/1394/LEV.17.11.BKG) |
-| {{vownun}} | verb | put on (clothes, sandals) | [EXO.12.11](https://www.bible.com/bible/1394/EXO.12.11.BKG) |
+| {{solinndo}} | verb | take off, remove; come out | [Lev 17:11](https://www.bible.com/bible/1394/LEV.17.11.BKG) |
+| {{vownun}} | verb | put on (clothes, sandals) | [Exod 12:11](https://www.bible.com/bible/1394/EXO.12.11.BKG) |
 
 ### 5.4 Adornment
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{tofanndo}}, pl. {{tofanndan}} | noun (o) | mirror; looking | [JOS.8.20](https://www.bible.com/bible/1394/JOS.8.20.BKG) |
+| {{tofanndo}}, pl. {{tofanndan}} | noun (o) | mirror; looking | [Josh 8:20](https://www.bible.com/bible/1394/JOS.8.20.BKG) |
 
 ### 5.4.1 Jewelry
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kelɛi}}, pl. {{kelan}} | noun (i) | ring, bracelet | [GEN.24.22](https://www.bible.com/bible/1394/GEN.24.22.BKG) |
+| {{kelɛi}}, pl. {{kelan}} | noun (i) | ring, bracelet | [Gen 24:22](https://www.bible.com/bible/1394/GEN.24.22.BKG) |
 | {{kelɛi bai\|r}} | noun | bracelet | Keita 1979, p. 144 |
 | {{kelɛi n'sianiei}} | noun | gold ring | Keita 1979, p. 144 |
 | {{kelɛi pelei\|r}} | noun | anklet | Keita 1979, p. 144 |
 | {{kelɛi suei}} | noun | finger ring | Keita 1979, p. 144 |
 | {{koei\|r}}, pl. {{koon\|r}} | noun (i) | cowry — *Southern Kissi (Childs 2000) :* cowry shell; also a palm-wine gourd | Keita 1979, p. 144 |
 | {{seenguuvo\|r}} | noun (o) | shell | Keita 1979, p. 144 |
-| {{yɔlɔn}} | noun | chain, cord | [GEN.38.18](https://www.bible.com/bible/1394/GEN.38.18.BKG) |
-| {{yɔɔvaa}} | noun (o) | bead necklace, beads — *Southern Kissi (Childs 2000) :* beads worn around the neck or the waist | [PRO.8.11](https://www.bible.com/bible/1394/PRO.8.11.BKG) |
+| {{yɔlɔn}} | noun | chain, cord | [Gen 38:18](https://www.bible.com/bible/1394/GEN.38.18.BKG) |
+| {{yɔɔvaa}} | noun (o) | bead necklace, beads — *Southern Kissi (Childs 2000) :* beads worn around the neck or the waist | [Prov 8:11](https://www.bible.com/bible/1394/PRO.8.11.BKG) |
 
 ### 5.4.2 Cosmetics
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [GEN.28.18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
+| {{cuɛiyan}} | noun (an) | fat; oil ; oil; ointment ; oil; fat, butter — *Southern Kissi (Childs 2000) :* oil, palm oil, ointment | [Gen 28:18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
 | {{kpokoloo\|r}} | noun (o) | laterite used as make-up | Keita 1979, p. 144 |
-| {{lasikɔlɔɔ}} | noun (o) | perfume, spices | [EXO.30.25](https://www.bible.com/bible/1394/EXO.30.25.BKG) |
+| {{lasikɔlɔɔ}} | noun (o) | perfume, spices | [Exod 30:25](https://www.bible.com/bible/1394/EXO.30.25.BKG) |
 | {{pondaa\|r}} | noun (o) | black make-up paint | Keita 1979, p. 144 |
 | {{siɛtullan\|r}} | noun | shea butter | Keita 1979, p. 140 |
 | {{yɔwviaa\|?}} | noun | make-up (Keita) | Keita 1979, p. 145 |
@@ -1840,7 +1840,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{sangio\|r}} | noun (o) | comb | Keita 1979, p. 144 |
 | {{sendinndo\|r}} | verb | shave oneself | Keita 1979, p. 113 |
 | {{sendinɔɔ\|r}} | noun (o) | barber, hairdresser | Keita 1979, p. 145 |
-| {{sendio}} | verb | shave, cut (hair) — *Southern Kissi (Childs 2000) :* shave (someone), cut hair | [EXO.22.10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
+| {{sendio}} | verb | shave, cut (hair) — *Southern Kissi (Childs 2000) :* shave (someone), cut hair | [Exod 22:10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
 
 ### 5.4.6 Ritual scar
 
@@ -1852,90 +1852,90 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kumnde}} | noun | smoke; cloud | [GEN.19.28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
-| {{leyinndo}} | noun | flame, blazing fire; furnace | [EXO.9.8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
-| {{loamaa}} | verb | burn; (sálà loamaa) burnt offering | [GEN.8.20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
-| {{lomɔɔ}} | verb | burn — *Southern Kissi (Childs 2000) :* burn, be burning | [GEN.19.28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
-| {{mɛndul}} | verb | kindle (a fire) — *Southern Kissi (Childs 2000) :* light, build a fire | [EXO.35.3](https://www.bible.com/bible/1394/EXO.35.3.BKG) |
-| {{pulta}}, pl. {{pultan}} | noun | ash | [EXO.9.8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
+| {{kumnde}} | noun | smoke; cloud | [Gen 19:28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
+| {{leyinndo}} | noun | flame, blazing fire; furnace | [Exod 9:8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
+| {{loamaa}} | verb | burn; (sálà loamaa) burnt offering | [Gen 8:20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
+| {{lomɔɔ}} | verb | burn — *Southern Kissi (Childs 2000) :* burn, be burning | [Gen 19:28](https://www.bible.com/bible/1394/GEN.19.28.BKG) |
+| {{mɛndul}} | verb | kindle (a fire) — *Southern Kissi (Childs 2000) :* light, build a fire | [Exod 35:3](https://www.bible.com/bible/1394/EXO.35.3.BKG) |
+| {{pulta}}, pl. {{pultan}} | noun | ash | [Exod 9:8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
 | {{takalaa\|r}} | noun (o) | matches, matchbox | Keita 1979, p. 159 |
-| {{tɛngɛ}} | noun | lamp, torch | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{yinnden}} | noun (len) | fire | [GEN.22.6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
-| {{ɲumndo}} | verb | go out (fire, lamp); fade | [LEV.13.6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
+| {{tɛngɛ}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{yinnden}} | noun (len) | fire | [Gen 22:6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
+| {{ɲumndo}} | verb | go out (fire, lamp); fade | [Lev 13:6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
 
 ### 5.6 Cleaning
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{suusiaa}} | verb | scour, rub repeatedly | [LEV.6.21](https://www.bible.com/bible/1394/LEV.6.21.BKG) |
+| {{suusiaa}} | verb | scour, rub repeatedly | [Lev 6:21](https://www.bible.com/bible/1394/LEV.6.21.BKG) |
 
 ### 5.6.1 Clean, dirty
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dendu}} | adjective | pure, clean; bright | [GEN.7.8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
-| {{dindio}} | verb | make clean, purify ; purify, sanctify — *Southern Kissi (Childs 2000) :* make clean (causative of 'be clean') | [EXO.29.36](https://www.bible.com/bible/1394/EXO.29.36.BKG) |
-| {{dindu}} | adjective | clean (ritually); clear — *Southern Kissi (Childs 2000) :* be clean | [GEN.7.2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
-| {{nɔɔliaa}} | verb | defile, profane; (nɔɔlian) be defiled — *Southern Kissi (Childs 2000) :* make dirty | [GEN.49.4](https://www.bible.com/bible/1394/GEN.49.4.BKG) |
-| {{nɔɔlɛiyo}} | adjective | unclean, abominable; (dɛnɛ nɔɔlɛi) abomination — *Southern Kissi (Childs 2000) :* dirty | [EXO.23.24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
-| {{sállo}} | noun (o) | rubbish heap — *Southern Kissi (Childs 2000) :* rubbish or dust pile; also a pile of wood | [1SA.2.8](https://www.bible.com/bible/1394/1SA.2.8.BKG) |
+| {{dendu}} | adjective | pure, clean; bright | [Gen 7:8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
+| {{dindio}} | verb | make clean, purify ; purify, sanctify — *Southern Kissi (Childs 2000) :* make clean (causative of 'be clean') | [Exod 29:36](https://www.bible.com/bible/1394/EXO.29.36.BKG) |
+| {{dindu}} | adjective | clean (ritually); clear — *Southern Kissi (Childs 2000) :* be clean | [Gen 7:2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
+| {{nɔɔliaa}} | verb | defile, profane; (nɔɔlian) be defiled — *Southern Kissi (Childs 2000) :* make dirty | [Gen 49:4](https://www.bible.com/bible/1394/GEN.49.4.BKG) |
+| {{nɔɔlɛiyo}} | adjective | unclean, abominable; (dɛnɛ nɔɔlɛi) abomination — *Southern Kissi (Childs 2000) :* dirty | [Exod 23:24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
+| {{sállo}} | noun (o) | rubbish heap — *Southern Kissi (Childs 2000) :* rubbish or dust pile; also a pile of wood | [1 Sam 2:8](https://www.bible.com/bible/1394/1SA.2.8.BKG) |
 
 ### 5.6.2 Bathe
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{fuo\|r}} | noun (o) | sponge | Keita 1979, p. 144 |
-| {{pulɔnndo}} | verb | wash oneself | [EXO.2.5](https://www.bible.com/bible/1394/EXO.2.5.BKG) |
-| {{pulɔɔ}} | verb | wash (people, body) — *Southern Kissi (Childs 2000) :* wash, bathe | [GEN.18.4](https://www.bible.com/bible/1394/GEN.18.4.BKG) |
+| {{pulɔnndo}} | verb | wash oneself | [Exod 2:5](https://www.bible.com/bible/1394/EXO.2.5.BKG) |
+| {{pulɔɔ}} | verb | wash (people, body) — *Southern Kissi (Childs 2000) :* wash, bathe | [Gen 18:4](https://www.bible.com/bible/1394/GEN.18.4.BKG) |
 
 ### 5.6.4 Wash clothes
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{tɔɔ}} | verb | wash (things, clothes), rinse — *Southern Kissi (Childs 2000) :* wash clothes, launder | [GEN.6.4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{tɔɔ}} | verb | wash (things, clothes), rinse — *Southern Kissi (Childs 2000) :* wash clothes, launder | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
 
 ### 5.6.5 Sweep, rake
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{basɔɔ}} | verb | sweep — *Southern Kissi (Childs 2000) :* sweep, clear | [1KI.14.10](https://www.bible.com/bible/1394/1KI.14.10.BKG) |
+| {{basɔɔ}} | verb | sweep — *Southern Kissi (Childs 2000) :* sweep, clear | [1 Kgs 14:10](https://www.bible.com/bible/1394/1KI.14.10.BKG) |
 | {{bɛsuo\|r}} | noun (o) | broom | Keita 1979, p. 159 |
 
 ### 5.7 Sleep
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hinia}}, pl. {{hinilan}} | noun | bed | [GEN.24.31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
-| {{lɔan}} | noun (an) | sleep — *Southern Kissi (Childs 2000) :* sleep (verb) | [GEN.2.21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
-| {{lɔl}} | verb | spend the night, lodge, dwell | [GEN.4.20](https://www.bible.com/bible/1394/GEN.4.20.BKG) |
+| {{hinia}}, pl. {{hinilan}} | noun | bed | [Gen 24:31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
+| {{lɔan}} | noun (an) | sleep — *Southern Kissi (Childs 2000) :* sleep (verb) | [Gen 2:21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
+| {{lɔl}} | verb | spend the night, lodge, dwell | [Gen 4:20](https://www.bible.com/bible/1394/GEN.4.20.BKG) |
 
 ### 5.7.2 Dream
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{sɔl}} | verb | dream (sɔl lɔan 'have a dream') | [GEN.28](https://www.bible.com/bible/1394/GEN.28.BKG) |
-| {{sɔlaama}} | noun | dream (lɔma sɔlaama) | [GEN.20.6](https://www.bible.com/bible/1394/GEN.20.6.BKG) |
+| {{sɔl}} | verb | dream (sɔl lɔan 'have a dream') | [Gen 28](https://www.bible.com/bible/1394/GEN.28.BKG) |
+| {{sɔlaama}} | noun | dream (lɔma sɔlaama) | [Gen 20:6](https://www.bible.com/bible/1394/GEN.20.6.BKG) |
 
 ### 5.7.3 Wake up
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{tendu}} | verb | wake up; rise — *Southern Kissi (Childs 2000) :* wake oneself; come back to life | [GEN.28.16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
-| {{tindi}} | verb | wake (someone); raise (from the dead) | [LEV.13.23](https://www.bible.com/bible/1394/LEV.13.23.BKG) |
+| {{tendu}} | verb | wake up; rise — *Southern Kissi (Childs 2000) :* wake oneself; come back to life | [Gen 28:16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
+| {{tindi}} | verb | wake (someone); raise (from the dead) | [Lev 13:23](https://www.bible.com/bible/1394/LEV.13.23.BKG) |
 
 ### 5.9 Live, stay
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{calaa}} | verb | dwell, stay, sit — *Southern Kissi (Childs 2000) :* sit, be seated; stay, live | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{calnun}} | verb | settle down | [GEN.4.16](https://www.bible.com/bible/1394/GEN.4.16.BKG) |
-| {{dɔ́ɔ́ngɔ́ɔ̀}} | noun (o) | camp | [GEN.11.2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
-| {{icali}} | noun | residence; (va icali) live, dwell — *Southern Kissi (Childs 2000) :* stay, live (cited as a form of càllé 'sit') | [GEN.4.12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
-| {{kila}} | verb | settle; (kila dɔ́ɔ́ngɔ́ɔ̀) pitch camp; establish | [GEN.11.2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
-| {{lɔl}} | verb | spend the night, lodge, dwell | [GEN.4.20](https://www.bible.com/bible/1394/GEN.4.20.BKG) |
-| {{sumialle}} | noun | sojourning as a stranger; (o sumialle) as a stranger | [GEN.15.13](https://www.bible.com/bible/1394/GEN.15.13.BKG) |
-| {{vannun}} | verb | be, remain, dwell | [GEN.13.10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
-| {{yiyaa}} | verb | lodge, stay — *Southern Kissi (Childs 2000) :* lodge | [GEN.38.30](https://www.bible.com/bible/1394/GEN.38.30.BKG) |
+| {{calaa}} | verb | dwell, stay, sit — *Southern Kissi (Childs 2000) :* sit, be seated; stay, live | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{calnun}} | verb | settle down | [Gen 4:16](https://www.bible.com/bible/1394/GEN.4.16.BKG) |
+| {{dɔ́ɔ́ngɔ́ɔ̀}} | noun (o) | camp | [Gen 11:2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
+| {{icali}} | noun | residence; (va icali) live, dwell — *Southern Kissi (Childs 2000) :* stay, live (cited as a form of càllé 'sit') | [Gen 4:12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
+| {{kila}} | verb | settle; (kila dɔ́ɔ́ngɔ́ɔ̀) pitch camp; establish | [Gen 11:2](https://www.bible.com/bible/1394/GEN.11.2.BKG) |
+| {{lɔl}} | verb | spend the night, lodge, dwell | [Gen 4:20](https://www.bible.com/bible/1394/GEN.4.20.BKG) |
+| {{sumialle}} | noun | sojourning as a stranger; (o sumialle) as a stranger | [Gen 15:13](https://www.bible.com/bible/1394/GEN.15.13.BKG) |
+| {{vannun}} | verb | be, remain, dwell | [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
+| {{yiyaa}} | verb | lodge, stay — *Southern Kissi (Childs 2000) :* lodge | [Gen 38:30](https://www.bible.com/bible/1394/GEN.38.30.BKG) |
 
 ## 6. Work and occupation
 
@@ -1944,19 +1944,19 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{baala folobaa\|?}} | noun | communal labour | Keita 1979, p. 148 |
-| {{baalaa}}, pl. {{baalalan}} | noun (o) | work; service | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{kindinndo}} | verb | strive, make an effort — *Southern Kissi (Childs 2000) :* try | [RUT.3](https://www.bible.com/bible/1394/RUT.3.BKG) |
-| {{sanganndo}} | verb | tire oneself, labour | [PSA.127.1](https://www.bible.com/bible/1394/PSA.127.1.BKG) |
-| {{vallo}}, pl. {{valtan}} | noun (o) | work, labour | [GEN.2.2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
+| {{baalaa}}, pl. {{baalalan}} | noun (o) | work; service | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{kindinndo}} | verb | strive, make an effort — *Southern Kissi (Childs 2000) :* try | [Ruth 3](https://www.bible.com/bible/1394/RUT.3.BKG) |
+| {{sanganndo}} | verb | tire oneself, labour | [Ps 127:1](https://www.bible.com/bible/1394/PSA.127.1.BKG) |
+| {{vallo}}, pl. {{valtan}} | noun (o) | work, labour | [Gen 2:2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
 
 ### 6.1.1 Worker
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{buɛiyo}}, pl. {{buɛyaa}} | noun (o) | servant, young man — *Southern Kissi (Childs 2000) :* servant; also apprentice, learner | [1SA.9.8](https://www.bible.com/bible/1394/1SA.9.8.BKG) |
-| {{cɛɔ}}, pl. {{cɛa}} | noun (o) | slave, servant | [GEN.21.10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
-| {{dɔtɔlɔnɔɔ}}, pl. {{dɔtɔlɔa}} | noun (o) | doctor | [LUK.5.31](https://www.bible.com/bible/1394/LUK.5.31.BKG) |
-| {{kpalilnɔ}}, pl. {{kpalilaa}} | noun | keeper, guard | [GEN.4.9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
+| {{buɛiyo}}, pl. {{buɛyaa}} | noun (o) | servant, young man — *Southern Kissi (Childs 2000) :* servant; also apprentice, learner | [1 Sam 9:8](https://www.bible.com/bible/1394/1SA.9.8.BKG) |
+| {{cɛɔ}}, pl. {{cɛa}} | noun (o) | slave, servant | [Gen 21:10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
+| {{dɔtɔlɔnɔɔ}}, pl. {{dɔtɔlɔa}} | noun (o) | doctor | [Luke 5:31](https://www.bible.com/bible/1394/LUK.5.31.BKG) |
+| {{kpalilnɔ}}, pl. {{kpalilaa}} | noun | keeper, guard | [Gen 4:9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
 | {{solanɔɔ\|r}} | noun (o) | expert | Keita 1979, p. 145 |
 
 ### 6.2.1 Growing crops
@@ -1968,15 +1968,15 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{bɛi\|r}} | noun (i) | eggplant, garden egg — *Southern Kissi (Childs 2000) :* bitterball, a small round bitter vegetable | Keita 1979, p. 139 |
 | {{bɛngu lefunndo\|r}} | noun | cotton plant | Keita 1979, p. 139 |
 | {{cale tumnden\|r}} | noun | papaya tree | Keita 1979, p. 140 |
-| {{cɔnndon}} | noun | sorghum | [EZK.4.9](https://www.bible.com/bible/1394/EZK.4.9.BKG) |
+| {{cɔnndon}} | noun | sorghum | [Ezek 4:9](https://www.bible.com/bible/1394/EZK.4.9.BKG) |
 | {{cɛngilen\|r}} | noun (len) | sugar cane | Keita 1979, p. 140 |
 | {{kawve\|r}} | noun (i) | bean | Keita 1979, p. 139 |
 | {{kpaasalen\|r}} | noun (len) | okra | Keita 1979, p. 139 |
 | {{kpandilen\|r}} | noun (len) | sweet potato | Keita 1979, p. 139 |
 | {{kulen\|r}} | noun (len) | yam | Keita 1979, p. 139 |
 | {{kɔkumbɛiyo\|r}}, pl. {{kɔkumbɛilan\|r}} | noun (o) | cucumber | Keita 1979, p. 139 |
-| {{maalon}} | noun | rice; wheat | [GEN.30.14](https://www.bible.com/bible/1394/GEN.30.14.BKG) |
-| {{rɛsɛnndo}} | noun | vine, grapevine; (rɛsɛnndon) grapes | [GEN.9.20](https://www.bible.com/bible/1394/GEN.9.20.BKG) |
+| {{maalon}} | noun | rice; wheat | [Gen 30:14](https://www.bible.com/bible/1394/GEN.30.14.BKG) |
+| {{rɛsɛnndo}} | noun | vine, grapevine; (rɛsɛnndon) grapes | [Gen 9:20](https://www.bible.com/bible/1394/GEN.9.20.BKG) |
 | {{suanlawomndo\|r}} | noun (o) | millet | Keita 1979, p. 140 |
 | {{suɛi\|r}} | noun (i) | maize | Keita 1979, p. 140 |
 | {{tɛi\|r}} | noun (i) | groundnut, peanut | Keita 1979, p. 140 |
@@ -1999,9 +1999,9 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kulle}}, pl. {{kullon}} | noun (i) | seed, grain ; seed; fruit — *Southern Kissi (Childs 2000) :* seed (generic) | [1CO.15.37](https://www.bible.com/bible/1394/1CO.15.37.BKG) |
-| {{saŋɔɔ}} | verb | sow; scatter — *Southern Kissi (Childs 2000) :* sow (grain) | [GEN.47.19](https://www.bible.com/bible/1394/GEN.47.19.BKG) |
-| {{tɔlɔɔ}} | verb | plant; plant, tree | [EXO.10.5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
+| {{kulle}}, pl. {{kullon}} | noun (i) | seed, grain ; seed; fruit — *Southern Kissi (Childs 2000) :* seed (generic) | [1 Cor 15:37](https://www.bible.com/bible/1394/1CO.15.37.BKG) |
+| {{saŋɔɔ}} | verb | sow; scatter — *Southern Kissi (Childs 2000) :* sow (grain) | [Gen 47:19](https://www.bible.com/bible/1394/GEN.47.19.BKG) |
+| {{tɔlɔɔ}} | verb | plant; plant, tree | [Exod 10:5](https://www.bible.com/bible/1394/EXO.10.5.BKG) |
 
 ### 6.2.4 Tend a field
 
@@ -2014,60 +2014,60 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kiɔndɔɔ}} | verb | pick, pluck — *Southern Kissi (Childs 2000) :* pick or pluck | [LEV.23.39](https://www.bible.com/bible/1394/LEV.23.39.BKG) |
-| {{koavaa}} | noun | harvest | [EXO.23.16](https://www.bible.com/bible/1394/EXO.23.16.BKG) |
-| {{kovɔɔ}} | verb | harvest, reap — *Southern Kissi (Childs 2000) :* reap, harvest | [GEN.41.34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
+| {{kiɔndɔɔ}} | verb | pick, pluck — *Southern Kissi (Childs 2000) :* pick or pluck | [Lev 23:39](https://www.bible.com/bible/1394/LEV.23.39.BKG) |
+| {{koavaa}} | noun | harvest | [Exod 23:16](https://www.bible.com/bible/1394/EXO.23.16.BKG) |
+| {{kovɔɔ}} | verb | harvest, reap — *Southern Kissi (Childs 2000) :* reap, harvest | [Gen 41:34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
 
 ### 6.2.6 Process harvest
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fɛlɔɔ}} | noun (o) | winnowing tray | [1CO.10.13](https://www.bible.com/bible/1394/1CO.10.13.BKG) |
-| {{puiyo}} | noun (o) | straw — *Southern Kissi (Childs 2000) :* new sprouts; thatch, grass cut for thatching | [JDG.19.19](https://www.bible.com/bible/1394/JDG.19.19.BKG) |
+| {{fɛlɔɔ}} | noun (o) | winnowing tray | [1 Cor 10:13](https://www.bible.com/bible/1394/1CO.10.13.BKG) |
+| {{puiyo}} | noun (o) | straw — *Southern Kissi (Childs 2000) :* new sprouts; thatch, grass cut for thatching | [Judg 19:19](https://www.bible.com/bible/1394/JDG.19.19.BKG) |
 
 ### 6.2.8 Agricultural tool
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dɛndɔɔ}}, pl. {{dɛndɛlan}} | noun (o) | hoe | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{dɛndɔɔ}}, pl. {{dɛndɛlan}} | noun (o) | hoe | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
 
 ### 6.2.9 Farmland
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ciɛi}}, pl. {{ciɛɔn}} | noun (i) | field, farmland — *Southern Kissi (Childs 2000) :* farm, orchard, rice paddy | [GEN.4.3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
+| {{ciɛi}}, pl. {{ciɛɔn}} | noun (i) | field, farmland — *Southern Kissi (Childs 2000) :* farm, orchard, rice paddy | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
 | {{huŋndo\|r}}, pl. {{huŋndan\|r}} | noun (o) | lowland, swamp — *Southern Kissi (Childs 2000) :* swamp where swamp rice is grown | Keita 1979, p. 142 |
-| {{nakɔɔ}}, pl. {{nakɔlan}} | noun (o) | garden, plantation ; garden, cultivated field, plantation — *Southern Kissi (Childs 2000) :* garden (Guéckédou dialect, borrowed from Maninka) | [GEN.2](https://www.bible.com/bible/1394/GEN.2.BKG) |
+| {{nakɔɔ}}, pl. {{nakɔlan}} | noun (o) | garden, plantation ; garden, cultivated field, plantation — *Southern Kissi (Childs 2000) :* garden (Guéckédou dialect, borrowed from Maninka) | [Gen 2](https://www.bible.com/bible/1394/GEN.2.BKG) |
 | {{sɛsiei\|r}} | noun (i) | garden — *Southern Kissi (Childs 2000) :* garden near town, small private farm | Keita 1979, p. 142 |
-| {{yondoo}}, pl. {{yondolan}} | noun (o) | bush, open country, field — *Southern Kissi (Childs 2000) :* forest, high bush; also the Poro men's society | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{yondoo}}, pl. {{yondolan}} | noun (o) | bush, open country, field — *Southern Kissi (Childs 2000) :* forest, high bush; also the Poro men's society | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 
 ### 6.3 Animal husbandry
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{mandaa}} | verb | keep, guard, look after — *Southern Kissi (Childs 2000) :* take care of, raise (animals); mind | [GEN.2.15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
+| {{mandaa}} | verb | keep, guard, look after — *Southern Kissi (Childs 2000) :* take care of, raise (animals); mind | [Gen 2:15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
 
 ### 6.3.1 Domesticated animal
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuinndo}}, pl. {{cuinnda}} | noun (o) | goat | [GEN.21.14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
-| {{cɔloo}}, pl. {{cɔlua}} | noun (o) | animal, beast; livestock | [GEN.4.2](https://www.bible.com/bible/1394/GEN.4.2.BKG) |
-| {{kóndóó}}, pl. {{kóndóa}} | noun (o) | ram (saa kóndó) | [GEN.22.13](https://www.bible.com/bible/1394/GEN.22.13.BKG) |
-| {{nawvo}}, pl. {{nawva}} | noun (o) | cow, ox; cattle | [EXO.21.28](https://www.bible.com/bible/1394/EXO.21.28.BKG) |
-| {{pewvo}}, pl. {{pewva}} | noun (o) | pig | [LEV.11.7](https://www.bible.com/bible/1394/LEV.11.7.BKG) |
-| {{saa}} | noun (o) | sheep | [GEN.12.16](https://www.bible.com/bible/1394/GEN.12.16.BKG) |
+| {{cuinndo}}, pl. {{cuinnda}} | noun (o) | goat | [Gen 21:14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{cɔloo}}, pl. {{cɔlua}} | noun (o) | animal, beast; livestock | [Gen 4:2](https://www.bible.com/bible/1394/GEN.4.2.BKG) |
+| {{kóndóó}}, pl. {{kóndóa}} | noun (o) | ram (saa kóndó) | [Gen 22:13](https://www.bible.com/bible/1394/GEN.22.13.BKG) |
+| {{nawvo}}, pl. {{nawva}} | noun (o) | cow, ox; cattle | [Exod 21:28](https://www.bible.com/bible/1394/EXO.21.28.BKG) |
+| {{pewvo}}, pl. {{pewva}} | noun (o) | pig | [Lev 11:7](https://www.bible.com/bible/1394/LEV.11.7.BKG) |
+| {{saa}} | noun (o) | sheep | [Gen 12:16](https://www.bible.com/bible/1394/GEN.12.16.BKG) |
 | {{saa kóndóó}} | noun | ram | Keita 1979, p. 137 |
 | {{saa laandoo}} | noun | ewe | Keita 1979, p. 137 |
 | {{so laandoo\|r}} | noun | mare | Keita 1979, p. 137 |
-| {{sofɛlɔɔ}}, pl. {{sofɛlɛa}} | noun (o) | donkey | [GEN.22.5](https://www.bible.com/bible/1394/GEN.22.5.BKG) |
-| {{sow}}, pl. {{soa}} | noun (o) | horse | [GEN.49.17](https://www.bible.com/bible/1394/GEN.49.17.BKG) |
+| {{sofɛlɔɔ}}, pl. {{sofɛlɛa}} | noun (o) | donkey | [Gen 22:5](https://www.bible.com/bible/1394/GEN.22.5.BKG) |
+| {{sow}}, pl. {{soa}} | noun (o) | horse | [Gen 49:17](https://www.bible.com/bible/1394/GEN.49.17.BKG) |
 | {{toovaa\|r}} | noun (o) | bull — *Southern Kissi (Childs 2000) :* male animal (cow, sheep, etc.), bull | Keita 1979, p. 137 |
-| {{toovio}}, pl. {{toovia}} | noun (o) | he-goat, billy goat | [GEN.37.31](https://www.bible.com/bible/1394/GEN.37.31.BKG) |
+| {{toovio}}, pl. {{toovia}} | noun (o) | he-goat, billy goat | [Gen 37:31](https://www.bible.com/bible/1394/GEN.37.31.BKG) |
 | {{tuncua\|r}} | noun | puppy | Keita 1979, p. 137 |
-| {{tunndo}}, pl. {{tunnda}} | noun (o) | dog | [EXO.11.7](https://www.bible.com/bible/1394/EXO.11.7.BKG) |
+| {{tunndo}}, pl. {{tunnda}} | noun (o) | dog | [Exod 11:7](https://www.bible.com/bible/1394/EXO.11.7.BKG) |
 | {{ɲaayoo\|r}} | noun (o) | cat | Keita 1979, p. 136 |
-| {{ɲɔɔmɛɔ}}, pl. {{ɲɔɔmɛɛa}} | noun (o) | camel | [GEN.24.64](https://www.bible.com/bible/1394/GEN.24.64.BKG) |
+| {{ɲɔɔmɛɔ}}, pl. {{ɲɔɔmɛɛa}} | noun (o) | camel | [Gen 24:64](https://www.bible.com/bible/1394/GEN.24.64.BKG) |
 
 ### 6.3.6 Poultry raising
 
@@ -2075,96 +2075,96 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{dɔkuuvo\|r}} | noun (o) | duck | Keita 1979, p. 136 |
 | {{siamndo\|r}} | noun (o) | guinea fowl | Keita 1979, p. 137 |
-| {{sɔɔ}}, pl. {{sɔɔa}} | noun (o) | chicken | [GEN.29.19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
+| {{sɔɔ}}, pl. {{sɔɔa}} | noun (o) | chicken | [Gen 29:19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
 
 ### 6.4.1 Hunt
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bállo}}, pl. {{báltan}} | noun (o) | spear | [NUM.25.7](https://www.bible.com/bible/1394/NUM.25.7.BKG) |
-| {{bɛ̀lɛ̀nnden}} | noun (len) | arrow, javelin | [JOB.41.18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
+| {{bállo}}, pl. {{báltan}} | noun (o) | spear | [Num 25:7](https://www.bible.com/bible/1394/NUM.25.7.BKG) |
+| {{bɛ̀lɛ̀nnden}} | noun (len) | arrow, javelin | [Job 41:18](https://www.bible.com/bible/1394/JOB.41.18.BKG) |
 | {{cɛwvo\|?}} | noun (o) | bow (Keita) — *Southern Kissi (Childs 2000) :* bow (weapon); comb for carding cotton | Keita 1979, p. 156 |
-| {{doosunɔɔ}} | noun (o) | hunter, fowler | [PRO.1.17](https://www.bible.com/bible/1394/PRO.1.17.BKG) |
-| {{fáàndaa}} | noun (o) | sling — *Southern Kissi (Childs 2000) :* sling, slingshot, also used to chase birds | [JDG.20.16](https://www.bible.com/bible/1394/JDG.20.16.BKG) |
-| {{kpaasiaa}} | noun | bow | [GEN.21.20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
-| {{kɔɛi}}, pl. {{kɔɔn}} | noun (i) | arrow | [GEN.49.24](https://www.bible.com/bible/1394/GEN.49.24.BKG) |
-| {{vɔmndo}} | verb | beat (for game), hunt down | [HOS.5.8](https://www.bible.com/bible/1394/HOS.5.8.BKG) |
+| {{doosunɔɔ}} | noun (o) | hunter, fowler | [Prov 1:17](https://www.bible.com/bible/1394/PRO.1.17.BKG) |
+| {{fáàndaa}} | noun (o) | sling — *Southern Kissi (Childs 2000) :* sling, slingshot, also used to chase birds | [Judg 20:16](https://www.bible.com/bible/1394/JDG.20.16.BKG) |
+| {{kpaasiaa}} | noun | bow | [Gen 21:20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
+| {{kɔɛi}}, pl. {{kɔɔn}} | noun (i) | arrow | [Gen 49:24](https://www.bible.com/bible/1394/GEN.49.24.BKG) |
+| {{vɔmndo}} | verb | beat (for game), hunt down | [Hos 5:8](https://www.bible.com/bible/1394/HOS.5.8.BKG) |
 | {{yekpandio\|r}} | noun (o) | gun | Keita 1979, p. 156 |
 
 ### 6.4.2 Trap
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yalaa}}, pl. {{yalalan}} | noun (o) | net — *Southern Kissi (Childs 2000) :* round scoop net used by women for fishing; mosquito net | [GEN.49.9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
-| {{yaŋɔɔlen}}, pl. {{yaŋɔɔlan}} | noun (len) | trap, snare | [GEN.20.9](https://www.bible.com/bible/1394/GEN.20.9.BKG) |
+| {{yalaa}}, pl. {{yalalan}} | noun (o) | net — *Southern Kissi (Childs 2000) :* round scoop net used by women for fishing; mosquito net | [Gen 49:9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
+| {{yaŋɔɔlen}}, pl. {{yaŋɔɔlan}} | noun (len) | trap, snare | [Gen 20:9](https://www.bible.com/bible/1394/GEN.20.9.BKG) |
 
 ### 6.4.4 Beekeeping
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lɛan}} | noun (an) | honey | [GEN.43.11](https://www.bible.com/bible/1394/GEN.43.11.BKG) |
+| {{lɛan}} | noun (an) | honey | [Gen 43:11](https://www.bible.com/bible/1394/GEN.43.11.BKG) |
 | {{lɛu\|r}}, pl. {{lɛa\|r}} | noun (o) | bee | Keita 1979, p. 136 |
 
 ### 6.4.5 Fishing
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dolinnde}} | noun (i) | fish hook | [JOB.40.25](https://www.bible.com/bible/1394/JOB.40.25.BKG) |
-| {{dɛ̀ndɔ̀ɔ́}}, pl. {{dɛ̀ndɛ̀lan}} | noun (o) | canoe, boat; ark — *Southern Kissi (Childs 2000) :* canoe, boat; also an airplane | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{dolinnde}} | noun (i) | fish hook | [Job 40:25](https://www.bible.com/bible/1394/JOB.40.25.BKG) |
+| {{dɛ̀ndɔ̀ɔ́}}, pl. {{dɛ̀ndɛ̀lan}} | noun (o) | canoe, boat; ark — *Southern Kissi (Childs 2000) :* canoe, boat; also an airplane | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
 | {{kayaa\|r}}, pl. {{kayalan\|r}} | noun (o) | basket — *Southern Kissi (Childs 2000) :* fish basket | Keita 1979, p. 159 |
-| {{yalaa}}, pl. {{yalalan}} | noun (o) | net — *Southern Kissi (Childs 2000) :* round scoop net used by women for fishing; mosquito net | [GEN.49.9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
-| {{yɔɔyaa}} | verb | fish — *Southern Kissi (Childs 2000) :* fish (with a net) | [LEV.11.18](https://www.bible.com/bible/1394/LEV.11.18.BKG) |
+| {{yalaa}}, pl. {{yalalan}} | noun (o) | net — *Southern Kissi (Childs 2000) :* round scoop net used by women for fishing; mosquito net | [Gen 49:9](https://www.bible.com/bible/1394/GEN.49.9.BKG) |
+| {{yɔɔyaa}} | verb | fish — *Southern Kissi (Childs 2000) :* fish (with a net) | [Lev 11:18](https://www.bible.com/bible/1394/LEV.11.18.BKG) |
 
 ### 6.5 Working with buildings
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baŋnun}} | verb | build (for oneself); be built | [GEN.11.4](https://www.bible.com/bible/1394/GEN.11.4.BKG) |
-| {{baŋɔɔ}} | verb | set up, build, fix; (baŋ vulan) kneel, bow down | [GEN.37.10](https://www.bible.com/bible/1394/GEN.37.10.BKG) |
-| {{kunga}} | verb | enclose, fence in | [EXO.27.9](https://www.bible.com/bible/1394/EXO.27.9.BKG) |
+| {{baŋnun}} | verb | build (for oneself); be built | [Gen 11:4](https://www.bible.com/bible/1394/GEN.11.4.BKG) |
+| {{baŋɔɔ}} | verb | set up, build, fix; (baŋ vulan) kneel, bow down | [Gen 37:10](https://www.bible.com/bible/1394/GEN.37.10.BKG) |
+| {{kunga}} | verb | enclose, fence in | [Exod 27:9](https://www.bible.com/bible/1394/EXO.27.9.BKG) |
 | {{saabelanɔɔ\|r}} | noun (o) | architect | Keita 1979, p. 145 |
-| {{siɔlɔɔ}} | verb | build, make; hew, shape | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{tangullo}} | verb | build — *Southern Kissi (Childs 2000) :* erect or build a house | [GEN.4.17](https://www.bible.com/bible/1394/GEN.4.17.BKG) |
+| {{siɔlɔɔ}} | verb | build, make; hew, shape | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{tangullo}} | verb | build — *Southern Kissi (Childs 2000) :* erect or build a house | [Gen 4:17](https://www.bible.com/bible/1394/GEN.4.17.BKG) |
 | {{tangulnɔɔ\|r}} | noun (o) | mason, builder | Keita 1979, p. 145 |
 
 ### 6.5.1 Building
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɔɔ}}, pl. {{bɛ́ɛ̀lan}} | noun (o) | compound, courtyard — *Southern Kissi (Childs 2000) :* compound of a patrilineal lineage; yard around a house | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{caltan}} | noun (lan) | dwelling, tent; (Calta Mɛlɛka) the tabernacle — *Southern Kissi (Childs 2000) :* lodgings, settlements, living quarters | [JOS.3.1](https://www.bible.com/bible/1394/JOS.3.1.BKG) |
+| {{bɔɔ}}, pl. {{bɛ́ɛ̀lan}} | noun (o) | compound, courtyard — *Southern Kissi (Childs 2000) :* compound of a patrilineal lineage; yard around a house | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{caltan}} | noun (lan) | dwelling, tent; (Calta Mɛlɛka) the tabernacle — *Southern Kissi (Childs 2000) :* lodgings, settlements, living quarters | [Josh 3:1](https://www.bible.com/bible/1394/JOS.3.1.BKG) |
 | {{cɛi panio\|r}} | noun | house with a sheet-metal roof | Keita 1979, p. 142 |
 | {{cɛi puiyo\|r}} | noun | thatched house | Keita 1979, p. 142 |
 | {{cɛi tollo\|?}} | noun | house with a sheet-metal roof | Keita 1979, p. 142 |
-| {{Cɛi-Hala}} | noun | temple, church (house of God) | [JOS.9.23](https://www.bible.com/bible/1394/JOS.9.23.BKG) |
-| {{cɛiyo}}, pl. {{cɛilan}} | noun (o) | house ; house; household | [GEN.19.11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
-| {{kungaa}} | verb | fence in, enclose; fence, wall — *Southern Kissi (Childs 2000) :* fence, erect a fence | [GEN.49.22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
-| {{kùùlen}} | noun (len) | shelter, booth; bellows | [ISA.4.6](https://www.bible.com/bible/1394/ISA.4.6.BKG) |
+| {{Cɛi-Hala}} | noun | temple, church (house of God) | [Josh 9:23](https://www.bible.com/bible/1394/JOS.9.23.BKG) |
+| {{cɛiyo}}, pl. {{cɛilan}} | noun (o) | house ; house; household | [Gen 19:11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
+| {{kungaa}} | verb | fence in, enclose; fence, wall — *Southern Kissi (Childs 2000) :* fence, erect a fence | [Gen 49:22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
+| {{kùùlen}} | noun (len) | shelter, booth; bellows | [Isa 4:6](https://www.bible.com/bible/1394/ISA.4.6.BKG) |
 | {{nɛa soalaa\|?}} | noun | latrine, toilet | Keita 1979, p. 142 |
-| {{yasabaa}} | noun (o) | shelter, camp; workshop — *Southern Kissi (Childs 2000) :* temporary cooking site on a farm, before the farm kitchen is built | [ISA.28.15](https://www.bible.com/bible/1394/ISA.28.15.BKG) |
+| {{yasabaa}} | noun (o) | shelter, camp; workshop — *Southern Kissi (Childs 2000) :* temporary cooking site on a farm, before the farm kitchen is built | [Isa 28:15](https://www.bible.com/bible/1394/ISA.28.15.BKG) |
 
 ### 6.5.2 Parts of a building
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{banɛɔɔ\|r}} | noun | key | Keita 1979, p. 159 |
-| {{kèédei}} | noun (i) | threshold | [GEN.19.6](https://www.bible.com/bible/1394/GEN.19.6.BKG) |
+| {{kèédei}} | noun (i) | threshold | [Gen 19:6](https://www.bible.com/bible/1394/GEN.19.6.BKG) |
 | {{kiiye\|r}} | noun (i) | key | Keita 1979, p. 159 |
-| {{kpakio}}, pl. {{kpakilan}} | noun (o) | wall — *Southern Kissi (Childs 2000) :* fence, barricade, low wall (around a garden) | [LEV.25.29](https://www.bible.com/bible/1394/LEV.25.29.BKG) |
-| {{kungaa}}, pl. {{kungalan}} | noun (o) | fence, enclosure | [GEN.49.22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
-| {{luɛyaa}}, pl. {{luɛyaalan}} | noun | entrance, gate | [EXO.4.25](https://www.bible.com/bible/1394/EXO.4.25.BKG) |
-| {{sungbule}}, pl. {{sungbuan}} | noun (len) | pillar, column, post | [EXO.37.20](https://www.bible.com/bible/1394/EXO.37.20.BKG) |
-| {{sɔkɔma}} | noun | bolts, bars (of a gate) | [DEU.33.25](https://www.bible.com/bible/1394/DEU.33.25.BKG) |
-| {{sɛmtɔɔ}} | noun (o) | veranda, porch, steps | [1KI.7.19](https://www.bible.com/bible/1394/1KI.7.19.BKG) |
-| {{tindilen}} | noun (len) | pillar, column | [ISA.44.13](https://www.bible.com/bible/1394/ISA.44.13.BKG) |
-| {{tongo}} | noun | porch, hall — *Southern Kissi (Childs 2000) :* village hall, open roofed meeting house | [1KI.6.3](https://www.bible.com/bible/1394/1KI.6.3.BKG) |
+| {{kpakio}}, pl. {{kpakilan}} | noun (o) | wall — *Southern Kissi (Childs 2000) :* fence, barricade, low wall (around a garden) | [Lev 25:29](https://www.bible.com/bible/1394/LEV.25.29.BKG) |
+| {{kungaa}}, pl. {{kungalan}} | noun (o) | fence, enclosure | [Gen 49:22](https://www.bible.com/bible/1394/GEN.49.22.BKG) |
+| {{luɛyaa}}, pl. {{luɛyaalan}} | noun | entrance, gate | [Exod 4:25](https://www.bible.com/bible/1394/EXO.4.25.BKG) |
+| {{sungbule}}, pl. {{sungbuan}} | noun (len) | pillar, column, post | [Exod 37:20](https://www.bible.com/bible/1394/EXO.37.20.BKG) |
+| {{sɔkɔma}} | noun | bolts, bars (of a gate) | [Deut 33:25](https://www.bible.com/bible/1394/DEU.33.25.BKG) |
+| {{sɛmtɔɔ}} | noun (o) | veranda, porch, steps | [1 Kgs 7:19](https://www.bible.com/bible/1394/1KI.7.19.BKG) |
+| {{tindilen}} | noun (len) | pillar, column | [Isa 44:13](https://www.bible.com/bible/1394/ISA.44.13.BKG) |
+| {{tongo}} | noun | porch, hall — *Southern Kissi (Childs 2000) :* village hall, open roofed meeting house | [1 Kgs 6:3](https://www.bible.com/bible/1394/1KI.6.3.BKG) |
 
 ### 6.5.3 Building materials
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pɛngɛi}}, pl. {{pɛngɛn}} | noun (i) | board, plank; timber — *Southern Kissi (Childs 2000) :* plank, board, lumber in general; also a strip of cloth, a wooden knife | [EXO.26.16](https://www.bible.com/bible/1394/EXO.26.16.BKG) |
-| {{yɔmndo}}, pl. {{yɔmii}} | noun (o) | tree; wood | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{pɛngɛi}}, pl. {{pɛngɛn}} | noun (i) | board, plank; timber — *Southern Kissi (Childs 2000) :* plank, board, lumber in general; also a strip of cloth, a wooden knife | [Exod 26:16](https://www.bible.com/bible/1394/EXO.26.16.BKG) |
+| {{yɔmndo}}, pl. {{yɔmii}} | noun (o) | tree; wood | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 
 ### 6.5.4 Infrastructure
 
@@ -2172,7 +2172,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{bilio\|r}} | noun (o) | street | Keita 1979, p. 142 |
 | {{kɔlɔŋndo\|r}} | noun (o) | well | Keita 1979, p. 142 |
-| {{nɛiyo}}, pl. {{nɛilan}} | noun (o) | path, road | [GEN.22.3](https://www.bible.com/bible/1394/GEN.22.3.BKG) |
+| {{nɛiyo}}, pl. {{nɛilan}} | noun (o) | path, road | [Gen 22:3](https://www.bible.com/bible/1394/GEN.22.3.BKG) |
 | {{tallo\|r}} | noun (o) | bridge — *Southern Kissi (Childs 2000) :* bridge, traditionally made of vines | Keita 1979, p. 142 |
 
 ### 6.6.1 Working with cloth
@@ -2180,25 +2180,25 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{boloo\|r}} | noun (o) | weaver's shuttle — *Southern Kissi (Childs 2000) :* weaver's shuttle; anything of similar shape | Keita 1979, p. 159 |
-| {{funnden}} | noun (len) | cotton; flax — *Southern Kissi (Childs 2000) :* cotton; cotton thread, cotton cloth | [EXO.9.31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
-| {{keesoo}} | noun (o) | (fine) linen | [EXO.28.5](https://www.bible.com/bible/1394/EXO.28.5.BKG) |
-| {{kola}}, pl. {{kolalan}} | noun | cloth, fabric; veil — *Southern Kissi (Childs 2000) :* standard piece of cloth, wrapper (lappa) | [GEN.9.21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
-| {{kolaa}}, pl. {{kolalan}} | noun (o) | cloth, wrapper | [GEN.16.7](https://www.bible.com/bible/1394/GEN.16.7.BKG) |
-| {{kɛi}} | noun | thread, yarn | [GEN.14.23](https://www.bible.com/bible/1394/GEN.14.23.BKG) |
+| {{funnden}} | noun (len) | cotton; flax — *Southern Kissi (Childs 2000) :* cotton; cotton thread, cotton cloth | [Exod 9:31](https://www.bible.com/bible/1394/EXO.9.31.BKG) |
+| {{keesoo}} | noun (o) | (fine) linen | [Exod 28:5](https://www.bible.com/bible/1394/EXO.28.5.BKG) |
+| {{kola}}, pl. {{kolalan}} | noun | cloth, fabric; veil — *Southern Kissi (Childs 2000) :* standard piece of cloth, wrapper (lappa) | [Gen 9:21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
+| {{kolaa}}, pl. {{kolalan}} | noun (o) | cloth, wrapper | [Gen 16:7](https://www.bible.com/bible/1394/GEN.16.7.BKG) |
+| {{kɛi}} | noun | thread, yarn | [Gen 14:23](https://www.bible.com/bible/1394/GEN.14.23.BKG) |
 | {{luakolanɔɔ\|r}} | noun (o) | weaver | Keita 1979, p. 145 |
-| {{lɔu}} | verb | braid, weave, spin; mould (bricks) — *Southern Kissi (Childs 2000) :* plait, braid (baskets, slings) | [EXO.1.14](https://www.bible.com/bible/1394/EXO.1.14.BKG) |
+| {{lɔu}} | verb | braid, weave, spin; mould (bricks) — *Southern Kissi (Childs 2000) :* plait, braid (baskets, slings) | [Exod 1:14](https://www.bible.com/bible/1394/EXO.1.14.BKG) |
 | {{siɛndilen\|r}} | noun (len) | needle | Keita 1979, p. 159 |
-| {{sɔndɔɔ}} | verb | sew | [EXO.28.3](https://www.bible.com/bible/1394/EXO.28.3.BKG) |
+| {{sɔndɔɔ}} | verb | sew | [Exod 28:3](https://www.bible.com/bible/1394/EXO.28.3.BKG) |
 | {{vanakaa\|r}} | noun (o) | dyer | Keita 1979, p. 145 |
 
 ### 6.6.2 Working with minerals
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cilinndon}} | noun | iron — *Southern Kissi (Childs 2000) :* metal, iron; iron strips once used as money | [GEN.4.22](https://www.bible.com/bible/1394/GEN.4.22.BKG) |
-| {{kùùlen}} | noun (len) | shelter, booth; bellows | [ISA.4.6](https://www.bible.com/bible/1394/ISA.4.6.BKG) |
-| {{sialaa}} | verb | cut, engrave (stone) | [2SA.5.11](https://www.bible.com/bible/1394/2SA.5.11.BKG) |
-| {{sumnɔɔ}} | noun (o) | blacksmith | [2CH.26.15](https://www.bible.com/bible/1394/2CH.26.15.BKG) |
+| {{cilinndon}} | noun | iron — *Southern Kissi (Childs 2000) :* metal, iron; iron strips once used as money | [Gen 4:22](https://www.bible.com/bible/1394/GEN.4.22.BKG) |
+| {{kùùlen}} | noun (len) | shelter, booth; bellows | [Isa 4:6](https://www.bible.com/bible/1394/ISA.4.6.BKG) |
+| {{sialaa}} | verb | cut, engrave (stone) | [2 Sam 5:11](https://www.bible.com/bible/1394/2SA.5.11.BKG) |
+| {{sumnɔɔ}} | noun (o) | blacksmith | [2 Chr 26:15](https://www.bible.com/bible/1394/2CH.26.15.BKG) |
 | {{tongo cɔwvo\|r}} | noun (o) | forge, smithy — *Southern Kissi (Childs 2000) :* lit. 'war hut': the smithy, where the weapons were made | Keita 1979, p. 142 |
 
 ### 6.6.3 Working with wood
@@ -2206,9 +2206,9 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{kiliiyɔmnɔɔ\|r}} | noun (o) | woodcutter | Keita 1979, p. 145 |
-| {{pɛngɛi}}, pl. {{pɛngɛn}} | noun (i) | board, plank; timber — *Southern Kissi (Childs 2000) :* plank, board, lumber in general; also a strip of cloth, a wooden knife | [EXO.26.16](https://www.bible.com/bible/1394/EXO.26.16.BKG) |
-| {{siɔlɔɔ}} | verb | build, make; hew, shape | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{tuuliaa}} | verb | carve, engrave, embroider (figures) — *Southern Kissi (Childs 2000) :* imitate, gesticulate; make illustrations | [EXO.26.1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
+| {{pɛngɛi}}, pl. {{pɛngɛn}} | noun (i) | board, plank; timber — *Southern Kissi (Childs 2000) :* plank, board, lumber in general; also a strip of cloth, a wooden knife | [Exod 26:16](https://www.bible.com/bible/1394/EXO.26.16.BKG) |
+| {{siɔlɔɔ}} | verb | build, make; hew, shape | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{tuuliaa}} | verb | carve, engrave, embroider (figures) — *Southern Kissi (Childs 2000) :* imitate, gesticulate; make illustrations | [Exod 26:1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
 | {{vanasialaa\|r}} | noun (o) | carpenter | Keita 1979, p. 145 |
 
 ### 6.6.4 Crafts
@@ -2217,7 +2217,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{ciŋun kamaa}} | noun | ivory | Keita 1979, p. 137 |
 | {{kalangɛnɔɔ\|r}} | noun (o) | shoemaker | Keita 1979, p. 145 |
-| {{lɔu}} | verb | braid, weave, spin; mould (bricks) — *Southern Kissi (Childs 2000) :* plait, braid (baskets, slings) | [EXO.1.14](https://www.bible.com/bible/1394/EXO.1.14.BKG) |
+| {{lɔu}} | verb | braid, weave, spin; mould (bricks) — *Southern Kissi (Childs 2000) :* plait, braid (baskets, slings) | [Exod 1:14](https://www.bible.com/bible/1394/EXO.1.14.BKG) |
 
 ### 6.6.5 Art
 
@@ -2226,8 +2226,8 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{hɔlaa piɔ́mndo\|r}} | noun | mask | Keita 1979, p. 144 |
 | {{kamafoeinɔɔ\|r}} | noun (o) | photographer | Keita 1979, p. 145 |
 | {{kɛɛmianɔɔ\|r}} | noun (o) | decorator | Keita 1979, p. 145 |
-| {{tuuliaa}} | verb | carve, engrave, embroider (figures) — *Southern Kissi (Childs 2000) :* imitate, gesticulate; make illustrations | [EXO.26.1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
-| {{tuuliaala}} | noun | carved figures, images, idols | [DEU.4.23](https://www.bible.com/bible/1394/DEU.4.23.BKG) |
+| {{tuuliaa}} | verb | carve, engrave, embroider (figures) — *Southern Kissi (Childs 2000) :* imitate, gesticulate; make illustrations | [Exod 26:1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
+| {{tuuliaala}} | noun | carved figures, images, idols | [Deut 4:23](https://www.bible.com/bible/1394/DEU.4.23.BKG) |
 | {{tuulianɔɔ\|r}} | noun (o) | draughtsman | Keita 1979, p. 145 |
 | {{yinnɔɔ\|r}} | noun (o) | painter | Keita 1979, p. 145 |
 
@@ -2240,75 +2240,75 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{cukanioo\|r}} | noun (o) | spoon | Keita 1979, p. 159 |
 | {{kiiye\|r}} | noun (i) | key | Keita 1979, p. 159 |
 | {{kpaɲaa\|r}}, pl. {{kpaɲalan\|r}} | noun (o) | pincers, tongs | Keita 1979, p. 159 |
-| {{sionnden}} | noun (len) | stick, rod; lot | [DEU.21.18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
-| {{tindaa}}, pl. {{tindalan}} | noun (o) | staff, walking stick ; staff, rod — *Southern Kissi (Childs 2000) :* cane, walking stick | [GEN.32.32](https://www.bible.com/bible/1394/GEN.32.32.BKG) |
+| {{sionnden}} | noun (len) | stick, rod; lot | [Deut 21:18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
+| {{tindaa}}, pl. {{tindalan}} | noun (o) | staff, walking stick ; staff, rod — *Southern Kissi (Childs 2000) :* cane, walking stick | [Gen 32:32](https://www.bible.com/bible/1394/GEN.32.32.BKG) |
 
 ### 6.7.1 Cutting tool
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuei}}, pl. {{cueon}} | noun (i) | axe | [DEU.19.5](https://www.bible.com/bible/1394/DEU.19.5.BKG) |
+| {{cuei}}, pl. {{cueon}} | noun (i) | axe | [Deut 19:5](https://www.bible.com/bible/1394/DEU.19.5.BKG) |
 | {{kɔduuvo\|r}} | noun (o) | machete | Keita 1979, p. 159 |
 | {{kɔliiyo\|r}} | noun (o) | scissors | Keita 1979, p. 159 |
-| {{lɛɛndo}} | noun (o) | machete, cutlass | [ISA.10.34](https://www.bible.com/bible/1394/ISA.10.34.BKG) |
-| {{mɔɛi}}, pl. {{mɔɔn}} | noun (i) | knife; sword | [GEN.22.6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
+| {{lɛɛndo}} | noun (o) | machete, cutlass | [Isa 10:34](https://www.bible.com/bible/1394/ISA.10.34.BKG) |
+| {{mɔɛi}}, pl. {{mɔɔn}} | noun (i) | knife; sword | [Gen 22:6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
 
 ### 6.7.2 Pounding tool
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ciei}} | noun (i) | mortar | [NUM.11.8](https://www.bible.com/bible/1394/NUM.11.8.BKG) |
-| {{kunduvaa}} | noun (o) | hammer — *Southern Kissi (Childs 2000) :* blacksmith's large hammer; also a kind of potion | [JDG.4.21](https://www.bible.com/bible/1394/JDG.4.21.BKG) |
+| {{ciei}} | noun (i) | mortar | [Num 11:8](https://www.bible.com/bible/1394/NUM.11.8.BKG) |
+| {{kunduvaa}} | noun (o) | hammer — *Southern Kissi (Childs 2000) :* blacksmith's large hammer; also a kind of potion | [Judg 4:21](https://www.bible.com/bible/1394/JDG.4.21.BKG) |
 
 ### 6.7.5 Fastening tool
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{yoei}} | noun (i) | cord, rope, strap — *Southern Kissi (Childs 2000) :* plural of yòòléŋ 'rope, vine' | [GEN.14.23](https://www.bible.com/bible/1394/GEN.14.23.BKG) |
-| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [EXO.39.15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
-| {{yɔlɔn}} | noun | chain, cord | [GEN.38.18](https://www.bible.com/bible/1394/GEN.38.18.BKG) |
+| {{yoei}} | noun (i) | cord, rope, strap — *Southern Kissi (Childs 2000) :* plural of yòòléŋ 'rope, vine' | [Gen 14:23](https://www.bible.com/bible/1394/GEN.14.23.BKG) |
+| {{yoolen}} | noun (len) | vine, liana; cord, rope ; cord; vow; head scarf (Keita) — *Southern Kissi (Childs 2000) :* rope, any rope-like material, vine | [Exod 39:15](https://www.bible.com/bible/1394/EXO.39.15.BKG) |
+| {{yɔlɔn}} | noun | chain, cord | [Gen 38:18](https://www.bible.com/bible/1394/GEN.38.18.BKG) |
 
 ### 6.7.7 Container
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{bokio\|r}} | noun (o) | bowl | Keita 1979, p. 159 |
-| {{bonyii}}, pl. {{bonyun}} | noun (i) | jar, pitcher, vessel | [GEN.24.14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
-| {{bɔlɔ}}, pl. {{bɔlɔlan}} | noun | bag, skin bottle; quiver | [GEN.21.14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
-| {{bɔlɔɔ}}, pl. {{bɔlɔlan}} | noun (o) | bag, sack | [GEN.42.27](https://www.bible.com/bible/1394/GEN.42.27.BKG) |
+| {{bonyii}}, pl. {{bonyun}} | noun (i) | jar, pitcher, vessel | [Gen 24:14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
+| {{bɔlɔ}}, pl. {{bɔlɔlan}} | noun | bag, skin bottle; quiver | [Gen 21:14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{bɔlɔɔ}}, pl. {{bɔlɔlan}} | noun (o) | bag, sack | [Gen 42:27](https://www.bible.com/bible/1394/GEN.42.27.BKG) |
 | {{bɔmbɔniyo\|r}} | noun (o) | demijohn, large bottle | Keita 1979, p. 159 |
-| {{fɛngɛ}} | noun | basin, trough | [GEN.30.38](https://www.bible.com/bible/1394/GEN.30.38.BKG) |
+| {{fɛngɛ}} | noun | basin, trough | [Gen 30:38](https://www.bible.com/bible/1394/GEN.30.38.BKG) |
 | {{gbɛɛnɛi\|r}} | noun (i) | cooking pot | Keita 1979, p. 159 |
-| {{hemndo}}, pl. {{hemndan}} | noun (o) | gourd, skin bottle — *Southern Kissi (Childs 2000) :* gourd for keeping oil or wine | [JDG.6.19](https://www.bible.com/bible/1394/JDG.6.19.BKG) |
-| {{kambɛiyo}}, pl. {{kambɛilan}} | noun (o) | basket — *Southern Kissi (Childs 2000) :* large basket, hamper | [EXO.2.3](https://www.bible.com/bible/1394/EXO.2.3.BKG) |
+| {{hemndo}}, pl. {{hemndan}} | noun (o) | gourd, skin bottle — *Southern Kissi (Childs 2000) :* gourd for keeping oil or wine | [Judg 6:19](https://www.bible.com/bible/1394/JDG.6.19.BKG) |
+| {{kambɛiyo}}, pl. {{kambɛilan}} | noun (o) | basket — *Southern Kissi (Childs 2000) :* large basket, hamper | [Exod 2:3](https://www.bible.com/bible/1394/EXO.2.3.BKG) |
 | {{kayaa\|r}}, pl. {{kayalan\|r}} | noun (o) | basket — *Southern Kissi (Childs 2000) :* fish basket | Keita 1979, p. 159 |
-| {{kesu}} | noun | chest, box; ark (kesu kpemaa) | [GEN.50.26](https://www.bible.com/bible/1394/GEN.50.26.BKG) |
+| {{kesu}} | noun | chest, box; ark (kesu kpemaa) | [Gen 50:26](https://www.bible.com/bible/1394/GEN.50.26.BKG) |
 | {{koboo\|r}} | noun (o) | box, tin — *Southern Kissi (Childs 2000) :* tin can | Keita 1979, p. 159 |
-| {{kpɛɛnɛi}}, pl. {{kpɛɛnɛn}} | noun (i) | cooking pot; basin — *Southern Kissi (Childs 2000) :* water pot; also wasp nest | [LEV.2.5](https://www.bible.com/bible/1394/LEV.2.5.BKG) |
+| {{kpɛɛnɛi}}, pl. {{kpɛɛnɛn}} | noun (i) | cooking pot; basin — *Southern Kissi (Childs 2000) :* water pot; also wasp nest | [Lev 2:5](https://www.bible.com/bible/1394/LEV.2.5.BKG) |
 | {{kumbuo\|r}} | noun (o) | lid, stopper | Keita 1979, p. 159 |
 | {{peletiiyo\|r}} | noun (o) | plate | Keita 1979, p. 159 |
 | {{salillo\|r}} | noun (o) | cooking pot | Keita 1979, p. 159 |
-| {{sianio}} | noun (o) | bottle, flask | [NUM.4.11](https://www.bible.com/bible/1394/NUM.4.11.BKG) |
+| {{sianio}} | noun (o) | bottle, flask | [Num 4:11](https://www.bible.com/bible/1394/NUM.4.11.BKG) |
 | {{taala itendoo\|r}} | noun | calabash | Keita 1979, p. 140 |
 | {{taala kolaa\|?}} | noun | cup, goblet | Keita 1979, p. 159 |
-| {{taalaa}} | noun (o) | calabash, cup, basin — *Southern Kissi (Childs 2000) :* drinking cup, calabash; also a glass | [EXO.12.22](https://www.bible.com/bible/1394/EXO.12.22.BKG) |
+| {{taalaa}} | noun (o) | calabash, cup, basin — *Southern Kissi (Childs 2000) :* drinking cup, calabash; also a glass | [Exod 12:22](https://www.bible.com/bible/1394/EXO.12.22.BKG) |
 | {{yalantaalaa\|r}} | noun (o) | calabash cup | Keita 1979, p. 159 |
 
 ### 6.8 Finance
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpeku}} | noun | value, use, profit — *Southern Kissi (Childs 2000) :* work, job, purpose | [GEN.23.15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
-| {{sianion}} | noun | gold | [GEN.2.11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
-| {{tɔnɔɔ}} | noun (o) | profit, benefit; interest (on a loan) — *Southern Kissi (Childs 2000) :* gain, profit; good fortune | [EXO.22.20](https://www.bible.com/bible/1394/EXO.22.20.BKG) |
+| {{kpeku}} | noun | value, use, profit — *Southern Kissi (Childs 2000) :* work, job, purpose | [Gen 23:15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
+| {{sianion}} | noun | gold | [Gen 2:11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
+| {{tɔnɔɔ}} | noun (o) | profit, benefit; interest (on a loan) — *Southern Kissi (Childs 2000) :* gain, profit; good fortune | [Exod 22:20](https://www.bible.com/bible/1394/EXO.22.20.BKG) |
 
 ### 6.8.1 Have wealth
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bolofaa}} | noun | wealth, riches | [GEN.13.2](https://www.bible.com/bible/1394/GEN.13.2.BKG) |
-| {{ikɔɔ}} | adjective | poor, needy | [EXO.22.24](https://www.bible.com/bible/1394/EXO.22.24.BKG) |
-| {{kɛ́ɔ}} | noun | inheritance, portion | [GEN.15.2](https://www.bible.com/bible/1394/GEN.15.2.BKG) |
+| {{bolofaa}} | noun | wealth, riches | [Gen 13:2](https://www.bible.com/bible/1394/GEN.13.2.BKG) |
+| {{ikɔɔ}} | adjective | poor, needy | [Exod 22:24](https://www.bible.com/bible/1394/EXO.22.24.BKG) |
+| {{kɛ́ɔ}} | noun | inheritance, portion | [Gen 15:2](https://www.bible.com/bible/1394/GEN.15.2.BKG) |
 | {{vanabolofaa\|r}} | noun (o) | rich person | Keita 1979, p. 149 |
 | {{vanaikɔɔ\|r}} | noun (o) | poor person | Keita 1979, p. 149 |
 
@@ -2316,29 +2316,29 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hawnɔnndo}} | verb | get stuck; stand surety — *Southern Kissi (Childs 2000) :* be stuck | [PRO.6](https://www.bible.com/bible/1394/PRO.6.BKG) |
-| {{kuee}} | noun | debt; guilt — *Southern Kissi (Childs 2000) :* debt, loan | [NUM.5.31](https://www.bible.com/bible/1394/NUM.5.31.BKG) |
-| {{muloo}} | noun (o) | tax, tribute; ransom | [EXO.30](https://www.bible.com/bible/1394/EXO.30.BKG) |
-| {{piondɔɔ}} | verb | buy, acquire — *Southern Kissi (Childs 2000) :* buy, barter, exchange; pendu is one of its stems | [GEN.17.12](https://www.bible.com/bible/1394/GEN.17.12.BKG) |
-| {{pisio}} | verb | sell — *Southern Kissi (Childs 2000) :* sell; give away freely | [GEN.31.15](https://www.bible.com/bible/1394/GEN.31.15.BKG) |
-| {{singaa}} | verb | exchange | [LEV.27.10](https://www.bible.com/bible/1394/LEV.27.10.BKG) |
-| {{vɔngoo}} | noun (o) | price, payment | [GEN.23.15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
-| {{vɔ̀ngɔ̀}} | noun | reward, wages | [GEN.15.1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
+| {{hawnɔnndo}} | verb | get stuck; stand surety — *Southern Kissi (Childs 2000) :* be stuck | [Prov 6](https://www.bible.com/bible/1394/PRO.6.BKG) |
+| {{kuee}} | noun | debt; guilt — *Southern Kissi (Childs 2000) :* debt, loan | [Num 5:31](https://www.bible.com/bible/1394/NUM.5.31.BKG) |
+| {{muloo}} | noun (o) | tax, tribute; ransom | [Exod 30](https://www.bible.com/bible/1394/EXO.30.BKG) |
+| {{piondɔɔ}} | verb | buy, acquire — *Southern Kissi (Childs 2000) :* buy, barter, exchange; pendu is one of its stems | [Gen 17:12](https://www.bible.com/bible/1394/GEN.17.12.BKG) |
+| {{pisio}} | verb | sell — *Southern Kissi (Childs 2000) :* sell; give away freely | [Gen 31:15](https://www.bible.com/bible/1394/GEN.31.15.BKG) |
+| {{singaa}} | verb | exchange | [Lev 27:10](https://www.bible.com/bible/1394/LEV.27.10.BKG) |
+| {{vɔngoo}} | noun (o) | price, payment | [Gen 23:15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
+| {{vɔ̀ngɔ̀}} | noun | reward, wages | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
 
 ### 6.8.6 Money
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{koei\|r}}, pl. {{koon\|r}} | noun (i) | cowry — *Southern Kissi (Childs 2000) :* cowry shell; also a palm-wine gourd | Keita 1979, p. 144 |
-| {{latámán}} | noun | shekel | [GEN.20.16](https://www.bible.com/bible/1394/GEN.20.16.BKG) |
-| {{volion}} | noun | silver, money | [GEN.13.2](https://www.bible.com/bible/1394/GEN.13.2.BKG) |
+| {{latámán}} | noun | shekel | [Gen 20:16](https://www.bible.com/bible/1394/GEN.20.16.BKG) |
+| {{volion}} | noun | silver, money | [Gen 13:2](https://www.bible.com/bible/1394/GEN.13.2.BKG) |
 
 ### 6.9.4 Commerce
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | noun (o) | week ; market; week | [GEN.3.19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
-| {{yulanɔɔ}} | noun (o) | trader, merchant | [ISA.24.2](https://www.bible.com/bible/1394/ISA.24.2.BKG) |
+| {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | noun (o) | week ; market; week | [Gen 3:19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
+| {{yulanɔɔ}} | noun (o) | trader, merchant | [Isa 24:2](https://www.bible.com/bible/1394/ISA.24.2.BKG) |
 
 ## 7. Physical actions
 
@@ -2352,219 +2352,219 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{can}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; also grow, grow up | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{cɔn}} | verb | get up, rise; (cɔn … nin) since | [GEN.8.21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
-| {{cɔnɔnndo}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; grow | [GEN.5](https://www.bible.com/bible/1394/GEN.5.BKG) |
-| {{isisi}} | adverb | standing | [GEN.18.2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
-| {{sim}} | verb | stop, come to rest; stand, stay — *Southern Kissi (Childs 2000) :* be standing; (causative sìmìó) stand something up | [GEN.8.4](https://www.bible.com/bible/1394/GEN.8.4.BKG) |
-| {{simio}} | verb | set up, make stand; pitch (a tent) | [NUM.4.32](https://www.bible.com/bible/1394/NUM.4.32.BKG) |
+| {{can}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; also grow, grow up | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{cɔn}} | verb | get up, rise; (cɔn … nin) since | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| {{cɔnɔnndo}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; grow | [Gen 5](https://www.bible.com/bible/1394/GEN.5.BKG) |
+| {{isisi}} | adverb | standing | [Gen 18:2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
+| {{sim}} | verb | stop, come to rest; stand, stay — *Southern Kissi (Childs 2000) :* be standing; (causative sìmìó) stand something up | [Gen 8:4](https://www.bible.com/bible/1394/GEN.8.4.BKG) |
+| {{simio}} | verb | set up, make stand; pitch (a tent) | [Num 4:32](https://www.bible.com/bible/1394/NUM.4.32.BKG) |
 
 ### 7.1.2 Sit
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{calaa}} | verb | dwell, stay, sit — *Southern Kissi (Childs 2000) :* sit, be seated; stay, live | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{calaa}} | verb | dwell, stay, sit — *Southern Kissi (Childs 2000) :* sit, be seated; stay, live | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
 
 ### 7.1.3 Lie down
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hini}} | verb | lie, lie down — *Southern Kissi (Childs 2000) :* lie down, rest, sleep | [GEN.9.16](https://www.bible.com/bible/1394/GEN.9.16.BKG) |
-| {{ihini}} | adverb | lying down | [GEN.9.22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
+| {{hini}} | verb | lie, lie down — *Southern Kissi (Childs 2000) :* lie down, rest, sleep | [Gen 9:16](https://www.bible.com/bible/1394/GEN.9.16.BKG) |
+| {{ihini}} | adverb | lying down | [Gen 9:22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
 
 ### 7.1.5 Bow
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baŋɔɔ}} | verb | set up, build, fix; (baŋ vulan) kneel, bow down | [GEN.37.10](https://www.bible.com/bible/1394/GEN.37.10.BKG) |
-| {{tuisinndo}} | verb | humble oneself, submit | [EXO.10.3](https://www.bible.com/bible/1394/EXO.10.3.BKG) |
-| {{tundu}} | verb | bow (the face to the ground) | [GEN.17.3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
-| {{tundun}} | verb | bow down, prostrate oneself | [GEN.27.29](https://www.bible.com/bible/1394/GEN.27.29.BKG) |
+| {{baŋɔɔ}} | verb | set up, build, fix; (baŋ vulan) kneel, bow down | [Gen 37:10](https://www.bible.com/bible/1394/GEN.37.10.BKG) |
+| {{tuisinndo}} | verb | humble oneself, submit | [Exod 10:3](https://www.bible.com/bible/1394/EXO.10.3.BKG) |
+| {{tundu}} | verb | bow (the face to the ground) | [Gen 17:3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
+| {{tundun}} | verb | bow down, prostrate oneself | [Gen 27:29](https://www.bible.com/bible/1394/GEN.27.29.BKG) |
 
 ### 7.2 Move
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{piasaa}} | verb | spread apart, extend; (noun) span | [EXO.28.16](https://www.bible.com/bible/1394/EXO.28.16.BKG) |
+| {{piasaa}} | verb | spread apart, extend; (noun) span | [Exod 28:16](https://www.bible.com/bible/1394/EXO.28.16.BKG) |
 
 ### 7.2.1 Manner of movement
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{balu}} | verb | go around, surround; roam through | [GEN.2.11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
+| {{balu}} | verb | go around, surround; roam through | [Gen 2:11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
 | {{boŋaa\|?}} | verb | make stumble; snare; slap (Keita) — *Southern Kissi (Childs 2000) :* trip, stumble, stub one's toe; knock, strike | Keita 1979, p. 110 |
-| {{huuluo}} | verb | jump, leap — *Southern Kissi (Childs 2000) :* jump | [PSA.68.4](https://www.bible.com/bible/1394/PSA.68.4.BKG) |
-| {{keeliaa}} | verb | lead about; look around | [GEN.13.10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
-| {{kelaa}} | verb | walk ; walk; behave, live — *Southern Kissi (Childs 2000) :* walk around (e.g. to sell) | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{kiltan}} | noun | running; (a kiltan) running | [GEN.18.2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
-| {{luusian}} | verb | wander, go astray; be lost — *Southern Kissi (Childs 2000) :* play tricks, act foolishly; get lost, go missing | [GEN.21.14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{huuluo}} | verb | jump, leap — *Southern Kissi (Childs 2000) :* jump | [Ps 68:4](https://www.bible.com/bible/1394/PSA.68.4.BKG) |
+| {{keeliaa}} | verb | lead about; look around | [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
+| {{kelaa}} | verb | walk ; walk; behave, live — *Southern Kissi (Childs 2000) :* walk around (e.g. to sell) | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{kiltan}} | noun | running; (a kiltan) running | [Gen 18:2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
+| {{luusian}} | verb | wander, go astray; be lost — *Southern Kissi (Childs 2000) :* play tricks, act foolishly; get lost, go missing | [Gen 21:14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
 | {{nambaa\|?}} | verb | slip, slide | Keita 1979, p. 110 |
-| {{sasun}} | verb | creep, crawl | [GEN.7.8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
-| {{ɲaanɔnndo}} | verb | run; flee | [GEN.14.10](https://www.bible.com/bible/1394/GEN.14.10.BKG) |
+| {{sasun}} | verb | creep, crawl | [Gen 7:8](https://www.bible.com/bible/1394/GEN.7.8.BKG) |
+| {{ɲaanɔnndo}} | verb | run; flee | [Gen 14:10](https://www.bible.com/bible/1394/GEN.14.10.BKG) |
 
 ### 7.2.2 Move in a direction
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{delaa}} | verb | fall; (del … coo) fall upon, attack | [EXO.23.5](https://www.bible.com/bible/1394/EXO.23.5.BKG) |
-| {{delio}} | verb | fall here and there, fall in numbers | [EXO.9.18](https://www.bible.com/bible/1394/EXO.9.18.BKG) |
-| {{delɔɔ}} | verb | fall — *Southern Kissi (Childs 2000) :* fall, drop | [GEN.15.12](https://www.bible.com/bible/1394/GEN.15.12.BKG) |
-| {{helɔɔ}} | verb | go up, climb; height — *Southern Kissi (Childs 2000) :* climb, go up, rise; also mount, breed (animals) | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{hiovɔɔ}} | verb | pass, surpass ; pass; exceed, surpass — *Southern Kissi (Childs 2000) :* go by, pass | [GEN.4.3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
-| {{mulinndo}} | verb | turn (to), go back; do again | [1SA.8.8](https://www.bible.com/bible/1394/1SA.8.8.BKG) |
-| {{sɔɔndian}} | verb | be scattered, flee in all directions | [NUM.10.35](https://www.bible.com/bible/1394/NUM.10.35.BKG) |
-| {{toal}} | verb | come down (upon) | [GEN.11.5](https://www.bible.com/bible/1394/GEN.11.5.BKG) |
-| {{tolɔɔ}} | verb | go down, descend — *Southern Kissi (Childs 2000) :* descend, climb or slide down | [GEN.8.3](https://www.bible.com/bible/1394/GEN.8.3.BKG) |
-| {{tuusu}} | verb | go down; extend (border) | [NUM.21.15](https://www.bible.com/bible/1394/NUM.21.15.BKG) |
+| {{delaa}} | verb | fall; (del … coo) fall upon, attack | [Exod 23:5](https://www.bible.com/bible/1394/EXO.23.5.BKG) |
+| {{delio}} | verb | fall here and there, fall in numbers | [Exod 9:18](https://www.bible.com/bible/1394/EXO.9.18.BKG) |
+| {{delɔɔ}} | verb | fall — *Southern Kissi (Childs 2000) :* fall, drop | [Gen 15:12](https://www.bible.com/bible/1394/GEN.15.12.BKG) |
+| {{helɔɔ}} | verb | go up, climb; height — *Southern Kissi (Childs 2000) :* climb, go up, rise; also mount, breed (animals) | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{hiovɔɔ}} | verb | pass, surpass ; pass; exceed, surpass — *Southern Kissi (Childs 2000) :* go by, pass | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
+| {{mulinndo}} | verb | turn (to), go back; do again | [1 Sam 8:8](https://www.bible.com/bible/1394/1SA.8.8.BKG) |
+| {{sɔɔndian}} | verb | be scattered, flee in all directions | [Num 10:35](https://www.bible.com/bible/1394/NUM.10.35.BKG) |
+| {{toal}} | verb | come down (upon) | [Gen 11:5](https://www.bible.com/bible/1394/GEN.11.5.BKG) |
+| {{tolɔɔ}} | verb | go down, descend — *Southern Kissi (Childs 2000) :* descend, climb or slide down | [Gen 8:3](https://www.bible.com/bible/1394/GEN.8.3.BKG) |
+| {{tuusu}} | verb | go down; extend (border) | [Num 21:15](https://www.bible.com/bible/1394/NUM.21.15.BKG) |
 
 ### 7.2.3 Move toward something
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɔŋaa}} | verb | meet, go to meet — *Southern Kissi (Childs 2000) :* bring together, join, cover; be sufficient | [GEN.14.17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
+| {{bɔŋaa}} | verb | meet, go to meet — *Southern Kissi (Childs 2000) :* bring together, join, cover; be sufficient | [Gen 14:17](https://www.bible.com/bible/1394/GEN.14.17.BKG) |
 | {{bɔŋallo\|r}} | verb | meet, welcome for someone — *Southern Kissi (Childs 2000) :* meet for someone, bring together for | Keita 1979, p. 110 |
-| {{bɔŋan}} | verb | meet, come upon | [GEN.4.15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
-| {{can}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; also grow, grow up | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{demullo}} | verb | go to meet; facing — *Southern Kissi (Childs 2000) :* embrace | [GEN.18.2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
-| {{faŋanndo}} | verb | leave, depart from | [GEN.12](https://www.bible.com/bible/1394/GEN.12.BKG) |
-| {{fula}} | verb | go out, come out; come from — *Southern Kissi (Childs 2000) :* go or come out, leave; also shine (sun), beat (heart); resemble | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{fulaa}} | verb | go out, come out — *Southern Kissi (Childs 2000) :* go or come out, leave | [GEN.2.6](https://www.bible.com/bible/1394/GEN.2.6.BKG) |
-| {{hialu}} | verb | take by stealth; slip away, disappear | [GEN.27.35](https://www.bible.com/bible/1394/GEN.27.35.BKG) |
-| {{hinullo}} | verb | come against, advance on; threaten | [EXO.14.10](https://www.bible.com/bible/1394/EXO.14.10.BKG) |
-| {{hunɔɔ}} | verb | come ; come; (hun a) bring — *Southern Kissi (Childs 2000) :* come, arrive | [GEN.6.17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
-| {{kpakpalaa}} | verb | keep away from, avoid; spare, set apart | [GEN.6](https://www.bible.com/bible/1394/GEN.6.BKG) |
-| {{kɔannun}} | verb | go off (with), take away; pursue (… kɔɔli) | [GEN.13.14](https://www.bible.com/bible/1394/GEN.13.14.BKG) |
-| {{kɔlan}} | verb | go, leave — *Southern Kissi (Childs 2000) :* go, walk; pass by | [GEN.3.14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
-| {{luɛyɔɔ}} | verb | enter, go in; come, arrive — *Southern Kissi (Childs 2000) :* enter, come in; put in; produce in quantity (crops) | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{muungoo}} | verb | return, go back — *Southern Kissi (Childs 2000) :* return, go back; also retaliate, replace (variant mùùŋgóó) | [GEN.12.9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
-| {{sɔɔnguuo}} | verb | approach, come near — *Southern Kissi (Childs 2000) :* approach, draw near; (Liberian Kissi) dress | [EXO.3.4](https://www.bible.com/bible/1394/EXO.3.4.BKG) |
-| {{tiiyaa}} | verb | reach, arrive at; be enough | [GEN.3.22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
+| {{bɔŋan}} | verb | meet, come upon | [Gen 4:15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
+| {{can}} | verb | get up, set out — *Southern Kissi (Childs 2000) :* get up, arise; also grow, grow up | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{demullo}} | verb | go to meet; facing — *Southern Kissi (Childs 2000) :* embrace | [Gen 18:2](https://www.bible.com/bible/1394/GEN.18.2.BKG) |
+| {{faŋanndo}} | verb | leave, depart from | [Gen 12](https://www.bible.com/bible/1394/GEN.12.BKG) |
+| {{fula}} | verb | go out, come out; come from — *Southern Kissi (Childs 2000) :* go or come out, leave; also shine (sun), beat (heart); resemble | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{fulaa}} | verb | go out, come out — *Southern Kissi (Childs 2000) :* go or come out, leave | [Gen 2:6](https://www.bible.com/bible/1394/GEN.2.6.BKG) |
+| {{hialu}} | verb | take by stealth; slip away, disappear | [Gen 27:35](https://www.bible.com/bible/1394/GEN.27.35.BKG) |
+| {{hinullo}} | verb | come against, advance on; threaten | [Exod 14:10](https://www.bible.com/bible/1394/EXO.14.10.BKG) |
+| {{hunɔɔ}} | verb | come ; come; (hun a) bring — *Southern Kissi (Childs 2000) :* come, arrive | [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
+| {{kpakpalaa}} | verb | keep away from, avoid; spare, set apart | [Gen 6](https://www.bible.com/bible/1394/GEN.6.BKG) |
+| {{kɔannun}} | verb | go off (with), take away; pursue (… kɔɔli) | [Gen 13:14](https://www.bible.com/bible/1394/GEN.13.14.BKG) |
+| {{kɔlan}} | verb | go, leave — *Southern Kissi (Childs 2000) :* go, walk; pass by | [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
+| {{luɛyɔɔ}} | verb | enter, go in; come, arrive — *Southern Kissi (Childs 2000) :* enter, come in; put in; produce in quantity (crops) | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{muungoo}} | verb | return, go back — *Southern Kissi (Childs 2000) :* return, go back; also retaliate, replace (variant mùùŋgóó) | [Gen 12:9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
+| {{sɔɔnguuo}} | verb | approach, come near — *Southern Kissi (Childs 2000) :* approach, draw near; (Liberian Kissi) dress | [Exod 3:4](https://www.bible.com/bible/1394/EXO.3.4.BKG) |
+| {{tiiyaa}} | verb | reach, arrive at; be enough | [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
 
 ### 7.2.4 Travel
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{boo tɛɛngaa\|?}} | noun | paddle | Keita 1979, p. 159 |
-| {{dɛ̀ndɔ̀ɔ́}}, pl. {{dɛ̀ndɛ̀lan}} | noun (o) | canoe, boat; ark — *Southern Kissi (Childs 2000) :* canoe, boat; also an airplane | [GEN.6.18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
-| {{kelanndo}} | verb | walk about, wander | [GEN.4.12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
+| {{dɛ̀ndɔ̀ɔ́}}, pl. {{dɛ̀ndɛ̀lan}} | noun (o) | canoe, boat; ark — *Southern Kissi (Childs 2000) :* canoe, boat; also an airplane | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{kelanndo}} | verb | walk about, wander | [Gen 4:12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
 | {{mboomaa\|r}} | noun (o) | hammock; litter, palanquin | Keita 1979, p. 159 |
-| {{taŋɔɔ}} | verb | cross (a river) | [EXO.14.17](https://www.bible.com/bible/1394/EXO.14.17.BKG) |
+| {{taŋɔɔ}} | verb | cross (a river) | [Exod 14:17](https://www.bible.com/bible/1394/EXO.14.17.BKG) |
 
 ### 7.2.5 Accompany
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{liilaa}} | verb | accompany, go with; lead — *Southern Kissi (Childs 2000) :* accompany, escort; (Liberian Kissi) carry halfway | [EXO.33.12](https://www.bible.com/bible/1394/EXO.33.12.BKG) |
+| {{liilaa}} | verb | accompany, go with; lead — *Southern Kissi (Childs 2000) :* accompany, escort; (Liberian Kissi) carry halfway | [Exod 33:12](https://www.bible.com/bible/1394/EXO.33.12.BKG) |
 
 ### 7.2.6 Pursue
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biinun}} | verb | overtake, take hold of | [EXO.15.9](https://www.bible.com/bible/1394/EXO.15.9.BKG) |
-| {{kuello}} | verb | pursue; go out against — *Southern Kissi (Childs 2000) :* go toward someone (benefactive of 'go') | [EXO.14.4](https://www.bible.com/bible/1394/EXO.14.4.BKG) |
-| {{kɔannun}} | verb | go off (with), take away; pursue (… kɔɔli) | [GEN.13.14](https://www.bible.com/bible/1394/GEN.13.14.BKG) |
-| {{tovɔɔ}} | verb | drive out, expel; pursue | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{biinun}} | verb | overtake, take hold of | [Exod 15:9](https://www.bible.com/bible/1394/EXO.15.9.BKG) |
+| {{kuello}} | verb | pursue; go out against — *Southern Kissi (Childs 2000) :* go toward someone (benefactive of 'go') | [Exod 14:4](https://www.bible.com/bible/1394/EXO.14.4.BKG) |
+| {{kɔannun}} | verb | go off (with), take away; pursue (… kɔɔli) | [Gen 13:14](https://www.bible.com/bible/1394/GEN.13.14.BKG) |
+| {{tovɔɔ}} | verb | drive out, expel; pursue | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
 
 ### 7.2.7 Not moving
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cumndo}} | verb | wait; let, allow | [EXO.5.20](https://www.bible.com/bible/1394/EXO.5.20.BKG) |
-| {{sim}} | verb | stop, come to rest; stand, stay — *Southern Kissi (Childs 2000) :* be standing; (causative sìmìó) stand something up | [GEN.8.4](https://www.bible.com/bible/1394/GEN.8.4.BKG) |
+| {{cumndo}} | verb | wait; let, allow | [Exod 5:20](https://www.bible.com/bible/1394/EXO.5.20.BKG) |
+| {{sim}} | verb | stop, come to rest; stand, stay — *Southern Kissi (Childs 2000) :* be standing; (causative sìmìó) stand something up | [Gen 8:4](https://www.bible.com/bible/1394/GEN.8.4.BKG) |
 
 ### 7.2.8 Send someone
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kiilanɔ}}, pl. {{kiilaa}} | noun | messenger, envoy; apostle | [2SA.11.22](https://www.bible.com/bible/1394/2SA.11.22.BKG) |
-| {{kiilanɔɔ}} | noun (o) | messenger | [GEN.50.16](https://www.bible.com/bible/1394/GEN.50.16.BKG) |
-| {{mello}} | verb | let go, allow; keep for (Keita) | [EXO.4.23](https://www.bible.com/bible/1394/EXO.4.23.BKG) |
-| {{viamaa}} | verb | send (someone) | [GEN.41.8](https://www.bible.com/bible/1394/GEN.41.8.BKG) |
+| {{kiilanɔ}}, pl. {{kiilaa}} | noun | messenger, envoy; apostle | [2 Sam 11:22](https://www.bible.com/bible/1394/2SA.11.22.BKG) |
+| {{kiilanɔɔ}} | noun (o) | messenger | [Gen 50:16](https://www.bible.com/bible/1394/GEN.50.16.BKG) |
+| {{mello}} | verb | let go, allow; keep for (Keita) | [Exod 4:23](https://www.bible.com/bible/1394/EXO.4.23.BKG) |
+| {{viamaa}} | verb | send (someone) | [Gen 41:8](https://www.bible.com/bible/1394/GEN.41.8.BKG) |
 
 ### 7.3.1 Carry
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{siiluu}} | verb | load (onto someone); (siilun) carry, take up — *Southern Kissi (Childs 2000) :* help with a head load, lift a load onto someone's head | [GEN.22.6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
+| {{siiluu}} | verb | load (onto someone); (siilun) carry, take up — *Southern Kissi (Childs 2000) :* help with a head load, lift a load onto someone's head | [Gen 22:6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
 
 ### 7.3.2 Move something in a direction
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛŋio}} | verb | knock out, pull out, dismantle — *Southern Kissi (Childs 2000) :* come out (as a blade from its handle) | [GEN.19.9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
-| {{cuiŋi}} | verb | pour out (a liquid) — *Southern Kissi (Childs 2000) :* spill, pour away; waste | [GEN.35.14](https://www.bible.com/bible/1394/GEN.35.14.BKG) |
-| {{faŋa}} | verb | drive out, expel | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{faŋaa}} | verb | remove, take away, separate — *Southern Kissi (Childs 2000) :* move or remove, take | [GEN.41.34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
+| {{bɛŋio}} | verb | knock out, pull out, dismantle — *Southern Kissi (Childs 2000) :* come out (as a blade from its handle) | [Gen 19:9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
+| {{cuiŋi}} | verb | pour out (a liquid) — *Southern Kissi (Childs 2000) :* spill, pour away; waste | [Gen 35:14](https://www.bible.com/bible/1394/GEN.35.14.BKG) |
+| {{faŋa}} | verb | drive out, expel | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{faŋaa}} | verb | remove, take away, separate — *Southern Kissi (Childs 2000) :* move or remove, take | [Gen 41:34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
 | {{faŋiaa\|r}} | verb | remove many | Keita 1979, p. 110 |
-| {{heeloo}} | verb | lift up, raise — *Southern Kissi (Childs 2000) :* raise; praise | [2SA.22.42](https://www.bible.com/bible/1394/2SA.22.42.BKG) |
+| {{heeloo}} | verb | lift up, raise — *Southern Kissi (Childs 2000) :* raise; praise | [2 Sam 22:42](https://www.bible.com/bible/1394/2SA.22.42.BKG) |
 | {{heeluo\|r}} | verb | lift, raise — *Southern Kissi (Childs 2000) :* put up, raise, lift, erect | Keita 1979, p. 110 |
-| {{hulɔɔ}} | verb | empty, pour out — *Southern Kissi (Childs 2000) :* throw away, spill, dump | [ISA.8.7](https://www.bible.com/bible/1394/ISA.8.7.BKG) |
+| {{hulɔɔ}} | verb | empty, pour out — *Southern Kissi (Childs 2000) :* throw away, spill, dump | [Isa 8:7](https://www.bible.com/bible/1394/ISA.8.7.BKG) |
 | {{hɔwvɔɔ\|r}} | verb | inject, thrust in | Keita 1979, p. 115 |
 | {{muuluo\|r}} | verb | turn over, overturn | Keita 1979, p. 110 |
 | {{mɛlimɛlio\|r}} | verb | let fall here and there | Keita 1979, p. 110 |
-| {{mɛlio}} | verb | make fall; utter (a cry) | [DEU.22.24](https://www.bible.com/bible/1394/DEU.22.24.BKG) |
-| {{nanɔɔ}} | verb | pull, draw — *Southern Kissi (Childs 2000) :* pull, suck, drag | [GEN.34.3](https://www.bible.com/bible/1394/GEN.34.3.BKG) |
-| {{siɛndi}} | verb | stretch out (the hand) | [GEN.8.9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
-| {{solinndo}} | verb | take off, remove; come out | [LEV.17.11](https://www.bible.com/bible/1394/LEV.17.11.BKG) |
-| {{sungɔɔ}} | verb | pluck, tear away — *Southern Kissi (Childs 2000) :* uproot, pull up, extract | [JOB.24.9](https://www.bible.com/bible/1394/JOB.24.9.BKG) |
-| {{sɛŋi}} | verb | scatter, spread; (sɛŋin) spread out | [GEN.11.8](https://www.bible.com/bible/1394/GEN.11.8.BKG) |
-| {{tala}} | verb | pour (oil); set (stones) — *Southern Kissi (Childs 2000) :* pour | [GEN.28.18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
-| {{toandaa}} | verb | stretch out, spread (cloth, net) | [GEN.9.21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
-| {{tovɔɔ}} | verb | drive out, expel; pursue | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{tuisio}} | verb | bring down, send (rain, calamity) upon; humble | [GEN.17.13](https://www.bible.com/bible/1394/GEN.17.13.BKG) |
-| {{viovɔɔ}} | verb | put, throw, cast — *Southern Kissi (Childs 2000) :* stay in one place for a long time; (benefactive) throw away | [EXO.32.1](https://www.bible.com/bible/1394/EXO.32.1.BKG) |
-| {{vuuo}} | verb | throw, cast — *Southern Kissi (Childs 2000) :* throw (e.g. with a sling); thatch a roof; shoot | [GEN.21.20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
-| {{yinɔɔ}} | verb | dip, immerse; dye; baptize — *Southern Kissi (Childs 2000) :* dunk, soak (e.g. for dyeing cloth) | [EXO.24.10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
-| {{yulu}} | verb | stretch out (the hand, a staff) — *Southern Kissi (Childs 2000) :* smoke out; point at; be patient; stretch | [EXO.7.19](https://www.bible.com/bible/1394/EXO.7.19.BKG) |
-| {{ɲindu}} | verb | push, press hard | [GEN.19.9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
+| {{mɛlio}} | verb | make fall; utter (a cry) | [Deut 22:24](https://www.bible.com/bible/1394/DEU.22.24.BKG) |
+| {{nanɔɔ}} | verb | pull, draw — *Southern Kissi (Childs 2000) :* pull, suck, drag | [Gen 34:3](https://www.bible.com/bible/1394/GEN.34.3.BKG) |
+| {{siɛndi}} | verb | stretch out (the hand) | [Gen 8:9](https://www.bible.com/bible/1394/GEN.8.9.BKG) |
+| {{solinndo}} | verb | take off, remove; come out | [Lev 17:11](https://www.bible.com/bible/1394/LEV.17.11.BKG) |
+| {{sungɔɔ}} | verb | pluck, tear away — *Southern Kissi (Childs 2000) :* uproot, pull up, extract | [Job 24:9](https://www.bible.com/bible/1394/JOB.24.9.BKG) |
+| {{sɛŋi}} | verb | scatter, spread; (sɛŋin) spread out | [Gen 11:8](https://www.bible.com/bible/1394/GEN.11.8.BKG) |
+| {{tala}} | verb | pour (oil); set (stones) — *Southern Kissi (Childs 2000) :* pour | [Gen 28:18](https://www.bible.com/bible/1394/GEN.28.18.BKG) |
+| {{toandaa}} | verb | stretch out, spread (cloth, net) | [Gen 9:21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
+| {{tovɔɔ}} | verb | drive out, expel; pursue | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{tuisio}} | verb | bring down, send (rain, calamity) upon; humble | [Gen 17:13](https://www.bible.com/bible/1394/GEN.17.13.BKG) |
+| {{viovɔɔ}} | verb | put, throw, cast — *Southern Kissi (Childs 2000) :* stay in one place for a long time; (benefactive) throw away | [Exod 32:1](https://www.bible.com/bible/1394/EXO.32.1.BKG) |
+| {{vuuo}} | verb | throw, cast — *Southern Kissi (Childs 2000) :* throw (e.g. with a sling); thatch a roof; shoot | [Gen 21:20](https://www.bible.com/bible/1394/GEN.21.20.BKG) |
+| {{yinɔɔ}} | verb | dip, immerse; dye; baptize — *Southern Kissi (Childs 2000) :* dunk, soak (e.g. for dyeing cloth) | [Exod 24:10](https://www.bible.com/bible/1394/EXO.24.10.BKG) |
+| {{yulu}} | verb | stretch out (the hand, a staff) — *Southern Kissi (Childs 2000) :* smoke out; point at; be patient; stretch | [Exod 7:19](https://www.bible.com/bible/1394/EXO.7.19.BKG) |
+| {{ɲindu}} | verb | push, press hard | [Gen 19:9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
 
 ### 7.3.3 Take somewhere
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuuo}} | verb | bring — *Southern Kissi (Childs 2000) :* bring; give someone a present | [GEN.27.5](https://www.bible.com/bible/1394/GEN.27.5.BKG) |
+| {{cuuo}} | verb | bring — *Southern Kissi (Childs 2000) :* bring; give someone a present | [Gen 27:5](https://www.bible.com/bible/1394/GEN.27.5.BKG) |
 | {{hivihivio\|r}} | verb | make pass repeatedly | Keita 1979, p. 110 |
-| {{hivio}} | verb | make pass, send ahead | [JOB.18.19](https://www.bible.com/bible/1394/JOB.18.19.BKG) |
-| {{hunɔɔ}} | verb | come ; come; (hun a) bring — *Southern Kissi (Childs 2000) :* come, arrive | [GEN.6.17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
-| {{poondiaa}} | verb | carry off (as plunder, captive), take away, confiscate — *Southern Kissi (Childs 2000) :* take away (plural action); shuck | [NUM.14.3](https://www.bible.com/bible/1394/NUM.14.3.BKG) |
-| {{solio}} | verb | bring out; offer (a sacrifice) — *Southern Kissi (Childs 2000) :* take something out | [GEN.12.20](https://www.bible.com/bible/1394/GEN.12.20.BKG) |
-| {{tiiyallo}} | verb | bring to, deliver to; proclaim (news) to — *Southern Kissi (Childs 2000) :* go somewhere for someone | [LEV.21.8](https://www.bible.com/bible/1394/LEV.21.8.BKG) |
-| {{tɛɛngaa}} | verb | convey, carry across; deliver (a message) | [GEN.20.7](https://www.bible.com/bible/1394/GEN.20.7.BKG) |
-| {{tɛɛnguuo}} | verb | take across, make (many) cross — *Southern Kissi (Childs 2000) :* cross with or carry across (a river); plural of tàŋɔ̀ɔ́ 'cross' | [NUM.11.27](https://www.bible.com/bible/1394/NUM.11.27.BKG) |
+| {{hivio}} | verb | make pass, send ahead | [Job 18:19](https://www.bible.com/bible/1394/JOB.18.19.BKG) |
+| {{hunɔɔ}} | verb | come ; come; (hun a) bring — *Southern Kissi (Childs 2000) :* come, arrive | [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
+| {{poondiaa}} | verb | carry off (as plunder, captive), take away, confiscate — *Southern Kissi (Childs 2000) :* take away (plural action); shuck | [Num 14:3](https://www.bible.com/bible/1394/NUM.14.3.BKG) |
+| {{solio}} | verb | bring out; offer (a sacrifice) — *Southern Kissi (Childs 2000) :* take something out | [Gen 12:20](https://www.bible.com/bible/1394/GEN.12.20.BKG) |
+| {{tiiyallo}} | verb | bring to, deliver to; proclaim (news) to — *Southern Kissi (Childs 2000) :* go somewhere for someone | [Lev 21:8](https://www.bible.com/bible/1394/LEV.21.8.BKG) |
+| {{tɛɛngaa}} | verb | convey, carry across; deliver (a message) | [Gen 20:7](https://www.bible.com/bible/1394/GEN.20.7.BKG) |
+| {{tɛɛnguuo}} | verb | take across, make (many) cross — *Southern Kissi (Childs 2000) :* cross with or carry across (a river); plural of tàŋɔ̀ɔ́ 'cross' | [Num 11:27](https://www.bible.com/bible/1394/NUM.11.27.BKG) |
 
 ### 7.3.4 Handle something
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bii}} | verb | seize, catch, hold; keep (a commandment) | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{bii}} | verb | seize, catch, hold; keep (a commandment) | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 | {{biyanndo\|r}} | verb | seize each other, grapple | Keita 1979, p. 110 |
-| {{biyɔɔ}} | verb | catch, seize, hold — *Southern Kissi (Childs 2000) :* take, seize, capture; have; begin | [GEN.1.15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
-| {{cua}} | verb | take; (cua haki) commit (a sin) — *Southern Kissi (Childs 2000) :* take; also carry, lift; take in marriage | [GEN.2.15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
+| {{biyɔɔ}} | verb | catch, seize, hold — *Southern Kissi (Childs 2000) :* take, seize, capture; have; begin | [Gen 1:15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
+| {{cua}} | verb | take; (cua haki) commit (a sin) — *Southern Kissi (Childs 2000) :* take; also carry, lift; take in marriage | [Gen 2:15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
 | {{cuaa\|?}} | verb | take — *Southern Kissi (Childs 2000) :* take, carry or lift | Keita 1979, p. 115 |
-| {{hawnɔnndo}} | verb | get stuck; stand surety — *Southern Kissi (Childs 2000) :* be stuck | [PRO.6](https://www.bible.com/bible/1394/PRO.6.BKG) |
-| {{hawvo}} | verb | block, trap, press — *Southern Kissi (Childs 2000) :* be stuck or trapped | [EXO.27.3](https://www.bible.com/bible/1394/EXO.27.3.BKG) |
-| {{pilanndo}} | verb | touch | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{simbul}} | verb | roll up, wrap; (sɛbɛ simbulaa) scroll — *Southern Kissi (Childs 2000) :* wrap (up), package; roll up; fold | [NUM.4.10](https://www.bible.com/bible/1394/NUM.4.10.BKG) |
-| {{ŋɔvɔɔ}} | verb | squeeze, press — *Southern Kissi (Childs 2000) :* squeeze, press | [PRO.16.26](https://www.bible.com/bible/1394/PRO.16.26.BKG) |
+| {{hawnɔnndo}} | verb | get stuck; stand surety — *Southern Kissi (Childs 2000) :* be stuck | [Prov 6](https://www.bible.com/bible/1394/PRO.6.BKG) |
+| {{hawvo}} | verb | block, trap, press — *Southern Kissi (Childs 2000) :* be stuck or trapped | [Exod 27:3](https://www.bible.com/bible/1394/EXO.27.3.BKG) |
+| {{pilanndo}} | verb | touch | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{simbul}} | verb | roll up, wrap; (sɛbɛ simbulaa) scroll — *Southern Kissi (Childs 2000) :* wrap (up), package; roll up; fold | [Num 4:10](https://www.bible.com/bible/1394/NUM.4.10.BKG) |
+| {{ŋɔvɔɔ}} | verb | squeeze, press — *Southern Kissi (Childs 2000) :* squeeze, press | [Prov 16:26](https://www.bible.com/bible/1394/PRO.16.26.BKG) |
 
 ### 7.3.6 Open
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{baŋullo}} | verb | stop up, close — *Southern Kissi (Childs 2000) :* fill in or close a hole | [1KI.11.27](https://www.bible.com/bible/1394/1KI.11.27.BKG) |
-| {{kinda}} | verb | shut, close | [GEN.7.16](https://www.bible.com/bible/1394/GEN.7.16.BKG) |
-| {{kumbin}} | verb | be opened, open | [GEN.3.5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
-| {{kumbio}} | verb | open — *Southern Kissi (Childs 2000) :* open; cover | [NUM.7](https://www.bible.com/bible/1394/NUM.7.BKG) |
+| {{baŋullo}} | verb | stop up, close — *Southern Kissi (Childs 2000) :* fill in or close a hole | [1 Kgs 11:27](https://www.bible.com/bible/1394/1KI.11.27.BKG) |
+| {{kinda}} | verb | shut, close | [Gen 7:16](https://www.bible.com/bible/1394/GEN.7.16.BKG) |
+| {{kumbin}} | verb | be opened, open | [Gen 3:5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
+| {{kumbio}} | verb | open — *Southern Kissi (Childs 2000) :* open; cover | [Num 7](https://www.bible.com/bible/1394/NUM.7.BKG) |
 
 ### 7.3.7 Cover
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{kumbuo\|r}} | noun (o) | lid, stopper | Keita 1979, p. 159 |
-| {{kumbɔɔ}} | verb | cover; bury | [GEN.23](https://www.bible.com/bible/1394/GEN.23.BKG) |
-| {{kunga}} | verb | enclose, fence in | [EXO.27.9](https://www.bible.com/bible/1394/EXO.27.9.BKG) |
-| {{kuumbuu}} | verb | cover over, spread over | [GEN.9.23](https://www.bible.com/bible/1394/GEN.9.23.BKG) |
-| {{yikpa}} | verb | coat, overlay (with) — *Southern Kissi (Childs 2000) :* rub, grind, sharpen; apply plaster | [GEN.6.14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
+| {{kumbɔɔ}} | verb | cover; bury | [Gen 23](https://www.bible.com/bible/1394/GEN.23.BKG) |
+| {{kunga}} | verb | enclose, fence in | [Exod 27:9](https://www.bible.com/bible/1394/EXO.27.9.BKG) |
+| {{kuumbuu}} | verb | cover over, spread over | [Gen 9:23](https://www.bible.com/bible/1394/GEN.9.23.BKG) |
+| {{yikpa}} | verb | coat, overlay (with) — *Southern Kissi (Childs 2000) :* rub, grind, sharpen; apply plaster | [Gen 6:14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
 
 ### 7.4 Have, be with
 
@@ -2576,70 +2576,70 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hivi}} | verb | hand over, deliver to — *Southern Kissi (Childs 2000) :* lift over; circumcise; translate | [GEN.16.3](https://www.bible.com/bible/1394/GEN.16.3.BKG) |
-| {{ke}} | verb | give; (ke diolan) name | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{keo}} | verb | give, offer — *Southern Kissi (Childs 2000) :* give, offer | [GEN.49.10](https://www.bible.com/bible/1394/GEN.49.10.BKG) |
-| {{mingullo}} | verb | give back, restore (to someone); repay | [GEN.50.20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
-| {{solullo}} | verb | offer (to), present; bring forth for; sing (a song) to | [GEN.8.20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
-| {{yɔngoo}} | verb | give — *Southern Kissi (Childs 2000) :* give, give back | [GEN.1.15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
-| {{yɔngun}} | verb | be given | [GEN.44](https://www.bible.com/bible/1394/GEN.44.BKG) |
+| {{hivi}} | verb | hand over, deliver to — *Southern Kissi (Childs 2000) :* lift over; circumcise; translate | [Gen 16:3](https://www.bible.com/bible/1394/GEN.16.3.BKG) |
+| {{ke}} | verb | give; (ke diolan) name | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{keo}} | verb | give, offer — *Southern Kissi (Childs 2000) :* give, offer | [Gen 49:10](https://www.bible.com/bible/1394/GEN.49.10.BKG) |
+| {{mingullo}} | verb | give back, restore (to someone); repay | [Gen 50:20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
+| {{solullo}} | verb | offer (to), present; bring forth for; sing (a song) to | [Gen 8:20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
+| {{yɔngoo}} | verb | give — *Southern Kissi (Childs 2000) :* give, give back | [Gen 1:15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
+| {{yɔngun}} | verb | be given | [Gen 44](https://www.bible.com/bible/1394/GEN.44.BKG) |
 
 ### 7.4.2 Receive
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [GEN.17.14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
-| {{kennun}} | verb | be given | [2CH.26.18](https://www.bible.com/bible/1394/2CH.26.18.BKG) |
-| {{sɔlaa}} | verb | receive, get | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{cɛlɔɔ}} | verb | accept ; accept, agree; listen to, obey — *Southern Kissi (Childs 2000) :* agree (to), concur | [Gen 17:14](https://www.bible.com/bible/1394/GEN.17.14.BKG) |
+| {{kennun}} | verb | be given | [2 Chr 26:18](https://www.bible.com/bible/1394/2CH.26.18.BKG) |
+| {{sɔlaa}} | verb | receive, get | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 
 ### 7.4.3 Get
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{biyɔɔ}} | verb | catch, seize, hold — *Southern Kissi (Childs 2000) :* take, seize, capture; have; begin | [GEN.1.15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
-| {{cua}} | verb | take; (cua haki) commit (a sin) — *Southern Kissi (Childs 2000) :* take; also carry, lift; take in marriage | [GEN.2.15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
+| {{biyɔɔ}} | verb | catch, seize, hold — *Southern Kissi (Childs 2000) :* take, seize, capture; have; begin | [Gen 1:15](https://www.bible.com/bible/1394/GEN.1.15.BKG) |
+| {{cua}} | verb | take; (cua haki) commit (a sin) — *Southern Kissi (Childs 2000) :* take; also carry, lift; take in marriage | [Gen 2:15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
 | {{cuaa\|?}} | verb | take — *Southern Kissi (Childs 2000) :* take, carry or lift | Keita 1979, p. 115 |
-| {{cuello}} | verb | take for someone | [1SA.14.6](https://www.bible.com/bible/1394/1SA.14.6.BKG) |
-| {{kpuva}} | verb | seize, capture — *Southern Kissi (Childs 2000) :* grab, seize; also rape | [GEN.34.2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
+| {{cuello}} | verb | take for someone | [1 Sam 14:6](https://www.bible.com/bible/1394/1SA.14.6.BKG) |
+| {{kpuva}} | verb | seize, capture — *Southern Kissi (Childs 2000) :* grab, seize; also rape | [Gen 34:2](https://www.bible.com/bible/1394/GEN.34.2.BKG) |
 
 ### 7.4.5 Keep something
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bii}} | verb | seize, catch, hold; keep (a commandment) | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{bii}} | verb | seize, catch, hold; keep (a commandment) | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 | {{binɔnndo\|r}} | verb | keep, maintain (property) | Keita 1979, p. 110 |
-| {{cumullo}} | verb | guard, watch over — *Southern Kissi (Childs 2000) :* watch something secretly, peep, spy | [GEN.3.24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
-| {{kanda}} | verb | guard, protect | [GEN.3.24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
-| {{kpalilnɔ}}, pl. {{kpalilaa}} | noun | keeper, guard | [GEN.4.9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
-| {{mandaa}} | verb | keep, guard, look after — *Southern Kissi (Childs 2000) :* take care of, raise (animals); mind | [GEN.2.15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
-| {{mandanndo}} | verb | keep oneself (from), beware; store up — *Southern Kissi (Childs 2000) :* take care of oneself | [DEU.11](https://www.bible.com/bible/1394/DEU.11.BKG) |
+| {{cumullo}} | verb | guard, watch over — *Southern Kissi (Childs 2000) :* watch something secretly, peep, spy | [Gen 3:24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
+| {{kanda}} | verb | guard, protect | [Gen 3:24](https://www.bible.com/bible/1394/GEN.3.24.BKG) |
+| {{kpalilnɔ}}, pl. {{kpalilaa}} | noun | keeper, guard | [Gen 4:9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
+| {{mandaa}} | verb | keep, guard, look after — *Southern Kissi (Childs 2000) :* take care of, raise (animals); mind | [Gen 2:15](https://www.bible.com/bible/1394/GEN.2.15.BKG) |
+| {{mandanndo}} | verb | keep oneself (from), beware; store up — *Southern Kissi (Childs 2000) :* take care of oneself | [Deut 11](https://www.bible.com/bible/1394/DEU.11.BKG) |
 
 ### 7.5 Arrange
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛɛndiaa}} | verb | prepare, make ready; set right | [GEN.14.14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
-| {{bɛɛndian}} | verb | get ready | [GEN.22](https://www.bible.com/bible/1394/GEN.22.BKG) |
+| {{bɛɛndiaa}} | verb | prepare, make ready; set right | [Gen 14:14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
+| {{bɛɛndian}} | verb | get ready | [Gen 22](https://www.bible.com/bible/1394/GEN.22.BKG) |
 | {{kɛsikɛsio\|r}} | verb | arrange | Keita 1979, p. 110 |
-| {{puusiaa}} | verb | scatter, disperse — *Southern Kissi (Childs 2000) :* scatter, spread about | [GEN.11.8](https://www.bible.com/bible/1394/GEN.11.8.BKG) |
+| {{puusiaa}} | verb | scatter, disperse — *Southern Kissi (Childs 2000) :* scatter, spread about | [Gen 11:8](https://www.bible.com/bible/1394/GEN.11.8.BKG) |
 
 ### 7.5.1 Gather
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cuungiaa}} | verb | gather, assemble — *Southern Kissi (Childs 2000) :* gather, collect; also contribute | [GEN.9.14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
-| {{cɔwviaa}} | verb | gather up, collect — *Southern Kissi (Childs 2000) :* pick, collect | [GEN.31.46](https://www.bible.com/bible/1394/GEN.31.46.BKG) |
-| {{latulu}} | adverb | together, at the same time | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{cuungiaa}} | verb | gather, assemble — *Southern Kissi (Childs 2000) :* gather, collect; also contribute | [Gen 9:14](https://www.bible.com/bible/1394/GEN.9.14.BKG) |
+| {{cɔwviaa}} | verb | gather up, collect — *Southern Kissi (Childs 2000) :* pick, collect | [Gen 31:46](https://www.bible.com/bible/1394/GEN.31.46.BKG) |
+| {{latulu}} | adverb | together, at the same time | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
 | {{mɔsɔŋaa\|r}} | verb | gather, put together — *Southern Kissi (Childs 2000) :* mix or put together | Keita 1979, p. 110 |
 | {{mɔsɔŋiaa\|r}} | verb | gather (many) | Keita 1979, p. 110 |
-| {{mɔɔsiaa}} | verb | gather; (mɔɔsian) assemble, come together | [JOS.2.18](https://www.bible.com/bible/1394/JOS.2.18.BKG) |
+| {{mɔɔsiaa}} | verb | gather; (mɔɔsian) assemble, come together | [Josh 2:18](https://www.bible.com/bible/1394/JOS.2.18.BKG) |
 
 ### 7.5.2 Join, attach
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{holnun}} | verb | cling to, be joined to | [GEN.2.24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{holɔɔ}} | verb | fix, attach, stick; climb (Keita) — *Southern Kissi (Childs 2000) :* stick on, lean against | [EXO.25.7](https://www.bible.com/bible/1394/EXO.25.7.BKG) |
+| {{holnun}} | verb | cling to, be joined to | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
+| {{holɔɔ}} | verb | fix, attach, stick; climb (Keita) — *Southern Kissi (Childs 2000) :* stick on, lean against | [Exod 25:7](https://www.bible.com/bible/1394/EXO.25.7.BKG) |
 
 ### 7.5.4 Tie
 
@@ -2647,67 +2647,67 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{baa\|?}} | verb | tie, hang | Keita 1979, p. 114 |
 | {{baanɔnndo\|r}} | verb | hang on, be attached — *Southern Kissi (Childs 2000) :* hang, be suspended | Keita 1979, p. 114 |
-| {{timbio}} | verb | untie, loosen; fulfil (a vow) — *Southern Kissi (Childs 2000) :* also: explain | [GEN.25.21](https://www.bible.com/bible/1394/GEN.25.21.BKG) |
-| {{yiw}} | verb | tie, bind — *Southern Kissi (Childs 2000) :* tie many times (plural of yììyó 'tie') | [JDG.15.4](https://www.bible.com/bible/1394/JDG.15.4.BKG) |
+| {{timbio}} | verb | untie, loosen; fulfil (a vow) — *Southern Kissi (Childs 2000) :* also: explain | [Gen 25:21](https://www.bible.com/bible/1394/GEN.25.21.BKG) |
+| {{yiw}} | verb | tie, bind — *Southern Kissi (Childs 2000) :* tie many times (plural of yììyó 'tie') | [Judg 15:4](https://www.bible.com/bible/1394/JDG.15.4.BKG) |
 
 ### 7.5.9 Put
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{dengadengiaa\|r}} | verb | stack, pile up | Keita 1979, p. 110 |
-| {{handun}} | verb | put on oneself; set oneself | [GEN.9.23](https://www.bible.com/bible/1394/GEN.9.23.BKG) |
-| {{handɔɔ}} | verb | put, lay; set (over) | [GEN.11.4](https://www.bible.com/bible/1394/GEN.11.4.BKG) |
-| {{kɛsiaa}} | verb | put, place, set | [EXO.25](https://www.bible.com/bible/1394/EXO.25.BKG) |
-| {{kɛsio}} | verb | put down, place — *Southern Kissi (Childs 2000) :* keep, place, put | [GEN.29.19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
-| {{kɛsullo}} | verb | put down for, set for someone | [MIC.7.2](https://www.bible.com/bible/1394/MIC.7.2.BKG) |
-| {{mɛiyo}} | verb | leave, leave over; (mɛiyo yoomu) let live — *Southern Kissi (Childs 2000) :* leave; stop, cease (especially talking); arrange, agree | [EXO.1.18](https://www.bible.com/bible/1394/EXO.1.18.BKG) |
-| {{simio}} | verb | set up, make stand; pitch (a tent) | [NUM.4.32](https://www.bible.com/bible/1394/NUM.4.32.BKG) |
+| {{handun}} | verb | put on oneself; set oneself | [Gen 9:23](https://www.bible.com/bible/1394/GEN.9.23.BKG) |
+| {{handɔɔ}} | verb | put, lay; set (over) | [Gen 11:4](https://www.bible.com/bible/1394/GEN.11.4.BKG) |
+| {{kɛsiaa}} | verb | put, place, set | [Exod 25](https://www.bible.com/bible/1394/EXO.25.BKG) |
+| {{kɛsio}} | verb | put down, place — *Southern Kissi (Childs 2000) :* keep, place, put | [Gen 29:19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
+| {{kɛsullo}} | verb | put down for, set for someone | [Mic 7:2](https://www.bible.com/bible/1394/MIC.7.2.BKG) |
+| {{mɛiyo}} | verb | leave, leave over; (mɛiyo yoomu) let live — *Southern Kissi (Childs 2000) :* leave; stop, cease (especially talking); arrange, agree | [Exod 1:18](https://www.bible.com/bible/1394/EXO.1.18.BKG) |
+| {{simio}} | verb | set up, make stand; pitch (a tent) | [Num 4:32](https://www.bible.com/bible/1394/NUM.4.32.BKG) |
 | {{simisimio\|r}} | verb | set up, stack (many) | Keita 1979, p. 113 |
-| {{vowvo}} | verb | put into, pour into — *Southern Kissi (Childs 2000) :* put on, wear, fasten | [GEN.42.25](https://www.bible.com/bible/1394/GEN.42.25.BKG) |
-| {{yiiyo}} | verb | establish, make (covenant); set, put; hatch (a plot) — *Southern Kissi (Childs 2000) :* tie up, wrap; make a charm | [GEN.26.28](https://www.bible.com/bible/1394/GEN.26.28.BKG) |
+| {{vowvo}} | verb | put into, pour into — *Southern Kissi (Childs 2000) :* put on, wear, fasten | [Gen 42:25](https://www.bible.com/bible/1394/GEN.42.25.BKG) |
+| {{yiiyo}} | verb | establish, make (covenant); set, put; hatch (a plot) — *Southern Kissi (Childs 2000) :* tie up, wrap; make a charm | [Gen 26:28](https://www.bible.com/bible/1394/GEN.26.28.BKG) |
 
 ### 7.6 Hide
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{viannan}} | adjective | hidden, secret; of refuge | [DEU.4.43](https://www.bible.com/bible/1394/DEU.4.43.BKG) |
-| {{vionnɔnndo}} | verb | hide oneself; refuge | [EXO.2.3](https://www.bible.com/bible/1394/EXO.2.3.BKG) |
-| {{vionɔɔ}} | verb | hide (something) | [EXO.2.2](https://www.bible.com/bible/1394/EXO.2.2.BKG) |
+| {{viannan}} | adjective | hidden, secret; of refuge | [Deut 4:43](https://www.bible.com/bible/1394/DEU.4.43.BKG) |
+| {{vionnɔnndo}} | verb | hide oneself; refuge | [Exod 2:3](https://www.bible.com/bible/1394/EXO.2.3.BKG) |
+| {{vionɔɔ}} | verb | hide (something) | [Exod 2:2](https://www.bible.com/bible/1394/EXO.2.2.BKG) |
 
 ### 7.6.1 Search
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{buulanndo}} | verb | seek, look for; consult | [GEN.32.12](https://www.bible.com/bible/1394/GEN.32.12.BKG) |
+| {{buulanndo}} | verb | seek, look for; consult | [Gen 32:12](https://www.bible.com/bible/1394/GEN.32.12.BKG) |
 | {{nuufiaa\|r}} | verb | search, look for | Keita 1979, p. 113 |
-| {{nuwviaa}} | verb | seek, look for; provide — *Southern Kissi (Childs 2000) :* plural of nùùwàá 'look for': search, seek | [GEN.26.22](https://www.bible.com/bible/1394/GEN.26.22.BKG) |
-| {{yaasiaa}} | verb | search, examine — *Southern Kissi (Childs 2000) :* inspect, search | [GEN.31.32](https://www.bible.com/bible/1394/GEN.31.32.BKG) |
+| {{nuwviaa}} | verb | seek, look for; provide — *Southern Kissi (Childs 2000) :* plural of nùùwàá 'look for': search, seek | [Gen 26:22](https://www.bible.com/bible/1394/GEN.26.22.BKG) |
+| {{yaasiaa}} | verb | search, examine — *Southern Kissi (Childs 2000) :* inspect, search | [Gen 31:32](https://www.bible.com/bible/1394/GEN.31.32.BKG) |
 
 ### 7.6.2 Find
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{komal}} | verb | find, come upon; see | [GEN.9.22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
-| {{saalɔnndo}} | verb | find | [GEN.19.11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
+| {{komal}} | verb | find, come upon; see | [Gen 9:22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
+| {{saalɔnndo}} | verb | find | [Gen 19:11](https://www.bible.com/bible/1394/GEN.19.11.BKG) |
 
 ### 7.6.3 Lose, misplace
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{luusian}} | verb | wander, go astray; be lost — *Southern Kissi (Childs 2000) :* play tricks, act foolishly; get lost, go missing | [GEN.21.14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{luusian}} | verb | wander, go astray; be lost — *Southern Kissi (Childs 2000) :* play tricks, act foolishly; get lost, go missing | [Gen 21:14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
 
 ### 7.7.1 Hit
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{boŋaa\|?}} | verb | make stumble; snare; slap (Keita) — *Southern Kissi (Childs 2000) :* trip, stumble, stub one's toe; knock, strike | Keita 1979, p. 110 |
-| {{cukɔɔ}} | verb | prick, pierce — *Southern Kissi (Childs 2000) :* prick (as a thorn) | [1SA.19.10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
-| {{lɔaa}} | verb | strike, beat; play (an instrument) ; strike, beat; play (an instrument); knock — *Southern Kissi (Childs 2000) :* hit, beat, strike | [GEN.4.21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
-| {{lɔɔnɔnndo}} | verb | beat oneself | [ISA.51.22](https://www.bible.com/bible/1394/ISA.51.22.BKG) |
-| {{soŋɔɔ}} | verb | strike, smite; punish | [GEN.14.15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
-| {{vii}} | verb | stone (vii … a powtan) | [EXO.17.4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
-| {{viɔw}} | verb | knock, strike; shoot | [NUM.35.22](https://www.bible.com/bible/1394/NUM.35.22.BKG) |
-| {{yɔŋul}} | verb | injure, harm, wound — *Southern Kissi (Childs 2000) :* poison, wound, harm | [LEV.24.19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
+| {{cukɔɔ}} | verb | prick, pierce — *Southern Kissi (Childs 2000) :* prick (as a thorn) | [1 Sam 19:10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
+| {{lɔaa}} | verb | strike, beat; play (an instrument) ; strike, beat; play (an instrument); knock — *Southern Kissi (Childs 2000) :* hit, beat, strike | [Gen 4:21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
+| {{lɔɔnɔnndo}} | verb | beat oneself | [Isa 51:22](https://www.bible.com/bible/1394/ISA.51.22.BKG) |
+| {{soŋɔɔ}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{vii}} | verb | stone (vii … a powtan) | [Exod 17:4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
+| {{viɔw}} | verb | knock, strike; shoot | [Num 35:22](https://www.bible.com/bible/1394/NUM.35.22.BKG) |
+| {{yɔŋul}} | verb | injure, harm, wound — *Southern Kissi (Childs 2000) :* poison, wound, harm | [Lev 24:19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
 
 ### 7.7.5 Rub
 
@@ -2715,55 +2715,55 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{susaa\|r}} | verb | rub — *Southern Kissi (Childs 2000) :* scrape | Keita 1979, p. 113 |
 | {{susanndo\|r}} | verb | rub oneself | Keita 1979, p. 113 |
-| {{suusiaa}} | verb | scour, rub repeatedly | [LEV.6.21](https://www.bible.com/bible/1394/LEV.6.21.BKG) |
-| {{ɲasɔɔ}} | verb | scratch — *Southern Kissi (Childs 2000) :* scratch, make marks | [DAN.6.24](https://www.bible.com/bible/1394/DAN.6.24.BKG) |
+| {{suusiaa}} | verb | scour, rub repeatedly | [Lev 6:21](https://www.bible.com/bible/1394/LEV.6.21.BKG) |
+| {{ɲasɔɔ}} | verb | scratch — *Southern Kissi (Childs 2000) :* scratch, make marks | [Dan 6:24](https://www.bible.com/bible/1394/DAN.6.24.BKG) |
 | {{ɲasɔɔnndo\|r}} | verb | scratch oneself | Keita 1979, p. 114 |
 
 ### 7.8 Divide into pieces
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{piɔvan}} | verb | be divided, divide (intr.) — *Southern Kissi (Childs 2000) :* share oneself, contribute one's time and effort | [GEN.2.10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
-| {{piɔwvo}} | verb | divide, share out — *Southern Kissi (Childs 2000) :* distribute, share | [GEN.10.25](https://www.bible.com/bible/1394/GEN.10.25.BKG) |
-| {{sɛi}} | verb | separate — *Southern Kissi (Childs 2000) :* separate, ostracize; branch off, turn off a path | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{tɛndaa}} | verb | split, divide; (with seilen) testify — *Southern Kissi (Childs 2000) :* split, cut open | [LEV.5.1](https://www.bible.com/bible/1394/LEV.5.1.BKG) |
+| {{piɔvan}} | verb | be divided, divide (intr.) — *Southern Kissi (Childs 2000) :* share oneself, contribute one's time and effort | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{piɔwvo}} | verb | divide, share out — *Southern Kissi (Childs 2000) :* distribute, share | [Gen 10:25](https://www.bible.com/bible/1394/GEN.10.25.BKG) |
+| {{sɛi}} | verb | separate — *Southern Kissi (Childs 2000) :* separate, ostracize; branch off, turn off a path | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{tɛndaa}} | verb | split, divide; (with seilen) testify — *Southern Kissi (Childs 2000) :* split, cut open | [Lev 5:1](https://www.bible.com/bible/1394/LEV.5.1.BKG) |
 
 ### 7.8.1 Break
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pesi}} | verb | break — *Southern Kissi (Childs 2000) :* break (several things) | [EXO.32.20](https://www.bible.com/bible/1394/EXO.32.20.BKG) |
-| {{pesipesi}} | verb | break into pieces, smash | [EXO.23.24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
-| {{piɔlɔɔ}} | verb | break, crush; pronounce (a name) | [GEN.48.20](https://www.bible.com/bible/1394/GEN.48.20.BKG) |
-| {{yimi}} | verb | break, crush — *Southern Kissi (Childs 2000) :* break into small pieces | [NUM.24.8](https://www.bible.com/bible/1394/NUM.24.8.BKG) |
-| {{yomɔɔ}} | verb | break in two — *Southern Kissi (Childs 2000) :* break | [SNG.4.9](https://www.bible.com/bible/1394/SNG.4.9.BKG) |
+| {{pesi}} | verb | break — *Southern Kissi (Childs 2000) :* break (several things) | [Exod 32:20](https://www.bible.com/bible/1394/EXO.32.20.BKG) |
+| {{pesipesi}} | verb | break into pieces, smash | [Exod 23:24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
+| {{piɔlɔɔ}} | verb | break, crush; pronounce (a name) | [Gen 48:20](https://www.bible.com/bible/1394/GEN.48.20.BKG) |
+| {{yimi}} | verb | break, crush — *Southern Kissi (Childs 2000) :* break into small pieces | [Num 24:8](https://www.bible.com/bible/1394/NUM.24.8.BKG) |
+| {{yomɔɔ}} | verb | break in two — *Southern Kissi (Childs 2000) :* break | [Song 4:9](https://www.bible.com/bible/1394/SNG.4.9.BKG) |
 
 ### 7.8.3 Cut
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kili}} | verb | cut, cut off — *Southern Kissi (Childs 2000) :* cut many things, cut into small pieces | [GEN.49.6](https://www.bible.com/bible/1394/GEN.49.6.BKG) |
-| {{kilikilio}} | verb | cut into pieces | [1SA.11.7](https://www.bible.com/bible/1394/1SA.11.7.BKG) |
-| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [GEN.6.13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
+| {{kili}} | verb | cut, cut off — *Southern Kissi (Childs 2000) :* cut many things, cut into small pieces | [Gen 49:6](https://www.bible.com/bible/1394/GEN.49.6.BKG) |
+| {{kilikilio}} | verb | cut into pieces | [1 Sam 11:7](https://www.bible.com/bible/1394/1SA.11.7.BKG) |
+| {{kiolɔɔ}} | verb | cut; decide (a case), judge ; decide, settle — *Southern Kissi (Childs 2000) :* cut, remove | [Gen 6:13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
 | {{kiŋikiŋio\|r}} | verb | cut up | Keita 1979, p. 110 |
 | {{kɛɛyaa\|r}} | verb | trim, cut, reduce — *Southern Kissi (Childs 2000) :* cut (nails), operate on; clean the tapping hole of a palm-wine tree | Keita 1979, p. 110 |
-| {{sialaa}} | verb | cut, engrave (stone) | [2SA.5.11](https://www.bible.com/bible/1394/2SA.5.11.BKG) |
+| {{sialaa}} | verb | cut, engrave (stone) | [2 Sam 5:11](https://www.bible.com/bible/1394/2SA.5.11.BKG) |
 
 ### 7.8.4 Tear, rip
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{sɛɛsaa}} | verb | tear — *Southern Kissi (Childs 2000) :* tear, rip apart; relate | [ECC.3.7](https://www.bible.com/bible/1394/ECC.3.7.BKG) |
-| {{sɛɛsiaa}} | verb | tear (to pieces) | [GEN.37.29](https://www.bible.com/bible/1394/GEN.37.29.BKG) |
+| {{sɛɛsaa}} | verb | tear — *Southern Kissi (Childs 2000) :* tear, rip apart; relate | [Eccl 3:7](https://www.bible.com/bible/1394/ECC.3.7.BKG) |
+| {{sɛɛsiaa}} | verb | tear (to pieces) | [Gen 37:29](https://www.bible.com/bible/1394/GEN.37.29.BKG) |
 
 ### 7.8.5 Make hole, opening
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{cukɔnndo\|r}} | verb | prick oneself | Keita 1979, p. 114 |
-| {{cukɔɔ}} | verb | prick, pierce — *Southern Kissi (Childs 2000) :* prick (as a thorn) | [1SA.19.10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
-| {{soondo}}, pl. {{soonnda}} | noun (o) | hole; well, pit — *Southern Kissi (Childs 2000) :* hole, well | [GEN.29.3](https://www.bible.com/bible/1394/GEN.29.3.BKG) |
-| {{tɛɛngei}}, pl. {{tɛɛngon}} | noun (i) | hole, breach, hollow — *Southern Kissi (Childs 2000) :* hole; burrow (of a rat or squirrel) | [JDG.15.19](https://www.bible.com/bible/1394/JDG.15.19.BKG) |
+| {{cukɔɔ}} | verb | prick, pierce — *Southern Kissi (Childs 2000) :* prick (as a thorn) | [1 Sam 19:10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
+| {{soondo}}, pl. {{soonnda}} | noun (o) | hole; well, pit — *Southern Kissi (Childs 2000) :* hole, well | [Gen 29:3](https://www.bible.com/bible/1394/GEN.29.3.BKG) |
+| {{tɛɛngei}}, pl. {{tɛɛngon}} | noun (i) | hole, breach, hollow — *Southern Kissi (Childs 2000) :* hole; burrow (of a rat or squirrel) | [Judg 15:19](https://www.bible.com/bible/1394/JDG.15.19.BKG) |
 
 ### 7.8.6 Dig
 
@@ -2775,30 +2775,30 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{laasiaa}} | verb | corrupt, ruin; confuse (languages) — *Southern Kissi (Childs 2000) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [GEN.11.9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
+| {{laasiaa}} | verb | corrupt, ruin; confuse (languages) — *Southern Kissi (Childs 2000) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [Gen 11:9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
 
 ### 7.9.3 Destroy
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛŋio}} | verb | knock out, pull out, dismantle — *Southern Kissi (Childs 2000) :* come out (as a blade from its handle) | [GEN.19.9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
-| {{itambu}} | noun | ruin, nothingness; (cuu itambu) come to ruin | [NUM.21.30](https://www.bible.com/bible/1394/NUM.21.30.BKG) |
-| {{kombaa}} | verb | fell, knock down — *Southern Kissi (Childs 2000) :* cut down | [DEU.19.5](https://www.bible.com/bible/1394/DEU.19.5.BKG) |
-| {{kombiaa}} | verb | fell, overthrow (many) | [2SA.12.31](https://www.bible.com/bible/1394/2SA.12.31.BKG) |
-| {{pesipesi}} | verb | break into pieces, smash | [EXO.23.24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
-| {{tambu}} | verb | be ruined, laid waste; (tambu kɔl) be downcast, angry — *Southern Kissi (Childs 2000) :* be ruined, wrecked; rot, spoil; be poor | [GEN.4.5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
-| {{tɛɛmbua}} | adjective | destroying, destroyer | [EXO.12.13](https://www.bible.com/bible/1394/EXO.12.13.BKG) |
-| {{tɛɛmbuuo}} | verb | destroy; break, transgress (a law) — *Southern Kissi (Childs 2000) :* plural of tàmbéí 'be ruined': spoil, break, misuse | [GEN.19.13](https://www.bible.com/bible/1394/GEN.19.13.BKG) |
-| {{ɲumi}} | verb | wipe out, blot out | [EXO.32.32](https://www.bible.com/bible/1394/EXO.32.32.BKG) |
+| {{bɛŋio}} | verb | knock out, pull out, dismantle — *Southern Kissi (Childs 2000) :* come out (as a blade from its handle) | [Gen 19:9](https://www.bible.com/bible/1394/GEN.19.9.BKG) |
+| {{itambu}} | noun | ruin, nothingness; (cuu itambu) come to ruin | [Num 21:30](https://www.bible.com/bible/1394/NUM.21.30.BKG) |
+| {{kombaa}} | verb | fell, knock down — *Southern Kissi (Childs 2000) :* cut down | [Deut 19:5](https://www.bible.com/bible/1394/DEU.19.5.BKG) |
+| {{kombiaa}} | verb | fell, overthrow (many) | [2 Sam 12:31](https://www.bible.com/bible/1394/2SA.12.31.BKG) |
+| {{pesipesi}} | verb | break into pieces, smash | [Exod 23:24](https://www.bible.com/bible/1394/EXO.23.24.BKG) |
+| {{tambu}} | verb | be ruined, laid waste; (tambu kɔl) be downcast, angry — *Southern Kissi (Childs 2000) :* be ruined, wrecked; rot, spoil; be poor | [Gen 4:5](https://www.bible.com/bible/1394/GEN.4.5.BKG) |
+| {{tɛɛmbua}} | adjective | destroying, destroyer | [Exod 12:13](https://www.bible.com/bible/1394/EXO.12.13.BKG) |
+| {{tɛɛmbuuo}} | verb | destroy; break, transgress (a law) — *Southern Kissi (Childs 2000) :* plural of tàmbéí 'be ruined': spoil, break, misuse | [Gen 19:13](https://www.bible.com/bible/1394/GEN.19.13.BKG) |
+| {{ɲumi}} | verb | wipe out, blot out | [Exod 32:32](https://www.bible.com/bible/1394/EXO.32.32.BKG) |
 
 ### 7.9.4 Repair
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛɛndiaa}} | verb | prepare, make ready; set right | [GEN.14.14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
-| {{mingio}} | verb | repair, restore; avenge — *Southern Kissi (Childs 2000) :* return, go back; retaliate, replace | [GEN.4.24](https://www.bible.com/bible/1394/GEN.4.24.BKG) |
+| {{bɛɛndiaa}} | verb | prepare, make ready; set right | [Gen 14:14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
+| {{mingio}} | verb | repair, restore; avenge — *Southern Kissi (Childs 2000) :* return, go back; retaliate, replace | [Gen 4:24](https://www.bible.com/bible/1394/GEN.4.24.BKG) |
 | {{tooluo\|?}} | verb | arrange, repair; provide for — *Southern Kissi (Childs 2000) :* assist, help | Keita 1979, p. 113 |
-| {{toosiaa}} | verb | make, prepare; repair (Keita) | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{toosiaa}} | verb | make, prepare; repair (Keita) | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 
 ## 8. States
 
@@ -2806,228 +2806,228 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{pum}} | determiner | a certain, some | [GEN.2.10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
-| {{sɛ́lɛ́}} | adjective | many, numerous | [GEN.16.10](https://www.bible.com/bible/1394/GEN.16.10.BKG) |
-| {{táláá}} | noun | half | [EXO.24.6](https://www.bible.com/bible/1394/EXO.24.6.BKG) |
-| {{tiw}} | verb | be enough, have room for; master, overcome — *Southern Kissi (Childs 2000) :* spread throughout; be enough, suffice; fit | [GEN.4.7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
-| {{tɔ̀a}} | determiner | the others | [GEN.4.15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
+| {{pum}} | determiner | a certain, some | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{sɛ́lɛ́}} | adjective | many, numerous | [Gen 16:10](https://www.bible.com/bible/1394/GEN.16.10.BKG) |
+| {{táláá}} | noun | half | [Exod 24:6](https://www.bible.com/bible/1394/EXO.24.6.BKG) |
+| {{tiw}} | verb | be enough, have room for; master, overcome — *Southern Kissi (Childs 2000) :* spread throughout; be enough, suffice; fit | [Gen 4:7](https://www.bible.com/bible/1394/GEN.4.7.BKG) |
+| {{tɔ̀a}} | determiner | the others | [Gen 4:15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
 
 ### 8.1.1 Number
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{belaŋɔmaa}} | numeral | eighty | [GEN.5.25](https://www.bible.com/bible/1394/GEN.5.25.BKG) |
-| {{belaŋɔmahiɔɔlu}} | numeral | ninety | [GEN.5.9](https://www.bible.com/bible/1394/GEN.5.9.BKG) |
-| {{belaŋɔmmɛw}} | numeral | seventy | [GEN.4.24](https://www.bible.com/bible/1394/GEN.4.24.BKG) |
-| {{belaŋɔmpum}} | numeral | sixty | [GEN.5.15](https://www.bible.com/bible/1394/GEN.5.15.BKG) |
-| {{belehiɔɔlu}} | numeral | forty | [GEN.5.13](https://www.bible.com/bible/1394/GEN.5.13.BKG) |
-| {{beleyaa}} | numeral | thirty | [GEN.5.3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
-| {{beleŋuɛɛnu}} | numeral | fifty | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{bidiin}} | numeral | twenty | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{diinndɔɔ}} | numeral | second | [GEN.4.19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
-| {{hiɔɔlu}} | numeral | four | [GEN.2.10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
-| {{kɛmɛ}} | numeral | hundred | [GEN.5.3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
-| {{pilɛ}} | numeral | one | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{tasoo}} | numeral | first | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{tiɔn}} | numeral | two | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{tɔ́}} | numeral | ten | [GEN.5.8](https://www.bible.com/bible/1394/GEN.5.8.BKG) |
-| {{tɔ́ndɔɔ}} | numeral | tenth; tithe | [GEN.28.22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
-| {{vaa}}, pl. {{valan}} | numeral | thousand | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{yaa}} | numeral | three | [GEN.2.19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{yaandɔɔ}} | numeral | third | [GEN.14.4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
-| {{ŋuɛɛnu}} | numeral | five | [GEN.14.9](https://www.bible.com/bible/1394/GEN.14.9.BKG) |
-| {{ŋuɛɛnundɔɔ}} | numeral | fifth | [GEN.30.17](https://www.bible.com/bible/1394/GEN.30.17.BKG) |
-| {{ŋɔmaa}} | numeral | eight | [GEN.14.14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
-| {{ŋɔmaandɔɔ}} | numeral | eighth | [EXO.10](https://www.bible.com/bible/1394/EXO.10.BKG) |
-| {{ŋɔmahiɔɔlu}} | numeral | nine | [NUM.29.26](https://www.bible.com/bible/1394/NUM.29.26.BKG) |
-| {{ŋɔmahiɔɔlundɔɔ}} | numeral | ninth | [EXO.10](https://www.bible.com/bible/1394/EXO.10.BKG) |
-| {{ŋɔmmɛw}} | numeral | seven | [GEN.4.15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
-| {{ŋɔmmɛwndɔɔ}} | numeral | seventh | [EXO.9](https://www.bible.com/bible/1394/EXO.9.BKG) |
-| {{ŋɔmpum}} | numeral | six | [GEN.30.20](https://www.bible.com/bible/1394/GEN.30.20.BKG) |
-| {{ŋɔmpumndɔɔ}} | numeral | sixth | [GEN.30.19](https://www.bible.com/bible/1394/GEN.30.19.BKG) |
+| {{belaŋɔmaa}} | numeral | eighty | [Gen 5:25](https://www.bible.com/bible/1394/GEN.5.25.BKG) |
+| {{belaŋɔmahiɔɔlu}} | numeral | ninety | [Gen 5:9](https://www.bible.com/bible/1394/GEN.5.9.BKG) |
+| {{belaŋɔmmɛw}} | numeral | seventy | [Gen 4:24](https://www.bible.com/bible/1394/GEN.4.24.BKG) |
+| {{belaŋɔmpum}} | numeral | sixty | [Gen 5:15](https://www.bible.com/bible/1394/GEN.5.15.BKG) |
+| {{belehiɔɔlu}} | numeral | forty | [Gen 5:13](https://www.bible.com/bible/1394/GEN.5.13.BKG) |
+| {{beleyaa}} | numeral | thirty | [Gen 5:3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
+| {{beleŋuɛɛnu}} | numeral | fifty | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{bidiin}} | numeral | twenty | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{diinndɔɔ}} | numeral | second | [Gen 4:19](https://www.bible.com/bible/1394/GEN.4.19.BKG) |
+| {{hiɔɔlu}} | numeral | four | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{kɛmɛ}} | numeral | hundred | [Gen 5:3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
+| {{pilɛ}} | numeral | one | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{tasoo}} | numeral | first | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{tiɔn}} | numeral | two | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɔ́}} | numeral | ten | [Gen 5:8](https://www.bible.com/bible/1394/GEN.5.8.BKG) |
+| {{tɔ́ndɔɔ}} | numeral | tenth; tithe | [Gen 28:22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
+| {{vaa}}, pl. {{valan}} | numeral | thousand | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{yaa}} | numeral | three | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{yaandɔɔ}} | numeral | third | [Gen 14:4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
+| {{ŋuɛɛnu}} | numeral | five | [Gen 14:9](https://www.bible.com/bible/1394/GEN.14.9.BKG) |
+| {{ŋuɛɛnundɔɔ}} | numeral | fifth | [Gen 30:17](https://www.bible.com/bible/1394/GEN.30.17.BKG) |
+| {{ŋɔmaa}} | numeral | eight | [Gen 14:14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
+| {{ŋɔmaandɔɔ}} | numeral | eighth | [Exod 10](https://www.bible.com/bible/1394/EXO.10.BKG) |
+| {{ŋɔmahiɔɔlu}} | numeral | nine | [Num 29:26](https://www.bible.com/bible/1394/NUM.29.26.BKG) |
+| {{ŋɔmahiɔɔlundɔɔ}} | numeral | ninth | [Exod 10](https://www.bible.com/bible/1394/EXO.10.BKG) |
+| {{ŋɔmmɛw}} | numeral | seven | [Gen 4:15](https://www.bible.com/bible/1394/GEN.4.15.BKG) |
+| {{ŋɔmmɛwndɔɔ}} | numeral | seventh | [Exod 9](https://www.bible.com/bible/1394/EXO.9.BKG) |
+| {{ŋɔmpum}} | numeral | six | [Gen 30:20](https://www.bible.com/bible/1394/GEN.30.20.BKG) |
+| {{ŋɔmpumndɔɔ}} | numeral | sixth | [Gen 30:19](https://www.bible.com/bible/1394/GEN.30.19.BKG) |
 
 ### 8.1.2 Count
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔmndo}} | verb | count, number; indicate, show — *Southern Kissi (Childs 2000) :* show, point out; also reveal, explain; count | [GEN.13.16](https://www.bible.com/bible/1394/GEN.13.16.BKG) |
+| {{cɔmndo}} | verb | count, number; indicate, show — *Southern Kissi (Childs 2000) :* show, point out; also reveal, explain; count | [Gen 13:16](https://www.bible.com/bible/1394/GEN.13.16.BKG) |
 
 ### 8.1.4 More
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔɔlu}} | verb | add, increase; continue, do again | [GEN.9.12](https://www.bible.com/bible/1394/GEN.9.12.BKG) |
-| {{hiovɔɔ}} | verb | pass, surpass ; pass; exceed, surpass — *Southern Kissi (Childs 2000) :* go by, pass | [GEN.4.3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
-| {{hiw}} | verb | exceed, go beyond | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{kui}} | verb | multiply, increase | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{vangala}} | verb | multiply, make numerous | [EXO.11.9](https://www.bible.com/bible/1394/EXO.11.9.BKG) |
+| {{cɔɔlu}} | verb | add, increase; continue, do again | [Gen 9:12](https://www.bible.com/bible/1394/GEN.9.12.BKG) |
+| {{hiovɔɔ}} | verb | pass, surpass ; pass; exceed, surpass — *Southern Kissi (Childs 2000) :* go by, pass | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
+| {{hiw}} | verb | exceed, go beyond | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{kui}} | verb | multiply, increase | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{vangala}} | verb | multiply, make numerous | [Exod 11:9](https://www.bible.com/bible/1394/EXO.11.9.BKG) |
 
 ### 8.1.5 All
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{faw}} | adverb | all, completely | [GEN.8.17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
-| {{kpede}} | determiner | all, every one | [GEN.7.22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
-| {{kposon}} | adverb | all, entirely; always | [GEN.8.21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
-| {{kpow}} | determiner | all, whole | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
-| {{oo}} | particle | every, any (between a repeated noun: X oo X) | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{yɛɛvɛ}} | adverb | all, completely | [GEN.6.17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
+| {{faw}} | adverb | all, completely | [Gen 8:17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
+| {{kpede}} | determiner | all, every one | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{kposon}} | adverb | all, entirely; always | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| {{kpow}} | determiner | all, whole | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{oo}} | particle | every, any (between a repeated noun: X oo X) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{yɛɛvɛ}} | adverb | all, completely | [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
 
 ### 8.1.8 Full
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fondoo}} | adjective | empty, bare; vain, worthless — *Southern Kissi (Childs 2000) :* dry (well), empty, bare, worthless; (with negation) at all | [EXO.23.3](https://www.bible.com/bible/1394/EXO.23.3.BKG) |
-| {{pei}} | verb | fill | [GEN.1.28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
-| {{piaa}} | verb | be full, filled (o piaa cá a … 'full of …') | [EXO.16.3](https://www.bible.com/bible/1394/EXO.16.3.BKG) |
+| {{fondoo}} | adjective | empty, bare; vain, worthless — *Southern Kissi (Childs 2000) :* dry (well), empty, bare, worthless; (with negation) at all | [Exod 23:3](https://www.bible.com/bible/1394/EXO.23.3.BKG) |
+| {{pei}} | verb | fill | [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+| {{piaa}} | verb | be full, filled (o piaa cá a … 'full of …') | [Exod 16:3](https://www.bible.com/bible/1394/EXO.16.3.BKG) |
 
 ### 8.2 Big
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{buo}} | noun | width | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{bɛndoo}} | adjective | big, great; important | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{buo}} | noun | width | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{bɛndoo}} | adjective | big, great; important | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
 
 ### 8.2.2 Long
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bingi}} | adjective | short; (telen bingi) a short while — *Southern Kissi (Childs 2000) :* short; also little, small | [GEN.12.10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
-| {{helɔɔ}} | verb | go up, climb; height — *Southern Kissi (Childs 2000) :* climb, go up, rise; also mount, breed (animals) | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{yingilaa}} | adjective | deep; depth — *Southern Kissi (Childs 2000) :* be deep (verb) | [GEN.37.20](https://www.bible.com/bible/1394/GEN.37.20.BKG) |
+| {{bingi}} | adjective | short; (telen bingi) a short while — *Southern Kissi (Childs 2000) :* short; also little, small | [Gen 12:10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
+| {{helɔɔ}} | verb | go up, climb; height — *Southern Kissi (Childs 2000) :* climb, go up, rise; also mount, breed (animals) | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{yingilaa}} | adjective | deep; depth — *Southern Kissi (Childs 2000) :* be deep (verb) | [Gen 37:20](https://www.bible.com/bible/1394/GEN.37.20.BKG) |
 
 ### 8.2.6 Distance
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kpɛɛlun}} | adverb | near | [LEV.25.49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
-| {{lándán}} | adverb | far off, further on (levil lándán 'far away') | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{levil}} | adverb | far, far away; (lɔ́ɔ́ levil) long ago | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{macɛlu}} | adverb | far, far away | [GEN.19.20](https://www.bible.com/bible/1394/GEN.19.20.BKG) |
+| {{kpɛɛlun}} | adverb | near | [Lev 25:49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
+| {{lándán}} | adverb | far off, further on (levil lándán 'far away') | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{levil}} | adverb | far, far away; (lɔ́ɔ́ levil) long ago | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{macɛlu}} | adverb | far, far away | [Gen 19:20](https://www.bible.com/bible/1394/GEN.19.20.BKG) |
 
 ### 8.2.8 Measure
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bandei}} | noun (i) | cubit; measure, limit — *Southern Kissi (Childs 2000) :* (verb) be tall; height, length | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{dunndo}} | noun | measure (of length) | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{kiloo}}, pl. {{kilolan}} | noun | kilo (measure of weight) | [GEN.18.6](https://www.bible.com/bible/1394/GEN.18.6.BKG) |
-| {{latámán}} | noun | shekel | [GEN.20.16](https://www.bible.com/bible/1394/GEN.20.16.BKG) |
-| {{litilio}}, pl. {{litililan}} | noun | litre (measure) | [EXO.16.16](https://www.bible.com/bible/1394/EXO.16.16.BKG) |
-| {{lusullo}} | verb | be heavy; weight | [EXO.14.25](https://www.bible.com/bible/1394/EXO.14.25.BKG) |
-| {{piasaa}} | verb | spread apart, extend; (noun) span | [EXO.28.16](https://www.bible.com/bible/1394/EXO.28.16.BKG) |
-| {{simndan}} | noun | height | [GEN.6.15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
-| {{tuuvo}} | verb | measure; plan — *Southern Kissi (Childs 2000) :* plan (middle of tùùwó 'measure') | [EXO.25](https://www.bible.com/bible/1394/EXO.25.BKG) |
+| {{bandei}} | noun (i) | cubit; measure, limit — *Southern Kissi (Childs 2000) :* (verb) be tall; height, length | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{dunndo}} | noun | measure (of length) | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{kiloo}}, pl. {{kilolan}} | noun | kilo (measure of weight) | [Gen 18:6](https://www.bible.com/bible/1394/GEN.18.6.BKG) |
+| {{latámán}} | noun | shekel | [Gen 20:16](https://www.bible.com/bible/1394/GEN.20.16.BKG) |
+| {{litilio}}, pl. {{litililan}} | noun | litre (measure) | [Exod 16:16](https://www.bible.com/bible/1394/EXO.16.16.BKG) |
+| {{lusullo}} | verb | be heavy; weight | [Exod 14:25](https://www.bible.com/bible/1394/EXO.14.25.BKG) |
+| {{piasaa}} | verb | spread apart, extend; (noun) span | [Exod 28:16](https://www.bible.com/bible/1394/EXO.28.16.BKG) |
+| {{simndan}} | noun | height | [Gen 6:15](https://www.bible.com/bible/1394/GEN.6.15.BKG) |
+| {{tuuvo}} | verb | measure; plan — *Southern Kissi (Childs 2000) :* plan (middle of tùùwó 'measure') | [Exod 25](https://www.bible.com/bible/1394/EXO.25.BKG) |
 
 ### 8.3 Quality
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{sɛnɛiyo}} | adjective | new — *Southern Kissi (Childs 2000) :* new, fresh | [EXO.6](https://www.bible.com/bible/1394/EXO.6.BKG) |
+| {{sɛnɛiyo}} | adjective | new — *Southern Kissi (Childs 2000) :* new, fresh | [Exod 6](https://www.bible.com/bible/1394/EXO.6.BKG) |
 
 ### 8.3.1 Shape
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{sendu}} | adjective | straight, right (… sendu le 'unjust, crooked') — *Southern Kissi (Childs 2000) :* be straight; be honest; (of a lamp or fire) be bright | [JOB.27.7](https://www.bible.com/bible/1394/JOB.27.7.BKG) |
-| {{velan}} | noun (lan) | image, likeness — *Southern Kissi (Childs 2000) :* resemblances (from wèlǎŋndó 'resemble') | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{yɛ́ndɛ́la}} | adjective | flat (of a stone slab) | [EXO.24.12](https://www.bible.com/bible/1394/EXO.24.12.BKG) |
+| {{sendu}} | adjective | straight, right (… sendu le 'unjust, crooked') — *Southern Kissi (Childs 2000) :* be straight; be honest; (of a lamp or fire) be bright | [Job 27:7](https://www.bible.com/bible/1394/JOB.27.7.BKG) |
+| {{velan}} | noun (lan) | image, likeness — *Southern Kissi (Childs 2000) :* resemblances (from wèlǎŋndó 'resemble') | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{yɛ́ndɛ́la}} | adjective | flat (of a stone slab) | [Exod 24:12](https://www.bible.com/bible/1394/EXO.24.12.BKG) |
 
 ### 8.3.2 Texture
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kaloo}} | adjective | hard; difficult; (nila kalua) stubborn — *Southern Kissi (Childs 2000) :* hard, difficult; also sharp, strong, effective; ripe | [DEU.21](https://www.bible.com/bible/1394/DEU.21.BKG) |
+| {{kaloo}} | adjective | hard; difficult; (nila kalua) stubborn — *Southern Kissi (Childs 2000) :* hard, difficult; also sharp, strong, effective; ripe | [Deut 21](https://www.bible.com/bible/1394/DEU.21.BKG) |
 
 ### 8.3.3 Light
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{humboo}} | adjective | white; (volin humbon) silver | [LEV.13.24](https://www.bible.com/bible/1394/LEV.13.24.BKG) |
-| {{kaan}} | noun | indigo; blue — *Southern Kissi (Childs 2000) :* indigo tree and the dark blue dye from its bark | [EXO.25.4](https://www.bible.com/bible/1394/EXO.25.4.BKG) |
-| {{kiyɛiyo}} | adjective | living, alive; green, fresh — *Southern Kissi (Childs 2000) :* uncooked, fresh | [GEN.1.12](https://www.bible.com/bible/1394/GEN.1.12.BKG) |
-| {{lafitinaa}} | noun | lamp, light | [EXO.25.6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
-| {{levundu}} | noun | shadow; (o levundu nin) in riddles | [NUM.12.8](https://www.bible.com/bible/1394/NUM.12.8.BKG) |
-| {{pangeloo}} | noun (o) | glow, light; splendour — *Southern Kissi (Childs 2000) :* brightness, light, especially coming from afar | [EXO.14.20](https://www.bible.com/bible/1394/EXO.14.20.BKG) |
-| {{siaŋaa}} | adjective | red; scarlet — *Southern Kissi (Childs 2000) :* red, yellow; ripe; light-skinned | [GEN.25.30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
-| {{teengiaa}} | verb | light up, make shine | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{tengaa}} | verb | shine, give light — *Southern Kissi (Childs 2000) :* (noun) an illuminated place, as lit up by a torch or lightning | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{tɛngɛ}} | noun | lamp, torch | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{vólotótoo}}, pl. {{vólotótolan}} | adjective | purple | [EXO.26.1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
-| {{vunduan}} | noun (an) | shade, shadows (plural of vundulen) — *Southern Kissi (Childs 2000) :* plural (ma) of 'shade, shadow'; also the soul, an umbrella, an illustration | [JOB.7.2](https://www.bible.com/bible/1394/JOB.7.2.BKG) |
-| {{vundulen}} | noun (len) | shadow, shade — *Southern Kissi (Childs 2000) :* shade, shadow; the soul of a person | [GEN.15.1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
-| {{ɲumndan}} | noun | darkness | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{ɲumndo}} | verb | go out (fire, lamp); fade | [LEV.13.6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
-| {{ɲɛ-tengaa}} | noun | light | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{humboo}} | adjective | white; (volin humbon) silver | [Lev 13:24](https://www.bible.com/bible/1394/LEV.13.24.BKG) |
+| {{kaan}} | noun | indigo; blue — *Southern Kissi (Childs 2000) :* indigo tree and the dark blue dye from its bark | [Exod 25:4](https://www.bible.com/bible/1394/EXO.25.4.BKG) |
+| {{kiyɛiyo}} | adjective | living, alive; green, fresh — *Southern Kissi (Childs 2000) :* uncooked, fresh | [Gen 1:12](https://www.bible.com/bible/1394/GEN.1.12.BKG) |
+| {{lafitinaa}} | noun | lamp, light | [Exod 25:6](https://www.bible.com/bible/1394/EXO.25.6.BKG) |
+| {{levundu}} | noun | shadow; (o levundu nin) in riddles | [Num 12:8](https://www.bible.com/bible/1394/NUM.12.8.BKG) |
+| {{pangeloo}} | noun (o) | glow, light; splendour — *Southern Kissi (Childs 2000) :* brightness, light, especially coming from afar | [Exod 14:20](https://www.bible.com/bible/1394/EXO.14.20.BKG) |
+| {{siaŋaa}} | adjective | red; scarlet — *Southern Kissi (Childs 2000) :* red, yellow; ripe; light-skinned | [Gen 25:30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
+| {{teengiaa}} | verb | light up, make shine | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{tengaa}} | verb | shine, give light — *Southern Kissi (Childs 2000) :* (noun) an illuminated place, as lit up by a torch or lightning | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{tɛngɛ}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{vólotótoo}}, pl. {{vólotótolan}} | adjective | purple | [Exod 26:1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
+| {{vunduan}} | noun (an) | shade, shadows (plural of vundulen) — *Southern Kissi (Childs 2000) :* plural (ma) of 'shade, shadow'; also the soul, an umbrella, an illustration | [Job 7:2](https://www.bible.com/bible/1394/JOB.7.2.BKG) |
+| {{vundulen}} | noun (len) | shadow, shade — *Southern Kissi (Childs 2000) :* shade, shadow; the soul of a person | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
+| {{ɲumndan}} | noun | darkness | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{ɲumndo}} | verb | go out (fire, lamp); fade | [Lev 13:6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
+| {{ɲɛ-tengaa}} | noun | light | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
 
 ### 8.3.4 Hot
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [GEN.7.22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
+| {{hoeiye}} | noun (i) | cold; breath, wind; malaria, flu ; air, wind; cold; breath — *Southern Kissi (Childs 2000) :* cold, cold wind; cold dry season; fever | [Gen 7:22](https://www.bible.com/bible/1394/GEN.7.22.BKG) |
 
 ### 8.3.5 Type, kind
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{celen}} | determiner | other, another | [GEN.4.25](https://www.bible.com/bible/1394/GEN.4.25.BKG) |
-| {{mangalaa}} | verb | change; (mangalan) be changed, be different — *Southern Kissi (Childs 2000) :* change (clothes, behaviour); play magic, transform by magic | [GEN.12.2](https://www.bible.com/bible/1394/GEN.12.2.BKG) |
-| {{súú}}, pl. {{súúlan}} | noun | kind, species; people, nation | [GEN.6.19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
+| {{celen}} | determiner | other, another | [Gen 4:25](https://www.bible.com/bible/1394/GEN.4.25.BKG) |
+| {{mangalaa}} | verb | change; (mangalan) be changed, be different — *Southern Kissi (Childs 2000) :* change (clothes, behaviour); play magic, transform by magic | [Gen 12:2](https://www.bible.com/bible/1394/GEN.12.2.BKG) |
+| {{súú}}, pl. {{súúlan}} | noun | kind, species; people, nation | [Gen 6:19](https://www.bible.com/bible/1394/GEN.6.19.BKG) |
 | {{velanndo\|?}} | verb | dry up (Keita); likeness, meaning (Bible) — *Southern Kissi (Childs 2000) :* resemble | Keita 1979, p. 114 |
 
 ### 8.3.7 Good
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fisa}} | adjective | better, preferable (o co fisa 'it is better') | [GEN.29.19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
-| {{fondoo}} | adjective | empty, bare; vain, worthless — *Southern Kissi (Childs 2000) :* dry (well), empty, bare, worthless; (with negation) at all | [EXO.23.3](https://www.bible.com/bible/1394/EXO.23.3.BKG) |
-| {{kendu}} | adjective | difficult, hard | [GEN.18.14](https://www.bible.com/bible/1394/GEN.18.14.BKG) |
-| {{kpeekpeiyo}} | adjective | true, real; one's own | [LEV.27.31](https://www.bible.com/bible/1394/LEV.27.31.BKG) |
-| {{kpeku}} | noun | value, use, profit — *Southern Kissi (Childs 2000) :* work, job, purpose | [GEN.23.15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
-| {{kɛndɔɔ}} | adjective | good; beautiful | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{lenamta}} | noun | blemish, defect (nɔ lenamta loo 'without blemish') — *Southern Kissi (Childs 2000) :* a crippled or handicapped person | [EXO.12.5](https://www.bible.com/bible/1394/EXO.12.5.BKG) |
-| {{naŋɔɔ}} | verb | be good, beautiful, pleasing; goodness, beauty — *Southern Kissi (Childs 2000) :* be good, fine, beautiful; be generous, morally good | [GEN.2.12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
-| {{niŋ}} | verb | be good, be fitting (o niŋ … le 'it is not good that …') | [GEN.2.18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
-| {{palaa}} | adjective | bad, evil; (dɛnɛ palaa) misfortune, woe | [GEN.19.15](https://www.bible.com/bible/1394/GEN.19.15.BKG) |
-| {{sɔvɛɔ}} | adjective | precious, choice, honoured | [GEN.24.12](https://www.bible.com/bible/1394/GEN.24.12.BKG) |
-| {{vɔɔndo}} | adjective | bad, evil, wicked — *Southern Kissi (Childs 2000) :* bad, evil; also ugly (wɔ̀ùwó 'be bad or ugly') | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{yeela}} | adjective | good, pleasant (to eat) — *Southern Kissi (Childs 2000) :* be enjoyable, tasty, sweet; (of talk) interesting | [GEN.2.9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
-| {{ɲɛkɛndɛi}} | adverb | well, safely — *Southern Kissi (Childs 2000) :* well, thoroughly, completely | [GEN.3.5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
+| {{fisa}} | adjective | better, preferable (o co fisa 'it is better') | [Gen 29:19](https://www.bible.com/bible/1394/GEN.29.19.BKG) |
+| {{fondoo}} | adjective | empty, bare; vain, worthless — *Southern Kissi (Childs 2000) :* dry (well), empty, bare, worthless; (with negation) at all | [Exod 23:3](https://www.bible.com/bible/1394/EXO.23.3.BKG) |
+| {{kendu}} | adjective | difficult, hard | [Gen 18:14](https://www.bible.com/bible/1394/GEN.18.14.BKG) |
+| {{kpeekpeiyo}} | adjective | true, real; one's own | [Lev 27:31](https://www.bible.com/bible/1394/LEV.27.31.BKG) |
+| {{kpeku}} | noun | value, use, profit — *Southern Kissi (Childs 2000) :* work, job, purpose | [Gen 23:15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
+| {{kɛndɔɔ}} | adjective | good; beautiful | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{lenamta}} | noun | blemish, defect (nɔ lenamta loo 'without blemish') — *Southern Kissi (Childs 2000) :* a crippled or handicapped person | [Exod 12:5](https://www.bible.com/bible/1394/EXO.12.5.BKG) |
+| {{naŋɔɔ}} | verb | be good, beautiful, pleasing; goodness, beauty — *Southern Kissi (Childs 2000) :* be good, fine, beautiful; be generous, morally good | [Gen 2:12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
+| {{niŋ}} | verb | be good, be fitting (o niŋ … le 'it is not good that …') | [Gen 2:18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
+| {{palaa}} | adjective | bad, evil; (dɛnɛ palaa) misfortune, woe | [Gen 19:15](https://www.bible.com/bible/1394/GEN.19.15.BKG) |
+| {{sɔvɛɔ}} | adjective | precious, choice, honoured | [Gen 24:12](https://www.bible.com/bible/1394/GEN.24.12.BKG) |
+| {{vɔɔndo}} | adjective | bad, evil, wicked — *Southern Kissi (Childs 2000) :* bad, evil; also ugly (wɔ̀ùwó 'be bad or ugly') | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{yeela}} | adjective | good, pleasant (to eat) — *Southern Kissi (Childs 2000) :* be enjoyable, tasty, sweet; (of talk) interesting | [Gen 2:9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
+| {{ɲɛkɛndɛi}} | adverb | well, safely — *Southern Kissi (Childs 2000) :* well, thoroughly, completely | [Gen 3:5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
 
 ### 8.4 Time
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{telenndo}}, pl. {{telenndan}} | noun (o) | time, moment, period — *Southern Kissi (Childs 2000) :* time, period; also chance, opportunity | [GEN.13.9](https://www.bible.com/bible/1394/GEN.13.9.BKG) |
+| {{telenndo}}, pl. {{telenndan}} | noun (o) | time, moment, period — *Southern Kissi (Childs 2000) :* time, period; also chance, opportunity | [Gen 13:9](https://www.bible.com/bible/1394/GEN.13.9.BKG) |
 
 ### 8.4.1 Period of time
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fitilio}} | noun (o) | dusk, twilight — *Southern Kissi (Childs 2000) :* dusk, early evening | [PRO.7.9](https://www.bible.com/bible/1394/PRO.7.9.BKG) |
-| {{fɛɛn}} | noun | eternity; (le fɛɛn a fɛɛn) for ever — *Southern Kissi (Childs 2000) :* forever | [GEN.3.14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
-| {{icɔl}} | adverb | in the evening, at night | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{icɔllo}} | noun | evening, night | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{idii}} | adverb | in the morning | [GEN.19.2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
-| {{idiiyo}} | adverb | in the morning, early | [GEN.19.27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
-| {{ipala}} | adverb | in the daytime — *Southern Kissi (Childs 2000) :* afternoon | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{ipalaa}} | noun | day(time), morning | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{lambi}}, pl. {{lambilan}} | noun | generation; time (occasion) | [GEN.50.23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
-| {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | noun (o) | week ; market; week | [GEN.3.19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
+| {{fitilio}} | noun (o) | dusk, twilight — *Southern Kissi (Childs 2000) :* dusk, early evening | [Prov 7:9](https://www.bible.com/bible/1394/PRO.7.9.BKG) |
+| {{fɛɛn}} | noun | eternity; (le fɛɛn a fɛɛn) for ever — *Southern Kissi (Childs 2000) :* forever | [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG) |
+| {{icɔl}} | adverb | in the evening, at night | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{icɔllo}} | noun | evening, night | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{idii}} | adverb | in the morning | [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
+| {{idiiyo}} | adverb | in the morning, early | [Gen 19:27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
+| {{ipala}} | adverb | in the daytime — *Southern Kissi (Childs 2000) :* afternoon | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{ipalaa}} | noun | day(time), morning | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{lambi}}, pl. {{lambilan}} | noun | generation; time (occasion) | [Gen 50:23](https://www.bible.com/bible/1394/GEN.50.23.BKG) |
+| {{lɔ́ɔ́}}, pl. {{lɔ́ɔ́lan}} | noun (o) | week ; market; week | [Gen 3:19](https://www.bible.com/bible/1394/GEN.3.19.BKG) |
 | {{paale kalalen}} | noun | noon, midday sun | Keita 1979, p. 154 |
-| {{paalen}} | noun (len) | sun; day — *Southern Kissi (Childs 2000) :* day, sun; midday, noon, afternoon | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{paangii}}, pl. {{paangon}} | noun (i) | month — *Southern Kissi (Childs 2000) :* moon, month; menstrual period | [GEN.7.11](https://www.bible.com/bible/1394/GEN.7.11.BKG) |
-| {{palɛi}} | noun (i) | day (as a unit of time); (pl.) days, time | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{púŋ}} | ideophone | (idiiyo púŋ) very early in the morning | [GEN.19.27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
-| {{sialten}} | noun (len) | rainy season | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
-| {{vɔsio}}, pl. {{vɔsilan}} | noun (o) | year | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{vɔɔlen}} | noun (len) | dry season | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{paalen}} | noun (len) | sun; day — *Southern Kissi (Childs 2000) :* day, sun; midday, noon, afternoon | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{paangii}}, pl. {{paangon}} | noun (i) | month — *Southern Kissi (Childs 2000) :* moon, month; menstrual period | [Gen 7:11](https://www.bible.com/bible/1394/GEN.7.11.BKG) |
+| {{palɛi}} | noun (i) | day (as a unit of time); (pl.) days, time | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{púŋ}} | ideophone | (idiiyo púŋ) very early in the morning | [Gen 19:27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
+| {{sialten}} | noun (len) | rainy season | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{vɔsio}}, pl. {{vɔsilan}} | noun (o) | year | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{vɔɔlen}} | noun (len) | dry season | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 
 ### 8.4.2 Take time
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bingi}} | adjective | short; (telen bingi) a short while — *Southern Kissi (Childs 2000) :* short; also little, small | [GEN.12.10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
+| {{bingi}} | adjective | short; (telen bingi) a short while — *Southern Kissi (Childs 2000) :* short; also little, small | [Gen 12:10](https://www.bible.com/bible/1394/GEN.12.10.BKG) |
 
 ### 8.4.4 Telling time
 
@@ -3040,8 +3040,8 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{fuo\|r}} | noun | March — *Southern Kissi (Childs 2000) :* month around February or March, end of the dry season | Keita 1979, p. 152 |
 | {{halɛiyo\|r}} | noun | Saturday | Keita 1979, p. 152 |
 | {{koondo\|r}} | noun | June | Keita 1979, p. 152 |
-| {{kundɛiyo}} | noun | Sunday | [MAT.28.1](https://www.bible.com/bible/1394/MAT.28.1.BKG) |
-| {{lɛɛlɛ}} | noun | hour | [MAT.20.3](https://www.bible.com/bible/1394/MAT.20.3.BKG) |
+| {{kundɛiyo}} | noun | Sunday | [Matt 28:1](https://www.bible.com/bible/1394/MAT.28.1.BKG) |
+| {{lɛɛlɛ}} | noun | hour | [Matt 20:3](https://www.bible.com/bible/1394/MAT.20.3.BKG) |
 | {{naanɔɔ\|r}} | noun | August — *Southern Kissi (Childs 2000) :* month around August (literally 'his sickness') | Keita 1979, p. 152 |
 | {{pondoo\|r}} | noun | January | Keita 1979, p. 152 |
 | {{saa\|?}} | noun | October | Keita 1979, p. 152 |
@@ -3058,154 +3058,154 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ciɛi}} | adverb | yesterday | [GEN.4.3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
-| {{cɔn}} | verb | get up, rise; (cɔn … nin) since | [GEN.8.21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
-| {{diɛŋ}} | adverb | the day after tomorrow | [EXO.19.11](https://www.bible.com/bible/1394/EXO.19.11.BKG) |
-| {{few}} | adverb | never (with negation); forever | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
-| {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [GEN.24.33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
-| {{háá}} | conjunction | until | [GEN.3.17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{hau}} | adverb | today, now | [GEN.4.11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
-| {{haw}} | adverb | today — *Southern Kissi (Childs 2000) :* today; now, right away; again | [GEN.33.15](https://www.bible.com/bible/1394/GEN.33.15.BKG) |
-| {{kabi}} | preposition | since, from (time) | [GEN.16.5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
-| {{kɔɔli}} | postposition | after, behind | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{levil}} | adverb | far, far away; (lɔ́ɔ́ levil) long ago | [GEN.4.14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
-| {{mɛɛlulan}} | noun | end, last part; (o mɛɛlulan) finally, afterwards | [GEN.30.21](https://www.bible.com/bible/1394/GEN.30.21.BKG) |
+| {{ciɛi}} | adverb | yesterday | [Gen 4:3](https://www.bible.com/bible/1394/GEN.4.3.BKG) |
+| {{cɔn}} | verb | get up, rise; (cɔn … nin) since | [Gen 8:21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| {{diɛŋ}} | adverb | the day after tomorrow | [Exod 19:11](https://www.bible.com/bible/1394/EXO.19.11.BKG) |
+| {{few}} | adverb | never (with negation); forever | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [Gen 24:33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
+| {{háá}} | conjunction | until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{hau}} | adverb | today, now | [Gen 4:11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
+| {{haw}} | adverb | today — *Southern Kissi (Childs 2000) :* today; now, right away; again | [Gen 33:15](https://www.bible.com/bible/1394/GEN.33.15.BKG) |
+| {{kabi}} | preposition | since, from (time) | [Gen 16:5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
+| {{kɔɔli}} | postposition | after, behind | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{levil}} | adverb | far, far away; (lɔ́ɔ́ levil) long ago | [Gen 4:14](https://www.bible.com/bible/1394/GEN.4.14.BKG) |
+| {{mɛɛlulan}} | noun | end, last part; (o mɛɛlulan) finally, afterwards | [Gen 30:21](https://www.bible.com/bible/1394/GEN.30.21.BKG) |
 | {{ndili\|r}} | adverb | two days after tomorrow | Keita 1979, p. 152 |
-| {{nihau}} | adverb | now, this time | [GEN.2.23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
-| {{paandu}} | adverb | before, formerly, at first | [GEN.13.3](https://www.bible.com/bible/1394/GEN.13.3.BKG) |
-| {{pɛi}} | adverb | the day before yesterday; formerly | [GEN.42.35](https://www.bible.com/bible/1394/GEN.42.35.BKG) |
-| {{sindɛ}} | adverb | before, formerly — *Southern Kissi (Childs 2000) :* a long time ago; (adj.) of an earlier time | [GEN.50.15](https://www.bible.com/bible/1394/GEN.50.15.BKG) |
-| {{sisa}} | adverb | now, now then (lelan sisa) | [GEN.24.49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
-| {{siɔdii}} | adverb | tomorrow | [GEN.19.2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
-| {{sunsun}} | adverb | now, right away | [GEN.21.23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
-| {{sɛnɛiyo}} | adjective | new — *Southern Kissi (Childs 2000) :* new, fresh | [EXO.6](https://www.bible.com/bible/1394/EXO.6.BKG) |
-| {{tuma}} | conjunction | when, at the time when | [GEN.2.4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
+| {{nihau}} | adverb | now, this time | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{paandu}} | adverb | before, formerly, at first | [Gen 13:3](https://www.bible.com/bible/1394/GEN.13.3.BKG) |
+| {{pɛi}} | adverb | the day before yesterday; formerly | [Gen 42:35](https://www.bible.com/bible/1394/GEN.42.35.BKG) |
+| {{sindɛ}} | adverb | before, formerly — *Southern Kissi (Childs 2000) :* a long time ago; (adj.) of an earlier time | [Gen 50:15](https://www.bible.com/bible/1394/GEN.50.15.BKG) |
+| {{sisa}} | adverb | now, now then (lelan sisa) | [Gen 24:49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
+| {{siɔdii}} | adverb | tomorrow | [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
+| {{sunsun}} | adverb | now, right away | [Gen 21:23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
+| {{sɛnɛiyo}} | adjective | new — *Southern Kissi (Childs 2000) :* new, fresh | [Exod 6](https://www.bible.com/bible/1394/EXO.6.BKG) |
+| {{tuma}} | conjunction | when, at the time when | [Gen 2:4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
 
 ### 8.4.6 Aspectual time
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛmbɛ}} | noun | times (bɛmbɛ lediin 'twice') | [GEN.27.36](https://www.bible.com/bible/1394/GEN.27.36.BKG) |
-| {{cii}} | verb | finish | [GEN.2.2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
-| {{cɔɔlu}} | verb | add, increase; continue, do again | [GEN.9.12](https://www.bible.com/bible/1394/GEN.9.12.BKG) |
-| {{kandɔɔ}} | verb | begin ; begin; beginning; (kandɔɔ …) starting from | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{lepalaa}} | adverb | daily, every day (lepalaa-lepala) | [GEN.6.5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
-| {{mɛɛlulan}} | noun | end, last part; (o mɛɛlulan) finally, afterwards | [GEN.30.21](https://www.bible.com/bible/1394/GEN.30.21.BKG) |
-| {{niinoo}} | verb | continue, keep on | [NUM.33.3](https://www.bible.com/bible/1394/NUM.33.3.BKG) |
-| {{peeloo}} | verb | fulfil, complete; pay (a vow); close up — *Southern Kissi (Childs 2000) :* fill up (to the brim); make up the rest of a sum | [GEN.50.20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
-| {{peelɔnndo}} | verb | be fulfilled; be perfect, complete | [JOS.21.45](https://www.bible.com/bible/1394/JOS.21.45.BKG) |
-| {{pɛngio}} | verb | rest; cease ; rest; stop, cease — *Southern Kissi (Childs 2000) :* stop an activity, rest | [GEN.24.11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
+| {{bɛmbɛ}} | noun | times (bɛmbɛ lediin 'twice') | [Gen 27:36](https://www.bible.com/bible/1394/GEN.27.36.BKG) |
+| {{cii}} | verb | finish | [Gen 2:2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
+| {{cɔɔlu}} | verb | add, increase; continue, do again | [Gen 9:12](https://www.bible.com/bible/1394/GEN.9.12.BKG) |
+| {{kandɔɔ}} | verb | begin ; begin; beginning; (kandɔɔ …) starting from | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{lepalaa}} | adverb | daily, every day (lepalaa-lepala) | [Gen 6:5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
+| {{mɛɛlulan}} | noun | end, last part; (o mɛɛlulan) finally, afterwards | [Gen 30:21](https://www.bible.com/bible/1394/GEN.30.21.BKG) |
+| {{niinoo}} | verb | continue, keep on | [Num 33:3](https://www.bible.com/bible/1394/NUM.33.3.BKG) |
+| {{peeloo}} | verb | fulfil, complete; pay (a vow); close up — *Southern Kissi (Childs 2000) :* fill up (to the brim); make up the rest of a sum | [Gen 50:20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
+| {{peelɔnndo}} | verb | be fulfilled; be perfect, complete | [Josh 21:45](https://www.bible.com/bible/1394/JOS.21.45.BKG) |
+| {{pɛngio}} | verb | rest; cease ; rest; stop, cease — *Southern Kissi (Childs 2000) :* stop an activity, rest | [Gen 24:11](https://www.bible.com/bible/1394/GEN.24.11.BKG) |
 | {{pɛɛngio\|?}} | verb | cease, stop | Keita 1979, p. 113 |
-| {{siowvo}} | verb | complete, spend (a period of time) | [1SA.14.13](https://www.bible.com/bible/1394/1SA.14.13.BKG) |
-| {{vɛlɛ}} | adverb | again, also | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{siowvo}} | verb | complete, spend (a period of time) | [1 Sam 14:13](https://www.bible.com/bible/1394/1SA.14.13.BKG) |
+| {{vɛlɛ}} | adverb | again, also | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 ### 8.4.8 Speed
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fɔ́ɔ́fɔ̀}} | adverb | immediately, suddenly — *Southern Kissi (Childs 2000) :* spot, place; on the spot, right away | [JOS.6.20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
-| {{keleŋa}} | adverb | quickly — *Southern Kissi (Childs 2000) :* (verb) hurry, do at once | [GEN.19.22](https://www.bible.com/bible/1394/GEN.19.22.BKG) |
-| {{keleŋaa}} | verb | hurry, be quick — *Southern Kissi (Childs 2000) :* hurry, make haste | [EXO.2.18](https://www.bible.com/bible/1394/EXO.2.18.BKG) |
+| {{fɔ́ɔ́fɔ̀}} | adverb | immediately, suddenly — *Southern Kissi (Childs 2000) :* spot, place; on the spot, right away | [Josh 6:20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
+| {{keleŋa}} | adverb | quickly — *Southern Kissi (Childs 2000) :* (verb) hurry, do at once | [Gen 19:22](https://www.bible.com/bible/1394/GEN.19.22.BKG) |
+| {{keleŋaa}} | verb | hurry, be quick — *Southern Kissi (Childs 2000) :* hurry, make haste | [Exod 2:18](https://www.bible.com/bible/1394/EXO.2.18.BKG) |
 
 ### 8.5 Location
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fondaa}}, pl. {{fondala}} | noun (o) | place ; place, room — *Southern Kissi (Childs 2000) :* space, place, area; chance, opportunity | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{foofoo}} | noun (o) | trace, landmark — *Southern Kissi (Childs 2000) :* spot, place, eroded patch; track, footprint | [DAN.2.35](https://www.bible.com/bible/1394/DAN.2.35.BKG) |
+| {{fondaa}}, pl. {{fondala}} | noun (o) | place ; place, room — *Southern Kissi (Childs 2000) :* space, place, area; chance, opportunity | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{foofoo}} | noun (o) | trace, landmark — *Southern Kissi (Childs 2000) :* spot, place, eroded patch; track, footprint | [Dan 2:35](https://www.bible.com/bible/1394/DAN.2.35.BKG) |
 
 ### 8.5.1 Here, there
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ha}} | determiner | these (persons) | [GEN.7.1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
-| {{he}} | determiner | this (i class) | [GEN.9.17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
-| {{ho}} | determiner | this (o class) | [GEN.2.16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
-| {{hoo}} | pronoun | this one | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{kan}} | determiner | those (persons) | [GEN.6.4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
-| {{ken}} | determiner | that (i class) | [GEN.2.22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | determiner | that (o class) | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{kuɛɛ}} | adverb | where? which? | [GEN.3.9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
-| {{lan}} | determiner | these, those (lan class) | [GEN.2.19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{len}} | determiner | this, that (len class) | [GEN.2.3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
-| {{lon}} | adverb | there | [GEN.2.10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
-| {{man}} | determiner | this, that (an class) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{mun}} | determiner | these, those (-on plural) | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{nanu}} | adverb | here | [GEN.15.16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
+| {{ha}} | determiner | these (persons) | [Gen 7:1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
+| {{he}} | determiner | this (i class) | [Gen 9:17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
+| {{ho}} | determiner | this (o class) | [Gen 2:16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
+| {{hoo}} | pronoun | this one | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{kan}} | determiner | those (persons) | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{ken}} | determiner | that (i class) | [Gen 2:22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
+| {{kon}} | determiner | that (o class) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kuɛɛ}} | adverb | where? which? | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
+| {{lan}} | determiner | these, those (lan class) | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{len}} | determiner | this, that (len class) | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
+| {{lon}} | adverb | there | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{man}} | determiner | this, that (an class) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{mun}} | determiner | these, those (-on plural) | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{nanu}} | adverb | here | [Gen 15:16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
 
 ### 8.5.2 Direction
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{balɔɔ\|?}} | noun | forearm (Keita); around, throughout (Bible) — *Southern Kissi (Childs 2000) :* wrist | Keita 1979, p. 131 |
-| {{kpengei}}, pl. {{kpengun}} | noun (i) | side, corner; direction — *Southern Kissi (Childs 2000) :* side, edge; also hip | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{laci}} | adverb | ahead, in front, forward | [GEN.6.5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
-| {{leeloo}} | postposition | on the other side of, beyond — *Southern Kissi (Childs 2000) :* across, on the other side; in Liberia also a name for Guinea | [GEN.50.10](https://www.bible.com/bible/1394/GEN.50.10.BKG) |
-| {{maluaŋ}} | noun | north | [EXO.26.20](https://www.bible.com/bible/1394/EXO.26.20.BKG) |
-| {{polon}} | adverb | outside, away — *Southern Kissi (Childs 2000) :* far, high up, far away; deep | [GEN.21.10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
-| {{too}} | noun | south (a ba too 'southward') — *Southern Kissi (Childs 2000) :* low, lower part, below, down; also Monrovia (down-country) | [GEN.12.9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
+| {{kpengei}}, pl. {{kpengun}} | noun (i) | side, corner; direction — *Southern Kissi (Childs 2000) :* side, edge; also hip | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{laci}} | adverb | ahead, in front, forward | [Gen 6:5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
+| {{leeloo}} | postposition | on the other side of, beyond — *Southern Kissi (Childs 2000) :* across, on the other side; in Liberia also a name for Guinea | [Gen 50:10](https://www.bible.com/bible/1394/GEN.50.10.BKG) |
+| {{maluaŋ}} | noun | north | [Exod 26:20](https://www.bible.com/bible/1394/EXO.26.20.BKG) |
+| {{polon}} | adverb | outside, away — *Southern Kissi (Childs 2000) :* far, high up, far away; deep | [Gen 21:10](https://www.bible.com/bible/1394/GEN.21.10.BKG) |
+| {{too}} | noun | south (a ba too 'southward') — *Southern Kissi (Childs 2000) :* low, lower part, below, down; also Monrovia (down-country) | [Gen 12:9](https://www.bible.com/bible/1394/GEN.12.9.BKG) |
 
 ### 8.5.4 Area
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{balaa}} | noun | surroundings; (o balaa sɔ́) round about | [JOS.21.42](https://www.bible.com/bible/1394/JOS.21.42.BKG) |
-| {{fondaa}}, pl. {{fondala}} | noun (o) | place ; place, room — *Southern Kissi (Childs 2000) :* space, place, area; chance, opportunity | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [GEN.24.62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{balaa}} | noun | surroundings; (o balaa sɔ́) round about | [Josh 21:42](https://www.bible.com/bible/1394/JOS.21.42.BKG) |
+| {{fondaa}}, pl. {{fondala}} | noun (o) | place ; place, room — *Southern Kissi (Childs 2000) :* space, place, area; chance, opportunity | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 
 ### 8.6.1 Front
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{hɔlaa}} | noun | face; (o … hɔl) before, in the presence of — *Southern Kissi (Childs 2000) :* face; also sky | [GEN.32.31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
-| {{kɔɔli}} | postposition | after, behind | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{laci}} | adverb | ahead, in front, forward | [GEN.6.5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
+| {{hɔlaa}} | noun | face; (o … hɔl) before, in the presence of — *Southern Kissi (Childs 2000) :* face; also sky | [Gen 32:31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
+| {{kɔɔli}} | postposition | after, behind | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{laci}} | adverb | ahead, in front, forward | [Gen 6:5](https://www.bible.com/bible/1394/GEN.6.5.BKG) |
 
 ### 8.6.2 Top
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛngu}} | postposition | under, at the bottom of; (pl. bɛngulan) feet, hooves — *Southern Kissi (Childs 2000) :* bottom, beneath, under | [GEN.3.15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
-| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [JER.35.7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
-| {{coo}} | postposition | on (o … coo) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [GEN.16.9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
-| {{lebɛngu}} | adverb | underneath, below — *Southern Kissi (Childs 2000) :* under, between | [GEN.1.7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{lecoo}} | adverb | on top, above | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{tullo}} | noun (o) | top, summit | [EXO.24.17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
+| {{bɛngu}} | postposition | under, at the bottom of; (pl. bɛngulan) feet, hooves — *Southern Kissi (Childs 2000) :* bottom, beneath, under | [Gen 3:15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
+| {{bɛnguo}} | noun (o) | foot, leg; underside, bottom ; paw, foot (of an animal) — *Southern Kissi (Childs 2000) :* leg, foot | [Jer 35:7](https://www.bible.com/bible/1394/JER.35.7.BKG) |
+| {{coo}} | postposition | on (o … coo) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [Gen 16:9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
+| {{lebɛngu}} | adverb | underneath, below — *Southern Kissi (Childs 2000) :* under, between | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{lecoo}} | adverb | on top, above | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{tullo}} | noun (o) | top, summit | [Exod 24:17](https://www.bible.com/bible/1394/EXO.24.17.BKG) |
 | {{tɛlɛlɔɔ\|r}} | noun | surface | Keita 1979, p. 155 |
 
 ### 8.6.3 Side
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{ba}} | noun | side; (o … ba) with, at, in the hands of; (a ba …) towards | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{kpengei}}, pl. {{kpengun}} | noun (i) | side, corner; direction — *Southern Kissi (Childs 2000) :* side, edge; also hip | [GEN.6.16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{leeloo}} | postposition | on the other side of, beyond — *Southern Kissi (Childs 2000) :* across, on the other side; in Liberia also a name for Guinea | [GEN.50.10](https://www.bible.com/bible/1394/GEN.50.10.BKG) |
+| {{ba}} | noun | side; (o … ba) with, at, in the hands of; (a ba …) towards | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{kpengei}}, pl. {{kpengun}} | noun (i) | side, corner; direction — *Southern Kissi (Childs 2000) :* side, edge; also hip | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
+| {{leeloo}} | postposition | on the other side of, beyond — *Southern Kissi (Childs 2000) :* across, on the other side; in Liberia also a name for Guinea | [Gen 50:10](https://www.bible.com/bible/1394/GEN.50.10.BKG) |
 
 ### 8.6.4 Inner part
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{lekɔɔli}} | adverb | outside, on the outside | [GEN.6.14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
-| {{nin}} | postposition | in, inside (o … nin) | [GEN.1.17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{lekɔɔli}} | adverb | outside, on the outside | [Gen 6:14](https://www.bible.com/bible/1394/GEN.6.14.BKG) |
+| {{nin}} | postposition | in, inside (o … nin) | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
 
 ### 8.6.5 Middle
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{tɛɛn}} | postposition | between, among | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɛɛn}} | postposition | between, among | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 ### 8.6.6 Edge
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔcɔn}} | noun | lips; rim, edge | [EXO.25.11](https://www.bible.com/bible/1394/EXO.25.11.BKG) |
-| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [EXO.28.33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
-| {{kɔngɔ}} | noun | dry land; shore, bank — *Southern Kissi (Childs 2000) :* bank, shore, dry land; higher ground around a swamp | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{kɔngɔɔ}} | noun (o) | shore, bank, edge — *Southern Kissi (Childs 2000) :* bank, shore, dry land; the higher ground around a swamp | [GEN.41.2](https://www.bible.com/bible/1394/GEN.41.2.BKG) |
-| {{pindo}} | noun | surroundings; (… pindo) around | [GEN.19.4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
-| {{pɛngulan}} | noun (lan) | difference, distinction; boundary, border | [LEV.20.25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
+| {{cɔcɔn}} | noun | lips; rim, edge | [Exod 25:11](https://www.bible.com/bible/1394/EXO.25.11.BKG) |
+| {{cɔcɔɛi}}, pl. {{cɔcɔn}} | noun (i) | lip; edge, hem ; beak; edge, hem — *Southern Kissi (Childs 2000) :* lip; beak, bill (also of a cap) | [Exod 28:33](https://www.bible.com/bible/1394/EXO.28.33.BKG) |
+| {{kɔngɔ}} | noun | dry land; shore, bank — *Southern Kissi (Childs 2000) :* bank, shore, dry land; higher ground around a swamp | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{kɔngɔɔ}} | noun (o) | shore, bank, edge — *Southern Kissi (Childs 2000) :* bank, shore, dry land; the higher ground around a swamp | [Gen 41:2](https://www.bible.com/bible/1394/GEN.41.2.BKG) |
+| {{pindo}} | noun | surroundings; (… pindo) around | [Gen 19:4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
+| {{pɛngulan}} | noun (lan) | difference, distinction; boundary, border | [Lev 20:25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
 
 ## 9. Grammar
 
@@ -3213,253 +3213,253 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{co}} | verb | be; progressive auxiliary | [GEN.1.7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{siŋnɔnndo}} | verb | become | [GEN.24.14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
-| {{va}} | verb | be (past); past progressive auxiliary | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{vaa}} | verb | be | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{vannun}} | verb | be, remain, dwell | [GEN.13.10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
-| {{yɔŋnun}} | verb | become, be; happen — *Southern Kissi (Childs 2000) :* happen, occur; become | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{co}} | verb | be; progressive auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{siŋnɔnndo}} | verb | become | [Gen 24:14](https://www.bible.com/bible/1394/GEN.24.14.BKG) |
+| {{va}} | verb | be (past); past progressive auxiliary | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{vaa}} | verb | be | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{vannun}} | verb | be, remain, dwell | [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG) |
+| {{yɔŋnun}} | verb | become, be; happen — *Southern Kissi (Childs 2000) :* happen, occur; become | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
 
 ### 9.1.2 Do
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{cɔvɔɔ}} | verb | make; create | [GEN.2.1](https://www.bible.com/bible/1394/GEN.2.1.BKG) |
-| {{cɔwnun}} | verb | make (for oneself), fashion; be made | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{siinguuo}} | verb | make (into), appoint, set apart | [GEN.20.2](https://www.bible.com/bible/1394/GEN.20.2.BKG) |
-| {{toosiaa}} | verb | make, prepare; repair (Keita) | [GEN.1.16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{toosial}} | verb | make, prepare for (someone) — *Southern Kissi (Childs 2000) :* fix, make, dress (someone) for someone | [GEN.2.18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
-| {{toosian}} | verb | be made, prepared (of) — *Southern Kissi (Childs 2000) :* get prepared; get dressed | [GEN.19.3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
-| {{tosaa}} | verb | do, make | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{tosalan}} | verb | happen to (someone) | [GEN.44.29](https://www.bible.com/bible/1394/GEN.44.29.BKG) |
-| {{tosallo}} | verb | do for, do to (someone) | [GEN.21.12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
-| {{tosanndo}} | verb | happen, come about; be done — *Southern Kissi (Childs 2000) :* be done, be made; succeed | [GEN.6.11](https://www.bible.com/bible/1394/GEN.6.11.BKG) |
-| {{yɔŋndo}} | noun (o) | deed, act | [LEV.24.12](https://www.bible.com/bible/1394/LEV.24.12.BKG) |
+| {{cɔvɔɔ}} | verb | make; create | [Gen 2:1](https://www.bible.com/bible/1394/GEN.2.1.BKG) |
+| {{cɔwnun}} | verb | make (for oneself), fashion; be made | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{siinguuo}} | verb | make (into), appoint, set apart | [Gen 20:2](https://www.bible.com/bible/1394/GEN.20.2.BKG) |
+| {{toosiaa}} | verb | make, prepare; repair (Keita) | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{toosial}} | verb | make, prepare for (someone) — *Southern Kissi (Childs 2000) :* fix, make, dress (someone) for someone | [Gen 2:18](https://www.bible.com/bible/1394/GEN.2.18.BKG) |
+| {{toosian}} | verb | be made, prepared (of) — *Southern Kissi (Childs 2000) :* get prepared; get dressed | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
+| {{tosaa}} | verb | do, make | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{tosalan}} | verb | happen to (someone) | [Gen 44:29](https://www.bible.com/bible/1394/GEN.44.29.BKG) |
+| {{tosallo}} | verb | do for, do to (someone) | [Gen 21:12](https://www.bible.com/bible/1394/GEN.21.12.BKG) |
+| {{tosanndo}} | verb | happen, come about; be done — *Southern Kissi (Childs 2000) :* be done, be made; succeed | [Gen 6:11](https://www.bible.com/bible/1394/GEN.6.11.BKG) |
+| {{yɔŋndo}} | noun (o) | deed, act | [Lev 24:12](https://www.bible.com/bible/1394/LEV.24.12.BKG) |
 
 ### 9.1.3 Thing
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dɛnɔɔ}}, pl. {{dɛnndan}} | noun (o) | thing, matter, deed | [GEN.20.5](https://www.bible.com/bible/1394/GEN.20.5.BKG) |
-| {{kɔlɔɔ}} | noun (o) | matter, cause, reason; (le kɔlɔ yɛɛ) why — *Southern Kissi (Childs 2000) :* meaning, significance, rationale | [GEN.11.9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
-| {{ɲɛ}}, pl. {{ɲɛlan}} | noun | thing; what, that which — *Southern Kissi (Childs 2000) :* thing, something (ɲɛ̀- in compounds) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{ɲɛ-ɲɛ}} | pronoun | anything; (neg.) nothing | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{dɛnɔɔ}}, pl. {{dɛnndan}} | noun (o) | thing, matter, deed | [Gen 20:5](https://www.bible.com/bible/1394/GEN.20.5.BKG) |
+| {{kɔlɔɔ}} | noun (o) | matter, cause, reason; (le kɔlɔ yɛɛ) why — *Southern Kissi (Childs 2000) :* meaning, significance, rationale | [Gen 11:9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
+| {{ɲɛ}}, pl. {{ɲɛlan}} | noun | thing; what, that which — *Southern Kissi (Childs 2000) :* thing, something (ɲɛ̀- in compounds) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{ɲɛ-ɲɛ}} | pronoun | anything; (neg.) nothing | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 
 ### 9.2.2 Adverbs
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɔɔle}} | adverb | perhaps | [GEN.16.2](https://www.bible.com/bible/1394/GEN.16.2.BKG) |
-| {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{few}} | adverb | never (with negation); forever | [GEN.8.22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
-| {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [GEN.24.33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
-| {{fɔ́ɔ́fɔ̀}} | adverb | immediately, suddenly — *Southern Kissi (Childs 2000) :* spot, place; on the spot, right away | [JOS.6.20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
-| {{hau}} | adverb | today, now | [GEN.4.11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
-| {{idiiyo}} | adverb | in the morning, early | [GEN.19.27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
-| {{kangalan}} | adverb | surely, certainly — *Southern Kissi (Childs 2000) :* truly; marks obligation, must | [GEN.41.32](https://www.bible.com/bible/1394/GEN.41.32.BKG) |
-| {{keleŋa}} | adverb | quickly — *Southern Kissi (Childs 2000) :* (verb) hurry, do at once | [GEN.19.22](https://www.bible.com/bible/1394/GEN.19.22.BKG) |
-| {{koni}} | adverb | also, likewise (lende koni 'likewise') — *Southern Kissi (Childs 2000) :* just, only, alone | [GEN.7.2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
-| {{kpafii}} | adverb | exactly, fully | [GEN.6.22](https://www.bible.com/bible/1394/GEN.6.22.BKG) |
-| {{kpendekele}} | adverb | face to face; clearly, openly — *Southern Kissi (Childs 2000) :* plainly, clearly, openly | [GEN.32.31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
-| {{kpɛɛlun}} | adverb | near | [LEV.25.49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
-| {{latulu}} | adverb | together, at the same time | [GEN.3.6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
-| {{lecoo}} | adverb | on top, above | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{lekɛ́ndɛi}} | adverb | truly, really | [GEN.12.14](https://www.bible.com/bible/1394/GEN.12.14.BKG) |
-| {{lon}} | adverb | there | [GEN.2.10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
-| {{nanu}} | adverb | here | [GEN.15.16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
-| {{nihau}} | adverb | now, this time | [GEN.2.23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
-| {{siɔdii}} | adverb | tomorrow | [GEN.19.2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
-| {{sunsun}} | adverb | now, right away | [GEN.21.23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
-| {{taw}} | adverb | very, a lot | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [GEN.19.3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
-| {{tootoo}} | adverb | low; humbly; in a whisper — *Southern Kissi (Childs 2000) :* underscores how low (ideophone) | [1SA.2.7](https://www.bible.com/bible/1394/1SA.2.7.BKG) |
-| {{vɛlɛ}} | adverb | again, also | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{yɛɛvɛ}} | adverb | all, completely | [GEN.6.17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
-| {{ɲɛkɛndɛi}} | adverb | well, safely — *Southern Kissi (Childs 2000) :* well, thoroughly, completely | [GEN.3.5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
+| {{bɔɔle}} | adverb | perhaps | [Gen 16:2](https://www.bible.com/bible/1394/GEN.16.2.BKG) |
+| {{coocoo}} | adverb | up, above, in the air — *Southern Kissi (Childs 2000) :* far up; also loudly | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{few}} | adverb | never (with negation); forever | [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{fɔlɔn}} | adverb | first, beforehand — *Southern Kissi (Childs 2000) :* first | [Gen 24:33](https://www.bible.com/bible/1394/GEN.24.33.BKG) |
+| {{fɔ́ɔ́fɔ̀}} | adverb | immediately, suddenly — *Southern Kissi (Childs 2000) :* spot, place; on the spot, right away | [Josh 6:20](https://www.bible.com/bible/1394/JOS.6.20.BKG) |
+| {{hau}} | adverb | today, now | [Gen 4:11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
+| {{idiiyo}} | adverb | in the morning, early | [Gen 19:27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
+| {{kangalan}} | adverb | surely, certainly — *Southern Kissi (Childs 2000) :* truly; marks obligation, must | [Gen 41:32](https://www.bible.com/bible/1394/GEN.41.32.BKG) |
+| {{keleŋa}} | adverb | quickly — *Southern Kissi (Childs 2000) :* (verb) hurry, do at once | [Gen 19:22](https://www.bible.com/bible/1394/GEN.19.22.BKG) |
+| {{koni}} | adverb | also, likewise (lende koni 'likewise') — *Southern Kissi (Childs 2000) :* just, only, alone | [Gen 7:2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
+| {{kpafii}} | adverb | exactly, fully | [Gen 6:22](https://www.bible.com/bible/1394/GEN.6.22.BKG) |
+| {{kpendekele}} | adverb | face to face; clearly, openly — *Southern Kissi (Childs 2000) :* plainly, clearly, openly | [Gen 32:31](https://www.bible.com/bible/1394/GEN.32.31.BKG) |
+| {{kpɛɛlun}} | adverb | near | [Lev 25:49](https://www.bible.com/bible/1394/LEV.25.49.BKG) |
+| {{latulu}} | adverb | together, at the same time | [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG) |
+| {{lecoo}} | adverb | on top, above | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lekɛ́ndɛi}} | adverb | truly, really | [Gen 12:14](https://www.bible.com/bible/1394/GEN.12.14.BKG) |
+| {{lon}} | adverb | there | [Gen 2:10](https://www.bible.com/bible/1394/GEN.2.10.BKG) |
+| {{nanu}} | adverb | here | [Gen 15:16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
+| {{nihau}} | adverb | now, this time | [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{siɔdii}} | adverb | tomorrow | [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
+| {{sunsun}} | adverb | now, right away | [Gen 21:23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
+| {{taw}} | adverb | very, a lot | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
+| {{tootoo}} | adverb | low; humbly; in a whisper — *Southern Kissi (Childs 2000) :* underscores how low (ideophone) | [1 Sam 2:7](https://www.bible.com/bible/1394/1SA.2.7.BKG) |
+| {{vɛlɛ}} | adverb | again, also | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{yɛɛvɛ}} | adverb | all, completely | [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
+| {{ɲɛkɛndɛi}} | adverb | well, safely — *Southern Kissi (Childs 2000) :* well, thoroughly, completely | [Gen 3:5](https://www.bible.com/bible/1394/GEN.3.5.BKG) |
 
 ### 9.2.3 Pronouns
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{a}} | pronoun | you (sg.); they (subject) | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{ha}} | determiner | these (persons) | [GEN.7.1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
-| {{he}} | determiner | this (i class) | [GEN.9.17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
-| {{ho}} | determiner | this (o class) | [GEN.2.16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
-| {{hoo}} | pronoun | this one | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{i}} | pronoun | I (subject) | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{kan}} | determiner | those (persons) | [GEN.6.4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
-| {{ken}} | determiner | that (i class) | [GEN.2.22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
-| {{kon}} | determiner | that (o class) | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{kuɛɛ}} | adverb | where? which? | [GEN.3.9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
-| {{la}} | pronoun | you (pl., subject); lan-class pronoun | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
-| {{lan}} | determiner | these, those (lan class) | [GEN.2.19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{len}} | determiner | this, that (len class) | [GEN.2.3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
-| {{man}} | determiner | this, that (an class) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{mun}} | determiner | these, those (-on plural) | [GEN.1.14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
-| {{n}} | pronoun | we (subject); you (sg., in relatives and questions) | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{naa}} | pronoun | us (independent); our | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{nda}} | pronoun | them (independent) | [GEN.1.21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
-| {{ndáà}} | pronoun | they (remote past) | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{ndaa}} | determiner | their | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{ndi}} | pronoun | it (i class, object) | [GEN.2.11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
-| {{ndóò}} | pronoun | he, she (remote past) | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{ndu}} | pronoun | him, her (independent) | [GEN.1.7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{ndɔ}} | determiner | his, her (person) | [GEN.1.27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
-| {{ndɔɔ}} | determiner | his, her (o class, thing) | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
-| {{niaa}} | pronoun | you (pl., independent); your (pl.) | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{nuu}} | determiner | my | [GEN.4.9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
-| {{nɔm}} | pronoun | you (sg., independent) | [GEN.2.17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
-| {{nɔmndo}} | determiner | your (sg., o class, thing) | [GEN.3.10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
-| {{nɛ̀ɛ́}} | pronoun | who? | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{o}} | pronoun | he, she, it (subject, o class) | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{pila}} | particle | self, -self | [GEN.2.12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
-| {{vana}}, pl. {{vanaa}} | pronoun | the one who, someone (head of a relative clause); person | [GEN.1.26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
-| {{vana-vana}} | pronoun | anyone; (neg.) no one | [GEN.2.25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
-| {{vɛ}} | adverb | why? | [GEN.24.31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
-| {{ya}} | pronoun | me, I (independent) | [GEN.3.10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
-| {{yɛɛ}} | pronoun | what? which? | [GEN.3.13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
-| {{ɲɛ-ɲɛ}} | pronoun | anything; (neg.) nothing | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{a}} | pronoun | you (sg.); they (subject) | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{ha}} | determiner | these (persons) | [Gen 7:1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
+| {{he}} | determiner | this (i class) | [Gen 9:17](https://www.bible.com/bible/1394/GEN.9.17.BKG) |
+| {{ho}} | determiner | this (o class) | [Gen 2:16](https://www.bible.com/bible/1394/GEN.2.16.BKG) |
+| {{hoo}} | pronoun | this one | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{i}} | pronoun | I (subject) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{kan}} | determiner | those (persons) | [Gen 6:4](https://www.bible.com/bible/1394/GEN.6.4.BKG) |
+| {{ken}} | determiner | that (i class) | [Gen 2:22](https://www.bible.com/bible/1394/GEN.2.22.BKG) |
+| {{kon}} | determiner | that (o class) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{kuɛɛ}} | adverb | where? which? | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
+| {{la}} | pronoun | you (pl., subject); lan-class pronoun | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{lan}} | determiner | these, those (lan class) | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{len}} | determiner | this, that (len class) | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
+| {{man}} | determiner | this, that (an class) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{mun}} | determiner | these, those (-on plural) | [Gen 1:14](https://www.bible.com/bible/1394/GEN.1.14.BKG) |
+| {{n}} | pronoun | we (subject); you (sg., in relatives and questions) | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{naa}} | pronoun | us (independent); our | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{nda}} | pronoun | them (independent) | [Gen 1:21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
+| {{ndáà}} | pronoun | they (remote past) | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{ndaa}} | determiner | their | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{ndi}} | pronoun | it (i class, object) | [Gen 2:11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
+| {{ndóò}} | pronoun | he, she (remote past) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{ndu}} | pronoun | him, her (independent) | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{ndɔ}} | determiner | his, her (person) | [Gen 1:27](https://www.bible.com/bible/1394/GEN.1.27.BKG) |
+| {{ndɔɔ}} | determiner | his, her (o class, thing) | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{niaa}} | pronoun | you (pl., independent); your (pl.) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{nuu}} | determiner | my | [Gen 4:9](https://www.bible.com/bible/1394/GEN.4.9.BKG) |
+| {{nɔm}} | pronoun | you (sg., independent) | [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
+| {{nɔmndo}} | determiner | your (sg., o class, thing) | [Gen 3:10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
+| {{nɛ̀ɛ́}} | pronoun | who? | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{o}} | pronoun | he, she, it (subject, o class) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{pila}} | particle | self, -self | [Gen 2:12](https://www.bible.com/bible/1394/GEN.2.12.BKG) |
+| {{vana}}, pl. {{vanaa}} | pronoun | the one who, someone (head of a relative clause); person | [Gen 1:26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{vana-vana}} | pronoun | anyone; (neg.) no one | [Gen 2:25](https://www.bible.com/bible/1394/GEN.2.25.BKG) |
+| {{vɛ}} | adverb | why? | [Gen 24:31](https://www.bible.com/bible/1394/GEN.24.31.BKG) |
+| {{ya}} | pronoun | me, I (independent) | [Gen 3:10](https://www.bible.com/bible/1394/GEN.3.10.BKG) |
+| {{yɛɛ}} | pronoun | what? which? | [Gen 3:13](https://www.bible.com/bible/1394/GEN.3.13.BKG) |
+| {{ɲɛ-ɲɛ}} | pronoun | anything; (neg.) nothing | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 
 ### 9.2.4 Prepositions, postpositions
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{a}} | preposition | with; and | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{ba}} | noun | side; (o … ba) with, at, in the hands of; (a ba …) towards | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{bɛngu}} | postposition | under, at the bottom of; (pl. bɛngulan) feet, hooves — *Southern Kissi (Childs 2000) :* bottom, beneath, under | [GEN.3.15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
-| {{coo}} | postposition | on (o … coo) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{ibuŋ}} | postposition | to, back to, with (o … ibuŋ) | [GEN.8.11](https://www.bible.com/bible/1394/GEN.8.11.BKG) |
-| {{ikɛi}} | postposition | with, beside | [GEN.5.24](https://www.bible.com/bible/1394/GEN.5.24.BKG) |
-| {{kabi}} | preposition | since, from (time) | [GEN.16.5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
-| {{kpen}} | preposition | like, similar to (kpen a) | [GEN.33.10](https://www.bible.com/bible/1394/GEN.33.10.BKG) |
-| {{kɔɔli}} | postposition | after, behind | [GEN.2.8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
-| {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [GEN.16.9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
-| {{le}} | preposition | for, because of | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{lo}} | postposition | at (someone's place) (o … lo) | [GEN.1.9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
-| {{loo}} | postposition | without, lacking | [GEN.14.21](https://www.bible.com/bible/1394/GEN.14.21.BKG) |
-| {{nin}} | postposition | in, inside (o … nin) | [GEN.1.17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
-| {{o}} | preposition | at, in, on (place, time) | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{pindo}} | noun | surroundings; (… pindo) around | [GEN.19.4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
-| {{tɛɛn}} | postposition | between, among | [GEN.1.6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{a}} | preposition | with; and | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{ba}} | noun | side; (o … ba) with, at, in the hands of; (a ba …) towards | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{bɛngu}} | postposition | under, at the bottom of; (pl. bɛngulan) feet, hooves — *Southern Kissi (Childs 2000) :* bottom, beneath, under | [Gen 3:15](https://www.bible.com/bible/1394/GEN.3.15.BKG) |
+| {{coo}} | postposition | on (o … coo) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{ibuŋ}} | postposition | to, back to, with (o … ibuŋ) | [Gen 8:11](https://www.bible.com/bible/1394/GEN.8.11.BKG) |
+| {{ikɛi}} | postposition | with, beside | [Gen 5:24](https://www.bible.com/bible/1394/GEN.5.24.BKG) |
+| {{kabi}} | preposition | since, from (time) | [Gen 16:5](https://www.bible.com/bible/1394/GEN.16.5.BKG) |
+| {{kpen}} | preposition | like, similar to (kpen a) | [Gen 33:10](https://www.bible.com/bible/1394/GEN.33.10.BKG) |
+| {{kɔɔli}} | postposition | after, behind | [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
+| {{labɛngunin}} | adverb | below; (o … labɛngunin) under, at the feet of — *Southern Kissi (Childs 2000) :* under, between | [Gen 16:9](https://www.bible.com/bible/1394/GEN.16.9.BKG) |
+| {{le}} | preposition | for, because of | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{lo}} | postposition | at (someone's place) (o … lo) | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{loo}} | postposition | without, lacking | [Gen 14:21](https://www.bible.com/bible/1394/GEN.14.21.BKG) |
+| {{nin}} | postposition | in, inside (o … nin) | [Gen 1:17](https://www.bible.com/bible/1394/GEN.1.17.BKG) |
+| {{o}} | preposition | at, in, on (place, time) | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{pindo}} | noun | surroundings; (… pindo) around | [Gen 19:4](https://www.bible.com/bible/1394/GEN.19.4.BKG) |
+| {{tɛɛn}} | postposition | between, among | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 ### 9.2.5 Conjunctions
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{a}} | preposition | with; and | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{bau}} | conjunction | for, because | [GEN.9.6](https://www.bible.com/bible/1394/GEN.9.6.BKG) |
-| {{háá}} | conjunction | until | [GEN.3.17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
-| {{hali}} | conjunction | even; even if | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{haliko}} | conjunction | so that | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{kani}} | conjunction | because, for | [GEN.2.3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
-| {{kɛ}} | conjunction | but | [GEN.2.17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
+| {{a}} | preposition | with; and | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{bau}} | conjunction | for, because | [Gen 9:6](https://www.bible.com/bible/1394/GEN.9.6.BKG) |
+| {{háá}} | conjunction | until | [Gen 3:17](https://www.bible.com/bible/1394/GEN.3.17.BKG) |
+| {{hali}} | conjunction | even; even if | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{haliko}} | conjunction | so that | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{kani}} | conjunction | because, for | [Gen 2:3](https://www.bible.com/bible/1394/GEN.2.3.BKG) |
+| {{kɛ}} | conjunction | but | [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
 | {{le hee}} | conjunction | then; therefore |  |
 | {{le tùú}} | conjunction | because |  |
-| {{lelan}} | conjunction | therefore, so | [GEN.2.24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{maa}} | conjunction | that (complementizer) | [GEN.1.4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{mi}} | conjunction | and (then); so that | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{mɛɛ}} | conjunction | when; as, like | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
-| {{nda}} | conjunction | and (between persons) | [GEN.1.21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
-| {{nduyɛ}} | conjunction | however, indeed | [GEN.9.4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
-| {{te}} | conjunction | if (te … pɛ) | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{tuma}} | conjunction | when, at the time when | [GEN.2.4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
-| {{yɔŋii}} | conjunction | lest, otherwise | [GEN.3.3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
-| {{ɔ́ɔ̀}} | conjunction | or; question marker | [GEN.18.9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
+| {{lelan}} | conjunction | therefore, so | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
+| {{maa}} | conjunction | that (complementizer) | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
+| {{mi}} | conjunction | and (then); so that | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{mɛɛ}} | conjunction | when; as, like | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{nda}} | conjunction | and (between persons) | [Gen 1:21](https://www.bible.com/bible/1394/GEN.1.21.BKG) |
+| {{nduyɛ}} | conjunction | however, indeed | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{te}} | conjunction | if (te … pɛ) | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{tuma}} | conjunction | when, at the time when | [Gen 2:4](https://www.bible.com/bible/1394/GEN.2.4.BKG) |
+| {{yɔŋii}} | conjunction | lest, otherwise | [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| {{ɔ́ɔ̀}} | conjunction | or; question marker | [Gen 18:9](https://www.bible.com/bible/1394/GEN.18.9.BKG) |
 
 ### 9.2.6 Particles
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{aa}} | particle | quotative particle | [GEN.1.3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
-| {{bɛɛ}} | particle | also; even; already | [GEN.1.11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
-| {{daama}} | particle | only | [GEN.23.15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
-| {{dɛ}} | particle | emphatic particle (after a command) | [GEN.19.17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
-| {{kpé}} | particle | only, alone | [GEN.7.1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
-| {{kpeekpei}} | particle | exactly, the very | [GEN.13.4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
-| {{le}} | particle | not (clause-final negation) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{ni}} | particle | it is… (focus, identification) | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{nɛ}} | particle | focus particle in questions (yɛɛ nɛ … yɛ?) | [GEN.3.9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
-| {{oo}} | particle | every, any (between a repeated noun: X oo X) | [GEN.1.29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
-| {{pɛ}} | particle | conditional particle (te … pɛ) | [GEN.1.22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
-| {{vɔ}} | particle | not yet (vɔ … le) | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{vɛ̀ɛ̀}} | particle | yes/no question marker; how? | [GEN.15.8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
-| {{yɛ}} | particle | question-final particle | [GEN.1](https://www.bible.com/bible/1394/GEN.1.BKG) |
+| {{aa}} | particle | quotative particle | [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
+| {{bɛɛ}} | particle | also; even; already | [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
+| {{daama}} | particle | only | [Gen 23:15](https://www.bible.com/bible/1394/GEN.23.15.BKG) |
+| {{dɛ}} | particle | emphatic particle (after a command) | [Gen 19:17](https://www.bible.com/bible/1394/GEN.19.17.BKG) |
+| {{kpé}} | particle | only, alone | [Gen 7:1](https://www.bible.com/bible/1394/GEN.7.1.BKG) |
+| {{kpeekpei}} | particle | exactly, the very | [Gen 13:4](https://www.bible.com/bible/1394/GEN.13.4.BKG) |
+| {{le}} | particle | not (clause-final negation) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{ni}} | particle | it is… (focus, identification) | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{nɛ}} | particle | focus particle in questions (yɛɛ nɛ … yɛ?) | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
+| {{oo}} | particle | every, any (between a repeated noun: X oo X) | [Gen 1:29](https://www.bible.com/bible/1394/GEN.1.29.BKG) |
+| {{pɛ}} | particle | conditional particle (te … pɛ) | [Gen 1:22](https://www.bible.com/bible/1394/GEN.1.22.BKG) |
+| {{vɔ}} | particle | not yet (vɔ … le) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{vɛ̀ɛ̀}} | particle | yes/no question marker; how? | [Gen 15:8](https://www.bible.com/bible/1394/GEN.15.8.BKG) |
+| {{yɛ}} | particle | question-final particle | [Gen 1](https://www.bible.com/bible/1394/GEN.1.BKG) |
 
 ### 9.2.7 Interjections
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{a yandi}} | interjection | please |  |
-| {{balika}} | interjection | thank you | [GEN.24.48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
-| {{isɛ}} | interjection | greetings, hello | [GEN.27.18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
-| {{kpòkóó}} | interjection | alas! | [GEN.25.22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
-| {{mbaa}} | interjection | yes? (answer to a call) | [GEN.27.18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
-| {{mbɔ̀}} | interjection | ah! alas! (exclamation) | [GEN.24.56](https://www.bible.com/bible/1394/GEN.24.56.BKG) |
-| {{oi}} | interjection | yes | [GEN.24.58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
-| {{ɛ-ɛ}} | interjection | no | [GEN.3.2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
+| {{balika}} | interjection | thank you | [Gen 24:48](https://www.bible.com/bible/1394/GEN.24.48.BKG) |
+| {{isɛ}} | interjection | greetings, hello | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
+| {{kpòkóó}} | interjection | alas! | [Gen 25:22](https://www.bible.com/bible/1394/GEN.25.22.BKG) |
+| {{mbaa}} | interjection | yes? (answer to a call) | [Gen 27:18](https://www.bible.com/bible/1394/GEN.27.18.BKG) |
+| {{mbɔ̀}} | interjection | ah! alas! (exclamation) | [Gen 24:56](https://www.bible.com/bible/1394/GEN.24.56.BKG) |
+| {{oi}} | interjection | yes | [Gen 24:58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
+| {{ɛ-ɛ}} | interjection | no | [Gen 3:2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
 
 ### 9.2.8 Ideophones
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{fúú}} | ideophone | completely (fondo fúú 'stark naked, utterly empty') | [GEN.9.22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
-| {{kpáŋ}} | ideophone | firmly, tightly — *Southern Kissi (Childs 2000) :* tightly; also carefully, attentively | [EXO.16.33](https://www.bible.com/bible/1394/EXO.16.33.BKG) |
-| {{kpélén}} | ideophone | loudly (cry, weep) — *Southern Kissi (Childs 2000) :* loudly, clearly | [GEN.27.38](https://www.bible.com/bible/1394/GEN.27.38.BKG) |
-| {{púŋ}} | ideophone | (idiiyo púŋ) very early in the morning | [GEN.19.27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
-| {{sɛ́ɛ́n}} | ideophone | (vesa sɛ́ɛ́n) completely dry — *Southern Kissi (Childs 2000) :* (ideophone) describes dryness, or the thinness of a person | [GEN.8.14](https://www.bible.com/bible/1394/GEN.8.14.BKG) |
+| {{fúú}} | ideophone | completely (fondo fúú 'stark naked, utterly empty') | [Gen 9:22](https://www.bible.com/bible/1394/GEN.9.22.BKG) |
+| {{kpáŋ}} | ideophone | firmly, tightly — *Southern Kissi (Childs 2000) :* tightly; also carefully, attentively | [Exod 16:33](https://www.bible.com/bible/1394/EXO.16.33.BKG) |
+| {{kpélén}} | ideophone | loudly (cry, weep) — *Southern Kissi (Childs 2000) :* loudly, clearly | [Gen 27:38](https://www.bible.com/bible/1394/GEN.27.38.BKG) |
+| {{púŋ}} | ideophone | (idiiyo púŋ) very early in the morning | [Gen 19:27](https://www.bible.com/bible/1394/GEN.19.27.BKG) |
+| {{sɛ́ɛ́n}} | ideophone | (vesa sɛ́ɛ́n) completely dry — *Southern Kissi (Childs 2000) :* (ideophone) describes dryness, or the thinness of a person | [Gen 8:14](https://www.bible.com/bible/1394/GEN.8.14.BKG) |
 
 ### 9.3 Very
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{taw}} | adverb | very, a lot | [GEN.1.20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
-| {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [GEN.19.3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
+| {{taw}} | adverb | very, a lot | [Gen 1:20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
+| {{tei}} | adverb | much, strongly, very — *Southern Kissi (Childs 2000) :* very, a lot, many | [Gen 19:3](https://www.bible.com/bible/1394/GEN.19.3.BKG) |
 
 ### 9.4 Semantic constituents related to verbs
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{nɔlaa}} | verb | can, be able to — *Southern Kissi (Childs 2000) :* be able, can; overcome (someone) | [JDG.16.19](https://www.bible.com/bible/1394/JDG.16.19.BKG) |
-| {{tiwba}} | verb | be able to, can | [GEN.34.14](https://www.bible.com/bible/1394/GEN.34.14.BKG) |
+| {{nɔlaa}} | verb | can, be able to — *Southern Kissi (Childs 2000) :* be able, can; overcome (someone) | [Judg 16:19](https://www.bible.com/bible/1394/JDG.16.19.BKG) |
+| {{tiwba}} | verb | be able to, can | [Gen 34:14](https://www.bible.com/bible/1394/GEN.34.14.BKG) |
 
 ### 9.4.1 Tense and aspect
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{bɛnda}} | verb | must, should; (neg.) must not | [GEN.2.19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{co}} | verb | be; progressive auxiliary | [GEN.1.7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
-| {{ndáà}} | pronoun | they (remote past) | [GEN.6.3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
-| {{ndóò}} | pronoun | he, she (remote past) | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
-| {{va}} | verb | be (past); past progressive auxiliary | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{vɔ}} | particle | not yet (vɔ … le) | [GEN.2.5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{bɛnda}} | verb | must, should; (neg.) must not | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{co}} | verb | be; progressive auxiliary | [Gen 1:7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{ndáà}} | pronoun | they (remote past) | [Gen 6:3](https://www.bible.com/bible/1394/GEN.6.3.BKG) |
+| {{ndóò}} | pronoun | he, she (remote past) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
+| {{va}} | verb | be (past); past progressive auxiliary | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{vɔ}} | particle | not yet (vɔ … le) | [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) |
 
 ### 9.4.6 Yes
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{le}} | particle | not (clause-final negation) | [GEN.1.2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
-| {{oi}} | interjection | yes | [GEN.24.58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
-| {{ɛ-ɛ}} | interjection | no | [GEN.3.2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
+| {{le}} | particle | not (clause-final negation) | [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{oi}} | interjection | yes | [Gen 24:58](https://www.bible.com/bible/1394/GEN.24.58.BKG) |
+| {{ɛ-ɛ}} | interjection | no | [Gen 3:2](https://www.bible.com/bible/1394/GEN.3.2.BKG) |
 
 ### 9.6 Connected with, related
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{kɔlɔɔ}} | noun (o) | matter, cause, reason; (le kɔlɔ yɛɛ) why — *Southern Kissi (Childs 2000) :* meaning, significance, rationale | [GEN.11.9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
+| {{kɔlɔɔ}} | noun (o) | matter, cause, reason; (le kɔlɔ yɛɛ) why — *Southern Kissi (Childs 2000) :* meaning, significance, rationale | [Gen 11:9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
 
 ### 9.6.3 Discourse markers
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{le hee}} | conjunction | then; therefore |  |
-| {{lelan}} | conjunction | therefore, so | [GEN.2.24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
-| {{mi}} | conjunction | and (then); so that | [GEN.1.1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
-| {{nduyɛ}} | conjunction | however, indeed | [GEN.9.4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
-| {{sisa}} | adverb | now, now then (lelan sisa) | [GEN.24.49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
+| {{lelan}} | conjunction | therefore, so | [Gen 2:24](https://www.bible.com/bible/1394/GEN.2.24.BKG) |
+| {{mi}} | conjunction | and (then); so that | [Gen 1:1](https://www.bible.com/bible/1394/GEN.1.1.BKG) |
+| {{nduyɛ}} | conjunction | however, indeed | [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
+| {{sisa}} | adverb | now, now then (lelan sisa) | [Gen 24:49](https://www.bible.com/bible/1394/GEN.24.49.BKG) |
 
 ### 9.7 Name
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{diolan}} | noun (lan) | name; renown | [GEN.1.5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
-| {{veelɔnndo}} | verb | be called, be named — *Southern Kissi (Childs 2000) :* call oneself | [JER.7.10](https://www.bible.com/bible/1394/JER.7.10.BKG) |
+| {{diolan}} | noun (lan) | name; renown | [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{veelɔnndo}} | verb | be called, be named — *Southern Kissi (Childs 2000) :* call oneself | [Jer 7:10](https://www.bible.com/bible/1394/JER.7.10.BKG) |

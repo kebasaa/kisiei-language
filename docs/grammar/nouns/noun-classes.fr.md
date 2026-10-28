@@ -80,7 +80,7 @@ Le pluriel est traité à la page [Pluriel](plural.md).
 
 La Bible confirme les grandes lignes du système décrit en 1979 : forme pleine et forme radicale, terminaisons de classe et reprise de la classe sur les déterminants. Elle apporte deux précisions :
 
-1. Les terminaisons en *-nd-* gardent la nasale finale du radical, qu'elle soit *n* ou *ŋ* : {{mɛnndan}} (radical *mɛn-*), mais {{lɛŋnden}} (radical {{lɛŋ}}). Voir [Consonnes](../../orthography/consonants.md#n-et-ŋ).
+1. Les terminaisons en *-nd-* gardent la nasale finale du radical, qu'elle soit *n* ou *ŋ* : {{mɛnndan}} (radical *mɛn-*), mais {{lɛŋnden}} (radical {{lɛŋ}}). Voir [Consonnes](../../orthography/consonants.md#n-et).
 2. Quand un groupe nominal se termine par une relative ou un complément, la classe du nom est **reprise à la fin du groupe** par un référent attaché par trait d'union ({{kɔngɔ vesɛi fula-o}}). Voir [Accord](../agreement.md).
 
 ## Masculin et féminin

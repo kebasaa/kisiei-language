@@ -196,6 +196,17 @@ TEXT = {
 FLAG = {"attested": "", "respelled": "\\|r", "check": "\\|?"}
 
 
+def bible_label(ref, lang):
+    src = (ROOT / "tools" / "kisiei_hooks.py").read_text(encoding="utf-8")
+    books = {}
+    for m in re.finditer(r'"([1-3A-Z]{3})": \("([^"]+)", "([^"]+)"\)', src):
+        books[m.group(1)] = (m.group(2), m.group(3))
+    book, _, rest = ref.partition(".")
+    ch, _, vs = rest.partition(".")
+    name = books.get(book, (book, book))[0 if lang == "fr" else 1]
+    return f"{name} {ch}" + ((("," if lang == "fr" else ":") + vs) if vs else "")
+
+
 def export_page(lang, entries, domains, words):
     t = TEXT[lang]
     li = 0 if lang == "fr" else 1
@@ -221,7 +232,7 @@ def export_page(lang, entries, domains, words):
             pos = POS[e["pos"]][li] + (f" ({e['class']})" if e.get("class") else "")
             b = bible_info(e, words)
             if b:
-                src = f"[{b[1]}]({BIBLE_URL.format(ref=b[1])})"
+                src = f"[{bible_label(b[1], lang)}]({BIBLE_URL.format(ref=b[1])})"
             elif e.get("keita"):
                 src = f"Keita 1979, p. {e['keita'].get('page', '?')}"
             else:
