@@ -2,17 +2,19 @@
 
 ## The seven vowels
 
-Kisiei has seven vowels, like Southern Kissi [[(Childs1995, p. 35)]]. Two of them are written with letters that do not exist in French.
+Kisiei has seven vowels, like Southern Kissi [[(Childs1995, p. 35)]]. Two of them are written with letters that are not part of the English alphabet.
 
 | Letter | Pronunciation | Example | Meaning |
 | --- | --- | --- | --- |
-| **i** | as in French *lit* | {{pilɛ}} | one |
-| **e** | close *é*, as in French *été* | {{pelei}} | foot |
-| **ɛ** | open *è*, as in French *père* | {{lɛŋ}} | ground, earth |
-| **a** | as in French *papa* | {{bala}} | hands |
-| **ɔ** | open *o*, as in French *port* | {{pɔmbɔɔ}} | small, younger |
-| **o** | close *o*, as in French *eau* | {{yondoo}} | bush |
-| **u** | *ou*, as in French *tout* | {{cuaa}} | child |
+| **i** | *i* of *machine* | {{pilɛ}} | one |
+| **e** | close *e*, like *ay* in *say* but without the glide towards *ee* | {{pelei}} | foot |
+| **ɛ** | open *e*, as in *bed* | {{lɛŋ}} | ground, earth |
+| **a** | *a* of *father* | {{bala}} | hands |
+| **ɔ** | open *o*, as in *law* (British *thought*) | {{pɔmbɔɔ}} | small, younger |
+| **o** | close *o*, like *o* in *go* but without the glide towards *oo* | {{yondoo}} | bush |
+| **u** | *oo* of *food* | {{cuaa}} | child |
+
+English speakers should keep every vowel **pure**: Kisiei *e* and *o* do not glide like English *say* and *go*.
 
 !!! rule "Rule"
     Always distinguish **e / ɛ** and **o / ɔ**: they are different vowels, which change the meaning of words. Do not write *é*, *è* or *ö*: the *è* and *ö* of the old spelling become **ɛ** and **ɔ** (see [From the old to the new spelling](old-and-new.md)).

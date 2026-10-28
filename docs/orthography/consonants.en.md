@@ -4,23 +4,23 @@
 
 | Letter | Pronunciation | Example | Meaning |
 | --- | --- | --- | --- |
-| **b** | as in French | {{bala}} | hands |
-| **c** | [c], between *t* and *tch* (French *tiens* said quickly) | {{cuaa}} | child |
-| **d** | as in French | {{diolan}} | name |
-| **f** | as in French | {{fula}} | go out |
+| **b** | as in *bed* | {{bala}} | hands |
+| **c** | [c], between *t* and *ch*, like *t-y* in *got you* said quickly | {{cuaa}} | child |
+| **d** | as in *day* | {{diolan}} | name |
+| **f** | as in *fun* | {{fula}} | go out |
 | **h** | always pronounced, as in English *house* | {{hun}} | come |
-| **k** | as in French | {{kalaa}} | mother |
-| **l** | as in French; *ll* is a long *l* | {{lɛŋ}} / {{kɔllo}} | ground / heart |
-| **m** | as in French | {{mɛnndan}} | water |
-| **n** | as in French | {{nin}} | in |
+| **k** | as in *skin*, without a puff of air | {{kalaa}} | mother |
+| **l** | as in *let*; *ll* is a long *l*, as in *tall lamp* | {{lɛŋ}} / {{kɔllo}} | ground / heart |
+| **m** | as in *man* | {{mɛnndan}} | water |
+| **n** | as in *net* | {{nin}} | in |
 | **ŋ** | *ng* of English *sing* | {{ŋuɛɛnu}} | five |
-| **ɲ** | *gn* of French *agneau* | {{ɲɛ}} | thing |
-| **p** | as in French | {{pee}} | river |
+| **ɲ** | *ny* of *canyon* | {{ɲɛ}} | thing |
+| **p** | as in *spin*, without a puff of air | {{pee}} | river |
 | **s** | always hissing, even between two vowels | {{sɔɔn}} | words |
-| **t** | as in French | {{tiɔn}} | two |
-| **v** | as in French | {{vana}} | person |
+| **t** | as in *stop*, without a puff of air | {{tiɔn}} | two |
+| **v** | as in *van* | {{vana}} | person |
 | **w** | *w* of *watt*, only after a vowel | {{taw}} | much, many |
-| **y** | *y* of French *yeux* | {{yaa}} | three |
+| **y** | *y* of *yes* | {{yaa}} | three |
 
 In Southern Kissi, *b* and *d* are implosive and occur mainly at the beginning of words [[(Childs1995, p. 27)]]; *c* there varies between [tʃ] and an almost velar articulation [[(Childs1995, p. 31)]].
 
