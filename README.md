@@ -53,7 +53,7 @@ scan (PDF)  →  faithful transcription (old orthography)  →  converted text (
 
 | Source | Transcription | Conversion |
 | --- | --- | --- |
-| Kissie fondamental (1979) | In progress: typescript pp. 1–148, lexicon up to "La société" (PDF pp. 1–168 of 189) | Not started |
+| Kissie fondamental (1979) | Complete: all 189 PDF pages (typescript pp. 1–165 and bibliography; the annex of tales is missing from the scan) | Not started |
 
 ### Transcription conventions
 

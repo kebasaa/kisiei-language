@@ -4,7 +4,7 @@
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
 > - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
-> - **Pages transcribed so far:** title page, table of contents, avant-propos, introduction, phonétisme, radicaux, the noun (simple, plural, compound, derived), the noun functions, qualifying adjectives, demonstratives, possessives, interrogatives, indefinites, cardinal and ordinal numerals, personal and relative pronouns, and the verb and its conjugation, the verb lexicon, adverbs, particles and linking words, syntax (alliterative structure, simple and complex sentences), and the Kisiei–French lexicon up to "La société" (typescript pp. 1–148). PDF pages 1 and 3–168 of 189 (PDF 126 is a duplicate scan of p. 111); PDF page 2 is the inserted orthography sheet and is not part of the original.
+> - **Complete:** all 189 PDF pages are transcribed — title page, contents, avant-propos, introduction, phonétisme, grammar, syntax, the Kisiei–French lexicon with its conversation texts, and the bibliography (typescript pp. 1–165). PDF page 2 is the inserted orthography sheet and is not part of the original; PDF pages 126 and 178 are duplicate scans of pp. 111 and 157. The annex of tales listed in the contents (pp. 166–184) is not in the scanned copy.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
 ---
@@ -5095,3 +5095,609 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Tyèlèkpöö | Tyè-lè-kpöö | le bébé |
 | Tyèw | Tyèw | l'escalve |
 | Tyuaamböö | Tyuaa-mböö | l'enfant |
+
+> ✎ [Handwritten notes, p. 149](kissie%20fondamental%20(handwritten%20notes).md#p-149-pdf-169)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Vana balafondo ou<br>Vanaiköö | Va-na/Ba-la-fon-do<br>Va-nai-köö | le pauvre |
+| Vanabolofaa | Va-na/Bo-lo-faa | le riche |
+| Vana latyoova | Va-na/la-tyoo-va | le menteur |
+| Vana tambèiyo | Va-na-ta-mbèi-yo | l'infirme |
+| Vanatyieoyèi | Va-na-tyieo-yèi | l'humanisme |
+| Vanayèi | Va-na-yèi | la parenté |
+| Vuiyo | Vui-yo | le voleur |
+| Volion | Volion | l'argent |
+| Yaamöö | Yaa-möö | l'ennemi |
+| Yeelannöö | Yee-lan-nöö | l'allié |
+
+<u>YILOO BISIO</u>
+
+Voni kène voni kènè !
+Mba nisènè !
+Vèè la va nan ?
+Dènèpalan hoo haw kani
+Vonsuè a dènèpalaa, n tyo diom pilè
+Yiyaa tyo. Ntyalnun
+Sakila o kö o num ndo mbo tiiya o tyanhaa nummda lo
+Saa ! Faya ! aa mbo tiiya o naa lo
+Kolaa pilè a siiligon belenhuèèn, tolua ni
+Balika kaka o löèi, tyièè nummdo ni
+Maa i yönnun hoo ve, bandu bu
+Amiina
+Mèi munguo ya i tyo ni
+Sèiyo puusia a kundèiyo
+La löl kèndè.
+
+### LA RELIGION
+
+> ✎ [Handwritten notes, p. 150](kissie%20fondamental%20(handwritten%20notes).md#p-150-pdf-170)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bibuloo | Bi-bu-loo | la bible |
+| Bölöön | Bö-löö | le chapelet |
+| Bolle (ou Bolte)<br>Sèllo | Bol-le/sèl-lo | l'imam |
+| Dinaa | Di-naa | la religion musulmane |
+| Dumbu kilitia | Du-mbu/ki-li-tia | -"- chrétienne |
+| Hala | Ha-la | Dieu |
+| Haliyènè | Ha-li-yè-nè | le Paradis |
+| Hiyinöö | Hi-yi-nöö | le pélerin |
+| Hiyioo | Hi-yioo | le pélerinage |
+| Kalankafoo | Ka-lanèka-foo | le revenant |
+| Kilitinöö | Ki-li-ti-nöö | le chrétien |
+| Kisöösinöö | Ki-söö-si-nöö | le Protestant |
+| Kilitilen | Ki-li-ti-len | le christianisme |
+| Kila hala | Ki-la/ha-la | le Prophète |
+| Yondanöö Sèllo | Yon-da-nöö/Sèl-lo | le muezzin |
+| Kitabuo | Ki-ta-buo | le coran |
+| Laalantènöö | Laa-lan-te-nöö | le païen |
+| Mèlèkanöö | Mè-lè-ka-nöö | l'ange |
+| Misilio | Mi-si-lio | la mosquée |
+| Misiliminöö | Mi-si-li-mi-nöö | le musulman |
+| Mandenöö | Man-de-nöö | le marabout |
+| Nyahanama | Nya-ha-na-ma | l'Enfer |
+| Nyamavuloo | Nya-ma-vu-loo | le fantôme |
+| Pulön sèllo | Pu-lön/sèl-lo | l'ablution |
+| Pèèlunöö | Pèè-lu-nöö | le prêtre |
+| Sèvèi | Sè-vèi | l'amulette |
+| Tyièi hala | Tyièi-ha-la | l'église |
+| Tyamndo | Tyam-ndo | la magie |
+| Yallo | Yal-lo | le fétiche |
+| Yoomoo | Yoo-moo | l'âme |
+
+> ✎ [Handwritten notes, p. 151](kissie%20fondamental%20(handwritten%20notes).md#p-151-pdf-171)
+
+<u>DINALAN</u>
+
+- Poo kuè misilio tyo yè nanu ?
+- O pembei tyoo, o pööndo kööli
+- Vèè num tyo lakö le ?
+- Kilitinöö ya tyo ni
+- Kuè hina tosa yè sèllo ?
+- O mision naa naa n tosa ~~sèllo~~ ni
+- Kè tyan nummdo hoo yè ?
+- Kisöösinöö o tyo ni
+- Mèè poo ke ya mènndan mii pulun le kölan o sèllo
+- Mènndan ma tyo ni o kunga nin
+- Solul la pö valaa nuu a bölöön
+- Toei yö nda sèllo yondaa.
+
+### DIVISION DU TEMPS
+
+> ✎ [Handwritten notes, p. 152](kissie%20fondamental%20(handwritten%20notes).md#p-152-pdf-172)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Vösio | Vo-sio | l'année |
+| Paangiei | Paa-ngei | le mois |
+| Pondoo | Pon-doo | Janvier |
+| Tèèkpaa | Tèè-kpaa | Février |
+| Fuo | Fuo | Mars |
+| Nyaakuèiyo | Nya-kuèi-yo | Avril |
+| Bukuloo | Bu-ku-loo | Mai |
+| Koondo | Koo-ndo | Juin |
+| Suèèsuèö | Suèè-suèö | Juillet |
+| Naanöö | Naa-nöö | Août |
+| Tapio | Ta-pio | Septembre |
+| Saa | Saa | Octobre |
+| Bèngufönö | Bè-ngu-fö-nö | Novembre |
+| Yindimiiyo | Yin-di-mii-yoo | Décembre |
+| Löö | Löö | la semaine |
+| Paalen | Paa-len | le jour |
+| Sayèiyo | Sa-yèi-yo | lundi |
+| Tambèiyo | Ta-mbèi-yo | mardi |
+| Fayèiyo | Fa-yèi-yo | mercredi |
+| Falèiyo | Fa-lèi-yo | jeudi |
+| Nyumèiyo | Nyu-mèi-yo | vendredi |
+| Halèiyo | Ha-lèi-yo | samedi |
+| Kundèiyo | Kun-dèi-yo | dimanche |
+| Tyièi | Tyièi | hier |
+| Pèi | Pèi | avant-hier |
+| Tyiei dii | Tyièi/dii | hier matin |
+| Haw | Haw | aujourd'hui |
+| Siödii | Siö-dii | demain |
+| Dièn | Dièn | après-demain |
+| Ndili | Ndi-li | le surlendemain |
+| Tyiei työl | Tyiei/Työl | hier soir |
+| Idii | I-dii | le matin |
+| Ityöl | I-työl | le soir-la nuit |
+| Ipala | I-pa-la | la journée |
+
+> ✎ [Handwritten notes, p. 153](kissie%20fondamental%20(handwritten%20notes).md#p-153-pdf-173)
+
+<u>Rencontre de deux amis ou de deux parents après un temps de séparation</u>
+
+| | |
+| --- | --- |
+| <u>Seku</u> | Bom nuu isè ! |
+| <u>Sulo</u> | Mba isè poo nuu ! A tyo kèndè |
+| <u>Seku</u> | Mèèmèè le, num tyo kèndè ? |
+| <u>Sulo</u> | I vöön te. Ntyalnun |
+| <u>Seku</u> | Yunguo tyo kèndè ? |
+| <u>Sulo</u> | Tana vö le. Köè n va yè le diin ndoo ? |
+| <u>Seku</u> | I va o naa lo tyiee |
+| <u>Sulo</u> | Vè a mèi nda kèndè |
+| <u>Seku</u> | Tana oo tana tyo vö lon te, mèè maamaa tyo a naa ni |
+| <u>Sulo</u> | Naa yè bii yè ndu ? |
+| <u>Seku</u> | Pelei hindun ni |
+| <u>Sulo</u> | Kè lende n mèi ndu ni ? |
+| <u>Seku</u> | Kasima söla mèlèka le, haw fisa ! o tyal tin |
+| <u>Sulo</u> | Maa mèlèka foola |
+| <u>Seku</u> | Amiina |
+| <u>Sulo</u> | Mèè poo nuu, yiyaa ni. Bi fandaa |
+| <u>Seku</u> | Nuvali, nèè hoo fula va maa o tyelen mungu lon mbo hiaw hoo fö ! |
+| <u>Sulo</u> | Amiina |
+| <u>Seku</u> | Balika (Kaka) |
+| <u>Sulo</u> | O tyo balika le, bèè nummdo ni |
+| <u>Seku</u> | Mèè bom nuu, hiovöö ya tyo ni |
+| <u>Sulo</u> | Nuvali a yilöö n tyiikan vèlè. |
+
+### LE CIEL - L'ATMOSPHERE
+
+> ✎ [Handwritten notes, p. 154](kissie%20fondamental%20(handwritten%20notes).md#p-154-pdf-174)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Fitilio | Fi-ti-lio | le crépuscule |
+| Halaa | Ha-laa | le ciel |
+| Hoeiye | Hoei-ye | l'air-le vent-le froid |
+| Kèmndan | Kèm-ndan | la rosée |
+| Luei | Luei | l'étoile |
+| Mömndo | Möm-ndo | le brouillard |
+| Ninginangaa | Ni-ngi-na-ngaa | l'arc-en-ciel |
+| Nyumndan | Nyum-ndan | l'obscurité |
+| Nyètengaa | Nyè-te-ngaa | la lumière |
+| Paalen | Paa-len | le soleil |
+| Paale kalalen | Paa-le/ka-la-len | soleil de midi |
+| Paangei | Paa-ngei | la lune |
+| Pangeloo | Pa-nge-loo | la lueur |
+| Sialten | Sial-ten | la saison des pluies |
+| Tannden | Tan-nden | la foudre |
+| Vöölen | Vöö-len | la saison sèche |
+| Yumyumbuo | Yum-yu-mbuo | les nuages |
+
+<u>VOOLEN</u>
+
+| | |
+| --- | --- |
+| <u>Fode</u> | Vatyoo nan haw |
+| <u>Hali</u> | Tonya ! yumyumbuo tyo tyoo le |
+| <u>Fode</u> | Paalen le tyo nhamanhama |
+| <u>Hali</u> | Vöölen ni |
+| <u>Fode</u> | Hangullo vèli tyo böö |
+| <u>Hali</u> | I tyo lalle taw |
+| <u>Fode</u> | Ya bèè, lalle tiw ya bö |
+| <u>Hali</u> | N kö tyal o vunduan |
+| <u>Fode</u> | Peelan a kölönndan la vesa |
+| <u>Hali</u> | La koo ! Haalaa tyo sia le |
+| <u>Fode</u> | N könnun pulönndo o pee ! |
+| <u>Hali</u> | N könnun. |
+
+### GEOGRAPHIE
+
+> ✎ [Handwritten notes, p. 155](kissie%20fondamental%20(handwritten%20notes).md#p-155-pdf-175)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bundètyieo | Bun-dè-tyieo | la clairière |
+| Dalaa | Da-laa | l'étang |
+| Fondaa | Fo-ndaa | le lieu |
+| Foloo, Kpolonndo | Fo-lo, Kpo-lon-ndo | la vallée |
+| Köngöö | Kö-ngöö | le rivage |
+| Lènnden | Lèn-nden | le pays, Nation |
+| Loolio | Loo-lio | la boue |
+| Mènndan | Mèn-ndan | l'eau |
+| Mènma tuwvan | Mèn-ma/Tuw-van | -"- chaude |
+| Mènma nyuluan | -"-/Nyu-luan | -"- fraîche |
+| -"- pölulan | -"-/Pö-lu-lan | -"- tiède |
+| ~~Piöö~~, haalan | Piöö ; haa-laa | la pluie |
+| Piöö bènduo | Piöö/bè-nduo | la tornade |
+| Peo | Peo | la rivière |
+| Peekolaa | Pee-ko-laa | la fontaine |
+| Pembei | Pe-mbei | la montagne |
+| Powvo | Pow-vo | la pierre, caillou |
+| Pölönndo | Pö-lön-ndo | le marécage |
+| Puuluo | Puu-luo | la terre |
+| Sayalen | Sa-ya-len | l'herbe de savane |
+| Sioonde | Sioon-de | le sable |
+| Soondo | Soo-ndo | le trou |
+| Tandaa | Ta-ndaa | la contrée |
+| Tèiye | Tèi-ye | le confluent |
+| Tèènön | Tèè-nön | le gravier |
+| Tèlèlöö | Tè-lè-löö | la surface |
+| Tinndo | Tin-ndo | l'île |
+| Tyunduo | Tyun-nduo | la poussière |
+| Vundulen | Vu-ndu-len | <ins>l'ombre</ins> |
+
+> ✎ [Handwritten notes, p. 156](kissie%20fondamental%20(handwritten%20notes).md#p-156-pdf-176)
+
+<u>SIALTEN</u>
+
+| | |
+| --- | --- |
+| <u>Pasikali</u> | Poo, hoeiye tyo haw Fukufuku |
+| <u>Molisi</u> | Nua, piöö kumbu tyoo |
+| <u>Pasikali</u> | Paale bè tyo fula lediin ndoo le |
+| <u>Molisi</u> | Sialten ni |
+| <u>Pasikali</u> | Haalaa kandu denhio |
+| <u>Molisi</u> | A tyo työ nyèvolia le |
+| <u>Pasikali</u> | N Kelenha, piöö kandu delio |
+| <u>Molisi</u> | ~~Piöö~~ <ins>Haalaa</ins> Siaa vèlè tyièi taw-taw |
+| <u>Pasikali</u> | Piöö bènduo va kon ni |
+| <u>Molisi</u> | Mi tannden le del |
+| <u>Pasikali</u> | Peelan la työn |
+| <u>Molisi</u> | Mèndan ma tyo nènèka |
+| <u>Pasikali</u> | Ma hin vèlè o hunndan nin nyèkèndèi |
+| <u>Molisi</u> | Kon nènhinin valtan ni. |
+
+### LA CHASSE - LES ARMES - LA GUERRE
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Ballo | Bal-lo | la lance |
+| Bèlènden | Bè-lè-den | la flèche |
+| Bölö ntyilinndo | Bö-lö/ntyi-lin-ndon | la cartouchière |
+| Bulu yekpandio | Bu-lu/Ye-kpan-dio | le canon de fusil |
+| Dolinnde | Do-lin-nde | l'hameçon |
+| Delalöötyoo | De-löö-tyoo | Agression |
+| Diyöökoyaa | Di-yöö-ko-yaa | Assassinat |
+| Dööngö le salavusuo | Döö-ngö/le/sa-la-vu-suo | la base militaire |
+| Fayaa | Fa-yaa | la dynamite |
+| Fayaa Työwvo | Fa-yaa/Työw-vo | la bombe |
+| Faandaa | Faa-ndaa | la fronde |
+| Foofoo | Foo-foo | le repère |
+| Handullo | Han-dul-lo | le bouclier |
+| Kèlèmasaa | Kè-lè-ma-saa | le chef de guerre |
+| Köngölöèi, Taasioo | Kö-ngö-löèi, Taa-sioo | la tactique |
+| Kuubanöö | Kuu-ba-nöö | le héros |
+| Kpemaa | Kpe-maa | le pacte |
+| Lalumèö | La-lu-mèö | l'armée |
+| Möèi | Möèi | le couteau |
+| Nyètyöwvo | Nyè-työw-vo | l'arme |
+| Nyèmtyöwvon | Nyèm-työw-von | l'armement |
+| Pelemundoo | Pe-le-mun-doo | la gâchette |
+| Sakiei | Sa-kiei | l'épée |
+| Söömèènöö | Söö-mèè-nöö | le brigand |
+| Söngöö | Sö-ngöö | |
+| Tiilaa | Tii-laa | assiéger |
+| Tum yekpandio | Tum/ye-kpan-dio | crosse de fusil |
+| Tyilinnde | Tyi-lin-ndo | la balle, cartouche |
+| Tyèwvo | Tyèw-vo | l'arc |
+| Tyieiyo | Tyiei-yo | la lutte |
+| Työwvo | Työwvo | la guerre |
+| Työwlaban | Työw-la-baa | combat |
+| Työwlatukpaa | Työw-la-tukpaa | l'artillerie |
+
+*(PDF page 178 is a second scan of typescript p. 157; it adds no new text and is not repeated here.)*
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Työwlömbiaa, työwtaasio | Työw-lö-mbiaa, Työw taa-sio | la guerilla |
+| Yasabaa | Ya-sa-baa | le camp |
+| Yaafalen, Fulakölio | Yaa-fa-len, Fu-la-kö-lio | la trahison |
+| Yaafanöö | Yaa-fa-nöö | le traître |
+| Yekpandio | Ye-kpan-dio | le fusil |
+
+<u>DOOSULEN</u>
+
+| | |
+| --- | --- |
+| <u>Fala</u> | N Köè naa nhion te ? |
+| <u>Saa</u> | Kuè ? |
+| <u>Fala</u> | Doosulen, a bèèndian ? |
+| <u>Saa</u> | I bèèndian. Kè a puèn nyènyè le ? |
+| <u>Fala</u> | I laalan te. I nö yekpandio, möèi a bölöö nuu |
+| <u>Saa</u> | Vè a nö ma pilan te ? |
+| <u>Fala</u> | Ta poo ! Pilanndan ma tyo yawle nilen ma balöa sö |
+| <u>Saa</u> | Kè, i tyo tun numdo työ le |
+| <u>Fala</u> | Lalianndo osi-osi ! Mi tye ndu hunöö |
+| <u>Saa</u> | Mèè n könnun niko. |
+
+### LES INSTRUMENTS & LES OUTILS
+
+> ✎ [Handwritten notes, p. 159](kissie%20fondamental%20(handwritten%20notes).md#p-159-pdf-180)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Banèöö, Kiiye | Ba-nèöö, Kii-ye | la clef |
+| Bèsuo | Bè-suo | le balai |
+| Bömböniyo | Bö-mbö-ni-yo | la bombonne |
+| Bokio | Bo-kio | l'écuelle |
+| Boloo | Bo-loo | la navette |
+| Bölöö | Bö-löö | le sac |
+| Boo tèèngaa | Boo/Tèèn-gaa | la pagaie |
+| Dèndöö | Dè-ndöö ( ́ ) | la houe |
+| Dèndöö | Dè-ndöö ( ̄ ) | la pirogue |
+| Fèlöö | Fè-löö | le van |
+| Gbèènèi, salillo | Gbèè-nèi, sa-lil-lo | la marmite |
+| Koboo | ko-boo | la boîte |
+| Kayaa | Ka-yaa | la corbeille |
+| Kambèiyo | Ka-mbèi-yo | le panier |
+| Köliiyo | Kö-lii-yo | les ciseaux |
+| Kumbuo | Ku-mbuo | le couvercle, bouchon |
+| Kuulen | Kuu-len | le soufflet |
+| Kunduvaa | Kun-du-vaa | le marteau |
+| Kpanyaa | Kpa-nyaa | les pinces |
+| Lèföö | Lè-föö | le drapeau |
+| Lèèndo, Köduuvo | Lèè-ndo, kö-duu-vo | le coupe-coupe |
+| Nboomaa, yalahiniaa | Nboo-maa, ya-la-hi-niaa | la hamac |
+| Pow le sumndo | Pow/le/sum-ndo | l'enclume |
+| Pondaa sèvaa | Pon-daa/sè-vaa | l'encre |
+| Pilannde, basi taando | Pi-lan-nde, ba-si/taa-ndo | la tabatière |
+| Peletiiyo | Pe-le-tii-yo | l'assiette |
+| Sianio | Sia-nio | la bouteille |
+| Sionnden | Sion-nden | le bâton (fouet) |
+| Sièndilen | Sièn-di-len | l'aiguille |
+| Takalaa | Ta-ka-laa | boîtes d'allumettes |
+| Tindan | Tin-daa | la canne |
+| Tyukanioo | Tyu-ka-nioo | la cuillère |
+| Taalaa, yalantaalaa | Taa-laa, ya-lan-taa-laa | la calebasse |
+| Taala kolaa | Taa-la/ko-laa | le gobelet |
+
+> ✎ [Handwritten notes, p. 160](kissie%20fondamental%20(handwritten%20notes).md#p-160-pdf-181)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Tyiei | Tyiei | le mortier |
+| Tyuei | Tyuei | la hache |
+| Yölön | Yö-lön | la chaîne |
+| Yalaa | Ya-laa | le filet |
+
+<u>O LABITAA TYUAAMBOA</u>
+
+| | |
+| --- | --- |
+| <u>Finda</u> | Dötölö isè ! |
+| <u>Dötölö</u> | Mba nde isè ! |
+| <u>Finda</u> | Tyua nuu tyo haw kèndia le |
+| <u>Dötölö</u> | Ye tyo yè ndu nèi ? |
+| <u>Finda</u> | O löl haw pii tyanndo |
+| <u>Dötölö</u> | Yè n ke yè ndu ? |
+| <u>Finda</u> | Kininian ya ken ni |
+| <u>Dötölö</u> | Hun a ndu i nuan |
+| <u>Finda</u> | Luan kudu o vösi le |
+| <u>Dötölö</u> | Nua sèbè ma koo |
+| <u>Finda</u> | Mi kuè ya köè yè a ndu ? |
+| <u>Dötölö</u> | Kö o falamasio ma kö pendu koovan nan |
+| <u>Finda</u> | Niilu kèndè Dötölö |
+| <u>Dötölö</u> | Niilu kèndè nde. |
+
+### LA MALADIE - LES MALADIES
+
+> ✎ [Handwritten notes, p. 161](kissie%20fondamental%20(handwritten%20notes).md#p-161-pdf-182)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bobönöö | Bo-bo-nöö | le muet |
+| Bolinndo | Bo-lin-ndo | la blessure |
+| Bombosoo | Bo-mbo-soo | la variole |
+| Bondokpaa | Bon-do-kpaa | l'hémorroïde |
+| Bögaa | Bön-gaa | la jaunisse |
+| Dèèluo | Dèè-luo | le vers, |
+| Fèlöö | Fè-löö | rougeole |
+| Foo | Foo | le goitre |
+| Foenöö | Feo-nöö | le médecin |
+| Fondeiyo | Fondeiyo | la bronchite. |
+| Hoeiye | Hoei-ye | le palu, la grippe. |
+| Hilihiliei | Hi-li-hi-liei | le hoquet |
+| Hindöö | Hin-döö | le furoncle. |
+| Huinden | Hui-nden | la gâle |
+| Kikinyaa | Ki-ki-nyaa | epilepsie. |
+| Koo | Koo | hernie testiculaire |
+| Kelekeloo | Ké-le-ke-loo | la coqueluche. |
+| Koovaa | Koo-vaa | les médicament. |
+| Köösinaa | Köö-si-naa | la blennhoragie |
+| Kölfulaa | Köl-fu-laa | Palpitations de coeur. |
+| Köndenöö, Kpokanöö | Kön-de-nöö, kpo-ka-nöö | Non-initié |
+| Kpasamaa | Kpa-sa-maa | sorte de gâle |
+| Kpekaa | Kpe-kaa | la tuberculose. |
+| Kuupepelan | Kuu-pe-pe-lan | les oreillons. |
+| Lèlön, naa sianhaa | Lè-lön, naa/sia-nhaa | Lèpre. |
+| Lovèi | Lo-vèi | Hernie Etranglée. |
+| Kpukpuei | Kpu-kpuei | la bosse |
+| Möikpènènöö | Möi-Kpè-nè-nöö | l'Albinos. |
+| Naa | Naa | la maladie. |
+| Naa malöö | Naa/ma-löö | -"- de sommeil |
+| Naa demboo | Naa/de-mboo | maux de ventre |
+| Naa le bollo | Naa/le/bol-lo. | -"- tête |
+| Naa ntyinndo | Naa/ntyin-ndo | -"- dent. |
+| Naa la höllo | Naa/la/höl-lo | -"- d'yeux |
+
+> ✎ [Handwritten notes, p. 162](kissie%20fondamental%20(handwritten%20notes).md#p-162-pdf-183)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Namtalen | Nam-ta-len | paralysie |
+| Pawvo | Paw-vo | la plaie |
+| Paw Pulen | Paw/Pu-len | Ulcère |
+| Paa Yomèiyo | Paa-yo-mèi-yo | fracture |
+| Seemaa | See-maa | la folie |
+| Tèèndo | Tèè-ndo | Teigne |
+| Voosanndo | Voo-san-ndo | l'entorse |
+| Yoovean | Yoo-vean | la Synovie |
+
+<u>O LABITA BENDUO</u>
+
+| | |
+| --- | --- |
+| <u>Tamba</u> | Dötölö isè ! |
+| <u>Dötölö</u> | Mba la vonsè ! vè ? |
+| <u>Tamba</u> | A vana naa nan ~~hin~~ <ins>hun</ins> ni |
+| <u>Dötölö</u> | Kuè o tyo yè |
+| <u>Tamba</u> | Nua ndön |
+| <u>Dötölö</u> | Yè sola yè ndu ? |
+| <u>Tamba</u> | O vawvo o del ni |
+| <u>Dötölö</u> | Yè o tyo yè le num |
+| <u>Tamba</u> | Bèè num ni. Vè o nö yè Diolan.. Diola ndölan aa saa Kamano |
+| <u>Dötölö</u> | La yambu ndu o kpeloo hoo tyo |
+| <u>Tamba</u> | Ntyii ! |
+| <u>Dötölö</u> | Nanun nèiyo tyo num ni |
+| <u>Vananaa</u> | O tyo lon te |
+| <u>Dötölö</u> | Nanun yè ? |
+| <u>Vananaa</u> | Lon tyo ya nèiyo |
+| <u>Dötölö</u> | Nanun yè ? |
+| <u>Vananaa</u> | Lon kpekpe nèiyo tyo ni |
+| <u>Dötölö</u> | Tamba, delöö hoo tiw ndu nyèkèndèi |
+| <u>Tamba</u> | Lakalukalu o delni ! Vè o kinda ni ? |
+| <u>Dötölö</u> | La buulante, baala nuu ni |
+| <u>Tamba</u> | Mèè fallo tyo nun tani |
+| <u>Dötölö</u> | La kö pondu koovan man, mi la hin a man |
+| <u>Tamba</u> | Fala ! num nyanun työtyö ma kö hun a koovan man |
+| <u>Dötölö</u> | Nöm lo pö ndu ikèi |
+| <u>Tamba</u> | Fallo kölan ntyo ni ? |
+| <u>Dötölö</u> | NYèla baalalan ya tyo pö bèndia ni. |
+
+<u>O FALAMASIO</u>
+
+| | |
+| --- | --- |
+| Fala | La vosè ! |
+| — | Mba ! |
+| Fala | Fallo nuel la sèböö hoo |
+| — | Koovan suulan tanyaa nda sèval num ni |
+| Fala | Kè ma tyo nan |
+| — | Ma tyo nan |
+| Fala | Vèi volion tyo yè faw-faw |
+| — | Siitiyon 280 |
+| Fala | Työm ya mèè vana tyua yè man |
+| — | Ma takan man, tyu mmö tya idii, ipala a ityöl |
+| Fala | Man yè ? |
+| — | A man, idii a idii o tyua höwvö |
+| Fala | Man o sianio ninyè ? |
+| — | O tyi pè bulönndo, a nyindin dialon a man |
+| Fala | Balika Fallo |
+| — | O tyo balika le. |
+
+> ✎ [Handwritten notes, verso of p. 163](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-163-pdf-185)
+
+### LA MUSIQUE - LES JEUX - LA DANSE
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Bangaa | Ba-ngaa | la kora |
+| Bekuiyo | Be-kui-yo | danse spectaculaire |
+| Bèèyan vomöö | Bèè-yan/vo-möö | divissation aux cailloux |
+| Dunduo | Du-nduo | le tambour |
+| Duudulen | Duu-du-len | le cache-cache |
+| Kamalindonden | Ka-ma-li-ndon-nden | le balançoire |
+| Kelennde | Ke-len-nde | Tambour xylophone |
+| Kongosalèu | Ko-ngo-sa-lèu | danse de l'opérateur après les circoncisions |
+| Koon vuuvo | Koon/vuu-vo | le jeu aux cauris |
+| Kpekpeyangaa | Kpe-kpe-ya-ngaa | danse organisée à l'occasion de la sortie des jeunes filles excisées |
+| Kpongo | Kpon-yoo | danse folklorique organisée pour extérioriser une joie |
+| Kungumaa | Ku-ngu-maa | danse organisée au son du piano traditionnel |
+| Ngeloo | Nge-loo | le carnaval |
+| Pisultan | Pi-sul-tan | les jeux en général |
+| Samkpaa | Sam-kpaa | tam-tam crépitant |
+| Sèèlan | Sèè-lan | castagnette féminine |
+| Sènden (koliden) | Sè-nden (ko-li-den) | flûte |
+| Siiyon yiiyo | Sii-yon/Yii-yo | jeux aux toupies |
+| Sinamannden | Si-na-man-nden | instrument de musique en forme d'arc à une seule corde |
+| Tambeloo | Ta-mbe-loo | tambour de guerre |
+| Tyèköö (sèköö) | Tyè-köö (Sè-köö) | castagnette masculine |
+| Yèngiyo | Yè-ngi-yo | danse exécutée sur du bois |
+| Yimböö | Yi-mböö | le tam-tam |
+| Yolan | Yo-lan | la danse |
+| Yola toomaa bondo | Yo-la/too-maa/bo-ndo | danse des femmes après l'excision avec les castagnettes |
+
+> ✎ [Handwritten notes, p. 165](kissie%20fondamental%20(handwritten%20notes).md#p-165-pdf-187)
+
+| KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
+| --- | --- | --- |
+| Yola toomaa pöndan | Yo-la/too-maa/pö-ndan | danse des hommes dans la fôrêt sacrée avec le kelenade |
+| Yolen | Yo-len | danse de jeux de fesses |
+
+<u>O LAKOLIO : TUMA PENGI POMBOO</u>
+
+| | |
+| --- | --- |
+| <u>Kumba</u> | Teeva, Yava, pèngi pömböö tiiya, nkönnun pisultan |
+| <u>Teeva</u> | Pisulta suu yèè ? |
+| <u>Yava</u> | Satoo ya yeema ni |
+| <u>Kumba</u> | Kamaalen le hew bènda |
+| <u>Teeva</u> | Mèè n veelun Sia nda Finda a Tènèn mi Kandun a kamaalen |
+| <u>Kumba</u> | Faya a Hali tyo koon vuu |
+| <u>Yava</u> | Nyuma nda Kundu tyo siiyon yiiyo. |
+
+<u>PISULTA BOLTAN</u>
+
+| | |
+| --- | --- |
+| <u>Nyuma</u> | Kundu, kuè n tyo yè ~~tan~~ <ins>lan</ins> a böl kon ? |
+| <u>Kundu</u> | I tyo lan o Falii lapisul PRL nuu tyoo |
+| <u>Nyuma</u> | Pisulta yè n tosa yè ? |
+| <u>Kundu</u> | Böllo ya i vuu ni, hun n vuu naa nhiön |
+| <u>Nyuma</u> | I kèè, o vuvaa a baa ya yeema ni |
+| <u>Kundu</u> | Kè, Sia yemaa num yè ? |
+| <u>Nyuma</u> | Kiltan te kon te saanaa ndu yeema ni |
+| <u>Kundu</u> | Yee ! Nia faw vanaa pisulaa nia tyo ni ! |
+| <u>Nyuma</u> | Pisultan la kindi vana, ni la soli vana diallon ni |
+| <u>Kundu</u> | La yöngu vèlè vana Kindia. |
+
+> ✎ [Handwritten notes, verso of p. 165](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-165-pdf-188)
+
+---
+
+*(The scan ends here with the bibliography. The "ANNEXE" of tales, proverbs and riddles listed in the table of contents — typescript pp. 166–184, "Suluku ndu Tyuilin" to "Lanhunöö dosunöö nda Kamaa" — is not included in the scanned copy.)*
+
+---
+
+## BIBLIOGRAPHIE
+
+### A -/ OUVRAGES
+
+1- <u>Ahmed Sekou TOURRE</u> : 1. Promotion Kwame NKRUMAH T<sub>19</sub>
+2. La REVOLUTION CULTURELLE T<sub>17</sub> 2è ed.
+
+2- <u>Lilias HOMBOURGER</u> : Les Langues Négro-Africaines et les Peuples qui les parlent.
+
+3- <u>Delafosse MAURICE</u> : Essai de Manuel Pratique de la Langue Mandé, Etude Grammaticale du Dialecte Djoula. M-DEL-E
+
+4- <u>Alexandre PIERRE</u> : Manuel Elémentaire de Langue Bulu. M-ALE-M
+
+5- <u>Barthe ALBERT</u> : … Elémentaire de Conversation M-BAR-M
+
+### B -/ BROCHURES
+
+1. Principes d'Orthographe et de Segmentation: LANGUE KISIEI
+   ACADEMIE DES LANGUES - Conakry -
+2. Système de Conjugaison en KISIEI (Esquisse)
+   ACADEMIE des LANGUES par le professeur Jacob Tamba TOLNO
+3. Bundöön -- Contes KISIEI -
+   ACADEMIE des LANGUES
+4. Séminaire sur la Langue Kisiei tenu à Kpekedu - Août 1976.
+
+### C -/ MEMOIRES DE DIPLOME
+
+1- <u>Jacob Tamba TOLNO</u> : Etude Descriptive du Système Phonologique du Kisiei I.P.G.A.N 1972 - 1973
+
+2- <u>Sébastien Faya TOLNO</u> : Les Nominaux en Kisiei I.P.K 1973 - 1974
+
+3- <u>Hadiatou SOW</u> : La Dérivation et la Recherche d'une Méthode de Création de Mots Nouveaux en Kisiei I.P.G.A.N 1974 - 1975
+
+4- <u>Réné Bayo KAMANO</u> : Etude Descriptive du KISIEI I.P.K 1974 - 1975
+
+5- <u>NFa Manady CAMARA</u> : Manuel de Grammaire KISIEI à l'usage des 2è et 3è Cycles. I.P.G.A.N 1975 - 1976
+
+6- <u>Nyouma IFFONO</u> : Receuil de Contes et légendes Kisi. (Textes : Traduction et Commentaire) I.P.G.A.N 1976 - 1977

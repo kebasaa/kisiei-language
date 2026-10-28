@@ -7,7 +7,7 @@
 > - `[?]` marks an uncertain reading; `[illegible]` marks a note that cannot be read. Ticks, circles and underlines without text are not recorded.
 > - **Kind**: `gloss` (meaning of a word), `translation` (meaning of a sentence), `variant` (another Kisiei form; `Kdg:` = Kissidougou / Kisiduei), `comment` (any other remark).
 > - Where the typed text in this file shows `A → B`, `B` is a handwritten correction that is already applied in the transcription.
-> - **Pages covered so far:** title page, contents and typescript pp. 1–148 (PDF pages 1 and 3–168), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
+> - **Pages covered so far:** title page, contents and the whole scan (typescript pp. 1–165, PDF pages 1 and 3–189), including handwritten-only verso pages. Pages without a section below have no handwritten notes of substance.
 
 ---
 
@@ -1905,3 +1905,196 @@ Both dialogues carry a handwritten French translation on the right; the faint ty
 | --- | --- | --- |
 | Deltyoonöö : De-löö-tyoo- | nöö (completing the syllabification; applied in the transcription) | comment |
 | *(right margin, against le roi, l'étranger, la vérité, l'enfant)* | short dashes marking these entries | comment |
+
+## p. 149 (PDF 169)
+
+The typed page number is missing on the scan; "149" is written by hand at the top. The condolence text "Yiloo bisio" has a handwritten French translation on the right.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Voni kène voni kènè ! | Bonjour | translation |
+| Vèè la va nan ? | comment ça s'est passé ? | translation |
+| Dènèpalan hoo haw kani | malheur seul d'aujourd'hui seulement | translation |
+| Vonsuè a dènèpalaa, n tyo diom pilè | bj [bonjour] pr malheur, ns sommes ensemble | translation |
+| Yiyaa tyo. Ntyalnun | c'est logement, asseyons-nous | translation |
+| Sakila o kö o num ndo mbo tiiya o tyanhaa nummda lo | ça va à toi et amis; "tyanhaa" underlined | translation |
+| Saa ! Faya ! aa mbo tiiya o naa lo | arriver; "tiiya" underlined | gloss |
+| Kolaa pilè a siiligon belenhuèèn, tolua ni | seul pagne à 50 | translation |
+| Balika kaka o löèi, tyièè nummdo ni | merci beaucoup, il est rentré de la maison [?] | translation |
+| Mèi munguo ya i tyo ni | je vais me retourner | translation |
+| Sèiyo puusia a kundèiyo | "puusia" underlined | comment |
+
+## p. 150 (PDF 170)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(above the table)* | Halatala : ciel | gloss |
+| Dinaa : la religion musulmane | mandaa (written beside it); the entry is boxed | variant |
+| Dumbu kilitia | dinaa (written under it) | variant |
+| Hiyioo : le pélerinage | musulman | gloss |
+| Kilitinöö : le chrétien | "chrétien" underlined; → fait penser aux catholiques | comment |
+| Kisöösinöö : le Protestant | J.C.; "Protestant" underlined; disciples de Jésus | comment |
+| Kila hala : le Prophète | femme [?] (faint) | comment |
+| Laalantènöö : le païen | ? | comment |
+| *(right margin, against la bible, la religion musulmane, le Paradis, le coran, l'ange, la mosquée, le musulman, le marabout, l'Enfer, l'église)* | short dashes marking these entries | comment |
+
+## p. 151 (PDF 171)
+
+The lines of the dialogue are numbered 1–6 by hand in the left margin, and a numbered French translation of the first lines is written below it. The struck-out "sèllo" in the 6th line is a handwritten deletion (applied in the transcription).
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Poo kuè misilio tyo yè nanu ? | 1. Dis, où se trouve la mosquée | translation |
+| O pembei tyoo, o pööndo kööli | 2. s/la colline, derrière le pont [?] | translation |
+| Vèè num tyo lakö le ? | Le yè (written above); 3. Pquoi tu n'y vas pas ? | translation |
+| Kilitinöö ya tyo ni | je suis chrétien | translation |
+| Kuè hina tosa yè sèllo ? | où vous faites la prière ? | translation |
+| O mision naa naa n tosa ni | Waander [?] (above "naa n") | comment |
+| Kè tyan nummdo hoo yè ? | et ton ami là, que fait-il ? | translation |
+| Kisöösinöö o tyo ni | il est protestant | translation |
+| Mèè poo ke ya mènndan mii pulun le kölan o sèllo | 4. donne-moi de l'eau pour que je me lave pour aller à la prière [?] | translation |
+| Mènndan ma tyo ni o kunga nin | l'eau est à la douche | translation |
+| Solul la pö valaa nuu a bölöön | fais sortir ma natte et pa[gne] [?] | translation |
+
+## p. 152 (PDF 172)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(above the table)* | löö pilè : une semaine | gloss |
+| Paangiei : le mois | / lune | gloss |
+| Löö : la semaine | löö kuè [?] (written beside it) | variant |
+| Paalen : le jour | / soleil | gloss |
+| *(right margin, against l'année, le mois, le jour, hier, aujourd'hui)* | short dashes marking these entries | comment |
+
+## p. 153 (PDF 173)
+
+The dialogue carries a handwritten French translation on the right, partly legible; the faint typed text of the facing page shows through at the bottom.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Bom nuu isè ! | Oncle | gloss |
+| I vöön te. Ntyalnun | pas de mal | translation |
+| Yunguo tyo kèndè ? | ti (after the question mark) | comment |
+| Tana vö le. Köè n va yè le diin ndoo ? | où tu étais … | translation |
+| I va o naa lo tyiee | j'étais au village [?] | translation |
+| Vè a mèi nda kèndè | tu les as laissés en bonne santé | translation |
+| Tana oo tana tyo vö lon te, mèè maamaa tyo a naa ni | pas de mal, mais mémé malade | translation |
+| Naa yè bii yè ndu ? | elle souffre de quoi | translation |
+| Pelei hindun ni | pied enflé | translation |
+| Kè lende n mèi ndu ni ? | tu l'as laissée comme ça ? | translation |
+| Kasima söla mèlèka le, haw fisa ! o tyal tin | K. a fait … [?] | translation |
+| Maa mèlèka foola | que Dieu m'aide [?] | translation |
+| Mèè poo nuu, yiyaa ni. Bi fandaa | honneur [?] | translation |
+| Nuvali, nèè hoo fula va maa o tyelen mungu lon mbo hiaw hoo fö ! | bénédictions, que D[ieu] … donne … [?] | translation |
+| Balika (Kaka) | beaucoup | gloss |
+| Mèè bom nuu, hiovöö ya tyo ni | je vais passer | translation |
+| Nuvali a yilöö n tyiikan vèlè. | merci pr salut, on se reverra encore | translation |
+
+## p. 154 (PDF 174)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Halaa : le ciel | halatala (written beside it) | variant |
+| Hoeiye : l'air-le vent-le froid | "froid" underlined | comment |
+| VOOLEN | L'été | gloss |
+| Ya bèè, lalle tiw ya bö | a stroke marks a letter on "bö" (reading of the typed word uncertain [?]) | comment |
+| La koo ! Haalaa tyo sia le | a stroke through the first letter of "koo" (reading uncertain: koo / boo [?]) | comment |
+| N könnun pulönndo o pee ! | the end of "pee" is cut off on the scan | comment |
+| *(right margin, against le ciel, l'air, la lumière, le soleil)* | short dashes marking these entries | comment |
+
+## p. 155 (PDF 175)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Piöö, haalan : la pluie | "Piöö" struck through and "haalan" boxed; "haa-laa" underlined in the syllable column (applied in the transcription) | comment |
+| Puuluo | a mark through the "u" (reading uncertain: Puuluo / Pulluo [?]) | comment |
+| Vundulen : (French left blank in the typescript) | l'ombre (written in the empty cell; applied in the transcription) | comment |
+| *(right margin, against le pays, l'eau, la pluie, la rivière, la pierre, la terre, le sable, le trou)* | short dashes marking these entries | comment |
+
+## p. 156 (PDF 176)
+
+The "Sialten" dialogue has a handwritten French translation written below it, one line per typed line; "Piöö" is struck out and replaced by "Haalaa" in the 8th line (applied in the transcription), and "nyèkèndèi" is underlined.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Poo, hoeiye tyo haw Fukufuku | vent souffle bcp auj[ourd'hui] | translation |
+| Nua, piöö kumbu tyoo | regarde pluie innonde marigot [?] | translation |
+| Paale bè tyo fula lediin ndoo le | soleil aussi ne sort pas s/chemin | translation |
+| Haalaa kandu denhio | pluie a commencé à ~~tomber~~ crier | translation |
+| A tyo työ nyèvolia le | couleur sonne ? [?] | translation |
+| N Kelenha, piöö kandu delio | pluie commence à tomber → dépêchons | translation |
+| Haalaa Siaa vèlè tyièi taw-taw | la pluie a tombé bcp hier | translation |
+| Piöö bènduo va kon ni | c'était gde pluie | translation |
+| Mi tannden le del | que la foudre est tombée | translation |
+| Peelan la työn | rivière s'est levée | translation |
+| Mèndan ma tyo nènèka | eau était partout | translation |
+| Ma hin vèlè o hunndan nin nyèkèndèi | que c'est venue ds le bas-fond. très bien | translation |
+| Kon nènhinin valtan ni. | ça va fortifier les gens aux travaux / travailleurs | translation |
+
+## p. 159 (PDF 180)
+
+No handwritten notes. The two "Dèndöö" entries (la houe / la pirogue) are distinguished in the typescript only by tone marks drawn by hand after the syllabification (a rising and a level stroke), rendered as ( ́ ) and ( ̄ ) in the transcription.
+
+## p. 160 (PDF 181)
+
+A handwritten French translation of the dialogue "O labitaa tyuaamboa" is written below it, one line per exchange:
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Tyua nuu tyo haw kèndia le | ma fille ne va pas bien auj[ourd'hui] | translation |
+| Ye tyo yè ndu nèi ? | qu'est ce qui lui fait mal ? | translation |
+| O löl haw pii tyanndo | elle a passé la nuit à pleurer | translation |
+| Yè n ke yè ndu ? | que lui avez vous donné ? | translation |
+| Kininian ya ken ni | quinine | translation |
+| Hun a ndu i nuan | venez avec elle je regarde | translation |
+| Luan kudu o vösi le | la nuit a passé, elle n'a pas tété | translation |
+| Nua sèbè ma koo | regarde papier qu'on a besoin | translation |
+| Mi kuè ya köè yè a ndu ? | où puis-je aller avec ? | translation |
+| Kö o falamasio ma kö pendu koovan nan | va à pharmacie acheter ce médicament | translation |
+
+## p. 161 (PDF 182)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| Bondokpaa : l'hémorroïde | ? | comment |
+| Foenöö : le médecin | sokonöö (written beside it; cf. "Sokonöö : le médecin" on p. 146) | variant |
+| *(right margin, against la blessure, les médicament)* | short dashes marking these entries | comment |
+
+## p. 162 (PDF 183)
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| A vana naa nan hin ni | "1)" in the margin; "hun" written over "hin" (applied in the transcription) | comment |
+| O vawvo o del ni | a speaker name in the typescript is overtyped ("Tamba" over "Dötölö") | comment |
+
+## Verso of p. 163 (PDF 185)
+
+The back of the sheet has no typed text (the pharmacy dialogue of p. 163 shows through in reverse). It holds a handwritten French translation of the dialogue "O labita benduo" from p. 162, numbered "1)" to match the mark on that page:
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(free note)* | 1) ns sommes venus avec malade — où est-il — le voici | translation |
+| *(free note)* | qu'a-t-il ? gagné ? — il est tombé du palmier | translation |
+| *(free note)* | qu'est-ce qu'il y est pr toi ? — c'est mon gd frère. Son nom ? Kamano | translation |
+| *(free note)* | couchez-le s/ce lit — fini ! | translation |
+| *(free note)* | c'est ici que vs avez mal ? — par là ! — où ? — là-bas j'ai mal. — où ? — c'est exactement là que " ". | translation |
+| *(free note)* | Tamba, chute cette lui donne ? — Gravement il est tombé ! Comment il sera ? | translation |
+| *(free note)* | Pas de peur, le travail est pr moi — mais vieux, t'écoute | translation |
+| *(free note)* | allez acheter médicaments, vs les amenez — Fala a couru acheter vite méd. et venu avec | translation |
+| *(free note)* | Reste près de mon fils — Vieux vs voulez aller ? — je veux aller mais j'arrange les outils d'abord | translation |
+
+## p. 165 (PDF 187)
+
+No handwritten notes. The large letters "ANNEXE" across the middle of the scan, and the faint lines of a bibliography at the bottom, are an offset ("ghost") image of a facing page, not part of p. 165. In "kuè n tyo yè tan a böl kon ?" a "l" is typed over the "t" of "tan" (applied in the transcription as "lan").
+
+## Verso of p. 165 (PDF 188)
+
+The back of the sheet has no typed text (p. 165 shows through in reverse). It holds a handwritten summary table of the possessive adjectives, headed "Adj. poss.", in three column groups by noun class (o/a/ö — e/i — an, then len — lan). Arrows and "idem" mark forms that stay the same in the plural.
+
+| Typed text | Note | Kind |
+| --- | --- | --- |
+| *(o, a, ö class)* | mon nuu, ton nummdo, son ndoo, notre naa, votre niaa, leur ndaa ↓ mes niaa / nilan, tes nummda(n), ses ndöa, ndöi, ndölan, nos naa(lan), vos niaa, niai, nialan, leurs ndai, ndei, ndalan | comment |
+| *(e, i class)* | nii, nummdo [?], ndoei; 4e nei - nai, 5e niei - niai, 6e ndai ↓ nuun, nummdon / an, ndön, naan, nian, ndan | comment |
+| *(an class)* | nian, nummdan, ndöan, naan, nian, ndan ↓ idem | comment |
+| *(len class)* | mon nilen, ton nummden, son ndölen, notre naalen, votre nialen, leur ndalen ↓ mes nii - nian, tes nummde / an, ses ndöè, ndöan, ndölan, nos nan, nai, vos nian, niai, leurs ndei, ndai, ndan | comment |
+| *(lan class)* | nilan, nummdan, ndölan, nalan, nialan, ndalan ↓ iden[t] | comment |
