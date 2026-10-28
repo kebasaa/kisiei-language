@@ -2165,25 +2165,27 @@ TABLEAU DES ADJECTIFS POSSESSIFS.
 | PERSONNES \ MODALITE | | o, a, ö | e, i | an | len | lan | Franç. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1èPers. | Sing. | Nuu | Nii | Nian | Nilen | Nilan | Mon, Ma |
-| | Pluriel | Niaa Nilan | Nuun | Nian | Nii(Nian) | Nilan | Mes |
-| 2èPers. | Sing. | Nummdo | Nummde | Nummdan | Nummden | Nummdan | Ton, Ta |
-| | Pluriel | Nummda, Num+ndan | Nummdon Nummdan | | Nummde Nummdan | | Tes |
+| | Pluriel | Niaa<br>Nilan | Nuun | Nian | Nii(Nian) | Nilan | Mes |
+| 2èPers. | Sing. | Nummdo | Nummde | Nummdan | Nummden | Numdan | Ton, Ta |
+| | Pluriel | Nummda,<br>Numndan | Nummdon<br>Nummdan | ↑ | Nummde<br>Nummdan | ↑ | Tes |
 | 3èPers. | Sing. | Ndöö | Ndöèi | Ndöan | Ndölen | Ndölan | Son, Sa |
-| | Pluriel | Ndöa, Ndöi Ndölan | Ndön | | Ndöè, Ndöan Ndölan | | |
+| | Pluriel | Ndöa,<br>Ndöi<br>Ndölan | Ndön | ↑ | Ndöè,<br>Ndöan<br>Ndölan | ↑ | |
 | 4èPers. | Sing. | Naa | Nèi(Nai) | Naan | Naalen | Nalan | Notre |
-| | Pluriel | Naalan, Naa | Naan | | Nan, Nai | | Nos |
+| | Pluriel | Naalan,<br>Naa | Naan | ↑ | Nan,<br>Nai | ↑ | Nos |
 | 5èPers. | Singu. | Niaa | Nièi(Niai) | Nian | Nialen | Nialan | Votre |
-| | Pluriel | Nialan, Niaa Niai | Nian | | Nian, Niai | | Vos |
+| | Pluriel | Nialan,<br>Niaa<br>Niai | Nian | ↑ | Nian,<br>Niai | ↑ | Vos |
 | 6èPers. | Sing. | Ndaa | Ndai | Ndan | Ndalen | Ndalan | Leur |
-| | Pluriel | Ndalan, Ndai ou Ndèi | Ndan | | Ndèi ou Ndai Ndan | | leurs |
+| | Pluriel | Ndalan,<br>Ndai ou Ndèi | Ndan | ↑ | Ndèi ou Ndai<br>Ndan | ↑ | leurs |
 
 TABLEAU DES PROMONS POSSESSIFS.
 
 | PERSONNES \ MODALITES | | o, a, ö | e - i | an | len | lan | Franç. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1èPers. | Sing. | O nuu | I nii | Ma Nian | Le Nilen | La Nilan | Le mien |
-| | Pluriel | a Niaa, I Nii, la Nialan | N Nuun | | Ma Nian I Nii | | Les miens |
+| | Pluriel | a Niaa,<br>I Nii,<br>la Nialan | N Nuun | ↑ | Ma Nian<br>I Nii | ↑ | Les miens |
 | 2èPers. | Sing. | O Nummdo | I Nummde | Ma Num-ndan | le nummden | La Num-ndan | le tien |
-| | Pluriel | a Nummda, I Nummde, la Nummdan | N Nummden | | Ma nummdan | | les tiens |
+| | Pluriel | a Nummda,<br>I Nummde,<br>la Nummdan | N Nummden | ↑ | Ma nummdan | ↑ | les tiens |
 | 3èPers. | Sing. | O Ndöö | I Ndöèi | Ma Ndöan | Le ndölen | La Ndö-lan | le Sien |
-| | Pluriel | a Ndöa | I Ndön | | Ma Ndöan | | Les Siens |
+| | Pluriel | a Ndöa | I Ndön | ↑ | Ma Ndöan | ↑ | Les Siens |
+
+In both tables, separate forms that the typescript lists in one cell are given on separate lines. `↑` marks an *an* or *lan* cell that the typescript writes once, centred across the Sing. and Pluriel rows, so the form above applies to both.
