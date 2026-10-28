@@ -9,7 +9,8 @@ Les adverbes sont invariables ; ils se placent en général **après le verbe et
 | {{hau}} | aujourd'hui, maintenant | {{kandɔɔ hau}} « dès maintenant » [[GEN.4.11]] |
 | {{nihau}} | maintenant, cette fois | {{Má cè nihau paa}} « Voici maintenant l'os » [[GEN.2.23]] |
 | {{sunsun}} | maintenant, tout de suite | {{Lelan sunsun}} « Maintenant donc » [[GEN.21.23]] |
-| {{idiiyo}} | le matin | {{Diimandɔɔ idiiyo púŋ}} « le lendemain de bon matin » [[GEN.21.14]] |
+| {{siɔdii}} | demain | {{Siɔdii idii}} « demain matin » [[GEN.19.2]] |
+| {{idii}}, {{idiiyo}} | le matin, tôt | {{Diimandɔɔ idiiyo púŋ}} « le lendemain de bon matin » [[GEN.21.14]] |
 | {{icɔllo}} / {{ipalaa}} | le soir / le matin, le jour | {{Mí ɲɔɔ yɔŋnun icɔllo a ipalaa}} « Il y eut un soir et il y eut un matin » [[GEN.1.5]] |
 | {{ɲinasiaŋ}} | l'an prochain | {{boondei he ɲinasiaŋ-ndo}} « à cette époque, l'an prochain » [[GEN.17.21]] |
 | {{le fɛɛn a fɛɛn}} | pour toujours | {{o co vannɔn yoomu le fɛɛn a fɛɛn}} « il vivrait éternellement » [[GEN.3.22]] |
