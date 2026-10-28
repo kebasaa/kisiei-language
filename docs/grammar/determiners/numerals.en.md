@@ -10,7 +10,7 @@ The forms and rules on this page are drawn from the texts of the Kisiei Bible [[
 | --- | --- | --- | --- |
 | 1 | {{pilɛ}} | 6 | {{ŋɔmpum}} |
 | 2 | {{tiɔn}} | 7 | {{ŋɔmmɛw}} |
-| 3 | {{yaa}} | 8 | {{ŋɔmaa}} |
+| 3 | {{yáá}} | 8 | {{ŋɔmaa}} |
 | 4 | {{hiɔɔlu}} | 9 | {{ŋɔmahiɔɔlu}} |
 | 5 | {{ŋuɛɛnu}} | 10 | {{tɔ́}} |
 
@@ -68,7 +68,7 @@ Without a pronoun, the number follows the noun directly: {{kɔla palɛi yaa}} �
 | Ordinal | *o* class | *i* class | *len* class |
 | --- | --- | --- | --- |
 | second | {{diinndɔɔ}} | {{diinndɔɛi}} | |
-| third | {{yaandɔɔ}} | | |
+| third | {{yàándɔɔ}} | | |
 | fourth | {{hiɔɔlundɔɔ}} | | |
 | seventh | {{ŋɔmmɛwndɔɔ}} | | {{ŋɔmmɛwndɔlen}} |
 | tenth | {{tɔ́ndɔɔ}} | {{tɔ́ndɔɛi}} | |

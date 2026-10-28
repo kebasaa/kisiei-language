@@ -31,7 +31,7 @@ L'alphabet kisiei compte **26 lettres**. Les lettres propres au kisiei sont **ɛ
 | u | U | u | {{cuaa}} | enfant |
 | v | V | ve | {{vana}} | personne |
 | w | W | we | {{taw}} | beaucoup |
-| y | Y | ye | {{yaa}} | trois |
+| y | Y | ye | {{yáá}} | trois |
 
 Les noms des lettres suivent l'usage décrit en 1979 [[(Keita1979, p. 14)]] : on prononce chaque consonne suivie d'un *e* bref (*be, de, fe…*) et non à la française (*bé, dé, èf…*).
 

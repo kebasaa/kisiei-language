@@ -141,7 +141,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
 | {{siɔw\|r}} | verbe | pourrir | Keita 1979, p. 116 |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | nom (o) | mort, cadavre — *kissi du Sud (Childs 2000, en anglais) :* (adjective) dead, deceased | [Gn 23,3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vílɛ́iyo}}, pl. {{vílɛ́iya}} | nom (o) | mort, cadavre — *kissi du Sud (Childs 2000, en anglais) :* (adjective) dead, deceased | [Gn 23,3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
 
 ### 1.5 Plantes
 
@@ -249,12 +249,12 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{dɔkuuvo\|r}} | nom (o) | canard | Keita 1979, p. 136 |
 | {{dɛluo\|r}}, pl. {{dɛlua\|r}} | nom (o) | ver — *kissi du Sud (Childs 2000, en anglais) :* chigger; any small insect such as a caterpillar or worm | Keita 1979, p. 136 |
 | {{faaboo\|r}} | nom (o) | perroquet — *kissi du Sud (Childs 2000, en anglais) :* a bird, perhaps a small green parrot; also a figure of the initiation society | Keita 1979, p. 136 |
-| {{kaangoo}}, pl. {{kaangoa}} | nom (o) | termite ; mite | [Nb 17,3](https://www.bible.com/bible/1394/NUM.17.3.BKG) |
+| {{kaangoo\|?}}, pl. {{kaangoa\|?}} | nom (o) | termite ; mite | Keita 1979, p. 136 |
 | {{kamaa}} | nom (o) | éléphant | [1 S 14,45](https://www.bible.com/bible/1394/1SA.14.45.BKG) |
 | {{kambalaa}} | nom (o) | insecte — *kissi du Sud (Childs 2000, en anglais) :* a large edible grasshopper | [Lv 11,20](https://www.bible.com/bible/1394/LEV.11.20.BKG) |
 | {{kankpoo\|r}} | nom (o) | pigeon ramier — *kissi du Sud (Childs 2000, en anglais) :* dove, pigeon | Keita 1979, p. 136 |
 | {{kiinkiindo\|r}} | nom (o) | mouche maçonne | Keita 1979, p. 136 |
-| {{koondo}}, pl. {{koondoa}} | nom (o) | épervier | [Dt 14,15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
+| {{kòòndo}}, pl. {{kòòndoa}} | nom (o) | épervier | [Dt 14,15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
 | {{kovɔ́ɔ̀}} | nom (o) | aigle — *kissi du Sud (Childs 2000, en anglais) :* a small species of eagle | [Gn 41,34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
 | {{kposio}} | nom (o) | lézard — *kissi du Sud (Childs 2000, en anglais) :* lizard with a red head | [Lv 11,30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
 | {{kpɔɔndo\|r}} | nom (o) | cynocéphale, babouin | Keita 1979, p. 136 |
@@ -795,7 +795,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kumbɔɔ}} | verbe | couvrir ; enterrer | [Gn 23](https://www.bible.com/bible/1394/GEN.23.BKG) |
 | {{piɔ́mndo}} | verbe | mourir ; la mort | [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
 | {{sɛiyo}}, pl. {{sɛilan}} | nom (o) | tombe, tombeau | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | nom (o) | mort, cadavre — *kissi du Sud (Childs 2000, en anglais) :* (adjective) dead, deceased | [Gn 23,3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vílɛ́iyo}}, pl. {{vílɛ́iya}} | nom (o) | mort, cadavre — *kissi du Sud (Childs 2000, en anglais) :* (adjective) dead, deceased | [Gn 23,3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
 | {{vuo}} | verbe | mourir | [Gn 43,8](https://www.bible.com/bible/1394/GEN.43.8.BKG) |
 
 ## 3. Langage et pensée
@@ -901,7 +901,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | --- | --- | --- | --- |
 | {{biwnun}} | verbe | supporter, endurer ; patienter | [Ne 9,17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
 | {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | nom (o) | merveille, prodige ; étonnement — *kissi du Sud (Childs 2000, en anglais) :* surprise, wonder | [Gn 43,33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
-| {{ɲiiye}} | nom | pitié, compassion — *kissi du Sud (Childs 2000, en anglais) :* sorrow, pity, mercy | [Ex 2,6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{ɲííye}} | nom | pitié, compassion — *kissi du Sud (Childs 2000, en anglais) :* sorrow, pity, mercy | [Ex 2,6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
 
 ### 3.4.1 Se sentir bien
 
@@ -969,7 +969,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{dimulan}} | verbe | se dire, se parler (l'un à l'autre) | [Gn 11,3](https://www.bible.com/bible/1394/GEN.11.3.BKG) |
 | {{dimullo}} | verbe | dire à, parler à | [Gn 17,3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
 | {{koŋullo}} | verbe | crier, appeler (à l'aide) | [Gn 4,10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
-| {{lacoovaa}} | adjectif | mensonger, faux ; (sɔɔn lacòòvan) mensonges | [Dt 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{lacòòvaa}} | adjectif | mensonger, faux ; (sɔɔn lacòòvan) mensonges | [Dt 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
 | {{lisaa}} | verbe | louer, glorifier | [Ex 15,1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
 | {{mulio}} | verbe | répondre ; tourner, se tourner — *kissi du Sud (Childs 2000, en anglais) :* turn over; reply | [2 S 14,20](https://www.bible.com/bible/1394/2SA.14.20.BKG) |
 | {{mulullo}} | verbe | répondre à ; se tourner vers | [Gn 45,3](https://www.bible.com/bible/1394/GEN.45.3.BKG) |
@@ -1212,7 +1212,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kɔlvesɛiyo}} | nom (o) | méchanceté, violence ; (pl.) les méchants | [Gn 6,13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
 | {{laasiaa}} | verbe | corrompre, perdre ; troubler, confondre (les langues) — *kissi du Sud (Childs 2000, en anglais) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [Gn 11,9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
 | {{laasianndo}} | verbe | faire le mal, se corrompre, pécher ; méchanceté | [Gn 18,20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
-| {{lacoovaa}} | adjectif | mensonger, faux ; (sɔɔn lacòòvan) mensonges | [Dt 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{lacòòvaa}} | adjectif | mensonger, faux ; (sɔɔn lacòòvan) mensonges | [Dt 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
 | {{liimiaa\|r}} | verbe | tromper | Keita 1979, p. 110 |
 | {{mamanndo\|r}} | verbe | se moquer | Keita 1979, p. 114 |
 | {{pɛɛsaa}} | verbe | mépriser, dédaigner — *kissi du Sud (Childs 2000, en anglais) :* oversee; blame, criticize | [Nb 14,11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
@@ -1261,7 +1261,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{vanakɛndɛyɛi}} | nom (i) | bonté, bienveillance | [1 S 24,19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
 | {{vɔ̀ngɔ̀}} | nom | récompense, salaire | [Gn 15,1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
 | {{ɲia}} | nom | faveur (ca … ɲia « regarder avec faveur ») | [Gn 6,8](https://www.bible.com/bible/1394/GEN.6.8.BKG) |
-| {{ɲiiye}} | nom | pitié, compassion — *kissi du Sud (Childs 2000, en anglais) :* sorrow, pity, mercy | [Ex 2,6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{ɲííye}} | nom | pitié, compassion — *kissi du Sud (Childs 2000, en anglais) :* sorrow, pity, mercy | [Ex 2,6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
 | {{ɲɔɔloo}} | verbe | supplier ; consoler — *kissi du Sud (Childs 2000, en anglais) :* beg, beseech, ask forgiveness | [Gn 24,67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
 
 ### 4.3.7 Politesse
@@ -1374,7 +1374,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{masalen}} | nom (len) | royaume, règne, royauté — *kissi du Sud (Childs 2000, en anglais) :* chieftaincy, rule | [Gn 1,28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
 | {{pɛngulan}} | nom (lan) | différence, séparation ; limite, frontière | [Lv 20,25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
 | {{sɔndɔkɔlɔɔ}}, pl. {{sɔndɔkɔltan}} | nom (o) | hameau | [Rt 1,2](https://www.bible.com/bible/1394/RUT.1.2.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | nom (o) | contrée, région — *kissi du Sud (Childs 2000, en anglais) :* portion, section, allotted area | [Gn 24,62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{tàndàá}}, pl. {{tàndàlan}} | nom (o) | contrée, région — *kissi du Sud (Childs 2000, en anglais) :* portion, section, allotted area | [Gn 24,62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 | {{vukɔɔ\|r}} | nom (o) | lieu où se règlent les affaires du village | Keita 1979, p. 142 |
 
 ### 4.7 Loi, justice
@@ -1423,7 +1423,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{mingullo}} | verbe | rendre, restituer (à quelqu'un) ; rendre la pareille | [Gn 50,20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
 | {{sionnden}} | nom (len) | bâton, verge ; sort (tiré au sort) | [Dt 21,18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
 | {{soaŋ}} | verbe | punir, châtier ; réprimander | [Ex 20,5](https://www.bible.com/bible/1394/EXO.20.5.BKG) |
-| {{soŋɔɔ}} | verbe | frapper, battre ; châtier | [Gn 14,15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{soŋɔ̀ɔ́}} | verbe | frapper, battre ; châtier | [Gn 14,15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
 | {{vii}} | verbe | lapider (vii … a powtan) | [Ex 17,4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
 
 ### 4.8 Conflit
@@ -1840,7 +1840,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{sangio\|r}} | nom (o) | peigne | Keita 1979, p. 144 |
 | {{sendinndo\|r}} | verbe | se raser, se coiffer | Keita 1979, p. 113 |
 | {{sendinɔɔ\|r}} | nom (o) | coiffeur, barbier | Keita 1979, p. 145 |
-| {{sendio}} | verbe | raser, coiffer — *kissi du Sud (Childs 2000, en anglais) :* shave (someone), cut hair | [Ex 22,10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
+| {{sendío}} | verbe | raser, coiffer — *kissi du Sud (Childs 2000, en anglais) :* shave (someone), cut hair | [Ex 22,10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
 
 ### 5.4.6 Scarifications
 
@@ -1859,7 +1859,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{mɛndul}} | verbe | allumer (le feu) — *kissi du Sud (Childs 2000, en anglais) :* light, build a fire | [Ex 35,3](https://www.bible.com/bible/1394/EXO.35.3.BKG) |
 | {{pulta}}, pl. {{pultan}} | nom | cendre | [Ex 9,8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
 | {{takalaa\|r}} | nom (o) | allumettes, boîte d'allumettes | Keita 1979, p. 159 |
-| {{tɛngɛ}} | nom | lampe, torche | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɛ́ngɛ̀}} | nom | lampe, torche | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{yinnden}} | nom (len) | feu | [Gn 22,6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
 | {{ɲumndo}} | verbe | s'éteindre ; pâlir | [Lv 13,6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
 
@@ -2029,7 +2029,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 
 | Kisiei | Catégorie | Français | Source |
 | --- | --- | --- | --- |
-| {{dɛndɔɔ}}, pl. {{dɛndɛlan}} | nom (o) | houe | [Gn 6,18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{dɛndɔɔ\|?}}, pl. {{dɛndɛlan\|?}} | nom (o) | houe | Keita 1979, p. 159 |
 
 ### 6.2.9 Terres cultivées
 
@@ -2704,7 +2704,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{cukɔɔ}} | verbe | piquer, transpercer — *kissi du Sud (Childs 2000, en anglais) :* prick (as a thorn) | [1 S 19,10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
 | {{lɔaa}} | verbe | frapper ; jouer (d'un instrument) ; frapper (à la porte) — *kissi du Sud (Childs 2000, en anglais) :* hit, beat, strike | [Gn 4,21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
 | {{lɔɔnɔnndo}} | verbe | se frapper | [Es 51,22](https://www.bible.com/bible/1394/ISA.51.22.BKG) |
-| {{soŋɔɔ}} | verbe | frapper, battre ; châtier | [Gn 14,15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{soŋɔ̀ɔ́}} | verbe | frapper, battre ; châtier | [Gn 14,15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
 | {{vii}} | verbe | lapider (vii … a powtan) | [Ex 17,4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
 | {{viɔw}} | verbe | cogner, heurter ; tirer (flèche) | [Nb 35,22](https://www.bible.com/bible/1394/NUM.35.22.BKG) |
 | {{yɔŋul}} | verbe | blesser, faire du mal à — *kissi du Sud (Childs 2000, en anglais) :* poison, wound, harm | [Lv 24,19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
@@ -2832,9 +2832,9 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{tiɔn}} | nombre | deux | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{tɔ́}} | nombre | dix | [Gn 5,8](https://www.bible.com/bible/1394/GEN.5.8.BKG) |
 | {{tɔ́ndɔɔ}} | nombre | dixième ; dîme | [Gn 28,22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
-| {{vaa}}, pl. {{valan}} | nombre | mille | [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{yaa}} | nombre | trois | [Gn 2,19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{yaandɔɔ}} | nombre | troisième | [Gn 14,4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
+| {{vaa}}, pl. {{vàálan}} | nombre | mille | [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{yáá}} | nombre | trois | [Gn 2,19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{yàándɔɔ}} | nombre | troisième | [Gn 14,4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
 | {{ŋuɛɛnu}} | nombre | cinq | [Gn 14,9](https://www.bible.com/bible/1394/GEN.14.9.BKG) |
 | {{ŋuɛɛnundɔɔ}} | nombre | cinquième | [Gn 30,17](https://www.bible.com/bible/1394/GEN.30.17.BKG) |
 | {{ŋɔmaa}} | nombre | huit | [Gn 14,14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
@@ -2952,7 +2952,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{siaŋaa}} | adjectif | rouge ; écarlate — *kissi du Sud (Childs 2000, en anglais) :* red, yellow; ripe; light-skinned | [Gn 25,30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
 | {{teengiaa}} | verbe | éclairer, faire briller | [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 | {{tengaa}} | verbe | briller, éclairer, luire — *kissi du Sud (Childs 2000, en anglais) :* (noun) an illuminated place, as lit up by a torch or lightning | [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{tɛngɛ}} | nom | lampe, torche | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɛ́ngɛ̀}} | nom | lampe, torche | [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{vólotótoo}}, pl. {{vólotótolan}} | adjectif | pourpre | [Ex 26,1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
 | {{vunduan}} | nom (an) | ombre, ombrage (pluriel de vundulen) — *kissi du Sud (Childs 2000, en anglais) :* plural (ma) of 'shade, shadow'; also the soul, an umbrella, an illustration | [Jb 7,2](https://www.bible.com/bible/1394/JOB.7.2.BKG) |
 | {{vundulen}} | nom (len) | ombre — *kissi du Sud (Childs 2000, en anglais) :* shade, shadow; the soul of a person | [Gn 15,1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
@@ -3151,7 +3151,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | --- | --- | --- | --- |
 | {{balaa}} | nom | pourtour ; (o balaa sɔ́) autour | [Jos 21,42](https://www.bible.com/bible/1394/JOS.21.42.BKG) |
 | {{fondaa}}, pl. {{fondala}} | nom (o) | lieu, endroit ; lieu, endroit, place — *kissi du Sud (Childs 2000, en anglais) :* space, place, area; chance, opportunity | [Gn 6,16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | nom (o) | contrée, région — *kissi du Sud (Childs 2000, en anglais) :* portion, section, allotted area | [Gn 24,62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{tàndàá}}, pl. {{tàndàlan}} | nom (o) | contrée, région — *kissi du Sud (Childs 2000, en anglais) :* portion, section, allotted area | [Gn 24,62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 
 ### 8.6.1 Devant, derrière
 

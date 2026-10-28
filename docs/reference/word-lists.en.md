@@ -141,7 +141,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
 | {{siɔw\|r}} | verb | rot | Keita 1979, p. 116 |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vílɛ́iyo}}, pl. {{vílɛ́iya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
 
 ### 1.5 Plant
 
@@ -249,12 +249,12 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{dɔkuuvo\|r}} | noun (o) | duck | Keita 1979, p. 136 |
 | {{dɛluo\|r}}, pl. {{dɛlua\|r}} | noun (o) | worm — *Southern Kissi (Childs 2000) :* chigger; any small insect such as a caterpillar or worm | Keita 1979, p. 136 |
 | {{faaboo\|r}} | noun (o) | parrot — *Southern Kissi (Childs 2000) :* a bird, perhaps a small green parrot; also a figure of the initiation society | Keita 1979, p. 136 |
-| {{kaangoo}}, pl. {{kaangoa}} | noun (o) | termite; moth | [Num 17:3](https://www.bible.com/bible/1394/NUM.17.3.BKG) |
+| {{kaangoo\|?}}, pl. {{kaangoa\|?}} | noun (o) | termite; moth | Keita 1979, p. 136 |
 | {{kamaa}} | noun (o) | elephant | [1 Sam 14:45](https://www.bible.com/bible/1394/1SA.14.45.BKG) |
 | {{kambalaa}} | noun (o) | insect — *Southern Kissi (Childs 2000) :* a large edible grasshopper | [Lev 11:20](https://www.bible.com/bible/1394/LEV.11.20.BKG) |
 | {{kankpoo\|r}} | noun (o) | wood pigeon — *Southern Kissi (Childs 2000) :* dove, pigeon | Keita 1979, p. 136 |
 | {{kiinkiindo\|r}} | noun (o) | mason wasp | Keita 1979, p. 136 |
-| {{koondo}}, pl. {{koondoa}} | noun (o) | hawk, sparrowhawk | [Deut 14:15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
+| {{kòòndo}}, pl. {{kòòndoa}} | noun (o) | hawk, sparrowhawk | [Deut 14:15](https://www.bible.com/bible/1394/DEU.14.15.BKG) |
 | {{kovɔ́ɔ̀}} | noun (o) | eagle — *Southern Kissi (Childs 2000) :* a small species of eagle | [Gen 41:34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
 | {{kposio}} | noun (o) | lizard — *Southern Kissi (Childs 2000) :* lizard with a red head | [Lev 11:30](https://www.bible.com/bible/1394/LEV.11.30.BKG) |
 | {{kpɔɔndo\|r}} | noun (o) | baboon | Keita 1979, p. 136 |
@@ -795,7 +795,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kumbɔɔ}} | verb | cover; bury | [Gen 23](https://www.bible.com/bible/1394/GEN.23.BKG) |
 | {{piɔ́mndo}} | verb | die; death | [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG) |
 | {{sɛiyo}}, pl. {{sɛilan}} | noun (o) | grave, tomb | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
-| {{vilɛiyo}}, pl. {{vilɛiya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
+| {{vílɛ́iyo}}, pl. {{vílɛ́iya}} | noun (o) | dead person, corpse — *Southern Kissi (Childs 2000) :* (adjective) dead, deceased | [Gen 23:3](https://www.bible.com/bible/1394/GEN.23.3.BKG) |
 | {{vuo}} | verb | die | [Gen 43:8](https://www.bible.com/bible/1394/GEN.43.8.BKG) |
 
 ## 3. Language and thought
@@ -901,7 +901,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{biwnun}} | verb | bear, endure; be patient | [Neh 9:17](https://www.bible.com/bible/1394/NEH.9.17.BKG) |
 | {{kɔndɔfillo}}, pl. {{kɔndɔfiltan}} | noun (o) | wonder, marvel; amazement — *Southern Kissi (Childs 2000) :* surprise, wonder | [Gen 43:33](https://www.bible.com/bible/1394/GEN.43.33.BKG) |
-| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{ɲííye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
 
 ### 3.4.1 Feel good
 
@@ -969,7 +969,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{dimulan}} | verb | say to one another | [Gen 11:3](https://www.bible.com/bible/1394/GEN.11.3.BKG) |
 | {{dimullo}} | verb | say to, tell | [Gen 17:3](https://www.bible.com/bible/1394/GEN.17.3.BKG) |
 | {{koŋullo}} | verb | cry out, call (for help) | [Gen 4:10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
-| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{lacòòvaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
 | {{lisaa}} | verb | praise, glorify | [Exod 15:1](https://www.bible.com/bible/1394/EXO.15.1.BKG) |
 | {{mulio}} | verb | answer; turn — *Southern Kissi (Childs 2000) :* turn over; reply | [2 Sam 14:20](https://www.bible.com/bible/1394/2SA.14.20.BKG) |
 | {{mulullo}} | verb | answer someone; turn to | [Gen 45:3](https://www.bible.com/bible/1394/GEN.45.3.BKG) |
@@ -1212,7 +1212,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kɔlvesɛiyo}} | noun (o) | wickedness, violence; (pl.) the wicked | [Gen 6:13](https://www.bible.com/bible/1394/GEN.6.13.BKG) |
 | {{laasiaa}} | verb | corrupt, ruin; confuse (languages) — *Southern Kissi (Childs 2000) :* mix up, ruin; play tricks, act foolishly; lose, get lost | [Gen 11:9](https://www.bible.com/bible/1394/GEN.11.9.BKG) |
 | {{laasianndo}} | verb | do wrong, be corrupt, sin; wickedness | [Gen 18:20](https://www.bible.com/bible/1394/GEN.18.20.BKG) |
-| {{lacoovaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
+| {{lacòòvaa}} | adjective | lying, false; (sɔɔn lacòòvan) lies | [Deut 18](https://www.bible.com/bible/1394/DEU.18.BKG) |
 | {{liimiaa\|r}} | verb | deceive | Keita 1979, p. 110 |
 | {{mamanndo\|r}} | verb | mock | Keita 1979, p. 114 |
 | {{pɛɛsaa}} | verb | despise, scorn — *Southern Kissi (Childs 2000) :* oversee; blame, criticize | [Num 14:11](https://www.bible.com/bible/1394/NUM.14.11.BKG) |
@@ -1261,7 +1261,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{vanakɛndɛyɛi}} | noun (i) | kindness, goodness | [1 Sam 24:19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
 | {{vɔ̀ngɔ̀}} | noun | reward, wages | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
 | {{ɲia}} | noun | favour (ca … ɲia 'look on with favour') | [Gen 6:8](https://www.bible.com/bible/1394/GEN.6.8.BKG) |
-| {{ɲiiye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
+| {{ɲííye}} | noun | pity, compassion — *Southern Kissi (Childs 2000) :* sorrow, pity, mercy | [Exod 2:6](https://www.bible.com/bible/1394/EXO.2.6.BKG) |
 | {{ɲɔɔloo}} | verb | beg, entreat; comfort — *Southern Kissi (Childs 2000) :* beg, beseech, ask forgiveness | [Gen 24:67](https://www.bible.com/bible/1394/GEN.24.67.BKG) |
 
 ### 4.3.7 Polite
@@ -1374,7 +1374,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{masalen}} | noun (len) | kingdom, reign, kingship — *Southern Kissi (Childs 2000) :* chieftaincy, rule | [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
 | {{pɛngulan}} | noun (lan) | difference, distinction; boundary, border | [Lev 20:25](https://www.bible.com/bible/1394/LEV.20.25.BKG) |
 | {{sɔndɔkɔlɔɔ}}, pl. {{sɔndɔkɔltan}} | noun (o) | hamlet | [Ruth 1:2](https://www.bible.com/bible/1394/RUT.1.2.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{tàndàá}}, pl. {{tàndàlan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 | {{vukɔɔ\|r}} | noun (o) | village meeting place for settling disputes | Keita 1979, p. 142 |
 
 ### 4.7 Law
@@ -1423,7 +1423,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{mingullo}} | verb | give back, restore (to someone); repay | [Gen 50:20](https://www.bible.com/bible/1394/GEN.50.20.BKG) |
 | {{sionnden}} | noun (len) | stick, rod; lot | [Deut 21:18](https://www.bible.com/bible/1394/DEU.21.18.BKG) |
 | {{soaŋ}} | verb | punish, chastise; rebuke | [Exod 20:5](https://www.bible.com/bible/1394/EXO.20.5.BKG) |
-| {{soŋɔɔ}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{soŋɔ̀ɔ́}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
 | {{vii}} | verb | stone (vii … a powtan) | [Exod 17:4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
 
 ### 4.8 Conflict
@@ -1840,7 +1840,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{sangio\|r}} | noun (o) | comb | Keita 1979, p. 144 |
 | {{sendinndo\|r}} | verb | shave oneself | Keita 1979, p. 113 |
 | {{sendinɔɔ\|r}} | noun (o) | barber, hairdresser | Keita 1979, p. 145 |
-| {{sendio}} | verb | shave, cut (hair) — *Southern Kissi (Childs 2000) :* shave (someone), cut hair | [Exod 22:10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
+| {{sendío}} | verb | shave, cut (hair) — *Southern Kissi (Childs 2000) :* shave (someone), cut hair | [Exod 22:10](https://www.bible.com/bible/1394/EXO.22.10.BKG) |
 
 ### 5.4.6 Ritual scar
 
@@ -1859,7 +1859,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{mɛndul}} | verb | kindle (a fire) — *Southern Kissi (Childs 2000) :* light, build a fire | [Exod 35:3](https://www.bible.com/bible/1394/EXO.35.3.BKG) |
 | {{pulta}}, pl. {{pultan}} | noun | ash | [Exod 9:8](https://www.bible.com/bible/1394/EXO.9.8.BKG) |
 | {{takalaa\|r}} | noun (o) | matches, matchbox | Keita 1979, p. 159 |
-| {{tɛngɛ}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɛ́ngɛ̀}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{yinnden}} | noun (len) | fire | [Gen 22:6](https://www.bible.com/bible/1394/GEN.22.6.BKG) |
 | {{ɲumndo}} | verb | go out (fire, lamp); fade | [Lev 13:6](https://www.bible.com/bible/1394/LEV.13.6.BKG) |
 
@@ -2029,7 +2029,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 
 | Kisiei | Category | English | Source |
 | --- | --- | --- | --- |
-| {{dɛndɔɔ}}, pl. {{dɛndɛlan}} | noun (o) | hoe | [Gen 6:18](https://www.bible.com/bible/1394/GEN.6.18.BKG) |
+| {{dɛndɔɔ\|?}}, pl. {{dɛndɛlan\|?}} | noun (o) | hoe | Keita 1979, p. 159 |
 
 ### 6.2.9 Farmland
 
@@ -2704,7 +2704,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{cukɔɔ}} | verb | prick, pierce — *Southern Kissi (Childs 2000) :* prick (as a thorn) | [1 Sam 19:10](https://www.bible.com/bible/1394/1SA.19.10.BKG) |
 | {{lɔaa}} | verb | strike, beat; play (an instrument) ; strike, beat; play (an instrument); knock — *Southern Kissi (Childs 2000) :* hit, beat, strike | [Gen 4:21](https://www.bible.com/bible/1394/GEN.4.21.BKG) |
 | {{lɔɔnɔnndo}} | verb | beat oneself | [Isa 51:22](https://www.bible.com/bible/1394/ISA.51.22.BKG) |
-| {{soŋɔɔ}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
+| {{soŋɔ̀ɔ́}} | verb | strike, smite; punish | [Gen 14:15](https://www.bible.com/bible/1394/GEN.14.15.BKG) |
 | {{vii}} | verb | stone (vii … a powtan) | [Exod 17:4](https://www.bible.com/bible/1394/EXO.17.4.BKG) |
 | {{viɔw}} | verb | knock, strike; shoot | [Num 35:22](https://www.bible.com/bible/1394/NUM.35.22.BKG) |
 | {{yɔŋul}} | verb | injure, harm, wound — *Southern Kissi (Childs 2000) :* poison, wound, harm | [Lev 24:19](https://www.bible.com/bible/1394/LEV.24.19.BKG) |
@@ -2832,9 +2832,9 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{tiɔn}} | numeral | two | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{tɔ́}} | numeral | ten | [Gen 5:8](https://www.bible.com/bible/1394/GEN.5.8.BKG) |
 | {{tɔ́ndɔɔ}} | numeral | tenth; tithe | [Gen 28:22](https://www.bible.com/bible/1394/GEN.28.22.BKG) |
-| {{vaa}}, pl. {{valan}} | numeral | thousand | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
-| {{yaa}} | numeral | three | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
-| {{yaandɔɔ}} | numeral | third | [Gen 14:4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
+| {{vaa}}, pl. {{vàálan}} | numeral | thousand | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| {{yáá}} | numeral | three | [Gen 2:19](https://www.bible.com/bible/1394/GEN.2.19.BKG) |
+| {{yàándɔɔ}} | numeral | third | [Gen 14:4](https://www.bible.com/bible/1394/GEN.14.4.BKG) |
 | {{ŋuɛɛnu}} | numeral | five | [Gen 14:9](https://www.bible.com/bible/1394/GEN.14.9.BKG) |
 | {{ŋuɛɛnundɔɔ}} | numeral | fifth | [Gen 30:17](https://www.bible.com/bible/1394/GEN.30.17.BKG) |
 | {{ŋɔmaa}} | numeral | eight | [Gen 14:14](https://www.bible.com/bible/1394/GEN.14.14.BKG) |
@@ -2952,7 +2952,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{siaŋaa}} | adjective | red; scarlet — *Southern Kissi (Childs 2000) :* red, yellow; ripe; light-skinned | [Gen 25:30](https://www.bible.com/bible/1394/GEN.25.30.BKG) |
 | {{teengiaa}} | verb | light up, make shine | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 | {{tengaa}} | verb | shine, give light — *Southern Kissi (Childs 2000) :* (noun) an illuminated place, as lit up by a torch or lightning | [Gen 1:4](https://www.bible.com/bible/1394/GEN.1.4.BKG) |
-| {{tɛngɛ}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
+| {{tɛ́ngɛ̀}} | noun | lamp, torch | [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 | {{vólotótoo}}, pl. {{vólotótolan}} | adjective | purple | [Exod 26:1](https://www.bible.com/bible/1394/EXO.26.1.BKG) |
 | {{vunduan}} | noun (an) | shade, shadows (plural of vundulen) — *Southern Kissi (Childs 2000) :* plural (ma) of 'shade, shadow'; also the soul, an umbrella, an illustration | [Job 7:2](https://www.bible.com/bible/1394/JOB.7.2.BKG) |
 | {{vundulen}} | noun (len) | shadow, shade — *Southern Kissi (Childs 2000) :* shade, shadow; the soul of a person | [Gen 15:1](https://www.bible.com/bible/1394/GEN.15.1.BKG) |
@@ -3151,7 +3151,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | --- | --- | --- | --- |
 | {{balaa}} | noun | surroundings; (o balaa sɔ́) round about | [Josh 21:42](https://www.bible.com/bible/1394/JOS.21.42.BKG) |
 | {{fondaa}}, pl. {{fondala}} | noun (o) | place ; place, room — *Southern Kissi (Childs 2000) :* space, place, area; chance, opportunity | [Gen 6:16](https://www.bible.com/bible/1394/GEN.6.16.BKG) |
-| {{tàndàá}}, pl. {{tandalan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
+| {{tàndàá}}, pl. {{tàndàlan}} | noun (o) | region, area — *Southern Kissi (Childs 2000) :* portion, section, allotted area | [Gen 24:62](https://www.bible.com/bible/1394/GEN.24.62.BKG) |
 
 ### 8.6.1 Front
 

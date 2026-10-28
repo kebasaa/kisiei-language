@@ -31,7 +31,7 @@ The Kisiei alphabet has **26 letters**. The letters specific to Kisiei are **ɛ*
 | u | U | u | {{cuaa}} | child |
 | v | V | ve | {{vana}} | person |
 | w | W | we | {{taw}} | much, many |
-| y | Y | ye | {{yaa}} | three |
+| y | Y | ye | {{yáá}} | three |
 
 The letter names follow the usage described in 1979 [[(Keita1979, p. 14)]]: each consonant is pronounced followed by a short *e* (*be, de, fe…*) and not the French way (*bé, dé, èf…*).
 

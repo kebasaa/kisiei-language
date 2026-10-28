@@ -2,7 +2,7 @@
 # Meanings are worked out from the verse contexts. Spelling follows the Bible.
 
 # Verbs
-- {lemma: nɔlaa, status: attested, pos: verb, forms: [nɔla, nɔlanin, nɔlan], gloss: {fr: 'pouvoir, être capable de', en: 'can, be able to'}, domains: ['9.4', 2.4.1], childs: {page: 264, form: nɔ̀lâá, sense: 'be able, can; overcome (someone)'}, example: JOS.17.12}
+- {lemma: nɔlaa, status: attested, pos: verb, forms: [nɔla, nɔlanin, nɔ̀lan], gloss: {fr: 'pouvoir, être capable de', en: 'can, be able to'}, domains: ['9.4', 2.4.1], childs: {page: 264, form: nɔ̀lâá, sense: 'be able, can; overcome (someone)'}, example: JOS.17.12}
 - {lemma: muungoo, status: attested, pos: verb, forms: [muungu, muungun, muungunin], gloss: {fr: 'retourner, revenir', en: 'return, go back'}, domains: [7.2.3], childs: {page: 249, form: mìŋìó, sense: 'return, go back; also retaliate, replace (variant mùùŋgóó)'}, example: GEN.3.19}
 - {lemma: siŋnɔnndo, status: attested, pos: verb, forms: [siŋnun, siŋnunnin, siŋnɔn], gloss: {fr: devenir, en: become}, domains: [9.1.1], example: 1CH.17.22}
 - {lemma: mangalaa, status: attested, pos: verb, forms: [mangala, mangalan, mangalanin, mangalɛi], gloss: {fr: 'changer ; (mangalan) être changé, être différent', en: 'change; (mangalan) be changed, be different'}, domains: [8.3.5], childs: {page: 242, form: màŋàlàá, sense: 'change (clothes, behaviour); play magic, transform by magic'}, example: ACT.17.30, note: 'mangala kelala « changer de conduite » ; sɔɛi mangalɛi « une langue différente » (Gn 11,9).'}
@@ -134,7 +134,7 @@
 - {lemma: sɛɛngianndo, status: attested, pos: verb, forms: [sɛɛngian, sɛɛngiaa, sɛɛngianndan], gloss: {fr: 'se disputer, discuter ; dispute, querelle', en: 'quarrel, argue, debate; dispute, strife'}, domains: ['4.8', 3.5.1], childs: {page: 326, form: sèèŋìá, sense: 'plural of sèŋìá ''argue'': disagree repeatedly'}, example: GEN.13.7}
 - {lemma: saalɔnndo, status: attested, pos: verb, forms: [saalun, saalunnin], gloss: {fr: trouver, en: find}, domains: [7.6.2], example: MAT.7.7}
 - {lemma: sooloo, status: attested, pos: verb, forms: [sooluu], gloss: {fr: 'adorer, servir (un dieu), se prosterner devant', en: 'worship, serve (a god), bow down to'}, domains: [4.9.5], childs: {page: 339, form: sòòlùùwɔ́, sense: 'plural of ''talk''; worship (God, an idol)'}, example: DAN.3.5}
-- {lemma: soŋɔɔ, status: attested, pos: verb, forms: [soŋ], gloss: {fr: 'frapper, battre ; châtier', en: 'strike, smite; punish'}, domains: [7.7.1, 4.7.7], example: PRO.19.25}
+- {lemma: soŋɔ̀ɔ́, status: attested, pos: verb, forms: [soŋ], gloss: {fr: 'frapper, battre ; châtier', en: 'strike, smite; punish'}, domains: [7.7.1, 4.7.7], example: PRO.19.25}
 - {lemma: soaŋ, status: attested, pos: verb, forms: [soaŋnin], gloss: {fr: 'punir, châtier ; réprimander', en: 'punish, chastise; rebuke'}, domains: [4.7.7], example: PSA.6.2}
 - {lemma: sɔlɔlan, status: attested, pos: verb, gloss: {fr: 'confesser, avouer (ses fautes)', en: confess (one's sins)}, domains: [4.9.5, 3.5.1], example: NEH.9.2}
 - {lemma: sɔɔndian, status: attested, pos: verb, gloss: {fr: 'se disperser, s''enfuir de tous côtés', en: 'be scattered, flee in all directions'}, domains: [7.2.2], example: NUM.10.35}
@@ -165,7 +165,7 @@
 - {lemma: lebɛngu, status: attested, pos: adv, gloss: {fr: 'dessous, en dessous', en: 'underneath, below'}, domains: [8.6.2], childs: {page: 14, form: bèŋù, sense: 'under, between'}, example: JOS.7.22}
 - {lemma: lekɔɔli, status: attested, pos: adv, gloss: {fr: 'dehors, à l''extérieur', en: 'outside, on the outside'}, domains: [8.6.4], example: GEN.6.14}
 - {lemma: macɛlu, status: attested, pos: adv, gloss: {fr: 'loin, au loin', en: 'far, far away'}, domains: [8.2.6], example: ISA.57.19}
-- {lemma: lacoovaa, status: attested, pos: adj, forms: [lacoovan, lacoovalan], gloss: {fr: 'mensonger, faux ; (sɔɔn lacòòvan) mensonges', en: 'lying, false; (sɔɔn lacòòvan) lies'}, domains: [3.5.1, '4.3'], example: EXO.5.9}
+- {lemma: lacòòvaa, status: attested, pos: adj, forms: [lacòòvan, lacòòvalan], gloss: {fr: 'mensonger, faux ; (sɔɔn lacòòvan) mensonges', en: 'lying, false; (sɔɔn lacòòvan) lies'}, domains: [3.5.1, '4.3'], example: EXO.5.9}
 - {lemma: lepɛŋndo, status: attested, pos: noun, forms: [lepɛŋ, lepɛŋnde], gloss: {fr: 'ignorance ; (o sina lepɛŋndo nin) par ignorance, sans le savoir', en: ignorance; (o sina lepɛŋndo nin) unknowingly}, domains: [3.2.3], example: LEV.4.2}
 - {lemma: lasiɛmbu, status: attested, pos: noun, gloss: {fr: honte (lasiɛmbu yɔŋ « avoir honte »), en: shame (lasiɛmbu yɔŋ 'be ashamed')}, domains: [3.4.2], example: GEN.2.25, note: Cf. siɛmbulan.}
 - {lemma: lɔwviaa, status: attested, pos: verb, gloss: {fr: mordre, en: bite}, domains: [1.6.4, 5.2.2], example: NUM.21.6}

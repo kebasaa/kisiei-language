@@ -3806,7 +3806,7 @@
   <entry id="dɛndɔɔ_288">
     <lexical-unit><form lang="kqs"><text>dɛndɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
-    <trait name="status" value="attested"/>
+    <trait name="status" value="check"/>
     <field type="plural"><form lang="kqs"><text>dɛndɛlan</text></form></field>
     <sense id="dɛndɔɔ_288_s1">
       <grammatical-info value="Noun"/>
@@ -3814,7 +3814,7 @@
       <gloss lang="en"><text>hoe</text></gloss>
       <trait name="semantic-domain-ddp4" value="6.2.8 Agricultural tool"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 138 occurrences, first GEN.6.18; Keita 1979, p. 159: Dèndöö; Childs 2000, p. 75: déndɔ̀ɔ̀</text></form></note>
+    <note type="source"><form lang="en"><text>Keita 1979, p. 159: Dèndöö; Childs 2000, p. 75: déndɔ̀ɔ̀</text></form></note>
     <note><form lang="fr"><text>Homonyme de dɛ̀ndɔ̀ɔ́ « pirogue », avec un autre ton chez Childs. 1 S 13,20 a dɛndɛla (sans tons) « houes ».</text></form></note>
   </entry>
   <entry id="dɛnɔɔ_289">
@@ -5738,7 +5738,7 @@
   <entry id="kaangoo_437">
     <lexical-unit><form lang="kqs"><text>kaangoo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
-    <trait name="status" value="attested"/>
+    <trait name="status" value="check"/>
     <field type="plural"><form lang="kqs"><text>kaangoa</text></form></field>
     <sense id="kaangoo_437_s1">
       <grammatical-info value="Noun"/>
@@ -5746,7 +5746,7 @@
       <gloss lang="en"><text>termite; moth</text></gloss>
       <trait name="semantic-domain-ddp4" value="1.6.1 Types of animals"/>
     </sense>
-    <note type="source"><form lang="en"><text>BKG: 3 occurrences, first NUM.17.3; Keita 1979, p. 136: Kaangoo; Childs 2000, p. 142: kààŋgɔ̀ɔ́</text></form></note>
+    <note type="source"><form lang="en"><text>Keita 1979, p. 136: Kaangoo; Childs 2000, p. 142: kààŋgɔ̀ɔ́</text></form></note>
     <note><form lang="fr"><text>Dans la Bible, le pluriel kaangoa désigne les mites qui rongent les vêtements (JOB.13.28, JAS.5.2) ; le singulier káángoo y est un homonyme « marteau » (JER.10.4).</text></form></note>
   </entry>
   <entry id="kaasonɔɔ_438">
@@ -7028,12 +7028,12 @@
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 163: Koon vuuvo</text></form></note>
   </entry>
-  <entry id="koondo_535">
-    <lexical-unit><form lang="kqs"><text>koondo</text></form></lexical-unit>
+  <entry id="kòòndo_535">
+    <lexical-unit><form lang="kqs"><text>kòòndo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
-    <field type="plural"><form lang="kqs"><text>koondoa</text></form></field>
-    <sense id="koondo_535_s1">
+    <field type="plural"><form lang="kqs"><text>kòòndoa</text></form></field>
+    <sense id="kòòndo_535_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>épervier</text></gloss>
       <gloss lang="en"><text>hawk, sparrowhawk</text></gloss>
@@ -9019,12 +9019,12 @@
     </sense>
     <note type="source"><form lang="en"><text>BKG: 742 occurrences, first GEN.6.5</text></form></note>
   </entry>
-  <entry id="lacoovaa_685">
-    <lexical-unit><form lang="kqs"><text>lacoovaa</text></form></lexical-unit>
+  <entry id="lacòòvaa_685">
+    <lexical-unit><form lang="kqs"><text>lacòòvaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
-    <variant><form lang="kqs"><text>lacoovan</text></form></variant>
-    <variant><form lang="kqs"><text>lacoovalan</text></form></variant>
-    <sense id="lacoovaa_685_s1">
+    <variant><form lang="kqs"><text>lacòòvan</text></form></variant>
+    <variant><form lang="kqs"><text>lacòòvalan</text></form></variant>
+    <sense id="lacòòvaa_685_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>mensonger, faux ; (sɔɔn lacòòvan) mensonges</text></gloss>
       <gloss lang="en"><text>lying, false; (sɔɔn lacòòvan) lies</text></gloss>
@@ -11585,7 +11585,7 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>nɔla</text></form></variant>
     <variant><form lang="kqs"><text>nɔlanin</text></form></variant>
-    <variant><form lang="kqs"><text>nɔlan</text></form></variant>
+    <variant><form lang="kqs"><text>nɔ̀lan</text></form></variant>
     <sense id="nɔlaa_883_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>pouvoir, être capable de</text></gloss>
@@ -13586,12 +13586,12 @@
     <note type="source"><form lang="en"><text>Keita 1979, p. 145: Sendinöö</text></form></note>
     <note><form lang="fr"><text>Cf. sendi « raser » dans la Bible (Dt 21,12).</text></form></note>
   </entry>
-  <entry id="sendio_1036">
-    <lexical-unit><form lang="kqs"><text>sendio</text></form></lexical-unit>
+  <entry id="sendío_1036">
+    <lexical-unit><form lang="kqs"><text>sendío</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>sendi</text></form></variant>
     <variant><form lang="kqs"><text>sendinin</text></form></variant>
-    <sense id="sendio_1036_s1">
+    <sense id="sendío_1036_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>raser, coiffer</text></gloss>
       <gloss lang="en"><text>shave, cut (hair)</text></gloss>
@@ -14435,11 +14435,11 @@
     </sense>
     <note type="source"><form lang="en"><text>BKG: 18 occurrences, first GEN.49.17; Keita 1979, p. 137: Sow; Childs 2000, p. 339: sóó</text></form></note>
   </entry>
-  <entry id="soŋɔɔ_1101">
-    <lexical-unit><form lang="kqs"><text>soŋɔɔ</text></form></lexical-unit>
+  <entry id="soŋɔ̀ɔ́_1101">
+    <lexical-unit><form lang="kqs"><text>soŋɔ̀ɔ́</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>soŋ</text></form></variant>
-    <sense id="soŋɔɔ_1101_s1">
+    <sense id="soŋɔ̀ɔ́_1101_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>frapper, battre ; châtier</text></gloss>
       <gloss lang="en"><text>strike, smite; punish</text></gloss>
@@ -15572,7 +15572,7 @@
     <lexical-unit><form lang="kqs"><text>tàndàá</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
-    <field type="plural"><form lang="kqs"><text>tandalan</text></form></field>
+    <field type="plural"><form lang="kqs"><text>tàndàlan</text></form></field>
     <sense id="tàndàá_1189_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>contrée, région</text></gloss>
@@ -16835,11 +16835,11 @@
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 145: Tèndanöö</text></form></note>
   </entry>
-  <entry id="tɛngɛ_1284">
-    <lexical-unit><form lang="kqs"><text>tɛngɛ</text></form></lexical-unit>
+  <entry id="tɛ́ngɛ̀_1284">
+    <lexical-unit><form lang="kqs"><text>tɛ́ngɛ̀</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>tɛngɛla</text></form></variant>
-    <sense id="tɛngɛ_1284_s1">
+    <sense id="tɛ́ngɛ̀_1284_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>lampe, torche</text></gloss>
       <gloss lang="en"><text>lamp, torch</text></gloss>
@@ -17072,7 +17072,7 @@
   <entry id="vaa_1302">
     <lexical-unit><form lang="kqs"><text>vaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
-    <field type="plural"><form lang="kqs"><text>valan</text></form></field>
+    <field type="plural"><form lang="kqs"><text>vàálan</text></form></field>
     <sense id="vaa_1302_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>mille</text></gloss>
@@ -17627,13 +17627,13 @@
     <note type="source"><form lang="en"><text>BKG: 74 occurrences, first GEN.4.21; Childs 2000, p. 386: wìlùlló</text></form></note>
     <note><form lang="fr"><text>Bénéfactif de violɔɔ « enfanter ».</text></form></note>
   </entry>
-  <entry id="vilɛiyo_1344">
-    <lexical-unit><form lang="kqs"><text>vilɛiyo</text></form></lexical-unit>
+  <entry id="vílɛ́iyo_1344">
+    <lexical-unit><form lang="kqs"><text>vílɛ́iyo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
-    <field type="plural"><form lang="kqs"><text>vilɛiya</text></form></field>
-    <variant><form lang="kqs"><text>vilɛi</text></form></variant>
-    <sense id="vilɛiyo_1344_s1">
+    <field type="plural"><form lang="kqs"><text>vílɛ́iya</text></form></field>
+    <variant><form lang="kqs"><text>vílɛ́i</text></form></variant>
+    <sense id="vílɛ́iyo_1344_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>mort, cadavre</text></gloss>
       <gloss lang="en"><text>dead person, corpse</text></gloss>
@@ -18154,10 +18154,10 @@
     </sense>
     <note type="source"><form lang="en"><text>BKG: 9382 occurrences, first GEN.3.10; Childs 2000, p. 394: yá</text></form></note>
   </entry>
-  <entry id="yaa_1383">
-    <lexical-unit><form lang="kqs"><text>yaa</text></form></lexical-unit>
+  <entry id="yáá_1383">
+    <lexical-unit><form lang="kqs"><text>yáá</text></form></lexical-unit>
     <trait name="status" value="attested"/>
-    <sense id="yaa_1383_s1">
+    <sense id="yáá_1383_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>trois</text></gloss>
       <gloss lang="en"><text>three</text></gloss>
@@ -18216,12 +18216,12 @@
     <field type="southern-kissi-sense"><form lang="en"><text>enemy, someone hated</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 97 occurrences, first EXO.23.4; Keita 1979, p. 149: Yaamöö; Childs 2000, p. 395: yáámɔ́ɔ́</text></form></note>
   </entry>
-  <entry id="yaandɔɔ_1388">
-    <lexical-unit><form lang="kqs"><text>yaandɔɔ</text></form></lexical-unit>
+  <entry id="yàándɔɔ_1388">
+    <lexical-unit><form lang="kqs"><text>yàándɔɔ</text></form></lexical-unit>
     <trait name="status" value="attested"/>
-    <variant><form lang="kqs"><text>yaandɔlen</text></form></variant>
-    <variant><form lang="kqs"><text>yaandɔ</text></form></variant>
-    <sense id="yaandɔɔ_1388_s1">
+    <variant><form lang="kqs"><text>yàándɔlen</text></form></variant>
+    <variant><form lang="kqs"><text>yàándɔ</text></form></variant>
+    <sense id="yàándɔɔ_1388_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>troisième</text></gloss>
       <gloss lang="en"><text>third</text></gloss>
@@ -18429,7 +18429,7 @@
     <lexical-unit><form lang="kqs"><text>yáwvo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
-    <variant><form lang="kqs"><text>yaw</text></form></variant>
+    <variant><form lang="kqs"><text>yáw</text></form></variant>
     <sense id="yáwvo_1404_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>peau</text></gloss>
@@ -19831,10 +19831,10 @@
     <field type="southern-kissi-sense"><form lang="en"><text>shiver (from cold or fever); be anxious</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 56 occurrences, first JDG.5.5; Childs 2000, p. 279: ɲììyáá</text></form></note>
   </entry>
-  <entry id="ɲiiye_1512">
-    <lexical-unit><form lang="kqs"><text>ɲiiye</text></form></lexical-unit>
+  <entry id="ɲííye_1512">
+    <lexical-unit><form lang="kqs"><text>ɲííye</text></form></lexical-unit>
     <trait name="status" value="attested"/>
-    <sense id="ɲiiye_1512_s1">
+    <sense id="ɲííye_1512_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pitié, compassion</text></gloss>
       <gloss lang="en"><text>pity, compassion</text></gloss>

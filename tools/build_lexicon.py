@@ -44,11 +44,17 @@ def key(w):
     return unicodedata.normalize("NFC", "".join(c for c in d if unicodedata.category(c) != "Mn")).lower()
 
 
+def toned(w):
+    return any(unicodedata.category(c) == "Mn" for c in unicodedata.normalize("NFD", w))
+
+
 def load_words():
+    """key -> (count, first ref, set of lower-case spellings as written in the Bible)"""
     words = {}
     for line in WORDLIST.read_text(encoding="utf-8").splitlines()[1:]:
         k, n, spellings, ref = line.split("\t")
-        words[k] = (int(n), ref)
+        forms = {unicodedata.normalize("NFC", s.rpartition(" ")[0]).lower() for s in spellings.split(", ")}
+        words[k] = (int(n), ref, forms)
     return words
 
 
@@ -96,6 +102,13 @@ def validate(domains, entries, words):
             for form in [lemma] + [str(x) for x in ([e["plural"]] if e.get("plural") else []) + (e.get("forms") or [])]:
                 if not attested(form, words):
                     errors.append(f"{where}: '{form}' is marked attested but is not in the Bible word list")
+                    continue
+                # tone marks: the Bible always writes this word with accents, but the entry does not
+                for w in WORD_RE.findall(form):
+                    info = words.get(key(w))
+                    if info and not toned(w) and all(toned(s) for s in info[2]):
+                        warnings.append(f"{where}: the Bible always writes '{w}' with tone marks "
+                                        f"({', '.join(sorted(info[2]))}); use the accented spelling")
         elif e.get("status") == "respelled" and " " not in lemma and lemma and attested(lemma, words):
             warnings.append(f"{where}: '{lemma}' is in the Bible word list; status could be 'attested'")
         k = (key(lemma), e.get("pos"), (g or {}).get("fr") if isinstance(g, dict) else None)

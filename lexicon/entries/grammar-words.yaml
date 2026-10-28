@@ -58,7 +58,7 @@
 # Numerals
 - {lemma: pilɛ, status: attested, pos: num, gloss: {fr: "un", en: "one"}, domains: ["8.1.1"], childs: {page: 301, form: "pìlɛ́ɛ́"}}
 - {lemma: tiɔn, status: attested, pos: num, forms: [ŋiɔn, ŋiin, miɔn], gloss: {fr: "deux", en: "two"}, domains: ["8.1.1"], note: "La forme varie selon la classe du nom compté.", childs: {page: 362, form: "tìɔ́ɔ́ŋ"}}
-- {lemma: yaa, status: attested, pos: num, gloss: {fr: "trois", en: "three"}, domains: ["8.1.1"], childs: {page: 394, form: "yàá"}}
+- {lemma: yáá, status: attested, pos: num, gloss: {fr: "trois", en: "three"}, domains: ["8.1.1"], childs: {page: 394, form: "yàá"}}
 - {lemma: hiɔɔlu, status: attested, pos: num, gloss: {fr: "quatre", en: "four"}, domains: ["8.1.1"], childs: {page: 128, form: "hìɔ́ɔ́lú"}}
 - {lemma: ŋuɛɛnu, status: attested, pos: num, gloss: {fr: "cinq", en: "five"}, domains: ["8.1.1"], childs: {page: 272, form: "ŋùɛ́ɛ́nú"}}
 - {lemma: ŋɔmpum, status: attested, pos: num, gloss: {fr: "six", en: "six"}, domains: ["8.1.1"], childs: {page: 271, form: "ŋɔ̌ŋpúm"}}
@@ -69,7 +69,7 @@
 - {lemma: bidiin, status: attested, pos: num, gloss: {fr: "vingt", en: "twenty"}, domains: ["8.1.1"], childs: {page: 16, form: "bídìíŋ"}}
 - {lemma: beleyaa, status: attested, pos: num, gloss: {fr: "trente", en: "thirty"}, domains: ["8.1.1"], childs: {page: 10, form: "béléyáà"}}
 - {lemma: kɛmɛ, status: attested, pos: num, gloss: {fr: "cent", en: "hundred"}, domains: ["8.1.1"], childs: {page: 160, form: "kɛ́mɛ̀"}}
-- {lemma: vaa, status: attested, pos: num, plural: valan, gloss: {fr: "mille", en: "thousand"}, domains: ["8.1.1"], childs: {page: 377, form: "wàá"}}
+- {lemma: vaa, status: attested, pos: num, plural: vàálan, gloss: {fr: "mille", en: "thousand"}, domains: ["8.1.1"], childs: {page: 377, form: "wàá"}}
 - {lemma: tasoo, status: attested, pos: num, gloss: {fr: "premier", en: "first"}, domains: ["8.1.1"], childs: {page: 350, form: "tàsé-"}}
 - {lemma: diinndɔɔ, status: attested, pos: num, gloss: {fr: "deuxième", en: "second"}, domains: ["8.1.1"], childs: {page: 79, form: "dìíŋ", sense: "two; second"}}
 

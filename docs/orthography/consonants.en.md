@@ -20,7 +20,7 @@
 | **t** | as in *stop*, without a puff of air | {{tiɔn}} | two |
 | **v** | as in *van* | {{vana}} | person |
 | **w** | *w* of *watt*, only after a vowel | {{taw}} | much, many |
-| **y** | *y* of *yes* | {{yaa}} | three |
+| **y** | *y* of *yes* | {{yáá}} | three |
 
 In Southern Kissi, *b* and *d* are implosive and occur mainly at the beginning of words [[(Childs1995, p. 27)]]; *c* there varies between [tʃ] and an almost velar articulation [[(Childs1995, p. 31)]].
 

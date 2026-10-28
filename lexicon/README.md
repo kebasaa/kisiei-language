@@ -46,6 +46,7 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
   note: "free text, in French"
 ```
 
+- **Tone marks:** write lemma, plural and forms with the tone accents the Bible uses for this word in this sense (*vílɛ́iyo*, *yàándɔɔ*, *yáá* "three"). Where the same letters are written with different tones for different words, take the spelling of the word meant (*yáá* "three" vs *yáà* "I (past)"; *kolaa* "cloth" vs *kólaa* "cup"). Leave accents out only when the Bible normally writes the word without them. The build warns when the Bible always writes a word with accents and the entry does not.
 - **Verbs:** the lemma is the long form (*tosaa*, *dioo*). The short stems go in `forms`.
 - **Glosses:** short and comma-separated. Use the meaning seen in the Bible; add Keita's other northern senses after a semicolon. Childs's Southern Kissi senses go in `childs.sense` (see below).
 - **Southern Kissi meanings:** Childs's dictionary may be used whenever a meaning or semantic field is uncertain. A Southern Kissi sense that differs from or adds to the northern meaning goes in `childs.sense`, never in `gloss`; the word lists show it separately, labelled "kissi du Sud (Childs 2000)". `gloss` describes Kisiei as written in Guinea.

@@ -20,7 +20,7 @@
 | **t** | comme en français | {{tiɔn}} | deux |
 | **v** | comme en français | {{vana}} | personne |
 | **w** | *w* de *watt*, seulement après une voyelle | {{taw}} | beaucoup |
-| **y** | *y* de *yeux* | {{yaa}} | trois |
+| **y** | *y* de *yeux* | {{yáá}} | trois |
 
 En kissi du Sud, *b* et *d* sont implosifs et se trouvent surtout en début de mot [[(Childs1995, p. 27)]] ; *c* y varie entre [tʃ] et une articulation presque vélaire [[(Childs1995, p. 31)]].
 

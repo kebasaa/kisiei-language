@@ -10,7 +10,7 @@ Les formes et les règles de cette page sont dégagées des textes de la Bible e
 | --- | --- | --- | --- |
 | 1 | {{pilɛ}} | 6 | {{ŋɔmpum}} |
 | 2 | {{tiɔn}} | 7 | {{ŋɔmmɛw}} |
-| 3 | {{yaa}} | 8 | {{ŋɔmaa}} |
+| 3 | {{yáá}} | 8 | {{ŋɔmaa}} |
 | 4 | {{hiɔɔlu}} | 9 | {{ŋɔmahiɔɔlu}} |
 | 5 | {{ŋuɛɛnu}} | 10 | {{tɔ́}} |
 
@@ -68,7 +68,7 @@ Le premier se dit {{tasoo}} [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BK
 | Ordinal | Classe *o* | Classe *i* | Classe *len* |
 | --- | --- | --- | --- |
 | deuxième | {{diinndɔɔ}} | {{diinndɔɛi}} | |
-| troisième | {{yaandɔɔ}} | | |
+| troisième | {{yàándɔɔ}} | | |
 | quatrième | {{hiɔɔlundɔɔ}} | | |
 | septième | {{ŋɔmmɛwndɔɔ}} | | {{ŋɔmmɛwndɔlen}} |
 | dixième | {{tɔ́ndɔɔ}} | {{tɔ́ndɔɛi}} | |
