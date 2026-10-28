@@ -9,7 +9,7 @@ Ces tableaux résument les formes décrites aux pages [Radicaux et groupes](../g
 | Accompli, habituel | {{o tosa}} | {{o tosa le}} |
 | Progressif présent | {{o co tosaa}} | |
 | Progressif passé | {{o va tosaa}} | |
-| Futur proche | {{ɲɛ ya co tosa}} « ce que je vais faire » [[GEN.42.33]] | |
+| Futur proche | {{ɲɛ ya co tosa}} « ce que je vais faire » [Gn 42,33](https://www.bible.com/bible/1394/GEN.42.33.BKG) | |
 | Futur | {{o tosanin}} | |
 | Récit | {{mó tosa}} | |
 | Subjonctif | {{mò tosa}} | |
@@ -32,7 +32,7 @@ Ces tableaux résument les formes décrites aux pages [Radicaux et groupes](../g
 | Accompli, condition, relative | {{de}} : {{te o de pɛ}} | {{di}} : {{o di … le}} |
 | Habituel, défense | {{dia}} | {{La dia le}} |
 | Progressif présent | {{o co dioo}} | |
-| Futur proche | {{n co ndu dio}} « tu en mangeras » [[GEN.2.17]] | |
+| Futur proche | {{n co ndu dio}} « tu en mangeras » [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) | |
 | Futur | {{o dianin}} | {{o dinin … le}} |
 
 ## Verbe à quatre radicaux : *kɔlan* « aller »

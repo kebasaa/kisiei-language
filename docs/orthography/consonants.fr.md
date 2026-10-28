@@ -84,4 +84,4 @@ En kissi du Sud, *n* n'apparaît jamais en fin de syllabe : la nasale finale y e
 
 ## L'apostrophe : n'
 
-Devant une consonne, un *n* qui forme à lui seul une syllabe s'écrit **n'** et se colle au mot suivant : {{n'van tɔ́}} « dix personnes » [[GEN.42.3]], {{n'rɛsɛnndo}} « vigne ». Il s'agit d'un préfixe nasal ; son sens est décrit au chapitre [Grammaire](../grammar/nouns/derivation.md).
+Devant une consonne, un *n* qui forme à lui seul une syllabe s'écrit **n'** et se colle au mot suivant : {{n'van tɔ́}} « dix personnes » [Gn 42,3](https://www.bible.com/bible/1394/GEN.42.3.BKG), {{n'rɛsɛnndo}} « vigne ». Il s'agit d'un préfixe nasal ; son sens est décrit au chapitre [Grammaire](../grammar/nouns/derivation.md).

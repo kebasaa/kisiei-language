@@ -8,17 +8,17 @@ Le kisiei n'a pas de pronom relatif séparé comme le français *qui*, *que*. La
 
 | Exemple (Bible) | Analyse | Sens |
 | --- | --- | --- |
-| {{kɔngɔ vesɛi fula-o}} | *kɔngɔ vesɛi* [*fula*]-*o* | la terre sèche qui est apparue [[GEN.1.10]] |
-| {{mɛmma co lebɛngu-an}} | *mɛm-ma* [*co lebɛngu*]-*an* | les eaux qui sont en bas [[GEN.1.7]] |
-| {{visia pɔmbɔa kela lɛŋ-nda}} | *visia pɔmbɔa* [*kela lɛŋ*]-*nda* | les petites bêtes qui marchent par terre [[GEN.1.24]] |
-| {{sɔɛi Mɛlɛka dimul ndu-e}} | *sɔɛi* [*Mɛlɛka dimul ndu*]-*e* | la parole que le Seigneur lui avait dite [[GEN.15.6]] |
-| {{lɔma ya sɔl-lan}} | *lɔma* [*ya sɔl*]-*lan* | le rêve que j'ai fait [[GEN.37.6]] |
-| {{lɛŋnde ya co nɔm cɔm-nden}} | *lɛŋnde* [*ya co nɔm cɔm*]-*nden* | le pays que je te montrerai [[GEN.12.1]] |
-| {{ɲɛm vanaa kan ndáà manda le dioo-on}} | *ɲɛm* [*vanaa kan ndáà manda le dioo*]-*on* | les vivres que ces gens avaient gardés pour manger [[GEN.14.11]] |
+| {{kɔngɔ vesɛi fula-o}} | *kɔngɔ vesɛi* [*fula*]-*o* | la terre sèche qui est apparue [Gn 1,10](https://www.bible.com/bible/1394/GEN.1.10.BKG) |
+| {{mɛmma co lebɛngu-an}} | *mɛm-ma* [*co lebɛngu*]-*an* | les eaux qui sont en bas [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{visia pɔmbɔa kela lɛŋ-nda}} | *visia pɔmbɔa* [*kela lɛŋ*]-*nda* | les petites bêtes qui marchent par terre [Gn 1,24](https://www.bible.com/bible/1394/GEN.1.24.BKG) |
+| {{sɔɛi Mɛlɛka dimul ndu-e}} | *sɔɛi* [*Mɛlɛka dimul ndu*]-*e* | la parole que le Seigneur lui avait dite [Gn 15,6](https://www.bible.com/bible/1394/GEN.15.6.BKG) |
+| {{lɔma ya sɔl-lan}} | *lɔma* [*ya sɔl*]-*lan* | le rêve que j'ai fait [Gn 37,6](https://www.bible.com/bible/1394/GEN.37.6.BKG) |
+| {{lɛŋnde ya co nɔm cɔm-nden}} | *lɛŋnde* [*ya co nɔm cɔm*]-*nden* | le pays que je te montrerai [Gn 12,1](https://www.bible.com/bible/1394/GEN.12.1.BKG) |
+| {{ɲɛm vanaa kan ndáà manda le dioo-on}} | *ɲɛm* [*vanaa kan ndáà manda le dioo*]-*on* | les vivres que ces gens avaient gardés pour manger [Gn 14,11](https://www.bible.com/bible/1394/GEN.14.11.BKG) |
 
 Dans les classes *an*, *len* et *lan*, le nom garde devant la relative son **pronom de classe** ({{mɛmma}} = *mɛm-* + *ma*, {{lɛŋnde}}, {{kobila}}), comme devant un adjectif ; dans la classe *o*, le radical est nu ({{kɔngɔ}}). Voir [Classes nominales](../nouns/noun-classes.md).
 
-Souvent, un démonstratif {{hoo}} « ce…-ci » ou {{kon}} « ce…-là » se place à la fin de la relative, juste avant la terminaison : {{Kpema ya yii hoo-o}} « l'alliance que j'établis » [[GEN.17.7]], {{fonda n sim kon-ndo}} « l'endroit où tu te tiens » [[GEN.13.14]], {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [[GEN.3.14]]. Le kissi du Sud emploie aussi un démonstratif à l'intérieur de la relative, surtout quand le nom relativisé est placé en tête de phrase comme thème [[(Childs1995, p. 288-289)]].
+Souvent, un démonstratif {{hoo}} « ce…-ci » ou {{kon}} « ce…-là » se place à la fin de la relative, juste avant la terminaison : {{Kpema ya yii hoo-o}} « l'alliance que j'établis » [Gn 17,7](https://www.bible.com/bible/1394/GEN.17.7.BKG), {{fonda n sim kon-ndo}} « l'endroit où tu te tiens » [Gn 13,14](https://www.bible.com/bible/1394/GEN.13.14.BKG), {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [Gn 3,14](https://www.bible.com/bible/1394/GEN.3.14.BKG). Le kissi du Sud emploie aussi un démonstratif à l'intérieur de la relative, surtout quand le nom relativisé est placé en tête de phrase comme thème [[(Childs1995, p. 288-289)]].
 
 ## La terminaison finale
 
@@ -34,7 +34,7 @@ La terminaison qui ferme la relative est celle de la classe du nom ; elle change
 | *lan* | *-lan* | *-ndan* | *-lan* : {{sɔl-lan}} | |
 | plur. en *-on* | *-on* : {{dioo-on}} | *-ndon* : {{mún-ndon}} | *-lon* | *-yon* : {{landei-yon}} |
 
-Après *w*, *-o*, *-a* et *-on* deviennent *-vo*, *-va*, *-von* ({{cɔw-von}} [[GEN.1.31]]).
+Après *w*, *-o*, *-a* et *-on* deviennent *-vo*, *-va*, *-von* ({{cɔw-von}} [Gn 1,31](https://www.bible.com/bible/1394/GEN.1.31.BKG)).
 
 ## Le sujet de la relative
 
@@ -42,12 +42,12 @@ Dans la relative, les pronoms sujets ne sont pas ceux de la phrase simple ({{i}}
 
 | Personne | Phrase simple | Relative, question | Exemple (Bible) |
 | --- | --- | --- | --- |
-| 1re sing. | {{i}} | {{ya}} | {{lɔma ya sɔl-lan}} « le rêve que j'ai fait » [[GEN.37.6]] |
-| 2e sing. | {{a}} | {{n}} | {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [[GEN.3.14]] ; {{fonda n yeema-o}} « l'endroit que tu veux » [[GEN.13.9]] |
-| 3e sing. | {{o}} | {{o}} | {{ɲɛm o cɔw-von}} « les choses qu'il avait créées » [[GEN.1.31]] |
-| 1re plur. | {{n}} | {{naa n}} | {{lɔma naa n sɔl man-ndan}} « les rêves que nous avons faits » [[GEN.41.12]] |
-| 2e plur. | {{la}} | {{niaa}} | {{lɔma niaa sɔl-lan}} « le rêve que vous avez fait » [[GEN.40.8]] |
-| 3e plur. | {{a}} | {{ndáà}} | {{ɲɛm ndáà yoo ndu-on}} « les choses qu'ils lui apportaient » [[GEN.43.26]] |
+| 1re sing. | {{i}} | {{ya}} | {{lɔma ya sɔl-lan}} « le rêve que j'ai fait » [Gn 37,6](https://www.bible.com/bible/1394/GEN.37.6.BKG) |
+| 2e sing. | {{a}} | {{n}} | {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [Gn 3,14](https://www.bible.com/bible/1394/GEN.3.14.BKG) ; {{fonda n yeema-o}} « l'endroit que tu veux » [Gn 13,9](https://www.bible.com/bible/1394/GEN.13.9.BKG) |
+| 3e sing. | {{o}} | {{o}} | {{ɲɛm o cɔw-von}} « les choses qu'il avait créées » [Gn 1,31](https://www.bible.com/bible/1394/GEN.1.31.BKG) |
+| 1re plur. | {{n}} | {{naa n}} | {{lɔma naa n sɔl man-ndan}} « les rêves que nous avons faits » [Gn 41,12](https://www.bible.com/bible/1394/GEN.41.12.BKG) |
+| 2e plur. | {{la}} | {{niaa}} | {{lɔma niaa sɔl-lan}} « le rêve que vous avez fait » [Gn 40,8](https://www.bible.com/bible/1394/GEN.40.8.BKG) |
+| 3e plur. | {{a}} | {{ndáà}} | {{ɲɛm ndáà yoo ndu-on}} « les choses qu'ils lui apportaient » [Gn 43,26](https://www.bible.com/bible/1394/GEN.43.26.BKG) |
 
 Attention : {{n}} vaut « tu » dans une relative ou une question, mais « nous » dans la phrase simple.
 
@@ -57,8 +57,8 @@ Quand le nom lui-même est le sujet de la relative, le verbe suit directement : 
 
 Les noms de lieu et de temps se relativisent de la même façon :
 
-- {{fonda ni ya va baalaa-o}} « l'endroit où je travaillais » [[GEN.41.13]] ;
-- {{kobila va o dɛɛla kon nin-ndan}} « les villes qui étaient dans cette plaine » [[GEN.13.12]].
+- {{fonda ni ya va baalaa-o}} « l'endroit où je travaillais » [Gn 41,13](https://www.bible.com/bible/1394/GEN.41.13.BKG) ;
+- {{kobila va o dɛɛla kon nin-ndan}} « les villes qui étaient dans cette plaine » [Gn 13,12](https://www.bible.com/bible/1394/GEN.13.12.BKG).
 
 !!! rule "Règles d'écriture"
     - La terminaison de classe qui ferme la relative s'attache au **dernier mot** de la relative par un **trait d'union** : {{fula-o}}, {{sɔl-lan}}, {{cɔm-nden}}.

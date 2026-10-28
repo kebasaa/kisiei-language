@@ -13,7 +13,7 @@ Chaque verbe a une **forme longue** (appelée « infinitif » en 1979 [[(Keita19
 | {{kɔlan}} | {{kɔa}}, {{kɔɛ}}, {{kɔ}}, {{kue}} | aller, partir |
 | {{cɛlɔɔ}} | {{cɛl}} | accepter |
 
-La forme longue s'emploie après les auxiliaires {{co}} et {{va}} (aspect progressif) et comme nom verbal : {{o va kelaa}} « il marchait » [[GEN.6.9]] ; {{dɛnɛ vaa nuaa tosaa}} « faire une telle chose » [[GEN.11.6]]. Les formes courtes servent aux autres temps, modes et à la négation (voir [Temps, aspects, modes](tense-aspect-mood.md)).
+La forme longue s'emploie après les auxiliaires {{co}} et {{va}} (aspect progressif) et comme nom verbal : {{o va kelaa}} « il marchait » [Gn 6,9](https://www.bible.com/bible/1394/GEN.6.9.BKG) ; {{dɛnɛ vaa nuaa tosaa}} « faire une telle chose » [Gn 11,6](https://www.bible.com/bible/1394/GEN.11.6.BKG). Les formes courtes servent aux autres temps, modes et à la négation (voir [Temps, aspects, modes](tense-aspect-mood.md)).
 
 La forme longue est en fait un **nom verbal** de la classe *o* ; elle se termine comme un nom (*-aa*, *-ɔɔ*, *-oo*, *-ndo*…). Le kissi du Sud forme de même le nom verbal avec le suffixe *-o* [[(Childs1995, p. 202-203)]].
 
@@ -30,7 +30,7 @@ La voyelle reste la même partout ; seule la terminaison change :
 | {{tosaa}} | {{tosa}} | {{tosanin}} | {{tosa le}} |
 | {{cɛlɔɔ}} | {{cɛl}} | {{cɛlnin}} | |
 
-Exemples : {{Mí ɲɔɔ tosan lende}} « Et il en fut ainsi » [[GEN.1.7]] ; {{ɲɛ-ɲɛ nɔla lɛ mò kuuna nda … tosa le}} « rien ne les empêchera de faire… » [[GEN.11.6]].
+Exemples : {{Mí ɲɔɔ tosan lende}} « Et il en fut ainsi » [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) ; {{ɲɛ-ɲɛ nɔla lɛ mò kuuna nda … tosa le}} « rien ne les empêchera de faire… » [Gn 11,6](https://www.bible.com/bible/1394/GEN.11.6.BKG).
 
 ### Verbes à alternance vocalique (2e à 4e groupe de 1979)
 
@@ -38,12 +38,12 @@ La voyelle du radical change, surtout **au négatif** :
 
 | Sens | Affirmatif | Négatif | Exemple (Bible) |
 | --- | --- | --- | --- |
-| laisser | {{mal}} | {{mel}} | {{I mel nɔm te}} « je ne te laisserai pas aller » [[GEN.32.27]] |
-| rire | {{mam}} | {{mem}} | {{I mem te}} « je n'ai pas ri » ; {{a mam}} « tu as ri » [[GEN.18.15]] |
-| manger | {{de}}, {{dia}} | {{di}} | {{o di ɲɛdiaa le}} « il ne mangea pas » [[EXO.34.28]] |
-| aller | {{kɔa}}, {{kɔɛ}} | {{kue}} | {{te naa n kue … le}} « si nous n'allons pas » [[GEN.43.3]] |
+| laisser | {{mal}} | {{mel}} | {{I mel nɔm te}} « je ne te laisserai pas aller » [Gn 32,27](https://www.bible.com/bible/1394/GEN.32.27.BKG) |
+| rire | {{mam}} | {{mem}} | {{I mem te}} « je n'ai pas ri » ; {{a mam}} « tu as ri » [Gn 18,15](https://www.bible.com/bible/1394/GEN.18.15.BKG) |
+| manger | {{de}}, {{dia}} | {{di}} | {{o di ɲɛdiaa le}} « il ne mangea pas » [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
+| aller | {{kɔa}}, {{kɔɛ}} | {{kue}} | {{te naa n kue … le}} « si nous n'allons pas » [Gn 43,3](https://www.bible.com/bible/1394/GEN.43.3.BKG) |
 
-Le futur négatif garde la voyelle du négatif : {{dinin}} « ne mangera pas » [[DEU.28.30]], {{kuenin te}} « je n'irai pas » [[JDG.4.8]].
+Le futur négatif garde la voyelle du négatif : {{dinin}} « ne mangera pas » [Dt 28,30](https://www.bible.com/bible/1394/DEU.28.30.BKG), {{kuenin te}} « je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG).
 
 ### Les formes de « manger » et « aller »
 
@@ -52,11 +52,11 @@ Les verbes les plus irréguliers ont quatre radicaux. Leur emploi dans la Bible 
 | | manger | aller | Emploi | Exemple |
 | --- | --- | --- | --- | --- |
 | forme longue | {{dioo}} | {{kɔlan}} | progressif, nom verbal | {{le dioo}} « pour manger » |
-| accompli, subordonnée | {{de}} | {{kɔa}} | récit, condition, relative | {{te o de pɛ}} « s'il mange » [[GEN.3.22]] ; {{má kɔa yondoo nin}} « ils allèrent aux champs » [[GEN.4.8]] |
-| habituel, défense | {{dia}} | {{kɔɛ}} | habitude, impératif négatif, subjonctif | {{La dia le}} « n'en mangez pas » [[GEN.3.3]] ; {{mì n kɔɛ}} « allons » [[GEN.4.8]] |
-| radical court | {{dio}} | {{kɔ}} | futur proche, verbe en série | {{n co ndu dio}} « tu en mangeras » [[GEN.2.17]] ; {{N kɔ delnun ndu coo}} « allons nous jeter sur lui » [[GEN.37.20]] |
-| négatif | {{di}} | {{kue}} | négation | {{o di ɲɛdiaa le}} [[EXO.34.28]] |
-| futur | {{dianin}} | {{kɔanin}} | futur | {{nda dianin}} « ils mangeront » [[EXO.12.7]] |
+| accompli, subordonnée | {{de}} | {{kɔa}} | récit, condition, relative | {{te o de pɛ}} « s'il mange » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) ; {{má kɔa yondoo nin}} « ils allèrent aux champs » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| habituel, défense | {{dia}} | {{kɔɛ}} | habitude, impératif négatif, subjonctif | {{La dia le}} « n'en mangez pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) ; {{mì n kɔɛ}} « allons » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| radical court | {{dio}} | {{kɔ}} | futur proche, verbe en série | {{n co ndu dio}} « tu en mangeras » [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) ; {{N kɔ delnun ndu coo}} « allons nous jeter sur lui » [Gn 37,20](https://www.bible.com/bible/1394/GEN.37.20.BKG) |
+| négatif | {{di}} | {{kue}} | négation | {{o di ɲɛdiaa le}} [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
+| futur | {{dianin}} | {{kɔanin}} | futur | {{nda dianin}} « ils mangeront » [Ex 12,7](https://www.bible.com/bible/1394/EXO.12.7.BKG) |
 
 !!! rule "Règles d'écriture"
     - On écrit chaque radical tel qu'il se prononce : {{mal}} / {{mel}}, {{dia}} / {{di}} ; on ne « régularise » pas.

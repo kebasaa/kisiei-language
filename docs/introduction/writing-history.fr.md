@@ -21,7 +21,7 @@ L'orthographe actuelle remplace ces groupes par des lettres uniques de l'alphabe
 La **Bible en kisiei** [[(BKG)]] est le grand texte publié dans cette orthographe. Elle ajoute des usages que la feuille de correspondances ne mentionne pas :
 
 - **ŋ en fin de radical**, y compris devant les terminaisons en *-nd-* : {{lɛŋnden}} « pays » (1979 : *lènnden*), {{naŋ}} « bon » (1979 : *nan*) ;
-- **les tons**, marqués par des accents sur certains mots seulement ({{Ɲɔ́ɔ́ téngá}} [[GEN.1.3]]) ;
+- **les tons**, marqués par des accents sur certains mots seulement ({{Ɲɔ́ɔ́ téngá}} [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG)) ;
 - **le trait d'union**, qui rattache les relatifs et les marques de classe à la fin d'une proposition ({{fula-o}}, {{nin-nda}}) et relie les mots composés et redoublés ({{ɲɛ-ɲɛ}}, {{taw-taw}}) ;
 - **les guillemets « »** pour les paroles rapportées.
 

@@ -28,9 +28,9 @@ Ce sont surtout les petits mots qui enchaînent les propositions. Leur ton est t
 
 | Ton haut | Emploi | Ton bas | Emploi |
 | --- | --- | --- | --- |
-| {{mí}} | « et (alors) », récit au passé : {{Mí Hala dimi aa}} « Et Dieu dit » [[GEN.1.3]] | {{mì}} | « et (que) », suite voulue ou à venir : {{mì kɔngɔ vesɛiyo lo}} « et que la terre sèche paraisse » [[GEN.1.9]] |
-| {{mó}} | idem, + *o* « il, elle » : {{mó sɛi}} « et il sépara » [[GEN.1.4]] | {{mò}} | idem, + *o* : {{mò vel naa}} « qu'il nous ressemble » [[GEN.1.26]] |
-| {{má}} | idem, + *a* « ils » : {{má kɔa yondoo nin}} « et ils allèrent dans la brousse » [[GEN.4.8]] | {{mà}} | idem, + *a* : {{mà va kelaa}} « qu'ils volent » [[GEN.1.20]] |
+| {{mí}} | « et (alors) », récit au passé : {{Mí Hala dimi aa}} « Et Dieu dit » [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) | {{mì}} | « et (que) », suite voulue ou à venir : {{mì kɔngɔ vesɛiyo lo}} « et que la terre sèche paraisse » [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
+| {{mó}} | idem, + *o* « il, elle » : {{mó sɛi}} « et il sépara » [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG) | {{mò}} | idem, + *o* : {{mò vel naa}} « qu'il nous ressemble » [Gn 1,26](https://www.bible.com/bible/1394/GEN.1.26.BKG) |
+| {{má}} | idem, + *a* « ils » : {{má kɔa yondoo nin}} « et ils allèrent dans la brousse » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) | {{mà}} | idem, + *a* : {{mà va kelaa}} « qu'ils volent » [Gn 1,20](https://www.bible.com/bible/1394/GEN.1.20.BKG) |
 
 D'autres petits mots portent toujours leur ton : {{háá}} « jusqu'à » (à distinguer de {{haa}} « ceux-ci »), {{ndóò}} (auxiliaire du passé, voir [Temps](../grammar/verbs/tense-aspect-mood.md)), {{ndáà}} « eux » (à côté de {{ndaa}} « leur »), {{tùú}} dans {{le tùú}} « parce que », {{tɔ̀a}} « tous ».
 

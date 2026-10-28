@@ -28,6 +28,6 @@ uv run tools/bible_concordance.py -w "ndɔ(ɔ|a|lan|len)"
 
 - vérifie que chaque exemple kisiei marqué comme attesté figure dans la liste des formes de la Bible ; sinon, la construction échoue ;
 - transforme les citations (« (Keita 1979, p. 57) ») en liens vers la [bibliographie](bibliography.md) et signale les clés inconnues ;
-- transforme les références bibliques en liens vers le verset sur bible.com.
+- accepte aussi l'abréviation `[[GEN.1.3]]` pour une référence biblique, mais les pages écrivent les références comme de simples liens Markdown vers le verset sur bible.com (`[Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG)`), lisibles aussi hors du site.
 
 `tools/check_i18n.py` vérifie que chaque page existe en français et en anglais.

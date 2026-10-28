@@ -21,7 +21,7 @@ Ces points ne peuvent pas être tranchés à partir des sources écrites seules 
 
 10. **Ton de l'accompli et de l'habituel.** Ces deux formes ne se distinguent que par le ton [[(Keita1979, p. 95)]] ; une description précise des tons verbaux manque.
 11. **Radicaux de « aller ».** La Bible emploie {{kɔa}} au récit et {{kɔɛ}} après {{mì}} ; la description de 1979 donne *köè* au passé et *köa* à l'habituel. Laquelle des deux répartitions est celle de l'usage courant ?
-12. **La particule *-lɔ* / *-ndɔ* / *-yɔ*.** Son emploi de politesse est clair ({{yaŋ-ndɔ}}), mais la Bible l'emploie aussi dans des phrases négatives au passé ({{ndóò vil-lɔ … le}} [[GEN.2.5]]). Quel est ce second emploi ?
+12. **La particule *-lɔ* / *-ndɔ* / *-yɔ*.** Son emploi de politesse est clair ({{yaŋ-ndɔ}}), mais la Bible l'emploie aussi dans des phrases négatives au passé ({{ndóò vil-lɔ … le}} [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG)). Quel est ce second emploi ?
 13. **Réciproque.** La description de 1979 donne des formes longues *-anndo*, *-lanndo* (*yilanndo*), absentes de la Bible.
 14. **Futur en *co* et futur en *-nin*.** Quelle différence de sens les locuteurs font-ils entre {{n co ndu dio}} et {{dianin}} ?
 

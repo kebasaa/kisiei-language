@@ -26,19 +26,19 @@ Les nombres de 6 à 9 sont formés sur 5 : *ŋɔm-* + 1, 2, 3, 4 ({{ŋɔmpum}}, 
 | 50 | {{beleŋuɛɛnu}} | 100 | {{kɛmɛ}} |
 | 60 | {{belaŋɔmpum}} | 1000 | {{vaa}} (plur. {{valan}}) |
 
-Les mots pour 100 et 1000 sont des emprunts au mandingue [[(Childs1995, p. 112)]]. Les dizaines de 30 à 90 se forment avec *bele-* / *bela-* + l'unité. Les centaines se forment avec *le-* : {{kɛmɛ lediin}} « 200 » [[GEN.11.19]], {{kɛmɛ leyáá}} « 300 » [[GEN.5.22]], {{kɛmɛ leŋɔmpum}} « 600 » [[GEN.7.6]]. Les milliers se comptent avec le pluriel {{valan}} : {{vàálan tan ŋɔmmɛw a kɛmɛ leŋuɛɛnu}} « 7 500 » [[NUM.3.22]].
+Les mots pour 100 et 1000 sont des emprunts au mandingue [[(Childs1995, p. 112)]]. Les dizaines de 30 à 90 se forment avec *bele-* / *bela-* + l'unité. Les centaines se forment avec *le-* : {{kɛmɛ lediin}} « 200 » [Gn 11,19](https://www.bible.com/bible/1394/GEN.11.19.BKG), {{kɛmɛ leyáá}} « 300 » [Gn 5,22](https://www.bible.com/bible/1394/GEN.5.22.BKG), {{kɛmɛ leŋɔmpum}} « 600 » [Gn 7,6](https://www.bible.com/bible/1394/GEN.7.6.BKG). Les milliers se comptent avec le pluriel {{valan}} : {{vàálan tan ŋɔmmɛw a kɛmɛ leŋuɛɛnu}} « 7 500 » [Nb 3,22](https://www.bible.com/bible/1394/NUM.3.22.BKG).
 
 ### Nombres composés
 
-Les parties d'un nombre composé sont reliées par {{a}} « et », de la plus grande à la plus petite : {{kɛmɛ a beleyaa}} « 130 » [[GEN.5.3]], {{bidiin a laŋɔmahiɔɔlu}} « 29 » [[GEN.11.24]].
+Les parties d'un nombre composé sont reliées par {{a}} « et », de la plus grande à la plus petite : {{kɛmɛ a beleyaa}} « 130 » [Gn 5,3](https://www.bible.com/bible/1394/GEN.5.3.BKG), {{bidiin a laŋɔmahiɔɔlu}} « 29 » [Gn 11,24](https://www.bible.com/bible/1394/GEN.11.24.BKG).
 
 Le **dernier élément** prend un préfixe d'accord avec la classe du nom compté, comme en kissi du Sud [[(Childs1995, p. 112-113)]] :
 
 | Nom compté | Préfixe | Exemple |
 | --- | --- | --- |
-| *lan* ({{vɔsilan}} « années ») | **la-** | {{vɔsilan kɛmɛ leŋɔmahiɔɔlu a tɔ́ a latiɔn}} « 912 ans » [[GEN.5.8]] |
-| personnes, animaux | **à** | {{visia tɔ́ a à hiɔɔlu}} « 14 bêtes » [[GEN.7.2]] |
-| *len* (ordinal) | **le-** | {{paale bidiin a leŋɔmmɛwndɔle}} « le 27e jour » [[GEN.8.14]] |
+| *lan* ({{vɔsilan}} « années ») | **la-** | {{vɔsilan kɛmɛ leŋɔmahiɔɔlu a tɔ́ a latiɔn}} « 912 ans » [Gn 5,8](https://www.bible.com/bible/1394/GEN.5.8.BKG) |
+| personnes, animaux | **à** | {{visia tɔ́ a à hiɔɔlu}} « 14 bêtes » [Gn 7,2](https://www.bible.com/bible/1394/GEN.7.2.BKG) |
+| *len* (ordinal) | **le-** | {{paale bidiin a leŋɔmmɛwndɔle}} « le 27e jour » [Gn 8,14](https://www.bible.com/bible/1394/GEN.8.14.BKG) |
 
 !!! rule "Règles d'écriture"
     - Les éléments d'un nombre composé s'écrivent **séparés**, reliés par {{a}} : {{kɛmɛ a beleyaa}}.
@@ -51,19 +51,19 @@ Le nombre se place **après** le nom. À partir de 2, il est souvent précédé 
 
 | Classe | Exemple | Sens |
 | --- | --- | --- |
-| personnes plur. | {{simlacia nda yáá}} | trois guerriers [[1CH.11.15]] |
-| *i* plur. | {{palɛi ndii yáá}} | trois jours [[1CH.12.40]] |
-| plur. en *-on* | {{Paangon mún yáá}} | trois mois [[1CH.13.14]] |
-| *an* | {{polan man yáá}} | trois rangées [[1KI.6.36]] |
-| *lan* | {{kundala bɛndulan tan tiɔn}} | deux grands (luminaires) [[GEN.1.6]] |
+| personnes plur. | {{simlacia nda yáá}} | trois guerriers [1 Ch 11,15](https://www.bible.com/bible/1394/1CH.11.15.BKG) |
+| *i* plur. | {{palɛi ndii yáá}} | trois jours [1 Ch 12,40](https://www.bible.com/bible/1394/1CH.12.40.BKG) |
+| plur. en *-on* | {{Paangon mún yáá}} | trois mois [1 Ch 13,14](https://www.bible.com/bible/1394/1CH.13.14.BKG) |
+| *an* | {{polan man yáá}} | trois rangées [1 R 6,36](https://www.bible.com/bible/1394/1KI.6.36.BKG) |
+| *lan* | {{kundala bɛndulan tan tiɔn}} | deux grands (luminaires) [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
-Sans pronom, le nombre suit directement le nom : {{kɔla palɛi yaa}} « un trajet de trois jours » [[EXO.3.18]], {{vanaa yaa}} « trois personnes ». Le pronom de la classe *lan* prend la forme {{tan}} après *n* ({{vàálan tan}}).
+Sans pronom, le nombre suit directement le nom : {{kɔla palɛi yaa}} « un trajet de trois jours » [Ex 3,18](https://www.bible.com/bible/1394/EXO.3.18.BKG), {{vanaa yaa}} « trois personnes ». Le pronom de la classe *lan* prend la forme {{tan}} après *n* ({{vàálan tan}}).
 
-« Deux » change de forme selon la classe du nom compté : {{ŋiɔn}} pour les personnes ({{poaa nda ŋiɔn}} « deux fils » [[GEN.10.25]]), {{ŋiin}} pour la classe *i* ({{palɛi ndii ŋiin}} « deux jours » [[EXO.16.29]]), {{miɔn}} pour la classe *an* ({{polan man miɔn}} « deux rangées » [[1KI.7.18]]) et {{tiɔn}} pour la classe *lan*. Le kissi du Sud a la même série (*ŋìɔ́ɔ́ŋ*, *ŋìíŋ*, *mìɔ̀ɔ́ŋ*, *tìɔ́ɔ́ŋ*), alors que « trois » y varie peu et « quatre » pas du tout [[(Childs1995, p. 113)]]. Le pronom de classe s'y attache au nombre (*sálà-láŋ là-tìɔ́ɔ́ŋ* « deux sacrifices ») [[(Childs1995, p. 113)]] ; dans la Bible, il ne s'attache qu'à l'unité d'un nombre composé ({{latiɔn}}).
+« Deux » change de forme selon la classe du nom compté : {{ŋiɔn}} pour les personnes ({{poaa nda ŋiɔn}} « deux fils » [Gn 10,25](https://www.bible.com/bible/1394/GEN.10.25.BKG)), {{ŋiin}} pour la classe *i* ({{palɛi ndii ŋiin}} « deux jours » [Ex 16,29](https://www.bible.com/bible/1394/EXO.16.29.BKG)), {{miɔn}} pour la classe *an* ({{polan man miɔn}} « deux rangées » [1 R 7,18](https://www.bible.com/bible/1394/1KI.7.18.BKG)) et {{tiɔn}} pour la classe *lan*. Le kissi du Sud a la même série (*ŋìɔ́ɔ́ŋ*, *ŋìíŋ*, *mìɔ̀ɔ́ŋ*, *tìɔ́ɔ́ŋ*), alors que « trois » y varie peu et « quatre » pas du tout [[(Childs1995, p. 113)]]. Le pronom de classe s'y attache au nombre (*sálà-láŋ là-tìɔ́ɔ́ŋ* « deux sacrifices ») [[(Childs1995, p. 113)]] ; dans la Bible, il ne s'attache qu'à l'unité d'un nombre composé ({{latiɔn}}).
 
 ## Nombres ordinaux
 
-Le premier se dit {{tasoo}} [[GEN.1.1]]. Les autres ordinaux se forment avec **-ndɔɔ** et s'accordent avec la classe du nom :
+Le premier se dit {{tasoo}} [Gn 1,1](https://www.bible.com/bible/1394/GEN.1.1.BKG). Les autres ordinaux se forment avec **-ndɔɔ** et s'accordent avec la classe du nom :
 
 | Ordinal | Classe *o* | Classe *i* | Classe *len* |
 | --- | --- | --- | --- |
@@ -73,9 +73,9 @@ Le premier se dit {{tasoo}} [[GEN.1.1]]. Les autres ordinaux se forment avec **-
 | septième | {{ŋɔmmɛwndɔɔ}} | | {{ŋɔmmɛwndɔlen}} |
 | dixième | {{tɔ́ndɔɔ}} | {{tɔ́ndɔɛi}} | |
 
-Exemples : {{paale ŋɔmmɛwndɔlen}} « le septième jour » [[GEN.2.2]], {{paangii tɔ́ndɔɛi}} « le dixième mois » [[GEN.8.5]], {{paangii diinndɔɛi}} « le deuxième mois » [[GEN.8.14]].
+Exemples : {{paale ŋɔmmɛwndɔlen}} « le septième jour » [Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG), {{paangii tɔ́ndɔɛi}} « le dixième mois » [Gn 8,5](https://www.bible.com/bible/1394/GEN.8.5.BKG), {{paangii diinndɔɛi}} « le deuxième mois » [Gn 8,14](https://www.bible.com/bible/1394/GEN.8.14.BKG).
 
-« Deuxième » se dit {{diinndɔɔ}} ; {{tiɔnndɔɔ}} est très rare [[NEH.13.6]]. Le radical *diin* « deux » se retrouve dans {{bidiin}} « 20 » et {{kɛmɛ lediin}} « 200 » ; le kissi du Sud forme de même « deuxième » sur *dìíŋ* et dit « premier » avec un mot à part, *tásè* [[(Childs1995, p. 112, 201)]].
+« Deuxième » se dit {{diinndɔɔ}} ; {{tiɔnndɔɔ}} est très rare [Ne 13,6](https://www.bible.com/bible/1394/NEH.13.6.BKG). Le radical *diin* « deux » se retrouve dans {{bidiin}} « 20 » et {{kɛmɛ lediin}} « 200 » ; le kissi du Sud forme de même « deuxième » sur *dìíŋ* et dit « premier » avec un mot à part, *tásè* [[(Childs1995, p. 112, 201)]].
 
 ## Nombre de fois
 

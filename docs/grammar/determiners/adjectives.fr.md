@@ -6,18 +6,18 @@ L'adjectif qualificatif se place **après** le nom. Le nom prend sa forme radica
 
 | Classe | Exemple | Sens |
 | --- | --- | --- |
-| *o* | {{pee bɛndoo}} | grand fleuve [[GEN.15.18]] |
-| *o* | {{pee pɔmbɔɔ}} | petit fleuve [[GEN.15.18]] |
-| personnes plur. | {{vanaa bɛndua}} | chefs, maîtres [[GEN.1.28]] |
-| personnes plur. | {{navaa kɛndɛa}} | belles vaches [[GEN.41.20]] |
-| *i* | {{duɲɛi bɛnduei}} | grande fête [[LEV.23.2]] |
-| *i* | {{hoeyii kɛndɛi}} | bonne odeur [[GEN.8.21]] |
-| *an* | {{mɛmma bɛnduan}} | grandes eaux, déluge [[GEN.6.17]] |
-| *len* | {{lɛŋnde kɛndɛlen}} | bon pays [[DEU.8.7]] |
-| *len* | {{yinnde bɛndulen}} | grand feu [[EXO.19.18]] |
-| *lan* | {{peela bɛndulan}} / {{peela pɔmbɔlan}} | grands / petits cours d'eau [[EXO.7.19]] |
-| *lan* | {{kobila bɛndulan}} | grandes villes [[GEN.41.34]] |
-| plur. en *-on* | {{cieon bɛndon}} | grands villages [[NUM.32.16]] |
+| *o* | {{pee bɛndoo}} | grand fleuve [Gn 15,18](https://www.bible.com/bible/1394/GEN.15.18.BKG) |
+| *o* | {{pee pɔmbɔɔ}} | petit fleuve [Gn 15,18](https://www.bible.com/bible/1394/GEN.15.18.BKG) |
+| personnes plur. | {{vanaa bɛndua}} | chefs, maîtres [Gn 1,28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+| personnes plur. | {{navaa kɛndɛa}} | belles vaches [Gn 41,20](https://www.bible.com/bible/1394/GEN.41.20.BKG) |
+| *i* | {{duɲɛi bɛnduei}} | grande fête [Lv 23,2](https://www.bible.com/bible/1394/LEV.23.2.BKG) |
+| *i* | {{hoeyii kɛndɛi}} | bonne odeur [Gn 8,21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| *an* | {{mɛmma bɛnduan}} | grandes eaux, déluge [Gn 6,17](https://www.bible.com/bible/1394/GEN.6.17.BKG) |
+| *len* | {{lɛŋnde kɛndɛlen}} | bon pays [Dt 8,7](https://www.bible.com/bible/1394/DEU.8.7.BKG) |
+| *len* | {{yinnde bɛndulen}} | grand feu [Ex 19,18](https://www.bible.com/bible/1394/EXO.19.18.BKG) |
+| *lan* | {{peela bɛndulan}} / {{peela pɔmbɔlan}} | grands / petits cours d'eau [Ex 7,19](https://www.bible.com/bible/1394/EXO.7.19.BKG) |
+| *lan* | {{kobila bɛndulan}} | grandes villes [Gn 41,34](https://www.bible.com/bible/1394/GEN.41.34.BKG) |
+| plur. en *-on* | {{cieon bɛndon}} | grands villages [Nb 32,16](https://www.bible.com/bible/1394/NUM.32.16.BKG) |
 
 Le nom se met à la forme radicale décrite à la page [Classes nominales](../nouns/noun-classes.md) : radical nu dans la classe *o* ({{pee bɛndoo}}), radical + pronom de classe dans les classes *an*, *len* et *lan* ({{mɛmma bɛnduan}}, {{lɛŋnde kɛndɛlen}}, {{kobila bɛndulan}}). Le même ordre (nom + pronom de classe + adjectif + terminaison) est décrit pour le kissi du Sud [[(Childs1995, p. 150)]].
 
@@ -46,8 +46,8 @@ Précédé du pronom de classe, l'adjectif s'emploie seul, comme un nom : *o hum
 
 L'intensité s'exprime :
 
-- par l'adverbe {{taw}} « très, beaucoup » après l'adjectif ou le verbe d'état : {{dɛnɛ kɛndɔɔ taw}} « un très grand bien » [[GEN.12.16]], {{n naŋ taw}} « c'était très bon » [[GEN.1.31]] ;
-- par le **redoublement** de l'adjectif, écrit avec trait d'union : {{bɛndu-bɛnduan}} « très grandes (eaux) » [[GEN.1.2]].
+- par l'adverbe {{taw}} « très, beaucoup » après l'adjectif ou le verbe d'état : {{dɛnɛ kɛndɔɔ taw}} « un très grand bien » [Gn 12,16](https://www.bible.com/bible/1394/GEN.12.16.BKG), {{n naŋ taw}} « c'était très bon » [Gn 1,31](https://www.bible.com/bible/1394/GEN.1.31.BKG) ;
+- par le **redoublement** de l'adjectif, écrit avec trait d'union : {{bɛndu-bɛnduan}} « très grandes (eaux) » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG).
 
 Le redoublement intensif est également décrit en kissi du Sud (*bɛ̀ndùbɛ́ndù* « très grand ») [[(Childs1995, p. 126)]].
 
@@ -55,8 +55,8 @@ Le redoublement intensif est également décrit en kissi du Sud (*bɛ̀ndùbɛ́
 
 La comparaison se fait avec le verbe {{hiow}} « dépasser » [[(Keita1979, p. 55-56)]] :
 
-- {{Kɛwvo ndóò hiow visia yondoa … kɔlkalu vɔɔndo ni}} « Le serpent dépassait tous les animaux sauvages en ruse » [[GEN.3.1]] ;
-- {{pangele hiow vaa}} « le plus grand luminaire » [[GEN.1.16]].
+- {{Kɛwvo ndóò hiow visia yondoa … kɔlkalu vɔɔndo ni}} « Le serpent dépassait tous les animaux sauvages en ruse » [Gn 3,1](https://www.bible.com/bible/1394/GEN.3.1.BKG) ;
+- {{pangele hiow vaa}} « le plus grand luminaire » [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG).
 
 Le kissi du Sud compare de la même façon avec le verbe « dépasser » ; le superlatif s'y dit « dépasser tous » [[(Childs1995, p. 283-285)]].
 

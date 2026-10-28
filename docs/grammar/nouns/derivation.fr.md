@@ -8,8 +8,8 @@ La dérivation forme des noms nouveaux en ajoutant un **suffixe** ou un **préfi
 
 Le suffixe **-nɔɔ** (pluriel **-nda** ou **-a**) forme des noms de personnes :
 
-- **origine, peuple** : {{Esiptenɔɔ}} « Égyptien » [[GEN.16.1]], {{Israɛlnɔɔ}} « Israélite », {{Filistinɔɔ}} « Philistin » ;
-- **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [[2SA.18.24]], {{kiilanɔɔ}} « messager » [[GEN.50.16]], {{mandenɔɔ}} « marabout, devin » ;
+- **origine, peuple** : {{Esiptenɔɔ}} « Égyptien » [Gn 16,1](https://www.bible.com/bible/1394/GEN.16.1.BKG), {{Israɛlnɔɔ}} « Israélite », {{Filistinɔɔ}} « Philistin » ;
+- **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [2 S 18,24](https://www.bible.com/bible/1394/2SA.18.24.BKG), {{kiilanɔɔ}} « messager » [Gn 50,16](https://www.bible.com/bible/1394/GEN.50.16.BKG), {{mandenɔɔ}} « marabout, devin » ;
 - **qualité** : {{kuubanɔɔ}} « héros », {{langbanɔɔ}} « homme adulte ».
 
 Le kissi du Sud a le même suffixe d'agent, *-nɔ̀ɔ́*, avec un pluriel en *-a* [[(Childs1995, p. 198-199)]].
@@ -24,9 +24,9 @@ Le suffixe **-yɛi** forme des noms abstraits :
 | --- | --- | --- |
 | {{vana}} « personne » | {{vanayɛi}} | parenté |
 | {{cuaambɔɔ}} « enfant » | {{cuaambɔyɛi}} | enfance |
-| *felengoo* « jeune » | {{felengiyɛi}} | jeunesse [[GEN.8.21]] |
-| *vanakɛndɛ* « personne bonne » | {{vanakɛndɛyɛi}} | bonté, justice [[1SA.24.19]] |
-| *hɔ́ɔ́* « libre » | {{hɔ́ɔ́yɛi}} | liberté [[EXO.21.2]] |
+| *felengoo* « jeune » | {{felengiyɛi}} | jeunesse [Gn 8,21](https://www.bible.com/bible/1394/GEN.8.21.BKG) |
+| *vanakɛndɛ* « personne bonne » | {{vanakɛndɛyɛi}} | bonté, justice [1 S 24,19](https://www.bible.com/bible/1394/1SA.24.19.BKG) |
+| *hɔ́ɔ́* « libre » | {{hɔ́ɔ́yɛi}} | liberté [Ex 21,2](https://www.bible.com/bible/1394/EXO.21.2.BKG) |
 
 ### -ndɔɔ : rang (ordinaux)
 
@@ -51,9 +51,9 @@ Plusieurs noms s'emploient comme premier élément de nombreux dérivés ; ils p
 | Préfixe | Nom d'origine | Dérivés (Bible) |
 | --- | --- | --- |
 | **ɲɛ-** « chose » | {{ɲɛ}} | {{ɲɛdiaa}} « nourriture », {{ɲɛkɛndɛi}} « bonne chose, bonheur », {{ɲɛ-sɔlaa}} « richesse », {{ɲɛ-tengaa}} « lumière » |
-| **kɔl-** « cœur » | {{kɔllo}} | {{kɔlɲuloo}} « réconfort, repos » [[GEN.5.29]], {{kɔlvesɛiyo}} « violence » [[GEN.6.13]], {{kɔltuwvo}} « colère » [[EXO.11.8]], {{kɔlkɛndɔɔ}} « joie » |
+| **kɔl-** « cœur » | {{kɔllo}} | {{kɔlɲuloo}} « réconfort, repos » [Gn 5,29](https://www.bible.com/bible/1394/GEN.5.29.BKG), {{kɔlvesɛiyo}} « violence » [Gn 6,13](https://www.bible.com/bible/1394/GEN.6.13.BKG), {{kɔltuwvo}} « colère » [Ex 11,8](https://www.bible.com/bible/1394/EXO.11.8.BKG), {{kɔlkɛndɔɔ}} « joie » |
 | **vana-** « personne » | {{vana}} | {{vanacieo}} « être humain », {{vanayɛi}} « parenté », {{vana-solia-lasálàá}} « prêtre » |
-| **dɛnɛ** « acte, chose » | {{dɛnɛ}} | {{dɛnɛ kɛndɔɔ}} « le bien », {{dɛnɛ vɔɔndo}} « le mal » [[GEN.2.9]] |
+| **dɛnɛ** « acte, chose » | {{dɛnɛ}} | {{dɛnɛ kɛndɔɔ}} « le bien », {{dɛnɛ vɔɔndo}} « le mal » [Gn 2,9](https://www.bible.com/bible/1394/GEN.2.9.BKG) |
 
 **vana-** correspond au préfixe d'agent *wànà-* du kissi du Sud, tiré lui aussi du mot « personne » [[(Childs1995, p. 199-200)]]. Le mot « chose » y entre de même dans tant de composés qu'il devient presque un préfixe [[(Childs1995, p. 216)]].
 

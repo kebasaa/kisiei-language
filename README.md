@@ -20,7 +20,7 @@ French is the main language (at `/`); English is at `/en/`. A small language ico
 2. **Keita (1979)**, *Essai d'élaboration d'un Kisiei fondamental* (see `archive/`), is the background description of the grammar. Its spelling is outdated and it contains errors, so every point taken from it is checked against the Bible and against Childs.
 3. **Childs (1995)**, *A Grammar of Kisi*, and **Childs (2000)**, *A Dictionary of the Kisi Language*, describe mainly Southern Kissi (Liberia, Sierra Leone). They are used for comparison and analysis, never as the norm. These books are not distributed in this repository.
 
-Every Kisiei example on the site carries a status: **attested** (the form occurs in the Bible), **respelled** (taken from Keita 1979 and converted to the current spelling, but not found in the Bible) or **to check**. Citations use author–date with page numbers, for example "(Keita 1979, p. 57)", and Bible references link to the verse on bible.com.
+Every Kisiei example on the site carries a status: **attested** (the form occurs in the Bible), **respelled** (taken from Keita 1979 and converted to the current spelling, but not found in the Bible) or **to check**. Citations use author–date with page numbers, for example "(Keita 1979, p. 57)", and Bible references are written as ordinary Markdown links to the verse on bible.com, so they also work when reading the files on GitHub.
 
 ### Building the site locally
 

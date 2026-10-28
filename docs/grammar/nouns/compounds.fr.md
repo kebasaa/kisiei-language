@@ -21,12 +21,12 @@ La Bible crée de nombreux composés pour les réalités religieuses, juridiques
 
 | Composé | Parties | Sens |
 | --- | --- | --- |
-| {{vana-solia-lasálàá}} | personne + qui offre + sacrifice | prêtre [[GEN.41.45]] |
-| {{fonda-loamaa-lasálàá}} | lieu + brûler + sacrifice | autel [[GEN.8.20]] |
-| {{vana-tɛɛngaa-diom}} | personne + entre + parole | prophète [[GEN.20.7]] |
-| {{vanaa-mangalaa-isɔɔa}} | personnes + … | peuples, nations [[GEN.12.2]] |
-| {{cɛi-kola}} | maison + toile | tente [[GEN.9.21]] |
-| {{fuɲa-mamaa}} | père + grand-parent | ancêtre [[GEN.17.4]] |
+| {{vana-solia-lasálàá}} | personne + qui offre + sacrifice | prêtre [Gn 41,45](https://www.bible.com/bible/1394/GEN.41.45.BKG) |
+| {{fonda-loamaa-lasálàá}} | lieu + brûler + sacrifice | autel [Gn 8,20](https://www.bible.com/bible/1394/GEN.8.20.BKG) |
+| {{vana-tɛɛngaa-diom}} | personne + entre + parole | prophète [Gn 20,7](https://www.bible.com/bible/1394/GEN.20.7.BKG) |
+| {{vanaa-mangalaa-isɔɔa}} | personnes + … | peuples, nations [Gn 12,2](https://www.bible.com/bible/1394/GEN.12.2.BKG) |
+| {{cɛi-kola}} | maison + toile | tente [Gn 9,21](https://www.bible.com/bible/1394/GEN.9.21.BKG) |
+| {{fuɲa-mamaa}} | père + grand-parent | ancêtre [Gn 17,4](https://www.bible.com/bible/1394/GEN.17.4.BKG) |
 
 Les composés anciens et très courants s'écrivent **en un seul mot** :
 
@@ -42,7 +42,7 @@ Les composés anciens et très courants s'écrivent **en un seul mot** :
     - Un composé **figé et courant** s'écrit en un seul mot ({{vanapɔnɔɔ}}).
     - Un composé **descriptif**, dont chaque partie garde son sens, s'écrit avec **traits d'union** ({{vana-solia-lasálàá}}).
     - Au singulier, le premier élément est à la **forme radicale** ({{fuɲa}}-, non *fuɲaa*-).
-    - Au pluriel, c'est le **premier élément** qui prend la marque du pluriel : {{vanaa-solia-lasálàá}} « les prêtres » [[GEN.47.22]], {{fuɲaa-mamaa}} « ancêtres » [[GEN.10.32]] ; dans certains composés, chaque élément la reçoit : {{cɛila-kolala-toandaalan}} « tentes » [[GEN.13.5]].
+    - Au pluriel, c'est le **premier élément** qui prend la marque du pluriel : {{vanaa-solia-lasálàá}} « les prêtres » [Gn 47,22](https://www.bible.com/bible/1394/GEN.47.22.BKG), {{fuɲaa-mamaa}} « ancêtres » [Gn 10,32](https://www.bible.com/bible/1394/GEN.10.32.BKG) ; dans certains composés, chaque élément la reçoit : {{cɛila-kolala-toandaalan}} « tentes » [Gn 13,5](https://www.bible.com/bible/1394/GEN.13.5.BKG).
 
 En kissi du Sud aussi, c'est le premier nom, tête du composé, qui marque le nombre par son pronom de classe, et sa terminaison passe à la fin du composé [[(Childs1995, p. 209-210)]].
 

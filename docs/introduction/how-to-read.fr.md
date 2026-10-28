@@ -14,7 +14,7 @@ Le statut est **vérifié automatiquement** à chaque construction du site : un 
 
 ## Références
 
-- **Bible** : [[GEN.1.3]] renvoie au verset sur bible.com. Les abréviations des livres sont celles de la Bible en français (Gn, Ex, Mt…).
+- **Bible** : [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) renvoie au verset sur bible.com. Les abréviations des livres sont celles de la Bible en français (Gn, Ex, Mt…).
 - **Keita 1979** : « (Keita 1979, p. 24) » renvoie à la page dactylographiée du manuel ; la transcription intégrale se trouve dans les [archives](../sources/archive.md).
 - Les autres sources sont listées dans la [bibliographie](../sources/bibliography.md).
 

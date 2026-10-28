@@ -40,13 +40,13 @@ Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les
 
 | Forme pleine | Forme radicale | Exemple (Bible) |
 | --- | --- | --- |
-| {{diolan}} « nom » | {{diola}} | {{diola ndalan}} « leurs noms » [[GEN.10.32]] |
-| {{kobilan}} « villes » | {{kobila}} | {{kobila lan}} « ces villes » [[GEN.19.25]] |
-| {{lɛŋnden}} « pays » | {{lɛŋnde}} | {{lɛŋnde Havila len}} « le pays de Havila » [[GEN.2.11]] |
-| {{bollen}} « tête » | {{bolle}} | {{bolle ndɔlen}} « son sommet » [[GEN.11.4]] |
-| {{nilen}} « oreille » | {{nile}} | {{nile tiilannde}} « le lobe de l'oreille » [[EXO.29.20]] |
-| {{mɛnndan}} « eau » | {{mɛmma}} | {{mɛmma co lebɛngu-an}} « les eaux qui sont en bas » [[GEN.1.7]] |
-| {{koovan}} « sang » | {{kooma}} | {{kooma pɔmbɔ nɔmndan}} « le sang de ton frère » [[GEN.4.10]] |
+| {{diolan}} « nom » | {{diola}} | {{diola ndalan}} « leurs noms » [Gn 10,32](https://www.bible.com/bible/1394/GEN.10.32.BKG) |
+| {{kobilan}} « villes » | {{kobila}} | {{kobila lan}} « ces villes » [Gn 19,25](https://www.bible.com/bible/1394/GEN.19.25.BKG) |
+| {{lɛŋnden}} « pays » | {{lɛŋnde}} | {{lɛŋnde Havila len}} « le pays de Havila » [Gn 2,11](https://www.bible.com/bible/1394/GEN.2.11.BKG) |
+| {{bollen}} « tête » | {{bolle}} | {{bolle ndɔlen}} « son sommet » [Gn 11,4](https://www.bible.com/bible/1394/GEN.11.4.BKG) |
+| {{nilen}} « oreille » | {{nile}} | {{nile tiilannde}} « le lobe de l'oreille » [Ex 29,20](https://www.bible.com/bible/1394/EXO.29.20.BKG) |
+| {{mɛnndan}} « eau » | {{mɛmma}} | {{mɛmma co lebɛngu-an}} « les eaux qui sont en bas » [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| {{koovan}} « sang » | {{kooma}} | {{kooma pɔmbɔ nɔmndan}} « le sang de ton frère » [Gn 4,10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
 | {{cuɛiyan}} « huile » | {{cuɛima}} | |
 
 !!! rule "Règle"
@@ -83,4 +83,4 @@ La Bible confirme les grandes lignes du système décrit en 1979 : forme pleine 
 
 ## Masculin et féminin
 
-Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » à la forme radicale [[(Keita1979, p. 28)]] : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». Le même procédé est décrit en kissi du Sud pour les animaux [[(Childs1995, p. 216-217)]]. La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [[GEN.5.4]].
+Le kisiei n'a pas de genre grammatical. Pour préciser le sexe d'un être, on ajoute *piaando* « mâle » ou *laando* « femelle » à la forme radicale [[(Keita1979, p. 28)]] : {{so piaando\|r}} « cheval », {{so laando\|r}} « jument ». Le même procédé est décrit en kissi du Sud pour les animaux [[(Childs1995, p. 216-217)]]. La Bible emploie ces mots au pluriel pour les enfants : {{a piaandua a à laandua}} « des fils et des filles » [Gn 5,4](https://www.bible.com/bible/1394/GEN.5.4.BKG).

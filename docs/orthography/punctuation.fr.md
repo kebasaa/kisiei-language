@@ -6,20 +6,20 @@ La ponctuation suit les règles du français. La Bible [[(BKG)]] emploie :
 
 | Signe | Emploi | Exemple |
 | --- | --- | --- |
-| **.** | fin de phrase | {{Mí ɲɔɔ tosan lende.}} « Et il en fut ainsi. » [[GEN.1.9]] |
+| **.** | fin de phrase | {{Mí ɲɔɔ tosan lende.}} « Et il en fut ainsi. » [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | **,** | entre propositions, dans les énumérations | {{Sɛm, Ham a Yafɛt}} « Sem, Cham et Japhet » |
 | **:** | avant des paroles rapportées, une énumération | {{Mí Hala dimi aa: «…»}} |
-| **?** | question | {{Kuɛɛ nɛ n co yɛ?}} « Où es-tu ? » [[GEN.3.9]] |
-| **!** | exclamation, ordre | {{Má cè laa nɔm!}} « Voici ta femme ! » [[GEN.12.19]] |
+| **?** | question | {{Kuɛɛ nɛ n co yɛ?}} « Où es-tu ? » [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
+| **!** | exclamation, ordre | {{Má cè laa nɔm!}} « Voici ta femme ! » [Gn 12,19](https://www.bible.com/bible/1394/GEN.12.19.BKG) |
 | **« »** | paroles rapportées | {{Mó dimi aa: «Diomndo ndu.»}} |
-| **‹ ›** | paroles rapportées à l'intérieur d'autres paroles | [[GEN.3.3]] |
+| **‹ ›** | paroles rapportées à l'intérieur d'autres paroles | [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
 | **( )** | précision, incise | |
 
 ### Les paroles rapportées
 
 Le discours direct est introduit par le verbe de parole suivi de {{aa}} « que, ceci » et de deux-points, puis mis entre guillemets français :
 
-{{Mí Hala dimi aa: «Ɲɔ́ɔ́ téngá!» Mí ɲɔɔ tèngà.}} « Dieu dit : "Que la lumière soit !" Et la lumière fut. » [[GEN.1.3]]
+{{Mí Hala dimi aa: «Ɲɔ́ɔ́ téngá!» Mí ɲɔɔ tèngà.}} « Dieu dit : "Que la lumière soit !" Et la lumière fut. » [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG)
 
 !!! rule "Règle"
     - Les guillemets s'écrivent **« »** (et **‹ ›** à l'intérieur), sans espace à l'intérieur des guillemets dans la Bible : {{«Diomndo ndu.»}}.

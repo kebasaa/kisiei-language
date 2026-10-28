@@ -6,32 +6,32 @@ Les adverbes sont invariables ; ils se placent en général **après le verbe et
 
 | Mot | Sens | Exemple (Bible) |
 | --- | --- | --- |
-| {{hau}} | aujourd'hui, maintenant | {{kandɔɔ hau}} « dès maintenant » [[GEN.4.11]] |
-| {{nihau}} | maintenant, cette fois | {{Má cè nihau paa}} « Voici maintenant l'os » [[GEN.2.23]] |
-| {{sunsun}} | maintenant, tout de suite | {{Lelan sunsun}} « Maintenant donc » [[GEN.21.23]] |
-| {{siɔdii}} | demain | {{Siɔdii idii}} « demain matin » [[GEN.19.2]] |
-| {{idii}}, {{idiiyo}} | le matin, tôt | {{Diimandɔɔ idiiyo púŋ}} « le lendemain de bon matin » [[GEN.21.14]] |
-| {{icɔllo}} / {{ipalaa}} | le soir / le matin, le jour | {{Mí ɲɔɔ yɔŋnun icɔllo a ipalaa}} « Il y eut un soir et il y eut un matin » [[GEN.1.5]] |
-| {{ɲinasiaŋ}} | l'an prochain | {{boondei he ɲinasiaŋ-ndo}} « à cette époque, l'an prochain » [[GEN.17.21]] |
-| {{le fɛɛn a fɛɛn}} | pour toujours | {{o co vannɔn yoomu le fɛɛn a fɛɛn}} « il vivrait éternellement » [[GEN.3.22]] |
-| {{few}} | jamais (avec la négation) | {{Ɲɛm mun pɛnginin tosanndo le few}} « ces choses ne cesseront jamais » [[GEN.8.22]] |
+| {{hau}} | aujourd'hui, maintenant | {{kandɔɔ hau}} « dès maintenant » [Gn 4,11](https://www.bible.com/bible/1394/GEN.4.11.BKG) |
+| {{nihau}} | maintenant, cette fois | {{Má cè nihau paa}} « Voici maintenant l'os » [Gn 2,23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
+| {{sunsun}} | maintenant, tout de suite | {{Lelan sunsun}} « Maintenant donc » [Gn 21,23](https://www.bible.com/bible/1394/GEN.21.23.BKG) |
+| {{siɔdii}} | demain | {{Siɔdii idii}} « demain matin » [Gn 19,2](https://www.bible.com/bible/1394/GEN.19.2.BKG) |
+| {{idii}}, {{idiiyo}} | le matin, tôt | {{Diimandɔɔ idiiyo púŋ}} « le lendemain de bon matin » [Gn 21,14](https://www.bible.com/bible/1394/GEN.21.14.BKG) |
+| {{icɔllo}} / {{ipalaa}} | le soir / le matin, le jour | {{Mí ɲɔɔ yɔŋnun icɔllo a ipalaa}} « Il y eut un soir et il y eut un matin » [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+| {{ɲinasiaŋ}} | l'an prochain | {{boondei he ɲinasiaŋ-ndo}} « à cette époque, l'an prochain » [Gn 17,21](https://www.bible.com/bible/1394/GEN.17.21.BKG) |
+| {{le fɛɛn a fɛɛn}} | pour toujours | {{o co vannɔn yoomu le fɛɛn a fɛɛn}} « il vivrait éternellement » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
+| {{few}} | jamais (avec la négation) | {{Ɲɛm mun pɛnginin tosanndo le few}} « ces choses ne cesseront jamais » [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
 
 ## Adverbes de lieu
 
 | Mot | Sens | Exemple (Bible) |
 | --- | --- | --- |
-| {{nanu}} | ici | {{muungu nanu}} « reviendront ici » [[GEN.15.16]] |
-| {{lon}} | là, là-bas | {{má cal lon}} « ils s'y établirent » [[GEN.11.31]] |
-| {{lecoo}} | dessus, en haut | {{ɲɛ-ɲɛ ve lecoo le}} « il n'y avait rien dessus » [[GEN.1.2]] |
-| {{labɛngu}} | dessous, en bas | [[1KI.7.34]] |
+| {{nanu}} | ici | {{muungu nanu}} « reviendront ici » [Gn 15,16](https://www.bible.com/bible/1394/GEN.15.16.BKG) |
+| {{lon}} | là, là-bas | {{má cal lon}} « ils s'y établirent » [Gn 11,31](https://www.bible.com/bible/1394/GEN.11.31.BKG) |
+| {{lecoo}} | dessus, en haut | {{ɲɛ-ɲɛ ve lecoo le}} « il n'y avait rien dessus » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| {{labɛngu}} | dessous, en bas | [1 R 7,34](https://www.bible.com/bible/1394/1KI.7.34.BKG) |
 
 ## Adverbes de quantité et de degré
 
 | Mot | Sens | Exemple (Bible) |
 | --- | --- | --- |
-| {{taw}} | très, beaucoup | {{n naŋ taw}} « c'était très bon » [[GEN.1.31]] |
-| {{kpow}} | entièrement, tout | {{Mɛɛ Hala cii baala kon tosa kpow}} [[GEN.2.2]] |
-| {{faw}} | tous, entièrement | {{visia bɛndua a à pɔmbɔa faw}} [[GEN.8.17]] |
+| {{taw}} | très, beaucoup | {{n naŋ taw}} « c'était très bon » [Gn 1,31](https://www.bible.com/bible/1394/GEN.1.31.BKG) |
+| {{kpow}} | entièrement, tout | {{Mɛɛ Hala cii baala kon tosa kpow}} [Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
+| {{faw}} | tous, entièrement | {{visia bɛndua a à pɔmbɔa faw}} [Gn 8,17](https://www.bible.com/bible/1394/GEN.8.17.BKG) |
 
 Voir aussi les [indéfinis](../determiners/indefinites.md).
 
@@ -39,10 +39,10 @@ Voir aussi les [indéfinis](../determiners/indefinites.md).
 
 Les idéophones sont des mots expressifs qui peignent un son, une manière, une intensité ou un aspect visuel ; ils suivent le verbe ou l'adjectif qu'ils renforcent et sont souvent redoublés. Ils forment une classe à part, avec une prosodie particulière, décrite en détail pour le kissi du Sud [[(Childs1995, p. 132-140)]]. Exemples de la Bible :
 
-- {{idiiyo púŋ}} « tôt le matin, à l'aube » [[GEN.21.14]] ;
-- {{mà faŋan … few-few}} « va-t'en tout de suite ! » [[GEN.12.19]] ;
-- {{hoeyii ken niinu … kpɛŋ}} « ces sauterelles couvrirent (le pays) tout entier » [[EXO.10.13]] ;
-- {{o puiyaa tɛi-tɛi}} « bien arrosé partout » [[GEN.13.10]].
+- {{idiiyo púŋ}} « tôt le matin, à l'aube » [Gn 21,14](https://www.bible.com/bible/1394/GEN.21.14.BKG) ;
+- {{mà faŋan … few-few}} « va-t'en tout de suite ! » [Gn 12,19](https://www.bible.com/bible/1394/GEN.12.19.BKG) ;
+- {{hoeyii ken niinu … kpɛŋ}} « ces sauterelles couvrirent (le pays) tout entier » [Ex 10,13](https://www.bible.com/bible/1394/EXO.10.13.BKG) ;
+- {{o puiyaa tɛi-tɛi}} « bien arrosé partout » [Gn 13,10](https://www.bible.com/bible/1394/GEN.13.10.BKG).
 
 !!! rule "Règles d'écriture"
     - Les adverbes s'écrivent séparés : {{kandɔɔ hau}}, {{n naŋ taw}}.

@@ -28,7 +28,7 @@ Une voyelle **longue** se prononce plus longtemps qu'une voyelle brève ; elle s
 | {{bala}} | mains | {{baala}} | travail |
 | {{koma}} | alors, encore | {{kooma}} | sang |
 
-Exemples tirés de la Bible : {{Mɛɛ Adam velu Sɛt}} « quand Adam engendra Seth » [[GEN.5.4]] ; {{Mí Mɛlɛka Hala veelu vanapɔnɔɔ}} « Le Seigneur Dieu appela l'homme » [[GEN.3.9]].
+Exemples tirés de la Bible : {{Mɛɛ Adam velu Sɛt}} « quand Adam engendra Seth » [Gn 5,4](https://www.bible.com/bible/1394/GEN.5.4.BKG) ; {{Mí Mɛlɛka Hala veelu vanapɔnɔɔ}} « Le Seigneur Dieu appela l'homme » [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG).
 
 ### Voyelle longue finale et forme pleine
 
@@ -61,6 +61,6 @@ Quand une voyelle est suivie de **n** en fin de syllabe, elle se prononce nasali
 En kissi du Sud, cette nasale finale est analysée comme une consonne [ŋ] qui nasalise la voyelle précédente ; elle continuerait d'anciennes voyelles nasales [[(Childs1995, p. 88-89)]].
 
 !!! note "Note"
-    À la fin d'un radical, le son nasal peut être [n] ou [ŋ], et la Bible les distingue : {{nan}} « tirer » ({{má nan Yosɛf}} « ils tirèrent Joseph » [[GEN.37.28]]) n'est pas {{naŋ}} « bon ». Voir [Consonnes](consonants.md#n-et-ŋ).
+    À la fin d'un radical, le son nasal peut être [n] ou [ŋ], et la Bible les distingue : {{nan}} « tirer » ({{má nan Yosɛf}} « ils tirèrent Joseph » [Gn 37,28](https://www.bible.com/bible/1394/GEN.37.28.BKG)) n'est pas {{naŋ}} « bon ». Voir [Consonnes](consonants.md#n-et-ŋ).
 
 Les suites *am, om, im…* ne sont pas des voyelles nasales, mais une voyelle suivie de la consonne *m* [[(Keita1979, p. 13)]] : {{yɔmndo}} se coupe *yɔm-ndo*.

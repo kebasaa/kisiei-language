@@ -18,11 +18,11 @@ Le kissi du Sud connaît la même alternance : la terminaison du nom passe sur l
 
 Les pronoms, les auxiliaires, les prépositions, les démonstratifs et les possessifs s'écrivent comme des mots séparés :
 
-{{O co kɛndia le}} « il (elle) n'est pas bien » [[1SA.19.14]] — *o* « il, elle », *co* « être », *kɛndia* « en bonne santé », *le* (négation).
+{{O co kɛndia le}} « il (elle) n'est pas bien » [1 S 19,14](https://www.bible.com/bible/1394/1SA.19.14.BKG) — *o* « il, elle », *co* « être », *kɛndia* « en bonne santé », *le* (négation).
 
-{{Mí Hala ca maa ɲɛ-tengaa naŋ}} « Et Dieu vit que la lumière était bonne » [[GEN.1.4]].
+{{Mí Hala ca maa ɲɛ-tengaa naŋ}} « Et Dieu vit que la lumière était bonne » [Gn 1,4](https://www.bible.com/bible/1394/GEN.1.4.BKG).
 
-La négation finale {{le}} / {{te}} est aussi un mot séparé ; on écrit {{te}} après *n*, *m*, *ŋ* ou *l*, et {{le}} après une voyelle ou *w* (voir [Négation](../grammar/verbs/negation.md) ; en kissi du Sud, *te* suit toute consonne [[(Childs1995, p. 89, 125)]]) : {{La kei nanu le}} « ne passez pas ici » [[NUM.20.20]], {{Vana diinin nɔm te}} « on ne te tuera pas » [[2SA.19.24]].
+La négation finale {{le}} / {{te}} est aussi un mot séparé ; on écrit {{te}} après *n*, *m*, *ŋ* ou *l*, et {{le}} après une voyelle ou *w* (voir [Négation](../grammar/verbs/negation.md) ; en kissi du Sud, *te* suit toute consonne [[(Childs1995, p. 89, 125)]]) : {{La kei nanu le}} « ne passez pas ici » [Nb 20,20](https://www.bible.com/bible/1394/NUM.20.20.BKG), {{Vana diinin nɔm te}} « on ne te tuera pas » [2 S 19,24](https://www.bible.com/bible/1394/2SA.19.24.BKG).
 
 ## Le trait d'union
 
@@ -34,12 +34,12 @@ Quand un **groupe nominal** se termine par autre chose que le nom lui-même — 
 
 | Groupe | Référent | Exemple |
 | --- | --- | --- |
-| classe *o* (singulier) | *-o, -ndo, -yo, -lo* | {{kɔngɔ vesɛi fula-o}} « la terre sèche qui est apparue » [[GEN.1.10]] |
-| | | {{Kɔl Hala-o}} « l'Esprit de Dieu » [[GEN.1.2]] |
-| | | {{o co paalen-ndo}} « celui qui est le soleil » [[GEN.1.16]] |
-| classe *a* (pluriel, personnes) | *-a, -nda* | {{visia pɔmbɔa kela lɛŋ-nda}} « les petits animaux qui marchent par terre » [[GEN.1.24]] |
-| classe *an* | *-an* | {{mɛmma co lebɛngu-an}} « les eaux qui sont en bas » [[GEN.1.7]] |
-| classe *e / i* | *-e, -nde* | {{sɔɛi Mɛlɛka dimul ndu-e}} « la parole que le Seigneur lui avait dite » [[GEN.15.6]] |
+| classe *o* (singulier) | *-o, -ndo, -yo, -lo* | {{kɔngɔ vesɛi fula-o}} « la terre sèche qui est apparue » [Gn 1,10](https://www.bible.com/bible/1394/GEN.1.10.BKG) |
+| | | {{Kɔl Hala-o}} « l'Esprit de Dieu » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
+| | | {{o co paalen-ndo}} « celui qui est le soleil » [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
+| classe *a* (pluriel, personnes) | *-a, -nda* | {{visia pɔmbɔa kela lɛŋ-nda}} « les petits animaux qui marchent par terre » [Gn 1,24](https://www.bible.com/bible/1394/GEN.1.24.BKG) |
+| classe *an* | *-an* | {{mɛmma co lebɛngu-an}} « les eaux qui sont en bas » [Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG) |
+| classe *e / i* | *-e, -nde* | {{sɔɛi Mɛlɛka dimul ndu-e}} « la parole que le Seigneur lui avait dite » [Gn 15,6](https://www.bible.com/bible/1394/GEN.15.6.BKG) |
 
 Le choix entre *-o*, *-ndo*, *-yo* ou *-lo* (et de même *-a / -nda*, *-e / -nde*) dépend de la fin du mot auquel on attache le référent : après une nasale on écrit *-ndo*, *-nda*, *-nde* ({{lɛŋnden-ndo}}, {{nin-nda}}) ; ailleurs la forme simple ({{fula-o}}, {{coo-an}}). La [page Accord](../grammar/agreement.md) détaille ces formes.
 
@@ -48,7 +48,7 @@ Le choix entre *-o*, *-ndo*, *-yo* ou *-lo* (et de même *-a / -nda*, *-e / -nde
 
 ### 2. Les mots composés
 
-Le trait d'union relie les éléments d'un **nom composé** dont les parties gardent leur forme (en kissi du Sud, ces composés non figés se prononcent comme des mots distincts [[(Childs1995, p. 216)]]) : {{Cɛi-Hala-o}} « la maison de Dieu » [[GEN.28.17]], {{fuɲa-mamaa}} « ancêtre », {{fonda-loamaa-lasálàá}} « autel (lieu où l'on brûle les sacrifices) », {{cɛi-kola}} « tente (maison de toile) ».
+Le trait d'union relie les éléments d'un **nom composé** dont les parties gardent leur forme (en kissi du Sud, ces composés non figés se prononcent comme des mots distincts [[(Childs1995, p. 216)]]) : {{Cɛi-Hala-o}} « la maison de Dieu » [Gn 28,17](https://www.bible.com/bible/1394/GEN.28.17.BKG), {{fuɲa-mamaa}} « ancêtre », {{fonda-loamaa-lasálàá}} « autel (lieu où l'on brûle les sacrifices) », {{cɛi-kola}} « tente (maison de toile) ».
 
 Les composés très courants s'écrivent souvent en un seul mot : {{vanapɔnɔɔ}} « homme », {{vanalanɔɔ}} « femme », {{halataalaa}} « ciel ». Voir [Noms composés](../grammar/nouns/compounds.md).
 
