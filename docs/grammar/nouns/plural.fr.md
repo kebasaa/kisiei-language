@@ -19,7 +19,7 @@ Les noms de personnes et d'animaux en *-o*, *-ɔ* ou *-a* font leur pluriel en *
 | {{pɔmbɔɔ}} | {{pɔmbɔa}} | cadet(s) |
 | {{poo}} | {{poaa}} | fils |
 | {{lanɔɔ}} | {{laandua}} | femme(s), épouse(s) |
-| {{cuaa}} | {{cuavaa}} | enfant(s) |
+| {{cuaa}} | {{cuavaa}} | enfant(s) ; au singulier, souvent « (jeune) femme » ([Gn 3,13](https://www.bible.com/bible/1394/GEN.3.13.BKG)) |
 
 ### Choses en -o, -a, -ɔ : -lan
 

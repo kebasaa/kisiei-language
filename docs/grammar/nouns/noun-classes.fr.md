@@ -49,6 +49,8 @@ Dans la classe *o*, la forme radicale est le radical nu ({{cɛi kon}}). Dans les
 | {{koovan}} « sang » | {{kooma}} | {{kooma pɔmbɔ nɔmndan}} « le sang de ton frère » [Gn 4,10](https://www.bible.com/bible/1394/GEN.4.10.BKG) |
 | {{cuɛiyan}} « huile » | {{cuɛima}} | |
 
+Les **pluriels en *-lan*** suivent la même règle : leur forme radicale se termine en *-la* (*-nda* après une nasale), comme dans la Bible : {{tɔŋnda nilan}} « mes commandements » [Gn 26,5](https://www.bible.com/bible/1394/GEN.26.5.BKG), {{yungula}} « les familles » [Gn 10,32](https://www.bible.com/bible/1394/GEN.10.32.BKG), {{vɔsila bɔɔ-bɔɔ}} « de nombreuses années » [Gn 24,1](https://www.bible.com/bible/1394/GEN.24.1.BKG).
+
 !!! rule "Règle"
     Devant un déterminant, on écrit en un seul mot : *radical + la* (classe *lan*), *radical + le / nde / lle* (classe *len*), *radical + ma* (classe *an*) : {{diola ndɔlan}}, {{lɛŋnde len}}, {{mɛmma man}}.
 

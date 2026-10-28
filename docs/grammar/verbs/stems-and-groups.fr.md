@@ -43,6 +43,18 @@ La voyelle du radical change, surtout **au négatif** :
 | manger | {{de}}, {{dia}} | {{di}} | {{o di ɲɛdiaa le}} « il ne mangea pas » [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
 | aller | {{kɔa}}, {{kɔɛ}} | {{kue}} | {{te naa n kue … le}} « si nous n'allons pas » [Gn 43,3](https://www.bible.com/bible/1394/GEN.43.3.BKG) |
 
+Ces changements suivent quelques modèles réguliers, relevés sur l'ensemble des verbes du [lexique](../../reference/word-lists.md) :
+
+| Changement | Exemples (affirmatif / négatif) |
+| --- | --- |
+| *a* → *e* | {{mam}} / {{mem}}, {{mal}} / {{mel}}, {{ca}} / {{ce}} |
+| *u* → *i* | {{vu}} / {{vi}}, {{hun}} / {{hin}} |
+| *o* → *u* | {{tol}} / {{tul}}, {{kow}} / {{kuw}} |
+| *io*, *ia* → *i*, *e* | {{hiow}} / {{hiw}}, {{dia}} / {{di}}, {{pial}} / {{pel}} |
+| *ɔa* → *ue* | {{kɔa}} / {{kue}} |
+
+Exemple : {{Taa yeema mà vi le}} « si tu ne veux pas mourir » [Gn 19,17](https://www.bible.com/bible/1394/GEN.19.17.BKG) ({{vu}} « mourir »). La description du kissi du Sud signale le même type d'alternance vocalique dans ses verbes irréguliers [[(Childs1995, p. 220-221, 241-244)]].
+
 Le futur négatif garde la voyelle du négatif : {{dinin}} « ne mangera pas » [Dt 28,30](https://www.bible.com/bible/1394/DEU.28.30.BKG), {{kuenin te}} « je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG).
 
 ### Les formes de « manger » et « aller »
