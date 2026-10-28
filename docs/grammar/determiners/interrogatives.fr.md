@@ -22,6 +22,8 @@ Les règles de cette page sont dégagées des textes de la Bible en kisiei [[(BK
 2. Il est souvent suivi de la particule de mise en relief {{nɛ}} : {{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? », {{Yɛɛ nɛ kendu yɛ a Mɛlɛka}} « Qu'y a-t-il de trop difficile pour le Seigneur ? » [[GEN.18.14]].
 3. Le verbe est suivi de la particule **{{yɛ}}**, qui ferme la question : {{n co yɛ}}, {{n tosa yɛ}}. Au futur, {{yɛ}} s'attache à *-nin* : {{yɛnin}} ({{vɛ̀ɛ̀ ya sina yɛnin}} « comment le saurai-je ? » [[GEN.15.8]]).
 
+Le pronom sujet prend la forme de la série des relatives : {{n}} « tu », {{ya}} « je », {{naa n}} « nous », {{niaa}} « vous » ({{Kuɛɛ nɛ n co yɛ}} « Où es-tu ? » ; {{kuɛɛ niaa fula yɛ}} « d'où venez-vous ? » [[GEN.29.4]]). Voir [Propositions relatives](../pronouns/relative.md).
+
 La particule de fin de question est déjà décrite en 1979 (*yè*, « particule qui apparaît après le verbe ») [[(Keita1979, p. 67)]].
 
 ### Questions totales (oui ou non)

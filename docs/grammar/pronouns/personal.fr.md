@@ -18,6 +18,8 @@ Le kisiei a deux séries principales de pronoms personnels : les pronoms **sujet
     - Le mot d'insistance {{pila}} « même » s'écrit **séparé** : {{ya pila}}, {{nda pila}} (1979 : *yapila* [[(Keita1979, p. 85)]]).
     - La 2e personne du singulier s'écrit **{{nɔm}}** (1979 : *num*, corrigé à la main en *nöm* [[(Keita1979, p. 85)]]).
 
+Dans les relatives et les questions, les sujets prennent une autre série : {{ya}}, {{n}} « tu », {{o}}, {{naa n}}, {{niaa}}, {{ndáà}} ; voir [Propositions relatives](relative.md#le-sujet-de-la-relative).
+
 ## Pronoms de 3e personne selon la classe
 
 Quand le pronom remplace une chose, il prend la forme de la classe du nom (voir [Accord](../agreement.md)) :
