@@ -1,0 +1,159 @@
+site_name: Kisiei — orthographe et grammaire
+site_description: Guide de référence de l'orthographe et de la grammaire du kisiei (kissi du Nord)
+site_url: https://kebasaa.github.io/Kisie/
+repo_url: https://github.com/kebasaa/Kisie
+docs_dir: docs
+strict: true
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/book-open-page-variant
+    alternate: material/translate
+  palette:
+    # Follows the visitor's OS setting on first load; the header button cycles auto / light / dark.
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Mode clair / Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre / Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Réglage du système / System preference
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search:
+      lang: [fr, en]
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: false
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: Kisiei — spelling and grammar
+          site_description: Reference guide to the spelling and grammar of Kisiei (Northern Kissi)
+          nav_translations:
+            Introduction: Introduction
+            Orthographe: Spelling
+            Grammaire: Grammar
+            Le nom: The noun
+            Déterminants et quantifiants: Determiners and quantifiers
+            Pronoms: Pronouns
+            Le verbe: The verb
+            Mots invariables: Invariable words
+            La phrase: The sentence
+            Référence: Reference
+            Sources: Sources
+
+hooks:
+  - tools/kisiei_hooks.py
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - assets/site.css
+
+nav:
+  - index.md
+  - Introduction:
+      - introduction/index.md
+      - introduction/how-to-read.md
+      - introduction/dialects.md
+      - introduction/writing-history.md
+      - introduction/sources.md
+  - Orthographe:
+      - orthography/index.md
+      - orthography/alphabet.md
+      - orthography/vowels.md
+      - orthography/consonants.md
+      - orthography/tone.md
+      - orthography/word-division.md
+      - orthography/punctuation.md
+      - orthography/names-loanwords.md
+      - orthography/old-and-new.md
+  - Grammaire:
+      - grammar/index.md
+      - Le nom:
+          - grammar/nouns/index.md
+          - grammar/nouns/noun-classes.md
+          - grammar/nouns/plural.md
+          - grammar/nouns/compounds.md
+          - grammar/nouns/derivation.md
+      - grammar/agreement.md
+      - Déterminants et quantifiants:
+          - grammar/determiners/index.md
+          - grammar/determiners/adjectives.md
+          - grammar/determiners/demonstratives.md
+          - grammar/determiners/possessives.md
+          - grammar/determiners/interrogatives.md
+          - grammar/determiners/indefinites.md
+          - grammar/determiners/numerals.md
+      - Pronoms:
+          - grammar/pronouns/index.md
+          - grammar/pronouns/personal.md
+          - grammar/pronouns/relative.md
+      - Le verbe:
+          - grammar/verbs/index.md
+          - grammar/verbs/stems-and-groups.md
+          - grammar/verbs/tense-aspect-mood.md
+          - grammar/verbs/negation.md
+          - grammar/verbs/derived-verbs.md
+      - Mots invariables:
+          - grammar/small-words/index.md
+          - grammar/small-words/adverbs.md
+          - grammar/small-words/particles.md
+          - grammar/small-words/prepositions-conjunctions.md
+          - grammar/small-words/interjections.md
+      - La phrase:
+          - grammar/sentences/index.md
+          - grammar/sentences/word-order.md
+          - grammar/sentences/simple.md
+          - grammar/sentences/complex.md
+  - Référence:
+      - reference/index.md
+      - reference/verb-tables.md
+      - reference/word-lists.md
+      - reference/phrases.md
+      - reference/glossary.md
+      - reference/open-questions.md
+  - Sources:
+      - sources/index.md
+      - sources/bibliography.md
+      - sources/archive.md
+      - sources/tools.md

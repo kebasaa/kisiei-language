@@ -1,0 +1,115 @@
+/* Colours are variables defined per scheme; nothing below hard-codes a colour.
+   Palette: forest green and laterite red-ochre, after the Kisi country's forest and soil. */
+:root, [data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1f4d36;
+  --md-primary-fg-color--light: #2f6b4c;
+  --md-primary-fg-color--dark: #123223;
+  --md-primary-bg-color: #f6f1e7;
+  --md-accent-fg-color: #b4532a;
+  --md-typeset-a-color: #1f6b4a;
+  --ks-att: #1b7f4b;
+  --ks-res: #a8590b;
+  --ks-chk: #b3261e;
+  --ks-box-bg: rgba(31, 77, 54, 0.05);
+}
+[data-md-color-scheme="slate"] {
+  --md-hue: 150;
+  --md-default-bg-color: #0d1612;
+  --md-default-bg-color--light: #14211b;
+  --md-default-fg-color: #ece6d8;
+  --md-default-fg-color--light: #b4c4b9;
+  --md-default-fg-color--lighter: #6f8678;
+  --md-typeset-color: #ece6d8;
+  --md-primary-fg-color: #12261c;
+  --md-primary-fg-color--light: #1f4d36;
+  --md-primary-fg-color--dark: #0a140f;
+  --md-primary-bg-color: #ece6d8;
+  --md-accent-fg-color: #e08a5e;
+  --md-typeset-a-color: #7fd0a2;
+  --md-code-bg-color: #14211b;
+  --md-footer-bg-color: #0a140f;
+  --ks-att: #5fd08f;
+  --ks-res: #f0a45f;
+  --ks-chk: #ff8a80;
+  --ks-box-bg: rgba(127, 208, 162, 0.06);
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-header__title, .md-nav__title {
+  font-family: Georgia, "Noto Serif", "DejaVu Serif", serif;
+  letter-spacing: 0;
+}
+.md-typeset h1 { font-weight: 600; }
+.md-typeset h2 { border-bottom: 1px solid color-mix(in srgb, var(--md-accent-fg-color) 45%, transparent); padding-bottom: .2em; }
+.md-header { border-bottom: 1px solid color-mix(in srgb, var(--md-accent-fg-color) 45%, transparent); }
+
+/* Kisiei examples: {{word}} in the source, see CONTRIBUTING.md.
+   A coloured underline gives the status; the full status is in the tooltip. */
+.md-typeset .ks {
+  font-style: italic;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.md-typeset .ks-att { text-decoration-color: var(--ks-att); text-decoration-style: solid; }
+.md-typeset .ks-res { text-decoration-color: var(--ks-res); text-decoration-style: dashed; }
+.md-typeset .ks-chk { text-decoration-color: var(--ks-chk); text-decoration-style: dotted; }
+.md-typeset th .ks, .md-typeset h2 .ks, .md-typeset h3 .ks { font-style: normal; }
+
+/* Legend chips: <span class="ks-badge ks-att">Attesté</span> */
+.ks-badge {
+  display: inline-block;
+  padding: 0 .5em;
+  margin-right: .3em;
+  border: 1px solid currentColor;
+  border-radius: .8em;
+  font-size: .72rem;
+  font-weight: 600;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+.ks-badge.ks-att { color: var(--ks-att); }
+.ks-badge.ks-res { color: var(--ks-res); }
+.ks-badge.ks-chk { color: var(--ks-chk); }
+
+/* Bible references and citations */
+.md-typeset a.bref, .md-typeset a.cite { white-space: nowrap; }
+
+/* Rule box: !!! rule "Règle" */
+.md-typeset .admonition.rule, .md-typeset details.rule { border-color: var(--md-primary-fg-color--light); background: var(--ks-box-bg); }
+.md-typeset .rule > .admonition-title, .md-typeset .rule > summary { background: transparent; }
+.md-typeset .rule > .admonition-title::before, .md-typeset .rule > summary::before { background-color: var(--md-accent-fg-color); }
+
+/* 1979 vs Bible box: !!! keita "Keita 1979" */
+.md-typeset .admonition.keita, .md-typeset details.keita { border-color: var(--ks-res); }
+.md-typeset .keita > .admonition-title, .md-typeset .keita > summary { background: transparent; }
+.md-typeset .keita > .admonition-title::before, .md-typeset .keita > summary::before { background-color: var(--ks-res); }
+
+/* Home page hero */
+.ks-hero {
+  margin: 0 0 1.5rem;
+  padding: 1.6rem 1.5rem;
+  border-radius: .5rem;
+  background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--light));
+  color: var(--md-primary-bg-color);
+}
+.ks-hero h1 { color: var(--md-primary-bg-color); margin: 0; font-size: 2.1rem; }
+.ks-hero p { margin: .3rem 0 0; font-style: italic; opacity: .9; }
+
+/* Printing is always light, whatever the screen theme. */
+@media print {
+  :root, [data-md-color-scheme="slate"], [data-md-color-scheme="default"] {
+    --md-default-bg-color: #ffffff;
+    --md-default-fg-color: #000000;
+    --md-typeset-color: #000000;
+    --md-typeset-a-color: #1f4d36;
+    --ks-att: #1b7f4b;
+    --ks-res: #a8590b;
+    --ks-chk: #b3261e;
+  }
+  html, body, .md-main, .md-content { background: #ffffff !important; color: #000000 !important; }
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-top, .md-search, .md-source,
+  .md-content__button, .headerlink { display: none !important; }
+  .ks-hero { background: none; color: #000; padding: 0; }
+  .ks-hero h1 { color: #000; }
+  .md-typeset table, .md-typeset .admonition { break-inside: avoid; }
+}
