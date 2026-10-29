@@ -1,6 +1,6 @@
 # Kissie fondamental: handwritten notes
 
-> Companion to [`kissie fondamental (transcription).md`](kissie%20fondamental%20(transcription).md). It collects the handwritten annotations that later readers added to the typescript scanned in `kissie fondamental (original scan).pdf`: glosses, translations, dialect variants and remarks. Handwritten *corrections* to the typed text (a word struck out and replaced) are not listed here; they are part of the transcription itself.
+> Companion to [`Sekou Sondo Keita - kissie fondamental (transcription).md`](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(transcription).md). It collects the handwritten annotations that later readers added to the typescript scanned in `Sekou Sondo Keita - kissie fondamental (original scan).pdf`: glosses, translations, dialect variants and remarks. Handwritten *corrections* to the typed text (a word struck out and replaced) are not listed here; they are part of the transcription itself.
 >
 > - Most notes are French glosses or translations of the Kisiei examples. A few are in German (e.g. *Brachland*, *Balken*, *Schmuck*, *Ersparnisse*) or English (*pronunciation drill*, *Translate*). Several hands seem to be involved (pen and pencil).
 > - **Typed text** quotes the typed word or sentence the note is attached to, as it appears in the transcription (old orthography). **Note** reproduces the handwriting as written, including its own spelling.

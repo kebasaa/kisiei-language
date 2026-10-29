@@ -1,9 +1,9 @@
 # Essai d'élaboration d'un Kisiei fondamental à l'usage des locuteurs non Kisi
 
-> **Transcription** of `kissie fondamental (original scan).pdf` (Sékou Sondo Keita, Institut Polytechnique Gamal Abdel Nasser de Conakry, 1979).
+> **Transcription** of `Sekou Sondo Keita - kissie fondamental (original scan).pdf` (Sékou Sondo Keita, Institut Polytechnique Gamal Abdel Nasser de Conakry, 1979).
 >
 > - Kisiei and French text are reproduced in the **original (old) orthography** of the typescript, with the author's spelling, accents and punctuation unchanged. See [`nouvel orthographe kissi.pdf`](nouvel%20orthographe%20kissi.pdf) for the old→new mapping.
-> - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`kissie fondamental (handwritten notes).md`](kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
+> - Handwritten corrections to the typed text are included: the struck word as ~~strikethrough~~, the handwritten replacement as <ins>insert</ins>. All other handwritten annotations (glosses, translations, variants, comments) are recorded in [`Sekou Sondo Keita - kissie fondamental (handwritten notes).md`](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md); a `✎ Handwritten notes` link in the text jumps to the notes for that page.
 > - **Complete:** all 189 PDF pages are transcribed — title page, contents, avant-propos, introduction, phonétisme, grammar, syntax, the Kisiei–French lexicon with its conversation texts, and the bibliography (typescript pp. 1–165). PDF page 2 is the inserted orthography sheet and is not part of the original; PDF pages 126 and 178 are duplicate scans of pp. 111 and 157. The annex of tales listed in the contents (pp. 166–184) is not in the scanned copy.
 > - Where the scan cuts off the end of a word at the page margin, the visible part is followed by `…`.
 
@@ -37,7 +37,7 @@ CONAKRY 1979
 
 ## TABLE DES MATIERES
 
-> ✎ [Handwritten notes, Table des matières](kissie%20fondamental%20(handwritten%20notes).md#table-des-matières-pdf-4)
+> ✎ [Handwritten notes, Table des matières](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#table-des-matières-pdf-4)
 
 | Section | Page |
 | --- | ---: |
@@ -326,7 +326,7 @@ Dans ce chapitre nous étudierons successivement : les voyelles simples, longues
 
 #### 1°)- LES VOYELLES SIMPLES :
 
-> ✎ [Handwritten notes, p. 11](kissie%20fondamental%20(handwritten%20notes).md#p-11-pdf-16)
+> ✎ [Handwritten notes, p. 11](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-11-pdf-16)
 
 - i, e, (é), è : se prononcent les lèvres écartées, formant une ouverture horizotale ; la langue contre les incisives inférieures. i est cependant plus fermé que e et que è.
 - u (ou), o, ö : se prononcent avec les lèvres arrondies et projetées en avant, mais la pointe de la langue ne touche pas les dents et le dos remonte vers le palais.
@@ -336,7 +336,7 @@ Exemples :lisons ces mots : Faya, Fala, Tölnö, Hali, Poli, Kollo, Sèböö, Te
 
 #### 2°)- LES VOYELLES LONGUES :
 
-> ✎ [Handwritten notes, p. 12](kissie%20fondamental%20(handwritten%20notes).md#p-12-pdf-17)
+> ✎ [Handwritten notes, p. 12](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-12-pdf-17)
 
 Ce sont : aa, oo, ii, ee, öö, uu, èè.
 
@@ -368,7 +368,7 @@ Exemple : Lisons ces mots : Dolan (le nom) Peelen ; Mènndan ; Tunndo (le chien)
 
 REMARQUE : En kisiei, les sons : am, om, im, èm, um, öm, em, ne sont pas attestés comme étant les voyelles nasales. Car en réalité, sur le plan de la réalisation nous avons en fait : une voyelle orale suivie d'une nasale. Ils se réalisent comme par exemple dans le mot français : Tam - Tam.
 
-> ✎ [Handwritten notes, p. 14](kissie%20fondamental%20(handwritten%20notes).md#p-14-pdf-18)
+> ✎ [Handwritten notes, p. 14](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-14-pdf-18)
 
 Seulement que "S" est toujours sifflant, qu'il soit en initiale ou en position intervocalique ; "H" toujours aspiré.
 
@@ -396,7 +396,7 @@ a)- LES DIGRAPHES COMPLEXES : Kp - Gb
 
 Leur nature complexe s'explique à partir de leur prononciation quelque peu difficile : de par la coarticulation qui commence en arrière du palais pour se réaliser en définitive au niveau des lèvres; ce sont des Labio-Vélaires. Ils se distinguent par le fait que le "Kp" apparaît et en initiale et en intervocalique tandis que le "Gb" n'apparaît jamais en position initiale mais plutôt en intervocalique après une voyelle nasale.
 
-> ✎ [Handwritten notes, p. 15](kissie%20fondamental%20(handwritten%20notes).md#p-15-pdf-19)
+> ✎ [Handwritten notes, p. 15](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-15-pdf-19)
 
 Exemples : - avec Kp
 
@@ -430,7 +430,7 @@ c)- LES DIGRAPHES PRENASALES : Mb - Nd - Ng
 
   Exemples : NGopoeiyo (ensemble vocal et instrumental pour la récolte du riz) ; NGeemaa (Scorpion) ; NGelemaa (traitement appliqué aux enfants pour hâter leur marche) ; NGalema , NGömbu, NGomia (sont des noms propres) ; NGeloo (danse ancienne).
 
-> ✎ [Handwritten notes, p. 16](kissie%20fondamental%20(handwritten%20notes).md#p-16-pdf-20)
+> ✎ [Handwritten notes, p. 16](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-16-pdf-20)
 
 d)- LA DIGRAPHE DENTALE : TY
 
@@ -454,7 +454,7 @@ Maa Faya n tyo haw ni. Diilèn pun, mi Teeva laa ndö tyua yolöölan mo köa o 
 
 ### III-LES UNITES PROSODIQUES
 
-> ✎ [Handwritten notes, p. 17](kissie%20fondamental%20(handwritten%20notes).md#p-17-pdf-21)
+> ✎ [Handwritten notes, p. 17](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-17-pdf-21)
 
 Dans cette études nous n'insisterons que sur les tons et précisement sur la fonction distinctive des tons qui est indispensable dans l'apprentissage de notre langue kisiei.
 
@@ -490,7 +490,7 @@ Exemples :
 | Baa (T B M) = la main | ≠ | Baa (T H D) = le prix |
 | Bölöö (T B M) = banane | ≠ | Bölöö(T H D) = le sac |
 
-> ✎ [Handwritten notes, p. 18](kissie%20fondamental%20(handwritten%20notes).md#p-18-pdf-22)
+> ✎ [Handwritten notes, p. 18](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-18-pdf-22)
 
 Les tons nous permettent aussi de distinguer deux temps de conjugaison dans la langue , le présent habituel du passé : c'est la fonction grammaticale.
 
@@ -542,7 +542,7 @@ Exemples : Dènèpalaa, Kpèlunkpèlun, Kilikilio, Vanakelaa Vanakolaa, Balafond
 
 N.B. : Les tétrasyllabiques sont obtenues dans la langue soit par dérivation, soit par composition, soit par reduplication.
 
-> ✎ [Handwritten notes, p. 19](kissie%20fondamental%20(handwritten%20notes).md#p-19-pdf-23)
+> ✎ [Handwritten notes, p. 19](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-19-pdf-23)
 
 REMARQUE :
 
@@ -558,7 +558,7 @@ Exemples :
 
 ## LES RADICAUX DU KISIEI :
 
-> ✎ [Handwritten notes, p. 20](kissie%20fondamental%20(handwritten%20notes).md#p-20-pdf-24)
+> ✎ [Handwritten notes, p. 20](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-20-pdf-24)
 
 Les radicaux sont des supports de mots que l'on obtient en supprimant les morphèmes (modalités ou dérivatifs). Ils sont de deux types :
 
@@ -590,7 +590,7 @@ N.B. : La différence entre Nom et Verbe est purement syntaxique. Les nominaux a
 
 ### LANGAGE : APPRENONS A SALUER
 
-> ✎ [Handwritten notes, p. 21](kissie%20fondamental%20(handwritten%20notes).md#p-21-pdf-25)
+> ✎ [Handwritten notes, p. 21](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-21-pdf-25)
 
 - Tamba isè !
 - Mbaa saa isè ! A tyo Kèndè ?
@@ -628,7 +628,7 @@ COMPTONS : apprenons à compter de 1 à 10
 
 ## LA MOPHOLOGIE DU NOM SIMPLE :
 
-> ✎ [Handwritten notes, p. 22](kissie%20fondamental%20(handwritten%20notes).md#p-22-pdf-26)
+> ✎ [Handwritten notes, p. 22](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-22-pdf-26)
 
 En Kisiei, les noms sont groupés sous huit (8) terminaisons (morphèmes phonologiquement différentes. Ce sont : a, o, i, ö, e, lan, len, an qui permettent de regrouper les noms en catégories.
 
@@ -667,7 +667,7 @@ Pulue + i = Puluei (langue Française) Sosoe + i =Sosoei(langue s…)
 
 Il caractérise les objets dénonbrables (graines, objets en collection) mais dissociables, Il se présente tantôt sous la forme "ye", tantôt "nde" selon que la finale du radical est latérale, orale ou nasale ; et "ve" quand la finale du radical est l'occlusive fricative "w".
 
-> ✎ [Handwritten notes, p. 23](kissie%20fondamental%20(handwritten%20notes).md#p-23-pdf-27)
+> ✎ [Handwritten notes, p. 23](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-23-pdf-27)
 
 Exemples : Ka
 
@@ -712,7 +712,7 @@ N.B. : Il faut signaler que ce morphème possède une autre valeur dérivative d
 Exemples : Pombölen (dimunitif de Pomböö)
 bölölen (diminutif de bölöö)
 
-> ✎ [Handwritten notes, p. 24](kissie%20fondamental%20(handwritten%20notes).md#p-24-pdf-28)
+> ✎ [Handwritten notes, p. 24](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-24-pdf-28)
 
 EXERCICE : Séparez d'un tiret le radical de son morphème dans les mots suivants : Exemple Hunndo = Hun - ndo
 
@@ -749,7 +749,7 @@ b°) Apprenons de nouveaux chiffres .
 | --- | --- | --- | --- | --- |
 | tö a nhömpum | tö a nhömmèw | tö a nhömaa | tö a nhömahiöölu | bidiin. |
 
-> ✎ [Handwritten notes, p. 25](kissie%20fondamental%20(handwritten%20notes).md#p-25-pdf-29)
+> ✎ [Handwritten notes, p. 25](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-25-pdf-29)
 
 CONJUGAISON : Conjuguons au présent de l'indicatif le verbe : "Dioo" (manger).
 
@@ -766,7 +766,7 @@ CONJUGAISON : Conjuguons au présent de l'indicatif le verbe : "Dioo" (manger).
 
 ## LE NOM: SINGULIER - PLURIEL
 
-> ✎ [Handwritten notes, p. 26](kissie%20fondamental%20(handwritten%20notes).md#p-26-pdf-30)
+> ✎ [Handwritten notes, p. 26](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-26-pdf-30)
 
 La langue Kisiei regroupe les noms en sigulier et en pluriel qu'un indice vient morphologiquement différencier. Cette formation du pluriel se caractérise parfois par une variation vocalique.
 
@@ -805,7 +805,7 @@ Exemples :
 
 ### 2°)- LES NOMS TERMINES PAR "o" AU SINGULIER :
 
-> ✎ [Handwritten notes, p. 27](kissie%20fondamental%20(handwritten%20notes).md#p-27-pdf-31)
+> ✎ [Handwritten notes, p. 27](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-27-pdf-31)
 
 Règle : Les noms terminés au singulier par "o" forment leur pluriel en "lan" qui se réalise "tan" - ndan" selon que la finale du radical est latérale ou nasale. Sauf les noms de personnes et d'animaux qui font leur pluriel en "a".
 
@@ -853,7 +853,7 @@ Règle 1 Les noms terminés au singulier par "e - ei " forment leur pluriel en "
 
 Exemples : Kawve : Kawvon ; Pangei : Pangon
 
-> ✎ [Handwritten notes, p. 28](kissie%20fondamental%20(handwritten%20notes).md#p-28-pdf-32)
+> ✎ [Handwritten notes, p. 28](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-28-pdf-32)
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -903,7 +903,7 @@ Exemples :
 - <u>Nyaayoo</u> :Nyai piaando Nyai laando
 - <u>Tunndo</u> : Tun piaando Tun laando .
 
-> ✎ [Handwritten notes, p. 29](kissie%20fondamental%20(handwritten%20notes).md#p-29-pdf-33)
+> ✎ [Handwritten notes, p. 29](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-29-pdf-33)
 
 EXERCICES : 1. Donner le Pluriel des mots suivants ;
 
@@ -963,7 +963,7 @@ Exemple : I tyo mömöö dio le
 
 ## LES NOMS COMPOSES :
 
-> ✎ [Handwritten notes, p. 31](kissie%20fondamental%20(handwritten%20notes).md#p-31-pdf-35)
+> ✎ [Handwritten notes, p. 31](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-31-pdf-35)
 
 La langue Kisiei dispose d'assez de possibilité en matière de composition. Pour constituer les noms composés, le kisiei procède par la combinaison d'éléments de même nature (ex. nom+nom) ou de natures différentes (ex. Verbe + Nom ...). Ce qui occasionne la pluralité des noms composés dans cette langue.
 
@@ -1017,7 +1017,7 @@ Exemples : lö + tyièi = Lötyièyo ; Poo + pèi = Popèi.
 
 ### 8- NOM + Monème Fonctionnel + NOM = NOM :
 
-> ✎ [Handwritten notes, p. 32](kissie%20fondamental%20(handwritten%20notes).md#p-32-pdf-36)
+> ✎ [Handwritten notes, p. 32](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-32-pdf-36)
 
 Exemples:
 - Työwvo + la + baa = Työwlabaa
@@ -1060,7 +1060,7 @@ Ces adverbes sont : ~~Taw~~ <ins>Tay</ins>, Hölöli, ~~tyapooli~~, (beaucoup) ;
 - Vo Fanta työèiyan <u>tyobe</u>
 - Lakolia bööböö a köènnun.
 
-> ✎ [Handwritten notes, p. 33](kissie%20fondamental%20(handwritten%20notes).md#p-33-pdf-37)
+> ✎ [Handwritten notes, p. 33](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-33-pdf-37)
 
 - INTERVERTISSEZ LES ADVERBES AU NIVEAU DES PHRASES :
 
@@ -1086,7 +1086,7 @@ CONJUGAISON : Le verbe Dioo au Passé composé de l'indicatif.
 
 ## LES NOMS DERIVES :
 
-> ✎ [Handwritten notes, p. 34](kissie%20fondamental%20(handwritten%20notes).md#p-34-pdf-38)
+> ✎ [Handwritten notes, p. 34](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-34-pdf-38)
 
 Comme la composition ; la dérivation est un procédé de formation de mots nouveaux. Elle consiste au radical soit un préfixe, soit un infixe, soit un suffixe en vue d'un élargissement de sens.
 
@@ -1128,7 +1128,7 @@ Il est très productif dans la langue. Il sert à former des noms désignant :
 
 Exemples : Labe<u>nöö</u>, Bofanöö, Kankannöö, Kisidunöö, Kpekedunöö, Layinènöö, Afilikinöö, laabelanöö, Maalinöö.
 
-> ✎ [Handwritten notes, p. 35](kissie%20fondamental%20(handwritten%20notes).md#p-35-pdf-39)
+> ✎ [Handwritten notes, p. 35](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-35-pdf-39)
 
 - Les Noms de Famille .
 
@@ -1182,7 +1182,7 @@ Exemples : Fèènèlen, Kisilen, Sosolen, Tömèlen.
 
 - Dans le cas où il est suffixé aux noms d'animaux, "len" exprime la qualité ou le défaut en caractérisant le comportement social de certains hommes.
 
-> ✎ [Handwritten notes, p. 36](kissie%20fondamental%20(handwritten%20notes).md#p-36-pdf-40)
+> ✎ [Handwritten notes, p. 36](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-36-pdf-40)
 
 Exemples :
 - Nyaayoo + len = Nyaayilen
@@ -1221,7 +1221,7 @@ LANGAGE : Apprenons les jours de la semaine.
 - Halèiyo
 - Kundèiyo.
 
-> ✎ [Handwritten notes, p. 37](kissie%20fondamental%20(handwritten%20notes).md#p-37-pdf-41)
+> ✎ [Handwritten notes, p. 37](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-37-pdf-41)
 
 COMPTONS : de 10 en 10 jusqu'à 100.
 
@@ -1252,7 +1252,7 @@ N.B. : Au passé composé le complément se place toujours après le verbe.
 
 ## LES NOMS DERIVES (SUITE)
 
-> ✎ [Handwritten notes, p. 38](kissie%20fondamental%20(handwritten%20notes).md#p-38-pdf-42)
+> ✎ [Handwritten notes, p. 38](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-38-pdf-42)
 
 ### II- LES DERIVATIFS LEXICAUX.
 
@@ -1306,7 +1306,7 @@ Exemples :
 
 #### 5- LE DERIVATIF "Vana".
 
-> ✎ [Handwritten notes, p. 39](kissie%20fondamental%20(handwritten%20notes).md#p-39-pdf-43)
+> ✎ [Handwritten notes, p. 39](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-39-pdf-43)
 
 Il est transposé du lexème "Vanndö" qui signifie : quelqu'un.
 
@@ -1349,7 +1349,7 @@ CORRECTION : Les noms dérivés contenus dans la phrases sont les suivants :
 
 Bamèllo : Ba/mèllo ; Vananyètyaa : van/nyètyaa ; Vanayunguo : vana/yunguo ; Bahavèiyo : Ba/haveiyo ; Kölvesèiye : Kol/vesèiyo ; Kölkaluo : Köl/kaluo ; Vanakolaa : Vana/kolaa ; Vanavallo :vana/vallo Kisinöö : Kisi/nöö.
 
-> ✎ [Handwritten notes, p. 40](kissie%20fondamental%20(handwritten%20notes).md#p-40-pdf-44)
+> ✎ [Handwritten notes, p. 40](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-40-pdf-44)
 
 LANGAGE : En société :
 
@@ -1389,7 +1389,7 @@ CONJUGAISON : Nous allons à présent voir le futur avec notre même verbe : "Di
 
 ## LES FONCTIONS DU NOM :
 
-> ✎ [Handwritten notes, p. 41](kissie%20fondamental%20(handwritten%20notes).md#p-41-pdf-45)
+> ✎ [Handwritten notes, p. 41](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-41-pdf-45)
 
 ### LA FONCTION SUJET :
 
@@ -1431,7 +1431,7 @@ nèènè kiimbu yè ? ou Nèè kiimbu yè kolaa ? Rep.Fala ; Fala = sujet de "Ki
 
 Yèè bi yè ? yèè bi yè bèlöö ? Nyaayoo ; Nyaayoo = sujet de "bi".
 
-> ✎ [Handwritten notes, p. 42](kissie%20fondamental%20(handwritten%20notes).md#p-42-pdf-46)
+> ✎ [Handwritten notes, p. 42](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-42-pdf-46)
 
 3- Lènndo boli Tamba
 
@@ -1487,7 +1487,7 @@ LANGAGE AU DISPENSAIRE.
 - i kèi manum le sinaa nyè tyo num
 - Nuvali Dötölö .
 
-> ✎ [Handwritten notes, p. 43](kissie%20fondamental%20(handwritten%20notes).md#p-43-pdf-47)
+> ✎ [Handwritten notes, p. 43](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-43-pdf-47)
 
 COMPTONS : Aux dizaines, ajoutons les unités.
 
@@ -1520,7 +1520,7 @@ Reprénez cette même conjugaison mais à la forme négative..
 
 ## LES FONCTIONS DU NOM. (Suite).
 
-> ✎ [Handwritten notes, p. 44](kissie%20fondamental%20(handwritten%20notes).md#p-44-pdf-48)
+> ✎ [Handwritten notes, p. 44](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-44-pdf-48)
 
 ### LA FONCTION COMPLEMENT D'OBJET.
 
@@ -1563,7 +1563,7 @@ Tunndo kel Fala - nè tunndo kel lè , Fala ; Fala = C.O.D
 
 a + yè + sujet + verbe + yè ou a + nè + sujet + verbe +yè
 
-> ✎ [Handwritten notes, p. 45](kissie%20fondamental%20(handwritten%20notes).md#p-45-pdf-49)
+> ✎ [Handwritten notes, p. 45](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-45-pdf-49)
 
 Exemples :
 
@@ -1626,7 +1626,7 @@ N.B. : A partir de 200 jusqu'à 900 nous notons la présence de la particule "le
 
 ## LES FONCTION DU NOM (Suite).
 
-> ✎ [Handwritten notes, p. 47](kissie%20fondamental%20(handwritten%20notes).md#p-47-pdf-51)
+> ✎ [Handwritten notes, p. 47](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-47-pdf-51)
 
 ### LES COMPLEMENTS CIRCONSTANCIEL :
 
@@ -1660,7 +1660,7 @@ Exemples : Fiinya ndöö wi <u>lapöm</u>
 Piöö sia <u>tyièi</u>
 Nde tyo hunöö <u>siödii</u>
 
-> ✎ [Handwritten notes, p. 48](kissie%20fondamental%20(handwritten%20notes).md#p-48-pdf-52)
+> ✎ [Handwritten notes, p. 48](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-48-pdf-52)
 
 Le complément circonstanciel de temps peut être introduit par la préposition "a". Toujours est-il que les noms qu'il relie au verbe, assumant cette fonction sont des noms des moments de la journé (du temps).
 
@@ -1700,9 +1700,9 @@ CORRECTION DE L'EXERCICE :
 
 LANGAGE : Comment interroger sur le lieu, le temps et la détermination du lieu, du temps à travers les reponses.
 
-> ✎ [Handwritten notes, verso of p. 48](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-48-pdf-53)
+> ✎ [Handwritten notes, verso of p. 48](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-48-pdf-53)
 
-> ✎ [Handwritten notes, p. 49](kissie%20fondamental%20(handwritten%20notes).md#p-49-pdf-54)
+> ✎ [Handwritten notes, p. 49](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-49-pdf-54)
 
 a) LE LIEU :
 
@@ -1763,7 +1763,7 @@ N.B. : l'imparfait de l'indicatif utilise la 2ème forme du l'auxilliaire du ver
 
 ## LES FONCTIONS DU NOM (Suite).
 
-> ✎ [Handwritten notes, p. 51](kissie%20fondamental%20(handwritten%20notes).md#p-51-pdf-56)
+> ✎ [Handwritten notes, p. 51](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-51-pdf-56)
 
 #### 3°) LE COMPLEMENT CIRCONSTANCIEL DE CAUSE, BUT (CCC) :
 
@@ -1798,7 +1798,7 @@ O kelaa ma <u>tun</u>
 
 On peut découvrir le complément circonstanciel de manière en posant la question suivante :
 
-> ✎ [Handwritten notes, p. 52](kissie%20fondamental%20(handwritten%20notes).md#p-52-pdf-57)
+> ✎ [Handwritten notes, p. 52](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-52-pdf-57)
 
 Vè + Sujet + Verbe + Yè (Vè... Yè = Comment)
 
@@ -1845,7 +1845,7 @@ Vèènè tamba köa yè ? Tamba köa työtyö
 Faya yè ? ndu duèènnduèn o köa ni.
 Vèènè vanlaandua tyo yè kölan o biisio ? A tyo lan o bièsio a tyanndo
 
-> ✎ [Handwritten notes, p. 53](kissie%20fondamental%20(handwritten%20notes).md#p-53-pdf-58)
+> ✎ [Handwritten notes, p. 53](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-53-pdf-58)
 
 Vèènè Seku fula yè ? A kiltan o fula ni
 Vèènè hoeiye hön yè ? Fukufuku i hönni.
@@ -1885,7 +1885,7 @@ CONJUGAISON : Le verbe "dioo" à l'imparfait (avec un complément).
 
 ## LES ADJECTIFS QUALIFICATIFS
 
-> ✎ [Handwritten notes, p. 54](kissie%20fondamental%20(handwritten%20notes).md#p-54-pdf-59)
+> ✎ [Handwritten notes, p. 54](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-54-pdf-59)
 
 L'adjectif qualificatif est un mot qui dit comment sont les personnes, les animaux et les choses. Ainsi défini, il désigne la qualité, le défaut, la forme, la couleur de l'être ou de la chose que le nom désigne. En Kisiei, il se place après le nom qu'il qualifie; dans l'ordre; qualifie + qualifiant.
 
@@ -1924,9 +1924,9 @@ Exemples: Doma tinhio, doma sianhaa, doma humbuo, doma pömböö töm tinhio, t�
 
 Mais : Möèi tinhièi, möèi sianhai, möèi humbuei, möèi pömböi
 
-> ✎ [Handwritten notes, verso of p. 54](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-54-pdf-60)
+> ✎ [Handwritten notes, verso of p. 54](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-54-pdf-60)
 
-> ✎ [Handwritten notes, p. 55](kissie%20fondamental%20(handwritten%20notes).md#p-55-pdf-61)
+> ✎ [Handwritten notes, p. 55](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-55-pdf-61)
 
 2. L'adjectif qualificatif peut être employé comme nom. Mais dans ce cas, il doit être précédé d'un réfèrent de morphème en rapport avec la classe du nom.
 
@@ -1968,9 +1968,9 @@ Langage: L'expression du degré dans la qualification.
 
 - Le superlatif: a) comparaison d'une qualité à une autre chez le même être: le Superlatif est exprimé par "hïow" placé après le nominal à comparer.
 
-> ✎ [Handwritten notes, verso of p. 55](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-55-pdf-62)
+> ✎ [Handwritten notes, verso of p. 55](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-55-pdf-62)
 
-> ✎ [Handwritten notes, p. 56](kissie%20fondamental%20(handwritten%20notes).md#p-56-pdf-63)
+> ✎ [Handwritten notes, p. 56](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-56-pdf-63)
 
 <u>Tyeluo</u> tyuaa hoo <u>hiow</u> a <u>bandei</u>
 
@@ -2022,7 +2022,7 @@ Conjugaison: Le verbe "Dioo" au Futur
 
 ## LES ADJECTIFS ET PRONOMS DEMOSTRATIFS :
 
-> ✎ [Handwritten notes, p. 57](kissie%20fondamental%20(handwritten%20notes).md#p-57-pdf-64)
+> ✎ [Handwritten notes, p. 57](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-57-pdf-64)
 
 En Kisiei, d'une manière générale et du point de vue morphologique, les adjectifs et pronoms démostratifs sont les mêmes. Seul le statut fonctionnel et la distribution qui leurs sont conférés au sein de l'énoncé constituent leur différence. Les adjectifs se placent immédiatement à côté du nom qu'ils déterminent tandis que les pronoms assument les fonctions imparties aux nominaux.
 
@@ -2050,7 +2050,7 @@ Yoolen len le nan kè len num o ba hiow ya hènan
 Domalan lan ha hiow ya ; Tan lamini o ba la bènda ya ni.
 Kolèi he tyo o Paandue ni ken tyo i sianèiye ni
 
-> ✎ [Handwritten notes, p. 58](kissie%20fondamental%20(handwritten%20notes).md#p-58-pdf-65)
+> ✎ [Handwritten notes, p. 58](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-58-pdf-65)
 
 TABLEAU DES DEMONSTRATIFS.
 
@@ -2071,7 +2071,7 @@ CORRECTION DE L'EXERCICE :
 
 La mèèndan ndö tyuaanböa tyo <u>haa</u> fulaa o lakolio va : <u>haa</u> nö kaakiilan Leköö, <u>haa</u> nda nö volöla yönhaalan leköö. Tyuambole <u>len</u> le tyo huuluo a bölö ndöö o ba. <u>Hoo</u> ndu tyo kèèsönndo a doma ndö kèndöö? La nufa vö Poombö tyelulèi tyo <u>kon</u> kölan nèiyo tyoo vo.
 
-> ✎ [Handwritten notes, p. 59](kissie%20fondamental%20(handwritten%20notes).md#p-59-pdf-66)
+> ✎ [Handwritten notes, p. 59](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-59-pdf-66)
 
 LANGAGE : O löö nin
 
@@ -2121,7 +2121,7 @@ CONJUGAISONS Le Mode Impératif : le Présent.
 
 ## LES ADJECTIFS ET PRONOMS POSSESSIFS :
 
-> ✎ [Handwritten notes, p. 60](kissie%20fondamental%20(handwritten%20notes).md#p-60-pdf-67)
+> ✎ [Handwritten notes, p. 60](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-60-pdf-67)
 
 Les Possessifs servent essentiellement à marquer la possession. Ils varient selon qu'il s'agit de celui qui parle (1ère personne) de celui à qui l'on parle (2ème personne) ou de celui dont on parle (3ème personne).
 
@@ -2158,7 +2158,7 @@ Pömböa <u>nia</u> tyo o kaannden
 Ke ya kola <u>nuu</u>
 Bii bölèi <u>nummde</u>
 
-> ✎ [Handwritten notes, p. 61](kissie%20fondamental%20(handwritten%20notes).md#p-61-pdf-68)
+> ✎ [Handwritten notes, p. 61](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-61-pdf-68)
 
 TABLEAU DES ADJECTIFS POSSESSIFS.
 
@@ -2190,7 +2190,7 @@ TABLEAU DES PROMONS POSSESSIFS.
 
 In both tables, separate forms that the typescript lists in one cell are given on separate lines. `↑` marks an *an* or *lan* cell that the typescript writes once, centred across the Sing. and Pluriel rows, so the form above applies to both.
 
-> ✎ [Handwritten notes, p. 62](kissie%20fondamental%20(handwritten%20notes).md#p-62-pdf-69)
+> ✎ [Handwritten notes, p. 62](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-62-pdf-69)
 
 | PERSONNES \ MODALITES | | o, a, ö | e - i | an | len | lan | Franç. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2234,7 +2234,7 @@ Saa nö samtalan lan ni
 Kumba nö yolen len ni
 Ndo nö siawvan man ni
 
-> ✎ [Handwritten notes, p. 63](kissie%20fondamental%20(handwritten%20notes).md#p-63-pdf-70)
+> ✎ [Handwritten notes, p. 63](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-63-pdf-70)
 
 Nous notons l'apparition de la particule d'affirmation " ni " (c'est) qui précise en éloignant tout doute sur l'objet ou l'être possédé et son possesseur. Dans ces modèles d'expression, l'objet ou l'être possédé vient toujours après le verbe "nöw". Tandis que le possesseur se place avant le verbe.
 
@@ -2277,13 +2277,13 @@ CONJUGAISON : Le verbe " dioo " au présent du conditionnel.
 | Laa dianin | Laa dinin te |
 | Aa (Ndaa) dianin | Aa (Ndaa) dinin te |
 
-> ✎ [Handwritten notes, verso of p. 63](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-63-pdf-71)
+> ✎ [Handwritten notes, verso of p. 63](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-63-pdf-71)
 
 ---
 
 ## LES ADJECTIFS ET PRONOMS INTERROGATIFS.
 
-> ✎ [Handwritten notes, p. 64](kissie%20fondamental%20(handwritten%20notes).md#p-64-pdf-72)
+> ✎ [Handwritten notes, p. 64](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-64-pdf-72)
 
 En kisiei, selon qu'ils servent à déterminer ou à remplacer un nom, les adjectifs et pronoms interrogatifs sont utilisés pour interroger, demander. C'est à dire qu'ils ont pour rôle de présenter l'énoncé sous la forme interrogative.
 
@@ -2317,7 +2317,7 @@ Nawva nèènè ?
 Möèina nèènè ?
 Samtalan nèènè ?
 
-> ✎ [Handwritten notes, p. 65](kissie%20fondamental%20(handwritten%20notes).md#p-65-pdf-73)
+> ✎ [Handwritten notes, p. 65](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-65-pdf-73)
 
 LANGAGE : Emploi des adjectifs interrogatifs et l'expression de l'idée de possession avec les adjectifs et pronoms possessifs.
 
@@ -2375,13 +2375,13 @@ CONJUGAISON : Le verbe "dioo" au passé du conditionnel
 | Laa va dioo | Laa ve dio le |
 | Aa (ndaa) va dioo | Aa (ndaa) ve dio le |
 
-> ✎ [Handwritten notes, verso of p. 66](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-66-pdf-75)
+> ✎ [Handwritten notes, verso of p. 66](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-66-pdf-75)
 
 ---
 
 ### II- LES PRONOMS INTERROGATIFS.
 
-> ✎ [Handwritten notes, p. 67](kissie%20fondamental%20(handwritten%20notes).md#p-67-pdf-76)
+> ✎ [Handwritten notes, p. 67](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-67-pdf-76)
 
 Ils sont au nombre de trois en kisiei ; ce sont : Nèè, Kuè, Ngö(ö).
 
@@ -2431,9 +2431,9 @@ N.B. : "Ngö", lorsqu'il sert à l'interroger ou demander des renseignements, de
 
 In the two tables above, `↑` marks an *an* or *lan* cell that the typescript writes once, between the Sing. and Pluriel rows, so it applies to both.
 
-> ✎ [Handwritten notes, verso of p. 68](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-68-pdf-78)
+> ✎ [Handwritten notes, verso of p. 68](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-68-pdf-78)
 
-> ✎ [Handwritten notes, p. 69](kissie%20fondamental%20(handwritten%20notes).md#p-69-pdf-79)
+> ✎ [Handwritten notes, p. 69](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-69-pdf-79)
 
 EXEMPLES : Tinndo kisidu tèèn nda könökili, a tinndo kisidu tèèn nda sèlèkpèlè, ngö o hew bandei yo ?
 Möön mun mun muun ngö i löèi ye ?
@@ -2489,13 +2489,13 @@ CONJUGAISON : Le verbe "dioo" au présent du subjontif.
 | Maa La dio | Maa la di le |
 | Maa A (nda) dio | Maa a (nda) di le. |
 
-> ✎ [Handwritten notes, verso of p. 70](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-70-pdf-81)
+> ✎ [Handwritten notes, verso of p. 70](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-70-pdf-81)
 
 ---
 
 ## LES ADJECTIFS ET PRONOMS INDEFINIS
 
-> ✎ [Handwritten notes, p. 71](kissie%20fondamental%20(handwritten%20notes).md#p-71-pdf-82)
+> ✎ [Handwritten notes, p. 71](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-71-pdf-82)
 
 Ils constituent dans la langue des unités qui servent à déterminer où à remplacer les substantifs de manière vague en générale. Ils peuvent être au singulier ou au pluriel.
 
@@ -2541,7 +2541,7 @@ yole pilalen:
 yèyii pilèè
 yèi pilèi
 
-> ✎ [Handwritten notes, p. 72](kissie%20fondamental%20(handwritten%20notes).md#p-72-pdf-83)
+> ✎ [Handwritten notes, p. 72](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-72-pdf-83)
 
 Samtala pilèlan
 Samtala pilalan
@@ -2599,7 +2599,7 @@ COMPTONS : Revisions : Lisez ces chiffres en kisiei.
 
 ### II- LES PRONOMS INDEFINIS :
 
-> ✎ [Handwritten notes, p. 74](kissie%20fondamental%20(handwritten%20notes).md#p-74-pdf-85)
+> ✎ [Handwritten notes, p. 74](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-74-pdf-85)
 
 Quatre des formes des adjectifs indéfinis, précédées des particules de référence catégorielle, jouent le rôle de pronom indéfinis. Ce sont : Pum, tyelen, Kèkè qui sont invariables et Pilöö qui s'accorde suivant la classe nominale du substantif qu'il remplace.
 
@@ -2621,7 +2621,7 @@ Domalan n ke ya lan, o pilöö hiow ya.
 
 REMARQUES : Il existe en kisiei certains constituants d'énoncé qui peuvent être employés comme pronoms indéfinis. Ce sont :
 
-> ✎ [Handwritten notes, p. 75](kissie%20fondamental%20(handwritten%20notes).md#p-75-pdf-86)
+> ✎ [Handwritten notes, p. 75](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-75-pdf-86)
 
 - <u>Vana</u> que l'on traduit par "on"
 
@@ -2681,7 +2681,7 @@ COMPTONS : a) Compter à rebours - de 1000 à 100
 
 ## LES ADJECTIFS NUMERAUX CARDINAUX :
 
-> ✎ [Handwritten notes, p. 77](kissie%20fondamental%20(handwritten%20notes).md#p-77-pdf-88)
+> ✎ [Handwritten notes, p. 77](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-77-pdf-88)
 
 Ils relèvent du système comptable kisiei et ont pour rôle d'exprimer le nombre. L'examen de ce système, il ressort que les unités de 1 à 4 se distinguent morphologiquement tandis que de 5 à 9 nous notons la présence d'un radical "nho".
 
@@ -2722,7 +2722,7 @@ Kèmè leyaa = 300 = 100 x 3
 Kèmè lehiöölu = 400 = 100 x 4
 Kèmè lenhuèènu = 500 = 100 x 5
 
-> ✎ [Handwritten notes, p. 78](kissie%20fondamental%20(handwritten%20notes).md#p-78-pdf-89)
+> ✎ [Handwritten notes, p. 78](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-78-pdf-89)
 
 Kèmè lenhömpum = 100 x 6 = 600
 Kèmè lenhömmèw = 100 x 7 = 700
@@ -2763,7 +2763,7 @@ Vaa a Kèmè lenhömahiöölu = 1.900.
 
 a) Pour les objets dont les noms sont terminés par "a,o,ö"
 
-> ✎ [Handwritten notes, p. 79](kissie%20fondamental%20(handwritten%20notes).md#p-79-pdf-90)
+> ✎ [Handwritten notes, p. 79](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-79-pdf-90)
 
 | | |
 | --- | --- |
@@ -2810,7 +2810,7 @@ EXERCICE : Reprenez ce texte en écrivant les chiffres en lettres, puis vous les
 
 Vana bilikalla tosa tyièi bungan 120 ; naköla iyambalan lan 2 : hoo bungan 25, hoo bungan 30. A va n van 18, lakolia va nda tèèn n van 10, maneevulua vanaa 5. Vana va vallo bolten ndo. Ndu pilè, a nyanun masinio vo nda 2, o bèndia du vo vana 1. Lakolia tèènn a vösi tasendöa va nda 3, a vösi yaandöa va nda 5, a vösi hiöölundöa va nda 2.
 
-> ✎ [Handwritten notes, p. 80](kissie%20fondamental%20(handwritten%20notes).md#p-80-pdf-91)
+> ✎ [Handwritten notes, p. 80](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-80-pdf-91)
 
 CORRECTION DE L'EXERCICE :
 
@@ -2835,13 +2835,13 @@ LANGAGE : A la Pharmacie.
 - o lepilè ya tyua mun faw ni.
 - idii kpumgban mium, ipaalaa miun, ityöl mium.
 
-> ✎ [Handwritten notes, verso of p. 80](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-80-pdf-92)
+> ✎ [Handwritten notes, verso of p. 80](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-80-pdf-92)
 
 ---
 
 ## LES ADJECTIFS NUMERAUX ORDINAUX :
 
-> ✎ [Handwritten notes, p. 81](kissie%20fondamental%20(handwritten%20notes).md#p-81-pdf-93)
+> ✎ [Handwritten notes, p. 81](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-81-pdf-93)
 
 Les Ordinaux s'obtiennent en kisiei par suffixation du dérivatif "ndöö" au numéral cardinal. Ils s'accordent en classe et en nombre suivant le nom dont ils déterminent le rang.
 
@@ -2868,7 +2868,7 @@ Siawle fölönnden ; siawma tasean
 
 2)- LES AUTRES ORDINAUX : s'intègrent selon la classe du nom dont ils déterminent le rang.
 
-> ✎ [Handwritten notes, p. 82](kissie%20fondamental%20(handwritten%20notes).md#p-82-pdf-94)
+> ✎ [Handwritten notes, p. 82](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-82-pdf-94)
 
 | MODALITE | o, a, ö | e ; i | an | len | lan |
 | --- | --- | --- | --- | --- | --- |
@@ -2896,7 +2896,7 @@ Vösi vaa pilè kèmè lenhöma belenhuèènu a nhömmèwndöö(l'an 1857)
 Vösi vaa pilè kèmè lenhömmèwndöö (l'an 1700)
 Vösi vaa pilè kèmè lenhömahiöölu belenhömmèw a nhömahiöölu ndöö (1979).
 
-> ✎ [Handwritten notes, p. 83](kissie%20fondamental%20(handwritten%20notes).md#p-83-pdf-95)
+> ✎ [Handwritten notes, p. 83](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-83-pdf-95)
 
 EXERCICES : 1- Transformer les cardinaux ci-dessous en ordinaux. :
 
@@ -2941,13 +2941,13 @@ CORRECTION DES EXERCICES :
 | Yoei | ndi hiöölu | Tö a ~~le~~ <ins>i</ins> pilè | Bidiin a n nhuèènu |
 | Siawvan | Man hiöölu | Tö a le pilè | Bidiin a nan nhuèènu. |
 
-> ✎ [Handwritten notes, verso of p. 84](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-84-pdf-97)
+> ✎ [Handwritten notes, verso of p. 84](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-84-pdf-97)
 
 ---
 
 ## LES PRONOMS PERSONNELS.
 
-> ✎ [Handwritten notes, p. 85](kissie%20fondamental%20(handwritten%20notes).md#p-85-pdf-98)
+> ✎ [Handwritten notes, p. 85](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-85-pdf-98)
 
 Ils sont au nombre de (12) dans la langue et se repartissent en deux groupes :
 
@@ -2987,7 +2987,7 @@ REMARQUES :
 
 1. Les pronoms personnels compléments des 3è et 6è personnes se présentent sous diverses formes suivant la classe du substantif qu'ils remplacent.
 
-> ✎ [Handwritten notes, p. 86](kissie%20fondamental%20(handwritten%20notes).md#p-86-pdf-99)
+> ✎ [Handwritten notes, p. 86](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-86-pdf-99)
 
 | | o, a, ö | e ; i | an | len | lan |
 | --- | --- | --- | --- | --- | --- |
@@ -3017,7 +3017,7 @@ i tyo vèènön o kesu <u><u>ndu</u></u> <u>kèsè</u> volola ndö lan ndo.
 
 EXERCICE : Soulignez dans ce texte, les pronoms personnels sujets d'un trait et deux traits les pronoms personnels compléments.
 
-> ✎ [Handwritten notes, p. 87](kissie%20fondamental%20(handwritten%20notes).md#p-87-pdf-100)
+> ✎ [Handwritten notes, p. 87](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-87-pdf-100)
 
 Tyavaamböyèi nii
 
@@ -3047,7 +3047,7 @@ N.B. : Attention ! ne confondez pas "o" pronom personnel sujet et "o" prépositi
 
 ## LES PRONOMS RELATIFS :
 
-> ✎ [Handwritten notes, p. 88](kissie%20fondamental%20(handwritten%20notes).md#p-88-pdf-101)
+> ✎ [Handwritten notes, p. 88](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-88-pdf-101)
 
 Toute langue marque la relation entre les éléments de l'énoncé, de manière interne à son système. Cet élément qui n'a pour fonction que de joindre le substantif dont il tient la place, à la proposition subordonnée..
 
@@ -3071,7 +3071,7 @@ TABLEAU DES PRONOMS RELATIFS :
 | len | len | van, ve |
 | Lan (ndan) | Lan (ndan) | Lan (ndan). |
 
-> ✎ [Handwritten notes, p. 89](kissie%20fondamental%20(handwritten%20notes).md#p-89-pdf-102)
+> ✎ [Handwritten notes, p. 89](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-89-pdf-102)
 
 EXEMPLES : Doma<u>a</u> n pendu <u>vo</u> sèsa
 
@@ -3113,7 +3113,7 @@ Nua möèima o pendu <u>van</u>
 kola o pendu <u>vo</u> o tyii pömbö ndöö yöngu,
 Samtala n ke ya <u>lan</u> la hiow ya.
 
-> ✎ [Handwritten notes, p. 90](kissie%20fondamental%20(handwritten%20notes).md#p-90-pdf-103)
+> ✎ [Handwritten notes, p. 90](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-90-pdf-103)
 
 LANGAGE : Comment on exprime une action soumise à une condition;
 
@@ -3137,7 +3137,7 @@ Oo va ya nyisöö, te ii yei ndu pè.
 
 ## LE VERBE : Vue d'Ensemble.
 
-> ✎ [Handwritten notes, p. 91](kissie%20fondamental%20(handwritten%20notes).md#p-91-pdf-104)
+> ✎ [Handwritten notes, p. 91](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-91-pdf-104)
 
 ### I- GENERALITES :
 
@@ -3174,7 +3174,7 @@ Exemples : Vaa (laboure) nölaa (pouvoir) Kelenhaa (être rapide, se dépècher)
 
 Exemples : Kèsio (poser) mulio (repondre) tyanndo (pleurer) meiyo (se taire) bolinndo (se blesser) Delio (tomber plusieurs fois) Danhio (crier) kuusuwo (vomir) etc....
 
-> ✎ [Handwritten notes, p. 92](kissie%20fondamental%20(handwritten%20notes).md#p-92-pdf-105)
+> ✎ [Handwritten notes, p. 92](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-92-pdf-105)
 
 3°)- <u>Avec "ö"</u> :
 
@@ -3223,7 +3223,7 @@ b) <u>avec nönndo</u>
 | Baa (attacher) + nönndo | baanönndo (s'attacher) |
 | löö (frapper) + nönndo | löönönndo (se frapper) |
 
-> ✎ [Handwritten notes, p. 93](kissie%20fondamental%20(handwritten%20notes).md#p-93-pdf-106)
+> ✎ [Handwritten notes, p. 93](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-93-pdf-106)
 
 | | |
 | --- | --- |
@@ -3270,7 +3270,7 @@ Ils sont obtenus grâce au dérivatif verbal "lo" que l'on suffixe à un radical
 Faya tyo bon ndöö tyièi fèèyallo (
 Kumba sèvala kala ndöö sèböö
 
-> ✎ [Handwritten notes, p. 94](kissie%20fondamental%20(handwritten%20notes).md#p-94-pdf-107)
+> ✎ [Handwritten notes, p. 94](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-94-pdf-107)
 
 REMARQUES : La suffixation de ce dérivatif entraîne dans la plupart des cas une variation vocalique au sein du radical. D'autre part, nous constatons que le "l" se mutte en sa variante geminée "ll".
 
@@ -3308,7 +3308,7 @@ Köfanöö tyo kaandenda simisimio.
 
 ## LA CONJUGAISON :
 
-> ✎ [Handwritten notes, p. 95](kissie%20fondamental%20(handwritten%20notes).md#p-95-pdf-108)
+> ✎ [Handwritten notes, p. 95](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-95-pdf-108)
 
 Dans cette partie de l'étude du verbe, nous nous baserons essentiellement … mode indicatif, … mode impératif et de leurs temps qui sont les plus usités dans la langue.
 
@@ -3339,7 +3339,7 @@ Exemples : I tyo diöm te. O tyo vana semèi le. Ndu tyo bolten ni.
 
 #### 2. <u>LE PASSE</u> : Il indique qu'une action est entièrement accomplie dans un temps complètement écoulé. Les locuteurs le réalisent avec un <u>Ton Haut</u> qui le distingue du Présent habituel ;
 
-> ✎ [Handwritten notes, p. 96](kissie%20fondamental%20(handwritten%20notes).md#p-96-pdf-109)
+> ✎ [Handwritten notes, p. 96](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-96-pdf-109)
 
 car il arrive que ces deux temps (Présent Habituel et Passé) aient le même statut morphologique.
 
@@ -3370,7 +3370,7 @@ A va pulönndo.
 
 Il exprime essentiellement un ordre, un commandement ; mais aussi une invitation, une prière ou une interdiction formelle. Ces énoncés sont de type affirmatif opposée au type négatif marqué par la présence de la particule "le" (quand la finale verbale est orale) et "te" (quand la finale est nasale, ou une consonne).
 
-> ✎ [Handwritten notes, p. 97](kissie%20fondamental%20(handwritten%20notes).md#p-97-pdf-110)
+> ✎ [Handwritten notes, p. 97](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-97-pdf-110)
 
 Hun (viens) Hun te
 Kö (vas) Koa le
@@ -3407,7 +3407,7 @@ A höönu (qu'elles desherbent).
 
 Nous allons conjuguer Kolöö (boire) Pulönndo (se laver) - Tölöö (planter) et työn (voir) aux différents modes et temps étudiés. Mais puisque dans la conjugaison kisiei, se sont les personnes qui varient, le verbe une fois le radical obtenu à la première personne reste invariable ; nous allons limiter notre illustration aux première, deuxième et sixièmes personnes ~~pour l'indicatif~~, et au deuxième, ~~quatrième et cinquième~~ personnes pour l'indicatif.
 
-> ✎ [Handwritten notes, p. 98](kissie%20fondamental%20(handwritten%20notes).md#p-98-pdf-111)
+> ✎ [Handwritten notes, p. 98](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-98-pdf-111)
 
 | Présent Duratif | Présent Habituel | Passé | Futur Proche. |
 | --- | --- | --- | --- |
@@ -3442,7 +3442,7 @@ Nous allons conjuguer Kolöö (boire) Pulönndo (se laver) - Tölöö (planter) 
 | A tyo työ le | A tyi le | A tyi le | A tyo työ le |
 | nda tyo työ le | nda tyi le | nda tyi le | nda tyo työ le. |
 
-> ✎ [Handwritten notes, p. 99](kissie%20fondamental%20(handwritten%20notes).md#p-99-pdf-112)
+> ✎ [Handwritten notes, p. 99](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-99-pdf-112)
 
 | Futur lointain | Imparfait | Présent de l'Indic. |
 | --- | --- | --- |
@@ -3474,13 +3474,13 @@ Nous allons conjuguer Kolöö (boire) Pulönndo (se laver) - Tölöö (planter) 
 | A tyinin te | A ve työ le | |
 | Nda tyinin te | nda ve työ le. | |
 
-> ✎ [Handwritten notes, verso of p. 99](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-99-pdf-113)
+> ✎ [Handwritten notes, verso of p. 99](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-99-pdf-113)
 
 ---
 
 ## LES AUTRES MODES DE LA CONJUGAISON :
 
-> ✎ [Handwritten notes, p. 100](kissie%20fondamental%20(handwritten%20notes).md#p-100-pdf-114)
+> ✎ [Handwritten notes, p. 100](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-100-pdf-114)
 
 ### I- <u>LE MODE CONDITIONNEL</u> :
 
@@ -3513,7 +3513,7 @@ Aa (ndaa) va Kolöö
 
 Il sert à exprimer un souhait, un désir, tout en indiquant que l'action est évoquée et non décrite parce qu'elle n'est pas accomplie. La langue, pour l'expression de ce mode, fait précéder les pronoms personnels de la particule "Maa" que l'on peut traduire par la conjonction "que".
 
-> ✎ [Handwritten notes, p. 101](kissie%20fondamental%20(handwritten%20notes).md#p-101-pdf-115)
+> ✎ [Handwritten notes, p. 101](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-101-pdf-115)
 
 Maa i volu
 
@@ -3597,7 +3597,7 @@ Kovöö (récolter) I <u>koaw</u> (1) - <u>kow</u> (2) - I <u>kuu</u> (3) le
 Sömndo (croquer) I söam - söm - I somnin te
 Tölöö (planter) I töal - töl = tol te.
 
-> ✎ [Handwritten notes, p. 104](kissie%20fondamental%20(handwritten%20notes).md#p-104-pdf-118)
+> ✎ [Handwritten notes, p. 104](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-104-pdf-118)
 
 ### 4. <u>LES VERBES DU 4è GROUPE</u> :
 
@@ -3612,7 +3612,7 @@ Piölöö (casser) I tyo piölöö - I pèl - I pial - piöl - I pel te
 
 ## TABLEAU RESUME DU MECANISME DE CONJUGAISON DES VERBES KISIEI
 
-> ✎ [Handwritten notes, p. 105](kissie%20fondamental%20(handwritten%20notes).md#p-105-pdf-119)
+> ✎ [Handwritten notes, p. 105](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-105-pdf-119)
 
 Ce tableau a été établi conformément au modèle de conjugaison des verbes du Kisiei, selon que le verbe appartienne à un groupe donné. Nous avons fait correspondre le radical qu'il faut employer au présent, au passé ou au futur etc..., le radical correspondant et selon qu'on conjugue à la forme affirmative ou à la forme négative.
 
@@ -3628,7 +3628,7 @@ R<sub>1</sub> = le 1er radical - R<sub>2</sub> le 2e radical - R<sub>3</sub> le 
 
 Ainsi en élaborant le lexique de quelques verbes Kisiei, nous avons pris soin de présenter le verbe sous ses radicaux différents en vue de vous faciliter la tâche.
 
-> ✎ [Handwritten notes, p. 106](kissie%20fondamental%20(handwritten%20notes).md#p-106-pdf-120)
+> ✎ [Handwritten notes, p. 106](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-106-pdf-120)
 
 | TEMPS | | FORMES | 1er groupe | 2e groupe | 3e groupe | 3e gr. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3653,7 +3653,7 @@ The column heading above the four groups reads "RADICAUX DES VERBES". The labels
 
 ## TABLEAUX ILLUSTRATIFS
 
-> ✎ [Handwritten notes, p. 107](kissie%20fondamental%20(handwritten%20notes).md#p-107-pdf-121)
+> ✎ [Handwritten notes, p. 107](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-107-pdf-121)
 
 The typescript prints this table sideways (landscape) across the page; it is given here in reading order.
 
@@ -3674,7 +3674,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | IMPERATIF | PRESENT | | Aff. | Fèèya | Vaa | Kow | Yom |
 | | | | Nég. | La fèèya le | La vaa le | La koaw le | La yam te |
 
-> ✎ [Handwritten notes, p. 108](kissie%20fondamental%20(handwritten%20notes).md#p-108-pdf-122)
+> ✎ [Handwritten notes, p. 108](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-108-pdf-122)
 
 | MODES | TEMPS | | FORMES | Höönuo (1er Groupe) | Mamöö (2è Groupe) | Söndöö (3è Groupe) | Dioo (4è Groupe) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3693,7 +3693,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | IMPERATIF | PRESENT | | Aff. | Höönu | Mam | Söndu | Dio |
 | | | | Nég. | La höönu le | La mam te | La soandu le | La dia le |
 
-> ✎ [Handwritten notes, p. 109](kissie%20fondamental%20(handwritten%20notes).md#p-109-pdf-123)
+> ✎ [Handwritten notes, p. 109](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-109-pdf-123)
 
 | MODES | TEMPS | | FORMES | Sendinndo (1er Groupe) | Yawvo (2è Groupe) | Tonhöö (3è Groupe) | Viöw (4è Groupe) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3712,7 +3712,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | IMPERATIF | PRESENT | | Aff. | Sendin | Yaw | Ton | Viö |
 | | | | Nég. | La sendin te | La yaw le | La toan te | La via le |
 
-> ✎ [Handwritten notes, p. 110](kissie%20fondamental%20(handwritten%20notes).md#p-110-pdf-124)
+> ✎ [Handwritten notes, p. 110](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-110-pdf-124)
 
 | MODES | TEMPS | | FORMES | Löan (~~2è~~ <ins>1er</ins> Groupe) | Pulönndo (~~2è~~ <ins>1er</ins> Groupe) | Hövöö (3è Groupe) | Kölan (4è Groupe) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3821,7 +3821,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | Nambaa | Namba | Glisser |
 | Nöw | Nö | Avoir, … |
 
-> ✎ [Handwritten notes, p. 113](kissie%20fondamental%20(handwritten%20notes).md#p-113-pdf-128)
+> ✎ [Handwritten notes, p. 113](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-113-pdf-128)
 
 | FORME INFINITIVE | RADICAL | FRANCAIS. |
 | --- | --- | --- |
@@ -3866,9 +3866,9 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | Toosiaa | Toosia | Faire arranger (reparer) |
 | Toolno | Toolu | Arranger (reparer) |
 
-> ✎ [Handwritten notes, verso of p. 113](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-113-pdf-129)
+> ✎ [Handwritten notes, verso of p. 113](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-113-pdf-129)
 
-> ✎ [Handwritten notes, p. 114](kissie%20fondamental%20(handwritten%20notes).md#p-114-pdf-130)
+> ✎ [Handwritten notes, p. 114](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-114-pdf-130)
 
 | FORME INFINITIVE | RADICAL | FRANCAIS. |
 | --- | --- | --- |
@@ -3913,7 +3913,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | Nyasöö | Nyasu | Nyesu | Gratter |
 | Nyasöönndo | Nyasun | Nyesun | Se gratter. |
 
-> ✎ [Handwritten notes, p. 115](kissie%20fondamental%20(handwritten%20notes).md#p-115-pdf-131)
+> ✎ [Handwritten notes, p. 115](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-115-pdf-131)
 
 | FORME INFINITIVE | 1er RADICAL R<sub>1</sub> | 2è RADICAL R<sub>2</sub> | FRANCAIS |
 | --- | --- | --- | --- |
@@ -3956,7 +3956,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 | Vaw | Tyo | vo | va | être |
 | Violöö | Violu | viälu | viälu | s'accoucher |
 
-> ✎ [Handwritten notes, p. 116](kissie%20fondamental%20(handwritten%20notes).md#p-116-pdf-132)
+> ✎ [Handwritten notes, p. 116](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-116-pdf-132)
 
 ### 4. <u>LES VERBES DU 4è GROUPE</u> :
 
@@ -3979,7 +3979,7 @@ The typescript prints this table sideways (landscape) across the page; it is giv
 
 ## -=- LES ADVERBES -=-
 
-> ✎ [Handwritten notes, p. 117](kissie%20fondamental%20(handwritten%20notes).md#p-117-pdf-133)
+> ✎ [Handwritten notes, p. 117](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-117-pdf-133)
 
 Les adverbes sont des mots invariables qui sont fréquemment employés pour déterminer le verbe ou un autre adverbe, un adjectif.
 
@@ -4027,7 +4027,7 @@ Tamba vo kumba tyuèiyan <u>tyobe</u>.
 
 ## LES PARTICULES ADNOMINALES :
 
-> ✎ [Handwritten notes, p. 118](kissie%20fondamental%20(handwritten%20notes).md#p-118-pdf-134)
+> ✎ [Handwritten notes, p. 118](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-118-pdf-134)
 
 Ce sont des unités qui apparaissent toujours adjointes aux nominaux. Elles fonctionnent en dépendance soit avec les substituts personnels, soit avec les nominaux proprement dits. Elles n'ont aucune existence autonome dans la langue. Ainsi, leur suppression n'affecte point la structure de la phrase. Ces particules admoninales sont :
 
@@ -4063,7 +4063,7 @@ REMARQUE / Nous constatons à travers ces exemples, que seule "vèlè" peut se p
 
 Leur étude nous permettra dans les leçons qui suivent de saisir plus aisément les différentes structures syntaxiques du kisiei. Les mots de liaison sont des mots invariables qui servent à unir un nom à un verbe, un nom à un autre, deux phrases ou de deux proposition en établissant un rapport en les deux mots ou les deux
 
-> ✎ [Handwritten notes, p. 119](kissie%20fondamental%20(handwritten%20notes).md#p-119-pdf-135)
+> ✎ [Handwritten notes, p. 119](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-119-pdf-135)
 
 phrases ou propositions. Nous distinguons les prépositions et les conjonctions qui se subdivisent en deux groupes : les conjonctions de coordination et les conjonctions de subordination.
 
@@ -4098,7 +4098,7 @@ b) <u>Deux noms</u> assumant la fonction de <u>complément</u> vis à vis du ver
 Faya dii <u>söö</u> <u>a</u> <u>dökuo</u> ;
 i pendu <u>dèndöö</u> <u>a</u> <u>fagbaa</u> ; <u>fallo</u> köè kungulaa <u>nda</u> <u>tyuaa</u> ndöa
 
-> ✎ [Handwritten notes, p. 120](kissie%20fondamental%20(handwritten%20notes).md#p-120-pdf-136)
+> ✎ [Handwritten notes, p. 120](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-120-pdf-136)
 
 c) <u>Deux phrases</u> (formant une seule proposition ; la proposition indépendante) ?
 
@@ -4144,7 +4144,7 @@ Ta poo! a nö böö Lèönnde!
 
 ## LA STRUCTURE ALLITERATIVE.
 
-> ✎ [Handwritten notes, p. 121](kissie%20fondamental%20(handwritten%20notes).md#p-121-pdf-137)
+> ✎ [Handwritten notes, p. 121](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-121-pdf-137)
 
 Nous avons vu dans la morphologie du nom simple, qu'il existe en kisiei, une série différenciée d'affixes (morphèmes classificateurs ou modalités nominales) qui groupaient les noms en catégories ou classes nominales. C'est ainsi que chaque nominal du système appartient à une classe précise que seul le morphème de classe (modalité) permet d'identifier. En abordant l'étude des adjectifs et Pronoms, nous avons constaté que selon qu'ils déterminent ou remplacent le nom, ils s'accordent non seulement en nombre avec celui-ci mais aussi en classe nominale. C'est dire que nécessairement ils doivent porter la modalité de ce nom.
 
@@ -4172,9 +4172,9 @@ Len : Yawle bèndule tambalen le kiolu
 Lan : diola kèndèla n nö lan la hèènan ya
 samtala sènèila n pendu lan la hiow num.
 
-> ✎ [Handwritten notes, verso of p. 121](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-121-pdf-138)
+> ✎ [Handwritten notes, verso of p. 121](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-121-pdf-138)
 
-> ✎ [Handwritten notes, p. 122](kissie%20fondamental%20(handwritten%20notes).md#p-122-pdf-139)
+> ✎ [Handwritten notes, p. 122](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-122-pdf-139)
 
 REMARQUES : 1- Nous constatons qu'avec cette reprise du morphème sur certains éléments de l'énoncé, les nominaux se présentent sous la forme indéfinie. La forme définie étant étant marquée par la longueur vocalique pour les noms terminés par "a, o, ö, il s'agira tout simplement de suprimer la dernière voyelle (domaa = doma, bölöö = bölö). Mais, au cas où nous constatons l'apparition d'une consonne dite de soutien tels que dans : Hoeiye, Yowvo, kollo, la forme indéfinie s'obtient en supprimant et la consonne de soutien et le morphème (hoeiye = hoei, yowvo = yow, kollo = kol). Précisons que ce ci n'est valable que pour les noms singuliers, les noms pluriels se présentant toujours munient de leur marque de nombre.
 
@@ -4205,7 +4205,7 @@ Les marques suffixales i (de fèèyai) vo (de puavo et molisivo) ve (de fayave) 
 
 ## LA PHRASE
 
-> ✎ [Handwritten notes, p. 123](kissie%20fondamental%20(handwritten%20notes).md#p-123-pdf-140)
+> ✎ [Handwritten notes, p. 123](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-123-pdf-140)
 
 Après avoir étudié isolément les constituants d'énoncée (nom, adjectif...) nous allons voir à présent comment ces éléments se combinent pour transmettre un message en kisiei. Le kisiei présente plusieurs types de constructions syntaxiques que nous allons dégager à travers l'étude des phrases simples et des phrases complexes.
 
@@ -4237,7 +4237,7 @@ Cette formule n'est valable que pour le présent, l'imparfait et le futur proche
 Exemples : Sia tyo höönuo ; Kumba va yawvo
 Tamba tyo vaa ; Seku va fèèyaa.
 
-> ✎ [Handwritten notes, p. 124](kissie%20fondamental%20(handwritten%20notes).md#p-124-pdf-141)
+> ✎ [Handwritten notes, p. 124](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-124-pdf-141)
 
 c)- <u>GROUPE SUJET + VERBE</u>
 
@@ -4271,7 +4271,7 @@ e)- Mais lorsque le locuteur veut présenter son message sous forme d'ordre ou d
 
 ## PHRASES SIMPLE EN EXPANSION :
 
-> ✎ [Handwritten notes, p. 125](kissie%20fondamental%20(handwritten%20notes).md#p-125-pdf-142)
+> ✎ [Handwritten notes, p. 125](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-125-pdf-142)
 
 La nécessité de cette expansion est liée au souci d'une certaine détermination, visant à identifier l'objet dans une série d'autres semblables. Cette expansion peut être un complèment d'objet ou circonstant, voire toute une proposition.
 
@@ -4314,7 +4314,7 @@ Vananyètyaa tyo hunö siödii
 Lakolia va kölan o kaannden
 Pomböö tyo tyanndo le mèèyan.
 
-> ✎ [Handwritten notes, p. 126](kissie%20fondamental%20(handwritten%20notes).md#p-126-pdf-143)
+> ✎ [Handwritten notes, p. 126](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-126-pdf-143)
 
 5. Sujet + marque de temps + Complément + Verbe
 
@@ -4350,7 +4350,7 @@ Finda pendu kolaa / le kafoo tosanin ? dièn ndo.
 
 De telles sont appelées des Propositions Indépendantes, puisqu'elles ne dépendent d'aucune autre proposition et aucune ne dépend d'elles. Ainsi nous dirons que les Propositions Indépendantes bien que présentant une structure un peu plus complexe que les précédentes, sont à considérér comme des Phrases Simples mais plus étoffées.
 
-> ✎ [Handwritten notes, p. 127](kissie%20fondamental%20(handwritten%20notes).md#p-127-pdf-144)
+> ✎ [Handwritten notes, p. 127](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-127-pdf-144)
 
 ### - <u>LE SYNTAGME APPOSITIF</u> :
 
@@ -4368,7 +4368,7 @@ Ces types de phrases sont également des Phrases Simples.
 
 ## LES PHRASES COMPLEXES
 
-> ✎ [Handwritten notes, p. 128](kissie%20fondamental%20(handwritten%20notes).md#p-128-pdf-145)
+> ✎ [Handwritten notes, p. 128](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-128-pdf-145)
 
 La nature complexe de ces types de phrades, s'explique par le fait que, contrairement à la phrase simple qui n'a qu'une seule proposition (ou deux propositions juxtaposées : indépendante) ; les PHRASES COMPLEXES comportent quant à elles au moins deux propositions liées entre elles par un mot de subordination.
 
@@ -4395,7 +4395,7 @@ Dans (1) nous avons:Masaa(sujet)+ di(verbe) + nawvo(complément)qui repond effec
 
 Ainsi,l'analyse de la Phrase Complexe revient à recenser d'abord le nombre de verbe(car autant il y a de verbes,autant il y a de propositions) ensuite les mots de subordination assurant la liaison :
 
-> ✎ [Handwritten notes, p. 129](kissie%20fondamental%20(handwritten%20notes).md#p-129-pdf-146)
+> ✎ [Handwritten notes, p. 129](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-129-pdf-146)
 
 Analysons les exemples(4) et (7).
 
@@ -4438,7 +4438,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LE CORPS HUMAIN
 
-> ✎ [Handwritten notes, p. 131](kissie%20fondamental%20(handwritten%20notes).md#p-131-pdf-148)
+> ✎ [Handwritten notes, p. 131](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-131-pdf-148)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4472,7 +4472,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Kuuvo | Kuu-vo | la joue |
 | … | … | … |
 
-> ✎ [Handwritten notes, p. 132](kissie%20fondamental%20(handwritten%20notes).md#p-132-pdf-149)
+> ✎ [Handwritten notes, p. 132](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-132-pdf-149)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4513,7 +4513,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Tyinnde | Tyin-nde | la dent |
 | Tyinhikiolèi | Tyi-nhi-kia-lèi | l'incisive |
 
-> ✎ [Handwritten notes, p. 133](kissie%20fondamental%20(handwritten%20notes).md#p-133-pdf-150)
+> ✎ [Handwritten notes, p. 133](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-133-pdf-150)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4555,7 +4555,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LA FAMILLE
 
-> ✎ [Handwritten notes, p. 134](kissie%20fondamental%20(handwritten%20notes).md#p-134-pdf-151)
+> ✎ [Handwritten notes, p. 134](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-134-pdf-151)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4586,7 +4586,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Yembuo | Ye-mbuo | le célibataire |
 | Yunguo | Yu-nguo | la famille |
 
-> ✎ [Handwritten notes, p. 135](kissie%20fondamental%20(handwritten%20notes).md#p-135-pdf-152)
+> ✎ [Handwritten notes, p. 135](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-135-pdf-152)
 
 <u>LANGAGE</u> :
 
@@ -4611,7 +4611,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LA FAUNE
 
-> ✎ [Handwritten notes, p. 136](kissie%20fondamental%20(handwritten%20notes).md#p-136-pdf-153)
+> ✎ [Handwritten notes, p. 136](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-136-pdf-153)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4648,9 +4648,9 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Nyaaye yondoo | Nyaa-ye/yon-doo | le chat tigre |
 | Pewvo | Pew-vo | le cochon |
 
-> ✎ [Handwritten notes, verso of p. 136](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-136-pdf-154)
+> ✎ [Handwritten notes, verso of p. 136](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-136-pdf-154)
 
-> ✎ [Handwritten notes, p. 137](kissie%20fondamental%20(handwritten%20notes).md#p-137-pdf-155)
+> ✎ [Handwritten notes, p. 137](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-137-pdf-155)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4691,7 +4691,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Visio | Vi-sio | l'animal |
 | Völöö | Vö-löö | la perdrix |
 
-> ✎ [Handwritten notes, p. 138](kissie%20fondamental%20(handwritten%20notes).md#p-138-pdf-156)
+> ✎ [Handwritten notes, p. 138](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-138-pdf-156)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4718,7 +4718,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LA FLORE & LES SUBSTANCES VEGETALES
 
-> ✎ [Handwritten notes, p. 139](kissie%20fondamental%20(handwritten%20notes).md#p-139-pdf-157)
+> ✎ [Handwritten notes, p. 139](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-139-pdf-157)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4756,7 +4756,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Möèma vawvan | Möè-ma/vaw-van | vin de palme |
 | Peelen | Pee-len | la feuille |
 
-> ✎ [Handwritten notes, p. 140](kissie%20fondamental%20(handwritten%20notes).md#p-140-pdf-158)
+> ✎ [Handwritten notes, p. 140](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-140-pdf-158)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4792,7 +4792,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Yambèi | Ya-mbèi | tubercules |
 | Yambele folalen | Ya-mba-le/fo-la-len | le manioc |
 
-> ✎ [Handwritten notes, p. 141](kissie%20fondamental%20(handwritten%20notes).md#p-141-pdf-159)
+> ✎ [Handwritten notes, p. 141](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-141-pdf-159)
 
 <u>Yondoo</u>
 
@@ -4831,7 +4831,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LE VILLAGE
 
-> ✎ [Handwritten notes, p. 142](kissie%20fondamental%20(handwritten%20notes).md#p-142-pdf-160)
+> ✎ [Handwritten notes, p. 142](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-142-pdf-160)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4862,7 +4862,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Yasabaa | Ya-sa-baa | Atelier |
 | Yondo toomaa | Yon-do/too-maa | la forêt sacrée |
 
-> ✎ [Handwritten notes, p. 143](kissie%20fondamental%20(handwritten%20notes).md#p-143-pdf-161)
+> ✎ [Handwritten notes, p. 143](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-143-pdf-161)
 
 <u>VALI HUNNDAN</u>
 
@@ -4906,7 +4906,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LE VETEMENT - LA PARURE - LA TOILETTE
 
-> ✎ [Handwritten notes, p. 144](kissie%20fondamental%20(handwritten%20notes).md#p-144-pdf-162)
+> ✎ [Handwritten notes, p. 144](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-144-pdf-162)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -4940,9 +4940,9 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Tooma Pööndo | Too-ma/Pöö-ndo | tatouages |
 | Työngöi | Työ-ngöi | cache-sexe devenu accoutrement artistique |
 
-> ✎ [Handwritten notes, verso of p. 144](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-144-pdf-163)
+> ✎ [Handwritten notes, verso of p. 144](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-144-pdf-163)
 
-> ✎ [Handwritten notes, p. 145](kissie%20fondamental%20(handwritten%20notes).md#p-145-pdf-164)
+> ✎ [Handwritten notes, p. 145](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-145-pdf-164)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5010,9 +5010,9 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Yinnöö | Yin-nöö | le peintre |
 | Yulanöö | Yu-la-nöö | le commerçant, marchand |
 
-> ✎ [Handwritten notes, verso of p. 146](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-146-pdf-166)
+> ✎ [Handwritten notes, verso of p. 146](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-146-pdf-166)
 
-> ✎ [Handwritten notes, p. 147](kissie%20fondamental%20(handwritten%20notes).md#p-147-pdf-167)
+> ✎ [Handwritten notes, p. 147](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-147-pdf-167)
 
 <u>BAALAHAN</u>
 
@@ -5057,7 +5057,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 
 ### LA SOCIETE
 
-> ✎ [Handwritten notes, p. 148](kissie%20fondamental%20(handwritten%20notes).md#p-148-pdf-168)
+> ✎ [Handwritten notes, p. 148](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-148-pdf-168)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5096,7 +5096,7 @@ Au pays Kisi, comme partout ailleurs, la salutation est le signe de respect dans
 | Tyèw | Tyèw | l'escalve |
 | Tyuaamböö | Tyuaa-mböö | l'enfant |
 
-> ✎ [Handwritten notes, p. 149](kissie%20fondamental%20(handwritten%20notes).md#p-149-pdf-169)
+> ✎ [Handwritten notes, p. 149](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-149-pdf-169)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5131,7 +5131,7 @@ La löl kèndè.
 
 ### LA RELIGION
 
-> ✎ [Handwritten notes, p. 150](kissie%20fondamental%20(handwritten%20notes).md#p-150-pdf-170)
+> ✎ [Handwritten notes, p. 150](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-150-pdf-170)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5166,7 +5166,7 @@ La löl kèndè.
 | Yallo | Yal-lo | le fétiche |
 | Yoomoo | Yoo-moo | l'âme |
 
-> ✎ [Handwritten notes, p. 151](kissie%20fondamental%20(handwritten%20notes).md#p-151-pdf-171)
+> ✎ [Handwritten notes, p. 151](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-151-pdf-171)
 
 <u>DINALAN</u>
 
@@ -5185,7 +5185,7 @@ La löl kèndè.
 
 ### DIVISION DU TEMPS
 
-> ✎ [Handwritten notes, p. 152](kissie%20fondamental%20(handwritten%20notes).md#p-152-pdf-172)
+> ✎ [Handwritten notes, p. 152](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-152-pdf-172)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5224,7 +5224,7 @@ La löl kèndè.
 | Ityöl | I-työl | le soir-la nuit |
 | Ipala | I-pa-la | la journée |
 
-> ✎ [Handwritten notes, p. 153](kissie%20fondamental%20(handwritten%20notes).md#p-153-pdf-173)
+> ✎ [Handwritten notes, p. 153](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-153-pdf-173)
 
 <u>Rencontre de deux amis ou de deux parents après un temps de séparation</u>
 
@@ -5255,7 +5255,7 @@ La löl kèndè.
 
 ### LE CIEL - L'ATMOSPHERE
 
-> ✎ [Handwritten notes, p. 154](kissie%20fondamental%20(handwritten%20notes).md#p-154-pdf-174)
+> ✎ [Handwritten notes, p. 154](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-154-pdf-174)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5296,7 +5296,7 @@ La löl kèndè.
 
 ### GEOGRAPHIE
 
-> ✎ [Handwritten notes, p. 155](kissie%20fondamental%20(handwritten%20notes).md#p-155-pdf-175)
+> ✎ [Handwritten notes, p. 155](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-155-pdf-175)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5330,7 +5330,7 @@ La löl kèndè.
 | Tyunduo | Tyun-nduo | la poussière |
 | Vundulen | Vu-ndu-len | <ins>l'ombre</ins> |
 
-> ✎ [Handwritten notes, p. 156](kissie%20fondamental%20(handwritten%20notes).md#p-156-pdf-176)
+> ✎ [Handwritten notes, p. 156](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-156-pdf-176)
 
 <u>SIALTEN</u>
 
@@ -5416,7 +5416,7 @@ La löl kèndè.
 
 ### LES INSTRUMENTS & LES OUTILS
 
-> ✎ [Handwritten notes, p. 159](kissie%20fondamental%20(handwritten%20notes).md#p-159-pdf-180)
+> ✎ [Handwritten notes, p. 159](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-159-pdf-180)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5455,7 +5455,7 @@ La löl kèndè.
 | Taalaa, yalantaalaa | Taa-laa, ya-lan-taa-laa | la calebasse |
 | Taala kolaa | Taa-la/ko-laa | le gobelet |
 
-> ✎ [Handwritten notes, p. 160](kissie%20fondamental%20(handwritten%20notes).md#p-160-pdf-181)
+> ✎ [Handwritten notes, p. 160](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-160-pdf-181)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5485,7 +5485,7 @@ La löl kèndè.
 
 ### LA MALADIE - LES MALADIES
 
-> ✎ [Handwritten notes, p. 161](kissie%20fondamental%20(handwritten%20notes).md#p-161-pdf-182)
+> ✎ [Handwritten notes, p. 161](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-161-pdf-182)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5524,7 +5524,7 @@ La löl kèndè.
 | Naa ntyinndo | Naa/ntyin-ndo | -"- dent. |
 | Naa la höllo | Naa/la/höl-lo | -"- d'yeux |
 
-> ✎ [Handwritten notes, p. 162](kissie%20fondamental%20(handwritten%20notes).md#p-162-pdf-183)
+> ✎ [Handwritten notes, p. 162](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-162-pdf-183)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5589,7 +5589,7 @@ La löl kèndè.
 | Fala | Balika Fallo |
 | — | O tyo balika le. |
 
-> ✎ [Handwritten notes, verso of p. 163](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-163-pdf-185)
+> ✎ [Handwritten notes, verso of p. 163](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-163-pdf-185)
 
 ### LA MUSIQUE - LES JEUX - LA DANSE
 
@@ -5621,7 +5621,7 @@ La löl kèndè.
 | Yolan | Yo-lan | la danse |
 | Yola toomaa bondo | Yo-la/too-maa/bo-ndo | danse des femmes après l'excision avec les castagnettes |
 
-> ✎ [Handwritten notes, p. 165](kissie%20fondamental%20(handwritten%20notes).md#p-165-pdf-187)
+> ✎ [Handwritten notes, p. 165](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#p-165-pdf-187)
 
 | KISIEI | PRONONCIATION SYLLABIQUE | FRANCAIS |
 | --- | --- | --- |
@@ -5655,7 +5655,7 @@ La löl kèndè.
 | <u>Nyuma</u> | Pisultan la kindi vana, ni la soli vana diallon ni |
 | <u>Kundu</u> | La yöngu vèlè vana Kindia. |
 
-> ✎ [Handwritten notes, verso of p. 165](kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-165-pdf-188)
+> ✎ [Handwritten notes, verso of p. 165](Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md#verso-of-p-165-pdf-188)
 
 ---
 

@@ -62,14 +62,46 @@ The Bible text itself is **not** stored in the repository. The tools download it
 | `tools/` | MkDocs hook (example checking, citations, Bible links), Bible download and word-list tools, translation check. |
 | `lexicon/` | The lexicon: source entries in `entries/*.yaml`, and generated exports as CSV and TSV (`kisiei.csv`, `kisiei.tsv`), LIFT (`kisiei.lift`, for FieldWorks) and a CLDF Dictionary (`cldf/`). See [`lexicon/README.md`](lexicon/README.md). |
 | `references/bible-bkg-wordforms.tsv` | Word forms of the Kisiei Bible, used to check the examples. |
-| [`archive/kissie fondamental (original scan).pdf`](archive/kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of Sékou Sondo Keita's 1979 thesis (Institut Polytechnique Gamal Abdel Nasser de Conakry): phonetics, grammar, conjugation, syntax and a Kisiei–French lexicon, in French and Kisiei, old orthography. |
-| [`archive/kissie fondamental (transcription).md`](archive/kissie%20fondamental%20(transcription).md) | Complete Markdown transcription of the scan, in the original orthography, with handwritten corrections inline. |
-| [`archive/kissie fondamental (handwritten notes).md`](archive/kissie%20fondamental%20(handwritten%20notes).md) | Handwritten annotations found on the scan (French glosses, translations, Kissidougou variants), page by page. |
-| [`archive/nouvel orthographe kissi.pdf`](archive/nouvel%20orthographe%20kissi.pdf) | One-page table of correspondences between the old and the new orthography. |
+| `archive/` | Source documents: older descriptions, word lists and texts (see below). |
+
+## The archive
+
+The documents in `archive/` are older descriptions, word lists and texts, mostly scans of typescripts. Except where noted, they predate the current orthography (Keita's documents use *ty*, *nh*, *ny*, *è*, *ö*; see [Orthography in brief](#orthography-in-brief)) and are not a spelling model; the guide-book uses them as background, checked against the Bible.
+
+### Sékou Sondo Keita and the Académie des Langues (Conakry)
+
+| File | Description |
+| --- | --- |
+| [`Sekou Sondo Keita - kissie fondamental (original scan).pdf`](archive/Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of Keita's 1979 thesis, *Essai d'élaboration d'un kisiei fondamental à l'usage des locuteurs non kisi* (Institut Polytechnique Gamal Abdel Nasser de Conakry): phonetics, grammar, conjugation, syntax and a Kisiei–French lexicon of about 700 words, in French and Kisiei. |
+| [`Sekou Sondo Keita - kissie fondamental (transcription).md`](archive/Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(transcription).md) | Complete Markdown transcription of the scan, in the original orthography, with handwritten corrections inline (see [below](#the-keita-transcription)). |
+| [`Sekou Sondo Keita - kissie fondamental (handwritten notes).md`](archive/Sekou%20Sondo%20Keita%20-%20kissie%20fondamental%20(handwritten%20notes).md) | Handwritten annotations found on the scan (French glosses, translations, Kissidougou variants), page by page. |
+| [`Denise Paulme - Annexe - Proverbes Contes.PDF`](archive/Denise%20Paulme%20-%20Annexe%20-%20Proverbes%20Contes.PDF) | Scan (18 pages) of a typewritten annex headed *Annexe : Proverbes, Contes, Devinettes*: Kisiei tales, each followed by proverbs (*talelan*) and riddles (*budon pialan*), with handwritten French glosses. Despite the file name, its spelling, typewriter and tales (the *Suluku* stories) match the annex listed in the contents of Keita (1979), typescript pp. 166–184, which is missing from the thesis scan. |
+| [`Sekou Sondo Keita - Terminologie_Kissi_Langue.PDF`](archive/Sekou%20Sondo%20Keita%20-%20Terminologie_Kissi_Langue.PDF) | *Terminologie : langue* (16 pages): numbered French terms of language and grammar (*abstrait*, *accent*, *adjectif*…) with their Kisiei translation. Issued by the Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Académie des Langues; undated. |
+| [`Sekou Sondo Keita - Terminologie_Kissi_Arts.PDF`](archive/Sekou%20Sondo%20Keita%20-%20Terminologie_Kissi_Arts.PDF) | *Terminologie : arts* (12 pages), same series: terms of the arts, music and performance. |
+| [`Sekou Sondo Keita - Terminologie_Kissi_Histoire.PDF`](archive/Sekou%20Sondo%20Keita%20-%20Terminologie_Kissi_Histoire.PDF) | *Terminologie : histoire* (21 pages), same series: terms of history and politics. |
+| [`Sekou Sondo Keita - Terminologie_Kissi_Ideologie.PDF`](archive/Sekou%20Sondo%20Keita%20-%20Terminologie_Kissi_Ideologie.PDF) | *Terminologie : idéologie* (13 pages), same series: terms of ideology, economy and society. |
+| [`nouvel orthographe kissi.pdf`](archive/nouvel%20orthographe%20kissi.pdf) | One-page table of correspondences between the old and the new orthography. |
+
+The four terminology lists name no author on the pages; the attribution to Keita comes from the file names.
+
+### Denise Paulme
+
+| File | Description |
+| --- | --- |
+| [`Denise Paulme - Documents sur la langue kissi.pdf`](archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.pdf) | *Documents sur la langue kissi : lexique et textes* (Glottolog dates it 1964), printed in 2013 from the University of Florida Digital Collections (record UF00073317), 173 pages. Vocabulary and texts collected by the ethnologist Denise Paulme during two field trips to the Kissi country with André Schaeffner (October 1945–June 1946 and October 1948–May 1949), around Kissidougou and Guéckédou; it includes a bibliography of earlier work on Kissi. |
+| [`Denise Paulme - Kissi Vocabulaire_compressed.pdf`](archive/Denise%20Paulme%20-%20Kissi%20Vocabulaire_compressed.pdf) | Another copy of the same work (151 pages), scanned from a typescript, with some handwritten notes. |
+
+### Other
+
+| File | Description |
+| --- | --- |
+| [`Lexique Kissi - Français_compressed.pdf`](archive/Lexique%20Kissi%20-%20Fran%C3%A7ais_compressed.pdf) | *Lexique Kissi–Français* (68 pages), author unknown according to its title page: an alphabetical Kisiei–French word list, typed in the **current orthography** (*ɛ*, *ɔ*), with handwritten additions. |
+
+The OCR text of Childs (1995, 2000) may be kept locally as `archive/Childs 1995 - … (text).md` and `archive/Childs 2000 - … (text).md`; these files are git-ignored and not distributed.
 
 ### The Keita transcription
 
-The transcription of Keita (1979) is **complete and final**: all 189 PDF pages (typescript pp. 1–165 and the bibliography; the annex of tales is missing from the scan). It deliberately keeps the old orthography and the author's typos, and it will not be converted to the new spelling; the guide-book uses it as a source instead. Its conventions were:
+The transcription of Keita (1979) is **complete and final**: all 189 PDF pages (typescript pp. 1–165 and the bibliography). The annex of tales (pp. 166–184) is not in that scan; it appears to be the separate *Annexe* file listed above and is not transcribed. The transcription deliberately keeps the old orthography and the author's typos, and it will not be converted to the new spelling; the guide-book uses it as a source instead. Its conventions were:
 
 - the text reproduced exactly (spelling, diacritics, punctuation, capitalisation), in precomposed Unicode (NFC);
 - handwritten corrections of the typed text inline, as `~~struck text~~` and `<ins>replacement</ins>`;
