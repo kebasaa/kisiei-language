@@ -77,6 +77,11 @@ def load(only=None):
 
 def validate(domains, entries, words):
     errors, warnings, seen = [], [], {}
+    # Bible forms already accounted for by an attested entry (words of compounds included): a respelled
+    # entry with the same letters is then a homograph, not a missed attestation.
+    covered = {key(p) for e in entries if e.get("status") == "attested"
+               for x in [e.get("lemma", "")] + [e.get("plural") or ""] + list(e.get("forms") or [])
+               for w in WORD_RE.findall(str(x)) for p in [w] + w.split("-")}
     for e in entries:
         where = f"{e['_file']} #{e['_n']} ({e.get('lemma', '?')})"
         unknown = set(k for k in e if not k.startswith("_")) - FIELDS
@@ -112,7 +117,8 @@ def validate(domains, entries, words):
                     if info and not toned(w) and all(toned(s) for s in info[2]):
                         warnings.append(f"{where}: the Bible always writes '{w}' with tone marks "
                                         f"({', '.join(sorted(info[2]))}); use the accented spelling")
-        elif e.get("status") == "respelled" and " " not in lemma and lemma and attested(lemma, words):
+        elif (e.get("status") == "respelled" and " " not in lemma and lemma and attested(lemma, words)
+              and key(lemma) not in covered):
             warnings.append(f"{where}: '{lemma}' is in the Bible word list; status could be 'attested'")
         k = (key(lemma), e.get("pos"), (g or {}).get("fr") if isinstance(g, dict) else None)
         if k in seen:

@@ -12,7 +12,7 @@ ba,attested,noun,,,,"côté ; (o … ba) chez, auprès de, aux mains de ; (a ba 
 bâ,southern,ideo,,,,bruit d'une goutte qui tombe sur une surface lisse,sound of a drop falling on a smooth surface,9.2.8,,,,,2,bâ,,
 bà-ó-bà,southern,adv,,,,"partout, où que ce soit","everywhere, wherever",8.5,,,,,8,bà-ó-bà,,
 bàà,attested,part,,,,est-ce que (en tête de question) ; ou bien,question marker (sentence-initial); or,9.4.6 9.6.3,555,GEN.1.9,,,2,bàà,"or, whether",Bàà nuaa Hala dimul niaa ni ... ? « Dieu a-t-il vraiment dit ... ? » (GEN.3.1) ; Bàà mì vin Abraham ... ? « Cacherai-je à Abraham ... ? » (GEN.18.17). Ne pas confondre avec baa « main ».
-baa,respelled,noun,,,,prix,price,6.8.4,,,Baa (T H D),17,3,báá,,"Keita oppose Baa (ton haut) « le prix » à Baa (ton bas) « la main » ; Fallo vèè kolaa hoo nö yè baa « Monsieur, quel est le prix de ce pagne ? » (p. 59). La forme baa est dans la Bible, mais au sens de « main »."
+báà,attested,noun,,,,"prix, valeur","price, value",6.8.4,555,GEN.1.9,Baa (T H D),17,3,báá,,"Keita oppose Baa (ton haut) « le prix » à Baa (ton bas) « la main » ; Fallo vèè kolaa hoo nö yè baa « Monsieur, quel est le prix de ce pagne ? » (p. 59). La Bible écrit báà : mɛɛ cɔlu kon nɔ báà yɛ « selon le prix de l'animal » (Ex 21,34) ; powta báà kàlàla « pierres de grand prix, pierres précieuses » (Ex 25,7) ; ɲɛm báà kalan « objets de valeur » (2 R 20,13)."
 baa,attested,noun,o,balan,ba,"main, bras","hand, arm",2.1.3,555,GEN.1.9,Baa,131,2,bàá,"hand, arm; also way, fork in a road",
 baa,check,verb,,,,"attacher, accrocher","tie, hang",7.5.4,,,Baa,114,,,,"Radicaux de Keita : ba, bee. baa est très courant dans la Bible mais avec d'autres sens ; le moyen baanun « attacher » y est attesté (EXO 28,28)."
 bàà,southern,noun,,,,lundi (jour de marché à Bàà),Monday (market day at Bàà),8.4.4,,,,,3,bàà,,
@@ -482,7 +482,8 @@ còòwó,southern,noun,o,còòwáŋ,,plante à baies rouges comestibles (tiges p
 còpìó,southern,noun,o,còpìá,,écureuil (arboricole),tree squirrel,1.6.1,,,,,54,còpìó,,
 còúléŋ,southern,noun,le,còúwé,,arbre-liane à baies non comestibles (fibres pour filets),vine-like tree with inedible berries (fibre used for nets),1.5.1,,,,,54,còúléŋ,,
 còúwó,southern,noun,o,còúwá,,tique,tick,1.6.1,,,,,54,còúwó,,
-cowvo,respelled,noun,o,,,rat palmiste,ground squirrel,1.6.1,,,Tyowvo,137,54,còúwó,a large rat; opossum (Liberian English),"Dans la Bible, cowvo est un homonyme sans rapport (1SA.8.12, EXO.20.25)."
+cowvo,attested,verb,,,cow,"construire, bâtir (un autel) ; fabriquer (une idole, des armes) ; créer","build (an altar); make (an idol, weapons); create",6.5,6,EXO.20.25,,,,,,"Cow ya fondala-loamaa-lasálàlan tan ŋɔmmɛw « bâtis-moi sept autels » (Nb 23,1) ; ɲɛm cɔwvon cowvo « fabriquer des armes » (1 S 8,12) ; halaa cow halataala a lɛŋnden te « les dieux qui n'ont pas fait le ciel et la terre » (Jr 10,11). Homonyme de cowvo « rat palmiste » (Keita)."
+cowvo,respelled,noun,o,,,rat palmiste,ground squirrel,1.6.1,,,Tyowvo,137,54,còúwó,a large rat; opossum (Liberian English),"Homonyme du verbe cowvo « construire, fabriquer » de la Bible (Ex 20,25 ; 1 S 8,12)."
 coŋ,attested,verb,,,coŋnin,"se répandre, envahir, couvrir ; déborder","spread over, swarm, cover; overflow",7.3.7 1.3.2,12,EXO.8.2,,,52,còŋndó,"spill, overflow; throw away, waste",
 cóŋ-cóŋ,southern,ideo,,,,"vite, en hâte","quickly, hurriedly",9.2.8 8.4.8,,,,,51,cóŋ-cóŋ,,
 còŋgáŋcòó,southern,noun,o,còŋgáŋcòláŋ,,jeu ou acrobatie à cloche-pied,game or stunt of hopping on one leg,4.2.7,,,,,51,còŋgáŋcòó,,
@@ -987,8 +988,9 @@ hààŋndó,southern,noun,o,,,fourmi noire à piqûre douloureuse (sur les agrum
 hàkátó,southern,interj,,,,"pardon, excusez-moi",excuse me,9.2.7 4.3.7,,,,,117,hàkátó,,Emprunt mandé selon Childs.
 hakio,attested,noun,o,hakilan,haki; hakila,"péché, faute","sin, wrongdoing",4.3 4.9.5,365,GEN.4.7,,,117,hákìó,"pardon, forgiveness; sin",
 hàkɛ́ìyó,southern,noun,o,,,"chance, sort ; malchance","luck, fortune; misfortune",4.4,,,,,117,hàkɛ́ìyó,,
+hala,attested,noun,o,halaa,,"dieu, divinité","god, deity",4.9.1,6548,GEN.1,,,117,hálà,,"Nom commun : halaa celen « d'autres dieux » (Ex 20,3), hala naa « notre dieu ». Avec une majuscule, Hala est le nom de Dieu. Childs : emprunt à l'arabe (Allah), surtout en kissi de Guinée."
 Hala,attested,name,,,,Dieu,God,4.9.1,6548,GEN.1,Hala,150,117,hálà,,
-halaa,respelled,noun,,,,ciel,sky,1.1,,,Halaa,154,117,hálàá,"cloud, sky, heavens; also the name of a spirit",La Bible emploie halataala pour « ciel » (GEN.1.8) ; halaa y est le pluriel homonyme de Hala « dieu » (1CH.16.26).
+halaa,respelled,noun,,,,ciel,sky,1.1,,,Halaa,154,117,hálàá,"cloud, sky, heavens; also the name of a spirit",La Bible emploie halataala pour « ciel » (GEN.1.8) ; halaa y est le pluriel homonyme de hala « dieu » (1CH.16.26).
 hàlàkàá,southern,verb,,,,"construire, réparer grossièrement, à la va-vite","build or fix roughly, carelessly",6.5 9.1.2,,,,,117,hàlàkàá,,
 halataalaa,attested,noun,o,,halataala,ciel ; les cieux,sky; heaven,1.1 4.9.6,176,GEN.1,,,,,,
 háléé,southern,ideo,,,,(fouetter) à fond,(whip) thoroughly,9.2.8 7.7.1,,,,,117,háléé,,
@@ -1455,7 +1457,7 @@ koon vuuvo,respelled,noun,,,,jeu de cauris,cowry game,4.2.6,,,Koon vuuvo,163,,,,
 koondan,attested,verb,,,koondannin,"accrocher, faire trébucher ; saisir (le talon) ; arracher","catch, trip up; seize (by the heel); snatch away",7.3.4 7.2.1,3,PRO.3.23,,,179,kòòndǎŋndó,"get caught, entangled (middle of 'scrape off, take from')",Yakɔb koondan bɛ ndɔ pelei « Jacob saisit le talon de son frère » (HOS.12.4) ; ɲɛ-ɲɛ a keinin koondan ma del te « ton pied ne heurtera rien » (PRO.3.23) ; O koondannin nɔm « il t'arrachera » (PSA.52.7).
 koondiaa,attested,verb,,,koondiaanin,"balayer, entraîner ; ramasser","sweep away, drag along; gather up",7.3.2 7.5.1,1,REV.12.4,,,179,kòòndìá,"scrape up, take away (plural)",mó va kundaa pilɔɔ koondiaa a puile ndɔlen « sa queue entraînait le tiers des étoiles » (REV.12.4) ; vana-vana kɔ koondiaanin nɔm le « personne ne te ramassera » (EZK.29.5).
 kòòndo,attested,noun,o,kòòndoa,,épervier,"hawk, sparrowhawk",1.6.1,1,DEU.14.15,Koondo,136,,,,
-koondo,respelled,noun,,,,juin,June,8.4.4,,,Koondo,152,179,kóòndó,,Homonyme de koondo « épervier » ; nom de mois absent de la Bible.
+koondo,respelled,noun,,,,juin,June,8.4.4,,,Koondo,152,179,kóòndó,,Homonyme de kòòndo « épervier » ; nom de mois absent de la Bible.
 koongo lɔɛyaa,respelled,noun,,,,masque,mask,4.9.8,,,Koongo löèyaa,144,,,,
 koongoo,attested,noun,o,koongolan,,"paupière ; creux, cavité",eyelid; hollow,2.1.1,1,JER.52.21,Koongo lehöllo,131,,,,"« Les paupières » : hɔlta koongolan (Jb 16,16). Keita : koongo lehɔllo « la paupière »."
 kóópíá,southern,noun,o,kóópíláŋ,,hotte en rotin portée sur le dos (transport du riz),long rattan back-basket with shoulder straps (for carrying rice),6.7.3 6.7.7,,,,,179,kóópíá kóópíláŋ,,
