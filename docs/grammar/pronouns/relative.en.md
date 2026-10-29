@@ -16,6 +16,20 @@ Kisiei has no separate relative pronoun like English *who*, *which*, *that* (Fre
 | {{lɛŋnde ya co nɔm cɔm-nden}} | *lɛŋnde* [*ya co nɔm cɔm*]-*nden* | the land that I will show you [Gen 12:1](https://www.bible.com/bible/1394/GEN.12.1.BKG) |
 | {{ɲɛm vanaa kan ndáà manda le dioo-on}} | *ɲɛm* [*vanaa kan ndáà manda le dioo*]-*on* | the provisions that those people had kept to eat [Gen 14:11](https://www.bible.com/bible/1394/GEN.14.11.BKG) |
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    N["Noun, stem form<br>{{lɛŋnde}}<br>“the land”"] --> R["Clause<br>{{ya co nɔm cɔm}}<br>“I will show you”"]
+    R --> T["Class suffix<br><i>-nden</i>"]
+    T -. "same class: <i>len</i>" .-> N
+    classDef cls stroke:#d07a2a,stroke-width:3px
+    class N,T cls
+```
+
+<figcaption>The relative clause is framed by the class of the noun: {{lɛŋnde ya co nɔm cɔm-nden}} “the land that I will show you” (Gen 12:1).</figcaption>
+</figure>
+
 In the *an*, *len* and *lan* classes, the noun keeps its **class pronoun** before the relative clause ({{mɛmma}} = *mɛm-* + *ma*, {{lɛŋnde}}, {{kobila}}), as before an adjective; in the *o* class, the stem is bare ({{kɔngɔ}}). See [Noun classes](../nouns/noun-classes.md).
 
 Often a demonstrative {{hoo}} “this” or {{kon}} “that” is placed at the end of the relative clause, just before the suffix: {{Kpema ya yii hoo-o}} “the covenant that I establish” [Gen 17:7](https://www.bible.com/bible/1394/GEN.17.7.BKG), {{fonda n sim kon-ndo}} “the place where you are standing” [Gen 13:14](https://www.bible.com/bible/1394/GEN.13.14.BKG), {{dɛnɛ n tosa hoo-o}} “the thing that you have done” [Gen 3:14](https://www.bible.com/bible/1394/GEN.3.14.BKG). Southern Kissi also uses a demonstrative inside the relative clause, especially when the relativized noun is placed at the start of the sentence as the topic [[(Childs1995, p. 288-289)]].

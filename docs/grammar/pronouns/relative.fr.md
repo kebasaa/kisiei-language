@@ -16,6 +16,20 @@ Le kisiei n'a pas de pronom relatif séparé comme le français *qui*, *que*. La
 | {{lɛŋnde ya co nɔm cɔm-nden}} | *lɛŋnde* [*ya co nɔm cɔm*]-*nden* | le pays que je te montrerai [Gn 12,1](https://www.bible.com/bible/1394/GEN.12.1.BKG) |
 | {{ɲɛm vanaa kan ndáà manda le dioo-on}} | *ɲɛm* [*vanaa kan ndáà manda le dioo*]-*on* | les vivres que ces gens avaient gardés pour manger [Gn 14,11](https://www.bible.com/bible/1394/GEN.14.11.BKG) |
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    N["Nom, forme radicale<br>{{lɛŋnde}}<br>« le pays »"] --> R["Proposition<br>{{ya co nɔm cɔm}}<br>« je te montrerai »"]
+    R --> T["Terminaison de classe<br><i>-nden</i>"]
+    T -. "même classe : <i>len</i>" .-> N
+    classDef cls stroke:#d07a2a,stroke-width:3px
+    class N,T cls
+```
+
+<figcaption>La relative est encadrée par la classe du nom : {{lɛŋnde ya co nɔm cɔm-nden}} « le pays que je te montrerai » (Gn 12,1).</figcaption>
+</figure>
+
 Dans les classes *an*, *len* et *lan*, le nom garde devant la relative son **pronom de classe** ({{mɛmma}} = *mɛm-* + *ma*, {{lɛŋnde}}, {{kobila}}), comme devant un adjectif ; dans la classe *o*, le radical est nu ({{kɔngɔ}}). Voir [Classes nominales](../nouns/noun-classes.md).
 
 Souvent, un démonstratif {{hoo}} « ce…-ci » ou {{kon}} « ce…-là » se place à la fin de la relative, juste avant la terminaison : {{Kpema ya yii hoo-o}} « l'alliance que j'établis » [Gn 17,7](https://www.bible.com/bible/1394/GEN.17.7.BKG), {{fonda n sim kon-ndo}} « l'endroit où tu te tiens » [Gn 13,14](https://www.bible.com/bible/1394/GEN.13.14.BKG), {{dɛnɛ n tosa hoo-o}} « la chose que tu as faite » [Gn 3,14](https://www.bible.com/bible/1394/GEN.3.14.BKG). Le kissi du Sud emploie aussi un démonstratif à l'intérieur de la relative, surtout quand le nom relativisé est placé en tête de phrase comme thème [[(Childs1995, p. 288-289)]].

@@ -6,6 +6,17 @@ Les règles de cette page sont dégagées des textes de la Bible en kisiei [[(BK
 
 Le récit enchaîne les propositions avec {{mí}} + pronom (ton haut) : {{Mí Hala dimi aa … Mí ɲɔɔ tosan lende}} « Et Dieu dit… Et il en fut ainsi » [Gn 1,6-7](https://www.bible.com/bible/1394/GEN.1.6.BKG). Chaque nouvelle action est une proposition introduite par {{mí}}, {{mó}} ou {{má}} ; voir [Temps, aspects, modes](../verbs/tense-aspect-mood.md#le-recit-et-le-subjonctif-mi-pronom).
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    A["Une proposition<br>{{Mí Hala dimi aa …}}"] -- "{{mí}} / {{mó}} / {{má}} : ton haut" --> B["Action suivante, accomplie<br>« et (alors) … »<br>{{Mí ɲɔɔ tosan lende}}"]
+    A2["Une proposition<br>{{N cɔwnun vanacieo a velan naa}}"] -- "{{mì}} / {{mò}} / {{mà}} : ton bas" --> C["Action visée<br>« pour que, et que … »<br>{{mò vel naa}}"]
+```
+
+<figcaption>Enchaîner (ton haut) ou viser un but (ton bas) : le ton de <i>mi</i> + pronom fait la différence (Gn 1,6-7 ; Gn 1,26).</figcaption>
+</figure>
+
 ## But et conséquence
 
 | Construction | Sens | Exemple |
@@ -26,6 +37,22 @@ La condition s'ouvre par {{te}} et se ferme par {{pɛ}}, placé juste **après l
 - condition irréelle avec le pronom allongé : {{te yáà de pɛ visin}} « si j'avais mangé de la viande » [Lv 10,19](https://www.bible.com/bible/1394/LEV.10.19.BKG).
 
 Une condition négative garde {{pɛ}} et place la négation à la fin de la condition : {{Kɛ taa liila ya le, i kuenin te}} « mais si tu ne viens pas avec moi, je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* « si tu »).
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TB
+    subgraph COND["Condition"]
+        direction LR
+        T["{{te}}<br>« si »"] --> S["sujet<br>{{o}}"] --> V["verbe<br>{{de}}"] --> P["{{pɛ}}"] --> X["suite<br>{{kɔmnde yɔm kon}}"]
+    end
+    COND --> C["Conséquence<br>{{o co vannɔn yoomu le fɛɛn a fɛɛn}}"]
+    classDef mark stroke:#d07a2a,stroke-width:3px
+    class T,P mark
+```
+
+<figcaption>La condition ouverte par <i>te</i> et fermée par <i>pɛ</i> juste après le verbe, puis la conséquence (Gn 3,22).</figcaption>
+</figure>
 
 ## Temps
 

@@ -6,6 +6,17 @@ The rules on this page are drawn from the texts of the Kisiei Bible [[(BKG)]]. T
 
 Narrative links clauses together with {{mí}} + pronoun (high tone): {{Mí Hala dimi aa … Mí ɲɔɔ tosan lende}} “And God said… And it was so” [Gen 1:6-7](https://www.bible.com/bible/1394/GEN.1.6.BKG). Each new action is a clause introduced by {{mí}}, {{mó}} or {{má}}; see [Tense, aspect, mood](../verbs/tense-aspect-mood.md#narrative-and-subjunctive-mi-pronoun).
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    A["A clause<br>{{Mí Hala dimi aa …}}"] -- "{{mí}} / {{mó}} / {{má}}: high tone" --> B["Next action, completed<br>“and (then) …”<br>{{Mí ɲɔɔ tosan lende}}"]
+    A2["A clause<br>{{N cɔwnun vanacieo a velan naa}}"] -- "{{mì}} / {{mò}} / {{mà}}: low tone" --> C["Intended action<br>“so that, and may …”<br>{{mò vel naa}}"]
+```
+
+<figcaption>Linking (high tone) or aiming at a purpose (low tone): the tone of <i>mi</i> + pronoun makes the difference (Gen 1:6-7; Gen 1:26).</figcaption>
+</figure>
+
 ## Purpose and consequence
 
 | Construction | Meaning | Example |
@@ -26,6 +37,22 @@ The condition opens with {{te}} and closes with {{pɛ}}, placed just **after the
 - unreal condition with the lengthened pronoun: {{te yáà de pɛ visin}} “if I had eaten meat” [Lev 10:19](https://www.bible.com/bible/1394/LEV.10.19.BKG).
 
 A negative condition keeps {{pɛ}} and places the negation at the end of the condition: {{Kɛ taa liila ya le, i kuenin te}} “but if you do not come with me, I will not go” [Judg 4:8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* “if you”).
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TB
+    subgraph COND["Condition"]
+        direction LR
+        T["{{te}}<br>“if”"] --> S["subject<br>{{o}}"] --> V["verb<br>{{de}}"] --> P["{{pɛ}}"] --> X["rest<br>{{kɔmnde yɔm kon}}"]
+    end
+    COND --> C["Consequence<br>{{o co vannɔn yoomu le fɛɛn a fɛɛn}}"]
+    classDef mark stroke:#d07a2a,stroke-width:3px
+    class T,P mark
+```
+
+<figcaption>The condition opened by <i>te</i> and closed by <i>pɛ</i> right after the verb, then the consequence (Gen 3:22).</figcaption>
+</figure>
 
 ## Time
 
