@@ -12,7 +12,7 @@
 - {lemma: ke, status: attested, pos: verb, forms: [keo, kenin], gloss: {fr: donner ; (ke diolan) nommer, en: give; (ke diolan) name}, domains: [7.4.1], example: GEN.1.5}
 - {lemma: cuuo, status: attested, pos: verb, forms: [cuu, cuunin], gloss: {fr: 'apporter, amener', en: bring}, domains: [7.3.3], example: GEN.27.5, childs: {page: 69, form: cùùwó, sense: bring; give someone a present}}
 - {lemma: fula, status: attested, pos: verb, forms: [fulanin, fulan], gloss: {fr: 'sortir ; venir de, provenir', en: 'go out, come out; come from'}, domains: [7.2.3], example: GEN.1.6, childs: {page: 111, form: fùlàá, sense: 'go or come out, leave; also shine (sun), beat (heart); resemble'}}
-- {lemma: faŋanndo, status: attested, pos: verb, forms: [faŋan, faŋannin, faŋanin], gloss: {fr: 'quitter, s''en aller de', en: 'leave, depart from'}, domains: [7.2.3], example: GEN.2.24}
+- {lemma: faŋanndo, status: attested, pos: verb, forms: [faŋan, faŋannin, faŋanin, feŋan, feŋannin], gloss: {fr: 'quitter, s''en aller de', en: 'leave, depart from'}, domains: [7.2.3], example: GEN.2.24, childs: {page: 98, form: fàŋăŋndó}}
 - {lemma: faŋa, status: attested, pos: verb, gloss: {fr: 'chasser, expulser', en: 'drive out, expel'}, domains: [7.3.2], example: GEN.4.14}
 - {lemma: hivi, status: attested, pos: verb, forms: [hivia], gloss: {fr: 'faire passer, livrer, remettre', en: 'hand over, deliver to'}, domains: [7.4.1], example: MAT.5.25, note: Causatif de hiovɔɔ « passer »., childs: {page: 125, form: hììwìó, sense: lift over; circumcise; translate}}
 - {lemma: helɔɔ, status: attested, pos: verb, forms: [hel, helnin], gloss: {fr: monter ; hauteur, en: 'go up, climb; height'}, domains: [7.2.2, 8.2.2], example: GEN.6.16, childs: {page: 120, form: hèlɔ̀ɔ́, sense: 'climb, go up, rise; also mount, breed (animals)'}}
@@ -43,7 +43,7 @@
 - {lemma: cɔvɔɔ, status: attested, pos: verb, forms: [cɔw, cɔaw], gloss: {fr: 'faire, fabriquer ; créer', en: make; create}, domains: [9.1.2, '1'], example: GEN.1.1}
 - {lemma: cɔwnun, status: attested, pos: verb, forms: [cownun], gloss: {fr: 'faire (pour soi), façonner ; être fait', en: 'make (for oneself), fashion; be made'}, domains: [9.1.2], example: GEN.1.26, note: Moyen de cɔvɔɔ « faire ».}
 - {lemma: baŋɔɔ, status: attested, pos: verb, forms: [baŋ, baŋnin], gloss: {fr: 'dresser, bâtir, fixer ; (baŋ vulan) s''agenouiller, se prosterner', en: 'set up, build, fix; (baŋ vulan) kneel, bow down'}, domains: ['6.5', 7.1.5], example: GEN.17.3}
-- {lemma: baŋnun, status: attested, pos: verb, gloss: {fr: bâtir (pour soi) ; être bâti, en: build (for oneself); be built}, domains: ['6.5'], example: GEN.11.4, note: Moyen de baŋɔɔ.}
+- {lemma: baŋnun, status: attested, pos: verb, gloss: {fr: 'bâtir (pour soi) ; être bâti ; insister, presser (quelqu''un)', en: 'build (for oneself); be built; insist, urge'}, domains: ['6.5'], example: GEN.11.4, note: Moyen de baŋɔɔ.}
 - {lemma: baŋa, status: attested, pos: verb, gloss: {fr: 'sauver, délivrer', en: 'save, deliver'}, domains: ['4.4', 4.9.5], example: GEN.32.12, childs: {page: 7, form: bàŋàá, sense: 'release, free, redeem'}}
 - {lemma: baŋan, status: attested, pos: verb, forms: [baŋanin, baŋanndo], gloss: {fr: 'être sauvé, être racheté', en: 'be saved, be redeemed'}, domains: ['4.4'], example: LEV.25.49, note: Moyen de baŋa « sauver »., childs: {page: 8, form: bàŋǎŋndó}}
 - {lemma: ciindiaa, status: attested, pos: verb, forms: [ciindiaanin], gloss: {fr: 'sauver, secourir', en: 'save, rescue'}, domains: ['4.4'], example: GEN.6.18, childs: {page: 48, form: cìndàá, sense: 'wean (a child); survive, make survive, rescue'}}
@@ -72,7 +72,7 @@
 - {lemma: cɛɛŋɔnndo, status: attested, pos: verb, forms: [cɛɛŋun, cɛɛŋɔnnda], gloss: {fr: 'supplier, implorer ; supplication', en: 'plead, beseech; supplication'}, domains: [3.3.2, 4.9.5], example: GEN.41.55}
 - {lemma: kui, status: attested, pos: verb, forms: [kuinin], gloss: {fr: 'se multiplier, devenir nombreux', en: 'multiply, increase'}, domains: [8.1.4], example: GEN.1.22}
 - {lemma: cɔɔlu, status: attested, pos: verb, forms: [cɔɔlunin], gloss: {fr: 'ajouter, augmenter ; continuer, faire de nouveau', en: 'add, increase; continue, do again'}, domains: [8.1.4, 8.4.6], example: GEN.9.12}
-- {lemma: hɛlun, status: attested, pos: verb, gloss: {fr: 'échapper, survivre', en: 'escape, survive'}, domains: ['4.4'], example: JOB.1.17}
+- {lemma: hɛlun, status: attested, pos: verb, gloss: {fr: 'échapper, survivre', en: 'escape, survive'}, domains: ['4.4'], example: JOB.1.17, forms: [helun, helunnin]}
 - {lemma: hiw, status: attested, pos: verb, forms: [hiwnin], gloss: {fr: dépasser (une limite), en: 'exceed, go beyond'}, domains: [8.1.4], example: GEN.6.3}
 - {lemma: kunga, status: attested, pos: verb, gloss: {fr: 'clôturer, entourer', en: 'enclose, fence in'}, domains: ['6.5', 7.3.7], example: EXO.27.9, childs: {page: 196, form: kùŋgàá}}
 - {lemma: kili, status: attested, pos: verb, gloss: {fr: 'couper, trancher', en: 'cut, cut off'}, domains: [7.8.3], example: 2SA.14.26, childs: {page: 166, form: kìlìó, sense: 'cut many things, cut into small pieces'}}
