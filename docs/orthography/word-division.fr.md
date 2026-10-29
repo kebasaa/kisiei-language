@@ -70,3 +70,21 @@ Le préfixe nasal *n'* s'attache par une apostrophe au mot qui suit : {{n'van t�
 | composé | trait d'union (ou un seul mot si lexicalisé) | {{fuɲa-mamaa}} |
 | redoublement | trait d'union | {{taw-taw}} |
 | mots grammaticaux | mots séparés | {{O co kɛndia le}} |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    S["Un mot ou un groupe de mots"] --> Q1{"Mot grammatical ?<br>(pronom, auxiliaire, particule)"}
+    Q1 -- oui --> A1["Mots séparés<br>{{O co kɛndia le}}"]
+    Q1 -- non --> Q2{"Mot redoublé<br>ou composé ?"}
+    Q2 -- oui --> A2["Trait d'union<br>{{taw-taw}}, {{fuɲa-mamaa}}"]
+    Q2 -- non --> Q3{"Nom suivi<br>d'un déterminant ?"}
+    Q3 -- oui --> A3["Forme radicale + espace<br>{{cɛi kon}}"]
+    Q3 -- non --> Q4{"Groupe fermé<br>par un référent ?"}
+    Q4 -- oui --> A4["Trait d'union devant le référent<br>{{fula-o}}"]
+    Q4 -- non --> A5["Forme pleine, en un mot<br>{{cɛiyo}}"]
+```
+
+<figcaption>Attaché, trait d'union ou séparé ? Le même résumé sous forme de questions.</figcaption>
+</figure>

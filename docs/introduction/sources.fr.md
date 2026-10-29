@@ -35,4 +35,22 @@ Pour chaque point de grammaire :
 3. on garde la règle si la Bible la confirme, on la corrige si elle la contredit, et on la complète avec ce que la Bible montre en plus ;
 4. on choisit les exemples dans la Bible, avec leur référence ; les exemples de Keita ne servent que lorsque la Bible n'a rien d'équivalent.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    K["Règle décrite par Keita (1979)"] --> B["Recherche des formes dans la Bible<br>(concordance)"]
+    B --> Q{"Que montre la Bible ?"}
+    Q -- "elle la confirme" --> G["On garde la règle"]
+    Q -- "elle la contredit" --> C["On corrige la règle"]
+    Q -- "elle montre davantage" --> P["On complète la règle"]
+    G --> E["Exemples tirés de la Bible,<br>avec leur référence"]
+    C --> E
+    P --> E
+    CH["Childs (1995, 2000) :<br>comparaison avec le kissi du Sud"] -.-> Q
+```
+
+<figcaption>La méthode suivie pour chaque point de grammaire. La Bible tranche ; Childs sert de comparaison.</figcaption>
+</figure>
+
 Les points que ni l'une ni l'autre source ne permet de trancher sont réunis dans les [questions ouvertes](../reference/open-questions.md).

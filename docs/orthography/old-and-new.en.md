@@ -59,6 +59,23 @@ The typed manual contains typing errors and some forms specific to the author's 
 4. Add tone accents on the small words that carry them.
 5. Mark the words you have not found as “to be confirmed”.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    T["1979 text<br><i>Tyuaa, Nhömpum, Lènnden</i>"] --> S1["1. Replace <i>ty, nh, ny, è, ö</i><br>with <i>c, ŋ, ɲ, ɛ, ɔ</i>"]
+    S1 --> Q{"2. Is the word in the Bible<br>or in the lexicon?"}
+    Q -- yes --> F["Take that form<br>(watch <i>n</i> / <i>ŋ</i> and vowel length)"]
+    Q -- no --> M["5. Mark the word<br>“to be confirmed”"]
+    F --> S3["3. Rewrite relatives<br>with the hyphen"]
+    M --> S3
+    S3 --> S4["4. Tone accents<br>on the small words"]
+    S4 --> R["Text in the current spelling<br>{{cuaa}}, {{ŋɔmpum}}, {{lɛŋnden}}"]
+```
+
+<figcaption>The steps for respelling a 1979 text.</figcaption>
+</figure>
+
 ### Example
 
 | 1979 | New spelling | Meaning |

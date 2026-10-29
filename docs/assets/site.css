@@ -86,6 +86,17 @@
 .md-content:has(.ks-letters) h2[id] { scroll-margin-top: 7rem; }
 .md-typeset .ks-src { font-size: .85em; color: var(--md-default-fg-color--light); white-space: nowrap; }
 
+/* Diagrams: Mermaid blocks and inline SVG figures (<figure class="ks-figure">) */
+.md-typeset .mermaid { text-align: center; margin: 1em 0; }
+.md-typeset .ks-figure { margin: 1.2em auto; text-align: center; }
+.md-typeset .ks-figure svg { width: 100%; height: auto; color: var(--md-default-fg-color); font-family: var(--md-text-font-family); }
+.md-typeset .ks-figure figcaption { margin-top: .4em; font-size: .8rem; font-style: italic; color: var(--md-default-fg-color--light); max-width: none; }
+.md-typeset .ks-figure .accent { fill: var(--md-accent-fg-color); }
+.md-typeset .ks-figure .primary { fill: var(--md-primary-fg-color); }
+.md-typeset .ks-figure .muted { fill: var(--md-default-fg-color--light); }
+.md-typeset .ks-figure .line { stroke: currentColor; fill: none; }
+.md-typeset .ks-figure .box { fill: var(--ks-box-bg, transparent); stroke: var(--md-default-fg-color--lighter); }
+
 /* Bible references and citations */
 .md-typeset a.bref, .md-typeset a.cite { white-space: nowrap; }
 

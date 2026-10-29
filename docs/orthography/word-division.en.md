@@ -70,3 +70,21 @@ The nasal prefix *n'* is attached by an apostrophe to the following word: {{n'va
 | compound | hyphen (or a single word if lexicalised) | {{fuɲa-mamaa}} |
 | reduplication | hyphen | {{taw-taw}} |
 | grammatical words | separate words | {{O co kɛndia le}} |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    S["A word or a group of words"] --> Q1{"A grammatical word?<br>(pronoun, auxiliary, particle)"}
+    Q1 -- yes --> A1["Separate words<br>{{O co kɛndia le}}"]
+    Q1 -- no --> Q2{"A reduplicated<br>or compound word?"}
+    Q2 -- yes --> A2["Hyphen<br>{{taw-taw}}, {{fuɲa-mamaa}}"]
+    Q2 -- no --> Q3{"A noun followed<br>by a determiner?"}
+    Q3 -- yes --> A3["Radical form + space<br>{{cɛi kon}}"]
+    Q3 -- no --> Q4{"A group closed<br>by a referent?"}
+    Q4 -- yes --> A4["Hyphen before the referent<br>{{fula-o}}"]
+    Q4 -- no --> A5["Full form, one word<br>{{cɛiyo}}"]
+```
+
+<figcaption>Joined, hyphenated or separate? The same summary as a series of questions.</figcaption>
+</figure>

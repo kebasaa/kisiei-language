@@ -141,7 +141,8 @@ def on_page_markdown(markdown, page, config, files):
     lang = _locale(page)
     missing = []
 
-    def kisiei(m):
+    def checked(m):
+        """Return (text, status) of a {{...}} example, recording words missing from the Bible list."""
         # inside Markdown tables the separator is written "\|"
         text, _, flag = m.group(1).replace("\\|", "|").partition("|")
         flag = flag.strip()
@@ -152,9 +153,19 @@ def on_page_markdown(markdown, page, config, files):
             bad = [w for w in WORD_RE.findall(text) if not attested(w)]
             if bad:
                 missing.append(f"{text} ({', '.join(bad)})")
+        return text, status
+
+    def kisiei(m):
+        text, status = checked(m)
         title = TITLES[lang][status]
         return f'<span class="ks ks-{status}" title="{title}">{text}</span>'
 
+    # Mermaid diagrams: the words are checked the same way but written as plain italics,
+    # since the diagram source is not Markdown (Mermaid's own {{hexagon}} shape is therefore not usable)
+    def mermaid(m):
+        return re.sub(r"\{\{([^{}\n]+?)\}\}", lambda w: f"<i>{checked(w)[0]}</i>", m.group(0))
+
+    markdown = re.sub(r"^```mermaid\n.*?^```", mermaid, markdown, flags=re.S | re.M)
     markdown = re.sub(r"\{\{([^{}\n]+?)\}\}", kisiei, markdown)
     if missing:
         raise PluginError(f"{src}: not in the Bible word list (mark with |r or |?): " + "; ".join(missing))

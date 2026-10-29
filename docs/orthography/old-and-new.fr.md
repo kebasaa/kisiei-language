@@ -59,6 +59,23 @@ Le manuel dactylographié contient des fautes de frappe et quelques formes propr
 4. Ajouter les accents de ton sur les petits mots qui en portent.
 5. Marquer comme « à confirmer » les mots que l'on n'a pas trouvés.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    T["Texte de 1979<br><i>Tyuaa, Nhömpum, Lènnden</i>"] --> S1["1. Remplacer <i>ty, nh, ny, è, ö</i><br>par <i>c, ŋ, ɲ, ɛ, ɔ</i>"]
+    S1 --> Q{"2. Le mot est-il dans la Bible<br>ou dans le lexique ?"}
+    Q -- oui --> F["Prendre cette forme<br>(attention à <i>n</i> / <i>ŋ</i> et à la longueur)"]
+    Q -- non --> M["5. Marquer le mot<br>« à confirmer »"]
+    F --> S3["3. Réécrire les relatifs<br>avec le trait d'union"]
+    M --> S3
+    S3 --> S4["4. Accents de ton<br>sur les petits mots"]
+    S4 --> R["Texte en orthographe actuelle<br>{{cuaa}}, {{ŋɔmpum}}, {{lɛŋnden}}"]
+```
+
+<figcaption>Les étapes de la réécriture d'un texte de 1979.</figcaption>
+</figure>
+
 ### Exemple
 
 | 1979 | Nouvelle orthographe | Sens |

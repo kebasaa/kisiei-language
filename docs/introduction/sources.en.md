@@ -35,4 +35,22 @@ For each point of grammar:
 3. keep the rule if the Bible confirms it, correct it if the Bible contradicts it, and complete it with what else the Bible shows;
 4. choose the examples from the Bible, with their reference; Keita's examples are used only when the Bible has nothing equivalent.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    K["Rule described by Keita (1979)"] --> B["Search for the forms in the Bible<br>(concordance)"]
+    B --> Q{"What does the Bible show?"}
+    Q -- "it confirms the rule" --> G["Keep the rule"]
+    Q -- "it contradicts it" --> C["Correct the rule"]
+    Q -- "it shows more" --> P["Complete the rule"]
+    G --> E["Examples taken from the Bible,<br>with their reference"]
+    C --> E
+    P --> E
+    CH["Childs (1995, 2000):<br>comparison with Southern Kissi"] -.-> Q
+```
+
+<figcaption>The method followed for each point of grammar. The Bible decides; Childs serves for comparison.</figcaption>
+</figure>
+
 Points that neither source can settle are collected in the [open questions](../reference/open-questions.md).

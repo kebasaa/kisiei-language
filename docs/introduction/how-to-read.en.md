@@ -12,6 +12,33 @@ All Kisiei words and sentences are in *underlined italics*. The colour and style
 | {{húó\|s}} | <span class="ks-badge ks-south">Southern Kissi</span> | A word known only from the Southern Kissi dictionary [[(Childs2000)]], not attested in the North; it is spelled as Childs writes it. To be checked for Guinean Kisiei. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">To check</span> | The form or meaning is uncertain: hard-to-read handwritten note, a word found only once, etc. |
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    Q1{"Is every word<br>in the Bible?"} -- yes --> ATT["Attested"]
+    Q1 -- no --> Q2{"Has a speaker confirmed<br>the form and meaning?"}
+    Q2 -- yes --> CONF["Confirmed"]
+    Q2 -- no --> Q3{"Does the word come<br>from the 1979 manual?"}
+    Q3 -- yes --> RES["Respelled"]
+    Q3 -- no --> Q4{"Is it known only<br>from Southern Kissi?"}
+    Q4 -- yes --> SOUTH["Southern Kissi"]
+    Q4 -- no --> CHK["To check"]
+    classDef att stroke:#2e9e63,stroke-width:3px
+    classDef conf stroke:#4a86d6,stroke-width:3px
+    classDef res stroke:#d07a2a,stroke-width:3px
+    classDef south stroke:#9b62c4,stroke-width:3px
+    classDef chk stroke:#d9534f,stroke-width:3px
+    class ATT att
+    class CONF conf
+    class RES res
+    class SOUTH south
+    class CHK chk
+```
+
+<figcaption>How an example gets its mark. At any step, an uncertain form or meaning is marked “To check”.</figcaption>
+</figure>
+
 The status is **checked automatically** every time the site is built: an example marked “attested” containing a word that is not in the list of Bible words makes the build fail (see [Tools](../sources/tools.md)).
 
 ## References

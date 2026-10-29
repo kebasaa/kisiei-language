@@ -12,6 +12,33 @@ Tous les mots et phrases kisiei sont en *italique soulignée*. La couleur et le 
 | {{húó\|s}} | <span class="ks-badge ks-south">Kissi du Sud</span> | Mot connu seulement par le dictionnaire du kissi du Sud [[(Childs2000)]], sans attestation au Nord ; il est écrit comme Childs l'écrit. À vérifier pour le kisiei de Guinée. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">À vérifier</span> | La forme ou le sens est incertain : note manuscrite peu lisible, mot que l'on n'a trouvé qu'une fois, etc. |
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    Q1{"Chaque mot est-il<br>dans la Bible ?"} -- oui --> ATT["Attesté"]
+    Q1 -- non --> Q2{"Un locuteur a-t-il confirmé<br>la forme et le sens ?"}
+    Q2 -- oui --> CONF["Confirmé"]
+    Q2 -- non --> Q3{"Le mot vient-il<br>du manuel de 1979 ?"}
+    Q3 -- oui --> RES["Réécrit"]
+    Q3 -- non --> Q4{"Est-il connu seulement<br>par le kissi du Sud ?"}
+    Q4 -- oui --> SOUTH["Kissi du Sud"]
+    Q4 -- non --> CHK["À vérifier"]
+    classDef att stroke:#2e9e63,stroke-width:3px
+    classDef conf stroke:#4a86d6,stroke-width:3px
+    classDef res stroke:#d07a2a,stroke-width:3px
+    classDef south stroke:#9b62c4,stroke-width:3px
+    classDef chk stroke:#d9534f,stroke-width:3px
+    class ATT att
+    class CONF conf
+    class RES res
+    class SOUTH south
+    class CHK chk
+```
+
+<figcaption>Comment un exemple reçoit sa marque. À toute étape, une forme ou un sens incertain est marqué « À vérifier ».</figcaption>
+</figure>
+
 Le statut est **vérifié automatiquement** à chaque construction du site : un exemple marqué « attesté » dont un mot ne figure pas dans la liste des mots de la Bible fait échouer la construction (voir [Outils](../sources/tools.md)).
 
 ## Références
