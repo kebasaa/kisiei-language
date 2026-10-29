@@ -1,0 +1,185 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
+  "dc:title": "Kisiei (Northern Kissi) lexicon",
+  "dc:description": "Lexicon of Kisiei (Northern Kissi, Guinea), spelled after the Kisiei Bible (BKG), classified by SIL Semantic Domains, with glosses in French and English.",
+  "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "dc:source": "sources.bib",
+  "dc:identifier": "https://github.com/kebasaa/kisiei-language",
+  "tables": [
+    {
+      "url": "languages.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "datatype": {
+              "base": "string",
+              "format": "[a-zA-Z0-9_\\-]+"
+            },
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Name",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name"
+          },
+          {
+            "name": "Glottocode",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode"
+          },
+          {
+            "name": "ISO639P3code",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code"
+          }
+        ],
+        "primaryKey": [
+          "ID"
+        ]
+      }
+    },
+    {
+      "url": "entries.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "datatype": {
+              "base": "string",
+              "format": "[a-zA-Z0-9_\\-]+"
+            },
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Language_ID",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference"
+          },
+          {
+            "name": "Headword",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#headword"
+          },
+          {
+            "name": "Part_Of_Speech",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#partOfSpeech"
+          },
+          {
+            "name": "Status",
+            "datatype": "string",
+            "dc:description": "attested (in the Bible), confirmed (by a speaker), respelled (from Keita 1979), check, or southern (Childs 2000 only)"
+          },
+          {
+            "name": "Noun_Class",
+            "datatype": "string"
+          },
+          {
+            "name": "Plural",
+            "datatype": "string"
+          },
+          {
+            "name": "Variants",
+            "datatype": "string",
+            "separator": ";"
+          }
+        ],
+        "primaryKey": [
+          "ID"
+        ],
+        "foreignKeys": [
+          {
+            "columnReference": [
+              "Language_ID"
+            ],
+            "reference": {
+              "resource": "languages.csv",
+              "columnReference": [
+                "ID"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "url": "senses.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "datatype": {
+              "base": "string",
+              "format": "[a-zA-Z0-9_\\-]+"
+            },
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Entry_ID",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference"
+          },
+          {
+            "name": "Description",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description"
+          },
+          {
+            "name": "Source",
+            "datatype": "string",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            "separator": ";"
+          },
+          {
+            "name": "Description_French",
+            "datatype": "string"
+          },
+          {
+            "name": "Semantic_Domain",
+            "datatype": "string",
+            "separator": ";"
+          },
+          {
+            "name": "Southern_Kissi_Sense",
+            "datatype": "string"
+          },
+          {
+            "name": "Bible_Count",
+            "datatype": "integer"
+          },
+          {
+            "name": "Example_Reference",
+            "datatype": "string",
+            "dc:description": "USFM reference of a Bible verse (BKG)"
+          }
+        ],
+        "primaryKey": [
+          "ID"
+        ],
+        "foreignKeys": [
+          {
+            "columnReference": [
+              "Entry_ID"
+            ],
+            "reference": {
+              "resource": "entries.csv",
+              "columnReference": [
+                "ID"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

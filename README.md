@@ -60,6 +60,7 @@ The Bible text itself is **not** stored in the repository. The tools download it
 | --- | --- |
 | `docs/` | The guide-book pages (`page.fr.md` and `page.en.md` side by side), the bibliography `references.bib` and the site stylesheet. |
 | `tools/` | MkDocs hook (example checking, citations, Bible links), Bible download and word-list tools, translation check. |
+| `lexicon/` | The lexicon: source entries in `entries/*.yaml`, and generated exports as CSV and TSV (`kisiei.csv`, `kisiei.tsv`), LIFT (`kisiei.lift`, for FieldWorks) and a CLDF Dictionary (`cldf/`). See [`lexicon/README.md`](lexicon/README.md). |
 | `references/bible-bkg-wordforms.tsv` | Word forms of the Kisiei Bible, used to check the examples. |
 | [`archive/kissie fondamental (original scan).pdf`](archive/kissie%20fondamental%20(original%20scan).pdf) | Scan (189 pages) of Sékou Sondo Keita's 1979 thesis (Institut Polytechnique Gamal Abdel Nasser de Conakry): phonetics, grammar, conjugation, syntax and a Kisiei–French lexicon, in French and Kisiei, old orthography. |
 | [`archive/kissie fondamental (transcription).md`](archive/kissie%20fondamental%20(transcription).md) | Complete Markdown transcription of the scan, in the original orthography, with handwritten corrections inline. |

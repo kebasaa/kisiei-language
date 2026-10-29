@@ -5,7 +5,9 @@
 """Validate the Kisiei lexicon (lexicon/entries/*.yaml) and export it.
 
 Outputs:
-  lexicon/kisiei.csv              one row per entry (UTF-8, comma-separated)
+  lexicon/kisiei.csv              one row per entry, headword first (UTF-8, comma-separated)
+  lexicon/kisiei.tsv              the same table, tab-separated
+  lexicon/cldf/                   CLDF Dictionary module (entries, senses, languages, sources)
   lexicon/kisiei.lift             LIFT 0.13 XML, importable into FieldWorks / Lexique Pro
   docs/reference/dictionary.{fr,en}.md     alphabetical dictionary, Kisiei-French / Kisiei-English
   docs/reference/reverse-index.{fr,en}.md  French-Kisiei / English-Kisiei index
@@ -136,21 +138,136 @@ def sort_key(e):
     return key(str(e["lemma"]))
 
 
-def export_csv(entries, words):
+TABLE_COLUMNS = ["headword", "status", "part_of_speech", "noun_class", "plural", "other_forms", "gloss_fr",
+                 "gloss_en", "semantic_domains", "southern_kissi_sense", "bible_count", "bible_example",
+                 "keita_form", "keita_page", "childs_form", "childs_page", "note"]
+
+
+def export_table(entries, domains, words, delimiter):
+    """The lexicon as one row per entry, in Kisiei alphabetical order (kisiei.csv and kisiei.tsv)."""
     out = io.StringIO()
-    w = csv.writer(out, lineterminator="\n")
-    w.writerow(["lemma", "status", "pos", "class", "plural", "forms", "gloss_fr", "gloss_en",
-                "domains", "bible_count", "bible_ref", "keita_form", "keita_page", "childs_page",
-                "childs_form", "southern_sense_en", "note"])
-    for e in sorted(entries, key=sort_key):
+    w = csv.writer(out, delimiter=delimiter, lineterminator="\n")
+    w.writerow(TABLE_COLUMNS)
+    for e in sorted(entries, key=lambda e: (kisiei_sort(str(e["lemma"])), str(e["lemma"]), e["pos"])):
         b = bible_info(e, words)
         kt, ch = e.get("keita") or {}, e.get("childs") or {}
-        w.writerow([e["lemma"], e["status"], e["pos"], e.get("class", ""), e.get("plural", ""),
-                    "; ".join(map(str, e.get("forms") or [])), e["gloss"]["fr"], e["gloss"]["en"],
-                    " ".join(map(str, e["domains"])), b[0] if b else "", b[1] if b else "",
-                    kt.get("form", ""), kt.get("page", ""), ch.get("page", ""), ch.get("form", ""),
-                    ch.get("sense", ""), e.get("note", "")])
+        doms = " | ".join(f"{d} {domains[str(d)]['en']} / {domains[str(d)]['fr']}" for d in e["domains"])
+        row = [e["lemma"], e["status"], e["pos"], e.get("class", ""), e.get("plural", ""),
+               "; ".join(map(str, e.get("forms") or [])), e["gloss"]["fr"], e["gloss"]["en"], doms,
+               ch.get("sense", ""), b[0] if b else "", (e.get("example") or b[1]) if b else e.get("example", ""),
+               kt.get("form", ""), kt.get("page", ""), ch.get("form", ""), ch.get("page", ""), e.get("note", "")]
+        w.writerow([str(x).replace("\t", " ") for x in row])
     return out.getvalue()
+
+
+# CLDF Dictionary module (https://cldf.clld.org), written with the standard library only.
+CLDF = "http://cldf.clld.org/v1.0/terms.rdf#"
+LANGUAGE = {"ID": "kisiei", "Name": "Kisiei (Northern Kissi)", "Glottocode": "nort2765", "ISO639P3code": "kqs"}
+CLDF_SOURCES = ["BKG", "Keita1979", "Childs2000"]
+SLUG = {"ɛ": "eh", "ɔ": "oh", "ŋ": "ng", "ɲ": "ny"}
+
+
+def slug(lemma):
+    s = "".join(SLUG.get(c, c) for c in key(str(lemma)))
+    return re.sub(r"[^a-z0-9-]+", "_", s).strip("_-") or "x"
+
+
+def cldf_ids(entries):
+    """Stable entry IDs: ASCII headword + part of speech, -2, -3 for homographs (in sorted order)."""
+    ids, seen = {}, {}
+    for e in sorted(entries, key=lambda e: (kisiei_sort(str(e["lemma"])), str(e["lemma"]), e["pos"], e["gloss"]["en"])):
+        base = f"{slug(e['lemma'])}-{e['pos']}"
+        seen[base] = seen.get(base, 0) + 1
+        ids[id(e)] = base if seen[base] == 1 else f"{base}-{seen[base]}"
+    return ids
+
+
+def cldf_metadata():
+    def col(name, prop=None, **kw):
+        c = {"name": name, "datatype": kw.pop("datatype", "string")}
+        if prop:
+            c["propertyUrl"] = CLDF + prop
+        c.update(kw)
+        return c
+    ident = {"base": "string", "format": "[a-zA-Z0-9_\\-]+"}
+    return {
+        "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+        "dc:conformsTo": CLDF + "Dictionary",
+        "dc:title": "Kisiei (Northern Kissi) lexicon",
+        "dc:description": "Lexicon of Kisiei (Northern Kissi, Guinea), spelled after the Kisiei Bible (BKG), "
+                          "classified by SIL Semantic Domains, with glosses in French and English.",
+        "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "dc:source": "sources.bib",
+        "dc:identifier": "https://github.com/kebasaa/kisiei-language",
+        "tables": [
+            {"url": "languages.csv", "dc:conformsTo": CLDF + "LanguageTable", "tableSchema": {
+                "columns": [col("ID", "id", datatype=ident), col("Name", "name"), col("Glottocode", "glottocode"),
+                            col("ISO639P3code", "iso639P3code")],
+                "primaryKey": ["ID"]}},
+            {"url": "entries.csv", "dc:conformsTo": CLDF + "EntryTable", "tableSchema": {
+                "columns": [col("ID", "id", datatype=ident), col("Language_ID", "languageReference"),
+                            col("Headword", "headword"), col("Part_Of_Speech", "partOfSpeech"),
+                            col("Status", **{"dc:description": "attested (in the Bible), confirmed (by a speaker), "
+                                             "respelled (from Keita 1979), check, or southern (Childs 2000 only)"}),
+                            col("Noun_Class"), col("Plural"), col("Variants", separator=";")],
+                "primaryKey": ["ID"],
+                "foreignKeys": [{"columnReference": ["Language_ID"],
+                                 "reference": {"resource": "languages.csv", "columnReference": ["ID"]}}]}},
+            {"url": "senses.csv", "dc:conformsTo": CLDF + "SenseTable", "tableSchema": {
+                "columns": [col("ID", "id", datatype=ident), col("Entry_ID", "entryReference"),
+                            col("Description", "description"), col("Source", "source", separator=";"),
+                            col("Description_French"), col("Semantic_Domain", separator=";"),
+                            col("Southern_Kissi_Sense"), col("Bible_Count", datatype="integer"),
+                            col("Example_Reference", **{"dc:description": "USFM reference of a Bible verse (BKG)"})],
+                "primaryKey": ["ID"],
+                "foreignKeys": [{"columnReference": ["Entry_ID"],
+                                 "reference": {"resource": "entries.csv", "columnReference": ["ID"]}}]}},
+        ],
+    }
+
+
+def export_cldf(entries, words):
+    """Return {file name: content} for lexicon/cldf/."""
+    import json
+
+    def table(header, rows):
+        out = io.StringIO()
+        w = csv.writer(out, lineterminator="\n")
+        w.writerow(header)
+        w.writerows(rows)
+        return out.getvalue()
+    ids = cldf_ids(entries)
+    ordered = sorted(entries, key=lambda e: ids[id(e)])
+    erows, srows = [], []
+    for e in ordered:
+        b = bible_info(e, words)
+        kt, ch = e.get("keita") or {}, e.get("childs") or {}
+        src = []
+        if b:
+            src.append(f"BKG[{e.get('example') or b[1]}]")
+        if kt:
+            src.append(f"Keita1979[{kt['page']}]" if kt.get("page") else "Keita1979")
+        if ch:
+            src.append(f"Childs2000[{ch['page']}]" if ch.get("page") else "Childs2000")
+        forms = [str(f) for f in e.get("forms") or []]
+        erows.append([ids[id(e)], LANGUAGE["ID"], e["lemma"], e["pos"], e["status"], e.get("class", ""),
+                      e.get("plural", ""), ";".join(f.replace(";", ",") for f in forms)])
+        srows.append([ids[id(e)] + "-s1", ids[id(e)], e["gloss"]["en"], ";".join(src), e["gloss"]["fr"],
+                      ";".join(map(str, e["domains"])), ch.get("sense", ""), b[0] if b else "",
+                      e.get("example") or (b[1] if b else "")])
+    bib = (ROOT / "docs" / "references.bib").read_text(encoding="utf-8")
+    entries_bib = [m.group(0) for m in re.finditer(r"^@\w+\{(\w+),.*?^\}", bib, flags=re.S | re.M)
+                   if m.group(1) in CLDF_SOURCES]
+    assert len(entries_bib) == len(CLDF_SOURCES), "CLDF sources missing from docs/references.bib"
+    return {
+        "Dictionary-metadata.json": json.dumps(cldf_metadata(), ensure_ascii=False, indent=2) + "\n",
+        "languages.csv": table(list(LANGUAGE), [list(LANGUAGE.values())]),
+        "entries.csv": table(["ID", "Language_ID", "Headword", "Part_Of_Speech", "Status", "Noun_Class",
+                              "Plural", "Variants"], erows),
+        "senses.csv": table(["ID", "Entry_ID", "Description", "Source", "Description_French", "Semantic_Domain",
+                             "Southern_Kissi_Sense", "Bible_Count", "Example_Reference"], srows),
+        "sources.bib": "\n\n".join(entries_bib) + "\n",
+    }
 
 
 def export_lift(entries, domains, words):
@@ -208,7 +325,7 @@ TEXT = {
                "<span class=\"ks-badge ks-res\">Réécrit</span> viennent de la description de 1979 et doivent être "
                "confirmés ; les mots <span class=\"ks-badge ks-south\">kissi du Sud</span> ne sont connus que par le "
                "dictionnaire du kissi du Sud (Childs 2000) : ils ne sont pas attestés au Nord et sont écrits tels que Childs les note. "
-               "Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
+               "Le lexique est aussi disponible aux formats CSV, TSV, LIFT (pour FieldWorks) et CLDF.")},
     "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
            "src": "Source", "intro": (
                "These lists are generated automatically from the project's [lexicon](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) "
@@ -219,7 +336,7 @@ TEXT = {
                "<span class=\"ks-badge ks-res\">Respelled</span> words come from the 1979 description and still need "
                "confirmation; <span class=\"ks-badge ks-south\">Southern Kissi</span> words are known only from the "
                "Southern Kissi dictionary (Childs 2000): they are not attested in the North and are spelled as Childs writes them. "
-               "The lexicon is also available as CSV and LIFT (for FieldWorks).")},
+               "The lexicon is also available as CSV, TSV, LIFT (for FieldWorks) and CLDF.")},
 }
 FLAG = {"attested": "", "confirmed": "\\|c", "respelled": "\\|r", "check": "\\|?", "southern": "\\|s"}
 
@@ -301,7 +418,8 @@ DICT_TEXT = {
                "<span class=\"ks-badge ks-chk\">À vérifier</span>, ou "
                "<span class=\"ks-badge ks-south\">kissi du Sud</span> (Childs 2000 seulement, non attesté au Nord). "
                "Pour chercher un mot à partir du français, voir l'[index français–kisiei](reverse-index.md) ; "
-               "pour un classement par thèmes, voir les [listes de mots](word-lists.md)."),
+               "pour un classement par thèmes, voir les [listes de mots](word-lists.md). "
+               "Le lexique complet est aussi disponible aux formats CSV, TSV, LIFT et CLDF dans le [dépôt](https://github.com/kebasaa/kisiei-language/tree/main/lexicon)."),
            "rev_intro": (
                "Cet index renvoie des mots français aux mots kisiei du [dictionnaire](dictionary.md) ({n} mots-clés). "
                "Les mots-clés sont tirés des définitions. Ils sont classés sans tenir compte des accents, "
@@ -326,7 +444,8 @@ DICT_TEXT = {
                "<span class=\"ks-badge ks-chk\">To check</span>, or "
                "<span class=\"ks-badge ks-south\">Southern Kissi</span> (Childs 2000 only, not attested in the North). "
                "To look up a word from English, see the [English–Kisiei index](reverse-index.md); "
-               "for words grouped by theme, see the [word lists](word-lists.md)."),
+               "for words grouped by theme, see the [word lists](word-lists.md). "
+               "The full lexicon is also available as CSV, TSV, LIFT and CLDF in the [repository](https://github.com/kebasaa/kisiei-language/tree/main/lexicon)."),
            "rev_intro": (
                "This index leads from English words to the Kisiei words of the [dictionary](dictionary.md) "
                "({n} keywords). The keywords are taken from the definitions and sorted without a leading *a*, *the* or *to*. "
@@ -483,8 +602,12 @@ def main():
         sys.exit(1)
     if check:
         return
-    (LEX / "kisiei.csv").write_text(export_csv(entries, words), encoding="utf-8")
+    (LEX / "kisiei.csv").write_text(export_table(entries, domains, words, ","), encoding="utf-8")
+    (LEX / "kisiei.tsv").write_text(export_table(entries, domains, words, "\t"), encoding="utf-8")
     (LEX / "kisiei.lift").write_text(export_lift(entries, domains, words), encoding="utf-8")
+    (LEX / "cldf").mkdir(exist_ok=True)
+    for name, content in export_cldf(entries, words).items():
+        (LEX / "cldf" / name).write_text(content, encoding="utf-8")
     for lang in ("fr", "en"):
         (ROOT / "docs" / "reference" / f"word-lists.{lang}.md").write_text(
             export_page(lang, entries, domains, words), encoding="utf-8")
@@ -492,7 +615,7 @@ def main():
             export_dictionary(lang, entries, words), encoding="utf-8")
         (ROOT / "docs" / "reference" / f"reverse-index.{lang}.md").write_text(
             export_reverse(lang, entries, words), encoding="utf-8")
-    print("wrote lexicon/kisiei.csv, lexicon/kisiei.lift, docs/reference/{dictionary,reverse-index,word-lists}.{fr,en}.md")
+    print("wrote lexicon/kisiei.{csv,tsv,lift}, lexicon/cldf/, docs/reference/{dictionary,reverse-index,word-lists}.{fr,en}.md")
 
 
 if __name__ == "__main__":

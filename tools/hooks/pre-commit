@@ -1,9 +1,9 @@
 #!/bin/sh
 # Optional git hook: when lexicon entries are committed, validate them and regenerate the
-# lexicon outputs (CSV, LIFT, dictionary and word-list pages), adding them to the same commit.
+# lexicon outputs (CSV, TSV, LIFT, CLDF, dictionary and word-list pages), adding them to the same commit.
 # Enable once per clone with:  git config core.hooksPath tools/hooks
 if git diff --cached --name-only | grep -q '^lexicon/\(entries/\|domains\.yaml\)'; then
   uv run tools/build_lexicon.py || exit 1
-  git add lexicon/kisiei.csv lexicon/kisiei.lift \
+  git add lexicon/kisiei.csv lexicon/kisiei.tsv lexicon/kisiei.lift lexicon/cldf \
     docs/reference/dictionary.*.md docs/reference/reverse-index.*.md docs/reference/word-lists.*.md
 fi

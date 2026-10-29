@@ -29,6 +29,8 @@ jobs:
         run: python tools/check_i18n.py
       - name: Build lexicon (validate, regenerate dictionary and word-list pages)
         run: python tools/build_lexicon.py
+      - name: Validate CLDF export
+        run: pip install pycldf && cldf validate lexicon/cldf/Dictionary-metadata.json
       - name: Build (strict)
         run: mkdocs build --strict
       - name: Publish to gh-pages
