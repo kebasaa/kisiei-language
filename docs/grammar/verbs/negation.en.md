@@ -21,6 +21,18 @@ It takes the form {{te}} when the word before it ends in a **nasal consonant** (
     - Write {{te}} after *n*, *m*, *ŋ* or *l*, and {{le}} after a vowel or *w*: {{I mel nɔm te}}, {{o hɔl te}}, but {{o kol vɛlɛ le}}, {{taw le}}.
     - The particle is always written as a separate word, at the end of the negated clause, before the comma or full stop.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    W["Last letter of the word<br>before the particle"] --> Q{"<i>n, m, ŋ</i><br>or <i>l</i>?"}
+    Q -- yes --> T["{{te}}<br>{{I mel nɔm te}}"]
+    Q -- "no (vowel or <i>w</i>)" --> L["{{le}}<br>{{o kol vɛlɛ le}}"]
+```
+
+<figcaption><i>le</i> or <i>te</i>? It depends on the last letter before the particle.</figcaption>
+</figure>
+
 ## The verb in the negative
 
 ### Negative stem
@@ -33,6 +45,20 @@ Alternating verbs take a stem with a changed vowel in the negative (see [Stems a
 | {{mal}} “leave” | {{I mel nɔm te}} [Gen 32:27](https://www.bible.com/bible/1394/GEN.32.27.BKG) |
 | {{de}} “eat” | {{o di ɲɛdiaa le}} [Exod 34:28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
 | {{kɔa}} “go” | {{te naa n kue … le}} [Gen 43:3](https://www.bible.com/bible/1394/GEN.43.3.BKG) |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    A1["<i>a</i> · {{mam}}"] --> B1["<i>e</i> · {{mem}}"]
+    A2["<i>u</i> · {{vu}}"] --> B2["<i>i</i> · {{vi}}"]
+    A3["<i>o</i> · {{tol}}"] --> B3["<i>u</i> · {{tul}}"]
+    A4["<i>io, ia</i> · {{dia}}"] --> B4["<i>i, e</i> · {{di}}"]
+    A5["<i>ɔa</i> · {{kɔa}}"] --> B5["<i>ue</i> · {{kue}}"]
+```
+
+<figcaption>The vowel changes of the negative stem, affirmative on the left, negative on the right (see <a href="../stems-and-groups/">Stems and groups</a>).</figcaption>
+</figure>
 
 ### Progressive and “to be” in the past: *ve*
 

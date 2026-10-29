@@ -21,6 +21,18 @@ Elle prend la forme {{te}} quand le mot qui la précède se termine par une **co
     - On écrit {{te}} après *n*, *m*, *ŋ* ou *l*, et {{le}} après une voyelle ou *w* : {{I mel nɔm te}}, {{o hɔl te}}, mais {{o kol vɛlɛ le}}, {{taw le}}.
     - La particule s'écrit toujours séparée, à la fin de la proposition niée, avant la virgule ou le point.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    W["Dernière lettre du mot<br>qui précède la particule"] --> Q{"<i>n, m, ŋ</i><br>ou <i>l</i> ?"}
+    Q -- oui --> T["{{te}}<br>{{I mel nɔm te}}"]
+    Q -- "non (voyelle ou <i>w</i>)" --> L["{{le}}<br>{{o kol vɛlɛ le}}"]
+```
+
+<figcaption><i>le</i> ou <i>te</i> ? Tout dépend de la dernière lettre avant la particule.</figcaption>
+</figure>
+
 ## Le verbe au négatif
 
 ### Radical du négatif
@@ -33,6 +45,20 @@ Les verbes à alternance prennent au négatif un radical à voyelle changée (vo
 | {{mal}} « laisser » | {{I mel nɔm te}} [Gn 32,27](https://www.bible.com/bible/1394/GEN.32.27.BKG) |
 | {{de}} « manger » | {{o di ɲɛdiaa le}} [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
 | {{kɔa}} « aller » | {{te naa n kue … le}} [Gn 43,3](https://www.bible.com/bible/1394/GEN.43.3.BKG) |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    A1["<i>a</i> · {{mam}}"] --> B1["<i>e</i> · {{mem}}"]
+    A2["<i>u</i> · {{vu}}"] --> B2["<i>i</i> · {{vi}}"]
+    A3["<i>o</i> · {{tol}}"] --> B3["<i>u</i> · {{tul}}"]
+    A4["<i>io, ia</i> · {{dia}}"] --> B4["<i>i, e</i> · {{di}}"]
+    A5["<i>ɔa</i> · {{kɔa}}"] --> B5["<i>ue</i> · {{kue}}"]
+```
+
+<figcaption>Les changements de voyelle du radical négatif, affirmatif à gauche, négatif à droite (voir <a href="../stems-and-groups/">Radicaux et groupes</a>).</figcaption>
+</figure>
 
 ### Progressif et être au passé : *ve*
 

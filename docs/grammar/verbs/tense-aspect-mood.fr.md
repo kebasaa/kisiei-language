@@ -10,6 +10,43 @@ Le verbe kisiei ne se conjugue pas selon la personne : le sujet est porté par l
 
 L'aspect compte plus que le temps : on oppose d'abord l'action achevée (accompli) à l'action en cours ou habituelle [[(Childs1995, p. 219-222)]]. Les formes et les exemples de cette page sont dégagés des textes de la Bible en kisiei [[(BKG)]] ; ils sont comparés à la description de 1979 [[(Keita1979, p. 94-101)]] et à celle du kissi du Sud [[(Childs1995, p. 218-245)]].
 
+<figure class="ks-figure">
+<svg viewBox="0 0 600 210" role="img" style="max-width:40rem" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="tl-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs>
+<line class="line" x1="15" y1="105" x2="585" y2="105" stroke-width="1.5" marker-end="url(#tl-arrow)"/>
+<line class="line" x1="340" y1="88" x2="340" y2="122" stroke-width="2.5"/>
+<rect x="120" y="99" width="90" height="12" rx="6" class="accent" opacity=".25"/>
+<text x="20" y="200" font-size="13" class="muted">passé</text>
+<text x="580" y="200" font-size="13" text-anchor="end" class="muted">avenir</text>
+<text x="340" y="200" font-size="13" text-anchor="middle" class="muted">maintenant</text>
+<circle cx="60" cy="105" r="6" class="accent"/>
+<line class="line" x1="60" y1="80" x2="60" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="60" y="52" font-size="13" text-anchor="middle" font-weight="600">Passé révolu</text>
+<text x="60" y="72" font-size="13" text-anchor="middle" font-style="italic">ndóò hiow</text>
+<circle cx="165" cy="105" r="6" class="accent"/>
+<line class="line" x1="165" y1="111" x2="165" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="165" y="148" font-size="13" text-anchor="middle" font-weight="600">Progressif passé</text>
+<text x="165" y="168" font-size="13" text-anchor="middle" font-style="italic">o va kelaa</text>
+<circle cx="265" cy="105" r="6" class="accent"/>
+<line class="line" x1="265" y1="80" x2="265" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="265" y="52" font-size="13" text-anchor="middle" font-weight="600">Accompli</text>
+<text x="265" y="72" font-size="13" text-anchor="middle" font-style="italic">I tuei</text>
+<circle cx="340" cy="105" r="6" class="accent"/>
+<line class="line" x1="340" y1="111" x2="340" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="340" y="148" font-size="13" text-anchor="middle" font-weight="600">Progressif présent</text>
+<text x="340" y="168" font-size="13" text-anchor="middle" font-style="italic">i co hunɔɔ</text>
+<circle cx="440" cy="105" r="6" class="accent"/>
+<line class="line" x1="440" y1="80" x2="440" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="440" y="52" font-size="13" text-anchor="middle" font-weight="600">Futur proche</text>
+<text x="440" y="72" font-size="13" text-anchor="middle" font-style="italic">n co ndu dio</text>
+<circle cx="540" cy="105" r="6" class="accent"/>
+<line class="line" x1="540" y1="111" x2="540" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="540" y="148" font-size="13" text-anchor="middle" font-weight="600">Futur</text>
+<text x="540" y="168" font-size="13" text-anchor="middle" font-style="italic">tosanin</text>
+</svg>
+<figcaption>Les formes du verbe situées sur l'axe du temps. Le progressif passé dure jusqu'à un moment du passé.</figcaption>
+</figure>
+
 ## Vue d'ensemble
 
 | Forme | Construction | Exemple (Bible) |
@@ -25,6 +62,27 @@ L'aspect compte plus que le temps : on oppose d'abord l'action achevée (accompl
 | Récit (« et alors… ») | {{mí}} / {{mó}} / {{má}} + radical | {{Mí Hala dimi aa}} « Et Dieu dit » [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | Subjonctif | {{mì}} / {{mò}} / {{mà}} + radical | {{Yondoo fulá mò kumbu kɔngɔ vesɛiyo}} « que la verdure sorte et couvre la terre » [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | Impératif | radical (+ {{la}} au pluriel) | {{La náŋ ipúlú, la kuí}} « Soyez féconds, multipliez » [Gn 1,28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    S["Que veut-on<br>exprimer ?"] --> G1["Une action<br>en cours"]
+    S --> G2["Une action<br>à venir"]
+    S --> G3["Un enchaînement<br>avec <i>mi</i>"]
+    S --> G4["Un fait accompli<br>ou habituel"]
+    G1 -- maintenant --> P1["Progressif présent : {{co}} + forme longue<br>{{i co hunɔɔ}}"]
+    G1 -- "dans le passé" --> P2["Progressif passé : {{va}} + forme longue<br>{{o va kelaa}}"]
+    G2 -- "proche, certaine" --> F1["Futur proche : {{co}} + radical court<br>{{n co ndu dio}}"]
+    G2 -- "promesse, prédiction" --> F2["Futur : radical + <i>-nin</i><br>{{tosanin}}"]
+    G3 -- "récit" --> R1["Récit : {{mí}} / {{mó}} / {{má}} + radical<br>{{Mí Hala dimi aa}}"]
+    G3 -- "but, souhait" --> R2["Subjonctif : {{mì}} / {{mò}} / {{mà}} + radical<br>{{mò vel naa}}"]
+    G4 -- "passé révolu" --> PR["Passé révolu : pronom allongé + radical<br>{{ndóò}}, {{yáà}}"]
+    G4 -- "sinon" --> A["Accompli ou habituel : pronom + radical<br>{{I tuei}}"]
+```
+
+<figcaption>Choisir la forme du verbe. L'impératif et la négation sont traités plus bas.</figcaption>
+</figure>
 
 ## Accompli et habituel
 

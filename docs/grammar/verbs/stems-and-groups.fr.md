@@ -21,6 +21,28 @@ La forme longue est en fait un **nom verbal** de la classe *o* ; elle se termine
 
 La description de 1979 classe les verbes en **quatre groupes** selon le nombre de radicaux différents [[(Keita1979, p. 101-104)]]. Pour le kissi du Sud, on distingue plus simplement les verbes **réguliers**, dont la voyelle ne change pas, et les verbes **irréguliers**, dont la voyelle change selon le temps, l'aspect et la polarité ; le temps est marqué d'abord par le **ton** [[(Childs1995, p. 219-224)]]. Les textes de la Bible en kisiei [[(BKG)]] confirment ces deux types :
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    subgraph REG["Verbe régulier : la voyelle ne change pas"]
+        T["{{tosaa}}"] --> T1["{{tosa}} accompli"]
+        T --> T2["{{tosanin}} futur"]
+        T --> T3["{{tosa le}} négatif"]
+    end
+    subgraph ALT["Verbes à alternance : la voyelle change"]
+        M["{{malɔɔ}}"] --> M1["{{mal}} affirmatif"]
+        M --> M2["{{mel}} négatif"]
+        D["{{dioo}}"] --> D1["{{de}} accompli, récit"]
+        D --> D2["{{dia}} habituel, défense"]
+        D --> D3["{{dio}} futur proche"]
+        D --> D4["{{di}} négatif"]
+    end
+```
+
+<figcaption>Un radical pour tout le verbe, ou des radicaux qui changent de voyelle.</figcaption>
+</figure>
+
 ### Verbes réguliers (1er groupe de 1979)
 
 La voyelle reste la même partout ; seule la terminaison change :

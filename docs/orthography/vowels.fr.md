@@ -26,19 +26,19 @@ Le kisiei a sept voyelles, comme le kissi du Sud [[(Childs1995, p. 35)]]. Deux d
 <text x="390" y="164" text-anchor="end" font-size="12" class="muted">mi-ouverte</text>
 <text x="390" y="224" text-anchor="end" font-size="12" class="muted">ouverte</text>
 <circle cx="70" cy="40" r="17" class="accent" opacity=".9"/>
-<text x="70" y="47" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">i</text>
+<text x="70" y="47" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">i</text>
 <circle cx="300" cy="40" r="17" class="accent" opacity=".9"/>
-<text x="300" y="47" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">u</text>
+<text x="300" y="47" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">u</text>
 <circle cx="105" cy="100" r="17" class="accent" opacity=".9"/>
-<text x="105" y="107" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">e</text>
+<text x="105" y="107" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">e</text>
 <circle cx="300" cy="100" r="17" class="accent" opacity=".9"/>
-<text x="300" y="107" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">o</text>
+<text x="300" y="107" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">o</text>
 <circle cx="140" cy="160" r="17" class="accent" opacity=".9"/>
-<text x="140" y="167" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">ɛ</text>
+<text x="140" y="167" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">ɛ</text>
 <circle cx="300" cy="160" r="17" class="accent" opacity=".9"/>
-<text x="300" y="167" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">ɔ</text>
+<text x="300" y="167" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">ɔ</text>
 <circle cx="215" cy="220" r="17" class="accent" opacity=".9"/>
-<text x="215" y="227" text-anchor="middle" font-size="21" fill="#fff" font-style="italic">a</text>
+<text x="215" y="227" text-anchor="middle" font-size="21" style="fill:#fff" font-style="italic">a</text>
 </svg>
 <figcaption>Les sept voyelles selon la position de la langue (avant ou arrière, plus ou moins ouverte). Chacune peut être longue (lettre doublée).</figcaption>
 </figure>

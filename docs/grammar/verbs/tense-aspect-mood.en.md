@@ -10,6 +10,43 @@ The Kisiei verb is not conjugated for person: the subject is carried by the pron
 
 Aspect matters more than tense: the first contrast is between the completed action (perfective) and the ongoing or habitual action [[(Childs1995, p. 219-222)]]. The forms and examples on this page are drawn from the texts of the Kisiei Bible [[(BKG)]]; they are compared with the 1979 description [[(Keita1979, p. 94-101)]] and with that of Southern Kissi [[(Childs1995, p. 218-245)]].
 
+<figure class="ks-figure">
+<svg viewBox="0 0 600 210" role="img" style="max-width:40rem" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="tl-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs>
+<line class="line" x1="15" y1="105" x2="585" y2="105" stroke-width="1.5" marker-end="url(#tl-arrow)"/>
+<line class="line" x1="340" y1="88" x2="340" y2="122" stroke-width="2.5"/>
+<rect x="120" y="99" width="90" height="12" rx="6" class="accent" opacity=".25"/>
+<text x="20" y="200" font-size="13" class="muted">past</text>
+<text x="580" y="200" font-size="13" text-anchor="end" class="muted">future</text>
+<text x="340" y="200" font-size="13" text-anchor="middle" class="muted">now</text>
+<circle cx="60" cy="105" r="6" class="accent"/>
+<line class="line" x1="60" y1="80" x2="60" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="60" y="52" font-size="13" text-anchor="middle" font-weight="600">Remote past</text>
+<text x="60" y="72" font-size="13" text-anchor="middle" font-style="italic">ndóò hiow</text>
+<circle cx="165" cy="105" r="6" class="accent"/>
+<line class="line" x1="165" y1="111" x2="165" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="165" y="148" font-size="13" text-anchor="middle" font-weight="600">Past progressive</text>
+<text x="165" y="168" font-size="13" text-anchor="middle" font-style="italic">o va kelaa</text>
+<circle cx="265" cy="105" r="6" class="accent"/>
+<line class="line" x1="265" y1="80" x2="265" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="265" y="52" font-size="13" text-anchor="middle" font-weight="600">Perfective</text>
+<text x="265" y="72" font-size="13" text-anchor="middle" font-style="italic">I tuei</text>
+<circle cx="340" cy="105" r="6" class="accent"/>
+<line class="line" x1="340" y1="111" x2="340" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="340" y="148" font-size="13" text-anchor="middle" font-weight="600">Present progressive</text>
+<text x="340" y="168" font-size="13" text-anchor="middle" font-style="italic">i co hunɔɔ</text>
+<circle cx="440" cy="105" r="6" class="accent"/>
+<line class="line" x1="440" y1="80" x2="440" y2="99" stroke-width=".8" opacity=".5"/>
+<text x="440" y="52" font-size="13" text-anchor="middle" font-weight="600">Near future</text>
+<text x="440" y="72" font-size="13" text-anchor="middle" font-style="italic">n co ndu dio</text>
+<circle cx="540" cy="105" r="6" class="accent"/>
+<line class="line" x1="540" y1="111" x2="540" y2="130" stroke-width=".8" opacity=".5"/>
+<text x="540" y="148" font-size="13" text-anchor="middle" font-weight="600">Future</text>
+<text x="540" y="168" font-size="13" text-anchor="middle" font-style="italic">tosanin</text>
+</svg>
+<figcaption>The verb forms placed on a time line. The past progressive lasts up to a moment in the past.</figcaption>
+</figure>
+
 ## Overview
 
 | Form | Construction | Example (Bible) |
@@ -25,6 +62,27 @@ Aspect matters more than tense: the first contrast is between the completed acti
 | Narrative (“and then…”) | {{mí}} / {{mó}} / {{má}} + stem | {{Mí Hala dimi aa}} “And God said” [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | Subjunctive | {{mì}} / {{mò}} / {{mà}} + stem | {{Yondoo fulá mò kumbu kɔngɔ vesɛiyo}} “let the vegetation come forth and cover the earth” [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG) |
 | Imperative | stem (+ {{la}} in the plural) | {{La náŋ ipúlú, la kuí}} “Be fruitful, multiply” [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG) |
+
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    S["What is to<br>be expressed?"] --> G1["An ongoing<br>action"]
+    S --> G2["A future<br>action"]
+    S --> G3["A sequence<br>with <i>mi</i>"]
+    S --> G4["A completed<br>or habitual fact"]
+    G1 -- now --> P1["Present progressive: {{co}} + long form<br>{{i co hunɔɔ}}"]
+    G1 -- "in the past" --> P2["Past progressive: {{va}} + long form<br>{{o va kelaa}}"]
+    G2 -- "near, certain" --> F1["Near future: {{co}} + short stem<br>{{n co ndu dio}}"]
+    G2 -- "promise, prediction" --> F2["Future: stem + <i>-nin</i><br>{{tosanin}}"]
+    G3 -- narrative --> R1["Narrative: {{mí}} / {{mó}} / {{má}} + stem<br>{{Mí Hala dimi aa}}"]
+    G3 -- "purpose, wish" --> R2["Subjunctive: {{mì}} / {{mò}} / {{mà}} + stem<br>{{mò vel naa}}"]
+    G4 -- "remote past" --> PR["Remote past: lengthened pronoun + stem<br>{{ndóò}}, {{yáà}}"]
+    G4 -- otherwise --> A["Perfective or habitual: pronoun + stem<br>{{I tuei}}"]
+```
+
+<figcaption>Choosing the verb form. The imperative and negation are covered below.</figcaption>
+</figure>
 
 ## Perfective and habitual
 

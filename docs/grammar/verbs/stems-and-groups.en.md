@@ -21,6 +21,28 @@ The long form is in fact a **verbal noun** of the *o* class; it ends like a noun
 
 The 1979 description sorts verbs into **four groups** according to the number of different stems [[(Keita1979, p. 101-104)]]. For Southern Kissi, a simpler distinction is made between **regular** verbs, whose vowel does not change, and **irregular** verbs, whose vowel changes with tense, aspect and polarity; tense is marked first of all by **tone** [[(Childs1995, p. 219-224)]]. The texts of the Kisiei Bible [[(BKG)]] confirm these two types:
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    subgraph REG["Regular verb: the vowel does not change"]
+        T["{{tosaa}}"] --> T1["{{tosa}} perfective"]
+        T --> T2["{{tosanin}} future"]
+        T --> T3["{{tosa le}} negative"]
+    end
+    subgraph ALT["Alternating verbs: the vowel changes"]
+        M["{{malɔɔ}}"] --> M1["{{mal}} affirmative"]
+        M --> M2["{{mel}} negative"]
+        D["{{dioo}}"] --> D1["{{de}} perfective, narrative"]
+        D --> D2["{{dia}} habitual, prohibition"]
+        D --> D3["{{dio}} near future"]
+        D --> D4["{{di}} negative"]
+    end
+```
+
+<figcaption>One stem for the whole verb, or stems that change their vowel.</figcaption>
+</figure>
+
 ### Regular verbs (1st group of 1979)
 
 The vowel stays the same throughout; only the ending changes:

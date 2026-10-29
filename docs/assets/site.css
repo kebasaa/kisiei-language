@@ -90,6 +90,7 @@
 .md-typeset .mermaid { text-align: center; margin: 1em 0; }
 .md-typeset .ks-figure { margin: 1.2em auto; text-align: center; }
 .md-typeset .ks-figure svg { width: 100%; height: auto; color: var(--md-default-fg-color); font-family: var(--md-text-font-family); }
+.md-typeset .ks-figure svg text { fill: currentColor; }
 .md-typeset .ks-figure figcaption { margin-top: .4em; font-size: .8rem; font-style: italic; color: var(--md-default-fg-color--light); max-width: none; }
 .md-typeset .ks-figure .accent { fill: var(--md-accent-fg-color); }
 .md-typeset .ks-figure .primary { fill: var(--md-primary-fg-color); }
