@@ -2,6 +2,24 @@
 
 The plural is formed by **replacing the singular suffix** with a plural suffix. Which suffix? That depends on the class of the noun and, for the *o / a / ɔ* class, on what the noun refers to [[(Keita1979, p. 26-29)]]. All the pairs below are attested in the Bible [[(BKG)]].
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    N["Singular noun"] --> C{"Class?"}
+    C -- "o / a / ɔ" --> P{"Person<br>or animal?"}
+    P -- yes --> A["<i>-a</i> (<i>-nda, -la, -va</i>)<br>{{nawvo}} → {{nawva}}"]
+    P -- no --> L["<i>-lan</i> (<i>-tan, -ndan</i>)<br>{{kobio}} → {{kobilan}}"]
+    C -- "i" --> I{"Ending?"}
+    I -- "-ei" --> I1["<i>-on</i><br>{{pelei}} → {{pelon}}"]
+    I -- "-ɛi" --> I2["<i>-ɔn</i><br>{{sɔɛi}} → {{sɔɔn}}"]
+    C -- "e" --> E["<i>-on</i><br>{{yɛiye}} → {{yɛiyon}}"]
+    C -- "len" --> LE["<i>-an, -lan, -tan</i><br>{{nilen}} → {{nilan}}"]
+```
+
+<figcaption>Choosing the plural suffix. Exceptions and nouns without a plural are covered below.</figcaption>
+</figure>
+
 ## Rules
 
 ### People and animals: -a

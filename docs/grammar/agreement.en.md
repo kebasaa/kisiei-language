@@ -10,6 +10,23 @@ In Kisiei, the class of a noun **is repeated** on the words that accompany or re
 
 {{kobilan la va belaŋɔmpum, lan la va…}} — “The cities (*la*) were sixty, those (*lan la*) were…” [Deut 3:4](https://www.bible.com/bible/1394/DEU.3.4.BKG): a plural in *-lan*, taken up by {{la}} and {{lan}}.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    N["Noun of the <i>len</i> class<br>{{lɛŋnden}} “earth, land”"]
+    N --> S["Subject pronoun {{le}}<br>{{Lɛŋnden le va tulumasaa}}"]
+    N --> O["Object pronoun {{len}}"]
+    N --> D["Demonstrative {{len}}<br>{{lɛŋnde len}}"]
+    N --> P["Possessive “his, her” {{ndɔlen}}"]
+    N --> F["Final referent <i>-len, -nden</i>"]
+    classDef noun stroke:#d07a2a,stroke-width:3px
+    class N noun
+```
+
+<figcaption>One class, many words: the mark of the <i>len</i> class comes back on every word that refers to the noun (forms from the table below).</figcaption>
+</figure>
+
 ## Table of referents
 
 The table brings together the forms described in 1979 [[(Keita1979, p. 57-60, 85-86, 121)]] and checked in the Bible [[(BKG)]]. The subject and object pronouns correspond, class by class, to those of Southern Kissi [[(Childs1995, p. 107)]].

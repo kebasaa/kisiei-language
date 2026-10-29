@@ -2,6 +2,24 @@
 
 Le pluriel se forme en **remplaçant la terminaison du singulier** par une terminaison de pluriel. Quelle terminaison ? Cela dépend de la classe du nom et, pour la classe *o / a / ɔ*, de ce que le nom désigne [[(Keita1979, p. 26-29)]]. Toutes les paires ci-dessous sont attestées dans la Bible [[(BKG)]].
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    N["Nom au singulier"] --> C{"Classe ?"}
+    C -- "o / a / ɔ" --> P{"Personne<br>ou animal ?"}
+    P -- oui --> A["<i>-a</i> (<i>-nda, -la, -va</i>)<br>{{nawvo}} → {{nawva}}"]
+    P -- non --> L["<i>-lan</i> (<i>-tan, -ndan</i>)<br>{{kobio}} → {{kobilan}}"]
+    C -- "i" --> I{"Terminaison ?"}
+    I -- "-ei" --> I1["<i>-on</i><br>{{pelei}} → {{pelon}}"]
+    I -- "-ɛi" --> I2["<i>-ɔn</i><br>{{sɔɛi}} → {{sɔɔn}}"]
+    C -- "e" --> E["<i>-on</i><br>{{yɛiye}} → {{yɛiyon}}"]
+    C -- "len" --> LE["<i>-an, -lan, -tan</i><br>{{nilen}} → {{nilan}}"]
+```
+
+<figcaption>Choisir la terminaison du pluriel. Les exceptions et les noms sans pluriel sont traités plus bas.</figcaption>
+</figure>
+
 ## Règles
 
 ### Personnes et animaux : -a

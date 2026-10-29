@@ -54,6 +54,22 @@ Les **pluriels en *-lan*** suivent la même règle : leur forme radicale se term
 !!! rule "Règle"
     Devant un déterminant, on écrit en un seul mot : *radical + la* (classe *lan*), *radical + le / nde / lle* (classe *len*), *radical + ma* (classe *an*) : {{diola ndɔlan}}, {{lɛŋnde len}}, {{mɛmma man}}.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    N["Un nom"] --> Q{"Est-il suivi d'un mot qui le détermine ?<br>(adjectif, démonstratif, possessif,<br>nombre, complément du nom)"}
+    Q -- non --> F["Forme pleine<br>{{cɛiyo}}, {{diolan}}, {{lɛŋnden}}"]
+    Q -- oui --> C{"Classe du nom ?"}
+    C -- "o" --> R1["Radical seul<br>{{cɛi kon}}"]
+    C -- "lan" --> R2["Radical + <i>-la</i><br>{{diola ndɔlan}}"]
+    C -- "len" --> R3["Radical + <i>-le / -nde / -lle</i><br>{{lɛŋnde len}}"]
+    C -- "an" --> R4["Radical + <i>-ma</i><br>{{mɛmma man}}"]
+```
+
+<figcaption>Forme pleine ou forme radicale ? Devant un déterminant, les classes <i>lan</i>, <i>len</i> et <i>an</i> ajoutent le pronom de classe au radical.</figcaption>
+</figure>
+
 ## Les classes
 
 On distingue huit terminaisons [[(Keita1979, p. 22-25)]], regroupées ici en classes d'après leur pluriel et leurs référents. Les terminaisons ont des variantes qui dépendent de la fin du radical (après une nasale, on trouve *-nd-* ; après *l*, *-l-* ou *-t-* ; après *w*, *-v-* ; après *i*, *-y-*). Les mêmes variantes sont décrites pour le kissi du Sud [[(Childs1995, p. 151-156)]].

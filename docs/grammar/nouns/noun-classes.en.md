@@ -54,6 +54,22 @@ In the *o* class, the stem form is the bare stem ({{cɛi kon}}). In the ***lan**
 !!! rule "Rule"
     Before a determiner, write as a single word: *stem + la* (*lan* class), *stem + le / nde / lle* (*len* class), *stem + ma* (*an* class): {{diola ndɔlan}}, {{lɛŋnde len}}, {{mɛmma man}}.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart TD
+    N["A noun"] --> Q{"Is it followed by a word that determines it?<br>(adjective, demonstrative, possessive,<br>number, noun complement)"}
+    Q -- no --> F["Full form<br>{{cɛiyo}}, {{diolan}}, {{lɛŋnden}}"]
+    Q -- yes --> C{"Class of the noun?"}
+    C -- "o" --> R1["Bare stem<br>{{cɛi kon}}"]
+    C -- "lan" --> R2["Stem + <i>-la</i><br>{{diola ndɔlan}}"]
+    C -- "len" --> R3["Stem + <i>-le / -nde / -lle</i><br>{{lɛŋnde len}}"]
+    C -- "an" --> R4["Stem + <i>-ma</i><br>{{mɛmma man}}"]
+```
+
+<figcaption>Full form or stem form? Before a determiner, the <i>lan</i>, <i>len</i> and <i>an</i> classes add the class pronoun to the stem.</figcaption>
+</figure>
+
 ## The classes
 
 Eight suffixes are distinguished [[(Keita1979, p. 22-25)]], grouped here into classes according to their plural and their referents. The suffixes have variants that depend on the end of the stem (after a nasal, *-nd-* is found; after *l*, *-l-* or *-t-*; after *w*, *-v-*; after *i*, *-y-*). The same variants are described for Southern Kissi [[(Childs1995, p. 151-156)]].

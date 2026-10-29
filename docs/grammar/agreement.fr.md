@@ -10,6 +10,23 @@ En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou
 
 {{kobilan la va belaŋɔmpum, lan la va…}} — « Les villes (*la*) étaient soixante, celles-là (*lan la*) étaient… » [Dt 3,4](https://www.bible.com/bible/1394/DEU.3.4.BKG) : pluriel en *-lan*, repris par {{la}} et {{lan}}.
 
+<figure class="ks-figure" markdown="1">
+
+```mermaid
+flowchart LR
+    N["Nom de classe <i>len</i><br>{{lɛŋnden}} « terre, pays »"]
+    N --> S["Pronom sujet {{le}}<br>{{Lɛŋnden le va tulumasaa}}"]
+    N --> O["Pronom complément {{len}}"]
+    N --> D["Démonstratif {{len}}<br>{{lɛŋnde len}}"]
+    N --> P["Possessif « son, sa » {{ndɔlen}}"]
+    N --> F["Référent final <i>-len, -nden</i>"]
+    classDef noun stroke:#d07a2a,stroke-width:3px
+    class N noun
+```
+
+<figcaption>Une classe, plusieurs mots : la marque de la classe <i>len</i> revient sur tous les mots qui renvoient au nom (formes du tableau ci-dessous).</figcaption>
+</figure>
+
 ## Tableau des référents
 
 Le tableau réunit les formes décrites en 1979 [[(Keita1979, p. 57-60, 85-86, 121)]] et vérifiées dans la Bible [[(BKG)]]. Les pronoms sujets et compléments correspondent, classe par classe, à ceux du kissi du Sud [[(Childs1995, p. 107)]].
