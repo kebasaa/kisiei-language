@@ -1742,7 +1742,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{wànàyáwàá\|s}} | noun (o) — **Southern Kissi only** | dealer in medicines and potions |  |
 | {{ŋɛ̀lɛ̀màá\|s}} | noun (o) — **Southern Kissi only** | liquid and ointment children are bathed in to make them strong; a rough children's game |  |
 | {{ɲáɲáá\|s}}, pl. {{ɲáɲáláŋ\|s}} | noun (o) — **Southern Kissi only** | low grass with yellow flowers (used to stanch bleeding) |  |
-| {{ɲìndìó\|s}} | verb — **Southern Kissi only** | apply a compress or poultice (to a sore) |  |
+| {{ɲindin\|r}} | verb | apply (a remedy) to the body; apply a compress | Keita 1979, p. 162 |
 | {{ɲùlùáŋ\|s}} | noun (ma) — **Southern Kissi only** | potion, medicine (cold water mixed with leaves) |  |
 
 ### 2.6 Life
@@ -2436,6 +2436,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{díɔ́móó\|s}}, pl. {{díɔ́múáá\|s}} | noun (o) — **Southern Kissi only** | co-wife |  |
 | {{fà\|s}} | noun — **Southern Kissi only** | elder brother or sister (term of address) |  |
 | {{falnɔɔ\|r}} | noun | father-in-law, son-in-law — *Southern Kissi (Childs 2000) :* in-law | Keita 1979, p. 134 |
+| {{fuɲa-mamaa}}, pl. {{fuɲaa-mamaa}} | noun (o) | ancestor, forefather; founder (of a line, a people) | [Gen 17:4](https://www.bible.com/bible/1394/GEN.17.4.BKG) |
 | {{fuɲaa}} | noun (o) | father ; father; (pl.) forefathers — *Southern Kissi (Childs 2000) :* father; term of respect for a man | [Gen 4:18](https://www.bible.com/bible/1394/GEN.4.18.BKG) |
 | {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | noun (o) | child, offspring | [Gen 4:1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
 | {{imamaa}} | noun | descendants, generations | [Gen 5:1](https://www.bible.com/bible/1394/GEN.5.1.BKG) |
@@ -2668,7 +2669,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{hìɔ̀ɔ̀nɔ̌ŋndó\|s}} | verb — **Southern Kissi only** | draw in one's stomach; swagger, bluff |  |
 | {{huinɔnndo}} | verb | deceive oneself; (huinan) betray one another — *Southern Kissi (Childs 2000) :* fool or trick oneself | [Jas 1:22](https://www.bible.com/bible/1394/JAS.1.22.BKG) |
 | {{huiyo}} | verb | deceive, betray — *Southern Kissi (Childs 2000) :* cheat, deceive; also break a promise | [Judg 16:10](https://www.bible.com/bible/1394/JDG.16.10.BKG) |
-| {{káà\|?}} | noun | way of acting, conduct; fault |  |
+| {{káà}}, pl. {{káàlan}} | noun | way of acting, conduct; fault | [Lev 18:3](https://www.bible.com/bible/1394/LEV.18.3.BKG) |
 | {{kákáá\|s}} | noun (o) — **Southern Kissi only** | meanness, stinginess |  |
 | {{kasio}} | noun (o) | offence, fault; (del kasi) offend, sin against — *Southern Kissi (Childs 2000) :* rules of a (secret) society; the offence of breaking them | [1 Sam 2:24](https://www.bible.com/bible/1394/1SA.2.24.BKG) |
 | {{kàŋgàlàá\|s}} | noun (o) — **Southern Kissi only** | deceit, cheating, greed |  |
@@ -4016,7 +4017,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{tingɔɔ}} | verb | gather (firewood) — *Southern Kissi (Childs 2000) :* gather, fetch; also cut, break (wood) | [Num 15:32](https://www.bible.com/bible/1394/NUM.15.32.BKG) |
 | {{wèlèwèléí\|s}} | noun (i) — **Southern Kissi only** | dry branch |  |
 | {{wóŋóó\|s}}, pl. {{wóŋúéí\|s}} | noun (o) — **Southern Kissi only** | tree species, good firewood |  |
-| {{ɲààndéí\|s}}, pl. {{ɲààndǎŋ\|s}} | noun (i) — **Southern Kissi only** | kindling (small sticks or shavings to start a fire) |  |
+| {{ɲaandan}} | noun | dry twigs, kindling | [Ps 45:5](https://www.bible.com/bible/1394/PSA.45.5.BKG) |
 
 ### 5.5.7 Fireplace
 
@@ -5953,7 +5954,6 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kɛmɛ}} | numeral | hundred | [Gen 5:3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{leyáá}} | numeral | three times; (kɛmɛ leyáá) three hundred — *Southern Kissi (Childs 2000) :* three times | [Gen 5:22](https://www.bible.com/bible/1394/GEN.5.22.BKG) |
 | {{milionndo}}, pl. {{milionndan}} | numeral | million | [1 Kgs 9:28](https://www.bible.com/bible/1394/1KI.9.28.BKG) |
-| {{miun}} | numeral | two (agreeing with plurals in -on/-un: mún miun, the two) — *Southern Kissi (Childs 2000) :* two (ŋ class) | [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 | {{mùúŋndɔ̀ɔ́\|s}} | adverb — **Southern Kissi only** | secondly |  |
 | {{pilɔɔ}} | adjective | one, a single; the same (agreeing with the noun) — *Southern Kissi (Childs 2000) :* one, a single, the same, alone; some | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{pilɛ}} | numeral | one | [Gen 1:9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |

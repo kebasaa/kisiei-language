@@ -1742,7 +1742,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{wànàyáwàá\|s}} | nom (o) — **kissi du Sud seulement** | marchand de remèdes et de potions |  |
 | {{ŋɛ̀lɛ̀màá\|s}} | nom (o) — **kissi du Sud seulement** | bain et onguent fortifiants pour les enfants ; jeu brutal d'enfants |  |
 | {{ɲáɲáá\|s}}, pl. {{ɲáɲáláŋ\|s}} | nom (o) — **kissi du Sud seulement** | herbe basse à fleurs jaunes (arrête les saignements) |  |
-| {{ɲìndìó\|s}} | verbe — **kissi du Sud seulement** | appliquer une compresse, un cataplasme (sur une plaie) |  |
+| {{ɲindin\|r}} | verbe | appliquer (un remède) sur le corps ; mettre une compresse | Keita 1979, p. 162 |
 | {{ɲùlùáŋ\|s}} | nom (ma) — **kissi du Sud seulement** | potion, remède (eau froide mêlée de feuilles) |  |
 
 ### 2.6 Vie
@@ -2436,6 +2436,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{díɔ́móó\|s}}, pl. {{díɔ́múáá\|s}} | nom (o) — **kissi du Sud seulement** | coépouse |  |
 | {{fà\|s}} | nom — **kissi du Sud seulement** | aîné, aînée (terme d'adresse) |  |
 | {{falnɔɔ\|r}} | nom | beau-père, beau-fils — *kissi du Sud (Childs 2000, en anglais) :* in-law | Keita 1979, p. 134 |
+| {{fuɲa-mamaa}}, pl. {{fuɲaa-mamaa}} | nom (o) | ancêtre, aïeul ; fondateur (d'une lignée, d'un peuple) | [Gn 17,4](https://www.bible.com/bible/1394/GEN.17.4.BKG) |
 | {{fuɲaa}} | nom (o) | père ; (pl.) ancêtres — *kissi du Sud (Childs 2000, en anglais) :* father; term of respect for a man | [Gn 4,18](https://www.bible.com/bible/1394/GEN.4.18.BKG) |
 | {{hɔ́ɔ́}}, pl. {{hɔ́aa}} | nom (o) | enfant (descendant), fils ou fille | [Gn 4,1](https://www.bible.com/bible/1394/GEN.4.1.BKG) |
 | {{imamaa}} | nom | descendance, générations | [Gn 5,1](https://www.bible.com/bible/1394/GEN.5.1.BKG) |
@@ -2668,7 +2669,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{hìɔ̀ɔ̀nɔ̌ŋndó\|s}} | verbe — **kissi du Sud seulement** | rentrer le ventre ; crâner, bluffer |  |
 | {{huinɔnndo}} | verbe | se tromper soi-même ; (huinan) se trahir les uns les autres — *kissi du Sud (Childs 2000, en anglais) :* fool or trick oneself | [Jc 1,22](https://www.bible.com/bible/1394/JAS.1.22.BKG) |
 | {{huiyo}} | verbe | tromper, trahir — *kissi du Sud (Childs 2000, en anglais) :* cheat, deceive; also break a promise | [Jg 16,10](https://www.bible.com/bible/1394/JDG.16.10.BKG) |
-| {{káà\|?}} | nom | manière d'agir, conduite ; défaut |  |
+| {{káà}}, pl. {{káàlan}} | nom | manière d'agir, conduite ; défaut | [Lv 18,3](https://www.bible.com/bible/1394/LEV.18.3.BKG) |
 | {{kákáá\|s}} | nom (o) — **kissi du Sud seulement** | avarice, mesquinerie |  |
 | {{kasio}} | nom (o) | faute, offense ; (del kasi) offenser, pécher contre — *kissi du Sud (Childs 2000, en anglais) :* rules of a (secret) society; the offence of breaking them | [1 S 2,24](https://www.bible.com/bible/1394/1SA.2.24.BKG) |
 | {{kàŋgàlàá\|s}} | nom (o) — **kissi du Sud seulement** | tromperie, avidité, avarice |  |
@@ -4016,7 +4017,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{tingɔɔ}} | verbe | ramasser (du bois) — *kissi du Sud (Childs 2000, en anglais) :* gather, fetch; also cut, break (wood) | [Nb 15,32](https://www.bible.com/bible/1394/NUM.15.32.BKG) |
 | {{wèlèwèléí\|s}} | nom (i) — **kissi du Sud seulement** | branche sèche |  |
 | {{wóŋóó\|s}}, pl. {{wóŋúéí\|s}} | nom (o) — **kissi du Sud seulement** | arbre (espèce) qui fait un bon bois de feu |  |
-| {{ɲààndéí\|s}}, pl. {{ɲààndǎŋ\|s}} | nom (i) — **kissi du Sud seulement** | petit bois, brindilles pour allumer le feu |  |
+| {{ɲaandan}} | nom | brindilles sèches, petit bois (pour le feu) | [Ps 45,5](https://www.bible.com/bible/1394/PSA.45.5.BKG) |
 
 ### 5.5.7 Foyer
 
@@ -5953,7 +5954,6 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kɛmɛ}} | nombre | cent | [Gn 5,3](https://www.bible.com/bible/1394/GEN.5.3.BKG) |
 | {{leyáá}} | nombre | trois fois ; (kɛmɛ leyáá) trois cents — *kissi du Sud (Childs 2000, en anglais) :* three times | [Gn 5,22](https://www.bible.com/bible/1394/GEN.5.22.BKG) |
 | {{milionndo}}, pl. {{milionndan}} | nombre | million | [1 R 9,28](https://www.bible.com/bible/1394/1KI.9.28.BKG) |
-| {{miun}} | nombre | deux (accord avec les pluriels en -on/-un : mún miun « les deux ») — *kissi du Sud (Childs 2000, en anglais) :* two (ŋ class) | [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG) |
 | {{mùúŋndɔ̀ɔ́\|s}} | adverbe — **kissi du Sud seulement** | deuxièmement |  |
 | {{pilɔɔ}} | adjectif | un, un seul ; le même (accordé au nom) — *kissi du Sud (Childs 2000, en anglais) :* one, a single, the same, alone; some | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |
 | {{pilɛ}} | nombre | un | [Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG) |

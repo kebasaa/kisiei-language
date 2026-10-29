@@ -27,8 +27,8 @@ jobs:
       - run: pip install -r requirements-docs.txt
       - name: Check translations
         run: python tools/check_i18n.py
-      - name: Check lexicon
-        run: python tools/build_lexicon.py --check
+      - name: Build lexicon (validate, regenerate dictionary and word-list pages)
+        run: python tools/build_lexicon.py
       - name: Build (strict)
         run: mkdocs build --strict
       - name: Publish to gh-pages

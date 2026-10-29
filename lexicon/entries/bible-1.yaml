@@ -30,7 +30,7 @@
 - {lemma: diwvo, status: attested, pos: verb, forms: [diw, diwnin], gloss: {fr: 'tuer (en nombre), massacrer', en: 'kill (many), slaughter'}, domains: [2.6.6, 4.8.3], example: 1SA.15.8, note: diw s'emploie surtout pour plusieurs victimes ; voir dii « tuer ».}
 - {lemma: kɛsiaa, status: attested, pos: verb, forms: [kɛsi, kɛsin, kɛsinin], gloss: {fr: 'poser, placer, mettre', en: 'put, place, set'}, domains: [7.5.9], example: GEN.9.13}
 - {lemma: handɔɔ, status: attested, pos: verb, forms: [handu, handunin], gloss: {fr: 'mettre, poser ; établir (sur)', en: 'put, lay; set (over)'}, domains: [7.5.9], example: GEN.1.7}
-- {lemma: handun, status: attested, pos: verb, gloss: {fr: mettre sur soi ; (se) poser, en: put on oneself; set oneself}, domains: [7.5.9], example: GEN.9.23, note: Moyen de handɔɔ « mettre ».}
+- {lemma: handun, status: attested, pos: verb, gloss: {fr: mettre sur soi ; (se) poser, en: put on oneself; set oneself}, domains: [7.5.9], example: GEN.9.23, note: Moyen de handɔɔ « mettre »., forms: [handɔnndo, handɔn]}
 - {lemma: kumbɔɔ, status: attested, pos: verb, forms: [kumbu, kumbunin, kumbun], gloss: {fr: couvrir ; enterrer, en: cover; bury}, domains: [7.3.7, 2.6.6], example: JOS.24.33, childs: {page: 194, form: kùmbɔ̀ɔ́}}
 - {lemma: kuumbuu, status: attested, pos: verb, forms: [kuumbun, kuumbuan], gloss: {fr: 'recouvrir, étendre sur', en: 'cover over, spread over'}, domains: [7.3.7], example: GEN.9.23, note: Pluriel (intensif) de kumbɔɔ « couvrir »., childs: {page: 198, form: kùùmbùùwó}}
 - {lemma: kumbio, status: attested, pos: verb, forms: [kumbi, kumbiaa], gloss: {fr: ouvrir, en: open}, domains: [7.3.6], example: 2KI.6.17, childs: {page: 198, form: kùmbìó, sense: open; cover}}
@@ -249,3 +249,4 @@
 - {lemma: kpélén, status: attested, pos: ideo, gloss: {fr: 'fort (crier, pleurer)', en: 'loudly (cry, weep)'}, domains: [9.2.8, 2.3.2], example: GEN.27.38, childs: {page: 209, form: kpéléŋ, sense: 'loudly, clearly'}}
 - {lemma: kpáŋ, status: attested, pos: ideo, gloss: {fr: 'fermement, solidement', en: 'firmly, tightly'}, domains: [9.2.8], example: EZK.44.1, childs: {page: 205, form: kpáŋ, sense: 'tightly; also carefully, attentively'}}
 - {lemma: kpòkóó, status: attested, pos: interj, gloss: {fr: hélas !, en: alas!}, domains: [9.2.7, 3.4.2], example: GEN.25.22}
+- {lemma: fuɲa-mamaa, status: attested, pos: noun, class: o, plural: fuɲaa-mamaa, gloss: {fr: 'ancêtre, aïeul ; fondateur (d''une lignée, d''un peuple)', en: 'ancestor, forefather; founder (of a line, a people)'}, domains: [4.1.9], example: GEN.17.4, note: Composé de fuɲaa « père » et mamaa « grand-parent ».}

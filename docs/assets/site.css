@@ -79,6 +79,13 @@
 .ks-badge.ks-chk { color: var(--ks-chk); }
 .ks-badge.ks-south { color: var(--ks-south); }
 
+/* Dictionary pages (generated): hanging-indent entries, letter bar, source reference */
+.md-typeset .ks-dict p { margin: .35em 0; padding-left: 1.6em; text-indent: -1.6em; }
+.md-typeset .ks-letters { position: sticky; top: 2.4rem; z-index: 1; padding: .3em 0; background: var(--md-default-bg-color); line-height: 1.9; }
+.md-typeset .ks-letters a { display: inline-block; min-width: 1.3em; text-align: center; }
+.md-content:has(.ks-letters) h2[id] { scroll-margin-top: 7rem; }
+.md-typeset .ks-src { font-size: .85em; color: var(--md-default-fg-color--light); white-space: nowrap; }
+
 /* Bible references and citations */
 .md-typeset a.bref, .md-typeset a.cite { white-space: nowrap; }
 

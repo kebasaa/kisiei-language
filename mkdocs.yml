@@ -148,6 +148,8 @@ nav:
   - Référence:
       - reference/index.md
       - reference/verb-tables.md
+      - reference/dictionary.md
+      - reference/reverse-index.md
       - reference/word-lists.md
       - reference/phrases.md
       - reference/glossary.md

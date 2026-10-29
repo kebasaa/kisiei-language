@@ -24,9 +24,11 @@ A structured, machine- and human-readable lexicon of Kisiei, classified by **sem
 | `domains.yaml` | The semantic domains used. |
 | `kisiei.csv` | Generated: one row per entry. |
 | `kisiei.lift` | Generated: [LIFT](https://github.com/sillsdev/lift-standard) 0.13 XML, importable into FieldWorks and other lexicon tools. |
-| `../docs/reference/word-lists.*.md` | Generated: the word-list pages of the guide-book. |
+| `../docs/reference/dictionary.*.md` | Generated: the alphabetical dictionary pages (Kisiei–French, Kisiei–English). |
+| `../docs/reference/reverse-index.*.md` | Generated: the reverse indexes (French–Kisiei, English–Kisiei). |
+| `../docs/reference/word-lists.*.md` | Generated: the word lists by semantic domain. |
 
-Run `uv run tools/build_lexicon.py` after editing to validate the entries and regenerate the outputs. `uv run tools/build_lexicon.py --check` only validates; `--only lexicon/entries/FILE.yaml` validates a single file.
+Run `uv run tools/build_lexicon.py` after editing to validate the entries and regenerate the outputs. `uv run tools/build_lexicon.py --check` only validates; `--only lexicon/entries/FILE.yaml` validates a single file. The site build on GitHub regenerates the outputs too, so the published dictionary always matches the entries on `main`.
 
 ## Entry format
 

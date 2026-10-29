@@ -7,8 +7,9 @@
 Outputs:
   lexicon/kisiei.csv              one row per entry (UTF-8, comma-separated)
   lexicon/kisiei.lift             LIFT 0.13 XML, importable into FieldWorks / Lexique Pro
-  docs/reference/word-lists.fr.md word lists by semantic domain (French)
-  docs/reference/word-lists.en.md word lists by semantic domain (English)
+  docs/reference/dictionary.{fr,en}.md     alphabetical dictionary, Kisiei-French / Kisiei-English
+  docs/reference/reverse-index.{fr,en}.md  French-Kisiei / English-Kisiei index
+  docs/reference/word-lists.{fr,en}.md     word lists by semantic domain
 
 Usage:  uv run tools/build_lexicon.py [--check] [--only lexicon/entries/FILE.yaml]
 With --check, nothing is written; the exit code is 1 if validation fails.
@@ -269,6 +270,198 @@ def export_page(lang, entries, domains, words):
     return "\n".join(lines)
 
 
+# Alphabetical order proposed in docs/orthography/alphabet: each Kisiei letter follows the nearest
+# Latin one; letters only found in loanwords (j q x z) take their Latin place. Tone marks are ignored.
+ALPHABET = "a b c d e ɛ f g h i j k l m n ŋ ɲ o ɔ p q r s t u v w x y z".split()
+RANK = {c: i for i, c in enumerate(ALPHABET)}
+LETTER_ID = {"ɛ": "e-open", "ŋ": "ng", "ɲ": "ny", "ɔ": "o-open"}
+
+DICT_TEXT = {
+    "fr": {"title": "Dictionnaire kisiei–français", "rev_title": "Index français–kisiei",
+           "abbr": {"noun": "n.", "verb": "v.", "adj": "adj.", "adv": "adv.", "pron": "pron.", "num": "num.",
+                    "det": "dét.", "prep": "prép.", "postp": "postp.", "conj": "conj.", "part": "part.",
+                    "interj": "interj.", "ideo": "idéo.", "name": "n. pr."},
+           "pl": "pl.", "forms": "autres formes", "south_only": "kissi du Sud seulement",
+           "south_sense": "kissi du Sud", "letters": "Lettres",
+           "intro": (
+               "Ce dictionnaire est produit automatiquement à partir du "
+               "[lexique](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) du projet ({n} entrées). "
+               "Les mots sont classés dans l'[ordre alphabétique du kisiei](../orthography/alphabet.md#ordre-alphabetique) "
+               "(*ɛ* après *e*, *ŋ* et *ɲ* après *n*, *ɔ* après *o*) ; les accents de ton ne comptent pas pour le classement. "
+               "Le soulignement de chaque mot indique sa source, comme dans le reste du guide : "
+               "<span class=\"ks-badge ks-att\">Attesté</span> dans la Bible (avec un renvoi à une occurrence), "
+               "<span class=\"ks-badge ks-conf\">Confirmé</span> par un locuteur, "
+               "<span class=\"ks-badge ks-res\">Réécrit</span> d'après Keita 1979, "
+               "<span class=\"ks-badge ks-chk\">À vérifier</span>, ou "
+               "<span class=\"ks-badge ks-south\">kissi du Sud</span> (Childs 2000 seulement, non attesté au Nord). "
+               "Pour chercher un mot à partir du français, voir l'[index français–kisiei](reverse-index.md) ; "
+               "pour un classement par thèmes, voir les [listes de mots](word-lists.md)."),
+           "rev_intro": (
+               "Cet index renvoie des mots français aux mots kisiei du [dictionnaire](dictionary.md) ({n} mots-clés). "
+               "Les mots-clés sont tirés des définitions. Ils sont classés sans tenir compte des accents, "
+               "de l'article ni du *se* des verbes pronominaux (*s'asseoir* sous *A*). "
+               "Le soulignement de chaque mot kisiei indique sa source (voir le [dictionnaire](dictionary.md))."),
+           },
+    "en": {"title": "Kisiei–English dictionary", "rev_title": "English–Kisiei index",
+           "abbr": {"noun": "n.", "verb": "v.", "adj": "adj.", "adv": "adv.", "pron": "pron.", "num": "num.",
+                    "det": "det.", "prep": "prep.", "postp": "postp.", "conj": "conj.", "part": "part.",
+                    "interj": "interj.", "ideo": "ideo.", "name": "prop. n."},
+           "pl": "pl.", "forms": "other forms", "south_only": "Southern Kissi only",
+           "south_sense": "Southern Kissi", "letters": "Letters",
+           "intro": (
+               "This dictionary is generated automatically from the project's "
+               "[lexicon](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) ({n} entries). "
+               "Words follow the [Kisiei alphabetical order](../orthography/alphabet.md#alphabetical-order) "
+               "(*ɛ* after *e*, *ŋ* and *ɲ* after *n*, *ɔ* after *o*); tone marks are ignored for sorting. "
+               "The underline of each word shows its source, as elsewhere in this guide: "
+               "<span class=\"ks-badge ks-att\">Attested</span> in the Bible (with a reference to one occurrence), "
+               "<span class=\"ks-badge ks-conf\">Confirmed</span> by a speaker, "
+               "<span class=\"ks-badge ks-res\">Respelled</span> from Keita 1979, "
+               "<span class=\"ks-badge ks-chk\">To check</span>, or "
+               "<span class=\"ks-badge ks-south\">Southern Kissi</span> (Childs 2000 only, not attested in the North). "
+               "To look up a word from English, see the [English–Kisiei index](reverse-index.md); "
+               "for words grouped by theme, see the [word lists](word-lists.md)."),
+           "rev_intro": (
+               "This index leads from English words to the Kisiei words of the [dictionary](dictionary.md) "
+               "({n} keywords). The keywords are taken from the definitions and sorted without a leading *a*, *the* or *to*. "
+               "The underline of each Kisiei word shows its source (see the [dictionary](dictionary.md))."),
+           },
+}
+
+
+def kisiei_sort(word):
+    k = key(word)
+    return [RANK.get(c, len(RANK)) for c in k if c in RANK] + [len(RANK) + 1], k
+
+
+def letter_of(word):
+    for c in key(word):
+        if c in RANK:
+            return c
+    return "?"
+
+
+def letter_heading(c):
+    return f"## {c.upper()} {{#{LETTER_ID.get(c, c)}}}"
+
+
+def letter_bar(letters, label):
+    links = " · ".join(f"[{c.upper()}](#{LETTER_ID.get(c, c)})" for c in letters)
+    return f'<p class="ks-letters" markdown="1"><strong>{label}</strong> {links}</p>'
+
+
+def entry_source(e, words, lang):
+    b = bible_info(e, words)
+    if b:
+        return f"[{bible_label(e.get('example') or b[1], lang)}]({BIBLE_URL.format(ref=e.get('example') or b[1])})"
+    if e.get("keita"):
+        return f"Keita 1979, p. {e['keita'].get('page', '?')}"
+    if e["status"] == "southern" and e.get("childs"):
+        return f"Childs 2000, p. {e['childs'].get('page', '?')}"
+    return ""
+
+
+def export_dictionary(lang, entries, words):
+    t = DICT_TEXT[lang]
+    entries = sorted(entries, key=lambda e: (kisiei_sort(str(e["lemma"])), str(e["lemma"]), e["pos"]))
+    same = {}
+    for e in entries:
+        same.setdefault(str(e["lemma"]), []).append(e)
+    by_letter = {}
+    for e in entries:
+        by_letter.setdefault(letter_of(str(e["lemma"])), []).append(e)
+    letters = sorted(by_letter, key=lambda c: RANK.get(c, len(RANK)))
+    lines = [f"# {t['title']}", "", "<!-- Generated by tools/build_lexicon.py from lexicon/entries/*.yaml; do not edit by hand. -->", "",
+             t["intro"].format(n=len(entries)), "", letter_bar(letters, t["letters"]), ""]
+    for c in letters:
+        lines += [letter_heading(c), "", '<div class="ks-dict" markdown="1">', ""]
+        for e in by_letter[c]:
+            flag = FLAG[e["status"]].replace("\\", "")
+            lemma = str(e["lemma"])
+            head = f"**{{{{{lemma}{flag}}}}}**"
+            if len(same[lemma]) > 1:
+                head += f"<sup>{same[lemma].index(e) + 1}</sup>"
+            parts = [head, f"*{t['abbr'][e['pos']]}*" + (f" ({e['class']})" if e.get("class") else "")]
+            if e.get("plural"):
+                parts[-1] += f", {t['pl']} {{{{{e['plural']}{flag}}}}}"
+            text = " ".join(parts)
+            if e["status"] == "southern":
+                text += f" — **{t['south_only']}**"
+            text += " — " + e["gloss"][lang].rstrip(".") + "."
+            sense = (e.get("childs") or {}).get("sense")
+            if sense and e["status"] != "southern":
+                text += f" *{t['south_sense']} (Childs 2000, en anglais) :* {sense.rstrip('.')}." if lang == "fr" else \
+                        f" *{t['south_sense']} (Childs 2000):* {sense.rstrip('.')}."
+            forms = [str(f) for f in e.get("forms") or [] if str(f) != lemma]
+            if forms:
+                text += f" {t['forms'].capitalize()}{' :' if lang == 'fr' else ':'} " + ", ".join(f"*{f}*" for f in forms) + "."
+            src = entry_source(e, words, lang)
+            if src:
+                text += f" <span class=\"ks-src\">{src}</span>"
+            lines += [text, ""]
+        lines += ["</div>", ""]
+    return "\n".join(lines)
+
+
+def split_gloss(gloss):
+    """Split a gloss on ';' and ',' outside parentheses; return (display, sort text) pairs."""
+    out, depth, cur = [], 0, ""
+    for ch in gloss + ",":
+        if ch in "([":
+            depth += 1
+        elif ch in ")]":
+            depth = max(0, depth - 1)
+        if ch in ",;" and depth == 0:
+            seg = cur.strip().rstrip(".").strip()
+            if seg:
+                out.append(seg)
+            cur = ""
+        else:
+            cur += ch
+    return out
+
+
+def rev_sort(seg, lang):
+    s = re.sub(r"\([^)]*\)", "", seg).strip(" .…«»\"'").lower()
+    if lang == "fr":
+        s = re.sub(r"^(le |la |les |l'|l’|un |une |des )?(se |s'|s’)?", "", s)
+    else:
+        s = re.sub(r"^(to |a |an |the )", "", s)
+    s = "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+    s = s.replace("œ", "oe").replace("æ", "ae")
+    return re.sub(r"[^\w ]", "", s).strip()
+
+
+def export_reverse(lang, entries, words):
+    t = DICT_TEXT[lang]
+    index = {}
+    for e in entries:
+        for seg in split_gloss(e["gloss"][lang]):
+            sk = rev_sort(seg, lang)
+            if not sk or not sk[0].isalpha():
+                continue
+            index.setdefault((sk, seg), []).append(e)
+    keys = sorted(index, key=lambda k: (k[0], k[1].lower(), k[1]))
+    by_letter = {}
+    for k in keys:
+        by_letter.setdefault(k[0][0], []).append(k)
+    letters = sorted(by_letter)
+    lines = [f"# {t['rev_title']}", "", "<!-- Generated by tools/build_lexicon.py from lexicon/entries/*.yaml; do not edit by hand. -->", "",
+             t["rev_intro"].format(n=len(keys)), "", letter_bar(letters, t["letters"]), ""]
+    for c in letters:
+        lines += [f"## {c.upper()} {{#{c}}}", "", '<div class="ks-dict" markdown="1">', ""]
+        for k in by_letter[c]:
+            targets = []
+            for e in sorted(index[k], key=lambda e: kisiei_sort(str(e["lemma"]))):
+                w = f"{{{{{e['lemma']}{FLAG[e['status']].replace(chr(92), '')}}}}} *{t['abbr'][e['pos']]}*"
+                if e["status"] == "southern":
+                    w += f" ({t['south_only']})"
+                targets.append(w)
+            lines += [f"**{k[1]}** — " + " ; ".join(targets) if lang == "fr" else f"**{k[1]}** — " + "; ".join(targets), ""]
+        lines += ["</div>", ""]
+    return "\n".join(lines)
+
+
 def main():
     only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
     check = "--check" in sys.argv or only is not None
@@ -289,7 +482,11 @@ def main():
     for lang in ("fr", "en"):
         (ROOT / "docs" / "reference" / f"word-lists.{lang}.md").write_text(
             export_page(lang, entries, domains, words), encoding="utf-8")
-    print("wrote lexicon/kisiei.csv, lexicon/kisiei.lift, docs/reference/word-lists.{fr,en}.md")
+        (ROOT / "docs" / "reference" / f"dictionary.{lang}.md").write_text(
+            export_dictionary(lang, entries, words), encoding="utf-8")
+        (ROOT / "docs" / "reference" / f"reverse-index.{lang}.md").write_text(
+            export_reverse(lang, entries, words), encoding="utf-8")
+    print("wrote lexicon/kisiei.csv, lexicon/kisiei.lift, docs/reference/{dictionary,reverse-index,word-lists}.{fr,en}.md")
 
 
 if __name__ == "__main__":

@@ -57,7 +57,7 @@
 
 # Numerals
 - {lemma: pilɛ, status: attested, pos: num, gloss: {fr: "un", en: "one"}, domains: ["8.1.1"], childs: {page: 301, form: "pìlɛ́ɛ́"}}
-- {lemma: tiɔn, status: attested, pos: num, forms: [ŋiɔn, ŋiin, miɔn], gloss: {fr: "deux", en: "two"}, domains: ["8.1.1"], note: "La forme varie selon la classe du nom compté.", childs: {page: 362, form: "tìɔ́ɔ́ŋ"}}
+- {lemma: tiɔn, status: attested, pos: num, forms: [ŋiɔn, ŋiin, miɔn, miun, miunndon], gloss: {fr: deux, en: two}, domains: [8.1.1], note: La forme varie selon la classe du nom compté., childs: {page: 362, form: tìɔ́ɔ́ŋ}}
 - {lemma: yáá, status: attested, pos: num, gloss: {fr: "trois", en: "three"}, domains: ["8.1.1"], childs: {page: 394, form: "yàá"}}
 - {lemma: hiɔɔlu, status: attested, pos: num, gloss: {fr: "quatre", en: "four"}, domains: ["8.1.1"], childs: {page: 128, form: "hìɔ́ɔ́lú"}}
 - {lemma: ŋuɛɛnu, status: attested, pos: num, gloss: {fr: "cinq", en: "five"}, domains: ["8.1.1"], childs: {page: 272, form: "ŋùɛ́ɛ́nú"}}

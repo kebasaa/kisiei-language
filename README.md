@@ -36,7 +36,13 @@ uv run --with-requirements requirements-docs.txt mkdocs serve
 uv run --with-requirements requirements-docs.txt mkdocs build --strict
 ```
 
-The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions runs these checks, builds the site and pushes the result to the `gh-pages` branch, from which GitHub Pages serves it at <https://kebasaa.github.io/kisiei-language/>. In the repository **Settings → Pages → Build and deployment**, the source is "Deploy from a branch", branch `gh-pages`, folder `/ (root)`; the site address is also shown there. Do not edit `gh-pages` by hand: it is overwritten on every deployment.
+The build fails if a Kisiei example marked as attested is not in the Bible word list, if a citation key is unknown, or if a link is broken. `python tools/check_i18n.py` reports pages missing in either language. On every push to `main`, GitHub Actions runs these checks, regenerates the lexicon pages (dictionary, reverse index, word lists) from `lexicon/entries/`, builds the site and pushes the result to the `gh-pages` branch, from which GitHub Pages serves it at <https://kebasaa.github.io/kisiei-language/>. In the repository **Settings → Pages → Build and deployment**, the source is "Deploy from a branch", branch `gh-pages`, folder `/ (root)`; the site address is also shown there. Do not edit `gh-pages` by hand: it is overwritten on every deployment. GitHub only sees commits once they are pushed: a local commit updates the site at the next `git push`.
+
+To keep the generated lexicon files in the repository in step with the entries, you can enable the optional pre-commit hook once per clone; it runs `tools/build_lexicon.py` whenever lexicon entries are committed and adds the regenerated files to the commit:
+
+```bash
+git config core.hooksPath tools/hooks
+```
 
 ### Bible tools
 
