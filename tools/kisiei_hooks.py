@@ -4,7 +4,7 @@
   (``references/bible-bkg-wordforms.tsv``, compared without tone marks and case), otherwise
   the build fails. ``{{word|r}}`` marks a form respelled from the 1979 source that the Bible
   does not contain; ``{{word|?}}`` marks a form still to check. They render as
-  ``<span class="ks ks-att|ks-res|ks-chk">``.
+  ``<span class="ks ks-att|ks-conf|ks-res|ks-chk">``.
 * ``[[GEN.1.3]]`` (USFM book, chapter, verse or range) becomes a link to the verse on
   bible.com, written with the French or English book abbreviation of the page.
 * ``[[Key]]`` or ``[[Key|text]]`` cites ``docs/references.bib``; the bibliography page gets the
@@ -44,11 +44,13 @@ BOOKS = {  # USFM: (French, English)
     "2PE": ("2 P", "2 Pet"), "1JN": ("1 Jn", "1 John"), "2JN": ("2 Jn", "2 John"), "3JN": ("3 Jn", "3 John"),
     "JUD": ("Jude", "Jude"), "REV": ("Ap", "Rev"),
 }
-STATUS = {"": "att", "r": "res", "?": "chk"}
+STATUS = {"": "att", "c": "conf", "r": "res", "?": "chk"}
 TITLES = {
-    "fr": {"att": "Attesté dans la Bible (BKG)", "res": "Réécrit d'après Keita 1979, absent de la Bible",
+    "fr": {"att": "Attesté dans la Bible (BKG)", "conf": "Confirmé par un locuteur du kisiei, absent de la Bible",
+           "res": "Réécrit d'après Keita 1979, absent de la Bible",
            "chk": "À vérifier"},
-    "en": {"att": "Attested in the Bible (BKG)", "res": "Respelled from Keita 1979, not in the Bible",
+    "en": {"att": "Attested in the Bible (BKG)", "conf": "Confirmed by a Kisiei speaker, not in the Bible",
+           "res": "Respelled from Keita 1979, not in the Bible",
            "chk": "To check"},
 }
 WORD_RE = re.compile(r"(?:[^\W\d_]|[\u0300-\u036f])+(?:[-'’](?:[^\W\d_]|[\u0300-\u036f])+)*")

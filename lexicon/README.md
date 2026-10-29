@@ -11,6 +11,7 @@ A structured, machine- and human-readable lexicon of Kisiei, classified by **sem
   3. **Childs (2000)**, *A Dictionary of the Kisi Language*, describes Southern Kissi. It is used to check words that are not in the Bible (existence, spelling, meaning) and to suggest further senses. It is never copied wholesale; only the page reference and the point checked are recorded.
 - **Status of each entry:**
   - `attested`: the lemma (and any plural or variant given) is in the Bible word list, ignoring tone. This is checked at build time.
+  - `confirmed`: not in the Bible, but the form and meaning have been confirmed by a speaker of Kisiei (Northern Kissi). Say who or when in `note` if useful.
   - `respelled`: taken from Keita 1979 and converted to the current orthography, but not found in the Bible.
   - `check`: the form or meaning is uncertain and needs a speaker's confirmation.
 
@@ -30,7 +31,7 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
 
 ```yaml
 - lemma: bollen              # citation form, current (Bible) spelling
-  status: attested           # attested | respelled | check
+  status: attested           # attested | confirmed | respelled | check
   pos: noun                  # noun verb adj adv pron num det prep postp conj part interj ideo name
   class: len                 # noun class (nouns): o, i, an, len, lan; plural classes a, on
   plural: bóltan             # plural form, if known

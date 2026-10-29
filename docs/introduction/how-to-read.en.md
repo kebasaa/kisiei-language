@@ -7,6 +7,7 @@ All Kisiei words and sentences are in *underlined italics*. The colour and style
 | Mark | Status | What it means |
 | --- | --- | --- |
 | {{cɛiyo}} | <span class="ks-badge ks-att">Attested</span> | Every word occurs in the Kisiei Bible [[(BKG)]], apart from tones and capitals. This is the reference spelling. |
+| {{ŋɔ́ɔ́ŋŋɔ́ɔ́ŋndó\|c}} | <span class="ks-badge ks-conf">Confirmed</span> | The word does not occur in the Bible, but a Kisiei speaker has confirmed its form and meaning. |
 | {{tafeo\|r}} | <span class="ks-badge ks-res">Respelled</span> | The word comes from the 1979 manual [[(Keita1979)]] and has been respelled according to the current rules, but it does not occur in the Bible. The spelling is likely, not guaranteed. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">To check</span> | The form or meaning is uncertain: hard-to-read handwritten note, a word found only once, etc. |
 

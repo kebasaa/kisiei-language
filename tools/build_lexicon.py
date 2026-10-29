@@ -24,7 +24,7 @@ WORDLIST = ROOT / "references" / "bible-bkg-wordforms.tsv"
 BIBLE_URL = "https://www.bible.com/bible/1394/{ref}.BKG"
 WORD_RE = re.compile(r"(?:[^\W\d_]|[̀-ͯ])+(?:[-'’](?:[^\W\d_]|[̀-ͯ])+)*")
 
-STATUSES = {"attested", "respelled", "check"}
+STATUSES = {"attested", "confirmed", "respelled", "check"}
 POS = {"noun": ("nom", "noun"), "verb": ("verbe", "verb"), "adj": ("adjectif", "adjective"),
        "adv": ("adverbe", "adverb"), "pron": ("pronom", "pronoun"), "num": ("nombre", "numeral"),
        "det": ("déterminant", "determiner"), "prep": ("préposition", "preposition"),
@@ -195,6 +195,7 @@ TEXT = {
                "du projet ({n} entrées). Les mots sont classés par **domaines sémantiques** selon la classification "
                "[SIL Semantic Domains](https://semdom.org/v4/) ; un mot peut figurer dans plusieurs domaines. "
                "Les mots attestés renvoient à leur première occurrence dans la Bible en kisiei ; les mots "
+               "<span class=\"ks-badge ks-conf\">Confirmé</span> sont absents de la Bible mais confirmés par un locuteur ; les mots "
                "<span class=\"ks-badge ks-res\">Réécrit</span> viennent de la description de 1979 et doivent être "
                "confirmés. Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
     "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
@@ -203,10 +204,11 @@ TEXT = {
                "({n} entries). Words are grouped by **semantic domain** following the "
                "[SIL Semantic Domains](https://semdom.org/v4/) classification; a word may appear in several domains. "
                "Attested words link to their first occurrence in the Kisiei Bible; "
+               "<span class=\"ks-badge ks-conf\">Confirmed</span> words are not in the Bible but confirmed by a speaker; "
                "<span class=\"ks-badge ks-res\">Respelled</span> words come from the 1979 description and still need "
                "confirmation. The lexicon is also available as CSV and LIFT (for FieldWorks).")},
 }
-FLAG = {"attested": "", "respelled": "\\|r", "check": "\\|?"}
+FLAG = {"attested": "", "confirmed": "\\|c", "respelled": "\\|r", "check": "\\|?"}
 
 
 def bible_label(ref, lang):

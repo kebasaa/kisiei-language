@@ -8,6 +8,7 @@
   --md-accent-fg-color: #b4532a;
   --md-typeset-a-color: #1f6b4a;
   --ks-att: #1b7f4b;
+  --ks-conf: #1d5fa8;
   --ks-res: #a8590b;
   --ks-chk: #b3261e;
   --ks-box-bg: rgba(31, 77, 54, 0.05);
@@ -29,6 +30,7 @@
   --md-code-bg-color: #14211b;
   --md-footer-bg-color: #0a140f;
   --ks-att: #5fd08f;
+  --ks-conf: #8ab4f8;
   --ks-res: #f0a45f;
   --ks-chk: #ff8a80;
   --ks-box-bg: rgba(127, 208, 162, 0.06);
@@ -51,6 +53,7 @@
   text-underline-offset: 3px;
 }
 .md-typeset .ks-att { text-decoration-color: var(--ks-att); text-decoration-style: solid; }
+.md-typeset .ks-conf { text-decoration-color: var(--ks-conf); text-decoration-style: double; }
 .md-typeset .ks-res { text-decoration-color: var(--ks-res); text-decoration-style: dashed; }
 .md-typeset .ks-chk { text-decoration-color: var(--ks-chk); text-decoration-style: dotted; }
 .md-typeset th .ks, .md-typeset h2 .ks, .md-typeset h3 .ks { font-style: normal; }
@@ -68,6 +71,7 @@
   white-space: nowrap;
 }
 .ks-badge.ks-att { color: var(--ks-att); }
+.ks-badge.ks-conf { color: var(--ks-conf); }
 .ks-badge.ks-res { color: var(--ks-res); }
 .ks-badge.ks-chk { color: var(--ks-chk); }
 
@@ -103,6 +107,7 @@
     --md-typeset-color: #000000;
     --md-typeset-a-color: #1f4d36;
     --ks-att: #1b7f4b;
+    --ks-conf: #1d5fa8;
     --ks-res: #a8590b;
     --ks-chk: #b3261e;
   }
