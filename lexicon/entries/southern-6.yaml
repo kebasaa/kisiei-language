@@ -1,0 +1,211 @@
+# Southern Kissi words from Childs (2000), A Dictionary of the Kisi Language, printed pages 351-418,
+# that have no counterpart in the Kisiei Bible (BKG) or in Keita (1979). Lemmas are Childs's headwords
+# as printed, with his tones; glosses give the Southern meaning in our own words. Derived verb forms
+# (benefactive, middle, plural, causative) and cross-references are not listed separately.
+
+- {lemma: wóŋáá, status: southern, pos: noun, class: o, gloss: {fr: "bas du dos, reins", en: "lower back"}, domains: ["2.1.2"], childs: {page: 389, form: "wóŋáá"}}
+- {lemma: wóŋóó, status: southern, pos: noun, class: o, plural: wóŋúéí, gloss: {fr: "arbre (espèce) qui fait un bon bois de feu", en: "tree species, good firewood"}, domains: ["1.5.1", "5.5.6"], childs: {page: 389, form: "wóŋóó"}}
+- {lemma: wóŋgbóŋ, status: southern, pos: ideo, gloss: {fr: "tout à fait dégagé, découvert", en: "completely clear, open"}, domains: ["9.2.8"], childs: {page: 389, form: "wóŋgbóŋ"}}
+- {lemma: wòòmbìá, status: southern, pos: verb, gloss: {fr: "séparer (des gens qui se battent)", en: "separate (people fighting), stop a fight"}, domains: ["4.8.4"], childs: {page: 389, form: "wòòmbìá"}}
+- {lemma: wòsòŋǎŋndó, status: southern, pos: verb, gloss: {fr: "tomber lourdement", en: "fall heavily"}, domains: ["7.2.2"], childs: {page: 389, form: "wòsòŋǎŋndó"}}
+- {lemma: wòùwó, status: southern, pos: verb, gloss: {fr: "s'évanouir", en: "faint"}, domains: ["2.5.6"], childs: {page: 390, form: "wòùwó"}}
+- {lemma: wóyàà, status: southern, pos: noun, class: o, gloss: {fr: "ruse, malice", en: "craftiness, cunning"}, domains: ["4.3"], childs: {page: 390, form: "wóyàà"}}
+- {lemma: wɔ̂, status: southern, pos: ideo, gloss: {fr: "(bruit d'une chose lourde qui tombe)", en: "(sound of something heavy dropping)"}, domains: ["9.2.8"], childs: {page: 390, form: "wɔ̂"}}
+- {lemma: wɔ̀kɔ̀lɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "herbe à toiture, chaume", en: "thatching grass"}, domains: ["1.5.3", "6.5.3"], childs: {page: 390, form: "wɔ̀kɔ̀lɔ̀ɔ́"}}
+- {lemma: wɔ́ŋɔ̀ɔ́, status: southern, pos: noun, class: o, plural: wɔ́ŋùlàŋ, gloss: {fr: "marchandises (à vendre au marché)", en: "goods for sale"}, domains: ["6.9.4"], childs: {page: 390, form: "wɔ́ŋɔ̀ɔ́"}}
+- {lemma: wɔ́pèlɛ̂ŋ, status: southern, pos: ideo, gloss: {fr: "(rencontre soudaine)", en: "(describes encountering)"}, domains: ["9.2.8"], childs: {page: 391, form: "wɔ́pèlɛ̂ŋ"}}
+- {lemma: wɔ̀wàá, status: southern, pos: verb, gloss: {fr: "avoir des haut-le-cœur, vomir", en: "retch, vomit, heave"}, domains: ["2.5.6"], childs: {page: 391, form: "wɔ̀wàá"}}
+- {lemma: wûlé-wûlé, status: southern, pos: ideo, gloss: {fr: "(flambée de broussailles sèches)", en: "(blaze of dry cuttings burning)"}, domains: ["9.2.8", "5.5"], childs: {page: 392, form: "wûlé-wûlé"}}
+- {lemma: wùlóó, status: southern, pos: noun, class: o, gloss: {fr: "femme chargée de critiquer dans la société d'initiation féminine", en: "woman whose role is to criticize in the women's initiation society"}, domains: ["4.9.7", "4.3.9"], childs: {page: 392, form: "wùlóó"}}
+- {lemma: wúlùlù-wúlùlù, status: southern, pos: ideo, gloss: {fr: "(ramasser par grosses poignées)", en: "(picking up in clumps or bunches)"}, domains: ["9.2.8"], childs: {page: 392, form: "wúlùlù-wúlùlù"}}
+- {lemma: wùlúŋndó, status: southern, pos: noun, class: o, gloss: {fr: "pousse de riz", en: "rice sprout"}, domains: ["1.5.6", "6.2.1"], childs: {page: 392, form: "wùlúŋndó"}}
+- {lemma: wûm-wùm, status: southern, pos: ideo, gloss: {fr: "(manger goulûment)", en: "(eating greedily)"}, domains: ["9.2.8", "5.2.2"], childs: {page: 393, form: "wûm-wùm"}}
+- {lemma: wúɛ́pè, status: southern, pos: ideo, gloss: {fr: "soudain, tout à coup", en: "suddenly"}, domains: ["9.2.8"], childs: {page: 393, form: "wúɛ́pè"}}
+- {lemma: wùsùmbàá, status: southern, pos: noun, class: o, plural: wùsùmbèí, gloss: {fr: "instrument à cordes en forme de harpe, à caisse de demi-calebasse", en: "harp-like stringed instrument with a half-calabash body"}, domains: ["4.2.3"], childs: {page: 393, form: "wùsùmbàá"}}
+- {lemma: wúú, status: southern, pos: ideo, gloss: {fr: "(qui dure longtemps, en abondance)", en: "(continuing for a long time, plentiful)"}, domains: ["9.2.8"], childs: {page: 393, form: "wúú"}}
+- {lemma: wùùndàá, status: southern, pos: verb, gloss: {fr: "cueillir par poignées, arracher en masse (feuilles, tiges)", en: "pick in clumps, grab en masse (greens, stems)"}, domains: ["6.2.5"], childs: {page: 393, form: "wùùndàá"}}
+- {lemma: wùùwó, status: southern, pos: verb, gloss: {fr: "ramper (comme un bébé)", en: "crawl (like a baby)"}, domains: ["7.2.1"], childs: {page: 393, form: "wùùwó"}}
+- {lemma: wùùwó, status: southern, pos: noun, class: o, gloss: {fr: "sacrum, coccyx", en: "sacrum, tailbone"}, domains: ["2.1.6"], childs: {page: 394, form: "wùùwó"}}
+- {lemma: yàá, status: southern, pos: noun, class: o, gloss: {fr: "serpent (espèce)", en: "snake species"}, domains: ["1.6.1"], childs: {page: 394, form: "yàá"}}
+- {lemma: yààmàá, status: southern, pos: verb, gloss: {fr: "bâiller ; respirer avec peine", en: "yawn; wheeze"}, domains: ["2.2.1"], childs: {page: 394, form: "yààmàá"}}
+- {lemma: yáánáná, status: southern, pos: ideo, gloss: {fr: "faible, sans force, abattu", en: "weak, listless, downcast"}, domains: ["9.2.8", "2.4.2"], childs: {page: 395, form: "yáánáná"}}
+- {lemma: yààŋ, status: southern, pos: noun, class: ŋ, gloss: {fr: "éraflure ; marque laissée sur la peau (par un pansement)", en: "scratch; mark on the skin (where a bandage was)"}, domains: ["2.5.3"], childs: {page: 395, form: "yààŋ"}}
+- {lemma: yáásàá, status: southern, pos: noun, class: o, gloss: {fr: "plante (espèce) à feuilles comestibles", en: "plant species with edible leaves"}, domains: ["1.5", "5.2.3"], childs: {page: 395, form: "yáásàá"}}
+- {lemma: yáàù, status: southern, pos: ideo, gloss: {fr: "(arracher, tirer d'un coup)", en: "(yanking out)"}, domains: ["9.2.8"], childs: {page: 396, form: "yáàù"}}
+- {lemma: yààwàá, status: southern, pos: noun, class: o, gloss: {fr: "herbe coupante des marais", en: "sword grass (swamps)"}, domains: ["1.5.3"], childs: {page: 396, form: "yààwàá"}}
+- {lemma: yààwèí, status: southern, pos: noun, class: i, plural: yààwǎŋ, gloss: {fr: "oignon", en: "onion"}, domains: ["5.2.3", "1.5"], childs: {page: 396, form: "yààwèí"}}
+- {lemma: yààwìǎŋndó, status: southern, pos: verb, gloss: {fr: "peler, se desquamer", en: "peel"}, domains: ["2.1.4"], childs: {page: 396, form: "yààwìǎŋndó"}}
+- {lemma: yààyàá, status: southern, pos: noun, class: o, gloss: {fr: "serpent (espèce)", en: "snake species"}, domains: ["1.6.1"], childs: {page: 396, form: "yààyàá"}}
+- {lemma: yààyàá, status: southern, pos: verb, gloss: {fr: "augmenter, amplifier (une affaire) ; faire fête (à des initiés)", en: "augment, amplify (a case); celebrate (returning initiates)"}, domains: ["8.1.4"], childs: {page: 396, form: "yààyàá"}}
+- {lemma: yààyɛ́í, status: southern, pos: noun, class: i, plural: yààyáŋ, gloss: {fr: "grelots, hochets de fer, clochettes enfilées", en: "bells, iron rattles, strung small bells"}, domains: ["4.2.3", "5.4"], childs: {page: 396, form: "yààyɛ́í"}, note: "La Bible a une fois yaayaan pɔmbɔ-pɔmbɔn parmi les parures (ISA.3.20) ; sens à vérifier."}
+- {lemma: yákólàá, status: southern, pos: noun, class: o, gloss: {fr: "grand singe", en: "large monkey"}, domains: ["1.6.1"], childs: {page: 396, form: "yákólàá"}}
+- {lemma: yàlàbàá, status: southern, pos: noun, class: o, gloss: {fr: "tromperie, mensonge", en: "deceit, lying"}, domains: ["4.3"], childs: {page: 397, form: "yàlàbàá"}}
+- {lemma: yálábóndáá, status: southern, pos: noun, class: o, gloss: {fr: "grenouille (espèce) ; arc-en-ciel", en: "frog species; rainbow"}, domains: ["1.6.1", "1.1"], childs: {page: 397, form: "yálábóndáá"}, note: "On dit que cette grenouille est présente quand l'arc-en-ciel apparaît."}
+- {lemma: yàláfùlòó, status: southern, pos: noun, class: o, gloss: {fr: "serpent venimeux", en: "poisonous snake"}, domains: ["1.6.1"], childs: {page: 397, form: "yàláfùlòó"}}
+- {lemma: yàlàkánáá, status: southern, pos: noun, class: o, gloss: {fr: "lion", en: "lion"}, domains: ["1.6.1"], childs: {page: 397, form: "yàlàkánáá"}, note: "Variante méridionale ; la Bible et Keita ont yàlàá « lion »."}
+- {lemma: yǎlbándíláá, status: southern, pos: noun, class: o, gloss: {fr: "maladie qui obstrue l'entrée du vagin", en: "illness closing the entrance of the vagina"}, domains: ["2.5.2"], childs: {page: 397, form: "yǎlbándíláá"}}
+- {lemma: yàmáfìkóó, status: southern, pos: noun, class: o, plural: yàmáfìkóláŋ, gloss: {fr: "balançoire ; fronde", en: "swing; sling"}, domains: ["4.2.6"], childs: {page: 397, form: "yàmáfìkóó"}}
+- {lemma: yàmátàndíó, status: southern, pos: noun, class: o, gloss: {fr: "oiseau (espèce) qui appelle les autres à manger le riz", en: "bird species that calls other birds to the rice"}, domains: ["1.6.1"], childs: {page: 397, form: "yàmátàndíó"}}
+- {lemma: yàmbàá, status: southern, pos: noun, class: o, gloss: {fr: "jupe de raphia", en: "raffia skirt"}, domains: ["5.3.3"], childs: {page: 397, form: "yàmbàá"}}
+- {lemma: yàndìá, status: southern, pos: verb, gloss: {fr: "tisser ; dérouler (étoffe, pelote, ficelle)", en: "weave; unroll (cloth, ball, string)"}, domains: ["6.6.1"], childs: {page: 398, form: "yàndìá"}}
+- {lemma: yàndɔ̀ɔ́, status: southern, pos: noun, class: o, plural: yàndɔ̀ɔ̀láŋ, gloss: {fr: "jeune fruit, fruit qui vient de nouer", en: "young, newly formed fruit"}, domains: ["1.5.5"], childs: {page: 398, form: "yàndɔ̀ɔ́"}, note: "Nom dérivé du verbe yandɔɔ « fleurir » (Keita)."}
+- {lemma: yàndúléŋ, status: southern, pos: noun, class: le, gloss: {fr: "détente (d'un fusil)", en: "trigger (of a gun)"}, domains: ["6.7", "6.4.1"], childs: {page: 398, form: "yàndúléŋ"}}
+- {lemma: yàɲáŋndó, status: southern, pos: noun, class: o, gloss: {fr: "marécage broussailleux", en: "watery swamp full of brush"}, domains: ["1.3.1"], childs: {page: 398, form: "yàɲáŋndó"}}
+- {lemma: yàŋìlàá, status: southern, pos: noun, class: o, gloss: {fr: "pagne-jupe traditionnel (hommes et femmes)", en: "traditional skirt (worn by men and women)"}, domains: ["5.3.3"], childs: {page: 398, form: "yàŋìlàá"}}
+- {lemma: yáŋgbàŋ, status: southern, pos: ideo, gloss: {fr: "grand ouvert, largement", en: "wide open, widely"}, domains: ["9.2.8", "8.2"], childs: {page: 398, form: "yáŋgbàŋ"}}
+- {lemma: yàŋgbâŋ-, status: southern, pos: adj, gloss: {fr: "large", en: "wide"}, domains: ["8.2"], childs: {page: 398, form: "yàŋgbâŋ-"}}
+- {lemma: yàsàá, status: southern, pos: verb, gloss: {fr: "gratter le sol (volaille) ; fouiller, chercher ; taquiner ; danser", en: "scratch the ground (fowl); rummage, search; tease; dance"}, domains: ["7.6.1", "1.6.4"], childs: {page: 398, form: "yàsàá"}}
+- {lemma: yàsáŋ-bělló, status: southern, pos: noun, gloss: {fr: "régime de noix de palme", en: "bunch of palm nuts"}, domains: ["1.5.5"], childs: {page: 399, form: "yàsáŋ-bělló"}}
+- {lemma: yáù, status: southern, pos: ideo, gloss: {fr: "(tirer d'un coup sec)", en: "(dragging quickly, yanking)"}, domains: ["9.2.8"], childs: {page: 399, form: "yáù"}}
+- {lemma: yàùwà-, status: southern, pos: adj, gloss: {fr: "de cuisine, à cuire", en: "cooking, used for cooking"}, domains: ["5.2.1"], childs: {page: 399, form: "yàùwà-"}}
+- {lemma: yàwàá, status: southern, pos: verb, gloss: {fr: "enlever, arracher, prendre de force", en: "take away, remove, snatch"}, domains: ["7.3.2"], childs: {page: 400, form: "yàwàá"}}
+- {lemma: yàwǎŋndó, status: southern, pos: verb, gloss: {fr: "se détacher en pelant (croûte)", en: "peel off"}, domains: ["7.8"], childs: {page: 400, form: "yàwǎŋndó"}}
+- {lemma: yáwèlè-yáwèlè, status: southern, pos: ideo, gloss: {fr: "(nourriture mal cuite ou trop cuite)", en: "(food badly cooked, overdone)"}, domains: ["9.2.8", "5.2.1"], childs: {page: 400, form: "yáwèlè-yáwèlè"}}
+- {lemma: yáyâŋndó, status: southern, pos: noun, class: o, gloss: {fr: "arbre (espèce)", en: "tree species"}, domains: ["1.5.1"], childs: {page: 400, form: "yáyâŋndó"}}
+- {lemma: yèèmìá, status: southern, pos: noun, class: o, plural: yèèmìàláŋ, gloss: {fr: "interdit alimentaire, tabou", en: "taboo, forbidden food"}, domains: ["4.3.9", "5.2"], childs: {page: 401, form: "yèèmìá"}, note: "Nom ; le verbe correspondant yeemiaa « avoir en horreur » est attesté dans la Bible."}
+- {lemma: yèèŋgòó, status: southern, pos: noun, class: le, gloss: {fr: "sentier laissé entre deux champs", en: "path left between farms"}, domains: ["6.2.9", "6.5.4"], childs: {page: 401, form: "yèèŋgòó"}}
+- {lemma: yééyóó, status: southern, pos: noun, class: o, plural: yééyíá, gloss: {fr: "mante religieuse", en: "praying mantis"}, domains: ["1.6.1"], childs: {page: 401, form: "yééyóó"}}
+- {lemma: yèlèŋ-yéléŋndó, status: southern, pos: noun, class: o, gloss: {fr: "grossièreté, conduite folle ou irrespectueuse, crise", en: "rudeness, crazy or disrespectful behaviour, fit"}, domains: ["4.3", "3.1.2"], childs: {page: 402, form: "yèlèŋ-yéléŋndó"}}
+- {lemma: yémbálló, status: southern, pos: noun, class: o, gloss: {fr: "lieu de bain des femmes", en: "women's bathhouse"}, domains: ["5.6.2", "6.5.1"], childs: {page: 402, form: "yémbálló"}}
+- {lemma: yémbálnɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "purificateur, exorciste (qui lave personnes et lieux des souillures)", en: "exorcist, ritual cleanser"}, domains: ["4.9.5", "4.1.2"], childs: {page: 402, form: "yémbálnɔ̀ɔ́"}}
+- {lemma: yèméí, status: southern, pos: noun, class: i, gloss: {fr: "fraternité, lien entre frères et sœurs", en: "sibling relationship"}, domains: ["4.1.9"], childs: {page: 402, form: "yèméí"}}
+- {lemma: yéŋé-yéŋé, status: southern, pos: ideo, gloss: {fr: "en équilibre instable ; aux aguets (oreilles dressées) ; équilibré", en: "delicately balanced; alertly (ears pricked); balanced"}, domains: ["9.2.8"], childs: {page: 402, form: "yéŋé-yéŋé"}}
+- {lemma: yéŋndó, status: southern, pos: noun, class: o, gloss: {fr: "jeune boa", en: "young boa constrictor"}, domains: ["1.6.1"], childs: {page: 402, form: "yéŋndó"}}
+- {lemma: yèùwó, status: southern, pos: noun, class: o, gloss: {fr: "petit animal (plus petit qu'une chèvre) dont la peau sert pour les tambours", en: "small animal whose skin is used for drums"}, domains: ["1.6.1"], childs: {page: 403, form: "yèùwó"}}
+- {lemma: yééléŋ, status: southern, pos: noun, class: le, gloss: {fr: "venin", en: "venom"}, domains: ["1.6.2"], childs: {page: 403, form: "yééléŋ"}}
+- {lemma: yéémɔ́ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "rat à ventre blanc", en: "white-bellied rat"}, domains: ["1.6.1"], childs: {page: 403, form: "yéémɔ́ɔ́"}}
+- {lemma: yèèyɛ́í, status: southern, pos: noun, class: i, plural: yèèyɔ́ŋ, gloss: {fr: "mycose des pieds, infection de la peau", en: "athlete's foot, skin infection"}, domains: ["2.5.2"], childs: {page: 403, form: "yèèyɛ́í"}}
+- {lemma: yɛ́fɛ́-yɛ́fɛ́, status: southern, pos: ideo, gloss: {fr: "(secouer, s'ébrouer)", en: "(shaking, as a dog shaking off water)"}, domains: ["9.2.8"], childs: {page: 404, form: "yɛ́fɛ́-yɛ́fɛ́"}}
+- {lemma: yɛ́íyó, status: southern, pos: noun, class: o, gloss: {fr: "parent, membre de la famille", en: "relative"}, domains: ["4.1.9"], childs: {page: 404, form: "yɛ́íyó"}}
+- {lemma: yɛ̀kàyɛ̀kàá, status: southern, pos: verb, gloss: {fr: "rincer", en: "rinse"}, domains: ["5.6"], childs: {page: 404, form: "yɛ̀kàyɛ̀kàá"}}
+- {lemma: yɛ̀kɛ̀yɛ̀ŋǎŋndó, status: southern, pos: verb, gloss: {fr: "se secouer ; vanner (le riz)", en: "shake (oneself); winnow (rice)"}, domains: ["6.2.6", "7.3"], childs: {page: 404, form: "yɛ̀kɛ̀yɛ̀ŋǎŋndó"}}
+- {lemma: yɛ̀kpɔ̀ɔ́, status: southern, pos: noun, class: o, plural: yɛ̀kpéláŋ, gloss: {fr: "abri (p. ex. de gardien chassant les oiseaux)", en: "shelter (e.g. a bird-scarer's platform)"}, domains: ["6.5.1", "6.2.4"], childs: {page: 404, form: "yɛ̀kpɔ̀ɔ́"}}
+- {lemma: yɛ́lɛ́ŋ, status: southern, pos: ideo, gloss: {fr: "lentement, avec précaution, doucement", en: "slowly, cautiously, gently"}, domains: ["9.2.8", "8.4.8"], childs: {page: 404, form: "yɛ́lɛ́ŋ"}}
+- {lemma: yɛ̀ndɛ̀fúyɛ́í, status: southern, pos: noun, class: i, gloss: {fr: "chaume qui brûle très facilement", en: "thatch that burns very easily"}, domains: ["6.5.3"], childs: {page: 405, form: "yɛ̀ndɛ̀fúyɛ́í"}}
+- {lemma: yɛ́ndɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "pierre pour casser les noix de palme", en: "stone for cracking palm kernels"}, domains: ["6.7.2", "1.2.2"], childs: {page: 405, form: "yɛ́ndɔ̀ɔ́"}}
+- {lemma: yɛ̀ŋndɛ́ŋ, status: southern, pos: noun, class: le, gloss: {fr: "aube, lever du soleil", en: "dawn, sunrise"}, domains: ["8.4.1"], childs: {page: 405, form: "yɛ̀ŋndɛ́ŋ"}}
+- {lemma: yɛ̀ŋgbɛ̀ŋ-yɛ̀ŋgbɛ̂ŋ, status: southern, pos: ideo, gloss: {fr: "en boitant", en: "limping"}, domains: ["9.2.8", "7.2.1"], childs: {page: 405, form: "yɛ̀ŋgbɛ̀ŋ-yɛ̀ŋgbɛ̂ŋ"}}
+- {lemma: yɛ́ŋú-yɛ́ŋú-, status: southern, pos: adj, gloss: {fr: "mou, tendre", en: "soft"}, domains: ["8.3.2"], childs: {page: 405, form: "yɛ́ŋú-yɛ́ŋú-"}}
+- {lemma: yɛ́ɲjɛ́ŋ, status: southern, pos: ideo, gloss: {fr: "(pas mesurés de la mante qui recouvre un trou)", en: "(pacing of a praying mantis covering a hole)"}, domains: ["9.2.8"], childs: {page: 405, form: "yɛ́ɲjɛ́ŋ"}}
+- {lemma: yɛ́ɲjɛ̀ŋ, status: southern, pos: verb, gloss: {fr: "se rétablir, aller mieux (après une maladie)", en: "recover (from an illness)"}, domains: ["2.5"], childs: {page: 405, form: "yɛ́ɲjɛ̀ŋ"}}
+- {lemma: yɛ̀sìléŋ, status: southern, pos: noun, class: le, gloss: {fr: "fil de chaîne (métier étroit traditionnel)", en: "warp thread (traditional narrow loom)"}, domains: ["6.6.1"], childs: {page: 405, form: "yɛ̀sìléŋ"}}
+- {lemma: yɛ́yɛ́, status: southern, pos: ideo, gloss: {fr: "différent, distinct", en: "different, separate"}, domains: ["9.2.8", "8.3.5"], childs: {page: 405, form: "yɛ́yɛ́"}}
+- {lemma: yɛ́yíɔ́, status: southern, pos: noun, class: o, plural: yɛ́yéláŋ, gloss: {fr: "différence", en: "difference"}, domains: ["8.3.5"], childs: {page: 405, form: "yɛ́yíɔ́"}}
+- {lemma: yí, status: southern, pos: ideo, gloss: {fr: "droit, immobile, tranquillement", en: "straight, erect, quietly"}, domains: ["9.2.8", "7.1"], childs: {page: 406, form: "yí"}}
+- {lemma: yìfàá, status: southern, pos: noun, class: o, gloss: {fr: "marque au front des musulmans (à effacer à leur mort)", en: "mark Muslims wear on the forehead"}, domains: ["4.9.8"], childs: {page: 406, form: "yìfàá"}}
+- {lemma: yíì, status: southern, pos: interj, gloss: {fr: "(cri d'enfant qui montre une chose laide ou effrayante)", en: "(children's exclamation when showing something ugly or scary)"}, domains: ["9.2.7"], childs: {page: 406, form: "yíì"}}
+- {lemma: yíìì, status: southern, pos: ideo, gloss: {fr: "(très grand, énorme)", en: "(underscores bigness)"}, domains: ["9.2.8", "8.2"], childs: {page: 406, form: "yíìì"}}
+- {lemma: yìkpáá, status: southern, pos: noun, class: o, gloss: {fr: "algues au fond de l'eau", en: "algae at the bottom of water"}, domains: ["1.5.4"], childs: {page: 407, form: "yìkpáá"}}
+- {lemma: yíkpè-yìkpè, status: southern, pos: ideo, gloss: {fr: "(secousse, tremblement : boue, herbe)", en: "(shaking, quivering)"}, domains: ["9.2.8"], childs: {page: 407, form: "yíkpè-yìkpè"}}
+- {lemma: yìkpɔ̀ɔ́, status: southern, pos: noun, gloss: {fr: "dépôt, sédiment (dans l'eau)", en: "sediment in water"}, domains: ["1.3", "1.2.2"], childs: {page: 407, form: "yìkpɔ̀ɔ́"}}
+- {lemma: yílímìŋndɛ̀ŋ, status: southern, pos: ideo, gloss: {fr: "entassés ; indistinct (dans la nuit, la foule)", en: "all piled together; unrecognizable (in the dark, a crowd)"}, domains: ["9.2.8"], childs: {page: 407, form: "yílímìŋndɛ̀ŋ"}}
+- {lemma: yílíŋ, status: southern, pos: ideo, gloss: {fr: "(groupe informe, attroupement)", en: "(amorphous group, crowd)"}, domains: ["9.2.8"], childs: {page: 407, form: "yílíŋ"}}
+- {lemma: yìmɔ̀ɔ́, status: southern, pos: verb, gloss: {fr: "gronder (tonnerre)", en: "rumble (thunder)"}, domains: ["1.1.3"], childs: {page: 408, form: "yìmɔ̀ɔ́"}}
+- {lemma: yímɔ̀ɔ̀, status: southern, pos: ideo, gloss: {fr: "silencieusement", en: "quietly"}, domains: ["9.2.8"], childs: {page: 408, form: "yímɔ̀ɔ̀"}}
+- {lemma: yìndàá, status: southern, pos: noun, gloss: {fr: "vagin, sexe de la femme", en: "vagina"}, domains: ["2.1.2"], childs: {page: 408, form: "yìndàá"}}
+- {lemma: yíŋbàŋ-, status: southern, pos: adj, gloss: {fr: "grand, ample", en: "large, big"}, domains: ["8.2"], childs: {page: 408, form: "yíŋbàŋ-"}}
+- {lemma: yìŋ-kíndíóó, status: southern, pos: noun, gloss: {fr: "tambour (espèce)", en: "type of drum"}, domains: ["4.2.3"], childs: {page: 408, form: "yìŋ-kíndíóó"}}
+- {lemma: yìŋndàcìèèlòó, status: southern, pos: noun, class: o, gloss: {fr: "foyer, âtre", en: "fireplace"}, domains: ["5.5.7"], childs: {page: 408, form: "yìŋndàcìèèlòó"}}
+- {lemma: yísí, status: southern, pos: ideo, gloss: {fr: "(enrouler les longs fils sur le métier)", en: "(wrapping long threads onto the loom)"}, domains: ["9.2.8", "6.6.1"], childs: {page: 409, form: "yísí"}}
+- {lemma: yìsìlàá, status: southern, pos: verb, gloss: {fr: "se trouver, être vu, apparaître", en: "be found, be seen, appear"}, domains: ["7.6.2"], childs: {page: 409, form: "yìsìlàá"}}
+- {lemma: yísìmàà, status: southern, pos: adj, gloss: {fr: "couvert, nuageux ; timide", en: "cloudy, overcast; shy"}, domains: ["1.1.3", "4.3"], childs: {page: 409, form: "yísìmàà"}}
+- {lemma: yòkìínɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "garçon de la société d'initiation de danse", en: "boy in the dancing initiation society"}, domains: ["4.2.4", "4.9.7"], childs: {page: 410, form: "yòkìínɔ̀ɔ́"}}
+- {lemma: yǒì-wèèŋndó, status: southern, pos: noun, gloss: {fr: "première grossesse d'une femme", en: "a woman's first pregnancy"}, domains: ["2.6.3"], childs: {page: 410, form: "yǒì-wèèŋndó"}}
+- {lemma: yòmbòó, status: southern, pos: noun, class: o, plural: yòmbòláŋ, gloss: {fr: "souris (personnage rusé des contes)", en: "mouse (clever character in folk tales)"}, domains: ["1.6.1", "3.5.4"], childs: {page: 410, form: "yòmbòó"}}
+- {lemma: yómbóó, status: southern, pos: noun, class: o, plural: yómbóláŋ, gloss: {fr: "teinture noire ou bleu foncé (cristaux), pour teindre les cheveux gris", en: "black or dark-blue dye (crystals), used to dye grey hair"}, domains: ["5.4.3", "8.3.3"], childs: {page: 410, form: "yómbóó"}}
+- {lemma: yòndònìŋndó, status: southern, pos: noun, gloss: {fr: "(euphémisme) aller à la selle (litt. « dans la brousse »)", en: "(euphemism) need to defecate (lit. 'in the bush')"}, domains: ["2.2.8"], childs: {page: 411, form: "yòndònìŋndó"}}
+- {lemma: yóònà, status: southern, pos: adv, gloss: {fr: "vite, facilement, d'urgence", en: "quickly, easily, urgently"}, domains: ["8.4.8"], childs: {page: 412, form: "yóònà"}}
+- {lemma: yòòndàá, status: southern, pos: verb, gloss: {fr: "tendre (bras, jambes) pour atteindre", en: "stretch out (hands, feet) to reach"}, domains: ["7.1", "7.3.4"], childs: {page: 412, form: "yòòndàá"}}
+- {lemma: yòòŋgòó, status: southern, pos: verb, gloss: {fr: "envoyer chercher (qqn)", en: "send for (someone)"}, domains: ["7.2.8"], childs: {page: 412, form: "yòòŋgòó"}}
+- {lemma: yóóŋndó, status: southern, pos: noun, class: o, gloss: {fr: "salamandre", en: "salamander"}, domains: ["1.6.1"], childs: {page: 412, form: "yóóŋndó"}}
+- {lemma: yòùwó, status: southern, pos: verb, gloss: {fr: "prêter, emprunter", en: "lend, borrow"}, domains: ["6.8.4"], childs: {page: 413, form: "yòùwó"}}
+- {lemma: yòù-nàùwó, status: southern, pos: noun, class: o, gloss: {fr: "aigrette, héron garde-bœufs", en: "white egret, cattle egret"}, domains: ["1.6.1"], childs: {page: 413, form: "yòù-nàùwó"}}
+- {lemma: yòù-yɔ̀ɔ̀yàá, status: southern, pos: noun, class: o, gloss: {fr: "oiseau pêcheur à long bec (martin-pêcheur ?)", en: "long-billed fishing bird (kingfisher?)"}, domains: ["1.6.1"], childs: {page: 413, form: "yòù-yɔ̀ɔ̀yàá"}}
+- {lemma: yɔ́kpɔ̀ɔ́, status: southern, pos: noun, class: o, plural: yɔ́kpɔ̀léŋ, gloss: {fr: "légume-feuille comestible (genre chou vert)", en: "edible leafy green (like collard greens)"}, domains: ["5.2.3", "1.5"], childs: {page: 413, form: "yɔ́kpɔ̀ɔ́"}}
+- {lemma: yɔ́lɔ̀ɔ́, status: southern, pos: noun, class: o, plural: yɔ́lúá, gloss: {fr: "taon, mouche tsé-tsé", en: "cow fly, tsetse fly"}, domains: ["1.6.1"], childs: {page: 413, form: "yɔ́lɔ̀ɔ́"}}
+- {lemma: yɔ̀mbáléŋ, status: southern, pos: noun, class: le, gloss: {fr: "chant de louange (aux récoltes, au sarclage)", en: "praise singing (during harvest or weeding)"}, domains: ["4.2.3"], childs: {page: 413, form: "yɔ̀mbáléŋ"}}
+- {lemma: yɔ́mbɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "plat très huileux", en: "food with a lot of oil"}, domains: ["5.2.3"], childs: {page: 413, form: "yɔ́mbɔ̀ɔ́"}}
+- {lemma: yɔ̀ndìèí, status: southern, pos: noun, class: i, gloss: {fr: "sperme", en: "semen"}, domains: ["2.6.2"], childs: {page: 414, form: "yɔ̀ndìèí"}}
+- {lemma: yɔ̀ŋndéŋ, status: southern, pos: noun, class: le, plural: yɔ̀ŋndáŋ, gloss: {fr: "fesses", en: "buttocks"}, domains: ["2.1.2"], childs: {page: 414, form: "yɔ̀ŋndéŋ"}}
+- {lemma: yɔ́ɔ́, status: southern, pos: noun, class: o, plural: yɔ́léŋ, gloss: {fr: "légume-feuille comestible (sauce palabre)", en: "edible green (for palaver sauce)"}, domains: ["5.2.3", "1.5"], childs: {page: 415, form: "yɔ́ɔ́"}}
+- {lemma: yɔ̀ɔ̀máá, status: southern, pos: noun, class: o, plural: yɔ̀ɔ̀méí, gloss: {fr: "arbre (espèce) utilisé pour les chevrons", en: "tree species used for rafters"}, domains: ["1.5.1", "6.5.3"], childs: {page: 415, form: "yɔ̀ɔ̀máá"}}
+- {lemma: yɔ́ɔ́sɔ́ɔ́, status: southern, pos: noun, class: o, plural: yɔ́ɔ́súáŋ, gloss: {fr: "jeune palmier, palmier bas", en: "young or short palm tree"}, domains: ["1.5.1"], childs: {page: 416, form: "yɔ́ɔ́sɔ́ɔ́"}, note: "Homonyme de yɔ́ɔ́sɔ́ɔ́ « fil » (Bible yɔɔsɔɔ)."}
+- {lemma: yɔ̀ɔ̀yɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "pomme d'Adam ; double menton ; caroncule (du poulet)", en: "Adam's apple; double chin; wattles"}, domains: ["2.1.1", "1.6.2"], childs: {page: 416, form: "yɔ̀ɔ̀yɔ̀ɔ́"}}
+- {lemma: yùèŋndéŋ, status: southern, pos: noun, class: le, gloss: {fr: "bouton (sur la peau)", en: "pimple"}, domains: ["2.1.4", "2.5.6"], childs: {page: 416, form: "yùèŋndéŋ"}}
+- {lemma: yùfúáánɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "vierge", en: "virgin"}, domains: ["2.6.4"], childs: {page: 416, form: "yùfúáánɔ̀ɔ́"}}
+- {lemma: yúkòó, status: southern, pos: noun, class: o, plural: yúkùá, gloss: {fr: "neveu", en: "nephew"}, domains: ["4.1.9"], childs: {page: 416, form: "yúkòó"}}
+- {lemma: yùléŋ, status: southern, pos: noun, class: le, gloss: {fr: "arbre (espèce) à sève rouge (sert à affaiblir les boas)", en: "tree species with red sap (used to weaken boas)"}, domains: ["1.5.1"], childs: {page: 416, form: "yùléŋ"}}
+- {lemma: yúlúlló, status: southern, pos: noun, class: o, gloss: {fr: "champignon comestible (espèce) à longue racine", en: "edible mushroom species with a long root"}, domains: ["1.5.4", "5.2.3"], childs: {page: 416, form: "yúlúlló"}}
+- {lemma: yúnɛ̀ɛ̀, status: southern, pos: ideo, gloss: {fr: "(son entendu de très loin)", en: "(sound heard from far away)"}, domains: ["9.2.8", "2.3.2"], childs: {page: 417, form: "yúnɛ̀ɛ̀"}}
+- {lemma: yùŋàá, status: southern, pos: verb, gloss: {fr: "dépouiller, plumer ; nettoyer (un animal)", en: "strip off, pluck; clean (an animal)"}, domains: ["5.2.1", "7.3.2"], childs: {page: 417, form: "yùŋàá"}}
+- {lemma: yúŋgàá, status: southern, pos: noun, gloss: {fr: "maladie de peau (hommes et animaux), pellicules", en: "skin disease (humans and animals), dandruff"}, domains: ["2.5.2"], childs: {page: 417, form: "yúŋgàá"}}
+- {lemma: yùŋgòó, status: southern, pos: noun, gloss: {fr: "jaune d'œuf", en: "egg yolk"}, domains: ["1.6.2", "5.2.3"], childs: {page: 417, form: "yùŋgòó"}}
+- {lemma: yùŋgùláŋ, status: southern, pos: noun, class: la, gloss: {fr: "sciure produite par les termites ou les insectes du bois", en: "dust produced by wood bugs or termites"}, domains: ["1.2.2"], childs: {page: 417, form: "yùŋgùláŋ"}}
+- {lemma: yùŋòó, status: southern, pos: noun, gloss: {fr: "état mou, en bouillie (tubercule trop cuit)", en: "soft, mushy state (overcooked tuber)"}, domains: ["8.3.2"], childs: {page: 417, form: "yùŋòó"}}
+- {lemma: yùŋɔ̀ɔ́, status: southern, pos: noun, class: o, plural: yùŋéláŋ, gloss: {fr: "nasse, barrage à poissons sur la rivière", en: "fish trap, fish fence across a river"}, domains: ["6.4.5"], childs: {page: 417, form: "yùŋɔ̀ɔ́"}}
+- {lemma: yúŋúlló, status: southern, pos: noun, class: o, plural: yúŋúltáŋ, gloss: {fr: "tête rasée ou chauve", en: "shaved or bald head"}, domains: ["2.1.1", "5.4.3"], childs: {page: 417, form: "yúŋúlló"}}
+- {lemma: yùùlútààmɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "linge des femmes pendant les règles", en: "cloth worn by women during menstruation"}, domains: ["5.3", "2.2"], childs: {page: 418, form: "yùùlútààmɔ̀ɔ́"}}
+- {lemma: táyéŋndé, status: southern, pos: noun, class: le, gloss: {fr: "mauvaise herbe", en: "weed"}, domains: ["1.5.3", "6.2.4"], childs: {page: 351, form: "táyéŋndé"}}
+- {lemma: té-é-é, status: southern, pos: ideo, gloss: {fr: "(qui se prolonge longtemps ou loin)", en: "(continuing for a long time or distance)"}, domains: ["9.2.8"], childs: {page: 351, form: "té-é-é"}}
+- {lemma: téébíléíléŋ, status: southern, pos: noun, class: le, gloss: {fr: "parapluie", en: "umbrella"}, domains: ["5.3"], childs: {page: 351, form: "téébíléíléŋ"}}
+- {lemma: téémúúwó, status: southern, pos: noun, class: o, gloss: {fr: "arbre (espèce) dont les branches servent de bobines aux tisserands", en: "tree species whose branches serve weavers as spools"}, domains: ["1.5.1", "6.6.1"], childs: {page: 351, form: "téémúúwó"}}
+- {lemma: tèèwádèkèdèkìɔ́ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "oiseau (espèce) noir et rouge", en: "black and red bird species"}, domains: ["1.6.1"], childs: {page: 351, form: "tèèwádèkèdèkìɔ́ɔ́"}}
+- {lemma: tèkpàá, status: southern, pos: noun, gloss: {fr: "insolence, turbulence, entêtement", en: "sassiness, friskiness, stubbornness"}, domains: ["4.3"], childs: {page: 351, form: "tèkpàá"}}
+- {lemma: ténà, status: southern, pos: noun, class: o, gloss: {fr: "tante (côté maternel)", en: "aunt (mother's side)"}, domains: ["4.1.9"], childs: {page: 352, form: "ténà"}, note: "Emprunt au mandé selon Childs."}
+- {lemma: tèndèí, status: southern, pos: noun, class: i, plural: tèndɔ̌ŋ, gloss: {fr: "graine (de courge, de calebasse)", en: "seed (pumpkin, calabash, squash)"}, domains: ["1.5.5"], childs: {page: 352, form: "tèndèí"}, note: "Homonyme de tèndèí « front » (Keita tendei)."}
+- {lemma: tèndɛ́ŋtélémáá, status: southern, pos: noun, class: o, gloss: {fr: "plate-forme très haute pour chasser les oiseaux", en: "very high bird-scaring platform"}, domains: ["6.2.4"], childs: {page: 352, form: "tèndɛ́ŋtélémáá"}}
+- {lemma: tèŋàá, status: southern, pos: verb, gloss: {fr: "fondre, se dissoudre ; s'éclaircir, se dissiper ; se déposer", en: "melt, dissolve; clear up, dissipate; settle (sediment)"}, domains: ["1.2.3", "1.1.3"], childs: {page: 352, form: "tèŋàá"}}
+- {lemma: téŋkɔ́ŋgɔ́ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "martin-pêcheur", en: "kingfisher"}, domains: ["1.6.1"], childs: {page: 353, form: "téŋkɔ́ŋgɔ́ɔ́"}}
+- {lemma: téŋndó, status: southern, pos: noun, class: o, gloss: {fr: "arbre (espèce)", en: "tree species"}, domains: ["1.5.1"], childs: {page: 353, form: "téŋndó"}}
+- {lemma: tèùwó, status: southern, pos: noun, class: o, gloss: {fr: "brèche dans la dentition (dent manquante)", en: "gap where a tooth is missing"}, domains: ["2.1.1"], childs: {page: 353, form: "tèùwó"}}
+- {lemma: téèfèŋgèè, status: southern, pos: adj, gloss: {fr: "large et court", en: "wide and short"}, domains: ["8.2"], childs: {page: 353, form: "téèfèŋgèè"}}
+- {lemma: tèèkpàá, status: southern, pos: verb, gloss: {fr: "être inachevé", en: "be unfinished"}, domains: ["8.4.6"], childs: {page: 353, form: "tèèkpàá"}}
+- {lemma: tèèláŋ, status: southern, pos: noun, class: la, gloss: {fr: "apitoiement sur soi, sentiment d'injustice", en: "self-pity, feeling of being wronged"}, domains: ["3.4.2"], childs: {page: 353, form: "tèèláŋ"}}
+- {lemma: tèèlɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "cérumen", en: "earwax"}, domains: ["2.1.1", "2.2"], childs: {page: 353, form: "tèèlɔ̀ɔ́"}}
+- {lemma: tèèyàá, status: southern, pos: verb, gloss: {fr: "élaguer, abattre les branches (avant le brûlis)", en: "trim branches, fell trees (before burning a field)"}, domains: ["6.2.2"], childs: {page: 355, form: "tèèyàá"}}
+- {lemma: téí, status: southern, pos: ideo, gloss: {fr: "(tomber doucement, légèrement)", en: "(falling down softly or lightly)"}, domains: ["9.2.8"], childs: {page: 355, form: "téí"}}
+- {lemma: tèí, status: southern, pos: noun, class: i, plural: tàléŋ, gloss: {fr: "cure-dent (bâtonnet à frotter les dents) ; rotin", en: "chewing stick, toothbrush; rattan"}, domains: ["5.6", "1.5.3"], childs: {page: 355, form: "tèí"}}
+- {lemma: tèkpàá, status: southern, pos: verb, gloss: {fr: "marcher sur ; battre", en: "step on; beat"}, domains: ["7.7.1"], childs: {page: 356, form: "tèkpàá"}}
+- {lemma: tèléŋ, status: southern, pos: noun, class: le, plural: tèláŋ, gloss: {fr: "gerbe ou meule de riz récolté", en: "sheaf or stack of harvested rice"}, domains: ["6.2.5"], childs: {page: 356, form: "tèléŋ"}}
+- {lemma: tèlèkàá, status: southern, pos: verb, gloss: {fr: "lisser, aplanir", en: "smooth out"}, domains: ["8.3.2"], childs: {page: 356, form: "tèlèkàá"}}
+- {lemma: tɛ̂lɛ́kɛ̀lɛ́, status: southern, pos: ideo, gloss: {fr: "(bien lisse, comme le ciment)", en: "(smooth, like cement)"}, domains: ["9.2.8", "8.3.2"], childs: {page: 356, form: "tɛ̂lɛ́kɛ̀lɛ́"}}
+- {lemma: tèmbìó, status: southern, pos: verb, gloss: {fr: "sevrer ; enfreindre les règles sexuelles (abus, inceste, etc.)", en: "wean; violate sexual taboos"}, domains: ["2.6.4", "2.6.2"], childs: {page: 356, form: "tèmbìó"}}
+- {lemma: témbílóó, status: southern, pos: noun, class: o, gloss: {fr: "pédophile", en: "person who abuses children sexually"}, domains: ["2.6.2", "4.1.2"], childs: {page: 356, form: "témbílóó"}}
+- {lemma: témbímáméŋndó, status: southern, pos: noun, class: o, gloss: {fr: "libellule", en: "dragonfly"}, domains: ["1.6.1"], childs: {page: 356, form: "témbímáméŋndó"}}
+- {lemma: témbɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "récipient (et objets) de l'initiation des filles", en: "container for girls' initiation materials"}, domains: ["4.9.8", "6.7.7"], childs: {page: 356, form: "témbɔ̀ɔ́"}}
+- {lemma: tèndá, status: southern, pos: adv, gloss: {fr: "là, là-bas", en: "there"}, domains: ["8.5.1"], childs: {page: 357, form: "tèndá"}}
+- {lemma: tèndèlàá, status: southern, pos: verb, gloss: {fr: "viser", en: "aim"}, domains: ["7.3"], childs: {page: 357, form: "tèndèlàá"}}
+- {lemma: téndɔ̀ŋ, status: southern, pos: adv, gloss: {fr: "juste là, entre", en: "right there, between"}, domains: ["8.5.1"], childs: {page: 357, form: "téndɔ̀ŋ"}}
+- {lemma: tèŋèí, status: southern, pos: noun, class: i, plural: tèŋɔ̌ŋ, gloss: {fr: "œil malade (taie, œil aveugle)", en: "bad eye (wall-eye, blind eye)"}, domains: ["2.5.4"], childs: {page: 357, form: "tèŋèí"}}
+- {lemma: tèŋéléŋ, status: southern, pos: noun, class: le, gloss: {fr: "bande blanche (organe électrique) du poisson électrique", en: "white stripe of the electric fish"}, domains: ["1.6.2"], childs: {page: 357, form: "tèŋéléŋ"}}
+- {lemma: tèŋgbɔ̀ɔ́, status: southern, pos: noun, class: o, gloss: {fr: "petit rongeur nocturne aux yeux saillants", en: "small nocturnal rat-like rodent with bulging eyes"}, domains: ["1.6.1"], childs: {page: 357, form: "tèŋgbɔ̀ɔ́"}}
+- {lemma: tèŋgòó, status: southern, pos: noun, class: o, gloss: {fr: "tanière, terrier", en: "animal den"}, domains: ["1.6.5"], childs: {page: 357, form: "tèŋgòó"}}
+- {lemma: tésìɔ́-, status: southern, pos: adj, gloss: {fr: "peu profond", en: "shallow"}, domains: ["8.2"], childs: {page: 357, form: "tésìɔ́-"}}
+- {lemma: tètɔ́ɔ́, status: southern, pos: noun, class: o, plural: tètíá, gloss: {fr: "grosse sauterelle comestible", en: "large edible grasshopper"}, domains: ["1.6.1", "5.2.3"], childs: {page: 357, form: "tètɔ́ɔ́"}}
+- {lemma: tèùwó, status: southern, pos: noun, class: o, gloss: {fr: "arbre (espèce) à bois dur qui brûle longtemps ; ses feuilles polissent les calebasses", en: "tree species with hard, long-burning wood; leaves used to smooth calabashes"}, domains: ["1.5.1", "5.5.6"], childs: {page: 358, form: "tèùwó"}}
+- {lemma: tì, status: southern, pos: ideo, gloss: {fr: "(tout petit)", en: "(underscores smallness)"}, domains: ["9.2.8", "8.2.1"], childs: {page: 358, form: "tì"}}
+- {lemma: tìàá, status: southern, pos: verb, gloss: {fr: "dire les faits directement ; être allé récemment quelque part", en: "state the facts directly; have recently gone somewhere"}, domains: ["3.5.1"], childs: {page: 358, form: "tìàá"}}
+- {lemma: tìàmùùwó, status: southern, pos: verb, gloss: {fr: "mâcher, mastiquer", en: "chew"}, domains: ["5.2.2"], childs: {page: 358, form: "tìàmùùwó"}}
+- {lemma: tììfàá, status: southern, pos: noun, class: o, gloss: {fr: "porte d'entrée de l'école de brousse (initiation)", en: "gate at the entrance of the bush school"}, domains: ["4.9.7", "6.5.2"], childs: {page: 358, form: "tììfàá"}}
+- {lemma: tíílíó, status: southern, pos: noun, class: o, gloss: {fr: "mouche piqueuse", en: "biting fly"}, domains: ["1.6.1"], childs: {page: 358, form: "tíílíó"}}
+- {lemma: tìsàá, status: southern, pos: noun, class: o, gloss: {fr: "étui pénien en fibres de bambou (après la circoncision)", en: "penile sheath of bamboo fibre (after circumcision)"}, domains: ["4.9.8", "5.3.3"], childs: {page: 359, form: "tìsàá"}}
+- {lemma: tíkítíkí, status: southern, pos: ideo, gloss: {fr: "(bien coincé, bloqué)", en: "(firmly stuck)"}, domains: ["9.2.8"], childs: {page: 360, form: "tíkítíkí"}}
+- {lemma: tìɲàá, status: southern, pos: verb, gloss: {fr: "presser pour extraire la dernière goutte", en: "squeeze out the last drop"}, domains: ["7.7"], childs: {page: 360, form: "tìɲàá"}}
+- {lemma: tìŋndó, status: southern, pos: noun, class: o, gloss: {fr: "dispute, palabre déclenchée sans raison", en: "argument or palaver started for no reason"}, domains: ["4.8"], childs: {page: 361, form: "tìŋndó"}}
+- {lemma: tíŋɔ́ŋ, status: southern, pos: ideo, gloss: {fr: "(muet, interdit, sans réponse)", en: "(dumbstruck, unable to answer)"}, domains: ["9.2.8"], childs: {page: 361, form: "tíŋɔ́ŋ"}}
+- {lemma: tìŋɔ̀léŋ, status: southern, pos: noun, class: le, plural: tìŋɔ̀láŋ, gloss: {fr: "alêne, poinçon", en: "awl"}, domains: ["6.7"], childs: {page: 361, form: "tìŋɔ̀léŋ"}}
+- {lemma: tíŋtíŋ, status: southern, pos: ideo, gloss: {fr: "(son d'une guitare, d'un instrument à cordes)", en: "(sound of a guitar or string instrument)"}, domains: ["9.2.8", "4.2.3"], childs: {page: 361, form: "tíŋtíŋ"}}
+- {lemma: tíó, status: southern, pos: noun, gloss: {fr: "désobéissance, indiscipline", en: "disobedience, unruliness"}, domains: ["4.3"], childs: {page: 361, form: "tíó"}}
+- {lemma: tìɔ̀ɔ́, status: southern, pos: noun, class: o, plural: tèèláŋ, gloss: {fr: "responsabilité, faute imputée", en: "responsibility, blame"}, domains: ["4.7"], childs: {page: 362, form: "tìɔ̀ɔ́"}}
+- {lemma: tìsáá, status: southern, pos: noun, class: o, gloss: {fr: "passage étroit d'un sentier", en: "narrow part of a trail"}, domains: ["6.5.4"], childs: {page: 362, form: "tìsáá"}}
+- {lemma: tíú, status: southern, pos: ideo, gloss: {fr: "(rond, bien courbé)", en: "(round, curvaceous)"}, domains: ["9.2.8", "8.3.1"], childs: {page: 362, form: "tíú"}}
+- {lemma: tìwììyó, status: southern, pos: noun, class: o, gloss: {fr: "esprit de la brousse, diable de brousse", en: "bush devil, bush spirit"}, domains: ["4.9.2"], childs: {page: 363, form: "tìwììyó"}}
+- {lemma: tìwùèìyó, status: southern, pos: noun, gloss: {fr: "poudre noire pour les sourcils (khôl)", en: "eyebrow liner (black powder)"}, domains: ["5.4.2"], childs: {page: 363, form: "tìwùèìyó"}}
+- {lemma: tódǎŋ, status: southern, pos: ideo, gloss: {fr: "pleinement, complètement", en: "fully"}, domains: ["9.2.8"], childs: {page: 363, form: "tódǎŋ"}}
+- {lemma: tòkpùéí, status: southern, pos: noun, class: i, plural: tòkpòóŋ, gloss: {fr: "noix de palme à peau épaisse", en: "thick-skinned palm nut"}, domains: ["1.5.5"], childs: {page: 363, form: "tòkpùéí"}}
+- {lemma: tólítólí, status: southern, pos: ideo, gloss: {fr: "(écoulement rapide, jaillissement)", en: "(rapid flow, gushing)"}, domains: ["9.2.8", "1.3.2"], childs: {page: 363, form: "tólítólí"}}
+- {lemma: tòlòmàá, status: southern, pos: noun, class: o, gloss: {fr: "petit animal lent ressemblant au chat, frugivore (potto ?)", en: "slow-moving cat-like fruit-eating animal (potto?)"}, domains: ["1.6.1"], childs: {page: 364, form: "tòlòmàá"}}
+- {lemma: tòmbàá, status: southern, pos: noun, gloss: {fr: "manioc cuit avant d'être pilé", en: "cassava cooked before pounding"}, domains: ["5.2.3"], childs: {page: 364, form: "tòmbàá"}}
+- {lemma: tómbólàá, status: southern, pos: noun, gloss: {fr: "argent ou nourriture offerts aux morts", en: "money or food offered to the dead"}, domains: ["4.9.5"], childs: {page: 364, form: "tómbólàá"}}
+- {lemma: tòmbòó, status: southern, pos: noun, gloss: {fr: "taille, ventre (où les femmes gardent leur petite bourse)", en: "waist area (where women keep a small purse)"}, domains: ["2.1.2"], childs: {page: 364, form: "tòmbòó"}}
+- {lemma: tómbólóó, status: southern, pos: noun, class: o, gloss: {fr: "puces (surtout celles des vêtements)", en: "fleas (esp. in clothes)"}, domains: ["1.6.1"], childs: {page: 364, form: "tómbólóó"}}
