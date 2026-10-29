@@ -24,7 +24,7 @@ WORDLIST = ROOT / "references" / "bible-bkg-wordforms.tsv"
 BIBLE_URL = "https://www.bible.com/bible/1394/{ref}.BKG"
 WORD_RE = re.compile(r"(?:[^\W\d_]|[̀-ͯ])+(?:[-'’](?:[^\W\d_]|[̀-ͯ])+)*")
 
-STATUSES = {"attested", "confirmed", "respelled", "check"}
+STATUSES = {"attested", "confirmed", "respelled", "check", "southern"}
 POS = {"noun": ("nom", "noun"), "verb": ("verbe", "verb"), "adj": ("adjectif", "adjective"),
        "adv": ("adverbe", "adverb"), "pron": ("pronom", "pronoun"), "num": ("nombre", "numeral"),
        "det": ("déterminant", "determiner"), "prep": ("préposition", "preposition"),
@@ -98,6 +98,8 @@ def validate(domains, entries, words):
         if ch is not None and (not isinstance(ch, dict) or set(ch) - {"page", "form", "sense"}):
             errors.append(f"{where}: 'childs' takes only page, form, sense")
         lemma = str(e.get("lemma", ""))
+        if e.get("status") == "southern" and not ((e.get("childs") or {}).get("page") and (e.get("childs") or {}).get("form")):
+            errors.append(f"{where}: a 'southern' entry needs childs.page and childs.form (the source of the word)")
         if e.get("status") == "attested":
             for form in [lemma] + [str(x) for x in ([e["plural"]] if e.get("plural") else []) + (e.get("forms") or [])]:
                 if not attested(form, words):
@@ -197,7 +199,9 @@ TEXT = {
                "Les mots attestés renvoient à leur première occurrence dans la Bible en kisiei ; les mots "
                "<span class=\"ks-badge ks-conf\">Confirmé</span> sont absents de la Bible mais confirmés par un locuteur ; les mots "
                "<span class=\"ks-badge ks-res\">Réécrit</span> viennent de la description de 1979 et doivent être "
-               "confirmés. Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
+               "confirmés ; les mots <span class=\"ks-badge ks-south\">kissi du Sud</span> ne sont connus que par le "
+               "dictionnaire du kissi du Sud (Childs 2000) : ils ne sont pas attestés au Nord et sont écrits tels que Childs les note. "
+               "Le lexique est aussi disponible aux formats CSV et LIFT (pour FieldWorks).")},
     "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
            "src": "Source", "intro": (
                "These lists are generated automatically from the project's [lexicon](https://github.com/kebasaa/kisiei-language/tree/main/lexicon) "
@@ -206,9 +210,11 @@ TEXT = {
                "Attested words link to their first occurrence in the Kisiei Bible; "
                "<span class=\"ks-badge ks-conf\">Confirmed</span> words are not in the Bible but confirmed by a speaker; "
                "<span class=\"ks-badge ks-res\">Respelled</span> words come from the 1979 description and still need "
-               "confirmation. The lexicon is also available as CSV and LIFT (for FieldWorks).")},
+               "confirmation; <span class=\"ks-badge ks-south\">Southern Kissi</span> words are known only from the "
+               "Southern Kissi dictionary (Childs 2000): they are not attested in the North and are spelled as Childs writes them. "
+               "The lexicon is also available as CSV and LIFT (for FieldWorks).")},
 }
-FLAG = {"attested": "", "confirmed": "\\|c", "respelled": "\\|r", "check": "\\|?"}
+FLAG = {"attested": "", "confirmed": "\\|c", "respelled": "\\|r", "check": "\\|?", "southern": "\\|s"}
 
 
 def bible_label(ref, lang):
@@ -245,6 +251,8 @@ def export_page(lang, entries, domains, words):
             if e.get("plural"):
                 word += f", pl. {{{{{e['plural']}{FLAG[e['status']]}}}}}"
             pos = POS[e["pos"]][li] + (f" ({e['class']})" if e.get("class") else "")
+            if e["status"] == "southern":
+                pos += " — " + ("**kissi du Sud seulement**" if lang == "fr" else "**Southern Kissi only**")
             b = bible_info(e, words)
             if b:
                 src = f"[{bible_label(b[1], lang)}]({BIBLE_URL.format(ref=b[1])})"

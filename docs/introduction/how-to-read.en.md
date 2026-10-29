@@ -9,6 +9,7 @@ All Kisiei words and sentences are in *underlined italics*. The colour and style
 | {{cɛiyo}} | <span class="ks-badge ks-att">Attested</span> | Every word occurs in the Kisiei Bible [[(BKG)]], apart from tones and capitals. This is the reference spelling. |
 | {{ŋɔ́ɔ́ŋŋɔ́ɔ́ŋndó\|c}} | <span class="ks-badge ks-conf">Confirmed</span> | The word does not occur in the Bible, but a Kisiei speaker has confirmed its form and meaning. |
 | {{tafeo\|r}} | <span class="ks-badge ks-res">Respelled</span> | The word comes from the 1979 manual [[(Keita1979)]] and has been respelled according to the current rules, but it does not occur in the Bible. The spelling is likely, not guaranteed. |
+| {{húó\|s}} | <span class="ks-badge ks-south">Southern Kissi</span> | A word known only from the Southern Kissi dictionary [[(Childs2000)]], not attested in the North; it is spelled as Childs writes it. To be checked for Guinean Kisiei. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">To check</span> | The form or meaning is uncertain: hard-to-read handwritten note, a word found only once, etc. |
 
 The status is **checked automatically** every time the site is built: an example marked “attested” containing a word that is not in the list of Bible words makes the build fail (see [Tools](../sources/tools.md)).

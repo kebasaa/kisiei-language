@@ -44,14 +44,14 @@ BOOKS = {  # USFM: (French, English)
     "2PE": ("2 P", "2 Pet"), "1JN": ("1 Jn", "1 John"), "2JN": ("2 Jn", "2 John"), "3JN": ("3 Jn", "3 John"),
     "JUD": ("Jude", "Jude"), "REV": ("Ap", "Rev"),
 }
-STATUS = {"": "att", "c": "conf", "r": "res", "?": "chk"}
+STATUS = {"": "att", "c": "conf", "r": "res", "?": "chk", "s": "south"}
 TITLES = {
     "fr": {"att": "Attesté dans la Bible (BKG)", "conf": "Confirmé par un locuteur du kisiei, absent de la Bible",
            "res": "Réécrit d'après Keita 1979, absent de la Bible",
-           "chk": "À vérifier"},
+           "chk": "À vérifier", "south": "Kissi du Sud uniquement (Childs 2000), non attesté au Nord"},
     "en": {"att": "Attested in the Bible (BKG)", "conf": "Confirmed by a Kisiei speaker, not in the Bible",
            "res": "Respelled from Keita 1979, not in the Bible",
-           "chk": "To check"},
+           "chk": "To check", "south": "Southern Kissi only (Childs 2000), not attested in the North"},
 }
 WORD_RE = re.compile(r"(?:[^\W\d_]|[\u0300-\u036f])+(?:[-'’](?:[^\W\d_]|[\u0300-\u036f])+)*")
 

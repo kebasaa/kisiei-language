@@ -13,6 +13,7 @@ A structured, machine- and human-readable lexicon of Kisiei, classified by **sem
   - `attested`: the lemma (and any plural or variant given) is in the Bible word list, ignoring tone. This is checked at build time.
   - `confirmed`: not in the Bible, but the form and meaning have been confirmed by a speaker of Kisiei (Northern Kissi). Say who or when in `note` if useful.
   - `respelled`: taken from Keita 1979 and converted to the current orthography, but not found in the Bible.
+  - `southern`: known only from Childs (2000), Southern Kissi, with no northern evidence (not in the Bible, not in Keita). The lemma is Childs's headword exactly as printed, with his tones; `childs.page` and `childs.form` are required. These entries are always shown labelled "Southern Kissi only".
   - `check`: the form or meaning is uncertain and needs a speaker's confirmation.
 
 ## Files
@@ -31,7 +32,7 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
 
 ```yaml
 - lemma: bollen              # citation form, current (Bible) spelling
-  status: attested           # attested | confirmed | respelled | check
+  status: attested           # attested | confirmed | respelled | check | southern
   pos: noun                  # noun verb adj adv pron num det prep postp conj part interj ideo name
   class: len                 # noun class (nouns): o, i, an, len, lan; plural classes a, on
   plural: bóltan             # plural form, if known

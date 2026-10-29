@@ -11,6 +11,7 @@
   --ks-conf: #1d5fa8;
   --ks-res: #a8590b;
   --ks-chk: #b3261e;
+  --ks-south: #7b3fa0;
   --ks-box-bg: rgba(31, 77, 54, 0.05);
 }
 [data-md-color-scheme="slate"] {
@@ -33,6 +34,7 @@
   --ks-conf: #8ab4f8;
   --ks-res: #f0a45f;
   --ks-chk: #ff8a80;
+  --ks-south: #c9a0ff;
   --ks-box-bg: rgba(127, 208, 162, 0.06);
 }
 
@@ -56,6 +58,7 @@
 .md-typeset .ks-conf { text-decoration-color: var(--ks-conf); text-decoration-style: double; }
 .md-typeset .ks-res { text-decoration-color: var(--ks-res); text-decoration-style: dashed; }
 .md-typeset .ks-chk { text-decoration-color: var(--ks-chk); text-decoration-style: dotted; }
+.md-typeset .ks-south { text-decoration-color: var(--ks-south); text-decoration-style: wavy; }
 .md-typeset th .ks, .md-typeset h2 .ks, .md-typeset h3 .ks { font-style: normal; }
 
 /* Legend chips: <span class="ks-badge ks-att">Attesté</span> */
@@ -74,6 +77,7 @@
 .ks-badge.ks-conf { color: var(--ks-conf); }
 .ks-badge.ks-res { color: var(--ks-res); }
 .ks-badge.ks-chk { color: var(--ks-chk); }
+.ks-badge.ks-south { color: var(--ks-south); }
 
 /* Bible references and citations */
 .md-typeset a.bref, .md-typeset a.cite { white-space: nowrap; }
@@ -110,6 +114,7 @@
     --ks-conf: #1d5fa8;
     --ks-res: #a8590b;
     --ks-chk: #b3261e;
+    --ks-south: #7b3fa0;
   }
   html, body, .md-main, .md-content { background: #ffffff !important; color: #000000 !important; }
   .md-header, .md-tabs, .md-sidebar, .md-footer, .md-top, .md-search, .md-source,

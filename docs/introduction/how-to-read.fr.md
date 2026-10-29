@@ -9,6 +9,7 @@ Tous les mots et phrases kisiei sont en *italique soulignée*. La couleur et le 
 | {{cɛiyo}} | <span class="ks-badge ks-att">Attesté</span> | Chaque mot figure dans la Bible en kisiei [[(BKG)]], aux tons et aux majuscules près. C'est l'orthographe de référence. |
 | {{ŋɔ́ɔ́ŋŋɔ́ɔ́ŋndó\|c}} | <span class="ks-badge ks-conf">Confirmé</span> | Le mot n'apparaît pas dans la Bible, mais un locuteur du kisiei en a confirmé la forme et le sens. |
 | {{tafeo\|r}} | <span class="ks-badge ks-res">Réécrit</span> | Le mot vient du manuel de 1979 [[(Keita1979)]] et a été réécrit selon les règles actuelles, mais il n'apparaît pas dans la Bible. L'orthographe est probable, pas garantie. |
+| {{húó\|s}} | <span class="ks-badge ks-south">Kissi du Sud</span> | Mot connu seulement par le dictionnaire du kissi du Sud [[(Childs2000)]], sans attestation au Nord ; il est écrit comme Childs l'écrit. À vérifier pour le kisiei de Guinée. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">À vérifier</span> | La forme ou le sens est incertain : note manuscrite peu lisible, mot que l'on n'a trouvé qu'une fois, etc. |
 
 Le statut est **vérifié automatiquement** à chaque construction du site : un exemple marqué « attesté » dont un mot ne figure pas dans la liste des mots de la Bible fait échouer la construction (voir [Outils](../sources/tools.md)).
