@@ -2,8 +2,6 @@ site/
 .cache/
 .venv/
 __pycache__/
-archive/A dictionary of the Kisi language_ with an English-Kisi -- George Tucker Childs -- Westafrikanische Studien -- Bd_ 22_, Köln, Germany, 2000 -- isbn13 9783896451095 -- a28af5a1b3785ff0783f02fdd654cc10 -- Anna’s Archive.pdf
-archive/A Grammar of Kisi_ A Southern Atlantic Language (Mouton -- Childs, G_ Tucker, Childs, George Tucker -- Mouton Grammar Library \[MGL\]; 16, 1995 jan 31 -- isbn13 9783110143560 -- ac9cf5cb88f1d05a26c1559537780874 -- Anna’s Arc.pdf
+/.claude
 archive/Childs 1995 - A grammar of Kisi (text).md
 archive/Childs 2000 - A dictionary of the Kisi language (text).md
-/.claude
