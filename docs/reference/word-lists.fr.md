@@ -5206,7 +5206,7 @@ Ces listes sont produites automatiquement à partir du [lexique](https://github.
 | {{kelanndo}} | verbe | se promener, errer | [Gn 4,12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
 | {{làŋgúéíyó\|s}} | nom (o) — **kissi du Sud seulement** | hamac à barres de bois aux extrémités |  |
 | {{mboomaa\|r}} | nom (o) | hamac ; litière, palanquin | Keita 1979, p. 159 |
-| {{mɔ́mbîlló\|s}}, pl. {{mɔ́mbîltáŋ\|s}} | nom (o) — **kissi du Sud seulement** | voiture ; petite voiture d'enfant |  |
+| {{mɔmbillo\|c}} | nom (o) | voiture, automobile — *kissi du Sud (Childs 2000, en anglais) :* car; also a children's toy car |  |
 | {{mɔ̀ɔ̀tííyó\|s}}, pl. {{mɔ̀ɔ̀tííláŋ\|s}} | nom (o) — **kissi du Sud seulement** | voiture |  |
 | {{nɛ̀ìsóó\|s}} | nom (o) — **kissi du Sud seulement** | bicyclette |  |
 | {{pèlìnɛ̀ìsôó\|s}} | nom (o) — **kissi du Sud seulement** | pneu de bicyclette |  |

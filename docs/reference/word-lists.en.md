@@ -5206,7 +5206,7 @@ These lists are generated automatically from the project's [lexicon](https://git
 | {{kelanndo}} | verb | walk about, wander | [Gen 4:12](https://www.bible.com/bible/1394/GEN.4.12.BKG) |
 | {{làŋgúéíyó\|s}} | noun (o) — **Southern Kissi only** | hammock with wooden bars at the ends |  |
 | {{mboomaa\|r}} | noun (o) | hammock; litter, palanquin | Keita 1979, p. 159 |
-| {{mɔ́mbîlló\|s}}, pl. {{mɔ́mbîltáŋ\|s}} | noun (o) — **Southern Kissi only** | car; children's toy car |  |
+| {{mɔmbillo\|c}} | noun (o) | car, automobile — *Southern Kissi (Childs 2000) :* car; also a children's toy car |  |
 | {{mɔ̀ɔ̀tííyó\|s}}, pl. {{mɔ̀ɔ̀tííláŋ\|s}} | noun (o) — **Southern Kissi only** | car |  |
 | {{nɛ̀ìsóó\|s}} | noun (o) — **Southern Kissi only** | bicycle |  |
 | {{pèlìnɛ̀ìsôó\|s}} | noun (o) — **Southern Kissi only** | bicycle tyre |  |

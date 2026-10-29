@@ -30028,19 +30028,19 @@
     <note type="source"><form lang="en"><text>Childs 2000, p. 251: mɔ́léí</text></form></note>
     <note><form lang="fr"><text>Emprunt au mandé.</text></form></note>
   </entry>
-  <entry id="mɔ́mbîlló_2313">
-    <lexical-unit><form lang="kqs"><text>mɔ́mbîlló</text></form></lexical-unit>
+  <entry id="mɔmbillo_2313">
+    <lexical-unit><form lang="kqs"><text>mɔmbillo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
-    <trait name="status" value="southern"/>
-    <field type="plural"><form lang="kqs"><text>mɔ́mbîltáŋ</text></form></field>
-    <sense id="mɔ́mbîlló_2313_s1">
+    <trait name="status" value="confirmed"/>
+    <sense id="mɔmbillo_2313_s1">
       <grammatical-info value="Noun"/>
-      <gloss lang="fr"><text>voiture ; petite voiture d'enfant</text></gloss>
-      <gloss lang="en"><text>car; children's toy car</text></gloss>
+      <gloss lang="fr"><text>voiture, automobile</text></gloss>
+      <gloss lang="en"><text>car, automobile</text></gloss>
       <trait name="semantic-domain-ddp4" value="7.2.4 Travel"/>
     </sense>
+    <field type="southern-kissi-sense"><form lang="en"><text>car; also a children's toy car</text></form></field>
     <note type="source"><form lang="en"><text>Childs 2000, p. 251: mɔ́mbîlló</text></form></note>
-    <note><form lang="fr"><text>Emprunt au maninka mɔ́mbílí, du français automobile.</text></form></note>
+    <note><form lang="fr"><text>Confirmé par un locuteur (octobre 2026) pour toutes les variantes du kisiei. Emprunt au maninka mɔ́mbílí, du français automobile. Forme radicale attendue mɔmbil (mɔmbil bɛndoo « une grande voiture ») ; pluriel attendu mɔmbiltan d'après la règle des choses en -llo (Childs : mɔ́mbîltáŋ), à confirmer.</text></form></note>
   </entry>
   <entry id="mɔ́mndo_2314">
     <lexical-unit><form lang="kqs"><text>mɔ́mndo</text></form></lexical-unit>

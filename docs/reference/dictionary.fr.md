@@ -4774,7 +4774,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{mɔ́léí|s}}** *n.* (o) — **kissi du Sud seulement** — guérisseur, marabout musulman (aussi nom d'homme). <span class="ks-src">Childs 2000, p. 251</span>
 
-**{{mɔ́mbîlló|s}}** *n.* (o), pl. {{mɔ́mbîltáŋ|s}} — **kissi du Sud seulement** — voiture ; petite voiture d'enfant. <span class="ks-src">Childs 2000, p. 251</span>
+**{{mɔmbillo|c}}** *n.* (o) — voiture, automobile. *kissi du Sud (Childs 2000, en anglais) :* car; also a children's toy car.
 
 **{{mɔ́mndo}}** *n.* (o) — brouillard ; rosée. *kissi du Sud (Childs 2000, en anglais) :* dew, morning mist. <span class="ks-src">[2 S 17,12](https://www.bible.com/bible/1394/2SA.17.12.BKG)</span>
 

@@ -4774,7 +4774,7 @@ This dictionary is generated automatically from the project's [lexicon](https://
 
 **{{mɔ́léí|s}}** *n.* (o) — **Southern Kissi only** — medicine man, Muslim healer (also a man's name). <span class="ks-src">Childs 2000, p. 251</span>
 
-**{{mɔ́mbîlló|s}}** *n.* (o), pl. {{mɔ́mbîltáŋ|s}} — **Southern Kissi only** — car; children's toy car. <span class="ks-src">Childs 2000, p. 251</span>
+**{{mɔmbillo|c}}** *n.* (o) — car, automobile. *Southern Kissi (Childs 2000):* car; also a children's toy car.
 
 **{{mɔ́mndo}}** *n.* (o) — fog, mist; dew. *Southern Kissi (Childs 2000):* dew, morning mist. <span class="ks-src">[2 Sam 17:12](https://www.bible.com/bible/1394/2SA.17.12.BKG)</span>
 
