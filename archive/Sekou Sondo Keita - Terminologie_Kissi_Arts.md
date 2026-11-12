@@ -1,6 +1,6 @@
 # Terminologie : formation artistique et esthétique — langue : kisiei (Académie des Langues) — working notes
 
-> **Local working file, not distributed** (git-ignored). Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Arts.PDF` (12 PDF pages).
+> **Working notes** for the lexicon. Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Arts.PDF` (12 PDF pages).
 >
 > - **Source:** Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Académie des Langues (Conakry). Page heading "TERMINOLOGIE : FORMATION ARTISTIQUE ET ESTHETIQUE / LANGUE : KISIEI"; columns "FRANCAIS" and "TRADUCTION". Undated; no author on the pages.
 > - **Content:** numbered French terms of the arts (music, dance, theatre, drawing, crafts, colours), each with its Kisiei translation. Kept here as data for the lexicon.

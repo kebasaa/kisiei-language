@@ -1,6 +1,6 @@
 # Terminologie : langue — langue : kisiei (Académie des Langues) — working notes
 
-> **Local working file, not distributed** (git-ignored). Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Langue.PDF` (16 PDF pages).
+> **Working notes** for the lexicon. Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Langue.PDF` (16 PDF pages).
 >
 > - **Source:** Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Académie des Langues (Conakry). Page heading "TERMINOLOGIE : LANGUE / LANGUE : KISIEI"; columns "FRANCAIS" and "TRADUCTION". Undated; no author on the pages.
 > - **Content:** numbered French terms of language, grammar and literature, each with its Kisiei translation, as a term list. Kept here as data for the lexicon (one row per term).

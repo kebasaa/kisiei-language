@@ -1,6 +1,6 @@
 # Keita (1979), annexe : proverbes, contes, devinettes — working notes
 
-> **Local working file, not distributed** (git-ignored). Companion to `Sekou Sondo Keita - kissie fondamental (annexe proverbes contes devinettes).pdf`, the annex of Keita's 1979 thesis (typescript pp. 166–184; listed in the thesis contents as "V- ANNEXE : Contes - Proverbes - Devinettes", missing from the main scan).
+> **Working notes** for the lexicon. Companion to `Sekou Sondo Keita - kissie fondamental (annexe proverbes contes devinettes).pdf`, the annex of Keita's 1979 thesis (typescript pp. 166–184; listed in the thesis contents as "V- ANNEXE : Contes - Proverbes - Devinettes", missing from the main scan).
 >
 > - **What is here:** for each of the 12 tales, its title, typescript page and a short outline in our own words; then **every proverb** (*talelan*, each with its answer line *kölöö*) and **every riddle** (*budon pialan*, with the answer after *Mulio*) exactly as typed, with the legible handwritten French glosses. The tale prose itself is outlined, not copied.
 > - **Spelling:** Keita's 1979 orthography (*ty, nh, ny, è, ö*), reproduced as typed, in NFC; typed underlining is not kept. Nothing is respelled here.

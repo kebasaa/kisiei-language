@@ -1,12 +1,12 @@
 # Terminologie : histoire — langue : kisiei (Académie des Langues) — working notes
 
-> **Local working file, not distributed** (git-ignored). Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Histoire.PDF` (21 PDF pages).
+> **Working notes** for the lexicon. Read from the page images of `Sekou Sondo Keita - Terminologie_Kissi_Histoire.PDF` (21 PDF pages).
 >
 > - **Source:** Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Académie des Langues (Conakry). Page heading "TERMINOLOGIE : HISTOIRE / LANGUE : KISIEI". Undated; no author on the pages.
 > - **Content:** numbered French terms of history, politics and the military, each with its Kisiei translation; kept as data for the lexicon.
 > - **Spelling:** the 1970s orthography of the original, in NFC; nothing respelled. Dotted leaders dropped.
 > - **Marks:** `[?]` illegible; `[…]` cut off.
-> - **Pages:** PDF p. 1 is the cover, "HISTOIRE". **Progress:** PDF pp. 1–12 (entries 1–348) done; pp. 13–21 to follow.
+> - **Pages:** PDF p. 1 is the cover, "HISTOIRE". **Complete:** PDF pp. 1–21, entries 1–605.
 
 ## PDF p. 1
 
@@ -439,3 +439,348 @@ Cover: **HISTOIRE**.
 | 346 | Fondateur | Vana busaa |
 | 347 | Forêt sacrée | Yondo toomaa |
 | 348 | Forteresse | Kattaa |
+
+## PDF p. 13 (typed p. 12)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 349 | Fortin | Katta pömböö |
+| 350 | Fortification | Saasaa |
+| 351 | Fratricide de guerre | Työw i pupapilèyaa |
+| 352 | Front de Libération | Dumbu pinhiaa lelènnde |
+| 353 | Front populaire | Dumbu fawfawvo |
+| 354 | Fusil | Yekpandioo |
+| 355 | Fusil-mitrailleur | Yekpandi tööliaa |
+| 356 | Fief | Lènnden |
+
+### HISTOIRE G
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 357 | Garde | Saabandiilen, saabandiinöö |
+| 358 | Garde cercle | Mèlèsonnöö |
+| 359 | Garnison | Katta salasiiya |
+| 360 | Gendarme | Sandamölinöö |
+| 361 | Général | Silalalnöö |
+| 362 | Génie militaire | Kökalu salavusoo |
+| 363 | Génération | Lambiaa |
+| 364 | Gens de caste | Vanaa yunyènnda |
+| 365 | Gérontocratie | Dalen bènduaa |
+| 366 | Gloire | Töökèndöö |
+| 367 | Gouverneur | Kukpènöö |
+| 368 | Gouverneur général | Kukpènö bèndo |
+| 369 | Gouvernement | Bello |
+| 370 | Grève | Baalaa kèu, Baalaa yömnönndo |
+| 371 | Guerre | Työwvo |
+| 372 | Guerrier | Kubanö |
+| 373 | Guetteur | Tyumuinöö |
+| 374 | Généalogie | Polale yungulen |
+
+### HISTOIRE H
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 375 | Harceler | Laaloo, hölla hinndo |
+| 376 | Hégire | Tyimbula mahomee lan |
+| 377 | Héraut | Yönbanöö |
+| 378 | Héroïque | …Köllo |
+| 379 | Héros | Vanapönö köllo |
+
+## PDF p. 14 (typed p. 13)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 380 | Heurt | Kpakasianndo |
+| 381 | Histoire | Dènèsinaasindöö |
+| 382 | Homme libre | Höö |
+| 383 | Homme d'Etat | Masanö lelènndo |
+| 384 | Hostile | Yèlen tolnanndo, nönanndo o köl |
+| 385 | Humanité | Dunya |
+| 386 | Horreur | Dènèkolonndo |
+| 387 | Hécatombe | Nyandavaa |
+
+### HISTOIRE I
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 388 | Invasion | Looloo |
+| 389 | Investir un roi | Masaa kèsioo |
+| 390 | Investiture | Suilioo |
+| 391 | Indemnité | Bönöö, köndöö, kollo |
+| 392 | Indemniser | Bönöö vuuo, kollo yöngoo |
+| 393 | Indemnisation | Bönölueiyaa, kol yöngaa |
+| 394 | Implantation | Banhöö, Bannönndo |
+| 395 | Imposition | Banhöö |
+| 396 | Impôt | Muloo |
+| 397 | Institution | Kottoo |
+| 398 | Intérim | Tyumyaa tyumpöö |
+| 399 | Insurrection | Piaasiaa, työnönndo isisi |
+| 400 | Impopularité | Töö vööndo |
+| 401 | Incident | Sulalle, sulèiye |
+| 402 | Illustre | Nyè, vana töö |
+| 403 | Infliger | Vuulullo |
+| 404 | Inflation | Fulaa o baa nin (volion) |
+| 405 | Invention | Solioo |
+| 406 | Infanterie | Kunda söndasiyaa työlaba lènnda |
+| 407 | Investigation | Nuvviaa, yaasiaa, nyuuniaa |
+| 408 | Invincibilité | Bumbanndo |
+| 409 | International | Kaaleninndo (söön lekaaninndon) |
+
+## PDF p. 15 (typed p. 14)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 410 | Intrusion | Sondoo voo o söèi pilèi nin, Ba[…] pilaa kömanndo |
+| 411 | Indignité | Bèèlelepènnden, hööyèi lepènnde |
+| 412 | Indigénat | Puululen |
+| 413 | Intronisation | Suilioo, masalen kèsioo |
+
+### HISTOIRE J – L
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 414 | Joug colonial | Puululen |
+| 415 | Liens matrimoniaux | Honnön ikalaa |
+| 416 | Lance | Ballo |
+| 417 | Loi cadre | Sava lebollo |
+
+### HISTOIRE M
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 418 | Marabout (chef religieux) | Mandenöö |
+| 419 | Masque | Hölaa piömndo, Koongo löèyaa ni[…] |
+| 420 | Matriarcat | Kalayèi |
+| 421 | Main d'oeuvre | Vanvalla, köndö vallo |
+| 422 | Massacre | Diwvo |
+| 423 | Marcher sur (sens militaire) | Koello |
+| 424 | Médiéval | Nye masindöö |
+| 425 | Métropole | Lènnde mapuulu |
+| 426 | Mettre à feu et à sang | Pondoo vömndo |
+| 427 | Mettre à sac | Diyöö kpudu |
+| 428 | Millénaire | Nyè masindèsindöö |
+| 429 | Mission | Kiilalen viomöö |
+| 430 | Mosquée | Misilioo |
+| 431 | Moyen âge | Sindè bèndoo |
+| 432 | Monopole | Kungulanndo |
+| 433 | Muraille | Pinndo |
+| 434 | Monarchie | Masale vanapilöö |
+| 435 | Musulman | Misiliminöö |
+
+## PDF p. 16 (typed p. 15)
+
+### HISTOIRE N
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 436 | Navigation | Tèènguuo |
+| 437 | Navigateur | Vana tèènguaa, vana kela o mènndan tyoovo |
+| 438 | Négociation | Suukanndo, yamèi |
+| 439 | Négocier | Yamèi kiolöö |
+| 440 | Négrier | Yulanö ntyiöö, dèndè ntyiöö |
+| 441 | Noble | Vana miiyo; vana bolofaa |
+| 442 | Non-immixtion | Sondo soliaa |
+
+### HISTOIRE O – P
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 443 | Objectif militaire | Kpemaa |
+| 444 | Occupation | Hawvo, biwvo |
+| 445 | Opération | Työwvo |
+| 446 | Pacte | Kpemaa |
+| 447 | Pacte colonial | Kpema delöötyoovo |
+| 448 | Pacification | (Lènnden) kèsioo, …Nyumioo |
+| 449 | Pacifier | Kèsioo, …Nyumioo |
+| 450 | Païen | Vana nö dina loo |
+| 451 | Paix | Köl nyuloo |
+| 452 | Paganisme | Dinalepènndo |
+| 453 | Palais royal | Vuköö, katta |
+| 454 | Parlement | Dumbu lasavaa |
+| 455 | Parachutage | Mèlioo |
+| 456 | Partisan | Vana vao (c'est notre partisan = naa tyoo o tyo ni) |
+| 457 | Passé (le) | Sindöö, paandoo tyieiyo |
+| 458 | Patrie | Köölian köövan (laginè tyo kööma nian ni) |
+| 459 | Patrimoine | Kèö |
+| 460 | Patriarcat | Pupayèi |
+| 461 | Patriarche | Vana kökaloo |
+| 462 | Pays sous tutelle | Lènnde ba handaa tyoolen |
+| 463 | Pays coloniaux | Lènhii tyo o kpondo bènguèi |
+| 464 | Pénétration | Löèyöö |
+
+## PDF p. 17 (typed p. 16)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 465 | Pension | Salaa pansiönndo |
+| 466 | Période | Boondei |
+| 467 | Période contemporaine | Boondei sisa tyieendoo vaalioo |
+| 468 | Période historique | Boondii tyieen maangianndo |
+| 469 | Période coloniale | Boondii lepuuluei |
+| 470 | Personnage | Vanakökaloo |
+| 471 | Persécution | Sangaa |
+| 472 | Persécuter | Saangiaa |
+| 473 | Peuplade | Kunda nvandatyieeo |
+| 474 | Pharaon | Faalaönnöö |
+| 475 | Phase | Yènyöö |
+| 476 | Pillage | Piolöö, delöötyoo, Salöö selemen[…] |
+| 477 | Piraterie | Nyafennden |
+| 478 | Pirate | Nyafennöö |
+| 479 | Pistolet | Yekpandi baa (pömböö) |
+| 480 | Prêter | Pilityioo, työmndo, keeliaa |
+| 481 | Police | Polisioo |
+| 482 | Patrouille | Nönnde salasiiya, kela salasiiy[…] |
+| 483 | Pays sous mandat | Lènnde kalufaalen |
+| 484 | Pays semi-coloniaux | Lenhii söngö kpondo bènguei |
+| 485 | Pays colonisés | Lènhii biyèi |
+| 486 | Pays colonisateur | Lènhii deltyooe |
+| 487 | Possession | Nöö (nöu) |
+| 488 | Position tactique | Tyalii taasiei |
+| 489 | Poste militaire | Döngö tyuaatyöwva (poste de commandement Döngö lemasaa) |
+| 490 | Pourparler | Suukanndo |
+| 491 | Poudre à canon | Fungoo |
+| 492 | Poursuite | Tolöö kööli, tovöö |
+| 493 | Pouvoir législatif | Masale lasavalen |
+| 494 | Pouvoir Exécutif | Masale tosalen |
+| 495 | Prêter serment | Sèvèlanndo, (sèlèlanndo) |
+| 496 | Prétexte | Talen , baw köösöö |
+| 497 | Prêtre | Mpèèlunöö |
+
+## PDF p. 18 (typed p. 17)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 498 | Prévision | Tyilan työö, tyilan mèèndanndo |
+| 499 | Principe | Nèikelaa, mèiyo, kpemaa |
+| 500 | Prisonnier de guerre | Tyè työwvo |
+| 501 | Proclamation de l'Indépendance | Diom dépandanndo dimioo |
+| 502 | Progrès | Hiovöö latyi |
+| 503 | Protection | Bahandaa, babèngoo |
+| 504 | Protectorat | Babèngoo, lènnde tyo o babèngulen |
+| 505 | Provocation | Tinhöö |
+| 506 | Province | Tandaa |
+| 507 | Puissance | Lènnde ibèmèi |
+| 508 | Puissance étrangère | Lènnde ibèmè köölikööliei |
+| 509 | Pèlerinage | Kölan kelaa, mèèndanndo |
+| 510 | Pèlerin | Vana köa mèèndanndo |
+| 511 | Partage | Piöwvo |
+| 512 | Piété | Diana biiloo a kö[…] |
+
+### HISTOIRE R
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 513 | Rançon | Hiöölei |
+| 514 | Ravage | Piölöö , Salöö selemenden |
+| 515 | Razzia | Sangboo |
+| 516 | Rebelle | Vana ikaamayaa, itèèndiöö |
+| 517 | Reconquête | Tölaa biyöö, hiölöö |
+| 518 | Rébellion | Kaamayèi |
+| 519 | Réfugié politique | Kungulannö tyaliityieendo |
+| 520 | Référendum | Nyuna layanndo |
+| 521 | Prétention (avoir des) | hötten luèyöö |
+| 522 | Règne | Masalen sullo |
+| 523 | Reconnaissance | Kpèngbèlaa |
+| 524 | Reconstituer | Tyiinhiaa, saaliaa |
+| 525 | Redevance | Koeu, bönöö |
+| 526 | Régent | Masa, lendoo |
+| 527 | Régence | Masale ityuamböyalen |
+| 528 | Reine | Masanölaandoo |
+
+## PDF p. 19 (typed p. 18)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 529 | Relation commerciale | Kèlatèèn leyulaa, (kela) vellaavel[le] le yulaa |
+| 530 | Religion | Dimaa (dinèiyo) biilooo |
+| 531 | Relation diplomatique | Vellaavelle kelatyaa |
+| 532 | Réédition | Tölaa solioo (sèbèlan), tölaa |
+| 533 | Renégat | Yomnunnöö (vana yemnun, vana kèè) |
+| 534 | Renseignement | Yaafale dimulaalen, diom dimuan ty[…] |
+| 535 | Repli | Muungoo a, maköö, yoomuan tyuaa |
+| 536 | Repli tactique | Muugu … maköö taasioo |
+| 537 | Repéré | Kanndo, foofoo |
+| 538 | Répression | Bèpèliaa, susaa, bèsènhaa |
+| 539 | Représentation | Lasidennden |
+| 540 | Représentativité | Tendulen, simlatyiyèi |
+| 541 | Repousser | Nyindöö |
+| 542 | Réputation | Töö, Diolan |
+| 543 | Réquisition | Tyuaa, nyunaa, veeloo |
+| 544 | Réserve | Kungulen, nyè kèsiaa ikèyo |
+| 545 | Résider | Tyalle |
+| 546 | Résident | Tyieeninnöö |
+| 547 | Résistance | Kpasèi vuöö |
+| 548 | Résistant | Kpaseenöö |
+| 549 | Restauration | Mingioo (o masalen) |
+| 550 | Retraite | Pèngioo, Döngö pèngiaa |
+| 551 | Ramification | Tèiyon |
+| 552 | Revendication | Tyièènhönndo |
+| 553 | Révolte | Sieesièi luèyöö, työnönndo isisi |
+| 554 | Révolution | Revolisiönndo |
+| 555 | Rival | Dièèmoo |
+| 556 | Rivalité | Dièèmaèi |
+| 557 | Roi | Masanöö |
+| 558 | Royaume | Lènnde lemasalen |
+| 559 | Ruines | Sallo; pömndo |
+| 560 | Royauté | Masalen |
+| 561 | Renfort | Yoomuan |
+
+## PDF p. 20 (typed p. 19)
+
+### HISTOIRE S
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 562 | Sacrifice | Salaa |
+| 563 | Sanction | Bönö lueyaa |
+| 564 | Sanguinaire | Vana diyaa nvanndo, vana nin vesèiyo |
+| 565 | Sculpture | Siölöö piömndo, nyè sialaa |
+| 566 | Secte | Dumboo |
+| 567 | Sécurité | Tyaliityai |
+| 568 | Seigneur | Masanöö |
+| 569 | Sénateur | Vana kökaloo |
+| 570 | Sépulcre | Sèiyo (saiyo) |
+| 571 | Service militaire | Salavusoo |
+| 572 | Servitude | Tyèlen |
+| 573 | Signature | Soei handèi, saanioo |
+| 574 | Siècle | Vösiikèmöö |
+| 575 | Siège | Tyieo balöö |
+| 576 | Société des nations (S.N.) | Dumbu lènnde |
+| 577 | Soldat | Salasiinöö |
+| 578 | Solidarité | Dèmèlianndo, maalianndo |
+| 579 | Soumission | Hinilan, loo o babèngu botten nangöö |
+| 580 | Souverain | Vanapilaa |
+| 581 | Stabilité | Bandötyooyèi |
+| 582 | Succéder | Singilaa, Muungoo o fondaa |
+| 583 | Succession | Muungoo o fondaa |
+| 584 | Suppression | Tèèmbuuo, fanhaa |
+| 585 | Suicide | Diyönndo, diinönndo |
+| 586 | Sujet | Lemasabèngunöö |
+| 587 | Sûreté | Kölnyuloo, tyaliityaai |
+| 588 | Survivant | Vana fuulianndo, vana lo a tyallo |
+| 589 | Symbole | Tömaseloo |
+| 590 | Système colonial | Bèèndian delöötyoo |
+| 591 | Secret militaire | Kpema salavusoo, työömuule salavusoo |
+| 592 | Suzerain | Masanöö |
+| 593 | Strate sociale | Tokpèiya |
+
+## PDF p. 21 (typed p. 20)
+
+### HISTOIRE T
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 594 | Tactique | Köngölöèi, taasioo |
+| 595 | Tank | Tankio |
+| 596 | Témoignage | Seilen |
+| 597 | Temps modernes | Tyieendoo vaalioo |
+| 598 | Ténacité | Ilafilafiei, bannönndo |
+| 599 | Tension | Tindènnndo |
+| 600 | Tentative | Töndanndo |
+| 601 | Terreur | Kpèiyo, sioonhii bènduei |
+| 602 | Terroriser | Sioonde lueiyo |
+| 603 | Tirailleur | Salasiinö paandoo |
+| 604 | Trafic commercial | Tinhöö |
+| 605 | Traité | Tyèlanndo |
+
+(End of the list.)
