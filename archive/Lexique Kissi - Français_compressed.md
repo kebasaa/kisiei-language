@@ -7,7 +7,7 @@
 > - **Conventions of the original:** "(rad)" marks a verb stem (radical); "a/ b, c" gives a verb's long form followed by its stems; "(neg)" a negative stem. Entries are one per line: `kisiei - français`.
 > - **Marks:** `✎` handwritten addition or correction; `~~typed~~` text struck by hand; `[?]` illegible. An entry with no French ("Bakali -") is kept as typed.
 > - **Pages:** PDF p. 1 title page, p. 2 blank; the list starts on PDF p. 3.
-> - **Progress:** PDF pp. 1–40 (a – palaa) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
+> - **Progress:** PDF pp. 1–60 (a – velanndo) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
 
 ## PDF p. 1
 
@@ -2123,3 +2123,1111 @@ Title page: **Lexique Kissi-Français** — Auteur: Inconnu.
 - pal - (rad) casser, parler par nom
 - pala - (rad) déranger, (faire) fatiguer
 - palaa/ pala - déranger, (faire) fatiguer
+
+## PDF p. 41
+
+- palɛi -
+- palle kalalen - le soleil de midi
+- palle saalen - l'aube
+- palle sɛlalen - 3 ou 4 heures dans l'apres midi
+- palle sɛllen - la fête
+- pallei i cɔllo - l'apres midi
+- pallen - le soleil; la journée
+- pallen o pol - midi
+- pandu - il y a longtemps, ancien
+- pandu - (rad) acheter
+- panduo - les choses anciennes ou bien utilisées
+- panduo - un homme
+- pangaa - un abri dans le champs, la cabane
+- pangalan -
+- pangei -
+- pangeloo - la lueur
+- pangie - le mois; la lune
+- panpannden - l' harpe des Juifs
+- pantalaa - les pantalons
+- paŋ - (rad) germer, pousser
+- paŋalaa - premier
+- paŋalaa - l'envie; la jalousie
+- paŋalɛiyo - premier
+- pasa - (rad) faire un pas
+- pasaa/ pasa - faire un pas
+- pasiaa -
+- pauvo - la plaie, la blessure, un bleu
+- paw pulen - ulcère
+- pawve - la plaie
+- pawvo - la plaie
+- pawvo - le manche d'une houe, d'une hache
+- pe - si, apres un nom et dans la même phrase avec "ti"
+- peekolaa - la fontaine
+- peele taannden - feuille de tabac
+- peelen - la feuille
+- peelu - (rad) accomplir le prix, remplir (✎ "remporter?" above "accomplir")
+- peeluo - accomplir le prix, remplir
+- pei - (rad) remplir (plein)
+- peiyo/ pei - remplir plein
+- pelannden - une petite bouteille ou (conteneur) ✎ récipient
+- pelei - le pied
+- pelemundoo - la gachette
+- peletiiyo - l'assiette
+- peliiyolle - le mollet
+- pellen - l'oeuf
+- pello - la pelle
+- pelɔnndo/ pelun - s'accomplir, réaliser
+- pelun - (rad) s'accomplir, realiser
+- pemɛi - en ordre, en ligne
+- pena - (rad) faire qqch tôt, matinal
+- penaa/ pena - faire qqch tôt, matinal
+- penbei - la montagne
+- pendi - (rad) crier, hurler
+- pendio/ pendi - crier, hurler
+
+## PDF p. 42
+
+- pendon - fonio, une graine
+- pendu - (rad) payer
+- pendul - (rad) gronder, crier à
+- pendullo/ pendul - gronder, crier à
+- pengere - l'épingle
+- pengɛi - la planche de bois
+- pengi - (rad) écosser, décortiquer
+- pengio - la mouche
+- pengio/ pengi - écosser, décortiquer
+- pengoo - la mouche
+- penguo - le bord, la limite, la fin
+- peo - la riviere, le ruisseau, le marigot
+- perie - la jambe
+- petan - oeuf
+- petasɔva - les oeufs de poules
+- pewvo - le porc
+- peyo sɔdɔɔ - ~~forcé qqch pour beaucoup remplir~~ ✎ bourrer
+- pɛ - si, plus
+- pɛ - être rempli
+- pɛɛku/ pɛɛkuo - (rad) enseigner
+- pɛɛkuo/ pɛɛku - enseigner
+- pɛɛlɛnnden - le cache-sexe
+- pɛɛlunɔɔ - le prêtre
+- pɛɛnden - la ceinture
+- pɛɛngi - (rad) cesser
+- pɛɛngio/ pɛɛngi - cesser
+- pɛɛpɛi - la nageoire
+- pɛi - avant-hier
+- pɛi - (rad) prier
+- pɛiyo/ pɛi - demander à, prier, apprendre, verser, enlever les vêtements
+- pɛlɛpɛlɔɔ - les étincelles
+- pɛndunɔɔ - la jumelle, le jumeau? (✎)
+- pɛngɛi - blanche
+- pɛngɛla - (rad) se disperser, étaler
+- pɛngɛlaa/ pɛngɛla - se disperser, étaler
+- pɛngi - (rad) se reposer, arrêter
+- pɛngi bɛndo - une grande mouche
+- pɛngi pɛo - la mouche tse-tse
+- pɛngio - le repos, le congé (✎ "la" corrected to "le")
+- pɛngio/ pɛngi - se reposer, arrêter
+- pɛngulan - les limites, frontiere
+- pɛnnden -
+- pɛɔlen - la prière
+- pɛ-pɛ - tout à fait, completement
+- pɛrɛpɛrɛlen - un petit ruisseau, la source d'eau
+- pɛwvo - le boa, le python
+- piasa - (rad) s'écarter
+- piasaa/ piasa - s'écarter
+- piɛilen - la prière
+- piɛiyo - prier
+- piisio - pièce
+- pil - exactement
+- -pila - -même
+- pilaa - autrui
+
+## PDF p. 43
+
+- pilaceo - indigène, villageois, autochtone
+- pilacieyo -
+- pilanndo - la tabatière
+- pilayenndo - un petit insecte vert qui ~~apparait comme~~ ressemble à une feuille? (✎)
+- pilɛ - une, un
+- pillo - pile
+- pilɔ - autre
+- pilɔɔ - même
+- pimi - (rad) satisfaire avec la nouriture ou spirituellement ✎ physique ou spirituelle
+- pimia - (rad) noircir, foncer
+- pimiaa/ pimia - noircir, foncer
+- pimio/ pimi - satisfaire avec la nouriture, ou dans le context spirituel
+- pindie - la lenteur
+- pindi-pindio - le charbon
+- pindu - acheter (imp)
+- pini - (rad) punir
+- pinio/ pini - punir
+- piɔlɔɔ/ piɔl, pɛl, pial, pel - briser, casser
+- piɔɔ - la pluie
+- iɔɔ - la pluie
+- piɔɔ bɛnduo - la tornade
+- piran - (rad) toucher, frapper
+- piranndo/ piran - toucher, frapper (à punir)
+- pirian - (rad) toucher plusiers fois
+- pirianndo/ pirian - toucher plusiers fois
+- pirinnden - la vigne
+- pisi - (rad) prendre, enlever, vendre
+- pisio/ pisi - prendre; enlever; vendre; tenir
+- pisul - (rad) amuser
+- pisultan - les joues; les danses
+- pisultan/ pisul - amuser
+- piw - (rad) faire qqch tard
+- piwvo - rendre visite à qq'un le soir, étudier tard, precher tard, parler tard
+- piwvo - vert, pas mur
+- po - garçon
+- polalen - la ligne; le rang
+- poleo - un poisson
+- pɔlɛo - une sorte de poisson
+- pollo - endroit avec beaucoup de gazon, la savanne
+- pondaa - une peinture naturelle qui est utilisé par les initiés sur leur joue sur leur visages en rayons.
+- pondaa sɛvaa - l'encre
+- pondoo - Janvier
+- pondɔɔ/ pandu - acheter
+- pondɔɔ/ pondu - exploser, crier
+- pondu - (rad) exploser, crier
+- ponponndo -
+- poɲa - rayé
+- poŋɔɔ/ paŋ - germer, pousser
+- poo - la pierre
+- poonda - (rad) défaire, retirer
+- poondaa/ poonda - défaire
+- poonpoonndo - le pigeon vert
+
+## PDF p. 44
+
+- pow le sumndo - l'enclume
+- powvo - la pierre, caillou
+- powvo - pile
+- powvo - le porc
+- pɔ - être rempli
+- pɔ - d'abord
+- pɔɛn - (rad) oublier
+- pɔɛnndo/ pɔɛn - oublier
+- pɔɛnnɔnndo/ pɔɛnnun - oublier
+- pɔɛnnun - (rad) oublier
+- pɔla - (rad) mouiller, asperger
+- pɔlaa/ pɔla - mouiller, asperger
+- pɔlɔnndo - le marécage
+- pɔlɔɔ/ pal - casser; parler par nom
+- pɔmndo - l'idole, fetiche, la poupée, la statue
+- pɔmndo - la mort
+- pɔmtɛrie - les pommes de terre
+- pɔnbɔɔ - petit
+- pɔnbɔɔ - jeune frère, soeur, cousin, cousine
+- pɔndoo - le pont
+- pɔndɔkɔlɔn - mauvais gout
+- pɔnɔɔ - le mari
+- pɔntɛo - les premieres pluies
+- pɔntie - point
+- pɔntiye - point
+- pɔpɔan - les gouttes de pluie qui tombe des arbres, du toit
+- pɔrɔɔ - mauvais gout
+- pɔsɔnio - le poison
+- pɔsɔɔ - une sorte de petit escargot
+- pɔtmanio - porte-monnaie
+- pɔtɔmanilan - porte-monnaie
+- pɔw - (rad) tromper, faire tromper, chuter (✎ "?")
+- pɔw - (rad) diviser entre
+- pɔwvian - (rad) se diviser, diviser entre plusiers
+- pɔwvianndo/ pɔwvian - se diviser, diviser entre plusiers
+- pɔwvo/ pɔw - tromper, faire tromper, chuter
+- pɔwvo/ pɔw - diviser entre
+- pɔwvo - une sorte d'arbre, ~~de lequel le bois est utilisé pour la charpente~~ le popo, qui vit dans le bas-fond (✎)
+- pua - le père
+- pui - (rad) la reprise des branches, pousser, donner les branches (✎ "le" corrected to "la")
+- puiyo - les herbes pour le toit, la paille
+- puiyo/ pui - la reprise des branches ou pousser, donner les branches
+- pulen - le nombril
+- pulɔn sɛllo - l'ablution
+- pulɔnndo/ pulɔn, pulun - se laver
+- pulɔɔ/ pulu, pilu - laver (toi-même, pas la vaisselle) (✎ "les vaisselles" corrected)
+- pulun - (rad) laver
+- pum - certain, quelques
+- pum - (rad) être rempli, satisfait, rassasié
+- pumndo/ pum - être rempli, satisfait, rassasié
+- punbuo - le nid des fourmis, des guêpes
+- pundaa - cataracte
+- pundɔɔ/ pundu - faire tremper
+
+## PDF p. 45
+
+- pundu - (rad) faire tremper
+- pundulen - la vigne, la racine
+- punga - saisir, prendre avec violence ou rapidement
+- punpunndo - un grand oiseau
+- puɔ - remmener; epouser (✎ "amener")
+- purie - la grossesse, l'intestin
+- purɔnndo/ purun - se laver
+- purɔɔ/ puru - laver qq'un
+- puru - (rad) laver qq'un
+- puruei - français, anglais, ou les langues ~~qui sont~~ parlées par les blancs
+- purulan - une sorte de corde, du palmier (✎ "de" corrected to "du")
+- purulen - la gloutonnerie, la gourmandise (✎)
+- purun - (rad) se laver
+- puruo - la saleté; terre
+- puruon - les intestins
+- pusian - (rad) se remuer, troubler
+- pusianndo/ pusian - se remuer, troubler
+- pusuo - le tertre des fourmis, la termitiere
+- puten - la cendre
+- puuloo - la boue
+- puuluo - la terre
+- puundulen - racines
+- puusia - (rad) dispercer, déranger
+- puusiaa/ puusia - dispercer, déranger
+- puusianɔɔ - réactionnaire
+- puusoo - termitiere
+- puya-puya - la pluie, la bruine
+- rabɛngu - avec les pieds, sous les pieds
+- raci - avant
+- rahɔl - se reveiller
+- rapi - beaucoup, mieux
+- rayɛn - parmi, entre, au milieu
+- re - allomorphe de le ~~and~~ te, seulement en kissi du nord. negatif utilisé apres l, m, n, t
+- ro - contraction de re et o à le fin de la phrase
+- robuo - la jupe, la robe
+- sa - (rad) se lever (le soleil)
+- [s]a - (rad) pourrir
+- Saa - Octobre
+- saa - (rad) prendre feu, tenir
+- saa - le mouton
+- saa/ sa - prendre feu; tenir, prendre
+- saa cuao - l'agneau
+- saa kondoo - le bélier
+- saa laanduo - le brebis
+- saabelanɔɔ - l'architecte
+- saala - (rad) saisir un objet qui tombe
+- saalaa/ saala - saisir un objet qui tombe
+- saana - (rad) nager
+- saanaa/ saana - nager
+- safuna - le savon
+- saiye - la barbe,
+- saiye leco - la moustache
+
+## PDF p. 46
+
+- saiyo - la tombe
+- sakiei - l'épée
+- sal - (rad) scier
+- sala - (rad) saisir un objet qui tombe
+- salan - (rad) rattraper
+- salanndo/ salan - rattraper
+- salaran - les blagues
+- salatio -
+- salɛiyo - Lundi
+- salillo - la marmite
+- sallen - la saison de pluie
+- sallo - le tas d'ordure
+- salɔɔ/ salu, selu - sarcler
+- samakoo - la punaise, la bestiole, le microbe dans le lit
+- samkpaa - tam-tam crépitant
+- samtaa - la chausure ou la pantoufle
+- sanaa...kpayanndo - plat
+- sanbaa - cadeau
+- sandaa - une personne ~~qui est~~ honnête ou de bon caractère
+- sandaa - une histoire, parabole, proverbe
+- sandanɔɔ - un petit poisson rouge
+- sandia - (rad) se peigner
+- sandiaa/ sandia - se peigner
+- sandoo - une plante avec laquelle on fait un jus, qui a le gout aigre
+- sandɔɔ - être droit, infinitif
+- sandu - droit
+- sanɛiyo - les nouveaux
+- sanga - l'ennui, la lassitude, le fardeau, la douleur, la fatique; être fatigué (rad)
+- sangaa - la fatigue; être fatigué
+- sangalaa -
+- sangan - (rad) se fatiguer
+- sangannndo/ sangan - se fatiguer
+- sanga-sanga - l'échelle
+- sangia - (rad) ennuyer souvent, ~~faire~~ fatiguer
+- sangiaa/ sangia - ennuyer souvent, accabler
+- sangio - ✎ afro le peigne
+- sangio - un bon poisson blanc
+- sangɔɔ - la tortue
+- sangu - (rad) se guérir, se soigner
+- sanie - l'or
+- sanion -
+- sankpaa - un tambour plus fin que le "yinbɔ"
+- sannda - les fourmis magna
+- sannden - une plante de forêt qui a des feuilles lisse est de laquelle on peut faire un médicament pour la toux ?
+- sanndo - les fourmis magna
+- sanndo - un lapin, le liévre
+- saŋ - (rad) semer comme le riz
+- saŋaa - rouge
+- saŋɔɔ/ saŋ, seŋ - semer ~~comme le riz~~ ✎ à la volée
+- sao - un testament, le désir, la volonté (✎ "disire" corrected)
+- sapoo - un chapeau
+- sara - (rad) payer
+
+## PDF p. 47
+
+- saraa - le sacrifice
+- saraa/ sara - payer, le salaire
+- saratio - l'authorité, pouvoir
+- saravusuo - le service militaire
+- sarikokoo - la colombe
+- sarɔɔ/ saru - éplucher (qqch avec un couteau)
+- saru - (rad) éplucher (qqch avec un couteau)
+- Sasa - un nom
+- sasaa - le rite d' initiation (tatouage) pour les femmes là où elles apprennent à danser, à chanter, et d'autres sècrets qui dure pendant trois à six mois en foret.
+- sasaa - une corbeille pour emporter les poulets
+- sasan - la salive qui coule mal le matin apres le sommeil
+- sasan - (rad) secher en partie
+- sasanndo/ sasan - secher en partie
+- sasɔnndo/ sasun - se traîner péniblement, se tirer
+- sasɔɔ/ sasu - traîner, tirer
+- sasu - (rad) traîner, tirer
+- [sa]sun - (rad) se traîner péniblement, se tirer
+- sasun - (rad) se traîner péniblement, se tirer
+- Sata - un nom
+- saulen - l'orange
+- sauma pɔnbɔan - le citron vert
+- sayaa - une sorte d'herbe grande de la savanne; la savanne
+- sayalen - l'herbe de savane
+- sayɛiyo - Lundi
+- sayonndo - un lézard
+- seelen - le témoignage
+- seelen sorio - faire sortir le témoignage
+- seema - fou, devinir fou
+- seemaa - la folie
+- seenguuvo - coquillage
+- Seila -
+- seku -
+- selekpekpee - raide
+- selekpekpoo - pic
+- semiyɛiyo - un fou
+- sendi - coiffure; coiffer, raser
+- sendi - (rad) coiffer, raser
+- sendin - (rad) se couper les cheveux, se raser
+- sendinndo/ sendin - se couper les cheveux, se raser
+- sendinɔɔ - le coiffeur
+- sendio/ sendi - coiffer, raser
+- sendi-sendi - pointu
+- sengoo - un cerf grand avec des cornes, l'antilope
+- sengɔɔ - une femme qui a quitté son mari ~~ou qui était quittée par son mari~~ ✎ que son mari a laissée
+- senguo - la coquille vide d'escargot
+- seŋaa - l'herbe raffia
+- seŋan - vin de raphia
+- Sere - un nom
+- sevallo - adresser
+- sew - (rad) finir, accomplir, terminer
+
+## PDF p. 48
+
+- sewvo/ sew - finir, accomplir, terminer
+- seyo - un temoin
+- sɛbɛrɔɔ - l'éperon d'un cheval
+- sɛbɔ dimio - lire
+- sɛbɔɔ - le livre, le papier; ecriture
+- sɛɛlan - castagnette féminine
+- sɛɛsa - (rad) déchirer
+- sɛɛsaa/ sɛɛsa - déchirer
+- sɛɛsia - (rad) déchirer plusieurs fois
+- sɛɛsiaa/ sɛɛsia - déchirer plusiers fois
+- sɛɛvia - (rad) gribouiller
+- sɛɛviaa/ sɛɛvia - gribouiller
+- sɛi - (rad) séparer, diviser
+- sɛiyo - porc-épic
+- sɛiyo - la tombe
+- sɛiyo/ sɛi - séparer, diviser
+- sɛla - (rad) se glisser, glisser
+- sɛlaa/ sɛla - glisser, se glisser
+- sɛllo - la fête; la manière de prier pour les musulmans; le religion musulmane
+- sɛlɔɔ -
+- sɛmtɔɔ - la veranda
+- sɛmtɔɔ - le porche, la véranda
+- sɛnbɔɔ - la puissance
+- sɛnburan - la honte
+- sɛndan - le savon
+- sɛnden - flute
+- sɛndi - (rad) redresser; allumer (un alumette)
+- sɛndilen - l'aiguille
+- sɛndio/ sɛndi - redresser; allumer (un allumette)
+- sɛndu - (rad) allonger plusiers fois
+- sɛndul - (rad) s'allonger pour qq'un ?
+- sɛndullo/ sɛndul - s'allonger pour qq'un
+- sɛnduo/ sɛndu - allonger plusiers fois
+- sɛngia - (rad) se disputer, contredire
+- sɛngiaa/ sɛngia - se disputer, contredire
+- sɛngian - (rad) se disputer, se contredire
+- sɛngianndo - se disputer, se contredire; une discussion avec qq'un
+- sɛngianndo/ sɛngian - la discussion
+- sɛnndan - le savon
+- sɛŋɔnndo - la pente d'une colline ou d'une montagne
+- sɛŋu - (rad) se pencher contre
+- sɛŋuo/ sɛŋu - se pencher contre
+- sɛɔ - le faucon, l'épervier
+- sɛɔɔ - un instrument de musique traditionel fabriqué à l'aide d'une calebasse couverte des boutons ~~en lignes sur~~ tenus par les fils (✎)
+- sɛrbɛtio - la serviette
+- sɛrɛ - plusieurs, beaucoup
+- sɛrio - une céréale fine et cuite?, la bouillie (✎ "cuillée" corrected)
+- sɛrɔɔ - la foule
+- sɛsa - (rad) déchirer
+- sɛsaa/ sɛsa - déchirer
+- sɛsɛi - l'aube (mot ancien)
+- sɛsia - (rad) déchirer beaucoup ou plusiers fois
+
+## PDF p. 49
+
+- sɛsiaa/ sɛsia - déchirer beaucoup ou plusiers fois
+- sɛsiei - le jardin
+- sɛtio - l'assiette
+- sɛva - (rad) écrire
+- sɛvaa/ sɛva - écrire
+- sɛval - (rad) écrire pour ou à
+- sɛvallo/ sɛval - écrire pour ou à qq'un
+- sɛvanɔɔ - l'écrivain
+- sɛvɛ - un charme trianglier qui est apporter autour le cou ?
+- sɛvɛi - l'amulette
+- sɛvɛla - (rad) écrire à qq'un
+- sɛvɛlaa/ sɛvɛla - écrire à qq'un
+- sɛw - (rad)
+- sɛyanndo - la séparation, la division
+- Sia - un nom
+- siaa/ sia, se - pleuvoir
+- sialten - la saison des pluies
+- siama - plusieurs
+- siamndo - la pintade
+- siamndo - la pintade
+- siandaa - les petits ecrevices
+- sianio - la bouteille
+- siawlen - l'orange
+- siɛndilen - l'aiguille
+- siɛtullan - huile de karité
+- sifflo - siffler
+- sigarɛtio - la cigarette
+- siilu - (rad) aider à charger qq'un un fardeau
+- siiluo/ siilu - aider à charger qq'un un fardeau
+- siimia - (rad) faire ou considerer égal ?
+- siimiaa/ siimia - faire ou considerer égal
+- siiyon yiiyo - jeux de toupies (✎ "aux" corrected to "de")
+- sikaa - le doute, incertitude
+- sila - (rad) conseiller
+- silaa/ sila - conseiller
+- silaa - le conseil
+- silamanndo - la harpe, une guitare traditionelle des Africaines
+- silanɔɔ - l'éducateur
+- [s]im - (rad) être debout, arrêter
+- simi - (rad) construire, mettre debout, dresser, arrêter (✎ "faire" corrected to "mettre")
+- simio/ simi - construire, dresser, ~~faire~~ debout; arrêter
+- simisimi - (rad) dresser plusieurs fois
+- simisimio/ simisimi - dresser, superposer
+- simisio - la chemise
+- simndan - rang
+- simnde - être debout, s'arrêter
+- simul - (rad) se dresser contre
+- simullo/ simul - se dresser contre
+- sin gom - le chewing-gum
+- sina - (rad) savoir, connaître, reconnaître
+- sinaa/ sina - savoir, connaître, reconnaître
+- sinamannden - instrument de musique en forme d'arc à une seule corde
+- singa - (rad) échanger contre
+- singaa/ singa - échanger contre
+
+## PDF p. 50
+
+- singi - (rad) soigner, (faire) guérir
+- singila - (rad) échanger avec qq'un (✎ "à" corrected to "avec")
+- singilaa/ singila - échanger à qq'un
+- singio/ singi - soigner, faire guèrir
+- singu - (rad) ~~faire dévinir qq'un comme qqch~~ ✎ changer de comportement, de culture, de qualité...
+- singuo/ singu - ~~faire devinir qq'un comme qqch~~ (✎)
+- sinian - (rad) se connaître (l'un l'autre)
+- sinianndo/ sinian - se connaître (l'un l'autre)
+- sinnda - les poux
+- sinndo - le pou
+- sinnɔnndo/ sinnun - devinir, devinir qqch differente ?
+- sinnun - (rad) devinir, devinir qqch differente
+- sio - la vie
+- sionde - la peur
+- siongɔɔ/ siongu, sengu, siangu, singu - guérir
+- sionnden - le baton
+- sioonde - le sable
+- siɔdii - demain
+- siɔɔ - nettoyer le chemin
+- siɔɔnda - (rad) chuchoter
+- siɔɔndaa/ siɔɔnda - chuchoter
+- siɔu/ siɔ, sɛ, sia, si - pourrir
+- siraa - une sorte d'arbre
+- siraa - les conseils
+- sisa - maintenant
+- sisɛran - une matiere du noix de palmiste. Apres l'avoir broyé en poudre et apres avoir tirer l'huile ce q'on jete s'appelle siseran.
+- sisinnda - les petites fourmis rouges ou noirs
+- sisinndo - une sorte de fourmi
+- sisoo - les ciseaux
+- Sita - un nom
+- sitɛɔ - une sorte de grande mouche
+- siyam - beaucoup; la pintade suivi par un adj.
+- siyɛla - (rad) patiner
+- siyɛlaa/ siyɛla - patiner
+- so - parler (conjugé)
+- soa - (rad) parler
+- soal - (rad) faire les selles (✎ "aller à")
+- sodasinɔɔ - le soldat
+- soei - le doigt
+- soeiŋi bɛndie - la terreur, la grande peur
+- sofernɔɔ - le chauffeur
+- sofɛlɔɔ - l'ane domestique
+- sokonɔɔ - le médecin
+- sola - (rad) recevoir, gagner
+- solaa/ sola - recevoir, gagner
+- solaanduo - la jument
+- solanɔɔ - l'expert
+- soli - (rad) tousser; faire sortir
+- solinnde - la toux
+- solio/ soli - tousser; faire sortir
+- solokanɔɔ - le Syrien
+- solola - (rad) gagner pour qq'un
+
+## PDF p. 51
+
+- sololaa/ solola - gagner pour qq'un
+- solɔnndo/ solun - donner un cadeau pour apaiser, s'adorer
+- solɔɔ/ soal - ~~faire les~~ aller à selles (c'est pas bien à dire) (✎)
+- solun - (rad) donner un cadeau pour apaiser, s'adorer
+- sondo yiyo - faire la moue
+- sondolen - un baton, un fouet
+- sondoo - la bouche, la porte
+- songoo - la grenouille
+- songɔɔ/ sangu - guérir, se soigner
+- soninkɔnɔɔ - l'autruche
+- sonkpallo - un instrument de cuisine ~~par lequel les femmes~~ pour remuer la sauce (✎)
+- sonndo - le trou
+- sontan -
+- sontɛndɔɔ - une sorte d' araignée
+- sonuo - la sauterelle
+- soo - un médicament noir qui est frotté sur les blessures
+- soo - un seau
+- soo - un cheval
+- [s]ondoo - le trou
+- soonɔɔ - la sauterelle
+- sopon - qqch ~~qui n'est pas lisse~~ ✎ de rigueur, qui ne se couche pas; décollant
+- sora - (rad) recevoir, acquérir, gagner
+- soraa/ sora - recevoir, acquérir, gagner, avoir
+- sori - (rad) faire sortir
+- sori seelen - (rad) faire sortir le témoignage
+- sorio/ sori - faire sortir,
+- sosa -
+- sosolen - une plante dure utilisée aussi pour faire des cordes
+- sɔ - completement, tout
+- sɔ - se lever (le soleil), l'aurore
+- sɔa - se rouiller (inf, passé)
+- sɔdasinɔɔ - le soldat
+- sɔɛi - la parole
+- sɔɛi/ soo (so), suu, sɔa - parler
+- sɔɛi biyɔ - obeir
+- sɔidi - demain
+- sɔla - (rad) recevoir
+- [s]ɔlaa - recevoir
+- sɔlao - reçu
+- Sɔlla - un nom
+- sɔlɔlanndo - confesser, avouer
+- sɔlɔnndo - les herbes grandes
+- sɔlɔɔ - scier
+- sɔlɔɔ - le grenouille
+- sɔmndo - mâcher, croquer
+- sɔmɔ - un bois utilisé pour tatouer
+- sɔmɔninna -
+- sɔmɔɔ - le fruit ou le bois d'acajou ~~qui est~~ utilisé par les femmes guinéenes pour faire les (signes particuliers) ✎ incisions sur les joues
+- sɔn - (rad) user
+- sɔndanndo - partir en courant; dit pour signifier "faire la toilette", ou prendre la fuite
+
+## PDF p. 52
+
+- sɔndianndo - la diarrhée, faire la toilette plusiers fois
+- sɔndɔ - coudre
+- sɔndɔkɔlɔɔ - le hameau
+- sɔndɔɔ/ sɔndu, sondu, sɔandu - coudre
+- sɔnga - se disputer
+- sɔngɔɔ - se disputer, la discussion
+- sɔnguo - approcher
+- sɔnguo - aborder
+- sɔnnde - usé; battre qq'un
+- sɔnndo - la tache; mauvais comportement
+- sɔɔ - le poulet, la poule
+- sɔɔ - pourrir
+- sɔɔlu - (rad) reparer une maison en paille
+- sɔɔluo/ sɔɔlu - reparer une maison en paille; broder
+- sɔɔmɛɛnɔɔ - le brigand
+- sɔpio - une corbeille pour la pêche dans laquelle un met les poissons
+- sɔrɔlan - (rad) avouer, confesser
+- sɔrɔlanndo/ sɔrɔlan - avouer, confesser
+- sɔva - (rad) se rouiller
+- sɔvaa/ sɔva - se rouiller
+- sɔwvo - une branche de palmier, le rameau de palmier
+- su - (rad) oindre, masser
+- sua - la soie
+- sua - (rad) parler
+- suanlavomndo - le petit mil
+- suansuannɔɔ - l'espion
+- sue - le doigt, l'orteil
+- suei - le doigt, l'orteil
+- suei bawve - le majeur
+- suei bɛndiei - l'index
+- suei bɛnduei - le pouce
+- suei lilɛi - l'annulaire
+- suei mɛɛlɛi - l'auriculaire
+- suende -
+- suendo - les moucherons
+- suendon - la sable
+- suɛɛsuɛɔ - Juillet
+- suɛi - le mais
+- suindin - un petit peu
+- sukaraa - la sucre
+- Sukianndo -
+- sul - (rad) grandir
+- sul - (rad) grandir, être elevé comme un enfant
+- suleiyo - accident grave
+- suli - (rad) élever un enfant
+- sulio/ suli - élever un enfant
+- sullo/ sul - grandir
+- sulɔɔ/ sul - être élevé comme un enfant, grandir
+- sulukuo - l'hyene
+- sumaa -
+- sumiɛiyo - un aveugle
+- sumnɔɔ - maréchal-ferrant, le forgeron
+- sun - bientôt
+- sunbungaa - grandes mouches noires
+
+## PDF p. 53
+
+- sungɔnndo/ sungɔnndo - s'enlever
+- sungɔɔ/ sungu - enlever (des mauvaises herbes, des dents, du chapeau), arracher
+- sungu - (rad) enlever (les mauvaises herbes, les dents, etc) arracher
+- sungun - (rad) s'enlever
+- sunɔnndo/ sunun - ~~se~~ oindre, se masser
+- sunun - (rad) se oindre, se masser
+- suɔ/ su - oindre, masser
+- susa - maintenant
+- susa - (rad) frotter
+- susaa/ susa - frotter
+- susan - (rad) se frotter
+- susanndo/ susan - se frotter
+- susiaa/ susia - frotter several times
+- susio - la diarrhée
+- susoo - balai
+- susɔɔ/ susu - ~~sucerer plusiers fois?~~ ✎ cuire sous la cendre
+- susu - (rad) ~~sucerer plusiers fois?~~
+- [s]usulu -
+- susuo - la loutre
+- suukan - (rad) (faire le causerie) ✎ / causer
+- suukanndo/ suukan - (rad) faire le causerie
+- suuku - (rad) reclammer la dette
+- suukuo/ suuku - reclammer la dette
+- suuma - être triste (inf, passé)
+- suundaa - adultère
+- suusia - (rad) frotter plusiers fois
+- suwvo - une sorte de poisson
+- suwvo - ~~la bord de bois~~, joug (✎ "[?]")
+- ta - ils, elles
+- ta - si
+- taala kolaa - le gobelet
+- taalaa - calabasse
+- taan cuiyaa - le tabac en poudre
+- taando - le tabac
+- taaninnde - paresseuse ✎ paresseux
+- taasio - la compréhension, avoir l'experience sur qqch; la remarque; la tactique
+- taayoo - molaire
+- tabalie - le tablier
+- tabalio - la table
+- taci - en avant, en avance, devant
+- taɛin - au milieu, parmi, du milieu
+- tahɔl - se reveiller, veiller
+- taiyo - la molaire
+- takalaa - l'alumette
+- takan - il y a trois ans
+- takan tala - il y a quatres ans
+- taka-taka - instable, ~~pas encore décidé~~ ✎ indécis
+- takpaa - la poitrine
+- talakolaa - la tasse
+- taleo - la fable
+- tallo - un pont des vignes
+
+## PDF p. 54
+
+- taloo - proverbe
+- tamu - (rad) broyer un aliment ✎ / mâcher ?
+- tamuo/ tamu - broyer un aliment
+- tan - ces ceux-là
+- tana -
+- Tanba - un nom
+- tanbaa - un tambour
+- tanbakollo - la panthère
+- tanbeloo - le tambour du chef
+- tanbɛiyo - Mardi
+- tanbillo-kuello - la panthère
+- tanbiyɛiyo - ~~qqch~~ abîmé, gaté
+- tanbu - s'abîmer, gater
+- tandaa - la contrée
+- tandanpollo - le papillon
+- tandoo - la sève (d'un arbre)
+- tandu - (rad) se reveiller
+- tangul - (rad) construire
+- tangullo/ tangul - construire
+- tangulnɔɔ - le maçon
+- taninnde - la paresse, la negligence
+- taninyɛi -
+- tannden - le coup de foudre
+- taŋ - (rad) traverser un ruisseau
+- taŋɔɔ/ taŋɔɔ - traverser un ruisseau
+- tapi - tres bien, beaucoup, mieux
+- tapio - Septembre
+- tapɔm - l'année passée
+- tapɔm tala - l'année avant la derniere ✎ = il y a 2 ans
+- tasaa - la cuve, le baquet, bassin
+- tasaa - le chauve-souris
+- tasio - la tasse
+- tau - beaucoup
+- tauloo - rare
+- tayɛnndo - au milieu, le centre (✎ "de" corrected to "au")
+- te - pas (neg)
+- telen - quand
+- tembello - raser la tête
+- temndo - chauve, la petite tonsure
+- tendei - crain de la gourde; le front ?
+- tendie - le front
+- tendie - une plante avec des vignes qui donnent la calabasse
+- tengaa - briller encore
+- tengen - la position de balance, ou de l'equilibre
+- teva -
+- tewvo - la gencive quand les dents sont ~~perdues~~ ✎ tombées
+- tɛɛkpaa - Fevrier
+- tɛɛlun -
+- tɛɛndo - la gale (sur la peau)
+- tɛɛnɔn - le gravier
+- tɛi - l'arachide ✎ , cacahuète
+- tɛi - (rad) étendre pour faire sécher
+- tɛiye - le confluent
+- tɛiyo/ tɛi - étendre pour faire sécher
+
+## PDF p. 55
+
+- tɛlɛfɛlɛ - tiède
+- tɛlɛlɔɔ - la surface
+- tɛlɔnndo/ tɛlun - prier, solliciter, implorer
+- tɛlun - (rad) prier, solliciter, implorer
+- tɛmbuo kpou - ravager
+- tɛnbɔɔ - une corbeille pour la pêche; le grand fêtiche des femmes
+- tɛnbu - (rad) abîmer, ruiner, gater
+- tɛnbuo/ tɛnbu - abîmer, ruiner, gater
+- tɛnda - (rad) fendre, couper (qqch) dans le sens vertical
+- tɛndaa/ tɛnda - couper (qqch) dans le sens ~~de~~ vertical, comme le bois, fendre
+- tɛndanɔɔ - le chirurgien
+- tɛndia - (rad) couper dans le sens de la longueur à maintes reprises, fendre plusiers fois
+- tɛndiaa/ tɛndia - couper dans le sens de la longueur à maintes reprises, fendre plusiers fois
+- tɛndoo - cotylédon (le noix de cola)
+- tɛndɔɔ - le ciseau
+- [t]ɛndu - (rad) éclore
+- [t]ɛnduo/ tɛndu - éclore
+- tɛngɛboenndo - l'insecte qui fait sortir le feu en s'envolant la nuit (✎ "de")
+- tɛngɛi - une maladie des yeux (quand on manque de niacine); ~~dans laquelle~~ les yeux devienent bleus. (✎)
+- tɛngɛlen - une herbe de la savanne, le roseau
+- tɛngie - un trou
+- tɛngu - (rad) porter une charge pour traverser qqch
+- tɛngul - (rad) porter qqch pour traverser un ruisseau pour qq'un ?
+- tɛngullo/ tɛngul - porter qq'un pour traverser un ruisseau pour qq'un
+- tɛnguo/ tɛngu - porter une charge pour traverser qqch
+- tɛnɔɔ - Lundi, une semaine
+- tɛɔndɔɔ - second, deuxieme
+- tɛtɛɔ - l'araignée
+- tɛwvo - le chaume qui reste debout dans les champs apres ~~les grains sont moissonnés~~ ✎ la moisson
+- ti - si
+- ti...pɛ - si
+- tiadɛɔ - pate de cacahuètes, des arachides (✎ "d'arachides")
+- [ti]an - les arachides, les cacahuètes
+- tigi-tigi - exactement
+- tiila - (rad) assiéger
+- tiilaa/ tiila - assiéger
+- tiilanndo - rond
+- tiinda - (rad) appuyer en frottant
+- tiindaa/ tiinda - appuyer en frottant
+- tiiya - (rad) arriver, atteindre
+- tiiyaa/ tiiya - arriver, atteindre
+- tika-tika - (pas encore decidé) ✎ indécis
+- timinikio - le soufre
+- tinan -
+- tinda - la canne, le baton
+- tinda - (rad) boiter
+- tindaa/ tinda - boiter
+- tindan - la canne
+
+## PDF p. 56
+
+- tindi - (rad) se reveiller
+- tindiio - le talon
+- tindio - la cicatrice
+- tindio/ tindi - se reveiller
+- tingan-tingan - pas encore decidé, instable, désiquilibré (✎ "indécis")
+- tingɔɔ/ tingu - rassambler le bois ✎ ramasser le bois
+- tingu - (rad) rassambler le bois
+- tinnda - verge (avec adj)
+- tinndaa - verge
+- tinndo - l'ile
+- tinnɔn - (rad) maudire, jurer
+- tinnɔnndo/ tinnɔn - maudire, jurer
+- tintin - lentement
+- tiɲie - noir
+- tiɲio - noir
+- tiŋɔɔ - provoquer
+- tiu - pouvoir
+- tiu - (rad) souffrir
+- tiuba - être capable
+- tiulɛ - pouvoir
+- tiuo - assez, complet
+- tiyila - (rad) dire qqch à qq'un
+- tiyilaa/ tiyila - dire qqch à qq'un
+- to - contraction negatif
+- to - le sud; le bas de la page
+- toaw - (rad) chasser, diriger, emmener
+- toaw - (rad) creuser, bêcher
+- tofa - (rad) regarder
+- tofaa/ tofa - regarder
+- tofanndo - le mirroir
+- tofaɔ - regard
+- tofia - (rad) chercher
+- tofiaa/ tofia - chercher
+- tofian - (rad) se jeter coup d'oeil l'un à l'autre
+- tofianndo/ tofian - se jeter un coup d'oeil l'un à l'autre
+- tolin - (rad) persecuter
+- tolinndo/ tolin - persecuter
+- tolinndu yɛlen - (rad) maltraiter, persecuter qq'un
+- tolɔɔ/ tol, tul, toal - descendre
+- tomaa - un vieillard
+- tomaa - circoncision, tatouage, incision (pour les garçons et les filles)
+- tonbola - (rad) nouer, lacer, attacher deux bouts des cordes
+- tonbolaa/ tonbola - nouer, lacer, attacher deux bouts des cordes
+- tonbollo - le pou qui vit sur ou dans les vetements des hommes
+- tondanndo - les échasses
+- tondɔnndo - s'étirer, se tirer, détendre
+- tondɔɔ/ tandu - se reveiller
+- tondɔɔ/ tondu - étendre qqch
+- tondu - (rad) étendre qqch
+- tongitongio - une guêpe petite et noire
+- tongo cɔwvo - la forge
+- tongoo - la niece, le neveu
+- tongɔlɔɔ - la tornade, le vent
+
+## PDF p. 57
+
+- tonguo - large, la largeur
+- tonndo - battu, tombant en morceaux, usé (✎ "battre" corrected)
+- tontonnden - les gouttes de pluie
+- toɲaa - la verité
+- toŋɔɔ/ toŋ, tuŋ, toaŋ (tuaŋ) - (faire) frire, (faire) griller
+- too - une nouriture ~~qui est~~ collante fabriquée avec la farine de manioc ~~qui est collant~~ (✎)
+- toolu - (rad) envoyer qq'un
+- toolu - (rad) sêcourir
+- tooluo/ toolu - envoyer qq'un
+- tooluo/ toolu - sêcourir
+- tooma pɔɔndo - tatouage
+- toongoo lannduo - la nièce
+- toongoo piaanduo - le neveu
+- toosia - (rad) préparer
+- toosia - (rad) faire arranger, reparer
+- toosiaa/ toosia - préparer
+- toosiaa/ toosia - reparer, faire arranger
+- toovaa - le taureau
+- [t]ovio - le bouc
+- tosa - (rad) faire, agir, fabriquer
+- tosaa/ tosa - faire, agir, fabriquer
+- tosan -
+- tosanndo - la pratique
+- tosola - (rad) faire qqch pour ou à qq'un
+- tosolaa/ tosola - faire qqch pour ou à qq'un
+- toto - bas
+- tovɔɔ/ toaw - chasser, diriger, emmener
+- tovɔɔ/ toaw - creuser, bêcher
+- towve - les bois des charpentes pour le toit, la maison, etc.
+- tɔ - dix
+- tɔ - le dernier, le reste (✎ "la derniere" corrected)
+- tɔ a hiɔɔlu - quatorze
+- tɔ a ŋuɛɛnu - quinze
+- tɔa - (rad) laver les vetements, la maison, etc
+- tɔal - (rad) planter
+- tɔkpɔɔ - le chimpanzee
+- tɔlia - (rad) se précipiter
+- [tɔ]liaa/ tɔlia - se précipiter
+- tɔlɔlan - les plantes
+- tɔlɔɔ - la plante
+- tɔlɔɔ/ tɔl, tol, tɔal - planter;
+- tɔmasalo -
+- tɔmasereo - le signe, le symbole (✎ "la" corrected)
+- tɔmenɔɔ - une personne Toma
+- tɔmndo - le singe
+- tɔmɔɔ - ~~faire~~ filer le coton, couper le bois, faire les briques; amuser un jeune garçon avec une jeune fille (✎)
+- tɔndaa - la pipe
+- tɔndikɔɔliei - le tendon
+- tɔndɔɔ - dixieme
+- tɔngando - le chauve-souris
+- tɔngɔlɔɔ - le tornade
+- tɔnndo - la loi
+
+## PDF p. 58
+
+- tɔnndunndo - un tambour
+- tɔnɔɔ - le profit, bénéfice
+- tɔɔ - acclammation
+- tɔɔ/ tɔa, too - laver les vetements, la maison, etc
+- tɔɔliaa - accélérer
+- tɔɔndaa - la pipe
+- tɔɔria - (rad) accélérer
+- tɔɔriaa/ tɔɔria - accélérer, depecher, faire vite, faire souvent
+- tɔtɔlɔnɔɔ - le docteur
+- tɔya -
+- tu - (rad) plier
+- tua - (rad) laver
+- tual - (rad) descendre
+- tuaŋ - (rad) frire, faire frire
+- tubabuɛi - français ou anglais ou une langue ~~qui est~~ parlée par un blanc
+- tubabunɔɔ - un étranger
+- tuei - (rad) laver la vaisselle (✎ "les veseilles" corrected)
+- tuei - (rad) se comprendre, entendre
+- tuei naa - être faché
+- tueianndo dom - se comprendre (l'un l'autre)
+- tueinan dom - (rad) se comprendre (l'un l'autre)
+- tueiyo/ tuei - laver la vaisselle (✎)
+- tueiyɔɔ/ tuei - entendre, comprendre
+- tuɛi - (rad) rôtir
+- tuɛi na - (rad) être faché
+- tuɛiyɔɔ/ tuɛi - rôtir
+- tuɛndɔɔ - ciseau
+- tufɔɔ/ tufu - cracher une fois
+- tufu - (rad) cracher une fois
+- tufuo/ tufuu - cracher plusiers fois
+- tufuu - (rad) cracher plusiers fois
+- tuilian - l'urine
+- tuisi - (rad) faire descendre
+- tuisin - (rad) se descendre, descendu, se soumettre (✎)
+- tuisinndo/ tuisin - se descendre, être descendu, se soumettre
+- tuisinndo toto - l' humilité, s'humilier, se soumettre
+- tuisio/ tuisi - faire descendre
+- tuitui - (rad) plier plusiers fois
+- tuituiyo/ tuitui - plier plusiers fois
+- tula - les dessins; les photos; imiter
+- tulu - (rad) reciproquer
+- tuluo/ tulu - reciproquer
+- tum fondo - la nudité
+- tum yekpandio - crosse du fusil
+- tumaa - le temps, quand, le moment
+- tuma-tuma - toujours
+- tumayongoyonguo - un oiseau avec un "kpue" sur la tête
+- tumndo - le tronc d'un arbre, le derrière, les fesses
+- tun - encore, seulement
+- tunbeo - la colère
+- tunbuo - la gerbe
+- tuncua - le chiot
+- tundɔɔ/ tundu - courber, plier
+- tundu - (rad) courber, plier
+
+## PDF p. 59
+
+- tunduo - le bois qui sert à faire le piege
+- tunguo - un nain
+- tunndo - le chien
+- tunɔnndo/ tunun - se plier
+- tunun - (rad) se plier
+- tuɔ/ tu - plier
+- tu-tu - tres chaud
+- tuu o kiloo - pesée
+- tuuku - (rad) voir, percevoir
+- tuukuo/ tuuku - voir, percevoir
+- tuula - (rad) dessiner
+- tuulaa - dessiner
+- tuulen - un petit peu
+- tuulia - (rad) dessiner plusieurs fois
+- tuulianɔɔ - le dessinateur
+- tuulu - (rad) (faire) chauffer
+- tuuluo/ tuulu - (faire) chauffer
+- tuuluo - chaud
+- tuunɔnndo/ tuunun - se mesurer
+- [t]uunun - (rad) se mesurer
+- [t]uuo - plan
+- tuuo - chaud
+- tuusu - (rad) aller au sud, en bas (✎ "en" corrected to "au")
+- tuusuo/ tuusu - aller au sud, en bas
+- tuw - (rad) mesurer, proposer
+- tuwvo - mesurer, proposer
+- va - ou, donc
+- va - mot d'exclammation ou de merveille ✎ émerveillement
+- va - une interrogation
+- va - (rad) frapper avec une pierre
+- va - (rad) être, être sur
+- va - (rad) labourer
+- va a kɔl tam biɛyo - être faché
+- va a ɲalo - être content
+- vaa - mille
+- vaa - cire des abeilles, rayon de miel
+- vaa/ va, vee - labourer
+- vaa o bɛndian - être prêt ?
+- [va]iye - taro
+- vakpa - clairement
+- val - (rad) être concerné, ressembler
+- valaa - aigre
+- valen - le rayon de miel
+- valiyiyɛi - la prophetie
+- vallo - activité
+- vallo - le travail
+- vam - (rad) envoyer, commissioner
+- van - (rad) (faire) cacher
+- vana balafondoo - le pauvre
+- vana baɲaa - redempteur
+- vana bara - un travailleur; un serviteur
+- vana bara fondo - un pauvre
+- vana cara lakɔsɔ - le juge
+- vana cawa - le maréchal-ferrant, le forgeron
+
+## PDF p. 60
+
+- vana havanndo - un passant
+- vana kiria iyindo - le coiffeur
+- vana kiyɛiyo - une personne vivante
+- vana lacoova - le menteur
+- vana muluanndo - qq'un qui déforme les paroles, un hypocrite
+- vana nɔ tɛranndo - accusateur
+- vana ɲurulla lakɔllo - réconciliateur
+- vana pɛɛkaa - enseignant
+- vana pɛka - enseignant
+- vana pisia n visio - le boucher
+- vana re - personne
+- vana tanbɛiyo - l'infirme
+- vana tɛlanndo - intercesseur, l'avocat, médiateur
+- vana vaa - le fermier
+- vana yauva - le cuisinier
+- vanabanaa - l'adulte
+- vanabolofaa - le riche
+- vanacamndo - la magicien
+- vanacieeyɛi - l'humanisme
+- vanaikɔɔ - le pauvre
+- vanaikɔɔ - le pauvre
+- vanakaa - le teinturier (✎ "teintureur" corrected)
+- vanalanɔɔ - la femme
+- vanamakoo - le sorcier
+- vanaɲɛcaa - le musicien
+- vanapɔnɔɔ - l'homme
+- vanasialaa - le menuisier
+- vana-vana - quiconque, n'importe laquelle, n'importe lequel, toute personne
+- vanayɛi - le parenté
+- vangalanndo - la force; puissance; authorité
+- vanndo - la personne
+- vannun - (rad) se cacher
+- varaa - le petit tapis, la natte
+- varu - (rad) accoucher
+- varu bɛnduo - la sécheresse
+- varuo - ~~la période de sécheresse~~ ✎ la saison sèche
+- vasoo - l'orgueil, l'arrogance
+- vatio - l'heure, le temps
+- vau/ co, ve, va - être
+- vaw - (rad) rester, durer, retarder
+- vawvo - le palmier
+- veelu - (rad) appeler
+- veeluan - (rad) s'interpeler
+- veeluanndo/ veeluan - s'interpeler
+- veeluo/ veelu - appeler
+- veesia - (rad) faire sècher
+- veesiaa/ veesia - faire sècher
+- veinɔnndo/ veinun - menacer, effrayer
+- veinun - (rad) menacer, effrayer
+- vela - (rad) tarir
+- velaa/ vela - tarir
+- velan - (rad) se tarir
+- velanndo/ velan - se tarir
