@@ -7,7 +7,7 @@
 > - **Conventions of the original:** "(rad)" marks a verb stem (radical); "a/ b, c" gives a verb's long form followed by its stems; "(neg)" a negative stem. Entries are one per line: `kisiei - français`.
 > - **Marks:** `✎` handwritten addition or correction; `~~typed~~` text struck by hand; `[?]` illegible. An entry with no French ("Bakali -") is kept as typed.
 > - **Pages:** PDF p. 1 title page, p. 2 blank; the list starts on PDF p. 3.
-> - **Progress:** PDF pp. 1–60 (a – velanndo) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
+> - **Complete:** PDF pp. 1–68 (a – yuviyɛiyo). Each page shows the next page faintly through the paper; only the page's own text is transcribed.
 
 ## PDF p. 1
 
@@ -3231,3 +3231,403 @@ Title page: **Lexique Kissi-Français** — Auteur: Inconnu.
 - velaa/ vela - tarir
 - velan - (rad) se tarir
 - velanndo/ velan - se tarir
+
+## PDF p. 61
+
+- velu - (rad) appeler, inviter
+- veluo/ velu - appeler; inviter
+- vemalen - les oeuvres du sorcier ✎ sorcellerie
+- vemanaɔɔ - le sorcier qui fait des miracles
+- venɔnndo/ venun - s'habiller; porter
+- venun - (rad) s'habiller, porter
+- vesa - (rad) sécher
+- vesaa/ vesa - sécher
+- veselɛiyo - sec
+- vesia - (rad) faire sécher
+- vesiaa/ vesia - faire sécher
+- vew - (rad) mettre dedans
+- vewvo - mettre dedans
+- vɛ - quoi? Qu'est qu'il y a?
+- vɛ nɛ - combien?
+- vɛɛnden - le nid
+- vɛi - (rad) allaiter
+- vɛin fueyo - la veuve
+- vɛinndo - la femme, l'épouse
+- [v]ɛiyo/ vɛi - allaiter
+- [v]ɛlan - (rad) la ressemblance
+- vɛlanndo/ vɛlan - la ressemblance
+- vɛlɛ - encore, aussi
+- vɛru - (rad) accoucher
+- vɛsi - (rad) (faire) allaiter
+- vɛsio/ vɛsi - faire allaiter
+- vɛsul - (rad) faire allaiter l'enfant d'une autre femme. ✎ ne se dit pas
+- vɛsullo/ vɛsul - faire allaiter l'enfant d'une autre femme
+- vɛvɛi - chuchotte
+- viiyo - l'orphelin
+- vilɛi - mort
+- vilɛiyo - grand, haut, geant pour les objets inanimés
+- vilɔɔ - mort
+- violɔɔ/ violu, violu, vialu - accoucher
+- viorɔɔ - accoucher
+- viɔ - (rad) cogner
+- viɔu/ viɔ, vɛ, via, ve - cogner
+- viri - (rad) porter une charge
+- [v]irio/ viri - porter une charge
+- visie - un morceau de viande
+- visiɛi - le chair
+- visin kɔɔn - les reins, les muscles du dos
+- visio - un animal sauvage
+- vision - les viandes
+- viya - preparer le cuir? ✎ travailler le cuir?
+- vo - avoir peur; craindre (inf, passé)
+- vola - il y a longtemps
+- voli - (rad) aiguiser, tailler
+- volimɔlen - les oeuvres du sorcier ✎ sorcellerie
+- volimɔɔ - le sorcier
+- volio/ voli - aiguiser; tailler
+- volion - l'argent
+- vololaa - les habits
+- volɔɔ/ val - être concerné, ressembler à
+
+## PDF p. 62
+
+- vomɔɔ/ vam - envoyer, commissioner
+- vongaa -
+- vongɔɔ - arret de pluie ou quand la pluie cesse de tomber (✎ "venir" corrected)
+- vonndo - un trou dans un'arbre
+- vonnɔnndo/ vannun - se cacher
+- vonɔnndo/ vonun - porter
+- vonɔɔ/ van - faire cacher
+- vonun - (rad) porter
+- voolu - (rad) tressaillir
+- voolu - (rad) surprendre, être pris au dépourvu; avoir peur de qq'ch
+- vooluo/ voolu - tressaillir
+- vooluo/ voolu - surprendre; être pris au dépourvu
+- voosanndo - l'entorse
+- vorion - l'argent
+- vorɔɔ - la charge
+- vorɔɔ/ varu, vɛru - accoucher
+- vosa - (rad) sécher
+- vosaa/ vosa - sècher
+- vosuo - le figuier
+- votanaa - un arbre avec l'écorce lisse (dans les singes ne montent pas)
+- vovaa - la biche
+- vovɔɔ/ vaw - rester, durer, retarder
+- vow - (rad) s'évanouir
+- vowvo/ vow - s'évanouir
+- vɔ re - pas encore
+- vɔkɔ-vɔkɔ - desserré lorsque qqch (fait un bruit en s'entrechoquer) ✎ s'entrechoque
+- vɔlɔɔ - la volaille de brusse; la perdrix
+- vɔm - (rad) faire la battue
+- vɔmndo/ vɔm - faire la battue
+- vɔnba - (rad) pousser ou faire coucher les grands herbes pour dégager le chemin
+- vɔnbaa/ vɔnba - pousser ou faire coucher les herbes grandes pour dégager le chemin
+- vɔnbɔɔ - la selle du cheval
+- vɔndo - mauvais, malfaisant, dangereux, laid
+- vɔngo - le prise
+- vɔnguo - le prix
+- vɔnguo - l'achat
+- vɔnndo - qq'ch qui est mauvaise
+- vɔɔ/ va - frapper avec une pierre
+- vɔɔlen - la saison sèche
+- vɔɔndo - l'aisselle
+- vɔɔnndo - l'aisselle
+- vɔrɔtɔɔ - la faucille
+- vɔsie - l'an, l'année
+- vɔsio - l'année
+- vɔsu - (rad) essuyer, effacer
+- vɔsuo/ vɔsu - essuyer, effacer
+- vɔwlen - méchanceté, danger
+- vɔwvo - être mechant, dangereux
+- vu - (rad) mourrir
+- vuilen - le vol
+
+## PDF p. 63
+
+- vuiyo - le voleur
+- vukɔɔ - lieu ou se traite tous les problèmes du village
+- vul - (rad) pousser, germer
+- vulen - genou
+- vulɔɔ/ vul - pousser, germer
+- vundaa - (la manière de) pleuvoir constamment
+- vundulen - l'ombre; un parapluie; l'image; l'esprit
+- vunɔnndo/ vunun - se défendre; nier, se refuter
+- vunun - (rad) se défendre, nier, se refuter
+- vuo/ vu, vi - mourrir
+- vuran - les genoux
+- vuran baŋɔɔ - s'agenouiller, louer, prier
+- vusuŋa - (rad) éroder ?
+- vusuŋaa/ vusuŋa - éroder
+- vuu - (rad) ramper
+- vuuo/ vuu - ramper
+- vuvɔɔ/ vuw - jeter, lancer; botter
+- vuw - (rad) jeter qqch
+- vuyan-vuyan - désordonner
+- ya - moi
+- [ya] - (rad) danser
+- yaa - (rad) envoyer
+- yaafalen - la trahison
+- yaafanɔɔ - le traître
+- yaamɔɔ - l'ennemi
+- yabibilen - l'ananas
+- yabibio - l'ananas
+- yafalen - la tromperie
+- yala - tôt
+- yalaa - le lion
+- yalaa - le filet; le placenta
+- yalama - la ménagère
+- yalamalen - les travaux ménagères
+- yalanyaalaa - la calebasse
+- yallo - un épouvantail (qui guarde le champs contre les voleurs) le fétiche
+- yam - (rad) casser, détacher
+- yamaa -
+- [ya]mɛi - jugement
+- [y]amɔɔ -
+- yanbaa - le tabac
+- yanbale folalen - le manioc
+- yanbalen - le manioc tubercules
+- yanbɔɔ/ yanbu - faire coucher un enfant, ou (faire) hospitaliser un malade, faire étaler une natte ou le drap des lit
+- yanbu - (rad) faire coucher un enfant, (faire) hospitaliser un malade, faire étaler une natte ou un drap de lit
+- yandi -
+- yandɔɔ/ yandu, yendu -
+- yandɔɔ - la fleur
+- yandulen - un arbre avec les feuilles comme un palmier, mais avec les épines pointues. Le tronc est utilisé pour fabriquer les conteneurs pour le riz
+
+## PDF p. 64
+
+- yangaa - retarder
+- yannɔnndo/ yannun - écouter
+- yannun - (rad) écouter
+- yanɔnndo/ yanun, yenun - étendre
+- yanun - (rad) étendre
+- yaŋ - (rad) tendre le piège pour attraper les animaux
+- yaŋɔlen - piège pour prendre les animaux
+- yaŋɔɔ/ yaŋ - tendre le piège pour attraper les animaux
+- yaŋɔɔlen - une sorte de piège dans laquelle une souris ou un poisson peut entrer mais ne peut pas sortir
+- yaraa - le lion
+- yarɔɔ/ yaru - crier; exclammer
+- yaru - (rad) crier, exclammer
+- yasaa - l'épi
+- yasabaa - l'atelier, le camp
+- yasia - (rad) gratter, chercher le grain, tamiser, sequiller) (✎ "ouer?")
+- yasiaa/ yasia - gratter, chercher les graines comme les poulets, tamiser, sequiller (✎ "picorer", "ouer")
+- yati - vraiment, (vachement !)
+- yaw - (rad) (faire la cuisine) ✎ - cuisiner
+- yawlen - la ceinture
+- yawvo/ yaw, yew - (faire la cuisine) ✎ cuisiner
+- yawvo - le peau
+- ye - (rad) insulter, jurer
+- yeelannɔɔ -
+- yeema - (rad) aimer, désirer, vouloir
+- yeemaa/ yeema - aimer, désirer, vouloir
+- yekpandio - le fusil
+- yekpando - le fusil
+- yelela -
+- yelen - le milon
+- yem - casser (conjugé)
+- yema nde-a - la soeur de la mère
+- yema pua - la tante, la soeur de mon père
+- yemaa - le frère ou la soeur
+- yemɛi - le désir, l'ambition
+- yemian - (rad) s'aimer réciproquement
+- yemianndo/ yemian - s'aimer réciproquement
+- yemnde - le foie
+- yenbɛi - l'ongle
+- yenbuo - le célibataire, veuf
+- yendelen - un arbre qui s'appele "nèrè" qui donne une farine jaune
+- yendioo - le néré
+- yendu - fleurir, (neg)
+- yenge-yenge - dans une mauvaise position, dangereux, instable
+- yengeyenge - raide
+- yengian - la première goutte de la première recolte de vin de palmier
+- yengilan - (rad) provoquer
+- yengilanndo/ yengilan - provoquer
+- yeo - insulter; jurer plusiers fois
+- yeoan - (rad) s'insulter (l'un contre l'autre)
+- yeoanndo/ yeoan - s'insulter (l'un contra l'autre); se jurer
+
+## PDF p. 65
+
+- yera - (rad) faire plaisir, être sucré
+- yeraa/ yera - être sucré ou doux; faire plaisir
+- yerela - une publicité d'un événement ou fête qui n'est pas encore arrivé
+- yerela - (rad) faire plaisir à qq'un
+- yerelaa/ yerela - faire plaisir à qq'un
+- yeria - (rad) (faire sucré) ✎ sucrer
+- yeriaa/ yeria - faire sucré
+- yeyio - un insecte qui creuse, qui enlève les yeux
+- yeyo - une insulte
+- yɛ -
+- yɛ nɛ - quoi?
+- yɛɛlaa -
+- yɛiyo - le semis, la graine, le semence
+- yɛlen tolinndo - maltraiter, persécuter
+- yɛlɔɔ - un serpent noir qui fait jaillir le poison pour aveugler l'être vivant
+- yɛnbɛi - l'ongle
+- yɛngɛsɛ - complètement
+- yɛngiyo - danse exécutée sur du bois
+- [yɛ]ngɔnndo/ yɛngun - pencher
+- yɛngu - (rad) faire pencher
+- yɛngun - (rad) pencher
+- yɛnguo/ yɛngu - faire pencher
+- yɛra - (rad) mulitplier, agrandir
+- yɛraa/ yɛra - multiplier, agrandir
+- yɛ-yɛ -
+- yi sondo - (rad) faire le moue
+- yia - (rad) (faire) loger
+- yiyan - la faim, la famine
+- yiyan - (rad) penser sur ✎ / à
+- yifidi - sombre, obscure
+- yifɔɔ - la poche
+- yii - (rad) attacher
+- yiian - la fin (✎ "le" corrected)
+- yiilan - (rad) faire se souvenir } ✎ ne se dit pas
+- yiilanndo/ yiilan - faire se souvenir
+- yiinde - les cheveux
+- yiinde - les cheveux, humain ou d'un animal
+- [yi]inde lavɔɔ - tresser
+- yiinɔnndo/ yiinun - (rad) s'attacher
+- yiinun - (rad) s'attacher
+- yiiŋii lakoongoei - les cils
+- yiiŋii lamilinde - les moustaches
+- yiio/ yii - attacher
+- yiiyaa - considération pour un étranger
+- yiiyo vando luɛɔ - l'espérance, confiance en qq'un
+- yikilaa - la bouillie qui monte à la surface du riz preparé (cuit)
+- yil - (rad) saluer
+- yilan - (rad) se saluer
+- yilanndo/ yilan - se saluer
+- yilɔɔ/ yil - saluer
+- yim - (rad) se lever avec un grand bruit, le bruit de la pluie
+- yimi - (rad) casser en morceau
+
+## PDF p. 66
+
+- yimio/ yimi - casser en morceau
+- yimɔɔ/ yim - se lever avec un grand bruit; le bruit de la pluie
+- yin - (rad) teindre le tissu
+- yinbɔɔ - un tam-tam
+- yinbɔɔ - sale, étouffé, poussé trop; une tête non-coiffée
+- yinda - (rad) sommeiller
+- yindaa/ yinda - sommeiller
+- yindima - le temps morne et sombre
+- yindimiiyo - Décembre
+- yindɔɔ - le toit
+- yinga - (rad) se lever brusquement, se lever d'un bond (✎)
+- yingaa/ yinga - surgir, se lever d'un bond, se lever brusquement (✎)
+- yingila - être profond
+- yinnden -
+- yinnɔɔ - le peintre
+- yinŋi - les cheveaux ✎ le cheval? les chevaux? ou les cheveux?
+- yinɔɔ/ yin - teindre le tissu
+- yinun -
+- yiŋi - les cheveaux (suivi par adj comme "bɛndue")
+- yirankamaa - l'hippopotame
+- yirankunndo - le météore
+- yirisio - la richesse, s'enrichir
+- yiya - (rad) (faire) loger
+- yiyaa/ yiya - un endroit pour se reposer, rester, un logement pour un étranger; abriter
+- yiyan - (rad) réflichir
+- yiyanndo - la pensée
+- yiyanndo/ yiyan - réfléchir, penser
+- yokpando - un fusil
+- yola toomaa bondo - danse des femmes après l'excision avec les castagnettes
+- yola toomaa pɔndan - danse des hommes dans le forêt sacrée avec le kelenade
+- yolan - la danse
+- yolen - le prêt; la dette
+- yolen - danse de jeux de fesses
+- yom - (rad) casser en deux
+- yomɔɔ/ yom, yom, yam, yim - casser, détacher
+- yomu - (rad) respirer
+- yomuan -
+- yomuo/ yomu - respirer (l'esprit en Guek)
+- yonda - (rad) annoncer à haute voix (✎ "en" corrected to "à")
+- yondaa/ yonda - annoncer à haute voix
+- yondanɔɔ sɛllo - le muezzin
+- yondo toomaa - la forêt sacrée
+- yondola - (rad) annoncer à haute voix à qq'un
+- yondolaa/ yondola - annoncer en haute voix à qq'un
+- yondoo - (la région sauvage comme) la brousse
+- yoo - oiseau
+- yoolen - la corde, la ficelle
+- yoolen - la liane
+- yoolen - mouchoir de tête
+- yoomoo - l'âme
+- yoomu - (rad) respirer
+
+## PDF p. 67
+
+- yoomuan - la force; puissance; authorité
+- yoomuo/ yoomun - respirer
+- yoona - bientôt, tôt, très vite
+- yoovean - la synovie
+- yoran - la danse
+- yoran - danser
+- yovɔɔ/ yow - emprunter, prêter, envoyer à qq'un
+- yow/ yow - (rad) emprunter, prêter, envoyer à qq'un
+- yowvo - l'oiseau
+- yɔ - encore
+- yɔɛi - l'épine; les buissons épineux
+- yɔlɔn - la chaine
+- yɔlɔɔ - une mouche qui pique
+- yɔlɔ-yɔlɔ - comme qqch petit dans un trou trop grand, facile à entrer
+- yɔmi -
+- yɔmndo - un arbre
+- yɔn - (rad) agir, faire
+- yɔngɔnndo/ yɔngun - donner, se donner
+- yɔngɔɔ/ yɔngu - donner
+- [y]ɔngu - (rad) donner
+- [y]ɔngun - (rad) se donner, donner
+- yɔnguo - produit
+- yɔnguɔ pɔnbɔ-pɔnbɔ - un accompte
+- yɔnndo/ yɔn - agir, faire
+- yɔŋɔɔ - un cadeau ~~donné~~ envoyé à qq'un ~~à distant~~ (✎; ✎ "se blesser dans un accident" against the next line)
+- yɔŋulɔnndo/ yɔŋulun - se faire mal par un accident, un incident
+- yɔŋulun - (rad) se faire mal par un accident ou un incident
+- yɔɔ - envoyer
+- yɔɔli - tout, toute
+- yɔɔɲɔɔ - le pangolin
+- yɔɔya - (rad) pêcher
+- yɔɔyaa/ yɔɔya - pêcher
+- yɔwva - les perles
+- yɔwviaa - le maquillage
+- yɔya -
+- yuan - le poids
+- yuei -
+- yufaa - qqch qui est mort avec la tête intact; un animal étouffé
+- [y]ufɛ-yufɛ - trop doux, trop sucré, qui donne la nausée, vouloir vomir
+- [y]ul - (rad) devinir mousi ?
+- yulalen - le commerce
+- yulanɔɔ - un commerçant
+- yulɔɔ - la patience
+- yulɔɔ/ yul - devinir mousi ?
+- yulunnde - les cheveaux blancs
+- yumyunbuo - les nuages
+- yunga - (rad) plumer
+- yungaa/ yunga - plumer
+- yungɔɔ - une sorte de piege (dans laquelle une souris ou un poisson peut entrer mais ne peut pas sortir) (✎ "pour souris ou poisson")
+- yungullen - la tête razée
+- yunguo - le ~~matière~~ blanc ~~qui est dans les~~ de l'oeuf, les pommes de terres, les patates (✎)
+- yunguo - la famille; la tribu
+
+## PDF p. 68
+
+- etc.
+- yuria - (rad) éparpiller comme la braise du feu pour la diminuer (✎ "le" corrected to "la")
+- yuriaa/ yuria - éparpiller, comme la braise de feu pour le diminuer
+- yurian - (rad) se rouler sur la terre
+- yuriannndo/ yurian - se rouler sur la terre
+- yurɔɔ/ yuru - supporter, être patient
+- yuru - (rad) supporter
+- yurul - (rad) indiquer ou pointer avec le bras ~~à qq'un~~
+- yurullo/ yurul - indiquer ou pointer avec le bras ou un droigt ~~à qq'un~~
+- yuruo - un chiffon; en lambeaux
+- yusuŋa - (rad) agiter; reculer, faire un coup de pied quand on est pret de mourir ?
+- yusuŋaa/ yusuŋa - agiter; reculer; faire un coup de pied quand on est prêt à mourir
+- yuuloo - chiffon
+- yuuloo - la patience
+- yuuva - être ~~vielle~~ âgé; la vieillesse (✎)
+- yuvɛiyo - le devoir
+- yuviyɛiyo - un vieillard, une personne âgée
+
+(End of the list.)
