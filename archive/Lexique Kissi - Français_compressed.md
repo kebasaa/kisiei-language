@@ -7,7 +7,7 @@
 > - **Conventions of the original:** "(rad)" marks a verb stem (radical); "a/ b, c" gives a verb's long form followed by its stems; "(neg)" a negative stem. Entries are one per line: `kisiei - français`.
 > - **Marks:** `✎` handwritten addition or correction; `~~typed~~` text struck by hand; `[?]` illegible. An entry with no French ("Bakali -") is kept as typed.
 > - **Pages:** PDF p. 1 title page, p. 2 blank; the list starts on PDF p. 3.
-> - **Progress:** PDF pp. 1–20 (a – kafuo) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
+> - **Progress:** PDF pp. 1–40 (a – palaa) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
 
 ## PDF p. 1
 
@@ -1006,3 +1006,1120 @@ Title page: **Lexique Kissi-Français** — Auteur: Inconnu.
 - kafilen - l'arbre du café
 - kafio - café
 - kafuo - le festin, la fête
+
+## PDF p. 21
+
+- kaikaiyan - (rad) enchevêtrer
+- kaikaiyanndo - enchevêtrer
+- kaiya -
+- kaiyo - le fil
+- kaka-kaka - négligemment, sans ordre; avec force
+- kala - (rad) déterrer
+- kalaa - primitif
+- kalaa/ kala - déterrer
+- kalaa - la mère
+- kalamaa - la gourde, la louche africaine
+- kalamamaa - la grand-mère
+- kalangɛnɔɔ - le cordonnier
+- kalankafoo - la revenant
+- kale - (rad) ~~bracer~~ qqch afin qu'il ne bouge pas (✎ "attacher")
+- kalio/ kale - ~~bracer~~ qqch afin qu' il ne bouge pas, caler
+- kallante - particulièrement
+- kallɛɔ - la belle-mère
+- kalɔɔ - vert, pas encore mûr
+- kamaa - assis dans une cercle pour jouer ou raconter une histoire
+- kamaa - l'éléphant, l'hippopotame
+- kamadolaa - cire des' abeille
+- kamafoeinɔɔ - le photographe
+- kamalindonden - la balançoire
+- Kamanɔ - un nom
+- kamɔyɛi - l'amitié, l'amour
+- kanapeo - canapé, le dais
+- kanbalaa - la sauterelle
+- kanbɛiyo - le panier
+- kandaa - protéger
+- kandanndo - ~~mauvaise chance~~ ✎ malchance
+- kandikandiaa - attacher un paquet avec des cordes
+- kandikandia - (rad) attacher un paquet avec des cordes
+- kandoncindo - la gencive (✎ "le" corrected to "la")
+- kandoran - pluriel, le cercle , les petits bois de la charpente
+- kandɔɔ/ kandu, kendu - commencer; le commencement
+- kandu - (rad) commencer
+- kandun -
+- kanduo - la roue, le cercle
+- kangaran - obligatoire, il faut
+- kani - seulement
+- kani - parce que, puisque
+- kanite - parce que
+- kankira - la malle
+- kankparan -
+- kankpoo - le pigeon
+- kanndo - les petites allées qui sont faites par les souris ou autres animaux; la trace
+- kansa - les tresses aux côtés de la tête
+- kaŋɛo - cire d'abeille; le rayon de miel
+- kaora - (rad) aimer
+- kaoraa/ kaora - aimer
+- kaorian - (rad) s'aimer l'un l'autre
+- kaorianndo/ kaorian - s' aimer, l'un l'autre
+- kapitɛnnɔ - ~~captain~~ ✎ capitaine
+
+## PDF p. 22
+
+- kara - difficile, dur
+- kara - (rad) creuser
+- karaa - pagayer
+- karaa/ kara - creuser
+- karada -
+- karamɔnɔɔ - l'enseignant, maître
+- karamɔɔ - l'enseignant, maître
+- karan te - pas bientôt
+- karankɛnɔɔ - qq'un qui fait le cuir ou les chaussures
+- karialahɔllo - un insecte qui creuse, enlève les yeux
+- karuo - dur
+- kasa - (rad) refuser de
+- kasaa - refuser de
+- kasonnɔɔ -
+- kasoo - un écureuil
+- kasunyɛi -
+- kasuunnɔɔ - l'adulte
+- katu - parce que
+- kaulen - le soufflet
+- kauve - le tuyau, la pipe
+- kavandi - (rad) prêcher
+- kavandio/ kavandi - prêcher
+- kawaa - un défaut sur la peau
+- kawan - les feuilles d'indigo
+- kawve - les haricots
+- kawvɛ - la pipe
+- kayaa - la corbeille
+- ke - (rad) donner
+- keelia - (rad) faire marcher, promener
+- keeliaa - faire marcher
+- keemaa - le scorpion
+- kefie - la piqure d'un insecte; l'aiguillon
+- kei - (rad) passer à travers
+- keiyo - procédé
+- keiyo - passer à travers
+- kela - (rad) marcher
+- kelaa - marcher, se promener
+- kelan - (rad) se promener
+- kelanndo/ kelan - se promener
+- kelekeloo - la coqueluche
+- kelennde - tambour xylophone
+- keleŋa - (rad) se depêcher
+- keleŋaa - se depêcher
+- keleŋaa cɔcɔ - accourir
+- kelɛi - l'anneau; le bracelet
+- kelɛi bai - le bracelet
+- kelɛi isoei - bague
+- kelɛi nkaniei - bague en argent
+- kelɛi pelei - anneau de pied
+- kelɛi sianiei - bague en or
+- kelunndo - un oiseau, qui est un peu rouge
+- ken -
+- kenaa - la ruche des abeilles
+- kendin - (rad) tomber soi-même ou se détacher d'une branche
+
+## PDF p. 23
+
+- kendinndo - tomber soi-même ou se detacher de la branche
+- kendu - difficile, dur
+- kendu - commencer (neg)
+- kengesa - beaucoup (contraire de kpɔrɔ-kpɔrɔ); ~~un~~ la bonne ~~état~~ santé d'un ~~homme vieux~~ vieil homme (✎)
+- kenguan - le duvet des canards ou poulets
+- keŋela - se depêcher
+- keŋelaa - rapide
+- keo - donner
+- keolɔ - mordre
+- kera - (rad) se promener, voyager
+- keraa - se promener, voyager; une voyage
+- keran - (rad) se promener
+- keranndo - se promener
+- kerekeroo - la coqueluche
+- kesoo - la caisse
+- kesuo - la caisse
+- kɛ - mais
+- kɛca - tailler les cheveux
+- kɛɛ - (rad) refuser
+- kɛɛlen - le ramau des raffia
+- kɛɛmianɔɔ - le décorateur
+- kɛɛndo - le rat balai
+- kɛɛnɔnndo/ kɛɛnun - refuser; renoncer (✎ "se renouncer" corrected)
+- kɛɛnun - (rad) refuser; renoncer (✎)
+- kɛɛɔ/ kɛɛ - refuser
+- kɛɛsinanndo - l'acculturation ✎ → terme incompréhensible
+- kɛɛya - (rad) diminuer, tailler
+- kɛɛyaa - diminuer, tailler
+- kɛ-kɛ - n'importe quoi, qui;
+- kɛkɛ - papa
+- kɛkɛwvo - la coquille, l'écaille
+- kɛkuran - les coquille des oeufs
+- kɛlɛmasaa - le chef de guerre
+- kɛllo - les écailles des poissons; la croûte; la ~~poisson~~ peau d'un serpent (✎)
+- Kɛlɔ - nom d'un village
+- kɛm sɛran - la coquille des noix de palmier
+- kɛmbei la boloei - la pomme d'Adam
+- kɛmɛ - cent
+- kɛmndan - la rosée
+- kɛnbei - les noix de palmier
+- kɛnbei kokoei - noix de coco
+- kɛnbei kɔi - l'épine dorsale
+- kɛnbɔn kullun - la noix ~~propre~~ de palmiste, le grain (✎)
+- kɛndɛ - gentil, bon, en bonne santé
+- kɛndei - la grâce, la bonté
+- kɛndɛ-kɛndɔɔ -
+- kɛndia - bonne santé
+- kɛndɔɔ -
+- kɛnnbɛn - des noix (de cocotier)
+- kɛo - l'héritage
+- kɛsei - le cou
+- kɛsɛkɛsɛ - réelle
+- kɛsi - (rad) garder; déposer
+
+## PDF p. 24
+
+- kɛsie - le cou
+- kɛsikɛsi - (rad) arranger
+- kɛsin -
+- kɛsio/ kɛsi - placer sur, mettre sur
+- kɛsipɛ - (rad) garder
+- kɛsɔnndo - l'orgueil
+- kɛsɔnndo - être fier
+- kɛsul - (rad) déposer ~~pour~~ qq'un
+- kɛsullo - déplacer pour
+- kɛsulɔnndo - se mettre qq part.
+- kɛsulu -
+- kɛsulun - (rad) se mettre qq part.
+- kɛwvo - le serpent
+- kɛya - (rad) couper autour de, tailler
+- kɛyaa/ kɛya - couper autour de; tailler
+- kial - (rad) mordre
+- kibaro - la nouvelle
+- kiila Hala - le Prophète
+- kiilaa - un apôtre; messager, l'envoyé
+- kiinbu - (rad) voler
+- kiinbuo/ kiinbu - voler
+- kiinkiindo - la guêpe, la mouche maçonne
+- kiisɔɔ/ kiisu - allumer le feu ou une lampe
+- kiisu - (rad) allumer le feu ou une lampe
+- kiiye - la clef
+- kikiŋaa - l'epilepsie
+- kilasio - la bouteille
+- kiliiyɔmnɔɔ - le bûcheron
+- kilikili - (rad) couper plusieurs fois
+- kilikilio/ kilikili - couper plusieurs fois
+- kilio - decoupé
+- kilitilen - le christianisme
+- kilitinɔɔ - le chrétien
+- kilo - kilo, poids
+- kiltan - courir ~~avec~~ vitesse; rapidement
+- kinbɔɔ/ kinbu - s'enfuir
+- kinbu - (rad) s'enfuir
+- kinda - (rad) fermer
+- kindaa/ kinda - fermer
+- kindi - (rad) faire sécher le riz pour devenir dur
+- kindilaa - la pression
+- kindin - (rad) essayer, s'efforcer, débrouiller, persister
+- kindinndo/ kindin - essayer, persister, s'efforcer, débrouiller
+- kindio/ kindi - faire secher le riz pour devenir dur.
+- kindɔɔ/ kindu - forcer, tendre
+- kindu - (rad) forcer, tendre
+- kindu re - pas difficile, pas dur
+- kinɛi -
+- kiŋikiŋi - (rad) découper
+- kiŋikiŋio/ kiŋikiŋi - découper
+- kiolɔɔ/ (kial) kiolu, kelu, kialu, kilu - mordre, couper
+- kiɔndɔɔ/ kiɔndu, kendu, kiandu - cueillir
+- kirikiri - (rad) découper en petits morceaux
+- kirikirio/ kirikiri - découper en petits morceaux
+
+## PDF p. 25
+
+- kirio - le bois ~~qui est un peu~~ en partie brulé (✎)
+- kisai - le piment
+- kisan - le piment
+- kisɛi - le piment
+- kisi - (rad) mordre plusieurs fois
+- kisio/ kisi - mordre plusieurs fois
+- kisɔɔsinɔɔ - le Protestant
+- kisu - frapper, corriger
+- kitabuo - le coran
+- kitan - (courir) ~~avec~~ vitesse, rapidement
+- kitio - jugement
+- kiyɛi - vivant
+- kiyɛiye -
+- kiyɛiyo - vivant
+- koam - (rad) donner du fruit (✎ "de" corrected to "du")
+- koaŋ - (rad) secouer
+- koaw - (rad) récolter
+- kobida - une grande ville
+- kobinte - à plus forte raison
+- koboo - la boîte
+- koduo - la machette
+- koei - vin de palme extrait de la fleur
+- koei - le cauri
+- koelen - un fruit qui a des l'huiles amères
+- koeyo - l'arbre qui donne koelen qui a son huile amère
+- kofaa - le maître
+- kokolen - l'entonnoir des feuilles (✎ "fuilles" corrected)
+- kol - (rad) boire
+- kola buiyo - le jupon
+- kola kuunbuando - la couverture
+- kolaa - le pagne
+- koli - (rad) couler, noyer
+- kolio/ koli - couler, noyer
+- kollo - la noix de cola (✎ "les noix des colas" corrected)
+- koloma -
+- koloo - le tapioca
+- kolɔɔ/ kol - boire
+- kolɔɔ - avoir soif
+- koma -
+- komola - (rad) faire connaissance de qq'un, trouver qq'un (✎ "à" corrected to "de")
+- komolaa/ komola - faire connaissance de qq'un, trouver qq'un
+- komɔɔ/ kom, kum, koam - donner des fruits ✎ fructifier
+- komsa - la mère d'enfant, la nourrice
+- kon - ça, ce
+- kona - (rad) accompagner
+- konaa/ konaa - accompagner
+- konba - (rad) faire tomber, couper (comme un arbre)
+- konbaa/ konba - couper, faire tomber
+- konbia - (rad) renverser, abattre plusieurs
+- konbiaa/ konbia - renverser, abattre plusieurs
+- kondaa - le grenier
+- Kondokuɛ - un fleuve
+- kongillo - le coq
+- kongio - l'érosion
+
+## PDF p. 26
+
+- kongosalɛu - danse de l'opérateur après la circoncisions (✎ "les" corrected to "la")
+- konndo - la porte
+- kontan - est allé
+- koŋio - le clé
+- koŋɔɔ/ koŋ, kuŋ, koaŋ - secouer, herser
+- koo - hernie testiculaire
+- kookoo - mouchoir de tête
+- koon vuuvo - le jeu aux cauris
+- koondo - l'aigre, une sorte de oiseau, l'épervier
+- koondo - Juin
+- koongo lehɔllen - la paupière
+- koongo lɔɛyaa - le masque
+- koova - (rad) chanter (comme le coq)
+- koovaa/ koova - chanter (comme le coq)
+- koovan - le sang
+- koovan - le médicament, produit, le sang, fétiche
+- koraa - pagne
+- korio - la sauterelle
+- koriyolen - une sorte de plante
+- koronborolen - la larynge
+- kosa - faire carré le bois (pas connu) ✎ écarrir
+- kosaa - une sorte d' écureuil
+- kosaa - une sorte de poisson
+- kosɛbɛ - beaucoup
+- kosi - (rad) faire boire qq'un
+- kosin -
+- kosio/ kosi - faire boire qq'un
+- kosolen - une sorte de plante
+- kosonndo - une grande corbeille pour mettre le riz
+- kosontɛndɔɔ - une sorte de araignée
+- kosontɛnndɛɔ - l'araignée
+- Kota - un nom
+- kota - (rad) mépriser
+- kotaa/ kota - mépriser
+- kouve - le caurie ?
+- kovɛɔ - l'aigle
+- kovɔɔ/ kow, kuw, koaw - récolter
+- kovɔɔ - l'aigle
+- kovɔro - un instrument de musique
+- kɔ - (imp) aller
+- kɔ - ou?
+- kɔ - Quel, quelle
+- kɔa - (rad) aller
+- kɔa a ndu - (rad) conduire
+- kɔandu - (rad) prendre le repas, puiser de l'eau
+- kɔanun - (rad) s'en aller, partir
+- kɔduwvo - le coupe-coupe
+- kɔkunbɛiyo - le concombre
+- kɔl - (rad) espoir
+- kɔlan/ kɔ, kɔɛ, kɔa, koɛ - aller
+- kɔlen - le corps
+- kɔlfulaa - palpitations ~~de coeur~~
+- kɔliiyo - les ciseaux
+- kɔlkelle - le rein
+
+## PDF p. 27
+
+- kɔllo/ kɔl - espoir
+- kɔllo - le coeur, l'esprit
+- kɔllo kɛsio - l'espérance, l'espoir
+- kɔllunndo - un ver souterrain
+- kɔlɲuluo - la paix
+- kɔlɔlɔndɔɔ - le mille-pattes
+- kɔlɔnndo - le puits
+- kɔlɔɔ - pépinière
+- kɔlɔsio -
+- kɔmaa -
+- kɔman - (rad) embrasser
+- kɔmanndo - embrasser
+- kɔndenɔɔ - non-initié
+- kɔndɔfillo - un événement miracleux, un étonnement
+- kɔndɔfillo - étonnement
+- kɔndɔfillo dɔvɔɔ - étonnement, surprise
+- kɔndɔɔ/ kɔandu - prendre le repas, puiser l'eau, ramasser
+- kɔngɔlan - (rad) espoir en, penser de, proposer de
+- kɔngɔlanndo/ kɔngɔlan - penser de, espoir en, proposer de
+- kɔngɔlɔɛi - la tactique
+- kɔngɔɔ - le banc, le bord d'un marigot
+- kɔngɔsira - la tortue
+- kɔnndo - un gros poisson noir sans ~~les~~ écailles
+- kɔnɔ - mais
+- kɔntan - s'en aller, partir
+- kɔntanndo -
+- kɔɔ - le dos
+- kɔɔfanɔɔ - maître, l'enseignant
+- kɔɔlen - le corps
+- kɔɔli - apres, derrière, au fond
+- kɔɔmaa - la coureuve
+- kɔɔsinaa - la blennhoragie ✎ ? incompréhensible
+- kɔɔsɔ - (rad) juger
+- kɔɔsɔɔ/ kɔɔsɔ - juger
+- kɔɔsɔɔ - jugement; raconter l'histoire entre deux personnes
+- kɔran - aller, marcher
+- kɔran a ndu - conduire
+- kɔran ndu taci - conduire
+- kɔrɔlen - le fouet
+- kɔrɔɔ - explication; la raison; le but
+- kɔsɔla - juger à, raconter à (passé, inf)
+- kɔsɔnndo - ~~une petite poche dedans de la poule qui contien le sable, le riz non-digéré~~ ✎ le gésier
+- kɔvan - le rapport progressif des parents ?
+- kɔyɔɔ -
+- kpaa - (le) abri, une maison sans murs; un bâtiment marqué;; réduire au silence (✎ "les" struck)
+- kpaando - endroit avec un peu d'arbres
+- kpada - beaucoup; un adverbe d'intensité;
+- kpafaraa - un genre d'aigle
+- kpafaranama - le gouverneur
+- kpafii - exactement
+- kpalilnɔɔ - le gardien
+- kpalo - le malheur; le présage, (le) augure
+
+## PDF p. 28
+
+- kpandilen - la patate douce
+- kpankpaa ɲara - les microbes dans le lit, les punaises
+- kpannde - la joue; la mâchoire; la tempe
+- kpaɲaa - les pinces
+- kpao - une tache; un défaut, peut-être d'une blessure; la marque
+- kparillen - le travail d'un geôlier
+- kparillo - le geôlier
+- kpasalen - le gumbo
+- kpasamaa - sorte de gale
+- kpasiaa - l'arc
+- kpawva - les fourmis rouge
+- kpayaa - puissance
+- kpe - seulement
+- kpede - entier
+- kpeen - exactement le même, tout juste
+- kpekaa -
+- kpekaa - la tuberculose
+- kpekpeo - le cafard
+- kpekpeyangaa - danse organisée à l'occasion de la sortie des jeunes filles excisées
+- kpelenkpelende - la cheville
+- kpelenkpelennde - l'os de la cheville
+- kpemaa - le pacte
+- kpen - beaucoup, fixer avec force
+- kpenda - (rad) tordre, entortiller, enrouler
+- kpendaa/ kpenda - tordre, entortiller, enrouler
+- kpengee - le côté, le bord, d'une table, d'un vêtement
+- kpenkpa - (rad) envoyer
+- kpenkpaa/ kpenkpa - envoyer
+- kpenkpen - le même; egal; semblable; pareil
+- kpenkpeo - tabouret
+- kpenkpeo - le derrière dur du chimpanzé
+- kpenkpɛla - envoyer à (passé, inf)
+- kpero - l'endroit élevé ou on peut dormir dans la hutte.
+- kpɛɛndo - raffia
+- kpɛɛnɛi - canari ou la marmite
+- kpɛiyo - la fronde, lance-pierre du caoutchouc; caoutchouc
+- kpɛlun - proche
+- kpɛmɔɔ - le tabouret
+- kpɛn - entier
+- kpɛndɛi - la côte ~~du corps~~ (os) (✎)
+- kpɛndian - une herbe dure utilisé pour faire des petits tapis; les cordes des rameaux des palmiers
+- kpɛndo - une corbeille
+- kpɛndon - le peigne pour les hommes
+- kpɛran - une sorte de bois fabriqué pour mettre le pied des fous pour les maîtriser
+- kpɛrun - près, proche
+- kpɛsɔɔ - la brosse à dents
+- kpilikilin - la brique
+- kpilin - mauvais, la manière de tomber
+- kpilon - rapidement
+- kpin - beaucoup, fort
+
+## PDF p. 29
+
+- kpinga - (rad) ~~merveiller~~ émerveiller, parler beacoup de (✎)
+- kpingaa/ kpinga - émerveiller; parler beaucoup de (✎)
+- kpinndo - prendre au piège; un piège à poids lourd
+- kpisiŋa - éternuer (passé, inf)
+- kpiso - beaucoup, avec force
+- kpokanɔɔ - non-initié
+- kpokoloo - latérite servant au maquillage
+- kpokoro - une moquerie, une exclamation
+- kpokoso - beaucoup
+- kpokpoei - l'ampoule
+- kpokpoo - le crâne
+- kpolonndo - la vallée
+- kpomio - l'amidon, féculent
+- kpondo - prendre au piège
+- kpongo - danse folklorique organisée pour ~~extérioriser~~ exprimer une joie (✎)
+- kponkpolo - le raffia, une sorte de corbeille
+- kposio - le lézard
+- kpou - tout
+- kpɔkɔ-kpɔkɔ - desseré; conduire sur une mauvaise route (✎ "une")
+- kpɔkɔsɔ - qqch qui entoure
+- kpɔkpɔɔ - le dernier rang de traversant attacher à la toiture d'une maison (une quelque sorte comme linteau
+- kpɔlɔ-kpɔlɔ - branlant; doux
+- kpɔnndo - un régime, un groupe, un fagot
+- kpɔɔ - une sorte d'arbre
+- kpɔɔndo - le cynocéphale
+- kpua - bondir et saisir; terrasser (inf, passé)
+- kpuia - bondir et saisir si les victimes sont plus d'une (inf, passé)
+- kpukpia - abîmer qqch qui etait pointue; de ne pas parler bien une langue que tu ne connais pas (inf, passé)
+- kpukpuei - la bosse
+- kpulun - mauvais , une manière de tomber
+- kpulunndo - la matraque
+- kpuo - pièce
+- kreonnden - le stylo, crayon
+- kuelen - sorcellerie
+- kuenɔɔ - le sorcier
+- kueo - singe noir et blanc
+- kuɛindu -
+- kuɛndu -
+- kuɛnɔɔ - le sorcier
+- kui - (rad) multiplier
+- kui - (rad) rendre en pate ✎ pétrir
+- kuilio - la culotte
+- kuindi - (rad) frapper
+- kuindio/ kuindi - frapper
+- kuirio - les culottes, les pantalons courts
+- kuiyo - produit
+- kuiyo/ kui - rendre en pate ✎ pétrir
+- kuiyo/ kui - multiplier
+- kuiyo - crocodile, caïman
+- kulan - (rad) se vanter, fierté
+- kulanndo/ kulan - fierté, se vanter
+- kulen - l'igname
+
+## PDF p. 30
+
+- kulle - les grains
+- kullo - le pépin
+- kulunndo - la houe, la pirogue
+- kulunndo - un bateau, une piroque
+- kumnde - la fumée
+- kumɔɔ - une sorte de fruit rouge. ~~Quand s'est ouverte~~ il y a beaucoup des grains qui sont tres sucré ✎ à l'intérieur
+- kumtulen - la fougère
+- kunbanndo - l'aile d'un oiseau
+- kunbi - (rad) ouvrir
+- kunbi la lɔlle - quartier
+- kunbio/ kunbi - ouvrir
+- kunbɔɔ/ kunbu - couvrir, enterrer, cacher
+- kunbu - (rad) enterrer, couvrir, cacher
+- kunbullen - une sorte de fruit qui pousse sur le sol
+- kunbuo - une couverture; couvercle
+- kunda - (rad) grandir, grossir
+- kundaa/ kunda - grandir, grossir
+- kunde - un morceau de brique
+- kundɛiyo - Dimanche
+- kundi - (rad) trépigner
+- kundianndo - fier, vantard
+- kundie - un morceau de brique
+- kundio/ kundi - trépigner
+- kundɔɔ/ kundu - frapper, boxer avec la main
+- kundu - (rad) frapper, boxer avec le main
+- kundua - le marteau
+- kunduvaa - le marteau
+- kunga - (rad) cloturer
+- kungaa/ kunga - cloturer
+- kungaa - le mur, la barrière, la cloture
+- kungula - faire un tertre autour les plants comme le mais; le bittage (passé, inf) butter
+- kunguma - une sorte de crocodile
+- kunguma - le colite
+- kungumaa - danse organisée au son du piano traditionnel
+- kunndo -
+- kuntiinɔɔ - le chef, directeur
+- kuntio - chef, directeur
+- kuŋ - (rad) gémir, pousser des cris de souffrance
+- kuŋa - (rad) frapper violement avec le poing
+- kuŋaa/ kuŋa - frapper violement avec le poing
+- kuŋɔɔ/ kuŋ - gémir, pousser, des cris de souffrances
+- kuo - la joue; la soufflerie
+- kupeperan - oreillon
+- kuranko - une sorte d' araignée (tarantula)
+- kuri - (rad) la manière de recolter le vin de palmier
+- kurio/ kuri - la manière de recolter le vin de palmier
+- kurio - les pantalons courts ✎ / short
+- kuru-kuru - à la hâte
+- kurulan - les noix de beurre comme ça dans la marché à vende ?
+- kuruo - la cuillère
+- kurusa -
+
+## PDF p. 31
+
+- kurutu-kurutu - le bruit ~~qui est~~ fait par les souris en mangant; le bruit ~~qui est~~ fait par les soldats en marchant; le bruit ~~qui est~~ fait par les cafards en mangant.
+- kusoo - la couche
+- kusu - (rad) ~~se~~ pleurer
+- kusuan - le minet dans une bouton; le pus (✎ "la" corrected to "le")
+- kusuo/ kusu - pleurer
+- kutu - un bruit dans le ventre
+- kuubanɔɔ - le héros
+- kuuna - (rad) interdire
+- kuunaa - interdire
+- kuundoo - les tertres (la bute) dans la terre pour le mais, etc.
+- kuupepelan - les oreillons
+- kuusu - (rad) vomir
+- kuusuo/ kuusu - vomir
+- kuva - (rad) begayer
+- kuvaa/ kuva - bégayer
+- kuwvo - la joue
+- la - vous (pl)
+- laalantɛnɔɔ - le pas
+- laandɔ - la femme
+- laanuu - la femme
+- laaran - croire, convertir à (✎ "converter" corrected)
+- laasia -
+- laci - devant
+- lakalu -
+- lakolinɔɔ - l'élève
+- lakpasiiyo - passive ✎ passif
+- lalaa - le crachet
+- lalan -
+- lalle - la sueur
+- lalumɛɔ - l'armée
+- lamini -
+- landɔnndo - s'accrocher, se suspendre
+- landɔɔ/ landu - accrocher
+- landu - (rad) accrocher
+- landua -
+- landun - (rad) s'accrocher, se suspendre
+- lanɔɔ - la femme; l'époux
+- lapitaa - l'hopital
+- laru - (rad) accuser
+- lasa - la faiblesse; faible
+- lasalaa - faiblement
+- lasasio -
+- lasikɔlɔɔ - le parfum
+- lasoo - le cément
+- lavɔɔ - tresser
+- law - (rad) se précipiter
+- law - (rad) tresser lex cheveaux
+- law yinde - (rad) tresser
+- lawnɔɔ - la tresseuse
+- lawvo/ law - se précipiter
+
+## PDF p. 32
+
+- le - pour
+- le pala o le pala - chaque jour
+- le yɛ - pourquoi?
+- le yɛ nɛ? - pourquoi?
+- lebollo - principal
+- lecoo - sur
+- leendo - le margouillat (✎ "margouilaat" corrected)
+- lefuo - le gendre/la bru
+- lelan -
+- lenbulten - le citron
+- lepala -
+- lepala-lepala -
+- leu - la corne
+- lɛ ba - ne...plus
+- lɛɛndo - la machete
+- lɛfɔɔ - le drapeau
+- lɛlɔn - lepre
+- lɛnbɛvilɛiyo - le pantalon
+- lɛnbɔɔ - le caleçon
+- lɛnnden - terre, le pays, nation
+- lɛnndo -
+- Lɛnɔ - un prenom
+- lɛu - l'abeille
+- lɛwve - branche (l'arbre)
+- lian - le miel
+- liila - (rad) accompagner
+- liilaa/ liila - accompagner
+- liimia - (rad) tremper
+- liimiaa/ liimia - tremper
+- lindan -
+- lisa - (rad) louer, rendre homage, glorifier, remercier
+- lisaa/ lisa - louer
+- lo - (rad) se perdre, se trouver à
+- Lolo - un nom
+- lombaa - problème serieux
+- lomnden - la queue
+- lomɔɔ/ lom, lum, loam - bruler
+- longoo - un écureuil
+- lookuo - procédé
+- loolio - la boue
+- loolu - (rad) rentrer chez qq'un
+- lorio - boue
+- losa - (rad) devenir mince
+- losaa/ losa - devenir mince
+- lovɛi - hernie etranglée
+- lɔ - (rad) tresser
+- lɔ - (rad) frapper
+- lɔ kuɛ nɛ - quand?
+- lɔ o - pendant que
+- lɔarian - (rad) s'accuser
+- lɔarianndo/ lɔarian - s'accuser
+- lɔlɔɔ/ lɔlu (g) - (rad) accuser
+- lɔlu - (rad) accuser
+- lɔluan - la salive
+
+## PDF p. 33
+
+- lɔluo - la cuisse
+- lɔŋɔɔ - un animal qui mange les fourmis ✎ / fourmillier
+- lɔɔ/ lɔ, loo, lɔa - frapper
+- lɔɔ - le marché
+- lɔɔ - la semaine (✎ "le" corrected to "la")
+- lɔɔ-lɔɔ - toujours, souvent; éternel
+- lɔɔlɔɔloo - rare
+- lɔɔmei - la morve
+- lɔɔnɔnndo/ lɔɔnun, loonun, lɔanun - se frapper
+- lɔrɔɔ - accuser
+- lɔu - tresser; tisser
+- lɔyaa -
+- luakolanɔɔ - le tisserand
+- luei - l'étoile
+- luen -
+- luɛi -
+- lusuo - la pression
+- ma - tu as (tu avant les verbes dans le passé composé)
+- maa - que
+- maa - ils ont (ils avant les verbes dans le passé composé)
+- maalian - (rad) s'entraider (✎ "s'entre-aider" corrected)
+- maalianndo/ maalian - s'entraider (✎)
+- maalon - le riz (pas cuillé)
+- maayoo - poison pour les poissons
+- macɛlu - proche
+- makolan -
+- makoo - l'affaire, un travail
+- mal - (rad) avaler
+- mal - (rad) abandonner
+- mala - (rad) aider
+- malaa/ mala - aider
+- malalɛi - le pancréas
+- maloo - l'hippopotame
+- malɔɔ/ mal - abandonner
+- mam - (rad) rire
+- maman - (rad) se moquer
+- mamanndo/ maman, meman - se moquer
+- mamɔɔ/ mam, mem - rire
+- mandanndo -
+- mandenɔɔ - le marabout
+- mangala -
+- mangalian - primitif
+- manun - (rad) mettre le bol alimentaire dans la bouche, se nourrir
+- mara - (rad) aider
+- maraa/ mara - aider, l'aide
+- maralanndo - s'aider soi-même
+- masaa - le roi, le chef
+- masalen -
+- masini - la machine
+- masini swandaa - la machine à coudre
+- mau - (rad) faire nourrir qq'un, mettre un aliment dans la bouche de qq'un
+- mei - (rad) se taire
+- meiyo/ mei - le silence; se taire
+
+## PDF p. 34
+
+- mel - (rad) garder pour
+- mello/ mel - garder pour
+- mem - rire (neg)
+- meman - se moquer (neg)
+- menian - (rad) jurer plusieurs fois
+- menianndo/ menian - jurer plusieurs fois
+- mɛɛ - comme, ainsi
+- mɛɛlen - le sein
+- mɛɛmɛɛ - quel que soit
+- mɛɛna - (rad) maudire
+- mɛɛnaa/ mɛɛna - maudire
+- mɛɛnia - (rad) maudire plusieurs fois
+- mɛɛniaa/ mɛɛnia - maudire plusiers fois
+- mɛinɔnndo - être tranquille, calme; cesser
+- mɛiyo/ mɛi - abandonner, cesser
+- mɛiyo/ mɛi - être tranquille; laiser qqch où il est; le long de; pardonner
+- mɛlɛka - l'ange
+- mɛlɛkanɔɔ - l'ange
+- mɛli - (rad) faire tomber
+- mɛlimɛli - (rad) faire tomber ça et la
+- mɛlimɛlio - faire tomber ça et la
+- mɛlio/ mɛli - faire tomber
+- mɛlɔɔ -
+- mɛlula -
+- mɛmɛ - quelques
+- mɛmɛ - quand même
+- mɛmɛan - les larmes
+- mɛminndo/ mɛmin - plaisir en accueillant ou en voyant qq'un; embrasser
+- mɛmna ɲuluan - l'eau fraiche
+- mɛmna pɔlulan - l'eau tiède
+- mɛnan - (rad) jurer
+- mɛnanndo/ mɛnan - jurer
+- mɛndei - la langue, dialecte
+- mɛndian - (rad) chercher, regarder
+- mɛndianndo/ mɛndian - chercher, regarder
+- mɛndul - (rad) allumer un feu ou une lampe
+- mɛndullo/ mɛndul - allumer une lampe ou un feu
+- mɛnianndo -
+- mɛnma tuwvan - l'eau chaude
+- mɛnndan - l'eau
+- mɛsɛla -
+- mɛsɛra - fin; étroit
+- mɛtɛrɔ - un metre
+- mɛya - (rad) couler; noyer
+- mɛyaa/ mɛya - couler; noyer; se plonger dans l'eau
+- mi - J'ai (Je avant les verbes dans le passé composé)
+- miallo - l'étranger
+- mila - vous avez (vous avant les verbes dans le passé composé)
+- milinndo - le nez
+- mimio - un poisson electrique qui faire le choc
+- min - nous avons (nous avant les verbes dans le passé composé)
+- mingi - (rad) rendre qqch, payer qqch
+- mingio/ mingi - rendre qqch; faire payer qqch à qq'un; remettre
+
+## PDF p. 35
+
+- mingul/ mingullo - (rad) faire payer qqch à qq'un
+- mingullo/ mingul - faire payer qqch à qq'un; donner qqch à qq'un
+- mingun - reviser
+- minsɔrɔ - le foulard; le voile, le mouchoir de tête
+- miolɔɔ/ miol, mel, mial, mil - avaler
+- miɔu/ mɛ, miɔ, mia - être à terme
+- mirio - le tambour
+- misi - (rad) avaler
+- misiliminɔɔ - le musulman
+- misilio - la mosquée
+- misio/ misi - avaler
+- miun - deux
+- mo - il a (il avant les verbes dans le passé composé-
+- molɔɔ/ mal - avaler
+- moya - (rad) noyer, disparaître au tournant
+- moyaa/ moya - noyer, disparaître au tournant
+- mɔɛi - le couteau
+- mɔɛma vawvan - vin de palme
+- mɔi - couteau
+- mɔikpɛnɛnɔɔ - l'albinos
+- mɔiyan - vin de palmier
+- mɔkɔkɔ - adv de degré
+- mɔmndo - le brouillard
+- mɔmɔɔ - le riz cuillé ?
+- mɔnbillo - camion
+- mɔnbillo - l'auto
+- mɔnɛi -
+- mɔngɔ -
+- mɔnɔnndo/ manan - se nourrir, mettre le bol alimentaire dans la bouche
+- mɔntɔrɔ - la montre
+- mɔɔ/ mau - faire nourrir ou faire mettre le bol alimentaire dans la bouche de qq'un
+- mɔɔsia - rassembler tout ensemble
+- mɔsa - (rad) fermer
+- mɔsaa/ mɔsa - fermer
+- mɔsillo - le chapeau, le bonet
+- mɔsɔŋa - (rad) associer, regrouper, mettre ensemble
+- mɔsɔŋaa/ mɔsɔŋa - associer, regrouper, mettre ensemble
+- mɔsɔŋia - associer, assembler plusiers fois assez de choses (rad)
+- mɔsɔŋiaa/ mɔsɔŋia - regrouper, rassembler plusieurs
+- muinda - la naissance, accouchement
+- muiyo - moustique
+- muli - (rad) repondre
+- mulin - (rad) se tourner
+- mulinndo/ mulin - se tourner
+- mulio/ muli - repondre, la reponse
+- muloo - l'impot
+- mulɔɔ/ mul - avaler
+- mulul - (rad) repondre
+- mulullo/ mulul - repondre
+- mun - pron demonstratif qui accompagne tous les noms qui se termine par "on"
+- munduo - la derrière de la tête; la nuque
+- mungɔɔ/ mungu - se retourner
+
+## PDF p. 36
+
+- mungu - (rad) se retourner
+- munguo - la poudre
+- Musa - un nom
+- Musu - un nom
+- musuario - la mouchoir
+- muulu - (rad) retourner, renverser
+- muuluo/ muulu - retourner, renverser
+- muun - deux
+- muyo - le moustique (✎ "la" corrected to "le")
+- n - nous
+- n hɔɔlu - quatre
+- na - ici
+- na - nous
+- na - (rad) être tombé malade
+- naa - notre, nos - avec les mots qui se termine par a, o, ɔ
+- naa/ na - être tombé malade
+- naa - la maladie
+- naa denboo - maux de ventre
+- naa la hɔllo - maux d'yeux
+- naa le bollo - mal à la tête
+- naa malɔɔ - la maladie du sommeil (✎ "de" corrected to "du")
+- naa ncinndo - maux de dent
+- naa saiŋaa - la lepre
+- naa saŋaa - la lepre
+- naa tueiyaa - la colère
+- naa tueiyaa - être faché, la colere
+- naando - le sanctuaire
+- naanɔɔ - Aout
+- naapila - nous-mêmes
+- nakɔɔ - le jardin
+- namtalen - paralysie
+- namuo - la coutume (✎ "le" corrected to "la")
+- nan - cette année
+- nan - (rad) tirer
+- nanba - (rad) ramper, monter sur qqch
+- nanbaa/ nanba - ramper; monter sur qqch, glisser
+- nannde - cette année
+- nanɔɔ/ nan, nen - tirer
+- nanu - ici
+- nanun - ici
+- naŋ - être bon, bien (rad)
+- naŋoo - bienfaits, beauté
+- naŋɔɔ/ naŋ, niŋ - être bon, bien
+- napilɛ - nous seuls
+- naw cuao - le veau
+- nawvo - la vache
+- nbɛnbaa - l'ancetre
+- nbɛnbaa - les ancêtres, grand-père
+- nbooma - la hamac
+- nda - et
+- nda - ils, elles
+- ndaa - leur
+- ndapila - eux-mêmes
+- ndapilɛ - eux seuls
+
+## PDF p. 37
+
+- nde - la mère
+- ndɛ re - non plus
+- ndili - le surlendemain
+- ndiŋin - deux jours
+- ndiri - trois jours apres
+- ndo -
+- ndɔ - encore
+- ndɔɔ - son, sa avec les mots qui termine par a, o, ɔ
+- ndu - il, elle, lui,
+- ndua - les siens, ses
+- ndupila - lui-même, il-même, soi-même
+- ndupilɛ - lui-seul, elle-seule
+- nebia - le Prophète
+- nebinɔɔ - le Prophète
+- nen - tirer, (neg)
+- nɛ - endroit, endroit ou
+- nɛ - indique un question
+- nɛa soalaa - lieux d'aisance
+- nɛbinɔɔ - le prophete
+- nɛdaa - la bouilloire, marmite
+- nɛɛsoo - vélo, bicyclette
+- nɛi - (rad) faire mal
+- nɛiyo/ nɛi - faire mal,
+- nɛiyo - la route, l'allé, marcher sur qqch, coup de pied, piétiné (✎ "pied tiné" joined)
+- nɛnɛka - partout
+- nɛnɛo - un oiseau, totem
+- nɛnio - unite de mesure pour le riz
+- nɛnndo - la chauve-souris
+- nɛnɔnndo/ nɛnun - détester
+- nɛnun - (rad) détester
+- nɛŋi - (rad) satisfaire un besoin
+- nɛŋio/ nɛŋio - satisfaire un besoin
+- nɛŋul - (rad) satisfaire un besoin
+- nɛŋullo/ nɛŋullo - satisfaire un besoin à; reciter
+- nɛɔ - la clé
+- nɛw - (rad) ~~faire un~~ donner des coups de pied ~~plusiers fois~~, piétiner (plusier fois) (✎)
+- nɛwvo/ nɛwvo - faire un coup à pied plusiers fois, piétiner plusiers fois
+- nɛyo - le chemin, la route
+- nɛyofɛya - nettoyer le chemin, defricher le chemin
+- nɛyuluo - la poste de telecommunication
+- ngeemaa - le scorpion
+- ngeloo - le carnaval
+- ngɔ - Quelle, quoi
+- ngɔ ba - ou, par ou
+- ngɔ vana - quelle personne?
+- niaa - votre, vos
+- nika - maintenant
+- nilen - l'oreille
+- nimɔɔ - la belle-soeur ou beau-frère
+- nimɔɔ - trompe d'éléphant
+- nin - dans, en
+- ninginangaa - l'arc-en-ciel
+
+## PDF p. 38
+
+- ningio -
+- ningira - lisse
+- nini - maintenant
+- ninu - (rad) passer toute la journée
+- ninuo/ ninu - passer toute la journée
+- niŋ te - mauvais (passé, present)
+- nio - l'esprit, la vie dans le corps
+- nɔ - (rad) avoir
+- nɔ o kɔl - esperer, imaginer, penser à, avoir en memoire (✎ "de" corrected to "à")
+- nɔla - sale
+- nɔla - (rad) pouvoir
+- nɔlaa/ nɔla - pouvoir
+- nɔm - toi
+- nɔmndo - ta, ton, pour les mots qui termine par a, o , ɔ
+- nɔmpila - toi-même
+- nɔmpilɛ - toi-seul
+- Nɔngɔa - le nom d'un village
+- nɔngɔɔ - une sorte d'arbre avec la sève (✎ "de" corrected to "la")
+- nɔni -
+- nɔnɔɔ - le lait
+- nɔɔ - un défaut, saleté
+- nɔra - sale
+- nɔra/ nɔra - (rad) capable
+- nɔraa/ nɔra - capable
+- nɔriɛiyo - qqch ou qq'un sale
+- nɔu/ nɔ - avoir
+- nɔw - le mariage
+- nua - ainsi, c'est ça
+- nua - (rad) regarder, observer, examiner
+- nuaa/ nua, nue - regarder, observer, examiner
+- nuanɔnndo/ nuanun, nuenun - se regarder
+- nuanun - (rad) se regarder
+- nuaɔ - regard
+- nue - regarder (neg)
+- nuenun - se regarder (neg)
+- nufa - (rad) regarder
+- nufaa/ nufa - regarder
+- nunuo - le coq châtré
+- nuu - ma, mon pour les mots qui termine par a, o, ɔ, (e)
+- nuufia - (rad) chercher
+- nuufiaa/ nuufia - chercher
+- nuvia - (rad) chercher
+- nuviaa/ nuvia - chercher
+- nuya - (rad) chercher, rechercher
+- nuyaa/ nuya - chercher, rechercher
+- ɲaakuɛiyo - Avril
+- ɲaamoi - petit piment
+- ɲaaye yondoo - le chat tigre
+- ɲaayoo - chat
+- ɲahalama - l'enfer
+- ɲahanama - l'Enfer
+- ɲaiyo - chatte
+- ɲakpa - avoir besoin, pauvreté, souffrance
+- ɲali - adv de degré
+
+## PDF p. 39
+
+- ɲaloo - joie,
+- ɲama - ~~excellence; influence~~; beauté, ✎ plaisant
+- ɲamakalaa - le griot
+- ɲamala - la population
+- ɲamavuloo - le fantome
+- ɲandia - faire les grimaces avec le visage de souffrance (inf, passé)
+- ɲangafello - cameleon
+- ɲanonndo - accourir
+- ɲanɔnndo/ ɲanun - courir
+- ɲanun - (rad) courir
+- ɲaŋɔlen - le piege pour prendre les animaux
+- ɲasɔɔ/ ɲasu, ɲesu - gratter
+- ɲasɔɔnndo/ ɲasun, ɲesun - se gratter
+- ɲasu - (rad) gratter
+- ɲaw - (rad) maigrir
+- ɲawvo - maigrir
+- ɲesu - gratter (neg)
+- ɲɛ - une chose
+- ɲɛ cɔm toɲaa o - la preuve
+- ɲɛ nanndo - ravissant
+- ɲɛcɔwvo - l'arme
+- ɲɛla baralan - accessoires
+- ɲɛmcɔwvon - l'armement
+- ɲɛmu-ɲɛmu ɲɔ - brouillard, flou
+- ɲɛsonndo - se gratter
+- ɲɛsɔlanndo - recette
+- ɲɛsu - (rad) gratter plusiers fois
+- ɲɛsuo/ ɲɛsu - gratter plusiers fois
+- ɲɛsuɔnndo - se gratter plusiers fois
+- ɲia kiyɛiya - les êtres vivants, les vers
+- ɲifila - (rad) passer, foncer
+- ɲifilaa/ ɲifila - plisser, froncer
+- ɲiiya - (rad) agiter, trembler
+- ɲiiyaa/ ɲiya - agiter, trembler
+- ɲiiye - pitié
+- ɲin - le temps, le jour, le moment
+- ɲinasan - l'année prochaine
+- ɲinasan lekɔɔli - apres l'année prochaine
+- ɲinden - le feu
+- ɲindɔɔ/ ɲindu - pousser (feuilles, dents, cheveux, etc)
+- ɲindu - pousse, (rad) pousser (feuilles, dents, cheveux, etc)
+- ɲirio - les moucherons
+- ɲiye - la pitié, misericorde
+- ɲɔ - le temps
+- ɲumɛiyo - Vendredi
+- ɲumi - (rad) enteindre un feu, une lumière
+- ɲumio/ ɲumi - eteindre le feu, la lumiere, effacer
+- ɲumndan - la nuit, l'obscurité,
+- ɲumullo - demangaison
+- ɲuna - (rad) dĕmander qqch à qq'un
+- ɲunaa/ ɲuna - dĕmander qqch à qq'un
+- ɲunbɔɔ/ ɲunbu - tordre, entortiller, enrouler
+- ɲunbu - (rad) tordre, entortiller, enrouler
+- ɲunia - (rad) dĕmander plusieurs fois
+
+## PDF p. 40
+
+- ɲuniaa/ ɲunia - dĕmander plusieurs fois
+- ɲurullo - froid
+- ɲuu - (rad) avoir du dégout pour qq'un (✎ "un" corrected to "du", "de" to "pour")
+- ɲuuo/ ɲuu - se tourner la tête de dégout, avoir du dégout pour qq'un (✎)
+- ŋalen-ŋalen - étinceler, scintiller
+- ŋale-ŋale - amer, l'odeur piquante de l'huile brulée
+- ŋemaa - le scorpion
+- ŋol - (rad) bouillir
+- ŋolɔɔ/ ŋol - bouillir
+- ŋɔaw - (rad) se serrer, se frayer un chemin dans la foule
+- ŋɔmaa - huit
+- ŋɔmahɔɔlu - neuf
+- ŋɔmɛo - sept
+- ŋɔmpum - six
+- ŋɔngɔla - (rad) ronfler
+- ŋɔngɔlaa/ ŋɔngɔla - ronfler
+- ŋɔŋɔnndo - la grosse grenouille ✎ / crapaud
+- ŋɔriŋɔrio - le frelon
+- ŋɔvɔɔ/ ŋɔw, ŋow, ŋɔaw - serrer
+- ŋɔvɔɔ - se serrer, se frayer un chemin dans la foule
+- ŋuɛnu - cinq
+- o - il, elle
+- o - de
+- o - dans
+- o - mot de fonction à la fin d'une phrase nominale
+- o - devant
+- o -
+- o ba - ~~dans le~~ en possession de (✎)
+- o celen - une autre
+- o co re - ce n'est pas
+- o cueo - point
+- o foofoo - le lieu
+- o fɔlɔnndo - premier, primitif
+- o kɛkɛ - n'importe quelle chose
+- o kon kɔɔli - puis
+- o naa lo - chez nous
+- o tasoo - au commencement, d'abord
+- oo -
+- ɔndɛ - il est vrai que ...
+- pa - un adv. qui se place à la fin d'une question
+- paa - l'os; le bouton
+- paa congu tumndo - l'omoplate
+- paa iyindo - le peigne d'une femme
+- paa yomɛiyo - fracture
+- paalen - le jour, le soleil
+- paalia - (rad) déranger plusiers fois
+- paaliaa/ paalia - déranger plusiers fois
+- paamaa - sorte de slip des femmes
+- paandua - jeun garçon
+- paangei - la lune
+- paangiei - le mois
+- pal - (rad) casser, parler par nom
+- pala - (rad) déranger, (faire) fatiguer
+- palaa/ pala - déranger, (faire) fatiguer
