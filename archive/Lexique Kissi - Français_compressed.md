@@ -1,0 +1,1008 @@
+# Lexique Kissi–Français (auteur inconnu) — working notes
+
+> **Working notes** for the lexicon. Read from the page images of `Lexique Kissi - Français_compressed.pdf` (68 PDF pages).
+>
+> - **Source:** an alphabetical Kisiei–French word list, typewritten, author unknown (title page: "Lexique Kissi-Français / Auteur: Inconnu"). Undated.
+> - **Spelling:** the typescript already uses the **current orthography** (ɛ, ɔ, ŋ, double vowels); transcribed as typed, in NFC. Tone is not marked.
+> - **Conventions of the original:** "(rad)" marks a verb stem (radical); "a/ b, c" gives a verb's long form followed by its stems; "(neg)" a negative stem. Entries are one per line: `kisiei - français`.
+> - **Marks:** `✎` handwritten addition or correction; `~~typed~~` text struck by hand; `[?]` illegible. An entry with no French ("Bakali -") is kept as typed.
+> - **Pages:** PDF p. 1 title page, p. 2 blank; the list starts on PDF p. 3.
+> - **Progress:** PDF pp. 1–20 (a – kafuo) done. Each page shows the next page faintly through the paper; only the page's own text is transcribed.
+
+## PDF p. 1
+
+Title page: **Lexique Kissi-Français** — Auteur: Inconnu.
+
+## PDF p. 2
+
+(blank)
+
+## PDF p. 3
+
+- a - tu; avec, pour, a, contre, par; et; que (✎ "contra" corrected to "contre")
+- a ba - vers, de
+- a baa - avec les mains
+- aa - il, elle, ils, elles avaient (il, elle, ils, elles avant les verbes dans le plus-que-parfait de l'indicatif)
+- ava - d'accord
+- ba - vers
+- ba loo - poignet
+- ba pilɛ - proche
+- baa - le prix
+- baa - plus (accompagné par le mot "le")
+- baa - attacher un animal (rad)
+- baa/ ba, bee - attacher un animal
+- baa - la main
+- baa kɛndɛ - la main droite (d'une personne) (✎ "le" corrected to "la", "droit" to "droite")
+- baa kɛndɔɔ - à droite, la main droite (✎ "droit" corrected to "droite", "le" to "la")
+- baa lepilɛ - poignée
+- baa piandaa - prix d'achat
+- baa pilɔɔ - poignée; la partie de; l'autre côté
+- baa pisia - prix de vente
+- baa yulullo - pointer avec le bras, étendre, indiquer avec le bras ✎ ou montrer du doigt
+- baa yurullo - pointer avec le bras, étendre, indiquer avec le bras
+- baala folobaa - l'investissement humain, travail en commun
+- baalaa - le travail; boulot
+- baalanndo - le xylophone, balaphone des Pular et Malinke
+- baanɔnndo/ baanun, beenun - s'attacher, s'accrocher
+- baanun - (rad) s'attacher, s'accrocher
+- baaran - attaquer (rad)
+- baarandoo/ baaran - attaquer
+- bae - (la) aubergine; une petite tomate verte
+- bahaviɔɔ - accabler
+- Bakali -
+- bakɔllo - la paume de la main (✎ "du" corrected to "de la")
+- bakɔɔ - le dessus de la main (✎ "(derrière du)" corrected to "dessus de")
+- bakpenndo - poignet
+- balamasakondoo - un oiseau noir et blanc (le corbeau) (un cou blanc)
+- balan - (rad) accuser
+- balanilen - une épingle à cheveux qui est longue et d'aluminium ✎ un longue épingle à cheveux en aluminium
+- balanndo/ balan - accuser
+- balen - la gerbe
+- bali - (rad) parler, causer
+- balika - avec l'aide de; sous la puissance de; merci
+- balio/ bali - causer, parler
+- balio tosa - faire la causerie
+- balle - une lance
+- ballo - la lance
+- baloo -
+- balɔɔ - autour; aller autour, entourer
+- balɔɔ - l'avant-bras
+- balufaa - fiancé(e); ami(e) personne avec laquelle (lequel) on partage les rapports sexuels mais qui n'est pas le mari ou l'épouse.
+- balufayɛi - vivant ~~en~~ une relation scandaleuse; fiançailles; amitié profonde
+- bamɛllo - la main gauche (✎ "le" corrected to "la")
+
+## PDF p. 4
+
+- banaa sanaa - le riz jaune
+- banbɛi - la cloche
+- bandaa - le fromager; le baobab ~~tree~~
+- bandalaa - la saillie
+- bandama -
+- bandei - la longueur; la hauteur; (la taille?)
+- bandɛo - épingle à cheveux
+- bandoo - mirador; (l'endroit plat pour le riz dans le champ?)
+- bandu - long; longue
+- banɛiyo - la grande machette (✎ "machede" corrected)
+- banɛɔɔ - la clé, particulièrement pour une serrure en bois
+- bangaa - un instrument de musique à cordes (✎ "aux" corrected to "à")
+- banio - le géant
+- baɲan - l'huile de ~~l'amande~~ de palmiste (✎)
+- baŋ - (rad) fixer
+- baŋ vulan - (rad) s'agenouiller, mettre à genou (✎ "en" corrected to "à")
+- baŋ vuran - (rad) s'agenouiller, mettre à genou (✎ "en" corrected to "à")
+- baŋa - (rad) racheter (✎ "rachâter" corrected)
+- baŋaa/ baŋa - racheter
+- baŋɔɔ/ baŋ - frapper sur, heurter
+- baŋul - (rad) rapiécer, fermer, boucher
+- baŋullo/ baŋul, beŋul - rapiécer; remplir un trou, un puits; boucher les oreilles
+- barafaa - fiancé(e); ami(e) personne avec laquelle (lequel) on partage les rapports sexuels mais qui n'est pas le mari ou l'épouse.
+- barafayɛi - vivant ~~en~~ une relation scandaleuse; fiançailles
+- barika - avec l'aide de; sous la puissance de; merci
+- barɔɔ - autour; aller autour, entourer
+- baruo - le fourreau
+- basabasakondoo - un oiseau noir et blanc (la corbeau) (un cou blanc)
+- basi taando - la tabatière
+- basɔɔ/ basu, besu - balayer
+- basu - (rad) balayer
+- batisi - (rad) batiser ✎ baptiser
+- batisio/ batisi - baptiser; baptême
+- bau - la raison pour ça, c'était..., parce que
+- bawve - un instrument avec lequel on taille les manches de la houe ou de la hache.
+- bawvo - la fourche qui soutien qqch.
+- bayullo - la vigne utilisée pour faire un "tallo" pont.
+- bee - attacher (neg)
+- beenun - s'attacher, s'accrocher (neg)
+- beeseŋan - la petite aubergine très amère
+- bekuiyo - danse spectaculaire
+- belanbelanndo -
+- belehiɔɔlu - quarante
+- belela - doubler; dépasser (inf et passé)
+- beleŋɔmaa - quatre-vingts
+- beleyaa - 30
+- beleyaandɔɔ - 30eme
+- beleyandɔɔ - 30ème
+- beluo - (le) ourlet; la premiere paille d'une case
+- benbaa - les ancêtres, le grand-père
+- benboo - la place de construction
+
+## PDF p. 5
+
+- beŋi - (rad) piquer plusier fois
+- beŋio/ beŋi - piquer plusiers fois; enlever le manche d'un outil (✎ "un" corrected to "le")
+- beŋul - rapiécer, bouger, fermer, remplir un trou (neg)
+- beŋullo/ beŋul - rapiécer; remplir un trou, un puits; boucher les oreilles.
+- beo - gumbo sec
+- beɔlen - une teinture naturelle ou de la marché? (✎ "naturale" corrected)
+- berela - doubler, dépasser, ratrapper (passé et inf)
+- besu - balayer (neg)
+- bewvo - la gencive
+- bewvo - un cercle de roseaux qui fait le base du toit d'une hutte; un trou qui est laissé quand on manque une dent.
+- bɛ - approximatif; tout
+- bɛɛ - aubergine
+- bɛɛ - même si, aussi
+- bɛɛ - ma court (✎ "courtt" corrected)
+- bɛɛyan vomɔɔ - divissation aux cailloux
+- bɛi - aubergine
+- bɛi - une dette (negatif)
+- bɛlaa - le pari; la concurrence
+- bɛlɛ - aussi
+- bɛlɛkɛ - vraiment, très bien
+- bɛlenden - la flèche
+- bɛlle - noix de palmier (✎ "noix du palmes" corrected)
+- bɛllon - les noix de palmier (✎)
+- bɛlɔɔ - la souris
+- bɛnda - (rad) l'accord; marcher; l'amitié; bon, bonne
+- bɛndaa/ bɛnda - être d'accord; approprié, correct; marcher; l'amitie
+- bɛndaa le coo - accorder là-dessus
+- bɛndɛlan -
+- bɛndi - (rad) rallonger
+- bɛndia - arranger (rad)
+- bɛndiaa/ bɛndia - réparer, arranger, preparer
+- bɛndian - (rad) préparer pour un voyage; s'habiller, se préparer
+- bɛndianndo/ bɛndian - preparer pour un voyage; s'habiller, se preparer
+- bɛndio/ bɛndi - rallonger
+- bɛndoo -
+- bɛndɔɔ -
+- bɛnducieo - notable
+- bɛndue - grand (seulement avec les choses comme la hache, la machette, le mortier, etc)
+- bɛnduo/ bɛndu - le frere aîné d'un garcon ou d'un homme; la soeur plus âgée d'une femme; quelqu'un qui est plus important ou plus âgé.
+- bɛngo -
+- bɛngu - au-dessous
+- bɛngu lefunndo - le cotonnier
+- Bɛngufɔnɔɔ - Novembre
+- bɛngulan - les empreintes, les pieds
+- bɛnguo - la patte
+- bɛnguo - le pied
+- bɛnguran - les empreintes, les pieds
+- bɛnnda - bonne, bon, réussite
+- bɛnɛbɛŋeran - les étincelles
+
+## PDF p. 6
+
+(The first lines are typed over each other and partly garbled; the readable entries are given.)
+
+- [?] - démonter (overprinted)
+- bɛŋian - (rad) se botter
+- bɛŋian - se botter (neg)
+- bɛŋianndo/ bɛŋian, bɛŋi - se botter (overprinted)
+- bɛŋio/ bɛŋi - démonter (overprinted)
+- bɛ[?] - le jardin, la cour (overprinted)
+- bɛpuo - (le) aviron, la rame, la pagaie (de bateau); la fourche pour mélanger la sauce.
+- bɛrɛ - aussi
+- bɛrɛkɛ - vraiment, très bien
+- bɛrɛn - aussi
+- bɛsi - (rad) ecobuer?
+- bɛsio/ bɛsi - ecobuer
+- bɛsoo - balai
+- bɛsuo - le genêt
+- bɛu - plan
+- bibuloo - la bible
+- bidin - 20
+- bidinndɔɔ - 20ème
+- bidonndo - (la cantine pour d'eau), bidon
+- bii - (rad) tenir, accepter un don, attraper
+- bii sɔɛi - (rad) obeir
+- biilan - (rad) être collant; le tant des herbes dans un bas-fond (✎ "temps?" above "tant")
+- biilanndo/ biilan - être collant, adhésif
+- biiloo/ biilu - adorer
+- biilu - (rad) honorer, respecter, recevoir bien dans la maison ou village
+- biilul - (rad) tenir, garder pour qq'un
+- biilullo/ biilul - garder, tenir pour quelqu'un
+- biiluo/ biilu - honorer, respecter, recevoir bien dans la maison ou le village
+- biinɔnndo/ biinun - s'entretenir
+- biinun - (rad) s'entretenir
+- bilaa - explication; compréhension
+- bileyaa - 30
+- bileyandɔɔ - 30ème
+- bilio - la rue, route
+- bilkuamaa - graines des herbes; l'herbe qui fait les fleurs
+- billo - le gazon, herbe (pl)
+- bindian - (rad) manquer qq'un en prenant une autre route, quereller, se manquer le respect
+- bindianndo/ bindian - se chevaucher; manquer quelqu'un en prenant une autre route; disputer quereller.
+- bingi - (rad) raccourcir
+- bingilan - (rad) mélanger (ensemble)
+- bingilanndo/ bingilan - melanger ensemble
+- bingio/ bingi - raccourcir; court, petit
+- biŋibiŋio - cligner les yeux plusieurs fois; piquer plusieurs fois
+- biŋɔnndo/ biŋun - se remuer (comme on est agité) ✎ s'agiter
+- biŋu - (rad) bouger, frotter comme en prenant un bain, exciter, deranger, remier?
+- biŋun - (rad) se remuer comme on est agiter
+- biŋuo/ biŋu - bouger; frotter comme en prenant un bain; remuer, exciter, deranger.
+
+## PDF p. 7
+
+- biɔmnɔnndo/ biɔmnun, bemnun, biamnun - se blottir
+- biɔn - (rad) être patient
+- biɔnndo/ biɔn - être patient; patience
+- biɔŋɔɔ/ biɔn, bɛn, bian, bin - cligner des yeux lentement, une fois
+- bipɛ - après
+- bipɛnte - après
+- biraa - explication; compréhension
+- bisio - ✎ condoléances
+- biwɔnndo - la patience
+- biyan - (rad) s'attraper
+- biyanndo/ biyan - s'attraper
+- biyɔɔ/ bii - tenir; accepter un don, prendre; attraper
+- bobonɔɔ - le muet
+- bokio - l'écuelle
+- bole - comme; ainsi? de la même façon (✎ "dans le" corrected to "de la")
+- bole bole - quand même
+- boli - (rad) blesser
+- bolin - (rad) se blesser
+- bolinndo - la blessure
+- bolio/ boli - blesser
+- bolle - surtout
+- bolle - l'imam
+- bollen - la tête
+- bololen - la gorge; gourmant
+- boloo - un instrument avec lequel on tisse un tissu, la navette ✎ pour le tissage
+- bolten - la tête
+- bomndo - l'onde
+- bomndo - l'oncle
+- bonbosoo - la variole
+- bondokpaa - l'hémorro[ïde]
+- bondomanɔɔ - le guitariste
+- bondoo - la cloture, l'endroit ou les femmes passe la nuit pour l'incision
+- bonio - un bol
+- bonɔɔ -
+- boŋa - (rad) accueillir
+- boŋaa/ boŋa - accueillir, talocher
+- boo - coque, peau de fruit
+- boo tɛɛngaa - la pagaie
+- boosiicua cɛnɛvɛiye - courant
+- bɔlaa - belle-soeur/ beau-frère
+- bɔllen - la banane
+- bɔlɔ ncilinndo - le cartouchière
+- bɔlɔ tumndo - le bananier
+- bɔlɔan - vin de palme extrait du tronc
+- bɔlɔɔ - banane
+- bɔlɔɔ - le sac
+- bɔlɔɔn - le chapelet
+- bɔmɔɔ - la tante
+- bɔnbɔniyo - la bonbonne
+- bɔngaa - la jaunisse ? (✎ "jeunisse" corrected)
+- bɔnio - un bol
+- bɔŋa - (rad) rencontrer; accueillir (g) (✎ "acceuille" corrected; ✎ accueil)
+
+## PDF p. 8
+
+- bɔŋaa/ bɔŋa - rencontrer, accueillir (g) (✎ "accueille" corrected)
+- bɔŋal - (rad) accueillir pour (✎ "accaüillir" corrected)
+- bɔŋallo/ bɔŋal - accueillir pour
+- bɔŋanndo - le meeting
+- bɔŋɔɔ - piquer une fois
+- bɔɔ - la concession, cour
+- bɔɔlan - plume d'un oiseau
+- bɔɔlen - la plume
+- bɔɔren - la plume
+- bɔtaa - le poing
+- bɔwvo - une teinture naturelle ou de la marché ? (✎ "naturale" corrected)
+- bukuloo - Mai
+- bulan - (rad) être anxieux, se soucier, s'inquiéter
+- bulanndo/ bulan - être anxieux, se soucier, s'inquieter
+- buli - (rad) percer
+- bulio/ buli - percer
+- bulu yekpandio - le canon de fusil
+- buluo -
+- bunboo - agouti
+- bundɛcieo - la clairière
+- bundɔɔ - la forêt
+- buran - (rad) être anxieux, se soucier, s'inquiéter
+- buranndo/ buran - être anxieux, se soucier, s'inquieter
+- busɔɔ/ busu - aboyer
+- busu - (rad) aboyer
+- buukuo - le sabot
+- ca - (rad) adroit, savoir-faire
+- ca - (rad) voir
+- caa/ ca, cee - adroit, savoir-faire
+- caa - labour en semant le riz sur un champ de montagne.
+- caando - une autre personne
+- caaɲɛi - l'amitié
+- cal - (rad) s'asseoir, demeurer
+- cal - (rad) mordre
+- calan - clairement, en fait, en réalité
+- cale tumnden - le papayer
+- caleholen - le melon
+- calen - papaye
+- calle/ cal - s'asseoir, demeurer
+- callo - le cerf; biche
+- camndo - le magie
+- can - (rad) pleurer, hurler
+- can - (rad) se lever, se lever pour aller qqpart, se lever contre
+- can - (rad) hacher (les feuilles d'epinards)
+- candu - (rad) ramasser, recolter, cueillir des fruits
+- cangu - (rad) distribuer, enlever le riz de la marmite pour mettre dans les bols
+- cangulu -
+- cannda - la taille, les reins, la hanche
+- canndo - les pleurs (✎ "le pleur" corrected)
+- canndo/ can, cen - pleurer, hurler
+- canyɛi - l'amitie, l'amour
+- caran-caran - de manoeuvre, mal ?
+- caru - (rad) couper
+
+## PDF p. 9
+
+- caw - (rad) faire, créer, fabriquer, mouler
+- caw - le fruit de l'arbre qui s'appelle "cawvo"
+- cawvo - un' arbre
+- ce - le village
+- ce - (present) voir
+- cee - le mortier
+- cee - neg de savoir-faire (suivi par re)
+- ceiyo - la bataille
+- cel - (rad) accepter
+- celen - autre
+- celian - (rad) réussir à sauver ou à faire qqch
+- celianndo/ celian - réussir à sauver qqch ou à faire qqch
+- cellen - une plante, lisse et fine
+- celɔɔ/ cel - accepter
+- celul - (rad) grossir, être epais
+- celullo/ celul - épais, grossir
+- ceo - la ville, le village
+- cerian - (rad) réussir à sauver ou à faire qqch
+- cerianndo/ cerian - réussir à sauver qqch ou à faire qqch
+- cerul - (rad) grossir, être epais
+- cerullo/ cerul - épais, grossir
+- cɛcɛŋa - bavarder (passé et inf)
+- cɛɛi - le champ
+- cɛi - hier
+- cɛi nɛyuluo - la poste de telecommunication
+- cɛiyo - la maison, la hutte
+- cɛkɔɔ - castagnette masculine
+- cɛl - (rad) consentir, repondre à, accepter
+- cɛlan -
+- cɛlen - (le) esclavage
+- cɛlɛkpɔɔ - le bɛbɛ
+- cɛlian - (rad) couper tout court à travers un champ
+- cɛlianndo/ cɛlian - couper tout court à travers un champ
+- cɛlɔɔ/ cɛl - consentir, répondre à, accepter
+- cɛncenndo - (le) écureuil (petit rongeur à poil roux, à queue touffue).
+- cɛngilen - la canne à sucre
+- cɛŋi - (rad) faire pleurer
+- cɛŋio/ cɛŋi - faire pleurer
+- cɛɔ - (la) esclave
+- cɛrian - (rad) couper tout court à travers un champ
+- cɛrianndo/ cɛrian - couper tout court à travers un champ
+- cɛw - (rad) monter en flèche, délivrer, sauver, soigner
+- cɛw - l'esclave (✎ "exclave" corrected)
+- cɛwvan - (rad) se soigner, se sauver, se délivrer
+- cɛwvanndo/ cɛwvan - se sauver; se soigner; se délivrer
+- cɛwvo/ cɛw - monter en flèche; sauver, délivrer; soigner
+- cɛwvo - (le) arc
+- cieei - un accident grave
+- ciei - le mortier
+- ciei cɔl - hier soir
+- ciei dii - hier matin
+- ciei puiyo - maison en paille
+- cieiyo - la lutte
+- cieo -
+
+## PDF p. 10
+
+- cieo - la ville, le village
+- ciɛi - hier
+- ciɛi hala - l'église
+- ciɛi tollo - maison en tole
+- ciɛiyo - la maison, la hutte
+- cii - (rad) finir, compléter, accomplir
+- ciikan - (rad) se voir, se rencontrer (min)
+- ciikanndo/ ciikan - se voir; se rencontrer
+- ciimiaa - piler en poudre, pilonner; frotter comme avec les vêtements entre les mains (passé et inf) (✎ "à" corrected to "en")
+- ciinde - le fer
+- ciiŋi - le fer (suivi par adj qualicatif comme "hunbue", blanc)
+- cilinnde - le fer, le métal, la poêle en métal; la balle, cartouche
+- cindaa - sauf, la vie sauve
+- cindia - (rad) faire sauver, faire délivrer
+- cindiaa/ cindia - faire sauver, faire délivrer
+- cinnde - la dent (✎ "le" corrected to "la")
+- cinndon -
+- cinnun - rare
+- ciŋi - la dent (suivi par adj qualicatif comme "bɛndue")
+- ciŋii kamaa - l'ivoire
+- ciŋiipianduei - la canine
+- ciŋiitaaye - la dent de molaire
+- ciŋikiolɛi - l'incisive
+- ciye - les pieux; la souche d'un arbre
+- ciyo - une vache sauvage, le buffle
+- ciyo/ cii, cuu - accomplir, finir, terminer
+- co - (présent) être,
+- cobe - un petit peu
+- coe - la hache
+- cokacoo - le crapaud
+- colɔɔ - mordre
+- comaa -
+- comanɔɔ -
+- condei - chanter
+- condie - la chanson; la ballade
+- condɔ - dur, difficile
+- condɔɔ - cueillir
+- condu - (rad) chanter
+- congɔnndo/ congun - commissioner avant le depart
+- congɔɔ - calomnier, diffamer; critiquer
+- congu - (rad) critiquer, diffamer, colomnier
+- congu tumndo - (la) épaule
+- congulan -
+- congun - (rad) commissioner avant le depart
+- conguo - le bras, l'épaule
+- coo - le rat
+- coo - sur
+- coo-coo - en haut
+- coolan - les mensonges
+- copio - un genre d'écureuil
+- corɔɔ/ coru - couper
+- coru - (rad) se couper
+- cowva - mensonge
+
+## PDF p. 11
+
+- cowvo - le rat palmiste
+- coya - (rad) rassembler, ramasser
+- coyaa/ coya - rassembler des fruits (de la terre); ~~rammasser le grain comme un poulet~~ ? (✎ "picorer"; ✎ "ramasser")
+- cɔ - être épais, large
+- cɔ - (rad) voir
+- cɔ-cɔ - rapide, rapidement
+- cɔcɔɛi - la lèvre
+- cɔcɔɛi - le bec
+- cɔlɔba - se battre (inf et passé)
+- cɔlu - (rad) augmenter
+- cɔluo/ cɔlu - augmenter
+- cɔm - (rad) raconter
+- cɔm - (rad) compter
+- cɔmndo/ cɔm - raconter
+- cɔmndo - (le) escargot
+- cɔmɔɔ/ cɔm - compter
+- cɔndɔɔ/ candu - ramasser, recolter, cueillir des fruits
+- cɔngɔi - cache-sexe devenu accoutrement artistique
+- cɔngɔɔ/ cangu - distribuer, enlever le riz de la marmite pour mettre dans les bols
+- cɔnnden - les germes nouvelles du centre du palmier
+- cɔnndon - le millet (pl)
+- cɔnɔnndo/ can - le lever (du soleil) (✎ "la levée" corrected)
+- cɔnɔnndo/ cɔn, cɛn, can, cen - se lever; se lever pour aller quelque part; se lever contre
+- cɔnɔɔ/ can - hacher (les feuilles d' epinard)
+- cɔɔlɔnndo/ cɔɔlun - accroissement; accroître
+- cɔɔlun - (rad) accroître
+- cɔrɔba - se battre (inf et passé)
+- cɔruo - (le) animal domestique
+- cɔu/ cɔ, ce, ca, ci - voir
+- cɔunkpɛɛŋɔɔ - potier
+- cɔvɔɔ - faire, créer, fabriquer, mouler comme un forgeron
+- cɔw - (rad) monter en flêche, délivrer, sauver, soigner
+- cɔw - (rad) creer, fabriquer
+- cɔwiaa - ramasser du grain comme les oiseaux; ramasser des boutons, cacahuètes
+- cɔwlaban - combat
+- cɔwlɔnbiaa - la guerilla
+- cɔwtaasio - la guerilla
+- cɔwva/ cɔw - creer, fabriquer
+- cɔwvia - (rad) ramasser
+- cɔwvo - la guerre
+- cɔwvo - monter en flêche, soigner, sauver, délivrer
+- cu - (rad) moudre, pilloner, piler
+- cua - (le) enfant
+- cua - (rad) tenir, apporter, porter, prendre
+- cua mamaa - le petit-fils ou fille
+- cua mandaa - adopter
+- cuaa/ cua, cue - tenir; apporter; porter, prendre
+- cuaanbɔɔ - (le) enfant
+
+## PDF p. 12
+
+- cualɛkpɛɔɔ - le bébé
+- cualɛkpɔɔ - le bébé
+- cuan bɛngulen - piege
+- cuanbɔa - les enfants (pl)
+- cuannɔnndo - prise
+- cuaw - (rad)
+- cucɔɔ/ cucu - poudrer, asperger
+- cucu - (rad) poudrer, asperger
+- cuei - la hache
+- cuel - (rad) prendre pour
+- cuello/ cuel - prendre pour
+- cuɛi-cuɛi - faire souvent; habituellement
+- cuɛima saŋan - l'huile rouge du palmier
+- cuɛinɔn - (rad) s'habiller, se déguiser
+- cuɛinɔnndo/ cuɛinɔn - s'habiller, se déguiser
+- cuɛiyan - (la) huile; la beurre; le medicament gras
+- cuɛyan - la graisse
+- cui - (rad) ~~faire~~ en poudre (✎ "réduire")
+- cuilinndo - le chevre
+- cuindin - un petit peu
+- cuinndo - chèvre
+- cuiyo/ cui - faire en poudre (✎ "réduire")
+- cukanio - la cuillère
+- cukɔnndo/ cukun - se piquer
+- cukɔɔ/ cuku - percer, piquer
+- cuku - (rad) percer
+- cukul - (rad) chatouiller, éperonner
+- cukullo/ cukul - chatouiller; éperonner le cheval
+- cukun - (rad) se piquer
+- cum - (rad) attendre
+- cumɔɔ/ cum - attendre
+- cumul - (rad) surveiller, garder
+- cumullo/ cumul - surveiller, garder
+- cundoo - poussière
+- cunduo - la poussière
+- cungia - assembler, rassembler (passé et inf)
+- cungian - (rad) se rassembler
+- cungianndo/ cungian - se rassembler; (la) assemblée
+- cungun -
+- cunndo - (la) odeur
+- cuŋ - (rad) jeter, vider, verser
+- cuŋin - (rad) se verser, se jeter (✎ "s'écouler")
+- cuŋinndo/ cuŋin - ~~se verser, comme le sang~~; se jeter, comme de l'eau
+- cuŋio/ cuŋ - jeter, comme l'eau ou les restes; vider; verser
+- cuo/ cu - moudre, pilonner, piler
+- cuɔ - finir, avoir fini de prendre (ou apprendre) qqch. (✎ "à" corrected to "de")
+- cuɔ/ cuu - apporter
+- cuu - (rad) apporter
+- cuulu - (rad) être glissant
+- cuuluo/ cuulu - être glissant
+- cuungia - (rad) accumuler
+- cuungiaa/ cuungia - accumuler
+- cuungian - (rad) s'accumuler
+- cuungianndo/ cuungian - s'accumuler
+
+## PDF p. 13
+
+- da - (rad) manger
+- daadaa - le menton
+- dalaa - plaine
+- dalaa - l'étang
+- dandaa dɔwɔɔ - soigner
+- dau danda - (rad) soigner
+- daunun - (rad) rempli avec qqch
+- del - (rad) tomber
+- del a naa - (rad) tomber malade
+- delalɔɔcoo - agression
+- deli - (rad) tomber ça et la
+- delio/ deli - tomber ça et la
+- delɔɔ/ del - tomber, perdre
+- delɔɔ a naa - tomber malade
+- delɔɔcoo - l'agression
+- denboo - le ventre
+- dengela - (rad) superposer
+- dengelaa/ dengela - superposer
+- dɛɛluo - les vers
+- dɛluo - le ver
+- dɛndɔɔ - la houe, la pirogue
+- dɛnɛ - un acte (avec un adjectif)
+- dɛnɛkɛndɔɔ - le bonheur
+- dɛnɛpalaa - le malheur
+- dɛnkpɔɔ - plat
+- dɛnɔɔ - l'acte
+- dɛŋi - (rad) crier
+- dɛŋio/ dɛŋi - crier
+- dɛɔɔ - pâte de riz, farine, etc (✎ "du" corrected to "de")
+- di di - chaque matin
+- dia - (rad) manger
+- diɛɛmulen - la langue
+- diɛn - l'aprèsdemain
+- dii - (rad) tuer
+- diinɔnndo/ diinun - se tuer
+- diinun - (rad) se tuer
+- dil - (rad) manger pour
+- dillo/ dil - manger pour
+- dimi - (rad) dire
+- dimi sebɔɔ - (rad) lire
+- dimio/ dimi - dire
+- dimul - (rad) adresser
+- dimullo/ dimul - adresser
+- dinaa - la religion musulmane
+- dindin - (rad) rendre propre
+- dindinndo/ dindin - rendre propre
+- dio - la raison
+- dio - la porte
+- dioo/ dio, de, dia, di - manger
+- divɔɔ/ diw - mur ; murir
+- diyɔɔ/ dii - tuer
+- diyɔɔ koya - l'assassinat
+- diyɔɔkoyaa - assassinat
+- dolinnde - l'hameçon
+
+## PDF p. 14
+
+- domaa - la chemise
+- domavanlana - la robe
+- donia tusio - abaisser
+- donnde - hameçon
+- doo - la porte
+- doosunɔɔ - le chasseur
+- dosolen - la chasse à courre
+- dosonɔɔ - le chasseur
+- dɔ pala - l'apresmidi
+- dɔkuo - canard
+- dɔkuwvo - le canard
+- dɔnanndo - petit
+- dɔndɔɔ - prêt
+- dɔnɔnndo/ dɔunun - rempli avec qqch
+- dɔɔngɔ le salavusuo - le base militaire
+- dɔunun kɔndɔfili - stupéfait, l'etonnement
+- dɔvɔɔ/ dɔw - mettre dedans; mettre sur; verser; remplir ~~avec~~ à merveille (✎)
+- dɔvɔɔ/ dɔw - pondre les oeufs
+- dɔw - (rad) pondre oeufs
+- dɔw - (rad) pondre les ouefs
+- dɔw/ dɔvɔɔ - (rad) mettre dans, mettre sur, verser, remplir ~~avec~~ à merveille (✎)
+- dɔwvo/ dɔw - pondre oeufs
+- dua - un grand oiseau qui s'appelle chargnard
+- dua - la bénédiction
+- dubalenndo - le miroir
+- duɛn - lentement; doucement
+- dukudukuo - une petite île; un tertre sur la route; un endroit haut dans le champ (✎ "dans" corrected to "sur")
+- dulunndo - le coude
+- dunbu kilitia - la religion chrétienne
+- dunbulan - racines
+- dunbulen - la racine
+- dunbullen - le citron vert
+- dunburan - racines
+- dunduo - le tambour
+- duniaa - le monde, l'humanité
+- dunndo - le coude; employer pour mesurer du tissu
+- duo - la poitrine, le sein
+- duteo - le thé
+- dutinɔɔ - le chef de la ville
+- duudulen - le cache-cache
+- faaboo - le perroquet
+- faandaa - le lance-pierre, la fronde
+- fakpa - frapper à la main (passé et inf) ?
+- fakpaa - le couteau, coupe-coupe
+- fala -
+- falei - pièce
+- falɛiyo - Jeudi
+- falle - un endroit public dans le village
+- fallo - un vieil homme
+- falnɔɔ - beau-père/beau fils
+- fan - rapide, prompt
+- fanda - (rad) donner un cadeau
+
+## PDF p. 15
+
+- fandaa/ fanda - donner un cadeau
+- fandaa - un don ou cadeau offert à un étranger
+- fandaa - le cadeau donné à l'invité
+- fandalan - les cadeaux de bienvenue
+- fangaa - la force; puissance; authorité
+- fanndo - quitter
+- fanndo - la lance, l'épée
+- fanŋan - enlever
+- Fanta - le nom d'une femme
+- faŋa - (rad) enlever
+- faŋaa/ faŋa - enlever
+- faŋan - (rad) quitter, partir
+- faŋanndo/ faŋanndo - quitter; partir
+- faŋia - (rad) enlever beaucoup
+- faŋiaa/ faŋia - enlever beaucoup
+- farie - le corps; la chair; membre
+- Fasa - un nom
+- fasa fasan - le nuage de gouttelettes; la bruine
+- fasaa - le muscle
+- fau - tout
+- fayaa - la dynamite
+- fayaa cɔwvo - la bombe
+- fayɛiyo - Mercredi
+- felenfelenndo - tourbillon
+- felengɔyɛi - la jeunesse
+- felɔɔ - rougeole
+- feu - tout à fait, complètement
+- fɛɛ - doucement; lentement; sans bruit
+- fɛɛya - (rad) nettoyer, defricher
+- fɛɛyaa/ fɛɛya - défricher, nettoyer
+- fɛɛyal - (rad) défricher pour
+- fɛɛyallo/ fɛɛyal - défricher pour
+- fɛɛyia - (rad) défricher en leurs endroits ?
+- fɛɛyiaa/ fɛɛyia - défricher en leurs endroits?
+- fɛfɛyanndo - spacieux
+- fɛkɛi - aérer
+- fɛlɛku - mou; faible
+- fɛlɔɔ - le van, le plateau de rameaux pour séparer le riz de fonio (✎ "du fouin" corrected)
+- fɛnɛi - la langue des Maninke
+- fɛnɛnɔɔ - (les gens) Maninke (✎ "un gens" corrected)
+- fɛngɔɔ - le pot d'argile employer dans la maison pour contenir de l'eau
+- fɛnɔɔ - le beurre
+- fɛɔ - le défaut; la tache
+- fɛrɔɔ - un plateau de rameaux pour séparer le riz de fouin, le van
+- fɛu - le termitière
+- fikpi - avec la force; avec la violence
+- filaniiyo - le tricot
+- filofiloo - rapide
+- fiŋaa - le père
+- fiŋaa - le père
+- fisa - mieux
+- fitilio - le crépuscule
+- foende - la paille qui est laissée apres le ~~grain s'est battre~~ ✎ battage
+
+## PDF p. 16
+
+- foenɔɔ - le sorcier, le médecin (✎ "médicin" corrected)
+- fofio - pas plein,
+- foiyo - l'ancêtre
+- fola -
+- folaa/ fola - tomber, perdre
+- folengio - un jeune, masculin ou feminin
+- folengiyɛi - (la) adolescence; jeunesse; vierge
+- folio - la grossesse
+- foloo - un poisson
+- foloo - la vallée
+- fondaa - le lieu
+- fondanta -
+- fondeiyo - la bronchite
+- fondolo - les épinards
+- fondoo - vide, nu, pelé
+- foo - le goitre
+- foofoo - la fronde
+- fosan - un genre de riz
+- fɔ - il faut que
+- fɔ ho - sauf
+- fɔfɔ - immédiatement; toute suite
+- fɔfɔɔ - (la) écorce d'une orange après ~~étant~~ pressée (✎ "l'avoir")
+- fɔinɔɔ - sorcier
+- fɔiya - les ancêtres
+- fɔlɔnndo - première; d'abord, au debut; autrefois
+- fɔlɔɔ - une certaine sorte de mouche
+- fɔn - bien
+- fɔngɔfɔngɔɔ - un oiseau avec une corne
+- fɔɔ - quant à? jusqu'à? pour autant que?
+- fɔɔnde - le poumon
+- fɔɔndon - les poumons
+- fɔrɔɔ - une certaine sorte de mouche
+- fɔyɔnnde - poumon
+- fransie - français, whites, French people (✎ "blancs")
+- fransinɔɔ - un Français
+- fuande - aluminium
+- fuinde - la démangeaison; les petits boutons sur la peau
+- fulaa - (rad) sortir
+- fulaa/ fula - sortir
+- fulakɔlio - la trahison
+- funguo - la poudre à canon
+- funkpuo - la trace ~~qui est laissée du~~ d'un coup de fouet (✎)
+- funnden - le coton
+- fuo - la fleur
+- fuo - l'éponge
+- fuo - mars
+- fura - apparaître; sortir; partir (passé, inf)
+- fura cien - sortir, être divulgué; apparaître
+- furula cien - apparaître à (passé, inf)
+- ha - ces (pour les choses inanimée) un pron demonstratif
+- ha - (rad) rassembler ses forces, barrer
+- haa - quant à, jusqu'à ce que
+- haa/ ha - rassembler ses forces, barrer
+- haalaa - la pluie
+
+## PDF p. 17
+
+- haalan - la pluie
+- haami - jusqu'a ce que
+- haiyɛɔ - la bonne chance
+- hakio - le péché
+- Hala - Dieu
+- halaa - le ciel,
+- halaa - la pluie
+- halacucaa - le bruine, la pluie
+- halaki - (rad) périr
+- halakio/ halaki - périr
+- halakio - la destruction
+- halako - pour que, afin que
+- halatala - le paradis
+- halɛiyo - Samedi
+- hali - même si; quand bien même
+- haliyɛnɛ - le Paradis
+- halumɛtio - l'allumette
+- hande - pour que, afin que
+- handɔnndo leco - (rad) s'accumuler
+- handɔɔ - plus
+- handɔɔ/ handu - placer
+- handɔɔ lecoo - mettre sur, placer sur, ajouter, accumuler
+- handu - (rad) mettre sur, placer sur
+- handullo - le bouclier
+- handun leco - (rad) s'accumuler
+- hangɔɔ - se réchauffer
+- hangullo - la chaleur
+- hantenge - pardonez-moi, excuses-moi.
+- hariyɔɔ - bonne chance
+- haru - (rad) saisir, retenir qqch dans le mains
+- harun - (rad) s'échapper
+- hau - aujourd'hui
+- haw - (rad) bloquer
+- haw ba - (rad) accabler
+- haw ba - incapable à cause des circonstances
+- hawnɔnndo/ hawnun, hewnun - se bloquer
+- hawnun - (rad) se bloquer
+- hawvo/ haw, hew - bloquer
+- he - ce, cette
+- heaw ba - (rad) préférer plus que, faire plus que
+- heelu - (rad) faire montrer
+- heeluo/ heelu - faire montrer
+- hel - (rad) monter
+- helɔnndɔ/ helun - fier;
+- helɔɔ/ hel - monter
+- helu - (rad) se lever, faire monter
+- helun - (rad) fier
+- heluo - soulever, faire monter
+- hem - beaucoup
+- hemndo - une gourd
+- hengen - beaucoup
+- hew - bloquer (neg)
+- hew ba - préferer plus que, faire plus que
+- hew ba - être pressé, se depêcher, dépasser
+
+## PDF p. 18
+
+- hewnun - (neg) se bloquer
+- hɛi - (rad) séparer le riz, vanner
+- hɛiyo/ hɛi - séparer le riz, vanner
+- hɛli - (rad) trier
+- hɛlihɛli - (rad) trier plusieurs fois
+- hɛlihɛlio/ hɛlihɛli - trier plusieurs fois
+- hɛlio/ hɛli - trier
+- hɛlle - le sel
+- hɛnan - (rad) plaisir, faire plaisir
+- hɛnanndo/ hɛnan - plaire, faire plaire, admirer
+- hɛngɛiyo - un grand bol de bois qui apporte de l'eau
+- hɛngɔɔ - un tambour du chef pour appeler les peuples
+- hɛngɔɔ - un bois taillé sousforme de bol pour extraire l'huile rouge; un bol (g)
+- hɛri - (rad) choisir
+- hɛrin - (rad) être choisi, élire (✎ "élireé" corrected; ✎ "u")
+- hɛrinndo/ hɛrin - être choisi; être élu (✎ "élirer" corrected)
+- hɛrio/ hɛri - choisir
+- hiahian - (rad) montrer la préférence
+- hiahianndo/ hiahian - montrer la préférence
+- hian - (rad) montrer la préférence
+- hianndo/ hian - montrer la préférence
+- hilihiliei - le hoquet
+- hin - venir (neg)
+- hindɔɔ/ hindu - enfler, grossir; un furoncle
+- hindu - (rad) enfler, grossir, grandir
+- hini - (rad) se coucher
+- hinie/ hini - se coucher
+- hinndɔɔ - le furoncle, l'éruption, l'enflure
+- hinnɔnndo/ hinnun - être tourné; aller (✎ "se" struck)
+- hinnun - (rad) être tourné, aller (✎ "se" struck)
+- hinul - (rad) menacer
+- hinullo/ hinul - menacer
+- hiŋ - (rad) tourner qqch
+- hiŋɔɔ/ hiŋ - tourner qqch
+- hiovɔɔ/ hiow, hiw, hiaw - dépasser
+- hiɔlundɔɔ - quatrième
+- hiɔɔlu - quatre
+- hiɔw - plus
+- hiru - (rad) secouer, agiter
+- hiruan - le désir de la viande (✎ "désiré pour" corrected)
+- hirul - (rad) trembler avec les armes; haleter ~~comme on est remplir d'air~~ ✎ essouflé
+- hirullo/ hirul - trembler avec les armes; haleter ~~quand on est rempli d'air~~ (✎ "se" struck)
+- hiruo/ hiru - secouer; agiter
+- hiu - (rad) passer, interpréter
+- hiu ba - être pressé; depasser une limite (passé de heu ba)
+- hiuo/ hiu - passer; interpréter
+- hivi - (rad) faire passer
+- hivihivi - (rad) faire passer plusieurs fois
+- hivihivio/ hivihivi - faire passer plusieurs fois
+- hivio/ hivi - faire passer
+
+## PDF p. 19
+
+- hiw ba - (rad) abuser
+- hiwvo ba/ hiw ba - abuser
+- hiyinɔɔ - le pélerin
+- hiyioo - le pélerinage
+- ho - cette, ce
+- hoeiye - le vent, le froid
+- hoeiye - le palu, la grippe
+- hoiye - le vent; le froid; l'air
+- hollen - champignon
+- hollo - le champignon
+- holnanndo - s'attacher
+- holnɔnndo - se cramponner à; se coller à
+- holɔɔ - attacher, joindre; renverser, faire tomber; coller
+- hoondo - la sangsue
+- houvianndo - être pressés l'un contre l'autre; se percer (✎ "percé" corrected to "pressés")
+- hovio - percer plusiers fois, piquer ...
+- hovɔɔ - passer, dépasser
+- hɔa - (rad) percer, piquer
+- hɔaŋ - (rad) siffler
+- hɔlaa piɔmndo - le masque
+- hɔlahiŋaa - le vertige
+- hɔlla - le visage; le côté
+- hɔlle kongelen - le sourcil
+- hɔllen - l'oeil
+- hɔllo - le bout d'un objet, d'une branche
+- hɔlta karalan - impitoyable; avare; durete'de vie
+- hɔlta vesɛlɛran - la hardiesse; le courage; l'impitoyable
+- hɔlten - l'oeil
+- hɔnlesɛnnɔɔ - le flutiste
+- hɔnɔɔ/ hɔnu - desherber
+- hɔŋɔɔ - siffler
+- hɔɔ - une personne liberée
+- hɔɔ/ hɔa - percer; piquer
+- hɔɔlɔɔ - le serpent
+- hɔɔnie - la croute de riz dans le pot, après avoir fait cuire le riz; le gratin
+- hɔɔnu - (rad) désherber
+- hɔɔnuo/ hɔɔnu - désherber
+- hɔɔrɔɔ - la vipère
+- hɔɔyɛi - la liberté
+- hɔrɔnndo/ hɛrun - échapper
+- hɔrɔɔ - saisir, retirer qqch dans les mains de qq'un
+- hɔvi - (rad) piquer
+- hɔvio/ hɔvi - piquer
+- hɔvɔɔ/ hɔw, how, hɔaw - injecter
+- hui - (rad) tromper, trahir
+- huinde - la démangeaison; les boutons sur la peau
+- huinden - la gale
+- huiyo/ hui - tromper, trahir
+- hul - (rad) souffler
+- huli - (rad) salir avec la poussière
+- hulio/ huli - salir avec la poussière (comme les chaussures avec la poussiere)
+- hullan - le cerveau
+
+## PDF p. 20
+
+- hulma pɔmɔan - la cervelle
+- hulɔnndo/ hulun - se vider
+- hulɔɔ - souffler
+- hulɔɔ/ hulu - éventer, vider
+- hulu - (rad) vider
+- hulun - (rad) se vider
+- hun - (rad) venir
+- hun a - (rad) apporter, venir avec
+- hunbue - blanc
+- hunbuo - blanc, blanche
+- hunndo - le bas-fond
+- hunɔɔ/ hun, hin - venir
+- hunɔɔ a - venir avec; apporter
+- huri - (rad) faire une pâtée de, piler bien
+- hurio/ huri - faire une purée de, piler bien
+- hurɔɔ - vider
+- huulu - (rad) sauter
+- huuluo/ huulu - sauter
+- i - je
+- i nɛ nɛ - qui?
+- icali - être assis
+- icɔllo - le soir
+- idii - le matin
+- idio - minuit
+- ii - J'étais... (Je avant les verbes dans le plus-que-parfait de l'indicatif)
+- ikɛi - à côté de
+- ipala - la journée
+- isisi - debout
+- ka - seulement
+- kaa - l'act de faire coloré le tissu avec indigo
+- kaa - le grenier
+- kaafo - la bride, sentier d'un cheval
+- kaala - (rad) aimer, chérir
+- kaalaa/ kaala - aimer, chérir
+- kaamaa - un événement ou une action merveilleux, le problème
+- kaamɔɔ - l'ami, l'amie
+- kaan - indigo
+- kaanden - rendez-vous; la classe; le culte; la doctrine
+- kaanden - l'école
+- kaandennɔɔ - les étudiants; disciples; les croyants
+- kaangoo - le termite
+- kaangua - les fourmis blanches, les termites
+- kaasonnɔɔ - l'ainé
+- kaasoo - la prison
+- kabalen - une tresse sur la tête
+- kabi - depuis (puisque?)
+- kabilaa - le clan
+- kafalan - l'injustice
+- kafara - croiser (les mains) (inf, passé)
+- kafaran - ruse; la tromperie; monsonge
+- kafilen - l'arbre du café
+- kafio - café
+- kafuo - le festin, la fête

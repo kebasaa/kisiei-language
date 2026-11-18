@@ -5,7 +5,7 @@
 > - **Source:** Académie des Langues (Conakry), terminology list "Idéologie", same series as the Langue, Arts and Histoire lists. Undated; no author on the pages.
 > - **Incomplete scan:** the file starts at typed page 9 (entry 249, *Droit*); typed pp. 1–8 (entries 1–248, A to D) are missing.
 > - **Content:** numbered French terms of ideology, politics, economy and society, each with its Kisiei translation; kept as data for the lexicon.
-> - **Progress:** PDF pp. 1–11 (entries 249–590) done; pp. 12–13 to follow.
+> - **Complete** as far as the scan goes: PDF pp. 1–13, entries 249–656.
 > - **Spelling:** the 1970s orthography of the original, in NFC; nothing respelled. Words struck through in the typescript are given as `~~…~~`.
 > - **Marks:** `[?]` illegible; `[…]` cut off.
 
@@ -470,3 +470,98 @@
 | 588 | Scolarisation | Kaanden |
 | 589 | Solidaire | Dèmèlaa |
 | 590 | Solidarité | Maalianndo, dèmèlianndo |
+
+## PDF p. 12 (typed p. 20)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 591 | Sorcellerie | Koeilen |
+| 592 | Sorcier | Koeinöö |
+| 593 | Structure | Lookuo vaa |
+| 594 | Stratège | Vana kökalu työwvo, loonuntyöwnöö |
+| 595 | Soulèvement | Työnönndo, piasaa |
+| 596 | Soumis | O nangu botten |
+| 597 | Soumission | Botten nangöö |
+| 598 | Souverain | Masanö Kölèiyo, tyoobandötyo |
+| 599 | Souveraineté | Vanapilayèi |
+| 600 | Subversif | Vana lakasiaa |
+| 601 | Subversion | Lakasiaa |
+| 602 | Suffrage | Votte fawfawvo |
+| 603 | Suprématie | Hiovöö, kuumbönndo kpu |
+| 604 | Suprême | Tyengoo; mèèlaa, mèèlula bèndan |
+| 605 | Syli | Kamaa |
+| 606 | Syndicat | Diompilè tyuaabaalaa |
+| 607 | Syndical | A diompilè tyuaabaalaa o köö |
+| 608 | Syndicalisme | Kökalu niilu tyuaabaa |
+| 609 | Syndicaliste | Tyuaabaalanöö |
+| 610 | Système | Pumboo, söön hèènduan |
+
+### IDEOLOGIE T
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 611 | Taxes régionales | Muloo, duntiiyo (dutiiyo) |
+| 612 | Terrorisme | Yolèi |
+| 613 | Théorie | Yiyanndo, söön yiyanndon |
+| 614 | Torture | Bèpèlaa, yöökpiaa, saangiaa |
+| 615 | Trafic | Töfèlen |
+| 616 | Trahison | Fulaa kööli, yaafalen |
+| 617 | Traître | Yaafanöö |
+| 618 | Traîtrise | Yaafalen |
+| 619 | Transformation | Mangaliaa |
+| 620 | Travail | Baalaa ; vallo |
+| 621 | Travailleur | Vanavallo |
+| 622 | Tribu | Suunvanndo |
+
+(Syli, no. 605, is the Guinean currency of the time; its translation *Kamaa* is "elephant", the meaning of *syli* in Susu.)
+
+## PDF p. 13 (typed p. 21)
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 623 | Tributaire | Babèngunöö |
+| 624 | Tribune | Bandoo |
+| 625 | Triomphant | O … Mayoomoo |
+| 626 | Triomphe | Fulaa a mayoomu |
+| 627 | Tolérant | Vana biunndo |
+| 628 | Tolérance | Biuvönndo |
+| 629 | Tromperie | Huiyo, kpaavèi |
+| 630 | Troubles | Laasilaasioo, hölaa hinnanda |
+| 631 | Tutelle | Babènguyèi |
+
+### IDEOLOGIE U
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 632 | Unanime | Diompilè |
+| 633 | Unanimité | Fawfawvo |
+| 634 | Unification | Mösönhaa, muulianndo |
+| 635 | Unifier | Mösönhaa muulianndo |
+| 636 | Union | Bèndaa |
+| 637 | Unique | Denkeloo |
+| 638 | Unité | Diompilöö |
+| 639 | Universalité | Lekaayèi |
+| 640 | Universel | O balu lènndenndo, lekaao, nènèkaa |
+| 641 | Urnes | Kesu votteo |
+| 642 | Utopie | Söèi yönnuntei |
+
+### IDEOLOGIE V
+
+| No. | Français | Kisiei |
+| --- | --- | --- |
+| 643 | Valeur | Baa |
+| 644 | Valorisation | Baa yöngoo |
+| 645 | Vérification | Mèèndanndo, fula köölioo |
+| 646 | Vérifier | Mèèndanndo, fulaa kööli |
+| 647 | Vérité | Tonyaa |
+| 648 | Vertu | Kaakènndo |
+| 649 | Victoire | Kènyèö |
+| 650 | Vigilant | Vana mèngèlao, puèèntoo |
+| 651 | Vigilance | Mèngèlaa |
+| 652 | Vigueur | Yoomuan |
+| 653 | Vil | Nölebèèloo |
+| 654 | Violence | Ikpokukpokuei |
+| 655 | Vocation | Hènanndo |
+| 656 | Vote | Votteo |
+
+(End of the list.)
