@@ -121,6 +121,8 @@ Ni Paulme ni *Sandara Kissia* ne notent les tons. Le tableau ci-dessous a été 
 
 D'autres correspondances valent pour beaucoup de mots de Paulme, mais pas pour tous : son *u* est souvent le *o* de la Bible (*buryo* « blesser », Bible {{booluu}}) ; son *-o* final est souvent *-ɔɔ* (*namtano*, Bible {{namtanɔɔ}}), comme dans les noms d'agent ; son *-e* final est parfois *-en* (*bolle*, Bible {{bollen}}) ; son *ty-* est parfois *ki-* (*tyallo*, Bible {{kiallo}}) ; son *y-* est parfois *ɲ-* (*yuna*, Bible {{ɲuna}}). Sa marque /S./ signifie « sud » (mot du Sud), et non un troisième parler.
 
+*Sandara Kissia* et le *Lexique* écrivent le pronom et *pila* « lui-même, seul » en un seul mot (*ndupila*, *yapilɛ*) ; la Bible écrit deux mots : {{ndu pila}}.
+
 !!! keita "Guéckédou et Kissidougou"
     Quand Paulme donne une forme de Guéckédou et une de Kissidougou, la Bible a souvent celle qui est proche de Guéckédou : Paulme *tyɛyo* (G.) / *kyɛyo* (K.) « maison », Bible {{cɛiyo}}. C'est une tendance observée sur quelques mots, pas une règle ; c'est la forme de la Bible qui décide.
 

@@ -16,6 +16,7 @@ ansan-noun-s1,ansan-noun,incense,BKG[EXO.25.6],encens,4.9.8,,94,EXO.25.6
 antele-interj-s1,antele-interj,polite greeting (at midday),Paulme1964[104],formule de politesse (à midi),4.3.7,,,
 ava-interj-s1,ava-interj,"all right, well then",BKG[JDG.14.13];LexiqueAnonyme[3],"d'accord, eh bien",9.2.7;9.4.6,,26,JDG.14.13
 avokaanohoh-noun-s1,avokaanohoh-noun,lawyer,AcademieTerminologie[histoire 100],avocat,4.7.5;6.1.1,,,
+awa-interj-s1,awa-interj,"well, so (sentence-initial)",SandaraKisia[fable 4],"eh bien, alors (en tête de phrase)",9.2.7;9.6.3,,,
 ba-ideo-s1,ba-ideo,sound of a drop falling on a smooth surface,Childs2000[2],bruit d'une goutte qui tombe sur une surface lisse,9.2.8,,,
 ba-noun-s1,ba-noun,"side; (o … ba) with, at, in the hands of; (a ba …) towards",BKG[GEN.4.1];Paulme1964[3];LexiqueAnonyme[3],"côté ; (o … ba) chez, auprès de, aux mains de ; (a ba …) du côté de",8.6.3;9.2.4,,3579,GEN.4.1
 ba-o-ba-adv-s1,ba-o-ba-adv,"everywhere, wherever",Childs2000[8],"partout, où que ce soit",8.5,,,
@@ -443,7 +444,7 @@ bohuleng-noun-s1,bohuleng-noun,species of mushroom; eggplant,Childs2000[30],esp�
 bohwvo-noun-s1,bohwvo-noun,clay; natural dye (?),BKG[JOB.10.9];LexiqueAnonyme[8],argile ; teinture naturelle (?),1.2.2;6.6.2,,4,JOB.10.9
 bokio-noun-s1,bokio-noun,bowl,Keita1979[159];LexiqueAnonyme[7],écuelle,6.7.7,,,
 bokpohni-noun-s1,bokpohni-noun,young girl (16 or younger),Childs2000[21],jeune fille (16 ans ou moins),2.6.4,,,
-bole-adv-s1,bole-adv,"like, thus, in the same way; (bole bole) all the same",LexiqueAnonyme[7],"comme, ainsi, de la même façon ; (bole bole) quand même",9.2.2,,,
+bole-adv-s1,bole-adv,"like, thus, in the same way; (bole bole) all the same",LexiqueAnonyme[7];SandaraKisia[proverbe 4],"comme, ainsi, de la même façon ; (bole bole) quand même",9.2.2,,,
 bolindo-noun-s1,bolindo-noun,"large bow harp (on a gourd, with three strings)",Paulme1964[11],"grande harpe arquée (sur calebasse, à trois cordes)",4.2.3,,,
 bolingndo-noun-s1,bolingndo-noun,large curved three-stringed harp,Childs2000[21],grande harpe courbe à trois cordes,4.2.3,,,
 bolinndo-noun-s1,bolinndo-noun,wound,Keita1979[161];LexiqueAnonyme[7],blessure,2.5.3,,,
@@ -475,7 +476,7 @@ bongaa-verb-s1,bongaa-verb,make stumble; snare; slap (Keita),Keita1979[110];Lexi
 bongbongndo-noun-s1,bongbongndo-noun,species of bird,Childs2000[22],espèce d'oiseau,1.6.1,,,
 bongibongio-verb-s1,bongibongio-verb,"stagger, totter, keep stumbling",BKG[ISA.29.9];Childs2000[22],"chanceler, tituber",7.2.1,keep stubbing one's toe,3,ISA.29.9
 bongio-verb-s1,bongio-verb,"stumble, trip (of several, or repeatedly)",BKG[JER.6.21];Childs2000[22],"trébucher, buter (plusieurs, ou à plusieurs reprises)",7.2.1,,8,JER.6.21
-bonio-noun-s1,bonio-noun,bowl,Paulme1964[11];LexiqueAnonyme[7],bol,5.1;6.7.7,,,
+bonio-noun-s1,bonio-noun,bowl,Paulme1964[11];LexiqueAnonyme[7];SandaraKisia[fable 3],bol,5.1;6.7.7,,,
 bonyaa-noun-s1,bonyaa-noun,"prerogative, privilege",AcademieTerminologie[ideologie 516],"prérogative, privilège",4.5.6,,,
 bonyalan_kuunaa-noun-s1,bonyalan_kuunaa-noun,abolition of privileges,AcademieTerminologie[histoire 4],abolition des privilèges,4.6;4.7,,,
 bonyei-noun-s1,bonyei-noun,clay water jar,AcademieTerminologie[arts 45],canari (jarre en terre),6.7.7;6.6.4,,,
@@ -805,7 +806,7 @@ cohngguehi-noun-s1,cohngguehi-noun,large hump-backed fish,Childs2000[57],gros po
 cohngguehi-noun-2-s1,cohngguehi-noun-2,traditional leggings open at the sides,Childs2000[57],culotte traditionnelle ouverte sur les côtés,5.3.3,,,
 cohngndeng-noun-s1,cohngndeng-noun,crown of a young palm tree,Childs2000[57],couronne d'un jeune palmier,1.5.5,,,
 cohngohi-noun-s1,cohngohi-noun,loincloth turned dance costume,Keita1979[144];LexiqueAnonyme[11],cache-sexe devenu costume de danse,5.3.3;4.2.4,,,
-cohngohoh-verb-s1,cohngohoh-verb,"dish up, serve out (rice from the pot into bowls)",Paulme1964[114];LexiqueAnonyme[11],"servir, distribuer (le riz de la marmite dans les bols)",5.2.1,,,
+cohngohoh-verb-s1,cohngohoh-verb,"dish up, serve out (rice from the pot into bowls)",Paulme1964[114];LexiqueAnonyme[11];SandaraKisia[fable 20],"servir, distribuer (le riz de la marmite dans les bols)",5.2.1,,,
 cohngohoh-verb-2-s1,cohngohoh-verb-2,fish with a net (women's drive fishing),Childs2000[57],pêcher au filet (pêche collective des femmes),6.4.5,,,
 cohnnden-noun-s1,cohnnden-noun,new shoots from the heart of the palm,LexiqueAnonyme[11],jeunes pousses du cœur du palmier,1.5.5,,,
 cohnndo-noun-s1,cohnndo-noun,"bunch (of bananas, palm nuts)",Keita1979[16];Childs2000[57],"régime (de bananes, de noix de palme)",1.5.5,bunch or stalk of bananas,,
@@ -842,10 +843,10 @@ cohwtaasio-noun-s1,cohwtaasio-noun,guerrilla warfare,Keita1979[156];LexiqueAnony
 cohwviaa-verb-s1,cohwviaa-verb,"gather up, collect; peck up (grain)",BKG[GEN.31.46];LexiqueAnonyme[11];Childs2000[59],"ramasser, amasser ; picorer (le grain)",7.5.1,"pick, collect",66,GEN.31.46
 cohwvian-verb-s1,cohwvian-verb,"gather up, plunder (spoil); be gleaned",BKG[2KI.3.23];Childs2000[59],"ramasser, piller (le butin) ; être grappillé",7.5.1;4.8.3,pick up one by one; steal,2,2KI.3.23
 cohwvo-noun-s1,cohwvo-noun,"war ; war, battle; (pl. cɔwva) armies, warriors",BKG[GEN.14.2];Keita1979[156];Paulme1964[115];LexiqueAnonyme[11];AcademieTerminologie[histoire 185];Childs2000[59],"guerre ; guerre, combat ; (pl. cɔwva) armées, guerriers",4.8.3,"war; also the making of weapons, blacksmithing",769,GEN.14.2
-cokaacoo-noun-s1,cokaacoo-noun,toad,Keita1979[137];Paulme1964[113];LexiqueAnonyme[10];Childs2000[51],crapaud,1.6.1,"toad, frog",,
+cokaacoo-noun-s1,cokaacoo-noun,toad,Keita1979[137];Paulme1964[113];LexiqueAnonyme[10];SandaraKisia[fable 14];Childs2000[51],crapaud,1.6.1,"toad, frog",,
 collo-noun-s1,collo-noun,lower stomach; (pl.) stomachs,Childs2000[51],bas-ventre ; (pl.) estomacs,2.1.2,,,
 colohoh-verb-s1,colohoh-verb,bite,LexiqueAnonyme[10],mordre,1.6.4;5.2.2,,,
-colohoh-verb-2-s1,colohoh-verb-2,cut; (colu) cut oneself,LexiqueAnonyme[10],couper ; (colu) se couper,7.8.3,,,
+colohoh-verb-2-s1,colohoh-verb-2,cut; (colu) cut oneself,LexiqueAnonyme[10];SandaraKisia[fable 11],couper ; (colu) se couper,7.8.3,,,
 colundo-noun-s1,colundo-noun,highly flammable tree (bark used against cough and in potions),Paulme1964[115];Childs2000[53],arbre très inflammable (écorce contre la toux et pour des remèdes),1.5.1;2.5.7,,,
 combei-noun-s1,combei-noun,female genitals (word avoided in mixed company),Childs2000[51],organes génitaux féminins (mot évité en présence d'hommes),2.1.8;2.6.2,,,
 comullo-verb-s1,comullo-verb,"ring, resound; sound, sonorous",BKG[EXO.28.35];AcademieTerminologie[arts 265],"résonner, sonner ; son, sonore",2.3;4.2.3,,1,EXO.28.35
@@ -1025,7 +1026,7 @@ dehnehsinaai-noun-s1,dehnehsinaai-noun,grammar,AcademieTerminologie[langue 191],
 dehnehsinaasindohoh-noun-s1,dehnehsinaasindohoh-noun,history,AcademieTerminologie[histoire 381],histoire,3.5.4;8.4,,,
 dehnehvohndo-noun-s1,dehnehvohndo-noun,land of the wicked after death (in the west),Paulme1964[18],pays des méchants après la mort (à l'ouest),4.9.6,,,
 dehngbohoh-noun-s1,dehngbohoh-noun,"plain, valley; (pl.) lowlands",BKG[GEN.11.2];Childs2000[76],"plaine, vallée ; (pl.) bas pays",1.2.1,,15,GEN.11.2
-dehngio-verb-s1,dehngio-verb,"shout, cry out",LexiqueAnonyme[13],crier,3.5.1,,,
+dehngio-verb-s1,dehngio-verb,"shout, cry out",LexiqueAnonyme[13];SandaraKisia[fable 1],crier,3.5.1,,,
 dehngulten-noun-s1,dehngulten-noun,"glowing coal, ember",BKG[PRO.25.22];Childs2000[76],"braise, charbon ardent",5.5,,1,PRO.25.22
 dehnkpohoh-adj-s1,dehnkpohoh-adj,flat (or: dish),LexiqueAnonyme[13],plat,8.3.1,,,
 dehnndan_kunda-noun-s1,dehnndan_kunda-noun,fleet,AcademieTerminologie[histoire 344],flotte,4.8.3;7.2.4,,,
@@ -1202,6 +1203,7 @@ dolangdolangndo-noun-s1,dolangdolangndo-noun,nightjar (with long tail streamers)
 dolinnde-noun-s1,dolinnde-noun,fish hook,BKG[MAT.17.27];Keita1979[156];LexiqueAnonyme[13],hameçon,6.4.5,,5,MAT.17.27
 dolio-noun-s1,dolio-noun,tree (Parkia bicolor),Paulme1964[21],arbre (Parkia bicolor),1.5.1,,,
 dolio-noun-2-s1,dolio-noun-2,kind of tree,Childs2000[86],sorte d'arbre,1.5.1,,,
+dom-noun-s1,dom-noun,"noise, sound",SandaraKisia[fable 5],"bruit, son",2.3.2,,,
 doma-cohuwo-noun-s1,doma-cohuwo-noun,protective amulet (worn),Childs2000[86],amulette de protection (portée sur soi),4.9.8,,,
 doma-le-behnggoo-noun-s1,doma-le-behnggoo-noun,undershirt,Childs2000[86],"maillot de corps, chemise de dessous",5.3,,,
 domaa-noun-s1,domaa-noun,"shirt, garment ; garment, clothing, cloak; boubou, robe",BKG[GEN.39.12];Keita1979[144];Paulme1964[21];LexiqueAnonyme[14];Childs2000[86],"chemise, vêtement ; vêtement, habit, manteau ; boubou",5.3,"shirt, gown, robe",17,GEN.39.12
@@ -1252,7 +1254,7 @@ dundoo-noun-s1,dundoo-noun,"drum, tambourine",BKG[EXO.15.20];Keita1979[163];Paul
 dundoo-noun-2-s1,dundoo-noun-2,funnel-shaped fishing net (set on the river bed),Paulme1964[22],filet de pêche en entonnoir (posé au fond de la rivière),6.4.5,,,
 dundopulule-noun-s1,dundopulule-noun,plant (leaf used to treat totemic offences),Paulme1964[22],plante (feuille contre les infractions totémiques),1.5;4.9.5,,,
 dundusohoh-noun-s1,dundusohoh-noun,small brown rough-backed toad (puffs up),Childs2000[91],petit crapaud brun à dos rugueux (qui se gonfle),1.6.1,,,
-duniaa-noun-s1,duniaa-noun,humanity; world,Keita1979[148];LexiqueAnonyme[14];AcademieTerminologie[histoire 385],humanité ; monde,4.1,,,
+duniaa-noun-s1,duniaa-noun,humanity; world,Keita1979[148];LexiqueAnonyme[14];AcademieTerminologie[histoire 385];SandaraKisia[fable 8],humanité ; monde,4.1,,,
 dunndo-noun-s1,dunndo-noun,measure (of length); elbow; cubit (to measure cloth),BKG[GEN.6.15];LexiqueAnonyme[14],mesure (de longueur) ; coude ; coudée (pour mesurer le tissu),8.2.8,,292,GEN.6.15
 dunyehi-noun-s1,dunyehi-noun,"feast, festival; ceremony",BKG[LEV.23.2];AcademieTerminologie[arts 111];Childs2000[91],fête ; cérémonie,4.2.2;4.9.5,"feast, party, celebration, especially at someone's death",7,LEV.23.2
 dunyehi_lohohlatiohohnde-noun-s1,dunyehi_lohohlatiohohnde-noun,arts fortnight,AcademieTerminologie[arts 213],quinzaine artistique,4.2.2,,,
@@ -1363,7 +1365,7 @@ fehehn-noun-s1,fehehn-noun,eternity; (le fɛɛn a fɛɛn) for ever,BKG[GEN.3.14]
 fehehnehi-noun-s1,fehehnehi-noun,Maninka (Malinke) language,Childs2000[101],"langue malinké, maninka",3.5.3,,,
 fehehnehlehng-noun-s1,fehehnehlehng-noun,"Mandingo ways, manner",Childs2000[101],manières des Mandingues,4.3.9,,,
 fehehnehnohoh-noun-s1,fehehnehnohoh-noun,Mandingo person; Muslim,Childs2000[101],Mandingue ; musulman,4.1.2;4.9.7,,,
-fehehyaa-verb-s1,fehehyaa-verb,clear (land),Keita1979[110];LexiqueAnonyme[15];Childs2000[102],défricher,6.2.2,clear away low bushes,,
+fehehyaa-verb-s1,fehehyaa-verb,clear (land),Keita1979[110];LexiqueAnonyme[15];SandaraKisia[fable 2];Childs2000[102],défricher,6.2.2,clear away low bushes,,
 fehehyallo-verb-s1,fehehyallo-verb,clear land for someone,Keita1979[110];LexiqueAnonyme[15],défricher pour quelqu'un,6.2.2,,,
 fehehyiaa-verb-s1,fehehyiaa-verb,clear land in several places,Keita1979[110];LexiqueAnonyme[15],défricher en plusieurs endroits,6.2.2,,,
 fehfehiyo-noun-s1,fehfehiyo-noun,small kerosene lantern,Childs2000[103],petite lampe à pétrole,5.1;8.3.3,,,
@@ -1439,7 +1441,7 @@ foh-adv-s1,foh-adv,"first, beforehand",Paulme1964[27],d'abord,8.4.5,,,
 foh-part-s1,foh-part,"must, necessarily; (fɔ mì) until; except",BKG[JHN.3.14];LexiqueAnonyme[16],"il faut que, nécessairement ; (fɔ mì) jusqu'à ce que ; sauf",9.2.6;9.6,,376,JHN.3.14
 foh-part-2-s1,foh-part-2,"sentence-final exclamative particle (wishes, complaints)",,"particule finale exclamative (souhaits, plaintes)",9.2.6,,,GEN.30.24
 fohfeh-verb-s1,fohfeh-verb,"confess, ask forgiveness (ritual formula)",Paulme1964[27],"avouer, demander pardon (formule rituelle)",4.9.5;3.5.1,,,
-fohfoh-adv-s1,fohfoh-adv,"immediately, at once",LexiqueAnonyme[16],"immédiatement, tout de suite",8.4.5,,,
+fohfoh-adv-s1,fohfoh-adv,"immediately, at once",LexiqueAnonyme[16];SandaraKisia[fable 1],"immédiatement, tout de suite",8.4.5,,,
 fohfohoh-noun-s1,fohfohoh-noun,squeezed (orange) peel,LexiqueAnonyme[16],écorce (d'une orange) pressée,1.5.5,,,
 fohfohohwo-noun-s1,fohfohohwo-noun,hull or husk of a fruit; pulp,Childs2000[109],"coque, enveloppe d'un fruit ; pulpe",1.5.5,,,
 fohkpohoh-noun-s1,fohkpohoh-noun,white scaleless fish with a small mouth,Childs2000[109],poisson blanc sans écailles à petite bouche,1.6.1,,,
@@ -1455,7 +1457,7 @@ fohngohfohngohoh-noun-s1,fohngohfohngohoh-noun,horned bird (hornbill?),LexiqueAn
 fohngohfohngohoh-noun-2-s1,fohngohfohngohoh-noun-2,hornbill,Childs2000[109],calao,1.6.1,,,
 fohnohoh-adj-s1,fohnohoh-adj,"late, deceased",BKG[RUT.4.3];Paulme1964[28];Childs2000[109],"défunt, feu (personne décédée)",2.6.6,"deceased person, the late; a corpse",3,RUT.4.3
 fohoh-noun-s1,fohoh-noun,palm-nut pulp,Childs2000[109],pulpe de la noix de palme,5.2.3;1.5.5,,,
-fohoh-part-s1,fohoh-part,as for; until; as far as (?),LexiqueAnonyme[16],quant à ; jusqu'à ; pour autant que (?),9.2.6,,,
+fohoh-part-s1,fohoh-part,as for; until; as far as (?),LexiqueAnonyme[16];SandaraKisia[fable 3],quant à ; jusqu'à ; pour autant que (?),9.2.6,,,
 fohohfoh-adv-s1,fohohfoh-adv,"immediately, suddenly",BKG[JOS.6.20];Paulme1964[27];Childs2000[108],"aussitôt, soudain",9.2.2;8.4.8,"spot, place; on the spot, right away",139,JOS.6.20
 fohohlaa-verb-s1,fohohlaa-verb,"suffer; partly dry, dry up",Childs2000[109],souffrir ; sécher à moitié,3.4.2;1.3.3,,,
 fohohmohlehng-noun-s1,fohohmohlehng-noun,plant with edible leaves,Childs2000[109],plante à feuilles comestibles,1.5.3;5.2.3,,,
@@ -1737,7 +1739,7 @@ hohnnoh_nyehsohlaa-noun-s1,hohnnoh_nyehsohlaa-noun,imperialist; imperialism,Acad
 hohoh-noun-s1,hohoh-noun,"child, offspring",BKG[GEN.4.1];AcademieTerminologie[histoire 382],"enfant (descendant), fils ou fille",4.1.9;2.6.3,,196,GEN.4.1
 hohohlohoh-noun-s1,hohohlohoh-noun,"viper, adder; snake",BKG[GEN.49.17];Paulme1964[34];LexiqueAnonyme[19];Childs2000[133],vipère ; serpent,1.6.1,"a poisonous water snake, a kind of adder",8,GEN.49.17
 hohohnei-noun-s1,hohohnei-noun,rice crust (at the bottom of the pot),Childs2000[133],gratin de riz (au fond de la marmite),5.2.3,,,
-hohohnie-noun-s1,hohohnie-noun,rice crust at the bottom of the pot,LexiqueAnonyme[19],"croûte de riz au fond de la marmite, gratin",5.2.3,,,
+hohohnie-noun-s1,hohohnie-noun,rice crust at the bottom of the pot,LexiqueAnonyme[19];SandaraKisia[fable 20],"croûte de riz au fond de la marmite, gratin",5.2.3,,,
 hohohnuo-verb-s1,hohohnuo-verb,weed,Keita1979[110];Paulme1964[34];LexiqueAnonyme[19];Childs2000[133],"désherber, arracher les mauvaises herbes",6.2.4,weed,,
 hohohpio-noun-s1,hohohpio-noun,kind of snake (non-venomous),Childs2000[133],sorte de serpent (non venimeux),1.6.1,,,
 hohohyehi-noun-s1,hohohyehi-noun,freedom,BKG[EXO.21.2];Keita1979[148];LexiqueAnonyme[19];AcademieTerminologie[ideologie 399],liberté,4.5.6,,33,EXO.21.2
@@ -1804,7 +1806,7 @@ icohl-adv-s1,icohl-adv,"in the evening, at night",BKG[GEN.1.5];Keita1979[152];Pa
 icohllo-noun-s1,icohllo-noun,"evening, night",BKG[GEN.1.5];LexiqueAnonyme[20];Childs2000[138],"le soir, la nuit",8.4.1,,115,GEN.1.5
 idii-adv-s1,idii-adv,in the morning,BKG[GEN.19.2];Keita1979[152];LexiqueAnonyme[20],le matin,8.4.1,,103,GEN.19.2
 idiiyo-adv-s1,idiiyo-adv,"in the morning, early",BKG[GEN.19.27];Paulme1964[18];Childs2000[138],"le matin, tôt",9.2.2;8.4.1,,90,GEN.19.27
-idio-noun-s1,idio-noun,midnight,LexiqueAnonyme[20],minuit,8.4.1,,,
+idio-noun-s1,idio-noun,midnight,LexiqueAnonyme[20];SandaraKisia[fable 2],minuit,8.4.1,,,
 ifalenndo-noun-s1,ifalenndo-noun,"ephod (doma ifalenndo, priestly garment)",BKG[EXO.28.6],"éphod (doma ifalenndo, vêtement du prêtre)",5.3;4.9.8,,21,EXO.28.6
 ihehllan-noun-s1,ihehllan-noun,sea (mɛmma ihɛllan),BKG[GEN.1.10],mer (mɛmma ihɛllan),1.3.1,,251,GEN.1.10
 ihini-adv-s1,ihini-adv,lying down,BKG[2KI.9.16],"couché, étendu",7.1.3,,79,2KI.9.16
@@ -1925,7 +1927,7 @@ kalande-noun-s1,kalande-noun,calabash divination; divining ring,Paulme1964[41],d
 kalandefu-noun-s1,kalandefu-noun,mother-in-law (wife's mother),Childs2000[145],belle-mère (mère de l'épouse),4.1.9,,,
 kalangaa-verb-s1,kalangaa-verb,"be dug up, laid bare, turned up; pull out, bring up",BKG[2SA.22.16];Childs2000[145],"être déterré, mis à nu, retourné ; arracher, faire sortir",7.8.6;7.3.2,"(middle of 'dig up') be dug up, uprooted",2,2SA.22.16
 kalangehnohoh-noun-s1,kalangehnohoh-noun,shoemaker,Keita1979[145];LexiqueAnonyme[21],cordonnier,6.6.4,,,
-kalangndo-noun-s1,kalangndo-noun,palm-fibre hamper ('kinja'); fetish worn at the neck or waist; remedy for beriberi,Paulme1964[39];Childs2000[145],hotte en fibre de palmier (« kinja ») ; fétiche porté au cou ou à la taille ; remède contre le béribéri,6.7.3;4.9.8,,,
+kalangndo-noun-s1,kalangndo-noun,palm-fibre hamper ('kinja'); fetish worn at the neck or waist; remedy for beriberi,Paulme1964[39];SandaraKisia[fable 6];Childs2000[145],hotte en fibre de palmier (« kinja ») ; fétiche porté au cou ou à la taille ; remède contre le béribéri,6.7.3;4.9.8,,,
 kalankafoo-noun-s1,kalankafoo-noun,"ghost, spirit of the dead",Keita1979[150];LexiqueAnonyme[21];Childs2000[269],"revenant, esprit d'un mort",4.9.2,ghost of a dead person not yet among the ancestors,,
 kalayehi-noun-s1,kalayehi-noun,matriarchy,AcademieTerminologie[histoire 420],matriarcat,4.1.9;4.6,,,
 kale-noun-s1,kale-noun,"clan, clan name",Paulme1964[39],"clan, nom de clan",4.1.9,,,
@@ -1937,7 +1939,7 @@ kallehoh-noun-s1,kallehoh-noun,mother-in-law,LexiqueAnonyme[21],belle-mère,4.1.
 kalo-adj-s1,kalo-adj,pink,Paulme1964[40],rose (couleur),8.3.3,,,
 kalohoh-adj-s1,kalohoh-adj,"green, unripe",LexiqueAnonyme[21],"vert, pas encore mûr",1.5.6,,,
 kaloo-adj-s1,kaloo-adj,hard; difficult; (nila kalua) stubborn; strong; intelligent,BKG[DEU.21.18];Paulme1964[39];Childs2000[144],dur ; difficile ; (nila kalua) têtus ; fort ; intelligent,8.3.2,"hard, difficult; also sharp, strong, effective; ripe",13,DEU.21.18
-kaluo-adj-s1,kaluo-adj,"hard, difficult",LexiqueAnonyme[22],"dur, difficile",8.3.2,,,
+kaluo-adj-s1,kaluo-adj,"hard, difficult",LexiqueAnonyme[22];SandaraKisia[fable 1],"dur, difficile",8.3.2,,,
 kamaa-noun-s1,kamaa-noun,circle of people sitting (to play or tell a story),LexiqueAnonyme[21],cercle de gens assis (pour jouer ou raconter une histoire),4.2.6,,,
 kamaa-noun-2-s1,kamaa-noun-2,elephant,BKG[1KI.10.18];Keita1979[136];Paulme1964[40];LexiqueAnonyme[21];AcademieTerminologie[ideologie 605];Childs2000[145],éléphant,1.6.1,,25,1KI.10.18
 kamacingndo-noun-s1,kamacingndo-noun,elephant rat (long-nosed),Childs2000[146],rat à trompe (musaraigne-éléphant),1.6.1,,,
@@ -2008,7 +2010,7 @@ kasoo-noun-s1,kasoo-noun,squirrel,LexiqueAnonyme[22],écureuil,1.6.1,,,
 kataa-noun-s1,kataa-noun,"chief's enclosure, inner compound",Childs2000[150],"enclos du chef, cour intérieure",6.5.1;4.6.1,,,
 katta_salasiiya-noun-s1,katta_salasiiya-noun,garrison,AcademieTerminologie[histoire 359],garnison,4.8.3,,,
 kattaa-noun-s1,kattaa-noun,fortress; (katta pɔmbɔɔ) small fort,AcademieTerminologie[histoire 348],forteresse ; (katta pɔmbɔɔ) fortin,4.8.3;6.5.1,,,
-katu-conj-s1,katu-conj,because,LexiqueAnonyme[22],parce que,9.2.5,,,
+katu-conj-s1,katu-conj,because,LexiqueAnonyme[22];SandaraKisia[fable 1],parce que,9.2.5,,,
 katundo-noun-s1,katundo-noun,harmless earth-coloured snake,Paulme1964[39],"serpent couleur de terre, inoffensif",1.6.1,,,
 kau-ideo-s1,kau-ideo,"(take, snatch away) all at once",BKG[ISA.57.13];Childs2000[150],"(emporter, enlever) d'un coup",9.2.8;7.4.3,"suddenness of taking, as an eagle snatching; used with 'take'",1,ISA.57.13
 kaulen-noun-s1,kaulen-noun,bellows,LexiqueAnonyme[22],soufflet (de forge),6.6.2,,,
@@ -2191,7 +2193,7 @@ kila-verb-s1,kila-verb,settle; (kila dɔ́ɔ́ngɔ́ɔ̀) pitch camp; establish;
 kila_hala-noun-s1,kila_hala-noun,prophet (Keita),Keita1979[150],prophète (Keita),4.9.7,,,
 kilamale-noun-s1,kilamale-noun,musical bow,Paulme1964[44],arc musical,4.2.3,,,
 kilamangndeng-noun-s1,kilamangndeng-noun,"stringed instrument (harp-like with a resonator, or one-stringed bowed lute) played with storytelling",Childs2000[165],"instrument à cordes (sorte de harpe à caisse de résonance, ou monocorde joué à l'archet) accompagnant les contes",4.2.3,,,
-kilasio-noun-s1,kilasio-noun,bottle,Paulme1964[44];LexiqueAnonyme[24],bouteille,6.7.7,,,
+kilasio-noun-s1,kilasio-noun,bottle,Paulme1964[44];LexiqueAnonyme[24];SandaraKisia[fable 12],bouteille,6.7.7,,,
 kili-kili-ideo-s1,kili-kili-ideo,pitter-patter of small animals' footsteps at night,Childs2000[165],petits pas rapides (de petits animaux la nuit),9.2.8;7.2.1,,,
 kili-verb-s1,kili-verb,"cut, cut off",BKG[2SA.14.26];Paulme1964[45];LexiqueAnonyme[24];Childs2000[166],"couper, trancher",7.8.3,"cut many things, cut into small pieces",49,2SA.14.26
 kiliiyohmnohoh-noun-s1,kiliiyohmnohoh-noun,woodcutter,Keita1979[145];LexiqueAnonyme[24],bûcheron,6.6.3,,,
@@ -2306,7 +2308,7 @@ kohlohvuloo-noun-s1,kohlohvuloo-noun,bear,BKG[1SA.17.34],ours,1.6.1,,6,1SA.17.34
 kohltuwvo-noun-s1,kohltuwvo-noun,anger,BKG[EXO.11.8],colère,3.4.2,,68,EXO.11.8
 kohlubanohoh-noun-s1,kohlubanohoh-noun,bell-carrying messenger of the men's society's masked 'devil',Childs2000[183],"messager du « diable » (masque) de la société des hommes, porteur de cloche",4.9.7,,,
 kohlulen-noun-s1,kohlulen-noun,"whip, scourge; (fig.) rod (of a tyrant)",BKG[JHN.2.15],"fouet ; (fig.) verge, bâton (du tyran)",4.7.7;6.7,,3,JHN.2.15
-kohluma-verb-s1,kohluma-verb,find,Paulme1964[47],trouver,7.6.2,,,
+kohluma-verb-s1,kohluma-verb,find,Paulme1964[47];SandaraKisia[fable 2],trouver,7.6.2,,,
 kohlvesehiyo-noun-s1,kohlvesehiyo-noun,"wickedness, violence; (pl.) the wicked",BKG[GEN.6.13],"méchanceté, violence ; (pl.) les méchants",4.3,,155,GEN.6.13
 kohmaa-noun-s1,kohmaa-noun,large fast-moving masked 'devil' that carries planks,Childs2000[183],grand masque (« diable ») rapide qui porte des planches,4.9.7;4.9.8,,,
 kohmanndo-verb-s1,kohmanndo-verb,kiss,BKG[GEN.27.26];LexiqueAnonyme[27];AcademieTerminologie[histoire 20],"embrasser, donner un baiser",4.3.3,,3,GEN.27.26
@@ -2341,7 +2343,7 @@ kohngohoh-noun-s1,kohngohoh-noun,"shore, bank, edge",BKG[GEN.41.2];Keita1979[155
 kohngohsila-noun-s1,kohngohsila-noun,tortoise,LexiqueAnonyme[27],tortue,1.6.1,,,
 kohngueiyo-noun-s1,kohngueiyo-noun,"pail, bucket",Childs2000[186],seau,6.7.7,,,
 kohnndan-noun-s1,kohnndan-noun,"departure, flight",BKG[GEN.31.20],"départ, fuite",7.2.3,,84,GEN.31.20
-kohnoh-conj-s1,kohnoh-conj,but,Paulme1964[47];LexiqueAnonyme[27],mais,9.2.5,,,
+kohnoh-conj-s1,kohnoh-conj,but,Paulme1964[47];LexiqueAnonyme[27];SandaraKisia[fable 1],mais,9.2.5,,,
 kohnohlehn-noun-s1,kohnohlehn-noun,palm fibre,Paulme1964[47],fibre de palme,1.5.5;6.6.1,,,
 kohntanndo-verb-s1,kohntanndo-verb,"go away, leave",LexiqueAnonyme[27],"s'en aller, partir",7.2.3,,,
 kohnyaa-noun-s1,kohnyaa-noun,deadly epidemic (nàà n'kɔnyaa 'pestilence'),,épidémie mortelle (nàà n'kɔnyaa « peste »),2.5.2,,,EXO.5.3
@@ -2405,7 +2407,7 @@ kola_ncinndo-noun-s1,kola_ncinndo-noun,lace,AcademieTerminologie[arts 90],dentel
 kolaa-noun-s1,kolaa-noun,"cloth, wrapper",BKG[EXO.26.7];Keita1979[144];LexiqueAnonyme[25];Childs2000[172],"pagne, tissu",5.3;6.6.1,,194,EXO.26.7
 kolaa_tondaa-noun-s1,kolaa_tondaa-noun,spinning (mill),AcademieTerminologie[arts 114],filature,6.6.1,,,
 kolapuundaa-noun-s1,kolapuundaa-noun,curtain,AcademieTerminologie[arts 219],rideau,6.5.2;4.2.6,,,
-kole-noun-s1,kole-noun,vine,Paulme1964[49],liane,1.5.3,,,
+kole-noun-s1,kole-noun,vine,Paulme1964[49];SandaraKisia[fable 6],liane,1.5.3,,,
 kolein-noun-s1,kolein-noun,vine (Smilax),Paulme1964[49],liane (liliacée),1.5.3,,,
 kolikolean-noun-s1,kolikolean-noun,grass,Paulme1964[49],herbe (graminée),1.5.3,,,
 koliloo-noun-s1,koliloo-noun,"Tuesday, market day",Childs2000[172],"mardi, jour de marché",8.4.1,,,
@@ -2668,6 +2670,7 @@ kpekpeo-noun-s1,kpekpeo-noun,cockroach,LexiqueAnonyme[28];Childs2000[209],"cafar
 kpekpeyangaa-noun-s1,kpekpeyangaa-noun,dance for the coming-out of initiated girls,Keita1979[163];LexiqueAnonyme[28],danse de la sortie des jeunes filles excisées,4.2.4,,,
 kpeku-noun-s1,kpeku-noun,"value, use, profit",BKG[ISA.57.12];Childs2000[209],"valeur, utilité, profit",8.3.7;6.8,"work, job, purpose",48,ISA.57.12
 kpele-kpele-ideo-s1,kpele-kpele-ideo,"very straight, steeply, straight up",Childs2000[209],"tout droit, à pic, jusqu'en haut",9.2.8;8.3.1,,,
+kpeleko-noun-s1,kpeleko-noun,"stick, pole",SandaraKisia[fable 1],"bâton, perche",6.7,,,
 kpelemeiye-noun-s1,kpelemeiye-noun,young men's secret language (reversed syllables),Childs2000[209],langage secret des jeunes gens (syllabes inversées),3.5.3,,,
 kpelemohohsaa-noun-s1,kpelemohohsaa-noun,sexual intercourse,BKG[LEV.15.18],rapports sexuels,2.6.2,,38,LEV.15.18
 kpelen-ideo-s1,kpelen-ideo,"loudly (cry, weep)",BKG[GEN.27.38];Childs2000[209],"fort (crier, pleurer)",9.2.8;2.3.2,"loudly, clearly",68,GEN.27.38
@@ -2916,7 +2919,7 @@ kulukulu-noun-s1,kulukulu-noun,scorching heat,BKG[REV.7.16];Childs2000[194],chal
 kululan-noun-s1,kululan-noun,butter nuts (shea?),LexiqueAnonyme[30],noix de beurre (karité ?),5.2.3,,,
 kulunkulunndo-noun-s1,kulunkulunndo-noun,agama lizard,BKG[LEV.11.30];Paulme1964[50],margouillat (lézard),1.6.1,,1,LEV.11.30
 kulunndo-noun-s1,kulunndo-noun,a species of tree whose roots give a bitter remedy for tapeworm,Paulme1964[50];Childs2000[198],espèce d'arbre dont les racines donnent une décoction contre le ténia,1.5.1;2.5.7,,,
-kulunndo-noun-2-s1,kulunndo-noun-2,"canoe, boat",Paulme1964[51];LexiqueAnonyme[30],"pirogue, bateau",7.2.4,,,
+kulunndo-noun-2-s1,kulunndo-noun-2,"canoe, boat",Paulme1964[51];LexiqueAnonyme[30];SandaraKisia[proverbe 78],"pirogue, bateau",7.2.4,,,
 kuluo-noun-s1,kuluo-noun,paddy rice,Paulme1964[51],riz paddy,6.2.5;5.2.3,,,
 kuluo-noun-2-s1,kuluo-noun-2,spoon,LexiqueAnonyme[30],cuillère,5.1,,,
 kulutu-kulutu-ideo-s1,kulutu-kulutu-ideo,"noise of mice or cockroaches eating, of soldiers marching",LexiqueAnonyme[31],"bruit de souris ou de cafards qui mangent, de soldats qui marchent",9.2.8;2.3.2,,,
@@ -3208,7 +3211,7 @@ liimaa-noun-s1,liimaa-noun,summary,AcademieTerminologie[langue 361],résumé,3.5
 liimiaa-verb-s1,liimiaa-verb,deceive,Keita1979[110];LexiqueAnonyme[32],tromper,4.3,,,
 liion-noun-s1,liion-noun,lead; sinker of a cast net,BKG[NUM.31.22];Paulme1964[57],plomb ; plomb de filet de pêche (épervier),1.2.2;6.4.5,,2,NUM.31.22
 lilileng-noun-s1,lilileng-noun,material (fibre waste) used for making bags; traditional medicine,Childs2000[230],matériau (déchet de fibres) pour faire des sacs ; remède traditionnel,6.6.4;2.5.7,,,
-lilindo-noun-s1,lilindo-noun,seed-eating bird (quelea),Paulme1964[57],oiseau mange-mil,1.6.1,,,
+lilindo-noun-s1,lilindo-noun,seed-eating bird (quelea),Paulme1964[57];SandaraKisia[proverbe 83],oiseau mange-mil,1.6.1,,,
 limba-noun-s1,limba-noun,"stinging fish (like the bube, but smaller)",Paulme1964[57],"poisson qui pique (ressemble au bube, en plus petit)",1.6.1,,,
 limbaa-noun-s1,limbaa-noun,bat,Childs2000[231],chauve-souris,1.6.1,,,
 limbawoo-noun-s1,limbawoo-noun,kola nut with a sweet outer cover,Childs2000[231],noix de cola à enveloppe sucrée,1.5.5;5.2.6,,,
@@ -3276,7 +3279,7 @@ loloo-noun-s1,loloo-noun,"gall, bile; venom",BKG[JOB.16.13];Paulme1964[59];Child
 lombaa-noun-s1,lombaa-noun,serious problem,LexiqueAnonyme[32],problème sérieux,4.4.2,,,
 lomkohoh-noun-s1,lomkohoh-noun,kind of tree (striped),Childs2000[232],espèce d'arbre (à rayures),1.5.1,,,
 lomlomndang-noun-s1,lomlomndang-noun,fern,Childs2000[232],fougère,1.5.3,,,
-lomnden-noun-s1,lomnden-noun,tail,Keita1979[136];LexiqueAnonyme[32];Childs2000[232],queue,1.6.2,tail; slang for penis,,
+lomnden-noun-s1,lomnden-noun,tail,Keita1979[136];LexiqueAnonyme[32];SandaraKisia[fable 17];Childs2000[232],queue,1.6.2,tail; slang for penis,,
 lomnohnndo-verb-s1,lomnohnndo-verb,"burn oneself, be burnt; (noun) a burn",BKG[LEV.13.25];Childs2000[232],"se brûler, être brûlé ; (nom) brûlure",5.5;2.5.3,,1,LEV.13.25
 lomohoh-verb-s1,lomohoh-verb,burn,BKG[GEN.19.28];Keita1979[115];LexiqueAnonyme[32];AcademieTerminologie[histoire 123];Childs2000[232],brûler,5.5,"burn, be burning",97,GEN.19.28
 lomsoo-noun-s1,lomsoo-noun,worm found in beds often urinated on,Childs2000[232],ver des lits souillés d'urine,1.6.1,,,
@@ -3573,7 +3576,7 @@ mohlei-noun-s1,mohlei-noun,"medicine man, Muslim healer (also a man's name)",Chi
 mohmbillo-noun-s1,mohmbillo-noun,"car, automobile; truck",LexiqueAnonyme[35];Childs2000[251],"voiture, automobile ; camion",7.2.4,car; also a children's toy car,,
 mohmndo-noun-s1,mohmndo-noun,"fog, mist; dew",BKG[2SA.17.12];Keita1979[154];Paulme1964[64];LexiqueAnonyme[35];Childs2000[251],brouillard ; rosée,1.1.3,"dew, morning mist",10,2SA.17.12
 mohmoh_sehsoh-noun-s1,mohmoh_sehsoh-noun,dawn rice (brought by mothers to their sons on the morning of circumcision),Paulme1964[65],riz de l'aube (porté par les mères à leurs fils au matin de la circoncision),4.9.5;5.2.3,,,
-mohmohoh-noun-s1,mohmohoh-noun,"cooked rice (with sauce on top), food",Paulme1964[65];LexiqueAnonyme[35];Childs2000[251],"riz cuit (avec la sauce dessus), nourriture",5.2.3,,,
+mohmohoh-noun-s1,mohmohoh-noun,"cooked rice (with sauce on top), food",Paulme1964[65];LexiqueAnonyme[35];SandaraKisia[fable 3];Childs2000[251],"riz cuit (avec la sauce dessus), nourriture",5.2.3,,,
 mohmohtohmndo-noun-s1,mohmohtohmndo-noun,glue,AcademieTerminologie[arts 62],colle,6.7.5,,,
 mohmtombolaa-noun-s1,mohmtombolaa-noun,Pleiades (constellation),BKG[AMO.5.8],Pléiades (constellation),1.1.1,,5,AMO.5.8
 mohnehi-noun-s1,mohnehi-noun,"grief, sorrow; regret",BKG[GEN.6.6];Childs2000[251],"chagrin, tristesse ; regret",3.4.2,"sorrow, sadness; pity, remorse, regret",281,GEN.6.6
@@ -3787,7 +3790,7 @@ nggohoh-noun-s1,nggohoh-noun,parasitic tree (dries out its host),Childs2000[273]
 nggoo-noun-s1,nggoo-noun,older brother or sister,Childs2000[273],frère ou sœur aîné(e),4.1.9,,,
 nggueleng-noun-s1,nggueleng-noun,kind of edible fruit,Childs2000[273],espèce de fruit comestible,1.5.5;5.2.3,,,
 nggunyaa-name-s1,nggunyaa-name,"long-billed, feathered mask ('devil') with a raffia skirt (Landai)",Childs2000[273],"masque (« diable ») au long bec, couvert de plumes, à jupe de raphia (Landai)",4.9.2;4.9.8,,,
-ngoh-pron-s1,ngoh-pron,"which, what",LexiqueAnonyme[37],"quel, quoi",9.2.3,,,
+ngoh-pron-s1,ngoh-pron,"which, what",LexiqueAnonyme[37];SandaraKisia[fable 4],"quel, quoi",9.2.3,,,
 ngoh_ba-adv-s1,ngoh_ba-adv,"where, which way",LexiqueAnonyme[37],"où, par où",8.5.1,,,
 ngohehnngohehn-adj-s1,ngohehnngohehn-adj,authoritarian,AcademieTerminologie[histoire 93],autoritaire,4.5,,,
 ngohlingohlio-noun-s1,ngohlingohlio-noun,hornet,LexiqueAnonyme[40],frelon,1.6.1,,,
@@ -3855,7 +3858,7 @@ ninginangaa-noun-s1,ninginangaa-noun,rainbow,BKG[GEN.9.13];Keita1979[154];Lexiqu
 nini-adv-s1,nini-adv,now,LexiqueAnonyme[38],maintenant,8.4.5,,,
 ninte-adj-s1,ninte-adj,"bad, wicked, ugly",Paulme1964[68],"mauvais, méchant, laid",8.3.7,,,
 ninu_kehndeh-interj-s1,ninu_kehndeh-interj,"goodbye, have a good day",Paulme1964[68],"au revoir, bonne journée",4.3.7,,,
-ninuo-verb-s1,ninuo-verb,spend the whole day,LexiqueAnonyme[38],passer toute la journée,8.4.2,,,
+ninuo-verb-s1,ninuo-verb,spend the whole day,LexiqueAnonyme[38];SandaraKisia[fable 7],passer toute la journée,8.4.2,,,
 ninvesehiyo-noun-s1,ninvesehiyo-noun,cruelty,AcademieTerminologie[histoire 235],cruauté,4.3,,,
 nio-noun-s1,nio-noun,"spirit, life (in the body)",LexiqueAnonyme[38],"esprit, vie (dans le corps)",3.1,,,
 niseh-interj-s1,niseh-interj,"hello, good morning (calling to someone)",Paulme1964[69],"bonjour, salut (interpellation, le matin)",4.3.7,,,
@@ -3907,9 +3910,9 @@ nyaandan-noun-s1,nyaandan-noun,"dry twigs, kindling",BKG[ISA.27.11];Childs2000[2
 nyaanikpohoh-noun-s1,nyaanikpohoh-noun,kind of weed,Childs2000[274],espèce de mauvaise herbe,1.5.3;6.2.4,,,
 nyaanohnndo-verb-s1,nyaanohnndo-verb,run; flee; run up,BKG[GEN.14.10];Paulme1964[71];LexiqueAnonyme[39],courir ; fuir ; accourir,7.2.1,,84,GEN.14.10
 nyaaye_yondoo-noun-s1,nyaaye_yondoo-noun,wild cat,Keita1979[136];LexiqueAnonyme[38],chat sauvage (« chat tigre »),1.6.1,,,
-nyaayoo-noun-s1,nyaayoo-noun,cat,Keita1979[136];Paulme1964[71];LexiqueAnonyme[38];Childs2000[274],chat,1.6.1;6.3.1,,,
+nyaayoo-noun-s1,nyaayoo-noun,cat,Keita1979[136];Paulme1964[71];LexiqueAnonyme[38];SandaraKisia[fable 7];Childs2000[274],chat,1.6.1;6.3.1,,,
 nyafennden-noun-s1,nyafennden-noun,piracy; (ɲafennɔɔ) pirate,AcademieTerminologie[histoire 477],piraterie ; (ɲafennɔɔ) pirate,4.7;7.2.4,,,
-nyafindo-noun-s1,nyafindo-noun,leopard,Paulme1964[71],panthère,1.6.1,,,
+nyafindo-noun-s1,nyafindo-noun,leopard,Paulme1964[71];SandaraKisia[fable 6],panthère,1.6.1,,,
 nyahanama-noun-s1,nyahanama-noun,hell,Keita1979[150];LexiqueAnonyme[38],enfer,4.9.6,,,
 nyaiyo-noun-s1,nyaiyo-noun,female cat,LexiqueAnonyme[38],chatte,1.6.1;6.3.1,,,
 nyakpa-noun-s1,nyakpa-noun,"need, poverty, suffering",LexiqueAnonyme[38],"besoin, pauvreté, souffrance",4.4.2,,,
@@ -4044,6 +4047,7 @@ nyjakamehiyo-noun-s1,nyjakamehiyo-noun,helping to harvest rice (paid with a shar
 nyjelinohoh-noun-s1,nyjelinohoh-noun,"interpreter, voice of the masked spirit",Childs2000[284],"interprète, voix du masque (esprit)",4.9.2;4.3.9,,,
 nyjongnia-verb-s1,nyjongnia-verb,squat,Childs2000[283],s'accroupir,7.1,,,
 nyo-noun-s1,nyo-noun,"charm (a loom covered with cloth, ensuring prosperity)",Paulme1964[72],"amulette (métier à tisser couvert d'étoffe, qui assure la prospérité)",4.9.8,,,
+nyoh-det-s1,nyoh-det,"a certain, some (vana ɲɔ 'someone, a certain man')",SandaraKisia[fable 2],"un certain, quelque (vana ɲɔ « quelqu'un, un certain homme »)",9.2.3;9.1.3,,,
 nyoh-noun-s1,nyoh-noun,time; weather (?),LexiqueAnonyme[39],temps (qu'il fait ?),8.4;1.1.3,,,
 nyohfohliaa-verb-s1,nyohfohliaa-verb,"wither, fade",BKG[PSA.1.3],"se faner, se flétrir",1.5.6,,10,PSA.1.3
 nyohkohtohngndo-noun-s1,nyohkohtohngndo-noun,stringed instrument with a stick attached to a gourd,Childs2000[280],instrument à cordes avec un bâton fixé sur une calebasse,4.2.3,,,
@@ -4246,8 +4250,8 @@ pehnyiiyo-noun-s1,pehnyiiyo-noun,scratch on the hand,Childs2000[297],égratignur
 peho-noun-s1,peho-noun,kind of tree,Paulme1964[78],arbre (espèce),1.5.1,,,
 pehsehle-noun-s1,pehsehle-noun,"toothpick, chewing stick",Paulme1964[79],cure-dents,5.6,,,
 pehuwo-noun-s1,pehuwo-noun,large constrictor snake,Childs2000[298],grand serpent constricteur (python),1.6.1,,,
-pehwveh-noun-s1,pehwveh-noun,leaf,Paulme1964[79],feuille,1.5.5,,,
-pehwvo-noun-s1,pehwvo-noun,"boa, python",Paulme1964[79];LexiqueAnonyme[42],"boa, python",1.6.1,,,
+pehwveh-noun-s1,pehwveh-noun,leaf,Paulme1964[79];SandaraKisia[fable 4],feuille,1.5.5,,,
+pehwvo-noun-s1,pehwvo-noun,"boa, python",Paulme1964[79];LexiqueAnonyme[42];SandaraKisia[proverbe 27],"boa, python",1.6.1,,,
 pei-verb-s1,pei-verb,fill,BKG[GEN.1.28];LexiqueAnonyme[41];Childs2000[291],remplir,8.1.8,,99,GEN.1.28
 pei-wilehiye-noun-s1,pei-wilehiye-noun,a plant (violet family),Childs2000[291],plante (famille des violacées),1.5,,,
 peindo-noun-s1,peindo-noun,umbrella tree,Paulme1964[79],parasolier,1.5.1,,,
@@ -4329,7 +4333,7 @@ pikiei-noun-s1,pikiei-noun,"tent peg, stake; beam (of a loom)",BKG[JDG.4.21],"pi
 pil-adv-s1,pil-adv,exactly,LexiqueAnonyme[42],exactement,9.3,,,
 pila-part-s1,pila-part,"self, -self",BKG[GEN.2.12];LexiqueAnonyme[42];Childs2000[300],même (lui-même),9.2.3,also 'indeed',1778,GEN.2.12
 pilaa-adj-s1,pilaa-adj,"another's, someone else's; (one's) own; (lɛŋnde pilalen) foreign land",BKG[EXO.20.17];LexiqueAnonyme[42];Childs2000[300],"d'autrui, de quelqu'un d'autre ; propre (à soi) ; (lɛŋnde pilalen) pays étranger",9.2.3;7.4,"someone's, people's, another's",88,EXO.20.17
-pilaceo-noun-s1,pilaceo-noun,"native, villager",LexiqueAnonyme[43],"indigène, villageois, autochtone",4.1.2,,,
+pilaceo-noun-s1,pilaceo-noun,"native, villager",LexiqueAnonyme[43];SandaraKisia[proverbe 63],"indigène, villageois, autochtone",4.1.2,,,
 pilacieo-noun-s1,pilacieo-noun,"native, citizen; (pl.) people of the land",BKG[LEV.17.8];Childs2000[300],"autochtone, citoyen ; (pl.) gens du pays",4.1.2;4.6.7,,14,LEV.17.8
 pilangndeng-noun-s1,pilangndeng-noun,a species of bamboo,Childs2000[300],espèce de bambou,1.5.3,,,
 pilannde-noun-s1,pilannde-noun,snuffbox; small tube,Keita1979[159];Paulme1964[80],tabatière ; petit tube,5.2.4,,,
@@ -4348,7 +4352,7 @@ pilinnden-noun-s1,pilinnden-noun,vine,LexiqueAnonyme[43],vigne,1.5.3,,,
 pilla-adv-s1,pilla-adv,"very much, a lot",Childs2000[301],"beaucoup, en grand nombre",8.1;9.3,,,
 pillo-noun-s1,pillo-noun,battery,LexiqueAnonyme[43],pile (électrique),6.7,,,
 pilo-ideo-s1,pilo-ideo,"nearly, very closely (just missing)",Childs2000[301],"de justesse, de très près",9.2.8,,,
-piloh-det-s1,piloh-det,other,LexiqueAnonyme[43],autre,8.3.5,,,
+piloh-det-s1,piloh-det,other,LexiqueAnonyme[43];SandaraKisia[fable 3],autre,8.3.5,,,
 pilohoh-adj-s1,pilohoh-adj,"one, a single; the same (agreeing with the noun); alike",BKG[GEN.1.9];Paulme1964[80];LexiqueAnonyme[43];Childs2000[301],"un, un seul ; le même (accordé au nom) ; semblable",8.1.1,"one, a single, the same, alone; some",401,GEN.1.9
 pim-ideo-s1,pim-ideo,"thudding sound (pounding, falling, a blow)",Childs2000[301],"bruit sourd (pilon, chute, coup)",9.2.8,,,
 pim-verb-s1,pim-verb,"be satisfied, have enough (to drink); (pimi) give to drink, satisfy",BKG[GEN.24.19];Paulme1964[80];LexiqueAnonyme[43],"être rassasié, avoir assez (bu) ; (pimi) faire boire, rassasier",5.2.2,,37,GEN.24.19
@@ -4428,7 +4432,7 @@ pohmpohmboh-adv-s1,pohmpohmboh-adv,"a little, little by little",Childs2000[309],
 pohmtehrie-noun-s1,pohmtehrie-noun,potato,LexiqueAnonyme[44],pomme de terre,5.2.3,,,
 pohndohkilingndo-noun-s1,pohndohkilingndo-noun,a tree species (holding much water),Childs2000[309],espèce d'arbre (riche en eau),1.5.1,,,
 pohndohkohlohn-noun-s1,pohndohkohlohn-noun,bad taste,LexiqueAnonyme[44],mauvais goût,2.3.3,,,
-pohndoo-noun-s1,pohndoo-noun,bridge,LexiqueAnonyme[44],pont,6.5.4,,,
+pohndoo-noun-s1,pohndoo-noun,bridge,LexiqueAnonyme[44];SandaraKisia[fable 12],pont,6.5.4,,,
 pohndu-verb-s1,pohndu-verb,"lament, wail; praise loudly (griot)",Paulme1964[81],"se plaindre, gémir ; louer à grands cris (griot)",3.4.2;3.5.1,,,
 pohneeng-noun-s1,pohneeng-noun,rice with lots of oil,Childs2000[309],riz très huileux,5.2.3,,,
 pohnggohsohoh-adj-s1,pohnggohsohoh-adj,very small,Childs2000[310],tout petit,8.2.1,,,
@@ -4614,7 +4618,7 @@ sadehndo-noun-s1,sadehndo-noun,excision rite (in the East),Paulme1964[87],rite d
 saehndu-noun-s1,saehndu-noun,monitor lizard,Paulme1964[87],varan,1.6.1,,,
 safir-noun-s1,safir-noun,sapphire,BKG[EXO.24.10],saphir,1.2.2,,13,EXO.24.10
 safueiyo-noun-s1,safueiyo-noun,plant with sponge-like growths (used for scrubbing),Childs2000[318],plante à excroissances spongieuses (éponge à récurer),1.5;5.6,,,
-safuna-noun-s1,safuna-noun,soap,LexiqueAnonyme[45],savon,5.6.2,,,
+safuna-noun-s1,safuna-noun,soap,LexiqueAnonyme[45];SandaraKisia[proverbe 79],savon,5.6.2,,,
 saka-interj-s1,saka-interj,exclamation of amazement or admiration,Childs2000[318],exclamation d'étonnement ou d'admiration,9.2.7,,,
 sakaa-verb-s1,sakaa-verb,"bend, twist; bend over (weeding); pull up (weeds)",Childs2000[318],"courber, tordre ; se pencher (pour désherber) ; arracher (les mauvaises herbes)",7.3.2;6.2.4,,,
 sakalaa-noun-s1,sakalaa-noun,a tree species (inedible),Childs2000[318],espèce d'arbre (non comestible),1.5.1,,,
@@ -4701,7 +4705,7 @@ sanggaa-noun-s1,sanggaa-noun,"carrying hammock, funeral litter; headpiece made f
 sanggamehiyo-noun-s1,sanggamehiyo-noun,two-pole ladder,Childs2000[321],échelle à deux montants,6.7;6.5.3,,,
 sangganyaa-noun-s1,sangganyaa-noun,a bird species (eats small birds),Childs2000[321],espèce d'oiseau (mangeur de petits oiseaux),1.6.1,,,
 sanggbio-noun-s1,sanggbio-noun,potion to improve one's performance or popularity,Childs2000[322],potion pour améliorer ses performances ou sa popularité,4.9.4;2.5.7,,,
-sangiaa-verb-s1,sangiaa-verb,"tire, make toil; pester, overwhelm",Keita1979[113];LexiqueAnonyme[46],"fatiguer, faire peiner ; ennuyer souvent, accabler",2.4.4,,,
+sangiaa-verb-s1,sangiaa-verb,"tire, make toil; pester, overwhelm",Keita1979[113];LexiqueAnonyme[46];SandaraKisia[fable 6],"fatiguer, faire peiner ; ennuyer souvent, accabler",2.4.4,,,
 sangio-noun-s1,sangio-noun,comb; three-toothed wooden comb (women's),Keita1979[144];Paulme1964[89];LexiqueAnonyme[46];Childs2000[322],peigne ; peigne en bois à trois dents (de femme),5.4.3,,,
 sangio-noun-2-s1,sangio-noun-2,kind of white fish (good to eat),LexiqueAnonyme[46],poisson blanc (bon à manger),1.6.1,,,
 sangiyo-noun-s1,sangiyo-noun,"kind of fish (slender, red-tailed)",Paulme1964[89],poisson (espèce allongée à queue rouge),1.6.1,,,
@@ -5250,7 +5254,7 @@ suleiyo-noun-s1,suleiyo-noun,serious accident,LexiqueAnonyme[52],accident grave,
 sulio-verb-s1,sulio-verb,"raise, bring up (a child)",LexiqueAnonyme[52],élever (un enfant),2.6.4,,,
 sullo-verb-s1,sullo-verb,grow up; fit (in a place); be brought up (child),Keita1979[113];Paulme1964[97];LexiqueAnonyme[52],"grandir ; tenir, avoir de la place (dans un lieu) ; être élevé (enfant)",2.6.4,,,
 sulukoo-noun-s1,sulukoo-noun,door latch,Childs2000[344],loquet (de porte),6.5.2,,,
-sulukuo-noun-s1,sulukuo-noun,hyena,Keita1979[137];Paulme1964[97];LexiqueAnonyme[52];Childs2000[344],hyène,1.6.1,,,
+sulukuo-noun-s1,sulukuo-noun,hyena,Keita1979[137];Paulme1964[97];LexiqueAnonyme[52];SandaraKisia[fable 2];Childs2000[344],hyène,1.6.1,,,
 sumaa-verb-s1,sumaa-verb,"be blind, go blind; blindness",BKG[GEN.19.11];Childs2000[344],"être aveugle, devenir aveugle ; cécité",2.5.4,,2,GEN.19.11
 sumehiyo-adj-s1,sumehiyo-adj,blind,BKG[LUK.6.39];Paulme1964[97];LexiqueAnonyme[52];Childs2000[344],aveugle,2.5.4,,33,LUK.6.39
 sumialle-noun-s1,sumialle-noun,sojourning as a stranger; (o sumialle) as a stranger,BKG[GEN.15.13],séjour comme étranger ; (o sumialle) en étranger,4.1.2;5.9,,12,GEN.15.13
@@ -5303,6 +5307,7 @@ suuwo-noun-s1,suuwo-noun,a termite species (bores into wood),Childs2000[346],esp
 suwasuwaa-noun-s1,suwasuwaa-noun,large town rat,Childs2000[346],gros rat des villages,1.6.1,,,
 suwvo-noun-s1,suwvo-noun,fish,BKG[GEN.9.2];Keita1979[137];Paulme1964[99];LexiqueAnonyme[53];Childs2000[346],poisson,1.6.1,,14,GEN.9.2
 suwvo-noun-2-s1,suwvo-noun-2,yoke,LexiqueAnonyme[53],joug,6.3,,,
+ta-conj-s1,ta-conj,if (ta … pɛ),SandaraKisia[fable 1],si (ta … pɛ),9.2.5,,,
 ta-pron-s1,ta-pron,they,LexiqueAnonyme[53],"ils, elles",9.2.3,,,
 taala_itendoo-noun-s1,taala_itendoo-noun,calabash,Keita1979[140],calebasse,6.7.7;1.5.5,,,
 taala_kolaa-noun-s1,taala_kolaa-noun,"cup, goblet",Keita1979[159];LexiqueAnonyme[53],gobelet ; tasse,6.7.7,,,
@@ -5335,7 +5340,7 @@ tabala_pali-noun-s1,tabala_pali-noun,feast preceding initiation,Paulme1964[101],
 tabalie-noun-s1,tabalie-noun,apron,LexiqueAnonyme[53],tablier,5.3,,,
 tabalio-noun-s1,tabalio-noun,table,BKG[LEV.24.6];LexiqueAnonyme[53];Childs2000[358],table,5.1.1,,18,LEV.24.6
 tabilio-noun-s1,tabilio-noun,long drum (used to call Muslims to prayer),Childs2000[347],long tambour (pour appeler à la prière musulmane),4.2.3,,,
-taci-adv-s1,taci-adv,"forward, ahead, in front",Paulme1964[102];LexiqueAnonyme[53],"en avant, en avance, devant",8.5.2;8.6.1,,,
+taci-adv-s1,taci-adv,"forward, ahead, in front",Paulme1964[102];LexiqueAnonyme[53];SandaraKisia[fable 14],"en avant, en avance, devant",8.5.2;8.6.1,,,
 taehin-adv-s1,taehin-adv,"in the middle, among",Paulme1964[103];LexiqueAnonyme[53],"au milieu, parmi",8.6.5,,,
 tafiei-noun-s1,tafiei-noun,"rash, scab, eruption (of the skin)",BKG[LEV.13.2];Childs2000[347],"dartre, éruption (de la peau), croûte",2.5.2;2.1.4,skin disease with dry flaky skin,4,LEV.13.2
 tafulaa-ideo-s1,tafulaa-ideo,with a drowsy gaze,Childs2000[347],d'un regard somnolent,9.2.8;2.3.1,,,
@@ -5355,9 +5360,9 @@ tallo-noun-s1,tallo-noun,bridge; vine bridge,Keita1979[142];LexiqueAnonyme[53];A
 taloo-noun-s1,taloo-noun,"proverb, parable; riddle; fable; saying",BKG[LUK.12.16];LexiqueAnonyme[54];AcademieTerminologie[langue 127];Childs2000[348],"proverbe, parabole ; énigme ; fable ; dicton",3.5.4,"proverb, moral; story, folk tale",42,LUK.12.16
 tamai-noun-s1,tamai-noun,"coin, piece of silver, shekel",BKG[2KI.7.1],"pièce (d'argent), sicle",6.8.6,,16,2KI.7.1
 tamalaa-verb-s1,tamalaa-verb,"delay, tarry; last long",BKG[EXO.12.39];Childs2000[348],"tarder, s'attarder ; durer longtemps",8.4.2;8.4.8,"(noun) spending time unproductively, wasting time",3,EXO.12.39
-tambaa-noun-s1,tambaa-noun,small hourglass-shaped drum (held under the arm),Paulme1964[101];LexiqueAnonyme[54];AcademieTerminologie[arts 274];Childs2000[348],petit tambour en sablier (tenu sous le bras),4.2.3,,,
+tambaa-noun-s1,tambaa-noun,small hourglass-shaped drum (held under the arm),Paulme1964[101];LexiqueAnonyme[54];AcademieTerminologie[arts 274];SandaraKisia[proverbe 32];Childs2000[348],petit tambour en sablier (tenu sous le bras),4.2.3,,,
 tambacalo_kunduco-noun-s1,tambacalo_kunduco-noun,rice variety (sown at the foot of hills),Paulme1964[101],variété de riz (semée au pied des collines),6.2.1;5.2.3,,,
-tambakollo-noun-s1,tambakollo-noun,leopard,Paulme1964[101];LexiqueAnonyme[54],panthère,1.6.1,,,
+tambakollo-noun-s1,tambakollo-noun,leopard,Paulme1964[101];LexiqueAnonyme[54];SandaraKisia[proverbe 81],panthère,1.6.1,,,
 tambalaka-noun-s1,tambalaka-noun,"dragon, sea monster",BKG[REV.12.9];Childs2000[348],"dragon, monstre marin",1.6.1;4.9.2,"a supernatural being living under water that possesses people; dragon, jinn",7,REV.12.9
 tambehiyo-noun-s1,tambehiyo-noun,Tuesday,Keita1979[152];LexiqueAnonyme[54];AcademieTerminologie[langue 452],mardi,8.4.4,,,
 tambei-noun-s1,tambei-noun,"ruin, destruction, desolation; (kɔl tambɛi) sorrow, grudging; damage",BKG[NUM.14.41];AcademieTerminologie[histoire 252];Childs2000[348],"ruine, perdition, désolation ; (kɔl tambɛi) tristesse, regret ; dégât",7.9.3;4.4.2,poverty,29,NUM.14.41
@@ -5410,7 +5415,7 @@ tasio-noun-s1,tasio-noun,cup,LexiqueAnonyme[54],tasse,5.1;6.7.7,,,
 tasoo-num-s1,tasoo-num,"first; (o tasoo) in the beginning, at first",BKG[GEN.1.1];Paulme1964[102];LexiqueAnonyme[40];Childs2000[350],"premier ; (o tasoo) au commencement, d'abord",8.1.1,,217,GEN.1.1
 tauloo-adj-s1,tauloo-adj,rare,LexiqueAnonyme[54],rare,8.1,,,
 taw-adv-s1,taw-adv,"very, a lot",BKG[GEN.1.20];Paulme1964[103];LexiqueAnonyme[54];Childs2000[350],"très, beaucoup",9.2.2;9.3,"also 'everywhere, plentifully'",1837,GEN.1.20
-tayehnndo-noun-s1,tayehnndo-noun,"middle, centre",LexiqueAnonyme[54],"milieu, centre",8.6.5,,,
+tayehnndo-noun-s1,tayehnndo-noun,"middle, centre",LexiqueAnonyme[54];SandaraKisia[fable 17],"milieu, centre",8.6.5,,,
 tayengnde-noun-s1,tayengnde-noun,weed,Childs2000[351],mauvaise herbe,1.5.3;6.2.4,,,
 te-conj-s1,te-conj,if (te … pɛ),BKG[GEN.3.3];LexiqueAnonyme[53];Childs2000[350],si (te … pɛ),9.2.5,"if, when",7156,GEN.3.3
 te-e-e-ideo-s1,te-e-e-ideo,(continuing for a long time or distance),Childs2000[351],(qui se prolonge longtemps ou loin),9.2.8,,,
@@ -5453,7 +5458,7 @@ tehehsiaayohnnohnndo-noun-s1,tehehsiaayohnnohnndo-noun,adverb,AcademieTerminolog
 tehehsial-verb-s1,tehehsial-verb,"interpret, explain (to someone)",BKG[GEN.41.12],"interpréter, expliquer (à qqn)",3.2.4,,30,GEN.41.12
 tehfeh_vesehiyo-noun-s1,tehfeh_vesehiyo-noun,past participle,AcademieTerminologie[langue 306],participe passé,3.5.3;9.4.1,,,
 tehfeh_yohnnonndo-noun-s1,tehfeh_yohnnonndo-noun,present participle,AcademieTerminologie[langue 305],participe présent,3.5.3;9.4.1,,,
-tehi-noun-s1,tehi-noun,"groundnut, peanut",Keita1979[140];Paulme1964[104];LexiqueAnonyme[54];Childs2000[362],arachide ; cacahuète,5.2.3;6.2.1,,,
+tehi-noun-s1,tehi-noun,"groundnut, peanut",Keita1979[140];Paulme1964[104];LexiqueAnonyme[54];SandaraKisia[fable 4];Childs2000[362],arachide ; cacahuète,5.2.3;6.2.1,,,
 tehi-verb-s1,tehi-verb,"spread out (in the sun, to dry)",BKG[2SA.17.19];Paulme1964[104];LexiqueAnonyme[54];Childs2000[356],"étendre, étaler (au soleil, pour sécher)",7.5.9;6.2.6,"spread, esp. in the sun to dry; spread one's hands or legs apart",17,2SA.17.19
 tehilullo-verb-s1,tehilullo-verb,"stretch out, spread (the hands) to; offer (the cheek) to",BKG[ISA.65.2];Childs2000[355],"tendre, étendre (les mains) vers ; tendre (la joue) à",7.3.4;7.1,spread out (e.g. to dry) for someone; open one's hands to someone,1,ISA.65.2
 tehiye-noun-s1,tehiye-noun,"confluence; shoot, sprout; branch of a river, stream",BKG[ISA.11.1];Keita1979[155];LexiqueAnonyme[54],"confluent ; pousse, rejeton ; bras (d'un fleuve), cours d'eau",1.3.1,,1,ISA.11.1
@@ -5478,7 +5483,7 @@ tehngeh-noun-s1,tehngeh-noun,"lamp, torch",BKG[PRO.24.20],"lampe, torche",5.5;8.
 tehngehboenndo-noun-s1,tehngehboenndo-noun,firefly,LexiqueAnonyme[55],luciole,1.6.1,,,
 tehngehi-noun-s1,tehngehi-noun,eye disease (the eyes turn blue),LexiqueAnonyme[55],maladie des yeux (les yeux deviennent bleus),2.5.2,,,
 tehngehlen-noun-s1,tehngehlen-noun,reed; savanna grass,BKG[JOB.40.26];Keita1979[140];Paulme1964[103];LexiqueAnonyme[55],roseau ; herbe de savane,1.5.3,,1,JOB.40.26
-tehngie-noun-s1,tehngie-noun,hole,LexiqueAnonyme[55],trou,7.8.5,,,
+tehngie-noun-s1,tehngie-noun,hole,LexiqueAnonyme[55];SandaraKisia[fable 5],trou,7.8.5,,,
 tehngohvo-verb-s1,tehngohvo-verb,squint,Paulme1964[104],loucher,2.5.4,,,
 tehngullo-verb-s1,tehngullo-verb,carry someone or something across a stream for someone,LexiqueAnonyme[55],porter qqn ou qqch pour lui faire traverser un ruisseau,7.3.1,,,
 tehngundu-noun-s1,tehngundu-noun,medicinal plant (species),Paulme1964[104],plante (espèce) médicinale,1.5;2.5.7,,,
@@ -5486,8 +5491,8 @@ tehnguo-verb-s1,tehnguo-verb,carry a load across (a stream),LexiqueAnonyme[55],p
 tehnohoh-noun-s1,tehnohoh-noun,Monday; week,Paulme1964[103];LexiqueAnonyme[55],lundi ; semaine,8.4.1,,,
 tehnohohcohnohndo-noun-s1,tehnohohcohnohndo-noun,Tuesday,Paulme1964[103],mardi,8.4.1,,,
 tehoh-noun-s1,tehoh-noun,winged termite,Paulme1964[103],termite ailé,1.6.1,,,
-tehohndohoh-num-s1,tehohndohoh-num,second,LexiqueAnonyme[55],"second, deuxième",8.1.1,,,
-tehtehoh-noun-s1,tehtehoh-noun,spider; spider's cocoon,Paulme1964[104];LexiqueAnonyme[55],araignée ; cocon d'araignée,1.6.1,,,
+tehohndohoh-num-s1,tehohndohoh-num,second,LexiqueAnonyme[55];SandaraKisia[fable 14],"second, deuxième",8.1.1,,,
+tehtehoh-noun-s1,tehtehoh-noun,spider; spider's cocoon,Paulme1964[104];LexiqueAnonyme[55];SandaraKisia[proverbe 22],araignée ; cocon d'araignée,1.6.1,,,
 tehu-noun-s1,tehu-noun,termite mound,Keita1979[137];Childs2000[358],termitière,1.6.5,"chaff, rice straw left after threshing",,
 tehwvo-noun-s1,tehwvo-noun,stubble,BKG[ISA.5.24];LexiqueAnonyme[55],chaume (qui reste debout dans les champs après la moisson),6.2.5,,4,ISA.5.24
 tehwvo-noun-2-s1,tehwvo-noun-2,tree (species) used to scour calabashes,Paulme1964[104],arbre (espèce) dont on frotte les calebasses,1.5.1,,,
@@ -5645,7 +5650,7 @@ tohma-noun-s1,tohma-noun,first name,Paulme1964[106],prénom,9.7.1,,,
 tohmaseloo-noun-s1,tohmaseloo-noun,"example, model",AcademieTerminologie[langue 169],"exemple, modèle",3.6;3.5.6,,,
 tohmenohoh-noun-s1,tohmenohoh-noun,Toma (person),LexiqueAnonyme[57],Toma (personne),4.1.2,,,
 tohmnda-noun-s1,tohmnda-noun,tree (species) whose bark or leaves are an antidote,Paulme1964[106],arbre (espèce) dont l'écorce ou les feuilles sont un antidote,1.5.1;2.5.7,,,
-tohmndo-noun-s1,tohmndo-noun,monkey,Keita1979[137];Paulme1964[106];LexiqueAnonyme[57];Childs2000[369],singe,1.6.1,,,
+tohmndo-noun-s1,tohmndo-noun,monkey,Keita1979[137];Paulme1964[106];LexiqueAnonyme[57];SandaraKisia[fable 17];Childs2000[369],singe,1.6.1,,,
 tohmohoh-verb-s1,tohmohoh-verb,spin (cotton); cut (wood); mould (bricks),LexiqueAnonyme[57],filer (le coton) ; couper (le bois) ; mouler (les briques),6.6.1;6.6.3,,,
 tohndaa-verb-s1,tohndaa-verb,"weave, warp (thread)",BKG[ISA.19.9];Childs2000[369],"tisser, ourdir (le fil)",6.6.1,"make the warp thread for weaving, wrap spools; also defame someone",2,ISA.19.9
 tohndikohohliei-noun-s1,tohndikohohliei-noun,"tendon, hamstring",Keita1979[132];LexiqueAnonyme[57],tendon (du jarret),2.1.3;2.1.7,,,
@@ -5988,7 +5993,7 @@ vehehnde-noun-s1,vehehnde-noun,nest,BKG[EZK.31.6];Paulme1964[120];LexiqueAnonyme
 vehehnnden-noun-s1,vehehnnden-noun,nest,BKG[JOB.39.27];Keita1979[138];Childs2000[378],nid,1.6.5,,4,JOB.39.27
 vehin_fueyo-noun-s1,vehin_fueyo-noun,widow,LexiqueAnonyme[61],veuve,2.6.1;4.1.9,,,
 vehindan-noun-s1,vehindan-noun,sunrise (around 6-7 a.m.),Paulme1964[120],lever du soleil (vers 6-7 h),8.4.1;1.1.1,,,
-vehinndo-noun-s1,vehinndo-noun,wife,Paulme1964[117];LexiqueAnonyme[61],"femme, épouse",2.6.1,,,
+vehinndo-noun-s1,vehinndo-noun,wife,Paulme1964[117];LexiqueAnonyme[61];SandaraKisia[fable 2],"femme, épouse",2.6.1,,,
 vehiyo-verb-s1,vehiyo-verb,"breastfeed, suckle",LexiqueAnonyme[61],allaiter,2.6.3,,,
 vehleh-adv-s1,vehleh-adv,"again, also",BKG[GEN.1.6];Paulme1964[120];LexiqueAnonyme[61];Childs2000[384],"encore, de nouveau, aussi",9.2.2;8.4.6,"also 'more, else, extra'",2741,GEN.1.6
 vehma_paale-noun-s1,vehma_paale-noun,morning sun's heat (around 8 a.m.),Paulme1964[120],"chaleur du soleil du matin (vers 8 h, quand le soleil commence à chauffer)",8.4.1;1.1.1,,,
@@ -6012,7 +6017,7 @@ vesaa-verb-s1,vesaa-verb,"dry, be dry",BKG[JOB.18.16];Keita1979[114];Paulme1964[
 vesehiyo-adj-s1,vesehiyo-adj,dry; hard; dry land,BKG[GEN.1.9];Childs2000[383],sec ; dur ; terre ferme,1.3.3;1.2.1,,58,GEN.1.9
 veselehilen-adj-s1,veselehilen-adj,"arid, desert (lɛŋnde veselɛilen 'desert, wilderness'); dry",BKG[JOS.8.15];LexiqueAnonyme[61],"aride, désertique (lɛŋnde veselɛilen « désert ») ; sec",1.2.1,,288,JOS.8.15
 vesul-verb-s1,vesul-verb,sprinkle,BKG[LEV.4.6];Childs2000[384],asperger,1.3.3;4.9.5,splash,15,LEV.4.6
-vewvo-verb-s1,vewvo-verb,put in,LexiqueAnonyme[61],mettre dedans,7.5.9,,,
+vewvo-verb-s1,vewvo-verb,put in,LexiqueAnonyme[61];SandaraKisia[fable 5],mettre dedans,7.5.9,,,
 viamaa-verb-s1,viamaa-verb,send (someone),BKG[2SA.12.1];Paulme1964[122];Childs2000[387],envoyer (qqn),7.2.8,,29,2SA.12.1
 viannan-adj-s1,viannan-adj,"hidden, secret; of refuge",BKG[DEU.4.43],"caché, secret ; de refuge",7.6,,33,DEU.4.43
 vii-verb-s1,vii-verb,stone (vii … a powtan),BKG[EXO.17.4],lapider (vii … a powtan),7.7.1;4.7.7,,43,EXO.17.4
@@ -6243,7 +6248,7 @@ yalantaalaa-noun-s1,yalantaalaa-noun,calabash cup,Keita1979[159];Childs2000[397]
 yalanyaalaa-noun-s1,yalanyaalaa-noun,calabash,LexiqueAnonyme[63],calebasse,6.7.7,,,
 yalbandilaa-noun-s1,yalbandilaa-noun,illness closing the entrance of the vagina,Childs2000[397],maladie qui obstrue l'entrée du vagin,2.5.2,,,
 yallo-noun-s1,yallo-noun,fetish; scarecrow; yallo cult,Keita1979[150];Paulme1964[125];LexiqueAnonyme[63];AcademieTerminologie[ideologie 294],fétiche ; épouvantail ; culte (yallo),4.9.8,,,
-yalohoh-verb-s1,yalohoh-verb,"shout, exclaim",LexiqueAnonyme[64],"crier, s'exclamer",3.5.1,,,
+yalohoh-verb-s1,yalohoh-verb,"shout, exclaim",LexiqueAnonyme[64];SandaraKisia[fable 4],"crier, s'exclamer",3.5.1,,,
 yamafikoo-noun-s1,yamafikoo-noun,swing; sling,Childs2000[397],balançoire ; fronde,4.2.6,,,
 yamatandio-noun-s1,yamatandio-noun,bird species that calls other birds to the rice,Childs2000[397],oiseau (espèce) qui appelle les autres à manger le riz,1.6.1,,,
 yamba-noun-s1,yamba-noun,charm (koma) that stops the rain,Paulme1964[125],talisman (koma) qui arrête la pluie,4.9.8;1.1.3,,,
@@ -6251,7 +6256,7 @@ yambaa-noun-s1,yambaa-noun,tobacco,LexiqueAnonyme[63],tabac,5.2.4,,,
 yambaa-noun-2-s1,yambaa-noun-2,raffia skirt,Childs2000[397],jupe de raphia,5.3.3,,,
 yambalekale-noun-s1,yambalekale-noun,plant (species) whose root is used in indigo dyeing,Paulme1964[125],plante (espèce) dont la racine sert à la teinture indigo,1.5;6.6.1,,,
 yambalen-noun-s1,yambalen-noun,cassava (tuber),LexiqueAnonyme[63],manioc (tubercule),5.2.3;6.2.1,,,
-yambehi-noun-s1,yambehi-noun,tubers; cassava,Keita1979[140];Paulme1964[125];Childs2000[397],tubercules ; manioc,1.5.5;5.2.3,"tuber (generic): cassava, eddo, yam",,
+yambehi-noun-s1,yambehi-noun,tubers; cassava,Keita1979[140];Paulme1964[125];SandaraKisia[proverbe 64];Childs2000[397],tubercules ; manioc,1.5.5;5.2.3,"tuber (generic): cassava, eddo, yam",,
 yambele_folalen-noun-s1,yambele_folalen-noun,cassava,Keita1979[140],manioc,5.2.3;6.2.1,,,
 yambohoh-verb-s1,yambohoh-verb,"lay down, put to bed, lay; (yambaa) lie; hospitalize (a sick person); spread out (a mat, a sheet)",BKG[GEN.28.11];LexiqueAnonyme[63];Childs2000[397],"coucher, étendre, déposer (qqn) ; (yambaa) être couché ; hospitaliser (un malade) ; étaler (une natte, un drap)",7.1.3;7.5.9,"set, lay down; also lay (a road), operate on someone",6,GEN.28.11
 yambulehn-noun-s1,yambulehn-noun,dash,AcademieTerminologie[langue 404],tiret,3.5.7,,,

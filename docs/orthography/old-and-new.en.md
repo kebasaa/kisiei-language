@@ -121,6 +121,8 @@ Neither Paulme nor *Sandara Kissia* marks tones. The table below was worked out 
 
 Further correspondences hold for many of Paulme's words but not all: her *u* is often the Bible's *o* (*buryo* “wound”, Bible {{booluu}}); her final *-o* is often *-ɔɔ* (*namtano*, Bible {{namtanɔɔ}}), as in agent nouns; her final *-e* is sometimes *-en* (*bolle*, Bible {{bollen}}); her *ty-* is sometimes *ki-* (*tyallo*, Bible {{kiallo}}); her *y-* is sometimes *ɲ-* (*yuna*, Bible {{ɲuna}}). Her mark /S./ means “south” (a southern word), not a third dialect.
 
+*Sandara Kissia* and the *Lexique* write a pronoun and *pila* “self, alone” as one word (*ndupila*, *yapilɛ*); the Bible writes two words: {{ndu pila}}.
+
 !!! keita "Guéckédou and Kissidougou"
     Where Paulme gives a Guéckédou and a Kissidougou form, the Bible often has the one closer to Guéckédou: Paulme *tyɛyo* (G.) / *kyɛyo* (K.) “house”, Bible {{cɛiyo}}. This is a tendency seen in a few words, not a rule; the Bible form decides.
 

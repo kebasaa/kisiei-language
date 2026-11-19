@@ -16,6 +16,7 @@ ansan-noun,kisiei,ansan,noun,attested,,,
 antele-interj,kisiei,antele,interj,check,,,
 ava-interj,kisiei,ava,interj,attested,,,
 avokaanohoh-noun,kisiei,avokaanɔɔ,noun,respelled,,,
+awa-interj,kisiei,awa,interj,respelled,,,
 ba-ideo,kisiei,bâ,ideo,southern,,,
 ba-noun,kisiei,ba,noun,attested,,,
 ba-o-ba-adv,kisiei,bà-ó-bà,adv,southern,,,
@@ -805,7 +806,7 @@ cohngguehi-noun,kisiei,cɔ̀ŋgùɛ́í,noun,southern,i,,
 cohngguehi-noun-2,kisiei,cɔ̀ŋgùɛ́í,noun,southern,i,cɔ̀ŋgɔ̌ŋ,
 cohngndeng-noun,kisiei,cɔ̀ŋndéŋ,noun,southern,le,,
 cohngohi-noun,kisiei,cɔngɔi,noun,respelled,i,,
-cohngohoh-verb,kisiei,cɔngɔɔ,verb,respelled,,,cangu
+cohngohoh-verb,kisiei,cɔngɔɔ,verb,respelled,,,cangu;cɔngɔ
 cohngohoh-verb-2,kisiei,cɔ̀ŋɔ̀ɔ́,verb,southern,,,
 cohnnden-noun,kisiei,cɔnnden,noun,respelled,len,,
 cohnndo-noun,kisiei,cɔnndo,noun,respelled,,,
@@ -1202,6 +1203,7 @@ dolangdolangndo-noun,kisiei,dòlàŋdòlǎŋndó,noun,southern,o,,
 dolinnde-noun,kisiei,dolinnde,noun,attested,i,,
 dolio-noun,kisiei,dolio,noun,respelled,,,
 dolio-noun-2,kisiei,dòlìó,noun,southern,o,dòlìéí,
+dom-noun,kisiei,dom,noun,respelled,,,
 doma-cohuwo-noun,kisiei,dómá-cɔ̀ùwó,noun,southern,o,dómàlá-cɔ̀ùláŋ,
 doma-le-behnggoo-noun,kisiei,dòmà-lé-bɛ́ŋgóó,noun,southern,o,dòmàlá-lé-bɛ́ŋgúláŋ,
 domaa-noun,kisiei,domaa,noun,attested,o,domalan,doma;domala
@@ -2191,7 +2193,7 @@ kila-verb,kisiei,kila,verb,attested,,,kilaa
 kila_hala-noun,kisiei,kila hala,noun,check,,,
 kilamale-noun,kisiei,kilamale,noun,respelled,,,
 kilamangndeng-noun,kisiei,kìlàmáŋndéŋ,noun,southern,le,,
-kilasio-noun,kisiei,kilasio,noun,respelled,,,
+kilasio-noun,kisiei,kilasio,noun,respelled,,,kilasi
 kili-kili-ideo,kisiei,kílì-kílì,ideo,southern,,,
 kili-verb,kisiei,kili,verb,attested,,,kilio
 kiliiyohmnohoh-noun,kisiei,kiliiyɔmnɔɔ,noun,respelled,o,,
@@ -2306,7 +2308,7 @@ kohlohvuloo-noun,kisiei,kɔ́lɔ́vúloo,noun,attested,o,kɔ́lɔ́vúlua,kɔ́l
 kohltuwvo-noun,kisiei,kɔltuwvo,noun,attested,o,,kɔltuw
 kohlubanohoh-noun,kisiei,kɔ́lúbánɔ̀ɔ́,noun,southern,o,kɔ́lúbáá,
 kohlulen-noun,kisiei,kɔlulen,noun,attested,len,,kɔlule
-kohluma-verb,kisiei,kɔluma,verb,respelled,,,
+kohluma-verb,kisiei,kɔluma,verb,respelled,,,koloma
 kohlvesehiyo-noun,kisiei,kɔlvesɛiyo,noun,attested,o,,kɔlvesɛi;kɔlvesɛiya
 kohmaa-noun,kisiei,kɔ̀màá,noun,southern,o,,
 kohmanndo-verb,kisiei,kɔmanndo,verb,attested,,,kɔman
@@ -2405,7 +2407,7 @@ kola_ncinndo-noun,kisiei,kola ncinndo,noun,respelled,,,
 kolaa-noun,kisiei,kolaa,noun,attested,o,kolalan,
 kolaa_tondaa-noun,kisiei,kolaa tondaa,noun,respelled,,,
 kolapuundaa-noun,kisiei,kolapuundaa,noun,respelled,,,
-kole-noun,kisiei,kole,noun,respelled,,,
+kole-noun,kisiei,kole,noun,respelled,,,kolle
 kolein-noun,kisiei,kolein,noun,respelled,,,
 kolikolean-noun,kisiei,kolikolean,noun,respelled,,,
 koliloo-noun,kisiei,kólílóó,noun,southern,,,
@@ -2668,6 +2670,7 @@ kpekpeo-noun,kisiei,kpekpeo,noun,respelled,o,,
 kpekpeyangaa-noun,kisiei,kpekpeyangaa,noun,respelled,o,,
 kpeku-noun,kisiei,kpeku,noun,attested,,,
 kpele-kpele-ideo,kisiei,kpélé-kpélé,ideo,southern,,,
+kpeleko-noun,kisiei,kpeleko,noun,respelled,o,,kpeleke
 kpelemeiye-noun,kisiei,kpéléméíyé,noun,southern,i,,
 kpelemohohsaa-noun,kisiei,kpelemɔɔsaa,noun,attested,,,kpelemɔsaa
 kpelen-ideo,kisiei,kpélén,ideo,attested,,,
@@ -3276,7 +3279,7 @@ loloo-noun,kisiei,lólòó,noun,attested,o,lólòla,lólò
 lombaa-noun,kisiei,lombaa,noun,respelled,,,
 lomkohoh-noun,kisiei,lòmkɔ́ɔ́,noun,southern,o,,
 lomlomndang-noun,kisiei,lómlómndáŋ,noun,southern,ma,,
-lomnden-noun,kisiei,lomnden,noun,respelled,len,,
+lomnden-noun,kisiei,lomnden,noun,respelled,len,,lomnde
 lomnohnndo-verb,kisiei,lomnɔnndo,verb,attested,,,lomnun;lomnɔn
 lomohoh-verb,kisiei,lomɔɔ,verb,attested,,,lom;loam;lum;loamnin;lumnin
 lomsoo-noun,kisiei,lòmsóó,noun,southern,o,,
@@ -3909,7 +3912,7 @@ nyaanohnndo-verb,kisiei,ɲaanɔnndo,verb,attested,,,ɲaanun;ɲaanunnin
 nyaaye_yondoo-noun,kisiei,ɲaaye yondoo,noun,respelled,,,
 nyaayoo-noun,kisiei,ɲaayoo,noun,respelled,o,,
 nyafennden-noun,kisiei,ɲafennden,noun,respelled,,,ɲafennɔɔ
-nyafindo-noun,kisiei,ɲafindo,noun,respelled,,,nafindo
+nyafindo-noun,kisiei,ɲafindo,noun,respelled,,,nafindo;ɲafendo
 nyahanama-noun,kisiei,ɲahanama,noun,respelled,,,
 nyaiyo-noun,kisiei,ɲaiyo,noun,respelled,o,,
 nyakpa-noun,kisiei,ɲakpa,noun,respelled,,,
@@ -4044,6 +4047,7 @@ nyjakamehiyo-noun,kisiei,ɲjàkámɛ̀íyó,noun,southern,o,,
 nyjelinohoh-noun,kisiei,ɲjélínɔ̀ɔ́,noun,southern,o,ɲjélíá,
 nyjongnia-verb,kisiei,ɲjòŋnìá,verb,southern,,,
 nyo-noun,kisiei,ɲo,noun,respelled,,,
+nyoh-det,kisiei,ɲɔ,det,check,,,
 nyoh-noun,kisiei,ɲɔ,noun,respelled,,,
 nyohfohliaa-verb,kisiei,ɲɔfɔliaa,verb,attested,,,ɲɔfɔla;ɲɔfɔliaanin
 nyohkohtohngndo-noun,kisiei,ɲɔ̀kɔ̀tɔ́ŋndó,noun,southern,o,,ɲɔ́kɔ́tɔ́ŋndó
@@ -5303,6 +5307,7 @@ suuwo-noun,kisiei,súúwó,noun,southern,o,,
 suwasuwaa-noun,kisiei,sùwásùwáá,noun,southern,o,,
 suwvo-noun,kisiei,suwvo,noun,attested,o,suwva,
 suwvo-noun-2,kisiei,suwvo,noun,check,o,,
+ta-conj,kisiei,ta,conj,check,,,
 ta-pron,kisiei,ta,pron,check,,,
 taala_itendoo-noun,kisiei,taala itendoo,noun,respelled,,,
 taala_kolaa-noun,kisiei,taala kolaa,noun,respelled,,,
@@ -5410,7 +5415,7 @@ tasio-noun,kisiei,tasio,noun,respelled,o,,
 tasoo-num,kisiei,tasoo,num,attested,,,
 tauloo-adj,kisiei,tauloo,adj,respelled,,,
 taw-adv,kisiei,taw,adv,attested,,,
-tayehnndo-noun,kisiei,tayɛnndo,noun,respelled,o,,
+tayehnndo-noun,kisiei,tayɛnndo,noun,respelled,o,,tayɛn
 tayengnde-noun,kisiei,táyéŋndé,noun,southern,le,,
 te-conj,kisiei,te,conj,attested,,,
 te-e-e-ideo,kisiei,té-é-é,ideo,southern,,,
@@ -5453,7 +5458,7 @@ tehehsiaayohnnohnndo-noun,kisiei,tɛɛsiaayɔnnɔnndo,noun,respelled,,,
 tehehsial-verb,kisiei,tɛɛsial,verb,attested,,,
 tehfeh_vesehiyo-noun,kisiei,tɛfɛ vesɛiyo,noun,respelled,,,
 tehfeh_yohnnonndo-noun,kisiei,tɛfɛ yɔnnonndo,noun,respelled,,,
-tehi-noun,kisiei,tɛi,noun,respelled,i,,
+tehi-noun,kisiei,tɛi,noun,respelled,i,,tiyan
 tehi-verb,kisiei,tɛ̀i,verb,attested,,,tɛiyo
 tehilullo-verb,kisiei,tɛilullo,verb,attested,,,tɛilul;tɛilu
 tehiye-noun,kisiei,tɛiye,noun,attested,,,tɛyii;tɛyun;tɛiyun
@@ -5478,7 +5483,7 @@ tehngeh-noun,kisiei,tɛ́ngɛ̀,noun,attested,,,tɛngɛla
 tehngehboenndo-noun,kisiei,tɛngɛboenndo,noun,respelled,o,,
 tehngehi-noun,kisiei,tɛngɛi,noun,respelled,i,,
 tehngehlen-noun,kisiei,tɛngɛlen,noun,attested,len,,
-tehngie-noun,kisiei,tɛngie,noun,respelled,,,
+tehngie-noun,kisiei,tɛngie,noun,respelled,,,tɛngi
 tehngohvo-verb,kisiei,tɛŋɔvo,verb,check,,,
 tehngullo-verb,kisiei,tɛngullo,verb,respelled,,,tɛngul
 tehngundu-noun,kisiei,tɛŋundu,noun,respelled,,,
@@ -5988,7 +5993,7 @@ vehehnde-noun,kisiei,vɛɛnde,noun,attested,,,
 vehehnnden-noun,kisiei,vɛɛnnden,noun,attested,len,,
 vehin_fueyo-noun,kisiei,vɛin fueyo,noun,respelled,,,
 vehindan-noun,kisiei,vɛindan,noun,respelled,,,
-vehinndo-noun,kisiei,vɛinndo,noun,respelled,o,,
+vehinndo-noun,kisiei,vɛinndo,noun,respelled,o,vɛinda,vɛin
 vehiyo-verb,kisiei,vɛiyo,verb,respelled,,,vɛi
 vehleh-adv,kisiei,vɛlɛ,adv,attested,,,
 vehma_paale-noun,kisiei,vɛma paale,noun,respelled,,,
