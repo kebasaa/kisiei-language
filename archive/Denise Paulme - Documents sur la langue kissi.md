@@ -7,7 +7,7 @@
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–92 (front matter; lexicon a – pyisultã, typescript pp. 1–86) done.
+> - **Progress:** PDF pp. 1–112 (front matter; lexicon a – tɔrɔma, typescript pp. 1–106) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -1272,3 +1272,333 @@
 ## PDF p. 92 (p. 86)
 
 > Blank page.
+
+## PDF p. 93 (p. 87) — S
+
+> There is no R section; the lexicon goes from P to S.
+
+- saā : troisième mois.
+- sadɛndo : rituel d'excision – toma sadɛndo – en usage dans l'Est. /Moussama Kossilan/.
+- sa, pl. sā, saa : mouton. sa kundu = bélier, sa landu = brebis. sa tuao, sa pɔmbo : agneau.
+- saɛndu, sayɛndu, pl. sainda : varan – totem des Kundua Tuŋia.
+- sangba, sanyba, pl. sanybara : tambour tripode, à attache indirecte.
+- saki : lance.
+- saliya : paresseux, paresse. Wana saliya – ɔ nɔ saliya il est paresseux ; saliya bindu = la paresse l'a attrapé.
+- sallɛ̃ /K./, syāle /G./ : saison des pluies.
+- sallo, pl. salta : tas d'ordures. mo tyunyi billo ɔ : elle a jeté les saletés sur le sallo.
+- sama, pl. samara : 1/ prêt, avance, dû. 2/ nom du sacrifice aux kɔya /chien/. sama tua : sacrifice d'enfant, sama miŋio = sacrifice de chien, en place d'enfant.
+- sambɛo : grand dieu, résidant chez les Bélé du Libéria et auquel on offre des sacrifices humains.
+- sambɛyo : dernier riz /de rizière/ /S./.
+- sambele, sambilo, sambillo : rituel d'excision /dans le Nord/, se dit aussi birile.
+- sambilo, tomale sambilo : initiation. /N./.
+
+## PDF p. 94 (p. 88)
+
+- sambino, pl. sambila : excisée.
+- sambiyo : médicament du sorcier, Kuino ; peut être mortel ; éclaire les nuits sans lune ; on le frotte de sang humain.
+- sambiyo : wana sambiyo : possesseur de sambiyo.
+- samsɔa, pl. samsɔara : talisman /nom d'un/ en usage dans la région de Guékédou – viendrait du pays Kɔnɔ̃.
+- samudo, pl. samuda : pintade. samudo tyã : la pintade crie.
+- sana, sanda : droit /adjectif/. nɛ sandā : la route /est/ droite. sunde sandala : bâton droit.
+- sandé yooʊo : Hibiscus asper, malvacée.
+- sandiyo : variété d'herbe. Pousse en rizière. Nyuruwã du yallo à Ouendé.
+- sando, sando, pl. sanda : lièvre. sando kindu kɔllo : le lièvre est très malin.
+- sanɛy : neuf. kura sanɛy ɔ ni : /ce/ pagne est neuf. malo sanɛyo : le riz qui commence à sortir de terre. nyɛy sanɛye = chose neuve.
+- sando, pl. sānda : magnan /fourmi/. sando kil nɔm : le magnan t'a mordu.
+- sandyasayo : mauvaise herbe /espèce de/, chiendent /?/. = sandiyo ?.
+- sanye, sanyi, pl. sanyo : or. kɛlɛ sanyi : bague en or. yɔwɛ sanyo : bijou de cou en or.
+- saŋa, saŋi : rouge. kɔlo saŋa : kola rouge. nyɛy saŋay : chose rouge. kowã saŋya = le sang est rouge.
+- saŋa : fatigue, être fatigué. i saŋa : je suis fatigué.
+
+## PDF p. 95 (p. 89)
+
+- … saŋani : c'est une fatigue. saŋa bi ya : je suis fatigué, la fatigue m'a attrapé. saŋa tya = c'est la fatigue. ɔ saŋi ya = il me fatigue. la saŋa = fatiguez-vous.
+- saŋa : brancard mortuaire. pɔm'saŋala = pɔmdo sur le brancard /qui devine/. pɔm'wama. saŋa wana ũilɛyo – saŋa pɔmdo.
+- saŋbɛo, sanybɛo : objet magique, figuration de fusil, frotté d'huile de palme, donne la richesse et la santé, saisi chez Purunya, troisième fils de Yala.
+- saŋiyo, pl. saŋya : poisson rectiligne à queue rouge. On le mange. /peut être de saŋa, rouge/.
+- saŋiyo, saŋira : peigne en bois, à trois dents /usage féminin/.
+- sā : i san malo : je sème le riz, san malo : semez. saŋo : semailles, semer /riz et fonio/. san : mi san malo : je sème le riz. saŋo : semer, semailles – i san : je sème.
+- sara : payer. /chanson d'enfant/. i sara wuryɔ̃ : je paie l'argent.
+- sara, pl. sarala : prix.
+- sara, sala : sacrifice – protection – amulette. kafu ɔ sara : la fête de l'initiation /circoncision ou excision/ – /N./. sara bimba : l'amulette des aïeux /= bandɛi ballo/. sara puɔ : sara /avec/ la pierre – sara mumo : sara /avec/ le riz/ – sara tyɛyɔ : sara /pour/ le village. sara i ballo : sacrifice /pour/ la lance – en principe, offert chaque année par le masa ballo à son bandɛiballo – saragbɛo : sara /pour la famille /bɛ/.
+- saraka : autel contre les maléfices du sorcier, kuino.
+- sarakokuo, pl. sarakokua : tourterelle. Elle chante
+
+## PDF p. 96 (p. 90)
+
+- … pendant la saison sèche, au premier chant, on arrête les semailles de riz – quand on ne l'entend plus, l'hivernage est proche.
+- sara : salaire, paiement. sara he na ndu tau : il est content de son salaire.
+- sarile : amulette du sarino.
+- sarino, pl. saria : gardien du kɔsɔa – purificateur,
+- sasa : petit panier servant aux sacrifices – cage à poules.
+- sasā, pl. sasara : poulailler.
+- sāsā /S./ : palissade – enceinte. = kuŋa.
+- sasuo : peau de loutre renfermant le mɔsɔ.
+- saye : barbe, moustache.
+- sayo, pl. saira : tombe.
+- sɛ : pourri. dɛmbe nɔndo sɛ : ton ventre /est/ pourri. nyɛy sayɛye = chose pourrie.
+- sɛko, tyɛko, pl. tyɛkela, tyɛkɛra : hochet en vannerie.
+- sɛiyo, pl. sɛiya : témoin – courtier en mariage – pour tous les contrats ou contestations – sɛi furo = kila furo.
+- sɛlɔ : raboter. ɔ sɛl yɔmdo : il rabote le bois – yɔmdo sɔlɔ : raboter /ou scier/.
+- sɛmbesɛya : les feuilles de sɛmbesɛya donnent une infusion /yallo Kundiadu/.
+- sɛmbo, pl. sɛmbɛra : poitrine – force – morceau offert au chef dans les sacrifices – cf. mal. bambu.
+- sɛmbo : filet.
+
+## PDF p. 97 (p. 91)
+
+- sɛmbura : honte, avoir honte. Se dit du mari qui, ne pouvant payer de dot, s'installe près de ses beaux-parents et travaille pour eux. sɛmbura : sɛmbura /1/ ta bi /2/ ya /3/ : la honte /1/ m'a /3/ attrapé /2/ – ɔ nɔra sɛmbure : il n'a pas honte – peut être un nom de chien.
+- sɛmbu : variété d'arbres.
+- sɛmutɔ : véranda. pl. sɛmutɔra, – a kumbu ɔ sɛmute : il est enterré sous la véranda.
+- sɛnde, pl. sɛndya : aiguille. syɛndile /G./.
+- sɛndu, sanda : droit. sunde le sɛndura : ce bâton n'est pas droit. nɛy sanda : la route est droite.
+- seŋo, syɛo, pl. seŋa : variété d'oiseau tana des Telia no. – petit épervier, très faible, vivant dans les bananiers.
+- seŋu, siŋu : guérir. ɔ seŋu re : il ne guérit pas. tɔ ɔ seŋu pɛ : s'il guérit. suŋu = il faut guérir. ɔ tyu suŋo : il est guéri /il a fini de guérir/.
+- sɛŋuo, pl. sɛŋurã : coquille d'escargot – escargot : tyɔmdo.
+- sendyo : raser. ɔ sendi : il /se/ rase.
+- sɛnya, sɛnyia : raphia – sinyalɛ : Fangamadou.
+- sɛo, pl. sɛrã : ɔ /1/ sɛo /2/ dɔo /3/ : il /1/ a versé /3/ le sɛo /2/, rite exécratoire.
+- sɛo, pl. sɛkɛrã : hochet en calebasse à percutants extérieurs.
+- sɛrea : plusieurs. wanlandua sɛrea : plusieurs femmes.
+- sɛrela : ɔ sɛrelana mɛnda : il a versé de l'eau /en prononçant une imprécation/ ou ɔ sɔrulana mɛnde.
+- sɛrelando : nom du rite sɛo /sɛo dɔo, exécration/, dans canton Yalamba. sɔe sɛrelando : la parole du...
+
+## PDF p. 98 (p. 92)
+
+- … i sɛrela sɔe.
+- sɛrɛ, pl. sɛrɛla : ménage, famille conjugale,
+- sɛryo, pl. sɛrila : eau qui reste de la cuisson du riz.
+- sɛsɛo /S./ : sixième mois.
+- sɛmbullo, pl. invariable : les fibres de cette plante ont une mauvaise odeur. Epineux. Entrent dans le bɔrɔ, médicament contre les serpents. /moniteur Banama/. – Sert à faire des liens et des ficelles.
+- semon, sinyon : iroko. Chlorophorea excelsa et chlorophorea regia /Moracées/.
+- sia : nom de la première fille.
+- sia, siya : pluie. Hala sia : la pluie tombe. Hala sialni : la tornade tombera.
+- sianye /G./ : or. cf. sanyi /K./ – ɔ siaŋa : il est rouge.
+- siaole /G./ : orange. siaotumdo : oranger. sawele /K./ pl. sawa – sautundo, sawo : oranger.
+- siki : santé, protection du consultant dans la divination par les cailloux.
+- sikio : 1/ ce qui protège, 2/ nom du premier devin.
+- silamando, silamandu, pl. silamanta : 1/ harpe arquée, à 6 cordes, 2/ harpe-luth à 6 cordes.
+- simã : juste, exact. ɔ simã : c'est juste. /sans copule/ ɔ simã binybiny : c'est juste /quand les plateaux de la balance sont égaux/.
+- simande : plat. tabale simando ni : la table est plate. nyɛy simande – wana simanda : hommes de même taille /peut se dire de jumeaux/.
+
+## PDF p. 99 (p. 93)
+
+- simba : éléphant.
+- simbaŋo : jeune femme /après son premier accouchement jusqu'à 4 ou 5 / wanala simbaŋo, pl. simba.
+- simbɔ : coiffure d'excisée /Moussama Kossilan/.
+- simɛyo, semɛyo : fou, simple d'esprit. ɔ tyɔ semɛyo, pl. semɛya.
+- simtyo : samedi, mauvais jour pour mourir. le mort subira un jugement au tye pɔm. vendredi bon jour /influence malinké ?/.
+- sina : ɔ sina /2/ ya /3/ tau /4/ : il /1/ me /3/ connaît /2/ bien /4/. ɔ sinare : il n'a pas connu. ndu ɔ sina : il avait connu. la sina n du : il faut le connaître.
+- sindo, pl. sinda : pou de tête. ɔ nɔ sinda : il a des poux.
+- sindyo : variété d'arbre. Écorce employée par la potière pour polir le vase. On en fait des cure-dents.
+- sendyo : raser, tua ɔ sendyo : coiffure de l'enfant. coupe de cheveux, imposition du nom. pɛndua sendyo : coiffure des jumeaux.
+- sintalo, pl. sintɔlɔlɛ̃ : turban.
+- sininkɔye /pl./ sininkɔile /sing./ : petites bananes.
+- sinyale : raphia, cf. sɛnya.
+- siŋyon : chlorophora excelsa, c. regia /iroko/.
+- sio, pl. sirã : scie /pas de verbe sio, on dit yɔmdo sɔlo = raboter/.
+- siɔ̃ : toton en fruit du palmier /noix palmiste/ /jeu d'adultes/, /noix palmiste = kɛnkɔ̃/.
+
+## PDF p. 100 (p. 94)
+
+- siolo : erythrina senegalensis, légumineuse.
+- sisa : tout de suite – nkwa ni sisa : nous partons tout de suite – sisa sisa : vite, vite.
+- sisindo, pl. sisinda : petite fourmi.
+- siyã : piquants de porc-épic /souvent élément d'un kowã/.
+- siyo : buffle.
+- sɔ, suɔy : parole, action, événement, parler, agir. ɔ sɔ, ɔ suo : il parle, il a parlé – i dimi sɔe j'ai dit la parole. sɔe yawai : oracle, sɔe wanayawa : le dit du divin.
+- sɔ, sɔdi, siɔdi : demain. /cf. mal. sɔbɔ, matin/.
+- sɔɔ : poulet. sɔɔ kuŋilo : coq. sɔɔ lando, landu : poule, pl. sɔwa.
+- sɔe sɛrelando : rite exécratoire /Yalamba/. = sɛo dɔo du nord. ɔ sɛrela sɔe : il a versé le sɔe. ɔ sɔrulan sɔe.
+- sɔfelɔ /G./, sufelɔ /K./, pl. sufemsa : âne.
+- sɔkɔa : dignitaires de la société des hommes.
+- sɔlɛsiyo : danse des excisées avant l'opération.
+- sɛsɛyɔane : heure de la nuit qui précède l'aube, premier chant du coq.
+- sɛve, pl. sɛɔwon : amulette, contenant les premiers cheveux coupés lors de l'imposition du nom. Se nomme aussi yaolɛ̃ /tresse/.
+- se : nɔŋ se : eh toi.
+- senaŋo, semaa : soigneuse des excisées /N./ circoncis.
+
+## PDF p. 101 (p. 95)
+
+- sɔlu : i sɔlu fɔya : j'ai parlé aux ancêtres /= j'ai offert un sacrifice – l'expression couvre l'ensemble du rituel/, ɔ sɔlu kɔwã – /de tɔluo, cadeau ?/ sɔluo : fɔya sɔluo : offre d'un kola aux ancêtres. i suo : je parle ; la suo : parlez.
+- sɔlulã : objet de culte /Dɛmbadouno/, peut se trouver au pied d'un arbre, dans une case... sɔlulã pɛndua : autel de jumeaux ; sɔlulã kɛwã : autel de serpents.
+- sɔmamɛndo /G./ : puits.
+- sɔndo, pl. sɔndorã : bouche /G./, sɔndo, sundu : trou. ɔ dyɛlu sunduni : il est tombé dans un trou. – ɔ ta sundo : il a creusé un trou.
+- sɔndo : coudre. couture, raccommodage. tala sɔnda : calebasse recousue – i sɔndu kura : j'ai cousu le pagne – i sɔndo doma : je couds le boubou.
+- sɔnwo, sɔwo /invariable/ : poivre indigène. kani : mal.
+- sɔnybɔndo : avare – qui mange seul, qui n'aime personne. wana sɔnybɔndo.
+- sɔnydo : caractère. tuambɔ a nin sɔnyde re : cet enfant n'a pas bon caractère /il ne salue pas les vieux/. sɔny wɔndo : mauvais caractère, wɔny kɛndo = bon caractère.
+- sɔŋɔɔ : les feuilles de cette plante entrent dans le matériel du yallo de Kama /canton de Kɔssa/.
+- sɔŋu : yara dimi nyafindo sɔŋu : le lion a dit à la panthère de s'approcher – la sɔŋu : approchez.
+- sɔŋuo, pl. sɔŋua : crapaud d'eau /pas crapaud buffle/.
+- sɔɔnkwanda : puits, cf. kulɔndu /K./.
+- sɔra : obtenir, gagner. tyɛy mi sɔra wurya : hier, j'ai gagné de l'argent – mi malo sɔran : /faites que/ nous gagnions du riz – la sɔran : il faut gagner.
+
+## PDF p. 102 (p. 96)
+
+- sɔurã /pluriel/ : palmes. sɔurã wawo – singulier : sɔuwo.
+- sɔwa : tyɛy sɔwa : poulailler sous la vérandah, appentis.
+- sɔwo, pl. sɔurã, sɔrã : palme du palmier.
+- so : doigt.
+- so, suo, su, pl. sua : cheval.
+- soana : nom d'un yallo. la parole des hommes /?/, /"nos chevaux"/.
+- sodi : demain, cf. sɔ.
+- soko, sokoa : forme d'initiation masculine.
+- sola : sacré, interdit. yɔm sɔla : bois sacré – dala sɔla : mare sacrée – même racine que sɔlulã, lieu où l'on parle /sɔe/. wana sɔla : gardien d'un lieu de culte, sɔlulã.
+- solana : tisserand – solano kora : tisserand ou wana lua kura.
+- solinde : toux, tousser. ɔ soli tau : il tousse beaucoup, i soli : j'ai toussé.
+- solondo : imperata cylindrica, graminée. Fournit la paille pour les toitures.
+- sowu : pourri, voir suve, suwo.
+- su, pl. sua, sowa : cheval – su pɔndu : étalon, su landu : jument. suana = nos chevaux /2 ou 3/.
+- suã, suay : maïs.
+- suanda : wana suanda : tailleur, de sɔndo, coudre, couture.
+- suba : i tyɛlni sɔdi suba : je me lèverai demain de
+
+## PDF p. 103 (p. 97)
+
+- … bonne heure – hun suba = viens de bonne heure. dɛnyidi suba : après demain de bonne heure.
+- sudua, pl. suduarã : variété de bois. On en fait des nasses, dunduo.
+- sue /K./, pl. suɔ̃, sui /G./ : doigt.
+- sue, pl. suɔ̃ : doigt. sw̃i bɛndye : pouce, sw̃i daŋai : index. swi tw̃ɛi : petit doigt.
+- suenyi : il a peur. le suenyi masa ɔ kwɛni : parce qu'il a eu peur du maître il est parti.
+- sugbɔroni, sougbɔroni : "mort recroquevillé", loup-garou.
+- suka : indigo.
+- solɔ : déféquer, merde – i sol = je défèque, a sol /injure/.
+- suinde, sɔyɛnde : peur. ɔ nɔ sɔyɛnde : il est peureux, tuambo ɔ nɔ suinde.
+- sukuno, sulukuno : exciseuse /singulier/, enterre les femmes mortes en couche ; doyenne du village, gardienne de la mare sacrée.
+- sulɔ : croissance, grandir – i sul : j'ai grandi, ɔ tyɔ sūlɔ : il est en train de grandir.
+- sulukuo, pl. sulukua : hyène.
+- suma : être fâché – ɔ suma a ya : il est fâché contre moi.
+- suma, sumyɛyo : aveugle. wana sumyɛyo.
+- sumballo, pl. sumbalta, mouvette. en bois de yɔm sumballo = yuwo /id, charpente des cases/.
+- sumuno, sumno, pl. sumude : forgeron,
+
+## PDF p. 104 (p. 98)
+
+- sumuŋo, pl. sumua : excisé, circoncis. le jour de la sortie et après.
+- sunda : courir après les femmes. wana sunda = débauché, coureur – ɔ sunda ni : ce sera un coureur.
+- sundo : pilon – sunde – bâton.
+- sundu, pl. sunta : trou – i tyɔ sund' bumbua : j'ai creusé un trou /pour/ les rats, mulots. pɛnɛ /1/ dɛlu /2/ su ndu nte : le bousier /1/ ne peut pas tomber /2/ dans un trou. /devinette/.
+- suntɛndo, pl. suntɛndya /K./ : araignée. suntɛndo /Specimens.../ suuntɛndo /G./.
+- suŋole, surkole : le redouté, dont on n'ose pas dire de mal /nom de chien/.
+- suŋo, pl. suŋua : crapaud – buffle.
+- suŋu : déterrer, arracher. i suŋu yambe : je déterre du manioc – mi dusua a suŋu nira : les chasseurs ont arraché les oreilles.
+- suo, pl. suorã : seau /européen/.
+- suo : i suo = je parle.
+- suo : suie, médicament contre le sambiyo.
+- suri : i suri tala ɔ pyɛy : j'ai sorti la calebasse de l'eau. sama surio : nom du sacrifice aux kɔya /= sorciers/. a suri sama : ils ont fait le sama. wana suri sara wo = l'homme a fait le sara. mi suri kɔndo le wɔɔ : j'ai mis de côté la part pour la saison sèche.
+- susetyo : société /de prévoyance/ – malo n susɛtyo : le riz réclamé pour la société.
+- susokã : variété de riz de rizière ; grain petit, blanc se sème en juin-juillet.
+
+## PDF p. 105 (p. 99)
+
+- susulɛ̃ : ses feuilles entrent dans la composition du samsɔa. pye susulɛ̃ : feuilles du susu – remède des jumeaux – talisman,
+- susuo, susu, pl. suɔsɔy : variété de bois. On en fait des mouvettes. Les feuilles donnent l'infusion /nyuruwa/.
+- susuo, pl. susuwa : loutre.
+- susyã, susyando : a susyã lɛn : tu as rampé par terre. kɛwo susya lɛn : le serpent a rampé par terre.
+- suve, suwo, sɔwu : pourri – nyɛy'suve = chose pourrie. ou nyɛy sɛ – banda ɔ suwɔ ni = le fromager est pourri – yɔm'suwo = arbre pourri. dumbulle soule = citron pourri.
+- suwo, pl. suwa : poisson – suvvo /G./.
+- syonde /G./, suoŋdo /K./ : sable.
+
+## PDF p. 106 (p. 100)
+
+> Blank page.
+
+## PDF p. 107 (p. 101) — T
+
+- taba, pl. tabarã /G./ : poitrine – tagpa /G./.
+- tabala pali : fête précédant l'initiation.
+- tairã : molaires.
+- takala, pl. takalala : allumette.
+- tala, pl. talala : calebasse – tala fuluŋia : sonnailles sur demi-calebasse, instrument de jeunes filles /fuluŋia, jeune fille/.
+- talakola, pl. talalakulela : gobelet, quart. /calebasse pour boire/ – tala kɔla – tout récipient pour boire.
+- tamba, pl. tambarã : tambour d'aisselle. tamba bɛnduo, tamba pɔmbo.
+- tambakulo, pl. tambakula : panthère.
+- tambatyalo kundutyo : variété de riz, se sème au pied des collines, région de Guékédou.
+- tambi : variété de lianes, employées pour maintenir les bottes de chaume, pour les toits. = tyillã.
+- tambilo, pl. tambiltã : timbale – tambil bɛnduo : grande timbale /instrument du chef/. tambil pɔmbo : petite timbale.
+- tambilo, pl. tambila : panthère, léopard. /G./.
+- tambio, pl. tambira /G./ : brancard, pour pyɔmdo. /= savia, K./.
+- tambu : tala ɔ tambu : la calebasse est abîmée. nyɛy tambyɛye : chose gâtée /complètement/, cf. tɛmbuo.
+
+## PDF p. 108 (p. 102)
+
+- tana : nyɛy tanay : ce qui est défendu : tana ni. /ex. yallo, komo .../. tana hala : "tana pour la foudre". tanale tando : arbre sur lequel la foudre ne tombe jamais – ressemble au bolɔŋbɔnde. tanakuilo : variété d'herbe, pour ordalie du menteur à Kamano. /= t. de la panthère/. tanatundo : les feuilles de tanatundo donnent le kowã pour guérir le malade du fait des nina – talisman pour voyage. /= t. du chien/.
+- tana, pl. tanara : ennemi. tana tyɛy ɔ : les ennemis du champ. tana nu ni = c'est mon ennemi.
+- tanala : variété d'arbuste. Près de l'autel des serpents, puo bɔrɔ, à Fɔniadu.
+- tanda, pl. tandarã = tambour sur 4 pieds, à peau clouée pour rites komo.
+- tandapullo, pl. tandapulla : papillon.
+- tande, tando : foudre, tonnerre. tandeny le dil : la foudre est tombée. pule tando : pierre de foudre hache néolithique. tande ny le pɔndu : le tonnerre gronde.
+- tao, tau : grand.
+- tara : enlever. ɔ tara sɛryo : elle enlève l'eau du riz /avec une calebasse pour la mettre dans une autre calebasse/. Pour les liquides seulement. sɛryo i tyu tara : l'eau du riz est enlevée.
+- tasa, pl. tasarã : bassine européenne.
+- tasa, pl. tasarã : nasse pour poisson.
+- taso : premier.
+- tatyí : avant, en avant. tya /1/ nda /2/ nɛu /3/ tatyi /4/ : les autres /1/ ils /2/ sont partis /3/ en avant /4/.
+
+## PDF p. 109 (p. 103)
+
+- tau : beaucoup, trop nombreux, plusieurs. faŋa tau tau violemment. ɔ nɔ wuriɔ̃ tau : il a beaucoup d'argent.
+- tau : ɔ sina ya tau = il me connaît bien – ɔ wauni tau il restera longtemps. i nuya tau : j'ai beaucoup cherché – i tyinte : je n'ai pas trouvé.
+- taye, tayɛ̃, kay, ɔ kay : entre, au milieu de. ɔ nɛyɔ taye : au milieu de la route – ɔ tyɔ taye : au milieu du village – tyal na taye : assois-toi entre nous.
+- taye : tyɛy /1/ ɔ tyɔ /2/ ɔ yɔmde /3/ taye /4/ : la maison /1/ se trouve /2/ entre /4/ les arbres /3/.
+- teindo : plante – apocynée – abstonia congensis. bois à vendre.
+- tɛmbo, tɛmbɔ, pl. tɛmbɛra : 1/ panier pour le poisson pêché. 2/ objet magique : on y conserve clitoris coupés, têtes et pattes de poulets sacrifiés ; protège les excisées pendant la retraite.
+- tɛmbuo ; abîmer, détériorer. a tɛmbu tala : tu as abîmé la calebasse – tala tambu : la calebasse est abîmée.
+- tɛndu : suŋua a tɛndu malo : les crapauds buffles déterrent le riz.
+- tɛndu : sɔɔ tɛndu : la poule a couvé, couve. sɔɔ ɔ tyɔ tɛndya : est en train de couver.
+- tɛndya : ouvrir. tɔmda a tɛndya malo ni : les singes ils ont ouvert le riz – la tɛndya = ouvrez.
+- tɛno : lundi /on ne cultive pas ce jour-là/.
+- tɛnɔɔtyɔnɔndo : mardi /litt. qui suit le lundi/.
+- tɛɔ, pl. tɛa : termite ailé.
+- tɛŋɛle, pl. tɛŋyã : roseau. pyele tɛŋɛle : la feuille du roseau.
+
+## PDF p. 110 (p. 104)
+
+- tɛŋɛle : bâtonnet des excisées, roseau. cf. tinda, fanda.
+- tɛŋɔwo : loucher – wana i tɛnɔwɔ : homme qui louche.
+- tɛŋundu : les feuilles de cette plante entrent dans la préparation d'une médecine nyuruwa doma.
+- tɛtɛo, pl. tɛtɛa : 1/ araignée, 2/ cocon d'araignée.
+- tɛwo, pl. tɛorã /peu usité/ : variété d'arbre, on en frotte les calebasses – Ficus asperifolia, moracée.
+- tɛy, pl. tɛɔ̃ /G./, tiɛy, tiyã /K./ : arachide.
+- tɛyo : étaler, étendre. mo tɛy malo ɔ wunduã, elle a étalé le riz à l'ombre – mɔ tɛy kura : il a étendu le pagne – kura tɛ nu : le pagne est étendu.
+- tele : wuntele : je salue, formule noble dans les prières aux ancêtres, et louange du chef par le griot.
+- tele, tɛle : antele : formule de politesse /à midi/.
+- telɔndo : demander pardon, pardon, amende honorable due aux vieux. mɔ telun fiŋa ndo : il a demandé pardon à son père. la telundu : il faut lui demander pardon.
+- ti : ti i yuwa ma tye : si je suis vieux, tu vois. ti i tyɛl = si je veux.
+- tilande : wana tilandɔ : magicien, prestidigitateur, a le don de double vue et d'ubiquité.
+- tila : la tila tyɛyo : tracez un cercle /pour commencer la case.
+- tilande : rond, circulaire, courbe. tala tilando ni : la calebasse est ronde.
+
+## PDF p. 111 (p. 105)
+
+- timbu : ɔ timbu : il a volé /G./ – cf. kimbu, kyimbu /K./ – a timbu nyɛy : on a volé quelque chose.
+- tindao, pl. tindaā : wana tindao = boiteux, ɔ tinda = il boite.
+- tinde, tinda fanda : bâtonnet des excisées /N./. tinda toma = le souvenir de la forêt.
+- tindamasa, pl. tindaramasa : l'écorce du tindamasa entrerait dans la composition du kave sarino Boŋɔrɔ. Canne du chef /comme le balle/.
+- tintin = lentement. kwɔ tintin : marche lentement.
+- tinyi : noir /G./. cf. kinyi, kinya /K./. ɔ tyɔ wana tiŋe re : il n'est pas noir.
+- tiŋa : colporter. wana tiŋanyɔ : homme qui cherche pour lui seul /Dyoula/ colporteur. ɔ tiŋa : il colporte.
+- tiŋya mamɛndo : cafard d'eau, pl. tiŋiya manienda. /"les noirs qui sont dans l'eau"/.
+- tiŋo : chercher, colporter. Kuã ya kwɛ tiŋo ni : Kuã /1/ ya /2/ kwɛ /3/ tiŋo /4/ ni /3/ = je /2/ suis allé /3/ chercher /4/ le médicament /1/. nuya = chercher, fouiller.
+- tirakoŋo, pl. tirakoŋɔa = martin-pêcheur. de tira : plonger, koŋɔ : berge.
+- tiya : ɔ tiya dala i kɛy : il arrive près de la mare, est arrivé. ɔ tiya tyɛy : il est arrivé hier. tiya : a tiya ɔ nya lɔ : que cela arrive chez vous /formule sacrificielle/.
+- tiye, pl. tiyeɔ̃ : mortier. mu tyu ɔ tiye ni = elle a pilé dans le mortier – tiye pɔmbo, tiye bɛndye.
+- tɔ : dix.
+- tɔa : mi tɔa yuwa : je surveille les oiseaux. tuwɔ, tuɔ : surveiller, surveillance.
+
+## PDF p. 112 (p. 106)
+
+- tɔɔ : laver. i tɔ kurelaŋ : j'ai lavé le linge. ɔ tɔa malo : elle a lavé le riz. ɔ tɔani malo : elle lavera le riz. la tɔɔ malo, la tɔɔ malo.
+- tɔgbo, tɔgbɔ, pl. tɔgbɔa : chimpanzé /totem de plusieurs clans, dont les Tɔgbɔdu/.
+- tɔlo : planter. i tɔl yambale : je plante du manioc. nyɛy tɔlo : action de planter. /on plante à la main en faisant des trous à la houe/. a tyi yambɛ y tɔlo : on a fini de planter le manioc.
+- tɔlu : i tɔlu wando : j'ai fait le tɔlu /cadeau/ à la personne.
+- tɔluo, pl. tɔlulã : contribution des invités aux fêtes /imposition du nom, initiation, funérailles/, tɔlɔŋo. Tolu kafuɔ, tɔlu bisio /ũisio/, tɔlu pɔmdo.
+- toma, ntɔma : prénom. ntɔma bimba : prénom de l'aïeul /donné au premier petit-fils/. pluriel : tɔmanda. ntɔma a nya : mes prénoms.
+- tɔmbɔrɔ, pl. tɔmbola, tumbuluo, tumbulla : pou de vêtement.
+- tɔmda : variété d'arbre. L'écorce ou les feuilles sont un antidote du poison.
+- tɔmdo, pl. tɔmda : singe /en général/.
+- tɔŋando, pl. tɔŋaɛda : chauve-souris /grande espèce/.
+- tɔndo : interdiction /laïque/ – tɔndo yio : c'est interdit. litt. l'interdit est attaché – pua yi tɔndo : le père /l'/a défendu.
+- tɔndunduo : tambour à membrane /usage funéraire/.
+- tɔŋolo : vent des ninya /tourbillon/. pluriel : tɔŋɔlo : j'ai vu le tɔŋɔlo.
+- tɔrɔma, pluriel invariable : chat sauvage.
