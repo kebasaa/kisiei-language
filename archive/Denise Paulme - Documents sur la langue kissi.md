@@ -7,7 +7,7 @@
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–52 (front matter; lexicon a – kɔllo, typescript pp. 1–46) done.
+> - **Progress:** PDF pp. 1–72 (front matter; lexicon a – muyo, typescript pp. 1–66) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -683,3 +683,319 @@
 - kɔldusuo, kuldusuo : arbuste. Les feuilles donnent un médicament pour la chasse au sambiyo. /coeur du chasseur ?/. les racines, brûlées, entrent dans la composition de suo wulumo.
 - kɔli : kwɔli, derrière.
 - kɔllo, pl. kɔtã : coeur. /les missionnaires traduisent aussi souffle, âme/. Saint Esprit : kɔl kɛndo. kɔl'ndo ou kɔl'nu = son coeur. kɔl'kuino = le coeur du sorcier. kɔl'wɔndo = mauvais coeur, rancune, ressentiment. kɔl'karu = intelligence, force mentale. wana kɔl'karu bɛnduo : homme très intelligent.
+
+## PDF p. 53 (p. 47)
+
+- kɔlloso : variété de liane ; les feuilles, prises en infusions, sont un remède pour les victimes d'un kuino.
+- kɔlo ou kullo ? : arbuste. Les feuilles sont bues en infusion par les malades du botã.
+- kɔlɔndu, pl. kɔllɔndua : mille-pattes.
+- kɔluma, kuluma : trouver. i kɔluma lɛn : je /les/ ai trouvés par terre. mi dusua kɔluma mallo : les chasseurs ont trouvé l'étranger. nuye me kuluma ni : cherche, tu trouveras.
+- kɔmde : fil de palmier, dont on fait les filets de pêche.
+- kɔndo : 1/ puiser, prendre, enlever. i kɔndo mɛnde : j'ai puisé de l'eau. pyel kɔnde = marigot où l'on puise l'eau /souvent lieu du culte pour les femmes/. ɔ kɔndo mɛnde : elle a enlevé l'eau /d'un récipient/. 2/ part, portion. kɔndo wana wa : la part du cultivateur.
+- kɔndo, pl. kɔnda : silures.
+- kɔndɔlo : talisman /koma/ de chasseur : anneau porté au bras gauche, couvert du sang du gibier. Permet seul de tuer la panthère.
+- kɔngo, kɔŋo : plante, souvent à usage religieux. On la trouve sur de nombreux lieux de culte.
+- kɔnɔ : mais. i nɔrɛla nira kɔnɔ tũilo vi : je ne possède plus d'oreilles, mais le porc épic est mort.
+- kɔnɔlɛ̃ : fibre de palme.
+- konyo kura : danse de mariage /K. et mal./ par les femmes du village du marié. /konyo = noces, en malinké/.
+- koŋilo /G./, kuŋilo /K./ : coq.
+- koŋo, pl. koŋora : berge, rive. nyandan koŋo = berge du Nyandan.
+
+## PDF p. 54 (p. 48)
+
+- koŋo, kɔndo : plante, souvent associée à un culte, employée dans le tannage des peaux. /= tali du manding/, en poudre, avec le fiel de crocodile = poison /bɔta/.
+- koŋɔrɔ tɔndo : crosse du sarino.
+- koŋwul : ɔ koŋwul, il gémit. koŋwulɔ : gémissement.
+- kɔra : aller, partir, voyage. ma kwa : ils vont ; ɔ kwani sɔdi : il partira demain, ɔ kwani sɔre : il ne partira pas demain, ɔ kwɛ : il est parti. kɔran kɔra saŋa ni : voyager loin /beaucoup/ est une fatigue.
+- kɔra : Fara walle kɔra na ndu : Fara voudrait partir avec lui.
+- kɔrakari, kɔlakari : repas des initiés, garçons ou filles, environ dix jours après l'opération. Lié au kisito dont il marque le début. kɔra kɛnde : bon voyage. kɔro : ancien. Tambiandu kɔrɔ : le Vieux Tamb. kɔrɔ, /vocatif/, kɔrɔse : frère aîné. kɔrɔ, nkɔrɔ, frère /au sens large/. nkɔrɔ bɛndu : frère aîné.
+- korole, pl. korea : fouet pour toupie /jeu d'enfant/.
+- kɔrɔtɔɔ : koma des Kouranko, très redouté. /= kɔrtɛ, malinké/.
+- kɔsɛ̃ : les fibres de kɔsɛ̃ sont tressées en van, natte, etc...
+- kɔsɔa : nom d'un culte. Gardien : le sarino.
+- kɔsɔndo : grand panier luté à la bouse de vache. On y garde le riz battu.
+- kɔsɔno, pl. kɔsyo : femmes excisées, joueuses de sɛo. /S./.
+- kósuo, pl. kosurã : grande couverture en coton du Soudan.
+- kɔsyɔ̃ : soumbara.
+
+## PDF p. 55 (p. 49)
+
+- kɔtɔla : chat sauvage /?/.
+- kɔyɛyo : pauvre.
+- kolé : liane.
+- kolein : Smilax kraussiana, liliacée.
+- kolikoléan : Olyra latifolia, graminée.
+- koma : 1/ corne, 2/ remède contenu dans cette corne. koma yallo = kɔwã pour le yallo.
+- koma, pl. komã : grand serpent noir ; sa vue, très rare, est présage de mort, il faut aussitôt offrir un sacrifice ; selon d'autres, koma = kakundo. Sa morsure est très dangereuse.
+- koma, komatigui : féticheur /il joue du rhombe/. Il en existe plusieurs sortes. ex. koma diara = koma-lion.
+- komo : association de petits garçons /N., origine mandé/.
+- kopyu : kopyu kɛnde : achevez-bien la journée.
+- kondo, pl. konda : variété de poissons noirs, à muffle grenu ; se pêchent à l'épervier – silures /?/. kwɔndo.
+- kove, pl. kuwo : cauri. sarankuwo = cauri porté en amulette, pendu au cou.
+- kowaŋ : sang.
+- kowɔ : récolte, récolter. mi tyi mālo n kowɔ : j'ai fini de récolter le riz. mālo n kowɔ = la récolte du riz.
+- kuallo /S./ = ballo /N./ = kurá /Malinké/. : l'écorce de kuallo entre dans la composition du kɔwã /Fangamadou/.
+- kuando, pl. kuanda : rapace. Ses plumes entrent dans la fabrication du tɛmbo.
+
+## PDF p. 56 (p. 50)
+
+- kuba : serval. kuba bi sɔɔ : le serval a attrapé /une/ poule.
+- kuɛlo : panthère.
+- kuɛo : rapace, plus grand que le kundo, épervier ?.
+- kusye, pl. kusuo : rasoir. cf. sendyo = raser /le crâne/ la barbe.
+- kueo, pl. kuya : gros singe à queue blanche.
+- kuɔy, pl. kɔɔ̃ : pointe en fer, pour le poisson.
+- kuey, kui : le vin de palme un peu fermenté.
+- kuerele, pl. kueryã : sifflet /de chasseur/, cf. kurele, flûte.
+- kuindo, pl. kuindã : chèvre.
+- kuino, pl. kɔya, kwɔya : sorcier.
+- kuɔndo : poisson grisâtre, le plus gros de tous, = kɔnde, silure.
+- kul : ɔ kul : il boit. ɔ kul kwɛy : il boit le vin de palme.
+- kullɔ : soif. kullɔ bi ya : j'ai soif /la soif m'a attrapé./
+- kullo, pl. kulle : kola.
+- kullɔ̃ : grains. mālo n kullɔ̃ : grains de riz.
+- kulɔndu, pl. kulɔntã ; kolɔndo, pl. kolɔnta : puits. /cf. mal. kuli = action de laver, de baigner./
+- kulundo, pl. kulunta : racines très amères, employées en infusions contre le mal de ventre.
+- kulunkulundo, pl. kulunkulunda : margouillat.
+
+## PDF p. 57 (p. 51)
+
+- kulundo, pl. kulunta : pirogue.
+- kuluo : riz paddy /K./, mālo n kuluɛ̃ [?].
+- kulye, kurye : offrande de nourriture cuite /riz/.
+- kulyo : variété d'arbre à bois dur. On y taille le kɛnde, tambour-à-lèvres.
+- kuma : charme, amulette.
+- kumakundo : médecine contenue dans le bɛnɛ kundo.
+- kumatyɔwa : charme pour la guerre.
+- kumbando, pl. kumbande : aile – kumbando.
+- kumbi : ouvrir. i kumbi kesuo : j'ai ouvert la caisse. i kumbi duo : j'ai ouvert la porte. duo kumbia = la porte ouverte.
+- kumbɔ : enterrer. a kumbɔ kaba twɛllɛ̃ : on enterre Kaba ce soir – la kumbu : il peut /l'/enterrer.
+- kumbule wuɛ : chevilles, de wule : genou et ku : dessous.
+- kumbuo, pl. kumbura : couvercle en bois ou fer. ɔ kumbu = elle couvre lamdo la sauce.
+- kumde : fumée. kumde i nɛya hotã : la fumée fait mal aux yeux.
+- kundiã = tuambo ɔ kundiã bɔle : cet enfant /a/ une grosse tête. nyɛy kunday : chose grosse.
+- kundo, kundu : culte /agraire/ en usage dans cercle de Guékédou. masa kundu : maître du culte ; wana kundua : hommes du culte ; bɛnɛ kundo : poterie du culte. dinda kundo : la pierre du kundo, sifflet en stéatite. kɛñi kundɛi : le kɛnde /tambour de bois/ du kundo. kundo : nyuruma kundo : médicament du kundo, enfoui dans les champs, protège les cultures. pisitã kundo : les amusements du kundo. kundo : pundule kundo : liane chausse-trappe, enterrée dans le champ, la protège. pori
+
+## PDF p. 58 (p. 52)
+
+- kundo : pɔri, farine d'écorce du bakɛo. kundo : tyɛ kundu : la maison du kundo. kuma kundo : amulette du kundo, bambou planté dans les champs. kwɛnɛ kundo : la mère du k. principal objet du culte /ou gbɛnɛ, le pot ?/.
+- kundo, kɔndo : porte. puri kundo : serrure.
+- kūndo, pl. kuŋda : aigle /?/.
+- kūndo, pl. kūnta : charge de paille /10 kgs environ, 10 bottes/.
+- kundo : 7ème mois, fin de la saison sèche.
+- kundua : marteau /masse emmanchée/.
+- kuntiyo, pl. kuntiya : notable.
+- kuntuo : les feuilles du kuntuo entrent dans la préparation du karabala dont on se frotte pour obtenir puissance et santé.
+- kuŋa : faire une clôture. i kuŋa malo : j'ai enclos /le champ de/ riz. i tyi kuŋa : j'ai achevé l'enclos.
+- kuŋa, pl. kuŋara : palissade, en bambou ou en roseau.
+- kuŋilo /K./, koŋilo /G./, pl. kuŋila : coq.
+- kuŋoma, pl. kuŋoma : grand varan.
+- koɔ, pl. kɔwa : épervier. /le sorcier peut se changer la nuit en épervier/.
+- kuɔy, pl. kuɔɔ̃ : flèche.
+- kuɔli : i lɔ kwɔli : je suis en retard /litt. je suis derrière/. tyɛy ɔ kwɔli : derrière la maison. nya nu ndu kwɔli : cours-lui derrière.
+- kuɔ̃ : collier en cauris ; qualités magiques, donne la santé. cf. kɔwã.
+- kura, pl. kurala : bande de coton. masa dimi a la lua kurala : le chef a ordonné qu'ils tissent des bandes.
+
+## PDF p. 59 (p. 53)
+
+- kura : pagne de femme /10 bandes d'1 mètre environ chacune/. kura fɔlɔndo : le premier pagne cadeau du prétendant ; son acceptation scelle le mariage.
+- kurã : soufflet de forge, à pot.
+- kurã : objet magique, pour ordalies ; deux sacs en peau.
+- kurela, pl. kuryã : flûte.
+- kuremo : tape-cuisse /terme recueilli par Waterlot dans le Kouroumandou/.
+- kuri, pl. kurila : pantalon. kuri ũilɛyo : pantalon long /du mort/. kuri bɛnduo : pantalon de vieillard, bouffant. kuri biŋiyo : short.
+- kuru gbɛsɔ : variété de bois. on y taille des cure-dents, pɛsɛle.
+- kusuo : vomir, vomissement. mo kusu kwandye : il vomit les patates.
+- kuwã : /voir kɔã/ sang, remède, amulette.
+- kuyo, kuiyo, pl. kuiya : crocodile.
+- kyɛy : mortier.
+- kyɛyo /K./, tyɛyo /G./ : maison, case.
+- kyɛyo : vert. bil kyɛyo = herbe verte. nyɛy kyɛye : chose verte.
+- kye : kye pɔm ; tye pɔm : pays /maisons/ des morts.
+
+## PDF p. 60 (p. 54)
+
+> Blank page.
+
+## PDF p. 61 (p. 55) — L
+
+- lā, a : pronom personnel du pluriel.
+- lafiruo : mumu lafiryo : riz cuit avec piment, sel, soumbara.
+- lale /G./, lalle /K./ : sueur.
+- lam, lamudo : sauce, condiment. lam tyatiyo : sauce aux feuilles de manioc, pilées et bouillies.
+- lambo lambo : variété d'arbustes ; traitement des rhumatismes et des plaies – dans les rizières –
+- lambyo : association des circoncis, ou excisées, d'une même promotion.
+- lamdo : mumu lamdo : riz en sauce.
+- lando : à part. i kɛsi lando : je mets à part, de côté.
+- lando : i lando : je demande pardon. litt. je dépose /une offrande/ par ex. en offrant une bague à Denkoŋo pour apaiser sa colère.
+- lando /G./, landu /K./ : femelle – nawolandu = vache. pl. nawalandua.
+- landye : offrande propitiatoire, à une divinité ; à un père de famille offensé par son fils ; à la victime d'une blessure. i lando, i kɛsilando = j'apporte le landye.
+- lanka : on jure sur lanka dans le Kouroumandou.
+- lanybono fuluŋo : garçon circoncis, homme jeune. pl. lanyba.
+- lavonse : bonjour /collectif/.
+
+## PDF p. 62 (p. 56)
+
+- lawo, lawɔ : coiffure. lawo bundo : coiffure filles ou bundo.
+- lɛfe : raphia.
+- lɛfɛndo, pl. lɛfendya : hirondelle.
+- lefu, pl. lefoa : 1/ parent par alliance, belle-soeur. mari de la soeur cadette. 2/ attitude réservée. lefu landua : belle-mère. lefu panduo : beau-père.
+- lelɛndo, wana lelɛndo, pl. wana lelɛnda : maître de la Terre ; on lui remet or et argent trouvés sur son territoire.
+- lɛmbɔ : le bila soudanais ; il se porte avant la circoncision, après le cache-sexe, bafɔ.
+- lɛn, lɛnde : terre, sol. lɛnde tiŋile : terre noire près des ruisseaux, la meilleure pour le riz. a susya lɛn : tu as rampé par terre.
+- lɛndo, pl. lɛnta : machete, couteau à lame courbe. cf. Earthy /D.E./ short note...
+- lɛnsosyo : cimeterre, que le chef donnait jadis à ses envoyés, en signe de leur mission /Fangamadou/.
+- lɛŋo, pl. lɛŋera : arbre protecteur – on lui offre des sacrifices aux semailles et à la moisson.
+- lɛo, pl. lirã : 1/ corne, 2/ trompe traversière en corne de vache, usage réservé au komo.
+- lɛɔ, pl. lɛa – lwɛɔ, lɛu, lɛo /specimens/. 1/ abeille, 2/ miel.
+- lɛtero, pl. lɛtɛrɛla : lettre /français/.
+- lɛwɔ, pl. lɛwã : branche, support. hala nɔ lɛwole : le ciel se tient sans branche, ne possède pas de support.
+- le : avec, contre. i tyɔrɔba le ndu : je me bats contre lui.
+
+## PDF p. 63 (p. 57)
+
+- le : comment, à cause de. le suɔ ya hin ni : à cause du cheval je suis venu – le suŋ o : comment le guérir.
+- le : pourquoi, parce que. le yɛnɛ nkɛy huŋo : pourquoi as-tu refusé de venir – le suɛnyi masa ɔ kwɛni : parce qu'il a eu peur du chef, il est parti.
+- le, lɔ : lɔ pum : une autre fois, plus tard. le pilɛ, une seule fois, le din = une autre /deuxième/ fois.
+- lɛɛndo : petit lézard – lɛ̃nda.
+- levil : loin. levil landa : très loin, tyɔ tyu levil : le village est loin. nyɛ levil lɔ : c'est trop loin. ɔ tyɔ ni levil : il y a longtemps. lɔ levil depuis longtemps, lɔ levilte : récemment.
+- lilindo, pl. lilinda : oiseaux mange-mil. lilindo de pendue : le mange-mil mange du fonio.
+- limba, pl. limba : poisson qui ressemble au bube ; moins gros – il pique – vit dans les fleuves et les marigots.
+- limde, pl. limdo : bas-fond d'une rivière. ɔ limde ni, c'est un trou d'eau.
+- limdo : tua limdo, pl. tua limda : le plus jeune fils, cadet. /uniquement à l'intérieur du yuŋo/.
+- lio : plomb pour filet de pêche. /Guékédou. l'épervier n'est pas en usage dans la région de Kissidougou/.
+- lisa : 1/ louange, 2/ chanter la louange. lisa wanda : louange de quelqu'un. yamakale lisa wando : le griot fait la louange.
+- liva, liwa : mouillé. i liva : je suis mouillé, liwa : mouille-toi, lɛnde le liwa ou lɛnde ny le liwa ni : la terre est mouillée.
+- lɔ, lɔɔ : coup, frapper. i lɔ : je frappe – vena nlɔɔ yɛnɛ : combien de coups – cf. lua. tuambya a lɔɔ palanta : les enfants frappent /sur/ des estagnons.
+
+## PDF p. 64 (p. 58)
+
+- lɔ : jour. lɔ yomo : annoncer le jour, fixer la cérémonie /circoncision, deuil, etc.../ la fête où l'héritier fixe la date du nawo bɛŋamasa. a yɛm lɔ = on a fixé le jour.
+- lɔɔ, pl. lɔrã : marché. ɔ lɔɔni : au marché. lɔɔ bɛndu = grand marché.
+- lɔɔ : mumu lɔɔ : le riz est cuit – mumu ɔ lua u ni : le riz sera cuit. cf. i yawɔ = je fais cuire.
+- lɔl : cf. lua, sommeil. i lɔl : j'ai dormi. a lɔl kɛnde : as-tu bien dormi. a lɔl wula : tu as dormi longtemps.
+- lɔla : amer. nyɛy lɔla e ni : c'est amer. cf. lul.
+- lɔlo, lɔlɔre : lɔlɔ : souvent, toujours. lɔlɔre : jamais. i tiyɔ lɔlɔre : je n'ai jamais vu. wana tya ndu lɔlɔ : on le voit souvent.
+- lɔlɔ /G./, lɔruo /K./ : cuisse. pl. lɔrula.
+- lɔllɔ : variété d'arbre. Piptadenia africana ; légumineuse. Dabéma. écorce pilée = poison.
+- lɔpum : plus tard, encore. i tɔsani lɔpum : je /le/ ferai plus tard. i hunni lɔpum : je viendrai plus tard.
+- lɔrɔ : plainte, réclamer, se plaindre de. mo luaru nda il a réclamé à eux, il s'est plaint. i lɔru Fasa je me plains de Fasa ɔ kɔmadando : au commandant. kɔ lɔrundo : allez vous plaindre.
+- lɔrule, pl. lɔruã : salive.
+- lɔɔ, pl. lɔrra : baguettes de tambour.
+- lɔ tyɛyo, pl. lɔ tyɛya : serpent-minute. /"hier", "le jour d'hier"/ ainsi nommé car hier, l'homme mordu était encore en vie.
+- lɔtyo : invariable. Les fibres de cette plante servent
+
+## PDF p. 65 (p. 59)
+
+> Continues lɔtyo from p. 58.
+
+- … à faire des fouets, jeu de garçons, plante de rizières. lɔ, ɔ ...lɔ : particule de mouvement. i kɔ ɔ pwa lɔ : je vais chez mon père. kɔ ndu lɔ : va chez lui. mi mallo kwɛ ndu lɔ : l'étranger est parti chez lui. ya lɔ : chez moi.
+- lollo : piptadenia africana /Dabéma/. Légumineuse.
+- lua : frapper, coup. ma lua tuilo : ils ont frappé le porc pic.
+- lua : tisser. i lua kura : j'ai tissé le pagne. lɔ kura : tisser l'étoffe. i lɔ kura : je tisse l'étoffe.
+- luã : sommeil, et aussi rêve. i tyɛ luã : j'ai rêvé. i wa luã = j'étais endormi /je n'ai rien vu/, i tyi luã : j'ai fini de dormir.
+- luande, pl. luando : montagne, colline.
+- lue : être affilé. muɔy i lue : le couteau est affilé. muɔy luɛay : couteau qui coupe.
+- luɛ̃ : miel. luɛ̃ /K./ – lyɛ̃ /G./.
+- luɛy : i luɛy tyɛy ni : je suis entré dans la maison. i luɛyni : j'entrerai. fɔ a luɛy : il faut entrer – la luɛy : entrez.
+- lũi, pl. lũɛɔ̃ : étoile.
+- lul : être amer. nyɛy lul : c'est amer. kullɔ lul : les kolas sont amères. lulo : bile, fiel. Le fiel de crocodile, lulu kuyo, entre dans la composition de nombreux poisons, lulo wando = bile humaine.
+- lulluo : l'écorce de cette plante entre dans la composition du nyuruwã kundo.
+- lumbule, lɔmbole : verge /organe sexuel/.
+- lumlumdã : variété de petite fougère. Les wulla s'en font des diadèmes et des colliers pour les fêtes
+
+## PDF p. 66 (p. 60)
+
+- … d'excision. Lycopodium cernium, pteridophyte. /Fangamadou/.
+- luɔlumpombo : Selaginella scandens, ptéridophyte.
+- lulundo, kulundo : Sarcocephalus esculentus, rubiacée.
+- lundupuro : les racines de cette plante entrent dans la confection du karabala.
+- luɔnyo : oryctérope, on fait un kɔwã avec sa patte gauche, censée arrêter la pluie quand il creuse le sol.
+- lusullo : être lourd. ɔ lusul : il est lourd. ɔ lusulte il est léger. wana lusulla – nyɛy he i lusulte.
+
+## PDF p. 67 (p. 61) — M
+
+- mã, maa : maladie causée par inceste ; soignée par offrande au kosɔa.
+- mabi : yã ma bi ya : la faim m'a attrapé. moyã ma bi ya : le vin de palme m'a attrapé.
+- madam, pl. madanda : première excisée ; elle commande les autres. Femme européenne.
+- madando : propreté. cf. ɔ dendu : il est propre.
+- maslɛ̃ : les racines de cette plante entrent dans la préparation du kowã, élément du tɛmbo qui protège les excisées de Fangamadou.
+- manone, pl. ma nonɔy : kisɛy manone : gros piment. kisɛy manonɔy, pluriel.
+- makuo : les feuilles de cette plante servent à la métamorphose du kuino. /Kurumandu/.
+- malɔ : perdre. ɔ malu tala : tu as perdu la calebasse. /laissé tomber/.
+- mallo, pl. malla : étranger.
+- malo, malɔ, pl. male : riz /un grain de/. tyɛy male : un champ de riz. malonbalɛyɔ̃, malogbɛsa : riz qui n'est pas encore pilé. riz ordinaire, pilé sans avoir subi la préparation du malo furula. malon furula : riz mis à cuire quelques minutes, séché au soleil, puis pilé. Donne un grain plus gros que le malo gbɛsa. malo nkulɔɔ, malontyuɛ̃ : riz décortiqué /pilé/. malo ŋpalɛn /G./ : riz non décortiqué. malo pulo : riz de montagne, le dernier semé /S./. pulo = foula. malon susɛtyo : le riz pour la société /de prévoyance/.
+- mamo : rire /subst./, rire /verbe/. ɔ mam = il rit, il a ri – a mam ni = tu riras, ya ɔ mam = il avait ri.
+
+## PDF p. 68 (p. 62)
+
+- mama, pl. mama : aïeule. mama fɔlanda : les premières aïeules /tombes des premières femmes/. mama n dindo, pl. mama ndiŋania : petit fils, petite fille.
+- mambilo, pl. mambilta : automobile.
+- mamɛmo : tyã mamɛmo : les pleurs qui coulent /gémissements obligatoires du deuil/. tya pour tyando.
+- mamno : combrétacée, terminalia superba. L'écorce sert à teindre les tissus en jaune.
+- manda : manda nyɛ : garde la chose – la manda = gardez.
+- mandoa : femmes seules qualifiées pour s'occuper des funérailles d'une femme morte en couches.
+- mandu, pl. manta : tombe de l'ancêtre fondateur.
+- manduka : il commande /nom de chien/. masa mandu = le chef a ordonné. la mandu = ordonnez. sɔe masa = l'ordre du chef.
+- maŋando, mangando : 1/ faculté de métamorphose /ex. se changer en panthère/. 2/ celui qui possède cette faculté.
+- maŋɔrɔ, pl. maŋurua : mangue. maŋurua ma yira : les mangues sont bonnes /à manger/.
+- mara : aide, aider. Fasa mara Tamba, Fasa aide Tamba. mara = aide /impératif/.
+- marpa : fusil.
+- masa, pl. masa : chef. masa i balo, pl. mase i bala : chefs à la lance /dans 4 cantons fédérés Baname, Farmaya, Dondian, Moussama Kossilé.
+- mɛkiyo /G./ : tatouages, scarifications. ɔ nɔ mɛkira kɛndera : il a de jolis tatouages.
+- mɛla : deuxième, ɔ mɛla : le dernier. ɔ mɛlu huno : il est arrivé le dernier. nyɛmɛla : le dernier.
+
+## PDF p. 69 (p. 63)
+
+- mɛle, pl. mɛyã : sein.
+- mɛlɛka : les anges /dans le catéchisme/, le ciel.
+- mɛlɛke, mɛlɛkoã : variété de riz. /déformation de "américain"/.
+- mɛlimbɔri : autel de chasseurs /à termitières – Tambiandu/.
+- mɛlo /K./, myalo /G./, mɛllo : gauche. ba mɛlo = côté gauche. wana i mɛlo = gaucher ou wana i mɛllo.
+- melo : mi mɛlo : je me suis arrêté. mi mɛlo peŋurã : je suis allé jusqu'au bout, litt. je me suis arrêté à la limite. i mɛlu noa : je m'arrête là. i mɛlu n tyo kendya : la dernière fois que je l'ai vu, il était en bonne santé. i mɛlu : je me suis arrêté. i tyɔ : je /l'/ai vu. mɛlu : ɔ mɛlu hunɔ : il est arrivé trop tard. ɔ yala hunɔre – ɔ lũ kwali /= il est resté derrière/.
+- mɛmyã : larmes. cf, mɛyã : lait de femme.
+- mena : i mena ɔ Denkoŋo : j'ai voué /mon voleur/ à Denkoŋo. i mena malo = j'ai /fait le/ mena /pour mon/ riz.
+- menda : eau, lit de rivière.
+- mɛyã : lait de femme, voir mɛle.
+- meme : tɔsa meme i kɔrani : de toute façon, j'irai.
+- menando : fait de jurer /dévotion/. i kwɛ menando = je suis allé faire la mena.
+- mi : marque de détermination, c'est lui qui... mi mallo dimi = l'étranger a dit, ou : c'est l'étranger qui a dit. mi Famoti dimi = c'est Famoti qui a dit.
+- milindo, pl. milinda : nez. mindo /G./.
+
+## PDF p. 70 (p. 64)
+
+- mimiyo, pl. mimiya : poisson-torpille. /?/.
+- min : nous, nous deux. min kɔlu : nous boirons, ou min kul.
+- miŋi : remettre, ajouter. mo miŋi malo ɔ nada ni : elle a remis le riz dans la marmite.
+- miŋio : restitution /d'un prêt/, rendre. i miŋi wuryo = j'ai rendu l'argent. sama miŋio = 1/ objet restitué, 2/ sacrifice aux kɔya.
+- mirio, pl. mirila : grosse caisse.
+- mɔmdo, mɔmdu : brouillard. mɔmdo tul tau : il y a beaucoup de brouillard.
+- mɔnyo, muɔyɔ̃ : 1/ abandon du meurtrier aux parents de la victime ; 2/ nom du meurtrier ainsi livré.
+- mɔsɔ : fonio hâtif.
+- mɔsɔ : médicament contre les sorciers. morsures de serpent et certaines maladies – pierre /stéatite ?/ – contre le mal de tête – mɔsɔ sunando : mɔsɔ avec lequel on se frotte.
+- mɔya, mɔaya, pas de pluriel. : boisson fermentée, vin de palme. mɔya ma bi ya : je me suis enivré ; mɔya ma bi ndu : il s'est enivré – variété : kuɛy bɔrɔ.
+- mɔy, mɛy, muɔy, pl. mɔɔ̃ : couteau.
+- moribayasa : danse honteuse par laquelle une femme remercie dieux d'avoir empêché la mort d'un proche, /se retrouve au Fouta/.
+- muɔy bɛno : albinos.
+- muɔy fuley, pl. muɔy fulo : machette, grand couteau.
+- mu : ainsi. sɔ mu : les paroles /sont/ ainsi – nyɔ mu : les choses /sont/ ainsi.
+
+## PDF p. 71 (p. 65)
+
+- mu, muu : deux.
+- muinda : accouchement. ɔ tyɔ muinda, ɔ muinda ni : elle accouche.
+- muiyo, pl. muiya : tortue.
+- mullo, pl. mulla : premier enfant décédé d'un couple. /d'une femme/ – tuamullo.
+- mulyo : travail à la charrue, labourage. lɛnde mulyo : la terre a été retourné. a muli lɛndɛny : ils ont retourné.
+- mumo, mumu : riz cuit. mumu na = le riz est bon.
+- mumu sɛsɔ : riz de l'aube. plat de riz que les mères font porter à leurs fils au matin de la circoncision.
+- munduo, pl. mundurã : nuque.
+- muŋɔndo : retour. muŋɔndo saŋa ni ou muŋɔ saŋa ni : le retour sera fatigant.
+- muŋu : i muŋu Kenema : je retourne à Kenema. la muŋu : retournez.
+- muŋuo : piler, poudre. kisa muŋuo = piment pilé. koma muŋuã = koma en poudre, par opposition aux koma ũisilɛya – la muŋu malo = pilez le riz.
+- muruo : impôt en argent. la suri muruo : il faut payer l'impôt, payez.
+- muyo, pl. muya : moustique.
+
+## PDF p. 72 (p. 66)
+
+> Blank page.
