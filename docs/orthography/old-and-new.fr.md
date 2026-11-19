@@ -1,6 +1,6 @@
 # De l'ancienne à la nouvelle orthographe
 
-Les textes kisiei des années 1970-1980, dont le manuel de Keita ([[Keita1979|1979]]), sont écrits dans l'ancienne orthographe. Cette page explique comment les lire et les réécrire.
+Les textes kisiei des années 1970-1980, dont le manuel de Keita ([[Keita1979|1979]]), sont écrits dans l'ancienne orthographe. Cette page explique comment les lire et les réécrire. La dernière section fait de même pour deux sources du Nord plus anciennes, le vocabulaire de Paulme (années 1940) et les fables *Sandara Kissia*.
 
 ## Correspondances de base
 
@@ -87,3 +87,38 @@ flowchart TD
 | *Yöngu ndu* | {{yɔngu ndu}} | donne-lui |
 | *Nhömpum* | {{ŋɔmpum}} | six |
 | *Lènnden* | {{lɛŋnden}} | le pays |
+
+## Sources du Nord plus anciennes : Paulme (1964) et *Sandara Kissia*
+
+Deux autres sources du Nord sont antérieures à la Bible et ne suivent ni l'orthographe de 1979 ni l'orthographe actuelle :
+
+- **le vocabulaire et les textes de Denise Paulme** [[(Paulme1964)]], recueillis en 1945-1949 autour de Kissidougou et de Guéckédou, emploient sa propre notation phonétique (sa p. V) : une barre sur la voyelle pour la longueur, un tilde pour la nasalité, *ü*, *ẅ* et *ty*, *ny*. Elle marque beaucoup de mots G. (Guéckédou) ou K. (Kissidougou) ;
+- ***Sandara Kissia***, les fables publiées par la Mission protestante de Kissidougou [[(SandaraKisia)]], emploient une ancienne orthographe missionnaire (*ty*, *ny*, *ŋg*, *gb*, *w*, *r*).
+
+Le *Lexique kissi–français* [[(LexiqueAnonyme)]] est déjà dactylographié dans l'orthographe actuelle et ne demande pas d'autre conversion que les vérifications ci-dessous.
+
+Ni Paulme ni *Sandara Kissia* ne notent les tons. Le tableau ci-dessous a été établi en comparant leurs mots à ceux de la Bible : une soixantaine de mots-vedettes de Paulme qui ont le même sens dans la Bible, et tous les mots de *Sandara Kissia* (avec ces règles, la part de ses mots retrouvés dans la Bible passe de 59 % à 80 %). Les règles valent pour la plupart des mots, pas pour tous : il faut toujours vérifier le résultat.
+
+| Ancien | Bible | Exemple ancien | Bible | Sens |
+| --- | --- | --- | --- | --- |
+| *ty* | **c** | Paulme *tyal* | {{cal}} | s'asseoir, habiter |
+| *ny* | **ɲ** | Paulme *nyunã* | {{ɲuna}} | demander |
+| *t* devant *u* + voyelle, *tü* de Paulme | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | hache, chèvre |
+| *w* en début de mot ou entre voyelles, *ẅ* de Paulme | **v** | Paulme *wana*, *ẅiyo*, *kowã* | {{vana}}, {{vííyo}}, {{koovan}} | personne, orphelin, sang |
+| *u* après une voyelle en fin de mot | **w** | *tau*, Sandara *gbou* | {{taw}}, {{kpow}} | très, tout |
+| *w* après une consonne | **u** | Sandara *lwɛi* | {{luɛi}} | entrer |
+| *y* après une voyelle | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | entrer, avant-hier |
+| *y* entre une consonne et une voyelle | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | santé, raser |
+| *gb* | **kp** | Sandara *gbou* | {{kpow}} | tout |
+| *r* | **l** (la Bible ne garde *r* que dans les noms propres et les emprunts) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | ne… pas, aller |
+| *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | donner |
+| barre sur la voyelle (longueur) | le plus souvent une **voyelle double** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | saisir, mouton, os |
+| tilde (voyelle nasale) à la fin d'un nom | **voyelle + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | mains, racines, sommeil |
+| tilde à la fin d'un verbe | souvent **rien** | Paulme *nyunã* | {{ɲuna}} | demander |
+| *ɛ*, *ɔ*, *ŋ*, consonnes doubles | inchangés | Paulme *kɔllo*, *hɛlle* | {{kɔllo}}, {{hɛlle}} | cœur, sel |
+
+!!! keita "Guéckédou et Kissidougou"
+    Quand Paulme donne une forme de Guéckédou et une de Kissidougou, la Bible a souvent celle qui est proche de Guéckédou : Paulme *tyɛyo* (G.) / *kyɛyo* (K.) « maison », Bible {{cɛiyo}}. C'est une tendance observée sur quelques mots, pas une règle ; c'est la forme de la Bible qui décide.
+
+!!! note "Pas de conversion mécanique"
+    Comme pour l'orthographe de 1979, ces règles donnent une forme candidate, pas la réponse : les voyelles diffèrent souvent aussi (Paulme *kul* « boire », Bible {{kolɔɔ}} ; Paulme *luã* « sommeil », Bible {{lɔan}}). Un mot tiré de ces sources entre dans le lexique dans l'orthographe de la Bible, avec la forme imprimée conservée dans son champ de source ; si la Bible ne l'a pas, il est marqué « réécrit » (voir [Comment lire ce guide](../introduction/how-to-read.md)).

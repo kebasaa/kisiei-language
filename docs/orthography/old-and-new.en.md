@@ -1,6 +1,6 @@
 # From the old to the new spelling
 
-Kisiei texts from the 1970s and 1980s, including Keita's manual ([[Keita1979|1979]]), are written in the old spelling. This page explains how to read them and rewrite them.
+Kisiei texts from the 1970s and 1980s, including Keita's manual ([[Keita1979|1979]]), are written in the old spelling. This page explains how to read them and rewrite them. The last section does the same for two older northern sources, Paulme's vocabulary (1940s) and the fables *Sandara Kissia*.
 
 ## Basic correspondences
 
@@ -87,3 +87,38 @@ flowchart TD
 | *Yöngu ndu* | {{yɔngu ndu}} | give him |
 | *Nhömpum* | {{ŋɔmpum}} | six |
 | *Lènnden* | {{lɛŋnden}} | the country |
+
+## Older northern sources: Paulme (1964) and *Sandara Kissia*
+
+Two further northern sources predate the Bible and follow neither the 1979 spelling nor the current one:
+
+- **Denise Paulme's vocabulary and texts** [[(Paulme1964)]], collected in 1945–1949 around Kissidougou and Guéckédou, use her own phonetic notation (her p. V): a bar over a vowel for length, a tilde for nasality, *ü*, *ẅ* and *ty*, *ny*. She marks many words G. (Guéckédou) or K. (Kissidougou).
+- ***Sandara Kissia***, the fables published by the Protestant Mission of Kissidougou [[(SandaraKisia)]], use an older missionary spelling (*ty*, *ny*, *ŋg*, *gb*, *w*, *r*).
+
+The *Lexique kissi–français* [[(LexiqueAnonyme)]] is already typed in the current spelling and needs no conversion beyond the checks below.
+
+Neither Paulme nor *Sandara Kissia* marks tones. The table below was worked out by comparing their words with the Bible's: about 60 of Paulme's headwords with the same meaning in the Bible, and every word of *Sandara Kissia* (with these rules, the share of its running words found in the Bible rises from 59 % to 80 %). The rules hold for most words, not all: always look the result up.
+
+| Old | Bible | Old example | Bible | Meaning |
+| --- | --- | --- | --- | --- |
+| *ty* | **c** | Paulme *tyal* | {{cal}} | sit, live |
+| *ny* | **ɲ** | Paulme *nyunã* | {{ɲuna}} | ask |
+| *t* before *u* + vowel, Paulme *tü* | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | axe, goat |
+| *w* at the start of a word or between vowels, Paulme *ẅ* | **v** | Paulme *wana*, *ẅiyo*, *kowã* | {{vana}}, {{vííyo}}, {{koovan}} | person, orphan, blood |
+| *u* after a vowel at the end of a word | **w** | *tau*, Sandara *gbou* | {{taw}}, {{kpow}} | very, all |
+| *w* after a consonant | **u** | Sandara *lwɛi* | {{luɛi}} | enter |
+| *y* after a vowel | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | enter, the day before yesterday |
+| *y* between a consonant and a vowel | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | health, shave |
+| *gb* | **kp** | Sandara *gbou* | {{kpow}} | all |
+| *r* | **l** (the Bible keeps *r* only in names and loanwords) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | not, go |
+| *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | give |
+| bar over a vowel (length) | usually a **double vowel** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | catch, sheep, bone |
+| tilde (nasal vowel) at the end of a noun | **vowel + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | hands, roots, sleep |
+| tilde at the end of a verb | often **nothing** | Paulme *nyunã* | {{ɲuna}} | ask |
+| *ɛ*, *ɔ*, *ŋ*, double consonants | unchanged | Paulme *kɔllo*, *hɛlle* | {{kɔllo}}, {{hɛlle}} | heart, salt |
+
+!!! keita "Guéckédou and Kissidougou"
+    Where Paulme gives a Guéckédou and a Kissidougou form, the Bible often has the one closer to Guéckédou: Paulme *tyɛyo* (G.) / *kyɛyo* (K.) “house”, Bible {{cɛiyo}}. This is a tendency seen in a few words, not a rule; the Bible form decides.
+
+!!! note "No mechanical conversion"
+    As with the 1979 spelling, these rules give a candidate, not the answer: vowels often differ too (Paulme *kul* “drink”, Bible {{kolɔɔ}}; Paulme *luã* “sleep”, Bible {{lɔan}}). A word taken from these sources goes into the lexicon in the Bible's spelling, with the form as printed kept in its source field; if the Bible does not have it, it is marked “respelled” (see [How to read this guide](../introduction/how-to-read.md)).
