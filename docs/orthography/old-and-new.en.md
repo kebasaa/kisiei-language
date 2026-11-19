@@ -103,19 +103,23 @@ Neither Paulme nor *Sandara Kissia* marks tones. The table below was worked out 
 | --- | --- | --- | --- | --- |
 | *ty* | **c** | Paulme *tyal* | {{cal}} | sit, live |
 | *ny* | **ɲ** | Paulme *nyunã* | {{ɲuna}} | ask |
-| *t* before *u* + vowel, Paulme *tü* | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | axe, goat |
-| *w* at the start of a word or between vowels, Paulme *ẅ* | **v** | Paulme *wana*, *ẅiyo*, *kowã* | {{vana}}, {{vííyo}}, {{koovan}} | person, orphan, blood |
+| Paulme *tũ*, *tü* (plain *tu* usually stays *tu*) | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | axe, goat |
+| *w* at the start of a word, Paulme *ẅ* | **v** | Paulme *wana*, *ẅiyo* | {{vana}}, {{vííyo}} | person, orphan |
+| *w* between vowels | **wv** (sometimes **v**) | Paulme *nawo*, *pevo*; *kowã* | {{nawvo}}, {{pewvo}}; {{koovan}} | cattle, pig; blood |
 | *u* after a vowel at the end of a word | **w** | *tau*, Sandara *gbou* | {{taw}}, {{kpow}} | very, all |
 | *w* after a consonant | **u** | Sandara *lwɛi* | {{luɛi}} | enter |
 | *y* after a vowel | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | enter, the day before yesterday |
 | *y* between a consonant and a vowel | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | health, shave |
-| *gb* | **kp** | Sandara *gbou* | {{kpow}} | all |
+| *gb*, and often Paulme's *b* | **kp** | Sandara *gbou*; Paulme *bɛro* | {{kpow}}; {{kpeloo}} | all; bed |
+| Paulme *md* | **mnd** | Paulme *kumde* | {{kumnde}} | smoke |
 | *r* | **l**: Kisiei does not distinguish *l* and *r*; some varieties (Kissidougou, where *Sandara Kissia* was written) say *r* where others say *l*, and the Bible always writes *l* (*r* only in names and loanwords; see [Regional varieties](../introduction/dialects.md)) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | not, go |
 | *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | give |
 | bar over a vowel (length) | usually a **double vowel** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | catch, sheep, bone |
 | tilde (nasal vowel) at the end of a noun | **vowel + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | hands, roots, sleep |
 | tilde at the end of a verb | often **nothing** | Paulme *nyunã* | {{ɲuna}} | ask |
 | *ɛ*, *ɔ*, *ŋ*, double consonants | unchanged | Paulme *kɔllo*, *hɛlle* | {{kɔllo}}, {{hɛlle}} | heart, salt |
+
+Further correspondences hold for many of Paulme's words but not all: her *u* is often the Bible's *o* (*buryo* “wound”, Bible {{booluu}}); her final *-o* is often *-ɔɔ* (*namtano*, Bible {{namtanɔɔ}}), as in agent nouns; her final *-e* is sometimes *-en* (*bolle*, Bible {{bollen}}); her *ty-* is sometimes *ki-* (*tyallo*, Bible {{kiallo}}); her *y-* is sometimes *ɲ-* (*yuna*, Bible {{ɲuna}}). Her mark /S./ means “south” (a southern word), not a third dialect.
 
 !!! keita "Guéckédou and Kissidougou"
     Where Paulme gives a Guéckédou and a Kissidougou form, the Bible often has the one closer to Guéckédou: Paulme *tyɛyo* (G.) / *kyɛyo* (K.) “house”, Bible {{cɛiyo}}. This is a tendency seen in a few words, not a rule; the Bible form decides.

@@ -103,19 +103,23 @@ Ni Paulme ni *Sandara Kissia* ne notent les tons. Le tableau ci-dessous a été 
 | --- | --- | --- | --- | --- |
 | *ty* | **c** | Paulme *tyal* | {{cal}} | s'asseoir, habiter |
 | *ny* | **ɲ** | Paulme *nyunã* | {{ɲuna}} | demander |
-| *t* devant *u* + voyelle, *tü* de Paulme | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | hache, chèvre |
-| *w* en début de mot ou entre voyelles, *ẅ* de Paulme | **v** | Paulme *wana*, *ẅiyo*, *kowã* | {{vana}}, {{vííyo}}, {{koovan}} | personne, orphelin, sang |
+| *tũ*, *tü* de Paulme (le *tu* simple reste le plus souvent *tu*) | **cu** | Paulme *tũei*, *tũindo* | {{cuei}}, {{cuinndo}} | hache, chèvre |
+| *w* en début de mot, *ẅ* de Paulme | **v** | Paulme *wana*, *ẅiyo* | {{vana}}, {{vííyo}} | personne, orphelin |
+| *w* entre voyelles | **wv** (parfois **v**) | Paulme *nawo*, *pevo* ; *kowã* | {{nawvo}}, {{pewvo}} ; {{koovan}} | bovin, porc ; sang |
 | *u* après une voyelle en fin de mot | **w** | *tau*, Sandara *gbou* | {{taw}}, {{kpow}} | très, tout |
 | *w* après une consonne | **u** | Sandara *lwɛi* | {{luɛi}} | entrer |
 | *y* après une voyelle | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | entrer, avant-hier |
 | *y* entre une consonne et une voyelle | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | santé, raser |
-| *gb* | **kp** | Sandara *gbou* | {{kpow}} | tout |
+| *gb*, et souvent le *b* de Paulme | **kp** | Sandara *gbou* ; Paulme *bɛro* | {{kpow}} ; {{kpeloo}} | tout ; lit |
+| *md* de Paulme | **mnd** | Paulme *kumde* | {{kumnde}} | fumée |
 | *r* | **l** : le kisiei ne distingue pas *l* et *r* ; certains parlers (Kissidougou, où *Sandara Kissia* a été écrit) disent *r* là où d'autres disent *l*, et la Bible écrit toujours *l* (*r* seulement dans les noms propres et les emprunts ; voir [Variétés régionales](../introduction/dialects.md)) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | ne… pas, aller |
 | *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | donner |
 | barre sur la voyelle (longueur) | le plus souvent une **voyelle double** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | saisir, mouton, os |
 | tilde (voyelle nasale) à la fin d'un nom | **voyelle + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | mains, racines, sommeil |
 | tilde à la fin d'un verbe | souvent **rien** | Paulme *nyunã* | {{ɲuna}} | demander |
 | *ɛ*, *ɔ*, *ŋ*, consonnes doubles | inchangés | Paulme *kɔllo*, *hɛlle* | {{kɔllo}}, {{hɛlle}} | cœur, sel |
+
+D'autres correspondances valent pour beaucoup de mots de Paulme, mais pas pour tous : son *u* est souvent le *o* de la Bible (*buryo* « blesser », Bible {{booluu}}) ; son *-o* final est souvent *-ɔɔ* (*namtano*, Bible {{namtanɔɔ}}), comme dans les noms d'agent ; son *-e* final est parfois *-en* (*bolle*, Bible {{bollen}}) ; son *ty-* est parfois *ki-* (*tyallo*, Bible {{kiallo}}) ; son *y-* est parfois *ɲ-* (*yuna*, Bible {{ɲuna}}). Sa marque /S./ signifie « sud » (mot du Sud), et non un troisième parler.
 
 !!! keita "Guéckédou et Kissidougou"
     Quand Paulme donne une forme de Guéckédou et une de Kissidougou, la Bible a souvent celle qui est proche de Guéckédou : Paulme *tyɛyo* (G.) / *kyɛyo* (K.) « maison », Bible {{cɛiyo}}. C'est une tendance observée sur quelques mots, pas une règle ; c'est la forme de la Bible qui décide.
