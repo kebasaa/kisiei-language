@@ -7,7 +7,7 @@
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–72 (front matter; lexicon a – muyo, typescript pp. 1–66) done.
+> - **Progress:** PDF pp. 1–92 (front matter; lexicon a – pyisultã, typescript pp. 1–86) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -997,5 +997,278 @@
 - muyo, pl. muya : moustique.
 
 ## PDF p. 72 (p. 66)
+
+> Blank page.
+
+## PDF p. 73 (p. 67) — N
+
+- na : pronom personnel du pluriel. a, la, na.
+- na : non.
+- na, nan : bien, bon. ɔ na : ceci est bien, il est bon. u nan tau : tu /es/ très bon.
+- naa, pl. nara : maladie. naa kɛndu = maladie qui dure, agonie.
+- nale bullo : mal de tête. /na = maladie/.
+- namala : le Ciel /catéchisme/.
+- namtano, pl. namtaa : wana namtano : infirme, namtano ni : c'est un infirme.
+- nando : bonté.
+- nano : 5ème mois.
+- nanum : jusqu'à /temps et espace/. nanum a tɛno : jusqu'à lundi. nkwɛ nanum te : nous ne sommes pas allés jusque /là/.
+- nawo, pl. nawa : bovin, nawo lendu : vache, nao lando /G./. nawo furuo : le boeuf de la dot. nawo baŋamasa : le boeuf de rachat du chef. grande fête funéraire, pour les seuls grands chefs. nawo tɔwa taureau, tɔwa : mâle, ou taureau ?. nawɔ tuao : veau /tuambo/.
+- ndè : mère.
+- nɛ, nɛnɛ : qui ?
+- ne, ni = pour, dans l'intention de /copule/. a tyɛn kɛrani : ils veulent, voudront voyager.
+
+## PDF p. 74 (p. 68)
+
+- neda, pl. nedara : marmite, tripode – en fonte.
+- nɛndo, pl. nɛnda : chauve-souris /petite/. nɛndo tyɛn ni ityɔl : la chauve-souris vole la nuit.
+- nɛyneka : partout, n'importe où. ɔ kwa nɛyneka : il se promène partout.
+- nɛɔ̃ : clef /en fer/.
+- nɛya : avoir mal à... bawo nɛya : j'ai mal à la main. bulle le nɛya : j'ai mal à la tête.
+- nɛyo, pl. nɛyra : chemin, route. nɛy ne ka : partout. nɛy ɔ bɛndu : la route est longue.
+- ni, ɔ... ni : dans. ɔ tuɔ hini tyɛ ni : il est couché dans la maison. menda dɔwo ɔ tala ni : il verse de l'eau dans une calebasse.
+- ni, ɔ ... ni : suffixe d'appartenance. tyɛ ɔ Fasa ni : la maison de Fasa. a mumo mi ni : voici le riz pour moi, ce riz est pour moi.
+- nile, pl. nira : oreille. nilã /G./.
+- nimo, nimɔ /vocatif/ : femme de l'oncle utérin. mari de la soeur aînée /homme parlant/, soeur aînée du mari, fille de la soeur cadette de la femme. peut exister entre 2 hommes et 2 femmes. On peut plaisanter, c'est comme bɔrale.
+- ninte : mal, mauvais, méchant. /te, négatif/. ɔ ninte il est laid, contraire de nan.
+- ninu kɛnde : au revoir, bonne journée.
+- ninya, nyina, au singulier, nyina du pilɛ : diables noirs, grands ou petits, queue ; pieds tournés à l'envers. Marchent à 4 pattes. yom nina : arbre réservé sur le champ ; on y offre sacrifices avant les semailles.
+- nira keltã : variété d'herbe. On lave avec le Kamano qui a enfreint son tana /panthère/. id. enfant empoisonné.
+
+## PDF p. 75 (p. 69)
+
+- nisɛ, nsɛ : vocatif, bonjour.
+- nɔ : ɔ nɔ : il possède. ɔ nɔ wuryɔ̃ tau : il possède beaucoup d'argent. la nɔ : impératif 2ème personne.
+- nɔ, nɔa : voici, voilà. nɔ kuwã : voici le remède. nɔa pɔnɔ nɔ : voici mon mari. /formule de moquerie des soeurs cadettes de l'épouse bɔrale/.
+- nɔa, nwa : nɔau wando huŋo : regarde l'homme qui vient ou : voici... i nɔa : je regarde, nɔa ndo : le voici.
+- nɔɔ : saleté.
+- nɔm, num, nɔndo : tu, ton, toi. dɛmbe nɔndo sɛ : ton ventre /est/ pourri – nɔmsɛ : eh, toi.
+- nɔma /G./, nɔmaa /K./ : huit, /5 + 3/.
+- nɔma nwɔlu /K./, nɔma yɔlɔ /G./ : quatre.
+- nɔra : i nɔra : je peux, j'ai pu.
+- nɔra : ɔ nɔra : il est sale. mo nɔrya wurɔla /n nɔre/ : il salit /ses/ vêtements. ɔ tyɔ nɔrye = il est sale, kurala nɔryala : des pagnes sales.
+- nono /G./, nonuã /K./ : lait. nonuã nawo : le lait de la vache.
+- noŋo, pl. noŋora : variété d'arbre du genre Ficus, très grand, non utilisé en menuiserie.
+- nsɛ, sɛ : interpellation, salut du matin.
+- nuamu : sept /5 + 2/.
+- nuɛn /K./, nuɛnu /G./ : cinq – nwɛnu : cinq /specimens/ ɛnuɛn en Krim.
+- numno : forgeron.
+- nuya : i nuya : j'ai cherché. i tyire = je n'ai pas
+
+## PDF p. 76 (p. 70) — Ŋ
+
+> Continues nuya from p. 69.
+
+- … trouvé. cf. i nɔa : je regarde. cherchez = nuya.
+- nuɔlu /K./, nyɔlu /G./ : quatre.
+- ŋul, ŋivul : bouillir. mumu ɔ ŋul : le riz bout ou mumu ŋul. mɛnda ma ŋwul : l'eau a bouilli. yɛndɔ mɛnda ma ŋwul, la femme a fait bouillir l'eau.
+
+## PDF p. 77 (p. 71) — NY
+
+- nya, na, ya : trois. i tyi wanda naya : j'ai vu trois hommes.
+- nya, nyano : courir. nyano ndu kɔ li : cours lui derrière. i nyano = je cours.
+- nyafindo, nafindo /K./ : panthère. nyafindo buri wana pɔno : la panthère a tué un homme.
+- nyalo, pluriel – pas de singulier – amusements lors d'une fête ; danse avec yimbo.
+- nyama : maladie /voisine de la gale/ causée par infraction au tana.
+- nyamakafuo : terme générique pour toutes les fêtes très réussies.
+- nyamakala, pl. nyamakalla : griot.
+- nyanɔndo : course.
+- nyasa : cadeau de sortie des excisées au tɛmbɔ. cadeau aux musiciens lors de la fête de sortie d'excision. id. lors d'un décès, cadeau aux musiciens. cadeau à la mère lors de l'imposition du nom.
+- nyasu : mi nyasu nɔm : je te griffe. nyasu ndu = griffe-le.
+- nyasundo : se gratter. i nyesu : je me gratte.
+- nyayo, pl. nyaya : chat – ou nyayo. furu nayo : la dot /le prix/ du chat.
+- nyɛy : paiement, salaire. nyɔ he nan du tau : il est très content de son salaire.
+- nyɛy : chose. nyɛye fefele : aluminium, fefele : léger.
+
+## PDF p. 78 (p. 72)
+
+- nyɛy biŋilando : choses mélangées, offrande aux morts impurs. cf. binyuwo, troubler. nyɛy diyo : la chose du matin, soleil à son lever, de bonne heure, nyɛy mela : le dernier. nyɛy panday : chose achetée. cf. ɔ pɛndu : il a acheté. nyɛ pɔmo, /nyɛypɔmbo/ : peu /chose petite/. nyebɛnduo : rhombe. /litt. chose grande/. nyɛy wɔndo : cimetière des premiers-nés et des lépreux. wɔndo = mauvais.
+- nyɛle : invariable. bâtonnet de potière pour impression de décor, cylindrique.
+- nyɛnyɛre : cela va bien, réponse au salut a lɔ kɛnde.
+- nye : nye pɔmbo nye pɔmbo : peu à peu.
+- nye saneye : de nouveau.
+- nyema, pl. nyema : scorpion. nyemakilla = la piqûre du scorpion.
+- nyendam : dessins en relief représentant des têtes humaines, les ancêtres.
+- nyimda, yimda, nyumda, nyumdã, yumdã : nuit, soir.
+- nyna tuɔ : chasse aux diables.
+- nyinde : feu. nyinda tyɛlo : foyer.
+- nyira pisilo : quelque chose pour s'amuser. /jouet imitant l'accordéon/.
+- nyo : amulette, métier à tisser recouvert d'un morceau d'étoffe de coton ; assure la prospérité. sans doute nyɛy.
+- nyuma : vendredi, banda nyuma : fromager du vendredi, arbre sacré /Ouendé et Koladu/.
+- nyumasi /G./ : semaine.
+- nyumasyo /G./, yumasyo : dimanche.
+
+## PDF p. 79 (p. 73)
+
+- nyunã : a nyuna : ils demandent – nyuna ndo : demandez-lui.
+- nyuru : mumu ɔ tyɔ ɔ nyuru : le riz est froid ou : mumu nyuruwo. nyɛy nurye : chose humide.
+- nyuruma : médicament, remède /généralement infusion/, antidotes des kɔwã.
+- nyuruwo : nyɛy nyuruwo : choses humides. au singulier : nyɛy nyuruwe. ũisin nyuruwo = viande fraîche, mɛnda nyuruwa : de l'eau froide.
+
+## PDF p. 80 (p. 74)
+
+> Blank page.
+
+## PDF p. 81 (p. 75) — O
+
+- ɔ, lɔ : particule indiquant le mouvement. tyɛy tyɔ tyɛy ɔ ikɛy : le mortier est contre la case.
+- ɔ, lɔ : i hillɔ : je monte. i tuallɔ : je descends.
+- ɔ ... ni : ma kwa ɔ yundu ni : ils partent dans la brousse.
+- ɔ, hɔ : il, elle, celui-ci, celle-ci. ɔ tyɔ wɔ ? qui est-ce ?
+- okɔ̃ : variété de liane. Les fillettes du bundo s'en font des colliers.
+- ɔnura : bonsoir. formule de politesse /soir/.
+- ɔy : oui.
+
+## PDF p. 82 (p. 76)
+
+> Blank page.
+
+## PDF p. 83 (p. 77) — P
+
+- pā, paa, pl. parã /K./, palã /G./ : pā bawo = os du bras. pā bɛŋuo = os de la jambe. pā = os.
+- padile /G./, gbadile, gbandile /K./ : patate.
+- pākyo : variété de bois. On y taille les tambours xylophones, kɛnde.
+- pākɔ : haie d'épineux.
+- palando, pl. palantan : estagnon,
+- pāle, palle : jour, soleil, lumière. palle : palle lɛde : le soleil est tombé /vers 18 heures/, palle lɛdil : le soleil va tomber /vers 17 heures/. palle : palle lɛsɛla : le soleil commence à descendre /14 heures/, palle a yumda : le jour et la nuit /24 heures/. palle lɛse : le soleil se lève. palle saleŋy : le soleil qui sort, aube = palle lɛse.
+- pālekale : feuille /pansement des excisées/. pale = os, ka = indigo.
+- palekɛule ou palekɛwo : "os de serpent", les feuilles ou racines ? de cette plante en décoction donnent un purgatif.
+- palekɛwo : les feuilles de cette plante données en inhalation contre les maux de tête ou de ventre. Elles sont employées dans les rites de purification yallo à Kiesane, canton Kossa.
+- pambae, pambale ou pambɛy : arbustes qui poussent sur le pambaeniŋ.
+- pambɛ y kɔsɔa : ou pambɛy ma : le pambae du kɔsɔa /autel pour purifications/.
+- paŋa, pl. paŋara : paillotte dans les champs.
+
+## PDF p. 84 (p. 78)
+
+- paŋye, pl. paŋuo, paŋi, pl. paŋo : mois lunaire.
+- paŋi, pl. paŋwo : lune. paŋe sanɛye : nouvelle lune, paŋye idɛndu : pleine lune, "la lune est claire, propre", paŋye i dil : lune décroissante.
+- pandu : mâle, opiando /G./ = mâle. suɔ pandu = étalon.
+- pɛ : si. mala n tyu pɛ kowɔ : si on a fini de récolter le riz. malɔn tyu kowo : on a fini de récolter le riz.
+- pɛ : être plein. tala pɛ : la calebasse est pleine. fɔ pɛ : il faut que ce soit plein. pei : pei tala : remplissez la calebasse. i pei tala : je remplis la calebasse. tala peiyo : remplir la calebasse.
+- pɛgba : dixième mois.
+- peŋebɛ̃ndo, pl. piŋyabɛndua : mouche /espèce de/ "la grande mouche", bousier.
+- pɛmbei /G./ : montagne.
+- pɛndekɛɔ̃ : variété de riz de montagne /malo pullo/, se sème en août ; mûr en octobre.
+- pɛndo : acheter, achat. K. : ɔ pɛndo : il a acheté, il a payé. G. : ɔ pɛndu. pɔndu : achète /imp./.
+- pɛnduno, pl. pɛndua : jumeau.
+- pɛndyo : ɔ pɛndi tyando : /le bébé/ a beaucoup pleuré, pleuré fort. tandile pɛndi ou pɛndyo : éclater. le tonnerre a grondé beaucoup, éclaté.
+- peŋe : bousier. /ou pɛŋebɛnduo/ – peŋe dɛlu sunte : le bousier ne peut pas tomber. /devinette/.
+- pɛŋuo, pl. pɛŋurã : frontières, limites. pɛŋuo ni = c'est la limite. pɛŋule lɛndo = la limite du canton.
+- pɛo : variété d'arbres.
+
+## PDF p. 85 (p. 79)
+
+- pɛrye, pl. peruã : jambe.
+- pɛruwo /pl./, perule, sing. : plantes cultivées en bordure du village. On mange les feuilles en sauce. sorte d'épinard.
+- pɛsɛle, pl. gbɛsyã : cure-dents,
+- pɛwo : variété d'arbre.
+- pɛwo, pl. pɛwa : serpent python, animal totémique. Kɛwo.
+- pɛy : avant-hier, sɔe i yɔnnun pɛy : la parole s'est passée avant-hier.
+- pɛwe, puɛy, pye : feuille.
+- pedombo : Jatropha curcas, euphorbiacée, vulg= purguère, pignon d'Inde.
+- peindo : parasolier.
+- pele, pile, pitɛ /G./, pl. petã : 1/ oeuf, 2/ testicule. pile sole : oeuf de poule.
+- pèle, pilɛ, pɛle, pilɔ : un, un seul, ya pilɛ : moi seul. sando du pilɛgbɛ kɛ : le lièvre seul de tous a refusé.
+- pelendin : flèche à une barbelure.
+- peli, pl. pelo /G./ : jambe. pɛrye, peruo /K./.
+- peŋɛy, pl. peŋenduo : côte.
+- peŋo, pl. peŋɔle : fleur.
+- peo, pl. pyera – peu, pl. pira : marigot, coin de rivière. pye, pyɛ̃, piyɔ – pyɛo – pye sɔla : coin de rivière sacré. pye bɛnduo : rivière.
+- petã bɔlɔla : scrobum – petã : oeufs, bɔlɔla : gorge.
+- pevo, pl. peva /G./ : porc – puwo, pl. powa.
+
+## PDF p. 86 (p. 80)
+
+- pilande, pl. pilanda : petit tube.
+- pile : semblable /un/. ɔ tyɔ nyɛy pile re : ce n'est pas la même chose – nyɛy pilɔ ni : c'est la même chose.
+- pim : i pim : je suis rassasié – cf. pumdo.
+- pimbullɔ : rouler à terre. pɔlã yalama pimbultɛ : l'excrément de la jeune fille ne roule pas. tuambo pimbul : l'enfant a roulé /par terre/.
+- pindo ; autel de chasseur.
+- pindo : fonio, pyinde lilinde : fonio /= paille du mange-mil/. pyenduo,
+- pindu : acheter. wan'lana pindu helle ɔ lɔ ni : la femme achète du sel au marché. achat = pundɔ.
+- piɔ /Guékédou/ : pluie. piɔ tul : il pleut.
+- pirakundo : /pye kundo/ mare des femmes.
+- pisio : vendre, vente, ɔ pisi : il vend, il a vendu. nyɛy pisio : chose vendue ; la pisi : vendez. o pisi tala : il a ôté la calebasse.
+- pisitã : amusements, fêtes, danses au clair de lune.
+- pisul : i pisul = je me suis amusée, la pisul = amusez-vous.
+- piwa : koma i piwã = Koma en feuilles. /s'opposent aux Koma yia, ou tyia, K. attachés/.
+- pɔ : variété d'arbre. Son écorce entre dans la composition du nyuruwa kundɔ à Kwakɛ. /Guékédou Sayani/. fruits = pɔwa.
+- pɔ : d'abord. i tyɛ ndu pɔ : je l'ai vu d'abord. tɔsa pɔ : faites /le/ d'abord.
+- pɔɔ : variété d'arbre, écorce utilisée pour inhalations
+
+## PDF p. 87 (p. 81)
+
+- … contre le rhume. Donne des fruits comestibles, pɔwã /aspect de l'olive/.
+- pɔbɔ̃ : dur.
+- pɔda : arbre. L'écorce pilée = suo, contre les sorciers.
+- pɔkena : forme d'initiation masculine.
+- pɔl : crever, éclater. pɛta n ta pɔl : l'oeuf est cassé. hindo pɔl : la fièvre est tombée, tyando pɔlo : annoncer le deuil, tala ɔ pɔl : la calebasse est cassée. tyando pɔlo : annonce du deuil. ɔ puɔ pɔlɔ : il casse la pierre. dɛmbo pɔl : le ventre a dégonflé /dans le ma/.
+- pɔla : mouiller, humecter. pɔla malo : mouille le riz. i pɔla = je /me/ mouille. la pɔla malo : il faut mouiller le riz.
+- pɔla, pɔlã, /K./ : excréments, posyã /G./.
+- pɔli : cultures, champs. a kwɛ ɔ pɔli : ils sont allés aux champs – cf. pullo.
+- polo, pɔlɔ, poro : l'écorce du polo est utilisée dans la confection d'objets magiques. /cf. barakawo/.
+- pɔndu : se plaindre. ɔ pɔndu : il s'est plaint, a pleuré beaucoup. nyamakala pɔndu : le griot a fait la louange très fort. tyando pɔndo : gémissement, sanglot du deuil. pɔnduo : gémissement plainte.
+- pɔm : pɔm wando : il est mort un homme, ta pɔm = l'année dernière. tye pɔm : le pays des morts. tye pɔmdo = un village ruiné, mort. vi mo fura pɔm : il est mort, il est sorti du tye pɔm /sous forme de pɔmdo/, pɔm ne s'emploie guère pour les animaux ; on dira plutôt tundo vi que pɔm tundo.
+- pɔmbale, pɔmbile : cactée fréquente sur les lieux de culte. pɔm bile = l'herbe des morts ? Dracaena.
+
+## PDF p. 88 (p. 82)
+
+- pɔmbiã : plante d'eau /Dogbɔdu, Wendé/ ; variété d'arbres /Kenema Bɛndu/.
+- pɔmbo : petit. pɔmbo : moins – ɔ tyɔ ne pɔmbo = il y en moins /ne pour nyɛy ?/. pɔmbo : nye pɔmbo nye pɔmbo : peu à peu, pɔmbonu : frère cadet, au sens large. voc. = pɔmbonu sɛ – "le petit". pɔmbo : pɔmbo suini : extrêmement petit, nyɛy pɔmboeni : très petit.
+- pɔmdo, pyɔmdo, pl. pɔmta : pierre sculptée qu'on trouve sur les tombes et les autels des ancêtres. pɔm'wama : pierre qui devine, transmet le message. pɔm'kandya : pɔmdo' habillé /pour divination/.
+- pɔpuo, popuo : variété d'herbe. /Tɛkulo, Dɛmbaduno/.
+- pɔri : farine d'écorce du bakɛo.
+- pɔsɔkɔ̄ : talisman – soigne les malades yallo.
+- pɔtɔtɔ : plante. Les feuilles sont un nyuruwa. /Ordalies/.
+- pɔwo, puwo, pl. pɔwa : phacochère. /cf. pevo, pyuwo : porc/.
+- powa, pɔpou, pl. pove : variété d'arbres. Avec les feuil- /= pipɔve/, on enveloppe les kolas, pousse dans les rizières. Bois utilisé en menuiserie.
+- po, powé : mitragyna ciliata, Rubiacée.
+- pondɛ = bâtonnet que le volé plante près de l'autel lanka en demandant le châtiment du voleur. Kouroumandou.
+- pono, pu, punu : 1/ fils, 2/ fils du frère. punu ni : c'est mon fils – pu Fara ni : c'est le fils de Fara.
+- ponono : terme de parenté à plaisanterie, femme parlant d'homme – ex. : femme de l'oncle utérin parlant au neveu – terme réciproque : vɛn nu.
+
+## PDF p. 89 (p. 83)
+
+- povo, pl. potã /G./ : pierre – puo /K./, pl. potã. povo /Specimens/, podo /Koelle/, povo /Thomas/.
+- pua /vocatif/ : père /au sens large/. pua bɛndu : frère aîné du père ; pua pɔmbo : frère cadet du père ; pua veria : père qui m'engendra. pua na sɛi : nos pères.
+- pule, pulle : intestin, nombril.
+- pule tando /de puo = pierre/ : pierre de foudre – hache néolithique – on aiguise dessus les couteaux.
+- pulikola ou kura : pl. purun kurɛy : bande d'étoffe tissée.
+- pullino, pl. pullinda : albinos – et aussi revenant.
+- pullo : brousse – tyɛy pulla : champ – malo n pullo : riz de montagne – i kwa ɔ pɔli : je vais au champ – pl. pɔlitã – pɔli i tyɛy = champ.
+- pulo, pl. puli : argile, terre. /G./ puro. bɛne purye : pot en terre – pulo saŋa = terre rouge – pulo tiŋe = terre noire.
+- pum : chaque, chacun, tous. tuambua pum : tous les enfants, lɔ pum : une autre fois, plus tard.
+- pum : i hunni tuma pum : je viendrai tout à l'heure. tuma ɔ pum = dans quelque temps.
+- pumdo : satiété. cf. pim.
+- pundɔ : achat, acheter. i tyɔ tuindo pundɔ : je veux acheter une chèvre, i pɛndu doma : j'ai acheté un boubou. la pundo : achetez.
+- pundo : onzième mois.
+- pundule, pl. punduo : avec les feuilles du pundule, on soigne les malades, la fièvre. herbe de jumeaux, fébrifuge. antidote du sambiyo nyuruwa sambiyo.
+
+## PDF p. 90 (p. 84)
+
+- pundule jundo : liane /chausse-trappe/ du kundo, ou nyuruwã du Kundo /racines ?/.
+- punyɛye : moucheté, tacheté – tambilo ɔ tyɔ punyɛy : la panthère est rayée.
+- puɔ : = pɔwo /K./ : l'écorce de puɔ entre dans la composition du kowã, élément du tɛmbo qui protège les excisées /Fangamadou/.
+- puo : puo bɔrɔ : autel culte des serpents, puo pɛndua : autel de jumeaux.
+- puo : puo kunduo, pl, pua kundurã : scories – entrent dans la confection des amulettes.
+- pupabɛndo /G./ : grand-père.
+- purondo : se laver. /K./ i puro, i puru : je me lave, /G./ i pilu mi pilu. a puru nte = tu ne t'es pas lavé, i kwa purando ɔ pɛo = je vais me laver au marigot.
+- puruo : terre, poussière. puro /1/ ndo /2/ pisio /3/ ɔ /4/ sɔndo /5/ : pour /2/ enlever /3/ la terre /1/ de /4/ la bouche /5/. Nom du premier sacrifice offert au mort, le lendemain ou le surlendemain de l'enterrement.
+- purule, puruo : gourmand – a nɔ purule n tau : tu es un vorace, jamais rassasié. wana le puruo ni : un homme très vorace.
+- puruno /G./, pl. purua = Blanc, Européen.
+- purye : grossesse. ɔ tyɔ a purye : elle est enceinte – G. furyo. ɔ vi a puryo wa ni : elle est morte enceinte.
+- puso, pusuo, pl. pusura : termitière. cf. pulo = terre.
+- putã : cendre. basu putã : balaie les cendres.
+- pute, kisɛy pute, pote : petit piment.
+
+## PDF p. 91 (p. 85)
+
+- pyeu, pl. pira, pyera : marigot, ɔ pè lɔ : au marigot /Samarin/.
+- pyi maa : feuilles du maa ; on dit aussi : nyuruwa maa.
+- pyɛy falinde : feuilles pour le premier pansement des excisées.
+- pyɛ fɔmo : variété de plantes /ou feuilles ?/ – autel bɔta, Kama c. Kossa. – feuilles sur lesquelles le sorcier fait sécher son sambiyo.
+- pye : feuille – pye wana ũilɛyo : feuilles des cadavres /= suaire de premiers-nés, tuɛy piyo/.
+- pyisultã : s'amuser. wana la pisulle : ceux qui s'amusent.
+
+## PDF p. 92 (p. 86)
 
 > Blank page.
