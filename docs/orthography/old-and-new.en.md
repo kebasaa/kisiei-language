@@ -110,7 +110,7 @@ Neither Paulme nor *Sandara Kissia* marks tones. The table below was worked out 
 | *y* after a vowel | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | enter, the day before yesterday |
 | *y* between a consonant and a vowel | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | health, shave |
 | *gb* | **kp** | Sandara *gbou* | {{kpow}} | all |
-| *r* | **l** (the Bible keeps *r* only in names and loanwords) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | not, go |
+| *r* | **l**: Kisiei does not distinguish *l* and *r*; some varieties (Kissidougou, where *Sandara Kissia* was written) say *r* where others say *l*, and the Bible always writes *l* (*r* only in names and loanwords; see [Regional varieties](../introduction/dialects.md)) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | not, go |
 | *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | give |
 | bar over a vowel (length) | usually a **double vowel** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | catch, sheep, bone |
 | tilde (nasal vowel) at the end of a noun | **vowel + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | hands, roots, sleep |

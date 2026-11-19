@@ -110,7 +110,7 @@ Ni Paulme ni *Sandara Kissia* ne notent les tons. Le tableau ci-dessous a été 
 | *y* après une voyelle | **i** | Paulme *luɛy*, *pɛy* | {{luɛi}}, {{pɛi}} | entrer, avant-hier |
 | *y* entre une consonne et une voyelle | **i** | Paulme *kɛndya*, *sendyo* | {{kɛndia}}, {{sendío}} | santé, raser |
 | *gb* | **kp** | Sandara *gbou* | {{kpow}} | tout |
-| *r* | **l** (la Bible ne garde *r* que dans les noms propres et les emprunts) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | ne… pas, aller |
+| *r* | **l** : le kisiei ne distingue pas *l* et *r* ; certains parlers (Kissidougou, où *Sandara Kissia* a été écrit) disent *r* là où d'autres disent *l*, et la Bible écrit toujours *l* (*r* seulement dans les noms propres et les emprunts ; voir [Variétés régionales](../introduction/dialects.md)) | Sandara *re*, *kɔraŋ* | {{le}}, {{kɔlan}} | ne… pas, aller |
 | *ŋg*, *ŋk* | **ng**, **nk** | Sandara *yɔŋgu* | {{yɔngu}} | donner |
 | barre sur la voyelle (longueur) | le plus souvent une **voyelle double** | Paulme *bī*, *sā*, *pā* | {{bii}}, {{saa}}, {{paa}} | saisir, mouton, os |
 | tilde (voyelle nasale) à la fin d'un nom | **voyelle + n** | Paulme *balã*, *dumbulẽ*, *luã* | {{balan}}, {{dumbulen}}, {{lɔan}} | mains, racines, sommeil |

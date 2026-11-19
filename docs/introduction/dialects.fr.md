@@ -24,7 +24,7 @@ Les annotations manuscrites de l'exemplaire numérisé [[Notes1979]] ajoutent d'
 !!! rule "Règle"
     **La Bible suit le parler de Guéckédou** : elle écrit *l* là où Kissidougou prononce *r* ({{kolaa}}, jamais *koraa*). La lettre *r* n'apparaît dans la Bible que dans des noms propres et des emprunts ({{Israɛl}}, {{Abraham}}). On écrit donc la forme en *l*, même si l'on prononce *r*.
 
-La répartition du *r* est confirmée par la description du kissi du Sud : le Nord a un *r* distinct, alors que le Sud n'a que *l*, dont [r] n'est qu'une variante rare [[(Childs1995, p. 10, 33, 157)]].
+*l* et *r* ne sont pas deux sons distincts pour les locuteurs du kisiei : ce sont deux prononciations d'une même consonne, que les parlers répartissent différemment (confirmé par un locuteur). La description du kissi du Sud attribue au Nord un *r* propre et au Sud seulement *l*, dont [r] n'est qu'une variante rare [[(Childs1995, p. 10, 33, 157)]] ; en kisiei, la différence est une affaire de prononciation entre parlers, jamais de sens, et l'orthographe écrit toujours *l*.
 
 ## Mots dont le sens change d'un parler à l'autre
 

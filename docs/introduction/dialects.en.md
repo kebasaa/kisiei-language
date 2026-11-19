@@ -24,7 +24,7 @@ The handwritten annotations in the digitised copy [[Notes1979]] add other Kissid
 !!! rule "Rule"
     **The Bible follows the Guéckédou variety**: it writes *l* where Kissidougou pronounces *r* ({{kolaa}}, never *koraa*). The letter *r* appears in the Bible only in proper names and loanwords ({{Israɛl}}, {{Abraham}}). So write the form with *l*, even if you pronounce *r*.
 
-The distribution of *r* is confirmed by the description of Southern Kissi: the North has a distinct *r*, whereas the South has only *l*, of which [r] is just a rare variant [[(Childs1995, p. 10, 33, 157)]].
+*l* and *r* are not two distinct sounds for Kisiei speakers: they are two pronunciations of the same consonant, which varieties distribute differently (confirmed by a speaker). The description of Southern Kissi treats the North as having an *r* of its own and the South only *l*, of which [r] is a rare variant [[(Childs1995, p. 10, 33, 157)]]; for Kisiei, the difference is one of pronunciation between varieties, never of meaning, and the spelling always uses *l*.
 
 ## Words whose meaning changes from one variety to another
 
