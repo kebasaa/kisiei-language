@@ -7,7 +7,7 @@
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–112 (front matter; lexicon a – tɔrɔma, typescript pp. 1–106) done.
+> - **Progress:** PDF pp. 1–132 (front matter; lexicon a – yembe ẅisyo, typescript pp. 1–126) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -1602,3 +1602,308 @@
 - tɔndunduo : tambour à membrane /usage funéraire/.
 - tɔŋolo : vent des ninya /tourbillon/. pluriel : tɔŋɔlo : j'ai vu le tɔŋɔlo.
 - tɔrɔma, pluriel invariable : chat sauvage.
+
+## PDF p. 113 (p. 107)
+
+- tɔrɔman : nom de louange /lisa/ de l'hippopotame /yirakama.
+- tɔwa : taureau /abréviation pour nawo tɔwa/ ; mâle.
+- toa, tua, pl. tuarã : harpe fourchue.
+- tokatyo : grenouille.
+- toma : tomabɛndu : grand toma, initiation au deuxième degré, Banama. toma : tomabundo, tɔmasadindo, sandenda, toma sambilo, tomadɛndo.
+- tɔmdo : singe.
+- tɔnya : vérité, vrai, /même sens en malinké/. tɔnya ni : c'est la vérité – ɔ tyɔ tɔnya : idem. ɔ tyɔ tɔnya re = ce n'est pas vrai.
+- tuã : harpe fourchue.
+- tuɔ : surveiller, écarter. tuambia a tyu yuwa tuɔ : les enfants, ils surveillent les oiseaux. la tu yuwa chassez les oiseaux.
+- tuɔ : i tuɔ sund' bumbua : j'ai creusé un trou /pour/ les rats mulots. sundo tyu tuɔ : le trou est creusé. la tuɔ : il faut creuser.
+- tua, pl. twa : fille. tua nu ni : c'est ma fille, tua Fara ni : c'est la fille de Fara – twa nya ni : c'est mes filles. /puo nu ni : c'est mon fils/. tualabɔ, tualɛgbɔ, tuɛlɛbɔ, tyɛlabɔ, pluriel : twalagbɛa : bébé, nouveau-né ; jusqu'au sevrage. tua : tua nɔ : ma fille /au sens large, fille du frère/, tua nu.
+- tual : i tual lɔ lɛn : je descends par terre – ɔ tual lɔ : il descend, il est descendu. cf. tul.
+- tuambo : tuambo wana lano : femelle – tuambo wana lando petite fille. /pluriel F. wanalɛndua/. tuambo wanapono /K./ : petit garçon – tuambo wanapando /G./ – tuambyĩ tyu kɛnde : tes enfants vont bien ? tuambya a tyɔ kɛnde.
+
+## PDF p. 114 (p. 108)
+
+- tuamulla : tombes des premiers-nés /S./.
+- tubabuno, pl. tubabua : Européens, Blancs.
+- tubɛra : variété d'arbre. La coque du fruit donne les petits hochets sphériques bɔzɔ̃.
+- tũɛ, tũɛo, tuɛ : ɔ tũɛ : il entend, il a entendu. i tũɛy : j'ai entendu. la tũɛy – a tũɛy ni : tu as compris, tu entendras. /a tũine/ a tũɛy nɛ : as-tu compris.
+- tuɛy, tũei, pl. tũeɔ̃ : hache.
+- tũɛyã : huile, graisse. tũɛy masanya : huile de palme /huile rouge/, tũɛy na nawo : beurre "huile de vache".
+- tũɛy, tũɛy, pl. tũɛytũɔã : lèvre. tyɔtũe, /G./ pl. tyɔtyɔ̃.
+- tuɛypiyo : premier enfant décédé, d'un ménage.
+- tuina : être en colère. i tũeyna – yara tuina : le lion est en colère. – ɔ tuina he nɔm : il est en colère contre toi. – la tũena.
+- tufɛy : nyɛy tufɛy : crachat – cf. tufɔ̃, cracher.
+- tufɔ̃ : cracher. i tufu = je crache, ɔ tufu sɔe = il a craché la parole /ou ɔ mena/. – la tufu nyɛy = crachez quelque chose.
+- tui, twi : ɔ tui : il a compris, il a entendu. ɔ tui suɔy mi re : il n'a pas compris mes paroles.
+- tũillɔ, pl. tũilla : porc-épic.
+- tũilyã /K./, tũilyã /G./ : urine, uriner. i tũili : j'ai uriné – la tũili.
+- tũindo, tũinda = chèvres. tyɛy tuinda : étable à chèvres.
+
+## PDF p. 115 (p. 109)
+
+- tul : tomber, descendre. yimda ma tul = la nuit est tombée. mɛnda ma tul : la pluie est tombée, – radical tul = descendre.
+- tulu : chauffer. yɛndu tulu mɛnda : la femme a /fait/ chauffer l'eau. tulu : mumu tulu ni : le riz chauffera – mumu tulu : le riz est chaud. i tulu : je fais chauffer.
+- tuma : début – tuma salle : début de l'hivernage.
+- tuma : depuis, dès que. tuma nyɛy diyo : depuis le matin – tuma nan tiyaniyo : dès que nous arriverons.
+- tuma : i hunni tuma pum : je viendrai tout à l'heure. i tyɛ tuma : j'ai vu alors.
+- tuma hɔ : pendant que – tuma hɔ i wa kɔra : pendant que je me promenais.
+- tumbun/ɔ/ fɔya : tous les lieux où l'on s'adresse aux ancêtres. tumbye, singulier. pluriel : tumbuo = sɔlulã. tali i tumbye ni : le tali est un tumbye.
+- tumbuo, tumbye : terme générique désignant les objets servant aux ordalies.
+- tumbuo : chaud. mɛnda tumbuã : /de l'/eau chaude.
+- tumburã : gerbes. tumburã ta tyu yi : les bottes elles sont finies attacher.
+- tumde, pl. tumdo : épi, malo n tumdo = épis de riz. mali tumde : un épi de riz.
+- tumdo, pl. tumtã : fesse.
+- tundã, tunduã : courbe – nɛy tundua : la route tourne.
+- tundo, pl. tunde : chien. tun'landu : chienne – tundo kɛla : le chien mord.
+- tunfundo : nu. ɔ tyɔ tunfundo : il est nu – pluriel :
+
+## PDF p. 116 (p. 110)
+
+- … tuntafundorã /2ème u entre o et u/ – de fundo : vide.
+- tunyo : sortir du feu, ôter du feu – i tunyi ũisyɔ̃ : ɔŋyin – j'ai sorti la viande du feu – la tunyi mumu : sortez le riz /du feu/.
+- tuŋo, pl. tuŋɔrã : paillotte à palabres. Il en existe une par lignage, sur la place. Le fondateur y est souvent enterré.
+- tuŋumɛsɔ : harpe-luth à 20 cordes.
+- tuo : "gâteau", soit de riz, de manioc, etc...
+- tuo : 1/ surveillance – 2/ chasser, éloigner, surveiller. le tɔmda tuo : pour chasser les singes. ɔ tuɔ tɔmda : il chasse le singe – la tu : chassez. i wa tuwɔ : je surveillais.
+- turundo : variété d'arbre.
+- turuno, pl. turuã : amuseur durant les fêtes de la circoncision – griot des circoncis et des excisées.
+- tusɛnde : feuilles de manioc employées dans la sauce. manioc doux, le meilleur. variété de manioc /yambɛi/.
+- tuwã : koma tuwã = koma brûlant, qui a tué beaucoup de gens. nyɛy tuve – de tuluo : chauffer.
+- tuyawa : farine de manioc bouillie, se mange en "gâteau" avec sauce.
+- tuyo, toyo : bouc. tw̃intoyo, pl. toiya.
+
+## PDF p. 117 (p. 111) — Ty
+
+> Paulme's *ty* corresponds to the current letter *c*.
+
+- tya : travail du sol : après hobus – il consiste à retourner la terre – on sème en même temps – la tya – tyawa = travail du tya – ɔ tyɔ tyawa : il fait le tya.
+- tyã /K./ tiɛy, singulier, tiya, pluriel : arachides. tɛy, pl. tɛɔ̃ /G./ – /cf. mal. tiga/. kɛ na tiyã donne-nous des arachides.
+- tyal : ɔ tyal : il est assis – tyal na taye : assois-toi entre nous – tyal lɛn = assois-toi par terre.
+- tyalê, pl. tyay : papaye.
+- tyaletumdo, pl. tyɛytumde : papayer.
+- tyallo, pl. tyalla : gazelle.
+- tyanda : les autres – tyanda hɛu tatyi : les autres sont partis en avant.
+- tyando : pleurer. ɔ tyan : il pleure, il crie. nyafindo tyan : la panthère crie. i tyando : je vais pleurer – la tyan : pleurez. tyando pɔlo : annoncer le deuil /litt. : "crever"/, pleurer.
+- tyando : ɔ tyando ni : c'est difficile.
+- tyanmamɛmo : les pleurs qui coulent /lamentations obligées du deuil/.
+- tyano, pl. tyanya nya : /mon/ camarade.
+- tyanyi sɛsɔ ou tyanyi kara : plaintes de l'aube, plaintes fortes – pleurs des femmes à l'aube du jour qui suit le décès – ɔ tyɔ tyanyi sɛsɔ ou a tyan tyanyi sɛsɔ.
+- tyaŋulo, pl. tyaŋulla : silure /petite espèce/.
+
+## PDF p. 118 (p. 112)
+
+- tyaŋwo : variété d'arbre.
+- tyao : mumu ntyao : riz sec – sans sel ni sauce –
+- tyatiyo : lam tyatiyo : sauce aux feuilles de manioc pilées et bouillies. tyatiyo pour yambɛi tiyo : les feuilles de manioc attachées.
+- tyāyo, pl. tyāye : variété d'arbre. La feuille, brûlée et mangée protège contre les effets du sambiyo. yɔm tyayo : donne des graines qui ressemblent au haricot.
+- tyɛ : ɔ tyɛ dusua : il a vu des chasseurs. i tyɛ wana pɔndua daya hun nɛy : j'ai vu trois hommes venir sur le chemin. la tyɛ – tyɔ tyi : il faut bien regarder.
+- tyɛko, pl. tyɛkelã : hochet en vannerie.
+- tyɛ, tyɛlɔ : accepter. i tyɛl : j'accepte, je veux bien, la tyɛl : acceptez.
+- tyɛrullo : être gras – masa tyɛrul : le chef est gras, wana tyɛrulla : un homme gras – cf. tw̃ɛyã : graisse.
+- tyɛnkɔnɔ̄, pl. tyɛnkɔnɔa : perroquet.
+- tyɛy, tyɛɔ, pl. tyɛra : maison – i nɔ tyɛra tatɛɔ̃ : je possède deux maisons.
+- tyɛɔ, pl. tyɛa /K./, tyɔ, pl. tyɔ̃ /G./ : village. tye pɔm : village des morts.
+- tyɛ̄yɔ, pl. tyɛrã : maison – tye kundu – tyɛy mã : circoncis et excisées y passent la nuit précédant l'opération.
+- tyɛn, tyan : il se lève, il quitte, il s'envole. yuwɔ tyɛn tyɔtyɔ : l'oiseau a volé vite. tyɛn : ɔ tyɛn : il se lève – la tyɛn : ils se sont levés.
+- tyɛŋyo : herbe-éléphant – /intervient dans le rituel du yamba, pour empêcher la pluie durant les défri-
+
+## PDF p. 119 (p. 113)
+
+- … chements/ – antidote des serpents.
+- tyɛwɔ, pl. tyɛɔrã : arc pour carder le coton.
+- tyɛy, pl. tyɛɔ̃ : champ.
+- tyē, pl. tyeɔ̃ : mortier.
+- tye, tyɛy, kyɛy, kɛy : hier.
+- tyelenni, tyileni : un autre. ɔ tyɔ ndure wana tyelenni : ce n'est pas lui, c'est un autre.
+- tyi : i tyi tya : j'ai fini le tya /= houage/. tumburã a tyini yi : tu finiras d'attacher les bottes. tyi : finir – la tyi ndu tyɔtyɔ : terminez vite ce travail. nyɛy tyu = chose achevée – tyɛy i tyu : la case est achevée.
+- tyilikundye : scories – kundua : marteau, masse.
+- tyilla : lianes maintenant les bottes de chaume sur le toit.
+- tyimole, pl. tyimoã : poinçon /pour faire le trou d'emmanchement des houes/.
+- tyinde, pl. tyindo : dent.
+- tyɔ, tyɔwa : construire – ɔ tyɔ tyɛy : il bâtit la case – la tyɔ : il faut construire – ɔ tyo tyɔwa il est en train de construire – tyɛyo tyu tyɔwa la maison est finie de construire.
+- tyɔ – tyɔ...ni : Tamba ɔ tyɔ ni : Tamba il est /ici/. sambiyo ɔ tyɔ kɔl'ndo ni = le sambiyo c'est son coeur. /ou sambiyo tyu kɔl' kuino ni/.
+- tyɔkatuo, pl. tyɔkatɔa : crapaud.
+- tyɔl : soir – kwɔyã a fura i tyɔl : les sorciers, ils sortent le soir.
+- tyɔlu : ajouter – tyɔlu malo : ajoute du riz. tyɔlu
+
+## PDF p. 120 (p. 114)
+
+- … mālo n tau = ajoute du riz il en faut plus – la tyɔlu = ajoutez.
+- tyɔm, tyɔmwo : montrer. tyɔm na suo : montre-nous le cheval – cf. ɔ tye : il voit – ɔ tyɔmndu : il le montre – la tyɔm.
+- tyɔmano, pl. tyɔmā : ou wana tyɔmā : ennemi du kuino et du mauvais wulumo. /= celui qui montre/.
+- tyɔmdo : les feuilles de cette plante en infusion sont un contre-poison.
+- tyɔmdo, pl. tyɔmdã : escargot.
+- tyɔndo : mil – tyɔndo n kullɔ̃ : grains de mil.
+- tyɔŋo : wana ũilɛya tyɔŋɔndo : prendre congé du cadavre – i tyɔŋu ndo : je lui ai dit au revoir.
+- tyɔŋo : servir /sortir de la marmite avec la petite calebasse, kalama, pour mettre dans un plat/. ɔ tyɔŋu mumu ɔ tala ni : elle a servi le riz dans une calebasse.
+- tyɔra : partir – 'ntyɔra n kɔ yɔyã : nous partons à la pêche au filet – cf. ɔ tya = il se lève. la tyɔra = partez.
+- tyɔrã, tyurã, tyɔwa /invariable/ : mensonge, mentir. tyɔra ni = c'est un mensonge. wanatyɔra = menteur. wana dimi tyɔrando = ce que l'homme a dit est un mensonge.
+- tyɔpiyo /G./, pl. tyɔpiya : écureuil. luŋo /K./, pl. luŋua.
+- tyɔrɔba : faire la guerre, se battre – ya tyɔrɔba = je me bats.
+- tyɔ tyɔ : vite – kɔ tyɔ tyɔ = va vite.
+- tyɔtwe, pl. tyɔtyɔ̃ /G./ : lèvre – kwekwe, pl. kwekɔã /K./.
+
+## PDF p. 121 (p. 115)
+
+- tyɔwa : tubabua dimi tyɔware : les Européens ont ordonné de ne pas mentir. ɔ tyɔre : il ment.
+- tyɔwo : guerre. i bunã tyɔwo : je fais la guerre. /bunã ne s'emploierait que dans ce sens – cf. mal. bon, boun = tirer sur, lancer à distance. ovi ɔ tyɔwo : il est mort à la guerre.
+- tyo = i hɛlu suo tyo : je monte à cheval. ɔ dil ya tyɔ il tomba sur moi.
+- tyolundo, pl. tyolunda : l'écorce du petit arbre entrerait dans la composition du kave sarino Boŋɔrɔ.
+- tyu, tyuwɔ : apporter – i tyu : j'apporte – tuambo tyu nda mumu : un enfant leur apporte un plat de riz.
+- tyu : piler. a tyu mālo : elle a pilé le riz. malun tyu tyuo : le riz est fini de piler.
+- i tyuba /G./ : je peux, j'ai pu. i tiuba kɔra : je peux aller.
+- tyua : prendre. ɔ tyua : il prend. la tua : prenez. nyɛy tua : prendre une chose.
+- tyulɔ, tyurɔ : morsure, coupure, mordre, couper. ɔ kil : il a mordu. i tyɛru : je coupe.
+- tyuluɔ̃ : floraison, fleurir. mālo tyuluɔ̃ ntyɔ ni = le riz est en train de fleurir – mālo n tyulu : le riz a fleuri.
+- tyumɔ : attendre. i tyum Fasa : j'attends Fasa ou i tyɔ Fasa tyumɔ.
+- tyumdo : attente. i tyum Fasa lɔ levil : j'attends Fasa depuis longtemps.
+- tyunduɔ : poussière /invariable/ – ɔ wim yawa a tyunduo : il devine dans la poussière.
+- tyuntyunka : graines de tyutyudo pour collier d'excisée.
+
+## PDF p. 122 (p. 116)
+
+- tyunyo : jeter par terre, déposer. mo tyunyi mɛnde : elle a jeté l'eau – mo tyunyi billo : elle a jeté la saleté.
+- tyuŋo, pl. tyoŋura, tyoŋo, pl. tyɔŋɔrã /K./ : bras, sans l'avant-bras. tyɔŋo, pl. tyɔŋulã /G./.
+- tyurɔ, tyaru : couper. ma tyaru ndo ũisye : ils ont coupé une partie de la viande de lui, eux couper une partie de la viande de lui. tyurɔ : kɛru. tyuɛɔ : yulɛn /1/ tyurɔ /2/ : couper /2/ la corde /1/. accorder un crédit, promettre un sacrifice sur un autel. ɔ tyɛru ũisyɔ̃ : il coupe la viande.
+- tyurɔmyo : dɛmbo tyurɔmyo : coliques – ɔ nɔ tyurɔmyɔ̃ : il a des coliques.
+- tyuryero, pl. tyuryera : lépreux dont les doigts sont tombés – wanɛne saŋa = c'est un lépreux /au premier stade/.
+- tyutyundo : variété d'arbre.
+- tyuwa : il prend, il a pris. ɔ tyuwa tala : il a pris la calebasse – la tyuwa : prenez.
+- tyuwo, pl. tyurã : mouvette plate.
+
+## PDF p. 123 (p. 117) — V
+
+- vā, vaa /G./ : mille.
+- vayele /G./ : taro – wayle /K./, waye, pluriel.
+- vavo /G./, wawo /K./, pluriel wawa : palmier.
+- vɛlo : a vɛlundu : il est né /il y a 6 ou 7 jours/, vɛnɔmdo vɛlo /wɛro/ wanapɔno : cette femme a accouché d'un garçon – cf. wurɔ.
+- vɛn : épouse. vɛn nu ni : c'est ma femme – vɛn nu : ma femme /employé par des parents comme plaisanterie pɔno no, bɔra no/. vɛŋa nya ni : ce sont mes femmes. – vɛnɔ /1/ ndo /2/ ɔ /3/ vi /4/ wanando /5/ bala /6/ : ta /2/ femme /1/ elle /3/ est morte /4/ chez un /6/ = dans la maison – de ses parents /5/. – vɛn bara : première épouse ; elle commande aux autres – vɛn sara /K./ sala /G./ : épouse "sara" du chef /tenue pour talisman/.
+- vɛnɛ : combien – vɛna...nɛ : comment – vɛnɛ bɔllɛi tyɛnɛ : combien de bananes.
+- vɛru : ɔ vɛru : il est né – cf. vɛlo – tuambɔ vɛru : un enfant est né – wanlana vɛru : la femme a accouché.
+- vɛsa : sec. i vɛsa : je suis sec. Kɔla vɛsɛyo : pagne sec. la vɛsya : séchez-vous, yɔmdo vɛsa : arbre sec. – vɛsa : i vɛsya kura : je fais sécher le pagne –
+- vɛvei : grelot – vɛvɛɔ̃, pluriel.
+- ve : ɔ ve nyɛy : il a caché la chose – de wunɔ.
+- velu : la velu : appelez – la velu sando : appelez le lièvre, cherchez le lièvre – ɔ velu : il a appelé.
+
+## PDF p. 124 (p. 118)
+
+- vi : i vi nyɛy : je cache une chose.
+- vi : ɔ vi : il est mort – /de wuɔ, mourir/.
+- vim : passé de wumo – i vim yawa : j'ai consulté la divination.
+- vinda = quenouille /petit rameau de palmier/.
+- vɔlyɔ̃ /G./, wurye /K./ : argent.
+- volibe /G./, wurile /K./ : sans argent. ɔ nɔ wurile : il n'a pas d'argent.
+
+## PDF p. 125 (p. 119) — W
+
+- wa : verbe auxiliaire – i wa la duo : j'étais pour manger – i wa la kɔrã : je voulais partir.
+- waā : cultiver tout le travail de la terre – wana wa : cultivateur ou wana va.
+- wabɛlɛ /K./, cf. va /G./ : mille.
+- waiyo : tétée – ɔ wɛ : il a tété – tuambo wɛy.
+- wala : acide /adjectif/ – nyɛy walaeni – dumbulle le wala : un citron acide – ɔ wala : il est acide. wala : être acide – dumbule le wala : les citrons sont acides.
+- wala, wará, pl. waralã : natte.
+- wama : pɔm'wamā : pɔmdo qui devine.
+- wana : personne, être humain. wana va : cultivateur – wana pɔno : individu mâle. wana pandua danyɔ̃ a kwani sodi : litt. hommes, deux, ils partiront demain. – wana bɔrɔ ; charmeur de serpents /Wendé/. wana kyaya : humanité, genre humain – wana lano pluriel wanalandua /G./ : femme – wanaratyuwa, wanalatyuwa, wanalatyola : menteur. – wana lua kɔla, kura : tisserand. – wana /1/ baŋula /2/ nyɔ̃ /3/ : sourd, homme /1/ oreilles bouchées ou wana nira baŋula. – wananɔkɔ wando : docteur – wanalana yɛmbu : jeune fille avant le mariage – wanapɔno yimbo : homme sans femme. – wanapɔno bɛndu : homme grand, adulte – wana suanda : tailleur /litt. homme qui coud/. – wana sumɛyo, sunyɛyo aveugle – wanalanano pɔno : jeune femme mariée – wana sundo : incirconcis, homme ce qui dépasse – wana yawa : devin, cuisinier. – wanalana, yuwa : vieille femme – wana yɔya : pêcheur au filet – wana ũilɛyo : mort, cadavre – sara wana ũilɛyo /= sara kɛndya/ sacrifice marquant la levée du deuil – wana yuwewo /K./ vieillard, pl. wanayuwɛya.
+
+## PDF p. 126 (p. 120)
+
+- … wana duɛyo /G./, pl. wanaduɛya. – wanawanaka : n'importe qui, tout le monde. wanawanaka tɔsa bara ho : que n'importe qui fasse ce travail. wana wyɛndo : homme marié.
+- wande, pl. wanda : nid.
+- wanga : petit sac contenant une poudre végétale. Fait produire des colas en abondance.
+- wanu : ɔ wanu wa : cela suffit – ɔ wanɔa.
+- waruo : se dit en hivernage, quand il n'a pas plu depuis 4 ou 5 jours.
+- wasale, pl. basã : gombo.
+- wau : ɔ wauni tautau : il restera longtemps.
+- wawo, pl. wawã : palmier à huile – wa pɛndua : le palmier des jumeaux /souvent lieu de culte dans le sud/.
+- wayle, pl. way/e/ : taro.
+- wɛ : ɔ wɛ, ɔ wɛy : il a tété. cf. waiyo = tétée.
+- wɛma palle : la chaleur du soleil /vers 8 heures ; le soleil commence à chauffer/.
+- wendu : femme-épouse. wɛn /1/ du /2/ tyu /3/ kɛnde /4/ ? ta /2/ femme /1/ va /3/ bien /4/ ?
+- ẅɛsya : mo ũɛsya mālo : elle fait sécher le riz. cf. vɛsa, vɛsya.
+- ẅɛyndã : lever du soleil, vers 6-7 heures.
+- wele : i tɔsa ni wele : je /le/ ferai encore.
+- ẅil : malo ẅil : le riz a poussé /dans la terre/, commencé à sortir – ne s'emploie que pour les végétaux – après le tya, premières pousses qui sortent de terre.
+
+## PDF p. 127 (p. 121)
+
+- wile, wile : voleur, voler – ɔ tɔsa uile : il a commis un vol – ui /1/ tyu /2/ wɔ /3/ ni : c'est /3/ toi /2/ le voleur /1/. – wile : nyɛye wile : chose volée – a tɔsa wile : ils ont volé /et non a kimbu wile/.
+- ẅise, pl. ẅisyã, ẅisyɔ̃ : viande, gibier. ẅisya yɔmdo ni : les bêtes de la brousse. ẅisye nyafindo = de la viande de panthère – a dɛ uisyɔ̃ tau : tu as mangé beaucoup de viande.
+- ẅisye, pl. ẅisyɔ̃ : morceau de viande, une fois l'animal découpé – wana ẅisilɛyo : cadavre d'homme – ẅisi ẅisilɛyo : cadavre d'animal. ẅisye –
+- ẅisyo : tɔlu ũisyɔ̃ : cadeau des invités aux funérailles tɔlu bisyɔ̃, tɔlu pɔmdo.
+- ẅiyɔndo : maladie contractée par infraction du totem. /Guékédou/.
+- ẅiyo, ẅiya : orphelin – ɔ ẅiyo ni, ɔ tya wiyoni : c'est un enfant orphelin.
+- wɔla : loin – wɔla ni : c'est loin – tiyɔ wɔla ni : le village est loin – cf. ɔ tyɔ levil.
+- wɔle, wɔlle : saison sèche.
+- wɔlye /G./, wurye /K./ pl. wuryɔ̃ : argent – cf. mal. wɔri/.
+- wɔmyo : galettes, crêpe en farine de riz.
+- wɔnda : mauvais – wana wɔnda : hommes mauvais ou wana wɔndya. wɔndo = wɔu ndu, – wana wɔndo ni ou ɔ tyɔ wana wɔndo : un méchant homme.
+- wɔndo : mauvais – kɔl'wɔndo = mauvais coeur, méchant.
+- wɔŋo, wɔŋu : prix. wɔŋo vɛnɛ : prix combien, quel prix ? wɔŋo tuma : cadeau de sortie des excisées au tɛmbo /S./ – cf. nyasa.
+
+## PDF p. 128 (p. 122)
+
+- wɔŋo, wɔŋu : kura ɔ kindu wɔŋuɔ : ce pagne est cher – /litt. : dur quant au prix/ – ɔ kindu wɔŋure = ce n'est pas cher.
+- wɔŋɔndo, pl. wɔŋɔnda : gros crapaud /buffle/ – vit dans l'eau.
+- wɔrɔtɔ, pl. wɔrɔtɔla : faucille.
+- wɔsutyala, pl. wɔsurã : cercles de pierres sur la place pour s'asseoir – /i tyal = je m'assois/, cf. wasyo.
+- wɔsye, wɔsyo = année.
+- wɔu : méchant – u wɔu tau : tu /es/ très méchant. cf. wɔndo.
+- wɔwɛyo : wana wɔwɛyo : épileptique. cf. wuwo : épilepsie. ɔ wɔu : il a eu une transe – ɔ tyɔ wɔwɛyo.
+- wɔwɔ : transe.
+- wu : i wu bale : j'ai lancé la flèche, i tyɔ balle wo : je suis en train de ... wɔ balle : lancez – voyelle finale entre o et u.
+- wule, pl. wura : genou – wuliŋ /Specimens/ – hub'uŋ en Warawara, Tonko, Safroko. – kab'uŋ en Biriwa.
+- wulu koŋo : rocher sacré, près Fɔniadu, Moussema Kossilan.
+- wulufa : richesse – ɔ nɔ wulufa : il est riche /ou : wana bulufa ni/.
+- wulumo, pl. wulumɔa : ennemi du sorcier Kuino.
+- wumo, pl. wumora : message, envoyer un message. wandu wumo : envoyer un messager. /même mot que wamā dans pɔm wamā, qui devine/.
+- wumo : verbe irrégulier – ɔ vim yawa : il a deviné – ɔ vim wandu : il a envoyé un messager – ɔ wam'ni yawa : il devinera.
+
+## PDF p. 129 (p. 123)
+
+- wunda : pluie qui dure toute une journée.
+- wundule, pl. wunduã : ombre, image d'un vivant.
+- wunno, pl. wulla : dignitaires, excision /Sud/.
+- wunɔ : en secret, en cachette. ɔ di mumu ɔ wunɔndo ni il a mangé le riz en cachette.
+- wuɔ : mourir /en parlant d'animaux/. nawo vi : le boeuf est mort – nawo tyu ɔ wu : le boeuf est fini d'être tué.
+- wurɔ : ɔ wurɔ : elle a accouché – cf. vɛlo : même sens.
+- wurɔla : vêtements.
+- wurye, pl. wuryɔ̃ /K./ : argent – wɔlye /G./. – ti wurin ɔ tyɔ re = s'il n'y a pas d'argent.
+- wusamba : sistre en calebasse /instrument des excisées dans le Nord/.
+- wuwo : catalepsie – wana wɔyɛyo : cataleptique – mort apparente – transe.
+
+## PDF p. 130 (p. 124)
+
+> Blank page.
+
+## PDF p. 131 (p. 125) — Y
+
+- ya : faim – ya ma bi ya : j'ai faim – ya ma tyu ne : il a faim.
+- yabibyo /K./, pl. yabibirã : ananas.
+- yagbando /K./, yebandi /G./ : fusil – pluriel : yagbanta.
+- yala, pl. yarala : filet de pêche /femmes/.
+- yala kana /G./, yara : lion. /peut-être confusion avec yirakama : hippopotame/ – cf. yara ; dyara.
+- yalama, pl. yalamawa : matrone, ménagère – pɔlã yalama pimbute : l'excrément de la matrone ne roule pas.
+- yalando, pl. yalande : variété d'arbre. Son écorce entre dans la composition d'objet magique barakawo – grand arbre khaya grandifoliola, Méliacée.
+- yallo : nom d'un culte – yallo solo : yallo sacré – ya'solo.
+- yallo, pl. yalta : yalta nara : nos yallo.
+- yamba : talisman /koma/ qui arrête la pluie. wana yamba : homme /qui possède/ le yamba. /d'origine Kouranko/.
+- yambalékalé : rubiacée Morinda geminata. – racine mise dans la teinture indigo.
+- yambɛ : manioc – yayamba : grand champ de manioc – yambɛiyaway : ragoût de racines de manioc. yambɛy fulen : bon manioc, = fɔlae.
+- yamo, pl. yamowa : ennemi – yamo nu ni : c'est mon ennemi.
+- yanama : le pécheur /catéchisme/.
+
+## PDF p. 132 (p. 126)
+
+- yandule : trophée fait du bras coupé du chef mort – brandi sur le champ de bataille par son successeur.
+- yankɔro : danse avant la circoncision.
+- yaɔlɛ̃, pl. yaɔrã – yawɔlɛ̃ : piège. yaɔlɛ̃ kilinde : piège en fer /pour le gros gibier/ – yaɔlɛ̃ bɛllã : piège pour les souris.
+- yara, pl. yarā : lion.
+- yaulle, pl. yauve : 1/ ceinture des fillettes en perles bleues – 2/ amulette faite des premiers cheveux coupés, se nomme aussi sɛve.
+- yave, pl. yava : oignon.
+- yawa : cuisson, cuire. mumu yawa : le riz est cuit – mumu yawo : le riz est en train de cuire.
+- yawa : cuisiner, deviner – ɔ yawa wumo : il fait la divination, litt. : il interprète le message traduit – sɔe yawai : oracle – mumɔ yawai : le riz est cuit.
+- yawa : mauvaise herbe /espèce de/ dans les rizières.
+- yawɔ, pl. yaɔrã : peau – yawokɛwo : peau de serpent.
+- yayã, yaya invariable, : anneau de cheville en coton ou fibres de raphia /S./. – grelot de cheville pour turuno de circoncision.
+- yɛlo, pl. yɛlsa : serpent cracheur.
+- yema, pl. yemarã : bâillement – i yema : je bâille – la yema.
+- yemba : variété d'arbre. On en tire la caisse du dunduo, tambour cylindrique à 2 peaux – grand arbre.
+- yembe ẅisyo, pl. yembɔ̃ : griffe d'un animal, ongle humain.
