@@ -7,7 +7,7 @@
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–32 (front matter; lexicon a – fisan, typescript pp. 1–26) done.
+> - **Progress:** PDF pp. 1–52 (front matter; lexicon a – kɔllo, typescript pp. 1–46) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -417,3 +417,269 @@
 - firiyo, friyo : crépuscule du soir. firiyo tul = le crépuscule est venu, la nuit tombe.
 - fisa : mieux. a fisa : c'est mieux. sɛmbura bɛnda fisa pɔmdo : la honte /même/ grande vaut mieux que la mort.
 - fisan : phialodiscus plurijugatus : sapindacés.
+
+## PDF p. 33 (p. 27)
+
+- fɔ : d'abord – fɔlɔ : premier ; fɔlɔnde : jadis.
+- fɔfɔ : aussitôt – i tosani fɔfɔ : je /le/ ferai aussitôt.
+- fɔfɛ, fɔfẽ : a fɔfẽ : il avoue, il demande pardon – s'applique au parjure, au coupable du ma s'adressant au kɔsɔa, etc… – /paroles dites par un tiers pendant que le sacrifiant officie/.
+- fɔinde : paille du riz. /aussi nom propre/.
+- fɔlae : yambɛ n fɔlae = variété de manioc /yambɛ/.
+- fɔlanda : ancien, jadis. bimba fɔlanda : les vieux de jadis, les ancêtres.
+- fɔlɔ : premier. /cf. malinké folo, le premier/. du /1/ fɔlɔ /2/ ntiya /3/ a /4/ nɔm /5/ ni /3/ : lui /1/ premier /2/ est arrivé /3/ avant /4/ toi /5/.
+- fɔmo : petit arbuste ressemblant au taro. C'est sur des feuilles de fɔmo /= pyi fɔmoy/ que le kuino nettoiera son sambiyo à l'huile de palme.
+- fɔndo : poumons. fɔnde = morceau de poumon. Se donne aux charognards dans sacrifice.
+- fɔɔndu : 1/ l'écorce de cette plante donne un médicament pour soigner le ma ; 2/ avec les feuilles de cette plante le sarino asperge /rite de purification/.
+- fɔsɔndẽ, fɔsɔnde /toujours au pluriel/ : cordes en peau d'antilope du bolindo, grande harpe arquée. toutes cordes d'instrument de musique /tambour, tɔa, etc./
+- fo : plante servant à faire les nattes.
+- fosa : variété de riz ; se sème en mai, en brousse ou en forêt – mûr après 3 mois, grain allongé. /mal. fossa/.
+- foya : autel de pierres pour les sacrifices aux ancêtres. /Poiret, p. 669/, foya, pl. de fuino, mort.
+
+## PDF p. 34 (p. 28)
+
+- fuino, pl. fɔya : mort, qui est au tye pɔm.
+- fulen, pl. fura : fleur.
+- fulo, pl. fulla : variété de poissons plats, argentés, 0 m 20, beaucoup d'arêtes.
+- fuluŋo : jeune homme, jeune fille, après l'initiation. ɔ fuluŋo ni, ɔ tyo fuluŋo.
+- funda, pl. fundara : variété d'arbre. L'écorce, battue, s'emploie pour la fabrication des collets.
+- funde : coton – /cf. mal. fu : écorce d'arbre, pellicule, enveloppe, filasse/. yɔmule fundo = cotonnier.
+- fundo, fundɔ : vide. bɔrɔfundo : sac vide – tala fundo ni : /la/ calebasse est vide.
+- funyanu : enfant.
+- fuo : douzième mois /S./.
+- fuo, pl. furan : fleur.
+- fura : ɔ /1/ fura /2/ tyɛy /3/ ni /4/ : il /1/ est /2/ sorti de dans /4/ la maison /3/.
+- furikundo : serrure, kundo = porte.
+- furu, furuo : dot. o dɔ wɛndo furuo : il a payé la dot de sa femme.
+- furyo /G./, puryɛ /K./ : grossesse.
+- fusa : purification par aspersion. sarino tyɛ o fusa, wana yallo
+
+## PDF p. 35 (p. 29) — G
+
+- ŋga : trois /Specimens…/
+- giduno, yiduno : tambour d'eau.
+- gõmɛu /G./ : sept, ngɔmɛu.
+- gulumɛ : tambourinaire /Ouendé/.
+- gumbo : variété d'arbuste ; on en tire une sorte de glu.
+- gyɛmba, yɛmba : variété d'arbre. Le tronc, creusé, donne la caisse du tambour funéraire tɔndunduo.
+
+## PDF p. 36
+
+(blank)
+
+## PDF p. 37 (p. 31) — Gb
+
+- gbando : Myrianthus libericus.
+- gballo : Parinari excelsa : rosacée, fruits comestibles.
+- gbando : Myrianthus libericus, Moracé.
+- gbawo, pl. bawa : fourmi rouge.
+- gbɛlanbɛlɛndo : les feuilles de cette plante entrent dans la composition du kave kundo à Temɛsadu.
+- gbɛmɔ, pl. bɛmbɛrã : /K./ siège. gbɛmbɛo /G./.
+- gbɛndɔ, pl. gbɛndɛrã : ruche.
+- gbeĩ : plante, apocynée, Landolphia sp.
+- gbilia, pl. biliarã : respect, estime. wan lana dɔɔ pono gbiliao : la femme témoigne du respect à son mari /litt. verse/.
+- gbɔ : bâtonnet des excisées.
+- gbɔyo : ornement /lianes/ pour les coiffures d'excisée /S./.
+- gbo : ricinodendron africanum, euphorbiacée.
+- gbuobuo, pl. gbuogbuoa : poisson à grosse tête, corps moyen ; sa morsure provoque une enflure.
+
+## PDF p. 38
+
+(blank)
+
+## PDF p. 39 (p. 33) — H
+
+- hala : hala tala : le ciel infini. Hala dɛ ni : le tonnerre – hala eli : gros nuages noirs. hala, halamɛlɛka : Dieu du ciel – hala sia : la pluie tombe.
+- halamusa : jeudi /jour du marché à Yende/.
+- hanaŋa : jusqu'à /temps/. hanaŋa sɔ = jusqu'à demain. hanaŋa pɔmdo = j'ai la mort – naŋu a sɔdi : jusqu'à demain,
+- handɔ : poser sur /une pierre, le feu, l'eau/. mu handu nɛda ɔ nyin : elle a mis la marmite sur le feu – mu kɛsi : elle a mis par terre.
+- haŋulo : chaleur – haŋulo /1/ bi /2/ ya /3/ : /la/ chaleur /1/ me /3/ mord /2/, j'ai chaud.
+- hao, hau : aujourd'hui, maintenant. o /1/ kwani /2/ hau /3/ : il /1/ va partir /2/ maintenant /3/.
+- hɛlɛ, hɛlle : sel.
+- hɛlu : ɔ hɛlu suɔtiyo : il monte à cheval, cf. hil.
+- hɛnudo, pl. hɛnutã : gourde /pour le vin de palme/.
+- hɛnkɛɔ, pl. hɛnkerã : 1/ calebasse ou cuvette en bois. 2/ talisman contenant du coeur humain + de la graisse humaine + du bois très dur + de l'herbe. hɛnkɛɔ : sébille en bois, avec grelots, etc… pour divination /Farmaya/.
+- hɛu : ɔ hɛu Musa : il a dépassé Musa, il est plus grand que Musa. ɔ hauni : il dépassera. lamdo hɛlle e hɛu : il y a trop de sel dans la sauce. hɛu : sɛmburã ta hɛu pɔmdo : la honte vaut mieux que la mort. /litt. dépasse/. hɛu : grand, tala hɛu : /une/ grande calebasse.
+
+## PDF p. 40 (p. 34)
+
+- hɛy : mu hɛy malo : elle vanne le riz – hɛy malo : il faut vanner le riz.
+- heendé : acacia ataxacantha, légumineuse.
+- hil, hillɔ : ascension, monter. i hillɔ : je monte – ɔ hil tyɔ : il est monté en haut. i hɛlu suo tyo : je suis monté sur un cheval.
+- hin : ɔ hin : il vient, il est venu. la hin : vous venez ? dusua a hin tau : les chasseurs sont venus nombreux.
+- hindo : fièvre. hindo pɔl : la fièvre est tombée /litt. a crevé/. ɔ nɔ hindo : il a de la fièvre.
+- hindu ; ɔ hindu tou : il a trop grandi /se dit d'un bébé grandi trop vite/.
+- hini : ɔ hini : il se couche, il est couché. ɔ hinini : il se couchera ; ɔ wa hihini : il était couché.
+- hinyhinydo : diable /jouet musical en rondelles de fruit/.
+- hio, pl. hia : buffle.
+- hɔ, ɔ : il, elle. cf. ɔ.
+- hɔrɔ, pl. hɔrua : vipère cornue.
+- hɔru : mi ndua hɔnu malo : ma mère a désherbé le riz. i hɔnu ni = je désherberai – i hɔnuɔ = je suis en train de désherber.
+- hɔye, hoiye : froid, vent. hɔye bi ya : j'ai froid.
+- hobus, cf. i bu huo : premier travail du cultivateur : couper les herbes des bas-fonds qui pourriront, donnant un premier engrais.
+- hole : champignon.
+- holle, pl. hotã : oeil /e légèrement nasalisé/. wana holle pilo : borgne.
+
+## PDF p. 41 (p. 35)
+
+- hóonde : celui-là, celle-là. cf. ɔ, hɔ.
+- hopɛu : serpent d'eau, petit, jaune, inoffensif. pɛu = marigot – pl. hopyea.
+- howo : variété d'arbre – écorce employée en pharmacopée – assez grand.
+- huinde : gale ordinaire. Tamba no huinde : Tamba a la gale.
+- humbu, humbuo : blanc. nyɛy humbye : chose blanche. Kole umbo : Kola blanc. Mɛnda humbo : eau blanche /écume/. kurola humbura : pagnes blancs. ɔ humbo ni = c'est blanc, il est blanc.
+- hundo, pl. huntã : rizière de bas-fond.
+- huno : ɔ huno : il est venu – huno nɛyo ɔ tyɔ : Viens par ce chemin, viens par ici. Hun = viens ici.
+- huo, pl. hua : hibou. /Le sorcier peut se changer la nuit en hibou.
+- huo : pl. hura : jachère, champ abandonné qu'on va retravailler.
+
+## PDF p. 42
+
+(blank)
+
+## PDF p. 43 (p. 37) — I
+
+- i, ya : je
+- ikɛy : à côté, contre, près de. tyɛy i tyo tyɛyo ikɛy le mortier se trouve contre la case /ɔ, particule de mouvement/. ikɛy : près de, ɔ tiya dala ikɛy : il arrive près de la mare – i kɛsi ikɛy : j'ai mis à côté. ikɛy : en face. bitiki tyɔ ikɛy ɔ : la boutique est en face ou bitikyo ikɛy. ikɛy : tyɛy /1/ nu /2/ tyu /3/ bundo /4/ ikɛy /5/ : ma /2/ maison /1/ est /3/ près /5/ de la forêt /4/. ɔ tyal Fasa ikɛy : il est assis à côté de Fasa. ikɛy : ɔ tyu masa ikɛy : il se trouve à côté du chef.
+- imbo, yimbo, pl. yimbora : tambour vertical à sonnailles, yura yimbora : nom d'une danse.
+- ityɔl : pendant la nuit. i tyɔl du fura ni : la nuit, ils sortent.
+
+## PDF p. 44
+
+(blank)
+
+(There is no J section.)
+
+## PDF p. 45 (p. 39) — K
+
+- ka : particule de lieu. wana wana ka : n'importe que ; nɛy nɛyka : partout. i tyi bɔlɔ nɛynɛy kare : je ne vois de bananes nulle part.
+- kabila : conseil de famille /pour régler successions, etc…/ – en fait kabɛla = gens du même lignage, bɛo. kabɛla a tyuŋya = le conseil de famille s'est réuni.
+- kaa : indigo. kura tinyo : pagne teint à l'indigo. tinyo = noir.
+- kafuo, pl. kafurã : fête. cf. mal. kafo = réunir, convoquer. nyama kafuo, tolu kafuo : cadeau des invités. kafui ballo : la fête de la lance, fête d'intronisation des masa balla. kafu pɛndua : la fête /pour la naissance/ des jumeaux – kafuli masa : fête d'intronisation du chef.
+- katundo, kakumno : serpent couleur de terre, aux extrémités arrondies, inoffensif, très luisant – Ne sort qu'en cas de grande sécheresse, sa vue est un mauvais présage. Selon d'autres : kakundo = koma. katundo, pl. kakunda.
+- kala, kara, karu : ɔ kala : il /est/ dur.
+- kala, pl. kala : mère /démonstratif par opposition à nde, vocatif : ndua/. kala nu ni : c'est ma mère. kala nɔm dola ? le nom de ta mère ?
+- kalama, pl. kalamara : demi-calebasse, sonnailles à manche.
+- kalando, pl. kalantã : hotte en palmes tressées.
+- kalando : nom d'un bracelet, amulette /Guékédou/.
+- kale : nom de famille /ou de clan ?/. ex : Kamano : du village de Kamano – Koundouno : du village de Kondou. kale nɔm dɛ ? ton clan ?
+
+## PDF p. 46 (p. 40)
+
+- kalo : rose – kolo kalo : kola rose.
+- kama : éléphant /G./.
+- kamadola : cire d'abeilles.
+- kamanda : porte.
+- kamanduyo : épervier /filet/.
+- kamayɔlɔko : talisman pour la guerre. koma de la chaîne – /yɔlɔko = chaîne, en malinké/.
+- kambeyu : panier, cf. Kalando.
+- kamilo : scories.
+- kamita, pl. de kamilo : minerai de fer.
+- kanda : on trouve sous ce nom des autels voués à un culte agraire, à une protection contre un malheur précis /feu, épizootie…/, à la protection de certains individus /kanda bundua/, à une protection d'un seul individu. – dans le sud seulement.
+- kanda : culte pour la protection du bétail /village Fasabema, canton Dembaduno/.
+- kandā : poisson brillant, noir, sans écailles. silure.
+- kandeno, pl. kandinda : apprenti. kandeno pɛa kura sɔndo : l'apprenti apprend à coudre les bandes. kandeno Sɛku : l'apprenti de Seku.
+- kandya : ligature, ligaturer. tala kandya : réparer la calebasse – pɔmdo kandya : "habiller" le pɔmdo. o kandya tala : il a ligaturé la calebasse.
+- kanybɔno, pl. kanybua : homme ou femme initié, mais qui n'a pas fait le kisitɔ. /Farmaya/.
+- kanybo, pl. kanyboa : pigeon.
+
+## PDF p. 47 (p. 41)
+
+- kanybono : femme croque-morts, creuse la tombe des femmes mortes en couches ; annonce la mort des vieilles dans les villages voisins.
+- kaŋuo, pl. kaŋua : termite.
+- kaŋuo : herminette à bout carré, outil de forgeron.
+- kara : koma kara = koma fort – wana kara = homme intelligent /dont on suppose qu'il possède beaucoup de kowã/ – tuambɔ kokaru : enfant intelligent. kara : dur – wana bɛndu kara : homme mûr /40 à 50 ans/, /force mentale, par opposition à yɔmɔa, force physique/.
+- karabala : objet magique ; petite calebasse à couvercle contenant racines, feuilles, graisse humaine. On l'en frotte pour obtenir puissance et santé.
+- karakara : difficile – ɔ karakara : c'est difficile.
+- karande : 1/ divination par la calebasse /anneau frotté/ 2/ anneau, outil divinatoire.
+- karaŋeno, pl. karaŋea : /malinké/ tanneur, cordonnier, pas de cordonnier kissi.
+- kariñã, karignan : battant en fer, instrument de musique des griotes.
+- karu : ɔ nɔ kɔ karu : il est intelligent.
+- kasa, pl. kasarã : couverture en laine du Soudan.
+- kasamba : fonio tardif.
+- kasankɛo : vêtements du mort – turbans boubou, culotte, en percale – neufs. /mot malinké/.
+- kase : cou.
+- kave : autel de chasseurs, poterie renversée.
+- kave, kavɛ, kawɛ, pl. kawõ : médicament, protection du wulumo contre le sorcier, kuino. tous médicaments liquides /dans les poteries/, infusions.
+
+## PDF p. 48 (p. 42)
+
+- kave, pl. kawõ : haricot /G./ /K./.
+- kawa kawa : médicament – à base de graisse humaine ; on s'en frotte pour obtenir puissance et santé. cf. karabala.
+- kawo, pl. kawa : gros singe /chimpanzé ?/.
+- kayendo : scleria Barteri, cypéracée.
+- kɛ : refus, refuser. sando du pilɛgbɛ kɛ huŋoni : le lièvre lui seul de tous a refusé de venir. i kɛnu : j'ai refusé. kɛ̄ : i kɛ = je refuse – kɛɔ = refuser, refus, lɛɛ nkɛye hɛlle dɔɔ nɛ = pourquoi as-tu refusé de mettre du sel.
+- kɛkɛ : père /G./. kɛkɛ na ni : ce sont nos pères.
+- kela, pl. kela : poisson, tout petit, plat. On s'en sert pour sauces.
+- kɛlɛ, pl. kɛlã : bague. kɛlɛ sanyi : bague en or.
+- kɛlɛnde : tambour – de – bambou. kɛlɛnde, kelende, kɛnde pl. kelendo : tambour à deux lèvres – tambour xylophone à deux ou plusieurs lames.
+- kɛlle, pl. kɛyã : 1/ bambou /arbre/ ; 2/ monture du métier à tisser.
+- kɛmɛ : cent.
+- kɛmbõ : inv. noix palmiste.
+- kɛnde : kɛnde lɔ : frapper le tambour ; kɛnde swɛ : le tambour parle.
+- kɛnde : généreux, bon, bien portant.
+- kɛnde : lɔ kɛnde : au revoir, bonne nuit ; a lɔ kɛnde : bonjour. kɛnde : mikɛne, nilu kɛnde, bonjour, (continued on p. 43)
+
+## PDF p. 49 (p. 43)
+
+- (kɛnde, continued) … passez une bonne journée /se dit de bonne heure/. kɛnde : wa kɛnde : bonne santé.
+- kɛndɛy : le bien /catéchisme/.
+- kɛndo : ba kɛɛndo = côté droit ; ba kɛndo = main droite. kɛndo : juste – masa kɛndo ni : le chef est juste.
+- kɛndu : rusé, malin. ya kɛndu : je suis malin. ɔ kɛndu kɔllɔ = il est malin dans son coeur. sando kɛndu kɔllɔ = le lièvre est malin…
+- kɛndu : dur, /adj./, solide. na kɛndu : maladie dure, agonie. puo kɛndu : pierre dure – o kindu re : ce n'est pas solide.
+- kɛndya : santé. sarakɛndya : sacrifice /pour/ la santé ou sara gbɛo. nyuruma kɛndua : remède /pour/ la santé. ɔ tyo kɛndyare : il n'est pas en bonne santé.
+- kɛndyare : malade. i tyɔ kɛndyare : je suis malade.
+- kɛnyo : divination dans la poussière.
+- kɛo, kyɛo, wana wilɛyo kyɛo, dala kyɛo : 1/ sacrifice ne comportant aucune nourriture cuite ; généralement viande ou riz cru – 2/ héritage.
+- kɛra : wana kɛra : voyageur, pl. wanā kɛrā. nuya /1/ pɛtã /2/ sɔrã /3/ le /4/ wanakɛra /5/ : cherche /1/ /des/ oeufs /2/ de poule /3/ pour /4/ /le/ voyageur /5/. i kɛrawo = je voyage. kɛra sana ni = le voyage est fatigant.
+- kɛrɛkɛrɛ : coqueluche,
+- kɛsi : mi kɛsi /tumburã/ ɔ banduo tyo : j'ai mis /les gerbes/ en haut de l'échafaud. kɛsi : i kɛsi lando : je mets de côté /sauf/ – ɔ kɛsi ikɛy : il met à part.
+- kɛsɔ : rayé. kura kɛsɔ ni : l'étoffe est rayée.
+- kɛsuo, pl. kɛsurã : caisse.
+
+## PDF p. 50 (p. 44)
+
+- kɛsye, kɛsyi, pl. kɛsuõ : cou, nuque.
+- kɛta : écailles. kɛta suwo : les écailles du poisson.
+- kɛwo, pl. kɛwa : serpent – /G./. kɛvvo. sɔlula kyɛwã : autel des serpents.
+- kɛy : verbe auxiliaire. i kɛy pundɔ re : je n'ai pas pu acheter – i kɛy tuare : j'avais pu prendre – i kɛynityare : je pourrai prendre, "je ne refuserai pas de ne pas prendre".
+- kɛy, tyɛy : hier.
+- kebino : forgeron.
+- kéfa, kéfaiéro : apocynée, conspharungia, sp.
+- kemuno, pl. kemoa : tambourinaire, joueur de kɛnde.
+- kende, kengde : cloche, lame en fer aux côtés incurvés attribut des sokoa, dignitaires de la société des hommes.
+- kendu : difficile. o kendu, o kindure : ce n'est pas difficile.
+- kikia : mussaenda erythrophylla, rubiacée.
+- kil : ɔ kil /K./ : il mord, il a mordu – ɔ kɛl /G./. tundo killa : le chien m'a mordu. cf. tyulɔ = mordre, morsure.
+- kila, pl. kila : envoyé, messager. kila masa : l'envoyé du chef ; kila na ni : c'est notre messager.
+- kilamale, kilimale : arc musical.
+- kilasio : bouteille contenant un médicament, matériel magique. devin Dakedu Wa – terme générique pour bouteille. kilasi ma kuwo : bouteille contenant un kowã.
+- kilinde, pl. kilindo : fer. yanyolɛny kilinde : piège en fer. kilinde pɛndua : fer de jumeau.
+
+## PDF p. 51 (p. 45)
+
+- kimballo : certaines racines sauvages garnies d'épines, dont le manioc sauvage.
+- kimbu /K./, timbu /G./ : ɔ kimbu nyɛy : il a volé quelque chose – tiɛy a kimbu nyɛya : /dans le/ champ ils ont volé quelque chose – nyɛy kimbay = chose volée.
+- kimbullo ou simbullo : racines – élément du suo pour le wanayawa de Kongole.
+- kinda : i kinda duo : je ferme la porte.
+- kinde : fer à coton, pour l'égrenage. /de kilinde, fer/.
+- kindu : o kindu : il est dur, solide – o kindure, o kindule : il est mou. de kɛnde.
+- kinkinda : pl. kinkinda : mouche maçonne.
+- kinyo : noir – nyɛy kinye : chose noire. kura tinyo = pagne noir ou indigo, kɛwo tinyo : serpent noir.
+- kiri : couper. bɛla a kiri malo ni : souris elles coupent le riz. i kɛrun a muɔy : je me suis coupé avec un couteau.
+- kisɛy, pl. kisā ; piment. kisɛy pute : petit piment, kisɛy madone : gros piment.
+- kisitɔ : épreuve qui complète l'initiation, dans le Nord. tua kisitɔa : les enfants du Kisito. wana kisitɔa : les hommes du kisitɔ.
+- kisu : allumer. mu kisu nyinde : elle a allumé le feu. ɔ kisuni nyindo : elle allumera le feu.
+- kita : course.
+- kɔ, kɔwɔ, kɔyo, kuyɔ, pl. kɔyã : arbre kɔbi. Bois très dur ; on s'en sert pour les feux ; écorce utilisée en infusions.
+
+## PDF p. 52 (p. 46)
+
+- kɔ̄ : aller. kɔ̄ ndu lo : va chez lui. kɔ̄ tatyi : marche devant ; kɔ tyotyo : va vite. kɔ̄ nya kwɛ nɛ : où allez-vous ? in tyɔra kɔ yɔyam : nous allons pêcher – nkɔnu ɔ masɛlo : allons chez le chef. kɔ̄ : kɔ̄ Musa tye nɛ : où est Musa ? – kɔɔ̄ fure nɛ : d'où sors-tu ? – kɔɔ̄ ntye fura nɛ : d'où viens-tu ?
+- kɔɔ, pl. kora : dos. kɔɔ /G./. – ɔ tyoya ɔ kwɔ : il est dans mon dos.
+- kɔã, kowã : sang. kowã kundo : médecine du kundo. Le kowã porte parfois un nom propre, on jure dessus dans certains villages.
+- kɔbi : fruit du koyo. On en tire une huile très amère, utilisée pour les soins du corps, mais non dans la cuisine. kɔbi tulu : huile du kɔbi /mal./ ou kowo /K./.
+- kofa : excisées de la fois précédente /S./.
+- kokoya : fond de rivière caillouteux ; lieu de culte /Dwet/.
+- kɔla /G./, kura /K./ : pagne. kɔla livayo : pagne mouillé, kɔla vɛsɛyo : pagne sec. kurale : sans pagne. kɔlayinando : pagne de femme. kurayinando attaché autour des reins.
+- kɔldusuo, kuldusuo : arbuste. Les feuilles donnent un médicament pour la chasse au sambiyo. /coeur du chasseur ?/. les racines, brûlées, entrent dans la composition de suo wulumo.
+- kɔli : kwɔli, derrière.
+- kɔllo, pl. kɔtã : coeur. /les missionnaires traduisent aussi souffle, âme/. Saint Esprit : kɔl kɛndo. kɔl'ndo ou kɔl'nu = son coeur. kɔl'kuino = le coeur du sorcier. kɔl'wɔndo = mauvais coeur, rancune, ressentiment. kɔl'karu = intelligence, force mentale. wana kɔl'karu bɛnduo : homme très intelligent.
