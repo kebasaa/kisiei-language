@@ -39,7 +39,37 @@ LIFT_POS = {"noun": "Noun", "verb": "Verb", "adj": "Adjective", "adv": "Adverb",
             "conj": "Connective", "part": "Particle", "interj": "Interjection", "ideo": "Ideophone",
             "name": "Proper Noun"}
 FIELDS = {"lemma", "status", "pos", "class", "plural", "forms", "gloss", "domains", "keita",
-          "childs", "note", "example"}
+          "paulme", "lexique", "terminologie", "sandara", "childs", "note", "example"}
+
+# Older northern written sources. An entry records where it found a word in one field per source;
+# a 'respelled' entry needs at least one of them. "keys": allowed sub-fields; "cite": short citation;
+# "bib": BibTeX key (docs/references.bib); "ref": the part of the citation that goes in brackets in CLDF.
+TERM_LISTS = {"langue": "langue", "arts": "arts", "histoire": "histoire", "ideologie": "idéologie"}
+SOURCES = {
+    "keita": {"keys": {"form", "page"}, "bib": "Keita1979",
+              "cite": lambda s: f"Keita 1979, p. {s.get('page', '?')}", "ref": lambda s: s.get("page")},
+    "paulme": {"keys": {"form", "page", "dialect"}, "bib": "Paulme1964",
+               "cite": lambda s: f"Paulme 1964, p. {s.get('page', '?')}"
+                                 + (f" ({s['dialect']})" if s.get("dialect") else ""),
+               "ref": lambda s: s.get("page")},
+    "lexique": {"keys": {"form", "page"}, "bib": "LexiqueAnonyme",
+                "cite": lambda s: f"Lexique kissi–français, p. {s.get('page', '?')}", "ref": lambda s: s.get("page")},
+    "terminologie": {"keys": {"form", "list", "number"}, "bib": "AcademieTerminologie",
+                     "cite": lambda s: f"Terminologie ({TERM_LISTS.get(s.get('list'), '?')}), n° {s.get('number', '?')}",
+                     "ref": lambda s: f"{s.get('list', '')} {s.get('number', '')}".strip()},
+    "sandara": {"keys": {"form", "section"}, "bib": "SandaraKisia",
+                "cite": lambda s: f"Sandara Kisia, {s.get('section', '?')}", "ref": lambda s: s.get("section")},
+}
+PAULME_DIALECTS = {"G", "K", "G/K"}
+
+
+def written_sources(e):
+    """(field, sub-dict) for each older written source of the entry, in SOURCES order."""
+    return [(f, e[f]) for f in SOURCES if isinstance(e.get(f), dict)]
+
+
+def citations(e):
+    return [SOURCES[f]["cite"](s) for f, s in written_sources(e)]
 
 
 def key(w):
@@ -105,6 +135,20 @@ def validate(domains, entries, words):
         ch = e.get("childs")
         if ch is not None and (not isinstance(ch, dict) or set(ch) - {"page", "form", "sense"}):
             errors.append(f"{where}: 'childs' takes only page, form, sense")
+        for f, spec in SOURCES.items():
+            s = e.get(f)
+            if s is None:
+                continue
+            if not isinstance(s, dict) or set(s) - spec["keys"]:
+                errors.append(f"{where}: '{f}' takes only {', '.join(sorted(spec['keys']))}")
+            elif not s.get("form"):
+                errors.append(f"{where}: '{f}' needs 'form' (the word as printed in the source)")
+        if isinstance(e.get("paulme"), dict) and e["paulme"].get("dialect") not in (None, *PAULME_DIALECTS):
+            errors.append(f"{where}: paulme.dialect must be one of {sorted(PAULME_DIALECTS)}")
+        if isinstance(e.get("terminologie"), dict) and e["terminologie"].get("list") not in TERM_LISTS:
+            errors.append(f"{where}: terminologie.list must be one of {sorted(TERM_LISTS)}")
+        if e.get("status") == "respelled" and not written_sources(e):
+            errors.append(f"{where}: a 'respelled' entry needs a source field ({', '.join(SOURCES)})")
         lemma = str(e.get("lemma", ""))
         if e.get("status") == "southern" and not ((e.get("childs") or {}).get("page") and (e.get("childs") or {}).get("form")):
             errors.append(f"{where}: a 'southern' entry needs childs.page and childs.form (the source of the word)")
@@ -140,7 +184,9 @@ def sort_key(e):
 
 TABLE_COLUMNS = ["headword", "status", "part_of_speech", "noun_class", "plural", "other_forms", "gloss_fr",
                  "gloss_en", "semantic_domains", "southern_kissi_sense", "bible_count", "bible_example",
-                 "keita_form", "keita_page", "childs_form", "childs_page", "note"]
+                 "keita_form", "keita_page", "paulme_form", "paulme_page", "paulme_dialect",
+                 "lexique_form", "lexique_page", "terminologie_form", "terminologie_list", "terminologie_number",
+                 "sandara_form", "sandara_section", "childs_form", "childs_page", "note"]
 
 
 def export_table(entries, domains, words, delimiter):
@@ -151,11 +197,14 @@ def export_table(entries, domains, words, delimiter):
     for e in sorted(entries, key=lambda e: (kisiei_sort(str(e["lemma"])), str(e["lemma"]), e["pos"])):
         b = bible_info(e, words)
         kt, ch = e.get("keita") or {}, e.get("childs") or {}
+        pa, lx, te, sa = (e.get(f) or {} for f in ("paulme", "lexique", "terminologie", "sandara"))
         doms = " | ".join(f"{d} {domains[str(d)]['en']} / {domains[str(d)]['fr']}" for d in e["domains"])
         row = [e["lemma"], e["status"], e["pos"], e.get("class", ""), e.get("plural", ""),
                "; ".join(map(str, e.get("forms") or [])), e["gloss"]["fr"], e["gloss"]["en"], doms,
                ch.get("sense", ""), b[0] if b else "", (e.get("example") or b[1]) if b else e.get("example", ""),
-               kt.get("form", ""), kt.get("page", ""), ch.get("form", ""), ch.get("page", ""), e.get("note", "")]
+               kt.get("form", ""), kt.get("page", ""), pa.get("form", ""), pa.get("page", ""), pa.get("dialect", ""),
+               lx.get("form", ""), lx.get("page", ""), te.get("form", ""), te.get("list", ""), te.get("number", ""),
+               sa.get("form", ""), sa.get("section", ""), ch.get("form", ""), ch.get("page", ""), e.get("note", "")]
         w.writerow([str(x).replace("\t", " ") for x in row])
     return out.getvalue()
 
@@ -163,7 +212,7 @@ def export_table(entries, domains, words, delimiter):
 # CLDF Dictionary module (https://cldf.clld.org), written with the standard library only.
 CLDF = "http://cldf.clld.org/v1.0/terms.rdf#"
 LANGUAGE = {"ID": "kisiei", "Name": "Kisiei (Northern Kissi)", "Glottocode": "nort2765", "ISO639P3code": "kqs"}
-CLDF_SOURCES = ["BKG", "Keita1979", "Childs2000"]
+CLDF_SOURCES = ["BKG"] + [s["bib"] for s in SOURCES.values()] + ["Childs2000"]
 SLUG = {"ɛ": "eh", "ɔ": "oh", "ŋ": "ng", "ɲ": "ny"}
 
 
@@ -208,7 +257,8 @@ def cldf_metadata():
                 "columns": [col("ID", "id", datatype=ident), col("Language_ID", "languageReference"),
                             col("Headword", "headword"), col("Part_Of_Speech", "partOfSpeech"),
                             col("Status", **{"dc:description": "attested (in the Bible), confirmed (by a speaker), "
-                                             "respelled (from Keita 1979), check, or southern (Childs 2000 only)"}),
+                                             "respelled (from an older northern written source, converted to the current spelling), "
+                                             "check, or southern (Childs 2000 only)"}),
                             col("Noun_Class"), col("Plural"), col("Variants", separator=";")],
                 "primaryKey": ["ID"],
                 "foreignKeys": [{"columnReference": ["Language_ID"],
@@ -241,12 +291,13 @@ def export_cldf(entries, words):
     erows, srows = [], []
     for e in ordered:
         b = bible_info(e, words)
-        kt, ch = e.get("keita") or {}, e.get("childs") or {}
+        ch = e.get("childs") or {}
         src = []
         if b:
             src.append(f"BKG[{e.get('example') or b[1]}]")
-        if kt:
-            src.append(f"Keita1979[{kt['page']}]" if kt.get("page") else "Keita1979")
+        for f, s in written_sources(e):
+            ref = str(SOURCES[f]["ref"](s) or "").replace(";", ",").replace("[", "(").replace("]", ")")
+            src.append(f"{SOURCES[f]['bib']}[{ref}]" if ref else SOURCES[f]["bib"])
         if ch:
             src.append(f"Childs2000[{ch['page']}]" if ch.get("page") else "Childs2000")
         forms = [str(f) for f in e.get("forms") or []]
@@ -298,8 +349,8 @@ def export_lift(entries, domains, words):
         b = bible_info(e, words)
         if b:
             src.append(f"BKG: {b[0]} occurrences, first {b[1]}")
-        if e.get("keita"):
-            src.append(f"Keita 1979, p. {e['keita'].get('page', '?')}: {e['keita'].get('form', '')}")
+        for f, s in written_sources(e):
+            src.append(f"{SOURCES[f]['cite'](s)}: {s.get('form', '')}")
         if e.get("childs"):
             src.append(f"Childs 2000, p. {e['childs'].get('page', '?')}"
                        + (f": {e['childs']['form']}" if e["childs"].get("form") else ""))
@@ -322,8 +373,9 @@ TEXT = {
                "[SIL Semantic Domains](https://semdom.org/v4/) ; un mot peut figurer dans plusieurs domaines. "
                "Les mots attestés renvoient à leur première occurrence dans la Bible en kisiei ; les mots "
                "<span class=\"ks-badge ks-conf\">Confirmé</span> sont absents de la Bible mais confirmés par un locuteur ; les mots "
-               "<span class=\"ks-badge ks-res\">Réécrit</span> viennent de la description de 1979 et doivent être "
-               "confirmés ; les mots <span class=\"ks-badge ks-south\">kissi du Sud</span> ne sont connus que par le "
+               "<span class=\"ks-badge ks-res\">Réécrit</span> viennent d'une source écrite plus ancienne (Keita 1979, "
+               "Paulme 1964, le *Lexique kissi–français*, la terminologie de l'Académie, *Sandara Kisia*), sont "
+               "transcrits dans l'orthographe actuelle et doivent être confirmés ; les mots <span class=\"ks-badge ks-south\">kissi du Sud</span> ne sont connus que par le "
                "dictionnaire du kissi du Sud (Childs 2000) : ils ne sont pas attestés au Nord et sont écrits tels que Childs les note. "
                "Le lexique est aussi disponible aux formats CSV, TSV, LIFT (pour FieldWorks) et CLDF.")},
     "en": {"south": "Southern Kissi (Childs 2000)", "title": "Word lists", "kis": "Kisiei", "pos": "Category", "gloss": "English",
@@ -333,8 +385,9 @@ TEXT = {
                "[SIL Semantic Domains](https://semdom.org/v4/) classification; a word may appear in several domains. "
                "Attested words link to their first occurrence in the Kisiei Bible; "
                "<span class=\"ks-badge ks-conf\">Confirmed</span> words are not in the Bible but confirmed by a speaker; "
-               "<span class=\"ks-badge ks-res\">Respelled</span> words come from the 1979 description and still need "
-               "confirmation; <span class=\"ks-badge ks-south\">Southern Kissi</span> words are known only from the "
+               "<span class=\"ks-badge ks-res\">Respelled</span> words come from an older written source (Keita 1979, "
+               "Paulme 1964, the *Lexique kissi–français*, the Académie terminology, *Sandara Kisia*), converted "
+               "to the current spelling; they still need confirmation; <span class=\"ks-badge ks-south\">Southern Kissi</span> words are known only from the "
                "Southern Kissi dictionary (Childs 2000): they are not attested in the North and are spelled as Childs writes them. "
                "The lexicon is also available as CSV, TSV, LIFT (for FieldWorks) and CLDF.")},
 }
@@ -380,10 +433,8 @@ def export_page(lang, entries, domains, words):
             b = bible_info(e, words)
             if b:
                 src = f"[{bible_label(b[1], lang)}]({BIBLE_URL.format(ref=b[1])})"
-            elif e.get("keita"):
-                src = f"Keita 1979, p. {e['keita'].get('page', '?')}"
             else:
-                src = ""
+                src = "; ".join(citations(e))
             gloss = e["gloss"][lang].replace("|", "/")
             sense = (e.get("childs") or {}).get("sense")
             if sense:
@@ -414,7 +465,7 @@ DICT_TEXT = {
                "Le soulignement de chaque mot indique sa source, comme dans le reste du guide : "
                "<span class=\"ks-badge ks-att\">Attesté</span> dans la Bible (avec un renvoi à une occurrence), "
                "<span class=\"ks-badge ks-conf\">Confirmé</span> par un locuteur, "
-               "<span class=\"ks-badge ks-res\">Réécrit</span> d'après Keita 1979, "
+               "<span class=\"ks-badge ks-res\">Réécrit</span> d'après une source écrite plus ancienne (indiquée après le mot), "
                "<span class=\"ks-badge ks-chk\">À vérifier</span>, ou "
                "<span class=\"ks-badge ks-south\">kissi du Sud</span> (Childs 2000 seulement, non attesté au Nord). "
                "Pour chercher un mot à partir du français, voir l'[index français–kisiei](reverse-index.md) ; "
@@ -440,7 +491,7 @@ DICT_TEXT = {
                "The underline of each word shows its source, as elsewhere in this guide: "
                "<span class=\"ks-badge ks-att\">Attested</span> in the Bible (with a reference to one occurrence), "
                "<span class=\"ks-badge ks-conf\">Confirmed</span> by a speaker, "
-               "<span class=\"ks-badge ks-res\">Respelled</span> from Keita 1979, "
+               "<span class=\"ks-badge ks-res\">Respelled</span> from an older written source (named after the entry), "
                "<span class=\"ks-badge ks-chk\">To check</span>, or "
                "<span class=\"ks-badge ks-south\">Southern Kissi</span> (Childs 2000 only, not attested in the North). "
                "To look up a word from English, see the [English–Kisiei index](reverse-index.md); "
@@ -479,8 +530,8 @@ def entry_source(e, words, lang):
     b = bible_info(e, words)
     if b:
         return f"[{bible_label(e.get('example') or b[1], lang)}]({BIBLE_URL.format(ref=e.get('example') or b[1])})"
-    if e.get("keita"):
-        return f"Keita 1979, p. {e['keita'].get('page', '?')}"
+    if citations(e):
+        return "; ".join(citations(e))
     if e["status"] == "southern" and e.get("childs"):
         return f"Childs 2000, p. {e['childs'].get('page', '?')}"
     return ""

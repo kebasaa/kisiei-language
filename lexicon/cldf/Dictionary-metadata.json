@@ -77,7 +77,7 @@
           {
             "name": "Status",
             "datatype": "string",
-            "dc:description": "attested (in the Bible), confirmed (by a speaker), respelled (from Keita 1979), check, or southern (Childs 2000 only)"
+            "dc:description": "attested (in the Bible), confirmed (by a speaker), respelled (from an older northern written source, converted to the current spelling), check, or southern (Childs 2000 only)"
           },
           {
             "name": "Noun_Class",

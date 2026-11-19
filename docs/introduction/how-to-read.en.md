@@ -8,7 +8,7 @@ All Kisiei words and sentences are in *underlined italics*. The colour and style
 | --- | --- | --- |
 | {{cɛiyo}} | <span class="ks-badge ks-att">Attested</span> | Every word occurs in the Kisiei Bible [[(BKG)]], apart from tones and capitals. This is the reference spelling. |
 | {{ŋɔ́ɔ́ŋŋɔ́ɔ́ŋndó\|c}} | <span class="ks-badge ks-conf">Confirmed</span> | The word does not occur in the Bible, but a Kisiei speaker has confirmed its form and meaning. |
-| {{tafeo\|r}} | <span class="ks-badge ks-res">Respelled</span> | The word comes from the 1979 manual [[(Keita1979)]] and has been respelled according to the current rules, but it does not occur in the Bible. The spelling is likely, not guaranteed. |
+| {{tafeo\|r}} | <span class="ks-badge ks-res">Respelled</span> | The word comes from an older written source (the 1979 manual [[(Keita1979)]], Paulme's vocabulary [[(Paulme1964)]], the *Lexique kissi–français* [[(LexiqueAnonyme)]], the Académie terminology lists [[(AcademieTerminologie)]] or the fables *Sandara Kissia* [[(SandaraKisia)]]). These sources use older spellings; the word has been respelled according to the Bible's rules, but it does not occur in the Bible. The spelling is likely, not guaranteed. |
 | {{húó\|s}} | <span class="ks-badge ks-south">Southern Kissi</span> | A word known only from the Southern Kissi dictionary [[(Childs2000)]], not attested in the North; it is spelled as Childs writes it. To be checked for Guinean Kisiei. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">To check</span> | The form or meaning is uncertain: hard-to-read handwritten note, a word found only once, etc. |
 
@@ -19,7 +19,7 @@ flowchart TD
     Q1{"Is every word<br>in the Bible?"} -- yes --> ATT["Attested"]
     Q1 -- no --> Q2{"Has a speaker confirmed<br>the form and meaning?"}
     Q2 -- yes --> CONF["Confirmed"]
-    Q2 -- no --> Q3{"Does the word come<br>from the 1979 manual?"}
+    Q2 -- no --> Q3{"Does the word come from<br>an older written source?"}
     Q3 -- yes --> RES["Respelled"]
     Q3 -- no --> Q4{"Is it known only<br>from Southern Kissi?"}
     Q4 -- yes --> SOUTH["Southern Kissi"]
@@ -45,6 +45,7 @@ The status is **checked automatically** every time the site is built: an example
 
 - **Bible**: [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) links to the verse on bible.com. The book abbreviations are the usual English ones (Gen, Exod, Matt…).
 - **Keita 1979**: “(Keita 1979, p. 24)” refers to the typed page of the manual; the full transcription is in the [archive](../sources/archive.md).
+- **Other written sources**: “Paulme 1964, p. 37 (G)” gives the typed page of Paulme's lexicon and her dialect mark (G. Guéckédou, K. Kissidougou); “Lexique kissi–français, p. 12”, “Terminologie (arts), n° 45” and “Sandara Kisia, fable 3” work the same way. Their transcriptions are in the [archive](../sources/archive.md); words taken from them are always respelled to the Bible's orthography.
 - The other sources are listed in the [bibliography](../sources/bibliography.md).
 
 ## Boxes

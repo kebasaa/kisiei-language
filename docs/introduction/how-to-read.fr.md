@@ -8,7 +8,7 @@ Tous les mots et phrases kisiei sont en *italique soulignée*. La couleur et le 
 | --- | --- | --- |
 | {{cɛiyo}} | <span class="ks-badge ks-att">Attesté</span> | Chaque mot figure dans la Bible en kisiei [[(BKG)]], aux tons et aux majuscules près. C'est l'orthographe de référence. |
 | {{ŋɔ́ɔ́ŋŋɔ́ɔ́ŋndó\|c}} | <span class="ks-badge ks-conf">Confirmé</span> | Le mot n'apparaît pas dans la Bible, mais un locuteur du kisiei en a confirmé la forme et le sens. |
-| {{tafeo\|r}} | <span class="ks-badge ks-res">Réécrit</span> | Le mot vient du manuel de 1979 [[(Keita1979)]] et a été réécrit selon les règles actuelles, mais il n'apparaît pas dans la Bible. L'orthographe est probable, pas garantie. |
+| {{tafeo\|r}} | <span class="ks-badge ks-res">Réécrit</span> | Le mot vient d'une source écrite plus ancienne (le manuel de 1979 [[(Keita1979)]], le vocabulaire de Paulme [[(Paulme1964)]], le *Lexique kissi–français* [[(LexiqueAnonyme)]], les listes de terminologie de l'Académie [[(AcademieTerminologie)]] ou les fables *Sandara Kissia* [[(SandaraKisia)]]). Ces sources emploient des orthographes anciennes ; le mot a été réécrit selon les règles de la Bible, mais il n'apparaît pas dans la Bible. L'orthographe est probable, pas garantie. |
 | {{húó\|s}} | <span class="ks-badge ks-south">Kissi du Sud</span> | Mot connu seulement par le dictionnaire du kissi du Sud [[(Childs2000)]], sans attestation au Nord ; il est écrit comme Childs l'écrit. À vérifier pour le kisiei de Guinée. |
 | {{mbara kisi\|?}} | <span class="ks-badge ks-chk">À vérifier</span> | La forme ou le sens est incertain : note manuscrite peu lisible, mot que l'on n'a trouvé qu'une fois, etc. |
 
@@ -19,7 +19,7 @@ flowchart TD
     Q1{"Chaque mot est-il<br>dans la Bible ?"} -- oui --> ATT["Attesté"]
     Q1 -- non --> Q2{"Un locuteur a-t-il confirmé<br>la forme et le sens ?"}
     Q2 -- oui --> CONF["Confirmé"]
-    Q2 -- non --> Q3{"Le mot vient-il<br>du manuel de 1979 ?"}
+    Q2 -- non --> Q3{"Le mot vient-il d'une source<br>écrite plus ancienne ?"}
     Q3 -- oui --> RES["Réécrit"]
     Q3 -- non --> Q4{"Est-il connu seulement<br>par le kissi du Sud ?"}
     Q4 -- oui --> SOUTH["Kissi du Sud"]
@@ -45,6 +45,7 @@ Le statut est **vérifié automatiquement** à chaque construction du site : un 
 
 - **Bible** : [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) renvoie au verset sur bible.com. Les abréviations des livres sont celles de la Bible en français (Gn, Ex, Mt…).
 - **Keita 1979** : « (Keita 1979, p. 24) » renvoie à la page dactylographiée du manuel ; la transcription intégrale se trouve dans les [archives](../sources/archive.md).
+- **Autres sources écrites** : « Paulme 1964, p. 37 (G) » donne la page dactylographiée du lexique de Paulme et sa marque de dialecte (G. Guéckédou, K. Kissidougou) ; « Lexique kissi–français, p. 12 », « Terminologie (arts), n° 45 » et « Sandara Kisia, fable 3 » fonctionnent de la même façon. Leurs transcriptions sont dans les [archives](../sources/archive.md) ; les mots qui en sont tirés sont toujours réécrits selon l'orthographe de la Bible.
 - Les autres sources sont listées dans la [bibliographie](../sources/bibliography.md).
 
 ## Encadrés
