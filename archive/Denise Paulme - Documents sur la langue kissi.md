@@ -1,23 +1,115 @@
-# Denise Paulme, *Documents sur la langue kissi : lexique et textes* (1964) — working notes
+# Denise Paulme, *Documents sur la langue kissi : lexique et textes* (1964) — full transcription
 
-> **Working notes** for the lexicon. Read from the page images of `Denise Paulme - Documents sur la langue kissi.pdf` (173 PDF pages: a 2013 printout from the University of Florida Digital Collections, record UF00073317).
+> **Full transcription** of the whole book: front matter, lexicon and all eleven texts with their notes. Read from the page images of `Denise Paulme - Documents sur la langue kissi.pdf` (173 PDF pages: a 2013 printout from the University of Florida Digital Collections, record UF00073317).
 >
 > - **Source:** Université de Dakar, *Documents linguistiques* n° 8, 1964 (title page). Material collected by Denise Paulme and André Schaeffner in the Kissi country, October 1945 – June 1946 and October 1948 – May 1949, from Kissidougou and Guéckédou (25 cantons). Lexicon pp. 1–130, then texts.
 > - **Paulme's notation** (her p. V, "Notations phonétiques"): a straight bar over a vowel = length (written here ā, ē, ī, ō, ū); a wavy mark over a vowel = nasality (written here ã, ẽ, ĩ, õ, ũ); ɛ = French è; ɔ = o of *robe*; ü = French u of *lu*; ny = gn of *hargne*; ŋ = ng of English *single*; ẅ = initial sound of *huit*. Kissi words are underlined in the typescript; underlining is not reproduced.
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
 > - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 throughout (lexicon and texts).
-> - **Progress:** PDF pp. 1–152 (front matter; lexicon complete, typescript pp. 1–130; texts 1–6, typescript pp. 131–146) done.
+> - **Complete:** PDF pp. 1–173 (front matter pp. I–V; lexicon pp. 1–130; texts pp. 131–165; table of contents p. 167). Blank separator pages are marked as such. Typescript p. 152, blank in this print, is taken from the other copy, `Denise Paulme - Kissi Vocabulaire_compressed.pdf`.
+> - **Texts:** each text gives Paulme's free French translation and footnotes, then the interlinear as small tables (her Kissi words in the top row, her gloss under each word). Nothing is respelled.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
-## PDF p. 1–6 (front matter)
+## PDF p. 1 — cover (UFDC print)
 
-- PDF p. 1: UFDC cover sheet; title page "Université de Dakar — Denise Paulme — Documents sur la langue kissi — lexique et textes — N° 8 — Documents linguistiques — 1964".
-- PDF p. 2 (p. I): inner title page.
-- PDF p. 3 (p. II): *Avertissement*, signed M. H.: the two field trips (1945–46, 1948–49, under IFAN Dakar); 25 cantons visited from Kissidougou and Guéckédou (Bokusu, Bongoro, Dembaduno, Farmaya, Gekedu Sayani, Gelo, Kamara, Koladu, Kondiadu, Kossa, Kurumadu, Le, Lingo Bengo, Magala, Mundeke, Mussama Kossila, Temessadu, Tengia, Toli, Tongi, Walto, Wende, Wendekere, Yalamba, Yende); G. and K. = cercles of Guéckédou and Kissidougou; the lexicon comes from field cards made for ethnographic work; Paulme gave the material in 1956.
-- PDF p. 4 (p. III): bibliography of Denise Paulme and of André Schaeffner on the Kissi (1942–1960).
-- PDF p. 5 (p. IV): bibliography on the Kissi language: Berry 1959 (*The structure of the noun in Kisi*), Earthy (manuscript; 1954), Mukarovsky 1948 and 1959 (*Kisi und Bantu*), Samarin 1951 (*A tentative analysis of the pluralization of Kisi nouns*).
-- PDF p. 6 (p. V): *Notations phonétiques* (see header).
+> Web-print header of the University of Florida Digital Collections: "Title: Documents sur la langue kissi — URL: http://ufdc.ufl.edu//UF00073317/00001 — Site: University of Florida Digital Collections"; footer "1 of 173 — 25.07.2013 14:28". The printed cover follows.
+
+UNIVERSITÉ DE DAKAR
+
+DENISE PAULME
+
+**DOCUMENTS SUR LA LANGUE KISSI**
+
+– LEXIQUE ET TEXTES –
+
+N° 8
+
+*(seal of the University of Dakar)*
+
+DOCUMENTS LINGUISTIQUES
+
+1964
+
+## PDF p. 2 (p. I) — title page
+
+DOCUMENTS
+
+SUR LA LANGUE KISSI
+
+– lexique et textes –
+
+par
+
+DENISE PAULME.
+
+> Library stamp: "University of Florida Library".
+
+## PDF p. 3 (p. II) — Avertissement
+
+AVERTISSEMENT
+
+Les documents sur la langue kissi ont été re[…] par Mme Denise Paulme dont on connaît déjà les travaux sur ce peuple de l'orée de la grande forêt guinéenne.
+
+Mme Denise Paulme et son mari, M. André Schaeffner, ont séjourné à deux reprises en pays kissi, d'octobre 1945 à juin 1946, d'octobre 1948 à mai 1949. Ces deux missions furent effectuées sous les auspices de l'Ecole Française d'Afrique /IFAN, Dakar/. Les recherches furent menées sur deux centres principaux de travail : Kissidougou et Guéckédou, à partir desquels furent visités 25 cantons : Bokusu, Bongoro, Dembaduno, Farmaya, Gekedu Sayani, Gelo, Kamara, Koladu, Kondiadu, Kossa, Kurumadu, Le, Lingo Bengo, Magala, Mundeke, Mussama Kossila, Temessadu, Tengia, Toli, Tongi, Walto, Wende, Wendekere, Yalamba, Yende. Les indications G. et K. correspondent aux divisions administratives de l'époque : /cercle de/ Guéckédou, /cercle de/ Kissidougou.
+
+Le lexique est le fruit d'un dépouillement des fiches rédigées sur le terrain. Ce premier travail précéda et permit l'élaboration d'ouvrages d'ordre exclusivement ethnographique ou sociologique. Bien que son but ne fut pas d'ordre linguistique, nous avons pensé qu'il serait utile, en particulier pour les linguistes, d'en permettre l'accès.
+
+Nous réussîmes à persuader Mme Denise Paulme de l'intérêt qu'il y avait à rendre publics ces documents.
+
+Elle nous en fit don en 1956, avec l'espoir qu'un linguiste se consacrerait à l'étude du kissi et qu'il pourrait les reprendre et les intégrer dans un travail élaboré. Malheureusement la langue kissi, qui a donné lieu à quelques travaux linguistiques, ne semblait pas retenir l'attention en profondeur d'un linguiste. C'est pourquoi nous avons pris sur nous d'insister auprès de Mme Denise Paulme pour qu'elle nous autorise à publier ces matériaux. Nous sommes persuadés qu'ils seront reçus comme une contribution choisie à la connaissance de cette langue.
+
+Ces documents présentent, à notre avis, un avantage immense : outre leur ampleur, et la minutie avec laquelle ils sont présentés, ils se réfèrent directement à des enquêtes prolongées sur le terrain.
+
+M. H.
+
+> The end of the first line is cut off in the scan ("ont été re…", probably *réunis* or *recueillis*).
+
+## PDF p. 4 (p. III) — Bibliographies
+
+BIBLIOGRAPHIE de DENISE PAULME sur les KISSI.
+
+- Deux statuettes en pierre de Guinée française. *Bulletin de la Société d'anthropologie*, III /1942/, 9ème série, 38-43.
+- La Notion de sacrifice chez un peuple "fétichiste" : les Kissi de Guinée française. *Revue de l'histoire des religions*, 132 /1946/, 48-66.
+- Denkongo : un rituel juridique en pays kissi. *Notes Africaines*, XL /1948/, 5.
+- Le culte du yallo en pays kissi. *Revue de l'histoire des religions*, 135 /1949/, 28-41.
+- Formes de ressentiment et de suspicion dans une société noire. *Journal de psychologie normale et pathologique* /1949/, 467-480.
+- Les Kissi, gens du riz. *Présence Africaine*, VI, /1949/, 26-55 ; VII /1949/ 226-248.
+- Fautes sexuelles et "premiers morts" dans une société africaine. *Journal de psychologie normale et pathologique* /1950/, 507-524.
+- Un mouvement féminin en pays kissi. *Notes africaines* XLVI /1950/, 43-44.
+- L'Initiation des filles en pays kissi. *Conferencia Internacional dos A – Africanistas Ocidentais em Bissau*, 1947, V, 2ème parte. Lisboa, 303-331.
+- *Les gens du riz : Kissi de Haute-Guinée*. Paris. Plon 1954. /Coll. Recherches en sciences humaines, 4/.
+- La société kissi : son organisation politique. *Cahiers d'études africaines* /1960/ I, p. 73-85.
+
+BIBLIOGRAPHIE DE ANDRE SCHAEFFNER sur les KISSI.
+
+- *Les Kissi : une société noire et des instruments de Musique*. Paris. Hermann. 1951.
+- Les rites de circoncision en pays kissi. *Etudes guinéennes*, /1953/.
+- *l'initiation en pays kissi* /en préparation/.
+
+## PDF p. 5 (p. IV) — Bibliographie sur la langue kissi
+
+– BIBLIOGRAPHIE sur la langue KISSI.–
+
+- BERRY, Jack. The structure of the noun in Kisi. *Sierra Leone Studies*, Freetown, 12 dec. 1959, 308 – 315.
+- EARTHY, Dora. /manuscrit sur le kissi, signalé par Hans Mukarowsky, dans "Kisi und Bantu"/.
+- EARTHY, Dora. Short note ou a Kissi smith. *Man*, London, oct. 1954.
+- MUKAROVSKY, Hans. Kisi und Bantu. *Archiv für Völkerkunde*, Vienne, XIII, 1959, 132-175.
+- MUKAROVSKY, Hans. *Der Sprache der Kisi in Liberia*. thèse présentée à Vienne à la Faculté de Philosophie, 1948.
+- SAMARIN William. A tentative analysis of the pluralization of Kisi nouns. *Kroeber Anthrop. Soc. Paper*, Berkeley, California, n° 5, 1951, 48-85, /cf. analyse dans *African Abstract*, London, n° 5/
+
+## PDF p. 6 (p. V) — Notations phonétiques
+
+– NOTATIONS PHONETIQUES –
+
+- /¯/ : suscrit à une voyelle, indique l'allongement.
+- /˜/ : suscrit à une voyelle, indique la nasalité.
+- ɛ : è du français.
+- ɔ : o de robe.
+- ü : u du français lu.
+- ny : gn de hargne.
+- ŋ : ng de l'anglais single.
+- ẅ : son initial de huit.
 
 ## PDF p. 7 (p. 1) — A
 
@@ -2443,3 +2535,659 @@
 ## PDF p. 152 (p. 146)
 
 > Blank page.
+
+## PDF p. 153 (p. 147) — Text 7: *La mort de Kaba*
+
+**Free translation (Paulme):**
+
+> LA MORT DE KABA.
+>
+> Ils ont apporté samedi le cadavre de Kaba. Il était malade depuis longtemps. Il refusait d'aller à l'hôpital, il était allé à Firana, dans la famille de sa mère. C'est là qu'il est mort. Ils l'ont apporté sur un brancard. Ils l'ont enterré le samedi soir. C'est la fatigue qui l'avait rendu malade. Le dimanche on a fait la condoléance. On a appelé le gardien du tali qui se trouve à Wasu Koroma, car Kaba avait juré sur le tali. Le gardien est venu, on a demandé par les colas si c'était le tali qui avait tué Kaba. Le tali a dit que c'était lui, parce que la femme de Kaba, avant de mourir, avait confié à son mari qu'elle était une sorcière et Kaba, parjure à son serment, ne l'avait pas révélé.
+>
+> En conséquence, le gardien du tali a pris la moitié de l'héritage ; l'autre moitié est allée aux parents de Kaba.
+>
+> On a tiré des coups de fusil sur la tombe. On a frappé le tambour tɔndunduo, non pour Kaba lui-même, mais en l'honneur de son père qui avait été un grand chef dans les guerres indigènes.
+>
+> Kaba avait quatre filles, la première est chez le frère cadet de son père, à Nzérékoré, les trois autres sont dans leur lignage paternel.
+>
+> On n'a pas offert le sacrifice du sara wan'wilɛyo. Le jour où on aura sacrifié un boeuf, on ne fera plus d'offrandes sur la tombe, on s'adressera à Kaba sur l'autel familial mandu.
+
+**Interlinear: PƆM Kaba — La mort de Kaba.**
+
+| a simtyo | ma | a huna | Kaba | ɔ wilɛyo |
+| --- | --- | --- | --- | --- |
+| samedi | ils | ont apporté | /de/ Kaba | le cadavre |
+
+| ɔ | wa | a nā | lɔ | levil | mu |
+| --- | --- | --- | --- | --- | --- |
+| il | était | malade | depuis | longtemps | il |
+
+## PDF p. 154 (p. 148)
+
+| kɛ | le kɔra | n | kɔ | laptal | ni |
+| --- | --- | --- | --- | --- | --- |
+| refusait | d'aller | | à | l'hôpital | |
+
+| mo | kwa | Firawa | ɔ | yuŋu /1/ |
+| --- | --- | --- | --- | --- |
+| il | était allé | à Firawa | dans | la famille |
+
+| kala | lɔ | luŋ | ɔ | vi | ni | ma | a |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| de sa mère | | c'est là | il | mort | est | ils | ont |
+
+| huna | ndu | ɔ | saŋa | ma |
+| --- | --- | --- | --- | --- |
+| apporté | lui | sur | un brancard | ils |
+
+| kumbu | ndu | a simtyo | i tyɔl | ɔ |
+| --- | --- | --- | --- | --- |
+| ont enterré | lui | samedi | le soir | lui |
+
+| saŋa | a | nā | a yimasio | ma |
+| --- | --- | --- | --- | --- |
+| fatigue | l'avait | rendu malade | le dimanche | ils |
+
+| pal | tyando /2/ | ma | velu |
+| --- | --- | --- | --- |
+| ont éclaté | en pleurs | ils | ont appelé |
+
+| wana | tali /3/ | Wasu Korɔma | ɔ | tali |
+| --- | --- | --- | --- | --- |
+| l'homme | du tali | de Wasu Korɔma | sur | le tali |
+
+| ndu | mena ni /4/ | mi | tali |
+| --- | --- | --- | --- |
+| il | avait prononcé une imprécation | le | tali |
+
+| hun | ma | yuna | ti | tali | di |
+| --- | --- | --- | --- | --- | --- |
+| est venu | ils | ont demandé | si | | a tué |
+
+| ni | mi | tali | dimi | a | ndu | ni |
+| --- | --- | --- | --- | --- | --- | --- |
+| c'est | le | tali | a dit | que | lui | c'est |
+
+| vɛndo | dimi | kuile | ɔ |
+| --- | --- | --- | --- |
+| sa femme | a dit | elle être sorcière | lui |
+
+| tyɔmure | mi | tali | i | twa | kyɛo |
+| --- | --- | --- | --- | --- | --- |
+| n'a pas déclaré | le | tali | il | a pris | héritage |
+
+| ndo | ba pilo | mi | kyɛy ɔ ntɔ | yɔŋu |
+| --- | --- | --- | --- | --- |
+| son | la moitié | le | reste | on a donné |
+
+| kabɛla /5/ |
+| --- |
+| aux gens de la cour |
+
+## PDF p. 155 (p. 149)
+
+| ma | lwa | fuŋo | ɔ | sayo tyɔ |
+| --- | --- | --- | --- | --- |
+| ils | ont tiré | des coups de feu | sur | la tombe |
+
+| ma | lwa | tɔnduduo | le | gbilɛa |
+| --- | --- | --- | --- | --- |
+| ont | frappé | le tambour tɔnduduo | par | respect |
+
+| fiŋa | ndo |
+| --- | --- |
+| père | son |
+
+| Fiŋa | ndo | wa | kɛlɛmasa | bɛnduo | Kaba | ɔ |
+| --- | --- | --- | --- | --- | --- | --- |
+| Père | son | était | chef de guerre | grand | Kaba | il |
+
+| nɔ | twa | ndaolu | twa | fɔlando |
+| --- | --- | --- | --- | --- |
+| avait | filles | quatre | /de ces/ filles | la première |
+
+| tyu | nda | fiŋa | do | pɔmbo | Serekore |
+| --- | --- | --- | --- | --- | --- |
+| est | chez | père | son | le frère cadet | à Nzérékoré |
+
+| aya | a | tyu | ɔ bɛ |
+| --- | --- | --- | --- |
+| trois | elles | sont | dans la cour. |
+
+| a | pɛllo | tyando | re /6/ | lɔ | da |
+| --- | --- | --- | --- | --- | --- |
+| ils | annoncent | deuil | ne...pas | quand | ils |
+
+| suri ni | sara ɔ | a | kɛ | ndu | ɔ |
+| --- | --- | --- | --- | --- | --- |
+| sacrifieront | /en/ sara | ils | donneront | à lui | sur |
+
+| māndu |
+| --- |
+| le mandu |
+
+**Footnotes:**
+
+1. yuŋu, yuŋo : famille patriarcale
+2. ma pal tyando : pal, pɔl = éclater, crever ; tyando = pleurer.
+3. Il s'agit du poison d'épreuves connu sous ce nom au Soudan, en kissi = kɔndo. Il existe un "autel du tal" au village de Wasu Koroma.
+4. Mena, formule imprécatoire.
+5. Kabela, Kabila, "cour" : mot malinké, équivalent du gbɛo kissi /lignage/. Pour ce texte, cf. *les gens du riz*, p. 164-165.
+6. a pal lɔ tyando re : il s'agit du sacrifice de levée de deuil, sara wan'wilɛyo.
+
+## PDF p. 156 (p. 150)
+
+> Blank page.
+
+## PDF p. 157 (p. 151) — Text 8: *La femme sorcière*
+
+**Free translation (Paulme):**
+
+> LA FEMME SORCIERE.
+>
+> Lors de l'excision des filles, elle était soigneuse ; son nom était Musuo. Lorsque les excisées sont sorties /de leur retraite/, la maladie les a attrapées. /Une/ /fille/ est tombée malade, elle est morte après cinq jours. Ses compagnes vont chercher de l'eau, l'eau attrape la femme. Les morts ont dit qu'elle était sorcière elle a mis le /talisman maléfique/ sambiyo dans le lieu de retraite. Le chasseur de sorciers l'a prise.
+
+**Footnotes:**
+
+1. kafu, terme général pour toute fête, ou réunion.
+2. Bi, attraper, au sens de "mordre".
+3. Fafa, enceinte /souvent en nattes/ : d'où, par extension, le camp des garçons, ou celui des filles, durant l'initiation.
+
+**Interlinear: WANLANA KUINO — La femme sorcière**
+
+| ɔ | kafu /1/ | biria | landua | ndu | wa |
+| --- | --- | --- | --- | --- | --- |
+| lors | la fête | excisées | filles | elle | était |
+
+| semanɔni | dola n dɔ | Musuo | mi | biria |
+| --- | --- | --- | --- | --- |
+| soigneuse | nom son | | les | excisées |
+
+| a | fura | mi | na | bi /2/ |
+| --- | --- | --- | --- | --- |
+| elles | sortent | elles | la maladie | attrape |
+
+| mu | dela | na |
+| --- | --- | --- |
+| elle | est tombée | dans la maladie |
+
+| ɔ pale | nwenui | bɛŋu | mu | wu | mi |
+| --- | --- | --- | --- | --- | --- |
+| jours | cinq | dans | elle | meurt | les |
+
+| tyaŋandua | kwā | mɛnda | kɔndo | mi | mɛnda | ma |
+| --- | --- | --- | --- | --- | --- | --- |
+| compagnes | vont | eau | chercher | l' | eau | elle |
+
+## PDF p. 158 (p. 152)
+
+> Blank in this print. Typescript p. 152 is taken from the other copy, `Denise Paulme - Kissi Vocabulaire_compressed.pdf` (its PDF p. 138).
+
+| bi | ndo | mi | wanwilɛya | a | dimi |
+| --- | --- | --- | --- | --- | --- |
+| attrape | elle | les | morts | ils | ont dit |
+
+| a | kuino | ni | mo | ɔ | kɛsi |
+| --- | --- | --- | --- | --- | --- |
+| elle | sorcière | est | elle | elle | a mis |
+
+| sambiyo | ɔ | fafa | mi | wulumo |
+| --- | --- | --- | --- | --- |
+| sambiyo | au | lieu de retraite | le | chasseur de sorciers |
+
+| ɔ | tua | ndo |
+| --- | --- | --- |
+| il | a pris | elle. |
+
+## PDF p. 159 (p. 153) — Text 9: *Les travaux des champs*
+
+**Free translation (Paulme):**
+
+> LES TRAVAUX DES CHAMPS.
+>
+> Le premier travail est dit hobuo /1/. La deuxième tâche se nomme tyawa /2/. J'ai fini le tya. Je sème le riz. Je surveille les oiseaux. Le riz pousse. Mon riz grandit. Ma mère a sarclé le riz. Moi, j'ai enclos le riz. Mon riz a fleuri dans le champ. Mon riz est mûr dans le champ. J'ai coupé le riz. J'ai attaché les gerbes. J'ai mis le riz en haut d'un échafaud. J'ai mis de côté la part pour la saison sèche.
+
+**Footnotes:**
+
+1. ce travail consiste à couper les herbes du bas-fond pour qu'elles pourrissent sur place, donnant un premier engrais.
+2. tyawa, retourner la terre.
+
+**Interlinear: BARA Ɔ TYEY NI — le travail dans les champs.**
+
+| Waa | fɔlondo | dola | hobuo | waa |
+| --- | --- | --- | --- | --- |
+| culture | première | nom | | culture |
+
+| mɛlan | dola | tyawa |
+| --- | --- | --- |
+| deuxième | nom | travail à la houe |
+
+| i | tyi | tya /1/ | mi | san | malo /2/ |
+| --- | --- | --- | --- | --- | --- |
+| j' | ai fini | le tya | je | sème | le riz |
+
+| mi | tɔa | yuwa /3/ |
+| --- | --- | --- |
+| je | surveille | les oiseaux |
+
+| malo | ũil | malo | min | sul |
+| --- | --- | --- | --- | --- |
+| le riz | pousse | riz | mien | grandit |
+
+| mi | ndua | hɔnu | malo |
+| --- | --- | --- | --- |
+| ma | mère | désherbe | le riz |
+
+| mi | i | kuŋa | malo |
+| --- | --- | --- | --- |
+| moi | j' | ai enclos | le riz |
+
+## PDF p. 160 (p. 154)
+
+| mi | malon | tyulu | ɔ tyɛyni |
+| --- | --- | --- | --- |
+| mon | riz | a fleuri | dans le champ |
+
+| mi | malon | ndiu | ɔ tyɛy ni |
+| --- | --- | --- | --- |
+| mon | riz | a mûri | dans le champ |
+
+| mi | kwau | malo /4/ | mi | yi | tumbura |
+| --- | --- | --- | --- | --- | --- |
+| j' | ai coupé | le riz | j' | ai attaché | les bottes |
+
+| mi | kɛsi | ɔ banduo | tyo |
+| --- | --- | --- | --- |
+| j' | ai dressé | un échafaud | en haut |
+
+| mi | suri | kɔndo | le | wɔɔ |
+| --- | --- | --- | --- | --- |
+| j' | ai ôté | la part | pour | saison sèche |
+
+**Notes (Paulme):**
+
+1. i tyi tya : j'ai fini le tya – Bara ityɛy ɔ tyu : le travail du champ est fini.
+2. i san malo : je sème le riz – i sanni malo sodi : je sèmerai le riz demain.
+3. i tɔa yuwa : je surveille les oiseaux – i tyɔ yuwa tuo : je suis en train de surveiller les oiseaux – mi tɔani yuwa = je surveillerai les oiseaux.
+4. mi kwau malo : j'ai coupé le riz – On dira aussi : mi tyi malo n kuɔ : j'ai fini de couper le riz – kwau = kuɔ – vient de muɔy, couteau.
+
+## PDF p. 161 (p. 155) — Text 10: *Mena*
+
+**Interlinear: MENA — Imprécation** (no separate free translation in the typescript)
+
+| Denkoŋo /1/ | wando | hin | menando |
+| --- | --- | --- | --- |
+| | cet homme | est venu | faire le mena |
+
+| a tye | kulo | a | funde |
+| --- | --- | --- | --- |
+| voici | des colas | et | du coton |
+
+| ma a mara | wiyo | bi yo |
+| --- | --- | --- |
+| il faut l'aider | voleur | attraper |
+
+| ti | wiyo | bi | nɔm pɛ | a | sɔra |
+| --- | --- | --- | --- | --- | --- |
+| si | voleur | tu | attrapes | tu | recevras |
+
+| doma | nɔmdo | a | kuryo | a | nɔsilo /2/ |
+| --- | --- | --- | --- | --- | --- |
+| boubou | pour toi | et | pantalon | et | bonnet |
+
+**Footnotes:**
+
+1. Sur Denkongo, voir PAULME D. *Denkongo, un rituel judiciaire en pays kissi*. Notes africaines XL, 1948,5
+2. le voleur sera tué par la foudre. Ses vêtements seront envoyés à Denkongo.
+
+## PDF p. 162 (p. 156)
+
+> Blank page.
+
+## PDF p. 163 (p. 157) — Text 11: *Le porc-épic et le lièvre* (tale)
+
+> Transcribed in full. The typescript gives the interlinear and its 66 notes only; there is no separate free translation. Some note numbers (e.g. 12, 24–27, 39–40, 42, 46, 61–63) are not marked in the interlinear as typed, although the notes exist (pp. 161–165).
+
+**Interlinear: TŨILO a SANDO WA /1/ KƐRANI /2/ — Le porc-épic et le lièvre ils voyageront**
+
+| Tuilo | a | sando | ā | tyɛn /3/ |
+| --- | --- | --- | --- | --- |
+| le porc-épic | et | le lièvre | ils | se sont levés |
+
+| kɛra | ni | sando | dolã /4/ | mallo /5/ |
+| --- | --- | --- | --- | --- |
+| voyager | pour | le lièvre | le nom | l'étranger |
+
+| tũilo | dolã | tũilo | ā | kwɛ́ /6/ |
+| --- | --- | --- | --- | --- |
+| le porc-épic | le nom | le porc-épic | ils | sont partis |
+
+| yimda | matul /7/ | a | tiya /8/ | ɔ /9/ |
+| --- | --- | --- | --- | --- |
+| la nuit | est tombée | ils | arrivent | à |
+
+| tyɛɔ ni | a | nyuna | masa | masa |
+| --- | --- | --- | --- | --- |
+| un village | ils | demandent | le chef | le chef |
+
+| nyuna | dolã | ya | dolã /10/ | tũilo |
+| --- | --- | --- | --- | --- |
+| demande | noms | mon | nom | porc-épic |
+
+| ya | mallo /11/ | ma | yɔŋu | da | tyɛyo /13/ |
+| --- | --- | --- | --- | --- | --- |
+| mon | étranger | on | donne | à eux | une case |
+
+| tuambo | tyu /14/ | nda | mumu | mumu |
+| --- | --- | --- | --- | --- |
+| une enfant | apporte | à eux | du riz | le riz |
+
+| mallani /15/ | tũilo | wa | le /16/ |
+| --- | --- | --- | --- |
+| pour les étrangers | le porc-épic | était | pour |
+
+| dúo /17/ | mi /18/ | mallo | dimi | a /19/ | mumo |
+| --- | --- | --- | --- | --- | --- |
+| manger | l' | étranger | a dit | que | ce riz |
+
+| muni /20/ | sando | dɛ /21/ | mumu | bɔ /22/ | ma |
+| --- | --- | --- | --- | --- | --- |
+| pour moi | le lièvre | a mangé | le riz | tout | ils |
+
+| lɔl | tũilo | lɔlte /23/ | mo | tyan | mo |
+| --- | --- | --- | --- | --- | --- |
+| dorment | tũilo | ne dort pas | il | se lève | il |
+
+| twa | wurɔla | mallo | ɔ | kwɛ |
+| --- | --- | --- | --- | --- |
+| prend | les habits | de l'étranger | il | est parti |
+
+## PDF p. 164 (p. 158)
+
+| ɔ | pali | mo | suŋu /28/ | yambɛ |
+| --- | --- | --- | --- | --- |
+| vers | les champs | il | a arraché | du manioc |
+
+| bandye | tyã | mo | nɔrya | wurola |
+| --- | --- | --- | --- | --- |
+| des patates | des arachides | il | salit | les vêtements |
+
+| mallo | mallo | tyɔ | luã /29/ |
+| --- | --- | --- | --- |
+| de l'étranger | l'étranger | continue | son sommeil |
+
+| tũilo | lɔl | idiyɔ /30/ | wana |
+| --- | --- | --- | --- |
+| le porc épic | dort | c'est le matin | les gens |
+
+| tyɛya /31/ | ā | tye /32/ | tyɛy | a | kimbu |
+| --- | --- | --- | --- | --- | --- |
+| du village | ils | voient | le champ | on | a volé |
+
+| nyyɔ̃ /33/ | masa | nyuna | malla |
+| --- | --- | --- | --- |
+| des choses | le chef | demande | aux étrangers |
+
+| mallo | tye | wurɔla | ta | nɔryela /34/ |
+| --- | --- | --- | --- | --- |
+| l'étranger | voit | vêtements | ses | salis |
+
+| mi | malla | a | fura | tũilo | dimi |
+| --- | --- | --- | --- | --- | --- |
+| les | étrangers | ils | sortent | le porc-épic | dit |
+
+| mi /35/ | lɔl | nyuna | mallo | wurɔla |
+| --- | --- | --- | --- | --- |
+| moi j' | ai dormi | demandez | à l'étranger | les vêtements |
+
+| mallo | lá | nɔra | la nɔa |
+| --- | --- | --- | --- |
+| de l'étranger | ils | sont salis | regardez |
+
+| wɔ | ũiyo /36/ | masa | nyuna | tũilo |
+| --- | --- | --- | --- | --- |
+| lui | voleur le | le chef | demande | au porc-épic |
+
+| vɛna | lɔyɛ nɛ /37/ | ɔ | tyɔ | bɔ | re /38/ |
+| --- | --- | --- | --- | --- | --- |
+| combien | coups | ce | n'est | beaucoup | pas |
+
+| la | lɔ̃ | kɛmɛ | lɔnya | luaya |
+| --- | --- | --- | --- | --- |
+| vous | frappez | cent | vous les frappeurs | les coups |
+
+> "lɔ̃" is typed with ɔ and tilde close together, so it looks like "15" in the interlinear; note 44 gives "la lɔ̃ : frappez".
+
+| la | velu | wanayawa | min | kɔlu |
+| --- | --- | --- | --- | --- |
+| vous | appelez | le devin | nous deux | buvons |
+
+| kɔwã /41/ | wanayawa | 'in | mallo | kul |
+| --- | --- | --- | --- | --- |
+| médicaments | le devin | vient | l'étranger | boit |
+
+## PDF p. 165 (p. 159)
+
+| fɔlɔ̃ | mo | kusu | mumo | tũilo | kul |
+| --- | --- | --- | --- | --- | --- |
+| le premier | il | vomit | le riz | le porc-épic | boit |
+
+| mo | kusu | kwandye /43/ | bandye | yambɛ |
+| --- | --- | --- | --- | --- |
+| il | vomit | les choses volées | patates | manioc |
+
+| tyã | masa | nuna | mallo | vɛna |
+| --- | --- | --- | --- | --- |
+| arachides | le chef | demande | à l'étranger | combien |
+
+| lɔyɛ | nɛ | ɔ | tyɔ | bɔ | re | kɛmɛlɛa tɔ |
+| --- | --- | --- | --- | --- | --- | --- |
+| coups | | ce | n'est | beaucoup | pas | trois cents |
+
+| ma | lua /44/ | tũilo | masa | dimi |
+| --- | --- | --- | --- | --- |
+| ils | ont frappé | le porc-épic | le chef | a dit |
+
+| la kɛrania /45/ | mallole |
+| --- | --- |
+| il ne faut pas voyager | avec l'étranger |
+
+| Ma | kwa | ɔ yundu ni /47/ | tuilo |
+| --- | --- | --- | --- |
+| ils | partent | dans la brousse | le porc-épic |
+
+| dimi | i | saŋa | i | kwɛ | purando /48/ |
+| --- | --- | --- | --- | --- | --- |
+| a dit | je | suis fatigué | je | vais | me laver |
+
+| ɔ | pɛlo | mɔ | tya | dusua | mɔ | dimu |
+| --- | --- | --- | --- | --- | --- | --- |
+| au | marigot | il | voit | des chasseurs | il | dit |
+
+| nda | bwɛy /49/ | nɔnu /50/ | la | tyani /51/ | ɔ | nɔ |
+| --- | --- | --- | --- | --- | --- | --- |
+| à eux | boy | pour moi | vous | verrez | il | possède |
+
+| kurã /52/ | mi | dusua | kɔluma | mallo |
+| --- | --- | --- | --- | --- |
+| des soufflets | les | chasseurs | trouvent | l'étranger |
+
+| mallo | dimi | ɔ | tyɔra /53/ | kure /53 b/ |
+| --- | --- | --- | --- | --- |
+| l'étranger | dit | ce | n'est pas | des soufflets |
+
+| nira | nira | ni /54/ | mi | dusua | a |
+| --- | --- | --- | --- | --- | --- |
+| oreilles | oreilles | c'est | les | chasseurs | ils |
+
+| suŋu | nira | mi | sãndo | tũena |
+| --- | --- | --- | --- | --- |
+| ont arraché | les oreilles | le | lièvre | est en colère |
+
+| ma | kwa | kɛra | ma | a | tya /55/ |
+| --- | --- | --- | --- | --- | --- |
+| ils | continuent | le voyage | eux | ils | voient |
+
+## PDF p. 166 (p. 160)
+
+| wana yɔya /56/ | mi | mallo | yuna /57/ | kɔ | nya /58/ |
+| --- | --- | --- | --- | --- | --- |
+| des pêcheurs | l' | étranger | demande | où | vous |
+
+| kwɛ | nɛ /59/ | n'tyɔra /60/ | kɔ yɔya | buɛy |
+| --- | --- | --- | --- | --- |
+| alliez | | nous allons | à la pêche | boy |
+
+| nɔnu | tyu | kɔli | ɔ nɔ | kwɔ̄n |
+| --- | --- | --- | --- | --- |
+| pour moi | est | derrière | il possède | des flèches |
+
+| wana yɔya | a | tyɛ | tũilo |
+| --- | --- | --- | --- |
+| les pêcheurs | ils | ont vu | le porc-épic |
+
+| mallo | yɔŋu | na | kwɔ̄n |
+| --- | --- | --- | --- |
+| l'étranger | a donné | à nous | les flèches |
+
+| ɔ tyɔ | kwɔ re | siya | siya | nya ni |
+| --- | --- | --- | --- | --- |
+| c'est | flèches ne pas | piquants | piquants | pour moi |
+
+| ma | di | tũilo | ma | a | suŋi |
+| --- | --- | --- | --- | --- | --- |
+| ils | ont tué | le porc-épic | eux | ils | ont arraché |
+
+| siyã | bɔ | mi | mallo | kwa | 'a | ndulo /64/ |
+| --- | --- | --- | --- | --- | --- | --- |
+| piquants | beaucoup | l' | étranger | part | vers | chez lui |
+
+| mo | dimi | ya | kɛndu | kwalo | ni | i |
+| --- | --- | --- | --- | --- | --- | --- |
+| il | a dit | moi | malin | coeur | mon | je |
+
+| nɔ re la /65/ | nira | kɔnɔ | tũilo |
+| --- | --- | --- | --- |
+| ne possède plus | oreilles | mais | le porc-épic |
+
+| vi | wana | kɛra | a | wana |
+| --- | --- | --- | --- | --- |
+| est mort | homme | voyager | avec | homme |
+
+| nɛu nɔm | kɔllo | tyundo re /66/ |
+| --- | --- | --- |
+| plus que toi | coeur | instruit ne pas. |
+
+## PDF p. 167 (p. 161) — Notes to Text 11
+
+1. wa pour a, na, pronom de la troisième personne du pluriel.
+2. kerane, kerani : voyageront. Le futur se traduit par l'habituel /suffixe a/ et ni qui exprime l'intention, la possession, l'appartenance – /tyɛ ɔ Fasa ni : la case de Fasa, pour Fasa/.
+3. a tyɛn : ils se sont levés, ils ont quitté, ils ont volé, idée de mouvement. a tyɛn... ni : ils avaient l'intention de ; quand un infinitif est complément direct d'un verbe, on lui ajoute le suffixe ni.
+4. sando dolã : dans la construction du génitif, le nom du possesseur précède celui de l'objet possédé. do : pour les pronoms : fiŋa /1/ nɔm /2/ dolã /3/ : /quel est le/ nom /3/ de ton /2/ père /1/.
+5. sando dolã mallo : le verbe être est souvent sous-entendu.
+6. a kwɛ : ils sont partis. Le suffixe ɛ est la marque habituelle du parfait.
+7. natul : radical tul /= descends/ tulɔ, descente.
+8. a tiya : le présent ne diffère pas de l'habituel ; suffixe a.
+9. ɔ : particule indiquant le mouvement, l'intention, employée avec ni, indique l'appartenance – ɔ bundo ni : dans la forêt ; tyɛy Fasa ni : la case de /pour/ Fasa.
+10. ya dolã, mon nom. Ya, pronom de la première personne du singulier ; employé comme possessif, précède le nom.
+11. ya mallo, pour ya /dolã/ mallo, mon nom est étranger.
+12. ma yɔŋu da : on leur donne. on se traduit par la troisième personne du pluriel + l'actif – la même forme exprime souvent un passif.
+13. tyɛyo : une case ; tyɛ, tyɛy, case. o, article indéfini, suffixé à beaucoup de noms terminés par une voyelle, donne une diphtongue,
+
+## PDF p. 168 (p. 162)
+
+14. tyu : apporte – temps exact ?
+15. malla, pluriel de mallo, l'étranger ; ne, ni, préposition.
+16. wa le, était pour /voulait/ ; wa, parfait du verbe être ; le, préposition à sens divers : avec, contre à cause de, pourquoi, comment.
+17. duo, substantif : le manger, la nourriture.
+18. mi, article défini ; souvent employé pour donner un sens emphatique /"c'est l'..."/.
+19. a, que ; préposition reliant principale + subordonnée.
+20. nuni, pour moi ; nu, pronom complément de la première personne du singulier ; ni, suffixe d'appartenance.
+21. dɛ : le suffixe ɛ indique le parfait = a fini de manger.
+22. mumu bɔ : tout le riz : bɔ, adjectif, a le sens de grand ; employé comme adverbe, il se traduit par tous, ensemble ; ou tout, suffisant, assez, beaucoup.
+23. lɔlte : ne dort pas ; te, nte, re, le, suffixe exprimant la négation : ɔ tyɔ bɔre : ce n'est pas beaucoup.
+24. mo tyan, il se lève ; présent. cf. plus haut, a tyɛn kɛra ne : ils se sont levés /dans le passé/ pour voyager.
+25. wurɔla, pluriel – singulier : wurɔ.
+26. ɔ : particule de mouvement : vers, dans.
+27. puli : argile, terre, champs, pluriel – singulier : pulo. Les pluriels en i sont rares.
+28. mo suŋu : il a arraché, parfait.
+29. tyɔ luã, continue son sommeil ; forme progressive pour ɔ lɔl, il dort ; luã, substantif, sommeil. ɔ tyɔ : il est, copule – Le progressif peut encore se traduire par la forme luã ɔ tyo ni : il est en train de dormir.
+
+## PDF p. 169 (p. 163)
+
+30. idiyo : c'est le matin – di : matin, diyo, au revoir.
+31. wana tyɛya : les gens du village ; tyɛy : traité en adjectif, prend l'a, marque du pluriel, pour s'accorder avec le substantif auquel il se rapporte.
+32. wana tyɛya a tye : le pronom personnel de la troisième /a/ renforce le nom sujet /wana tyɛya/.
+33. a kimbu nyyɔ̃ ; on a volé des choses. On se traduit par la troisième personne du pluriel /a/ ; kimbu temps exact ? – nyyɔ̃ : choses, pluriel, pour nyɛy.
+34. wurola ta nɔryela : nɔryela : pluriel.
+35. mi : emphatique pour i, pronom de la première personne du singulier.
+36. ũi/y/o : le voleur ; o, article suffixé /= pronom de la troisième personne du singulier/.
+37. vɛna... nɛ, combien /nɛ, particule interrogative/.
+38. ɔ tyɔ bɔre : ce n'est pas beaucoup ; ɔ, pronom de la troisième personne du singulier ; tyɔ, copule /"est"/ ; bɔ, adjectif, grand, peut s'employer comme adverbe avec le sens de assez, suffisant, beaucoup ; re, particule négative.
+39. lɔnya luaya /lɔyɛ et luaya/.
+40. min : pronom inclusif de la première personne du pluriel.
+41. kɔwã, littér. sang ; par extension, toute préparation magique où entre du sang.
+42. kul, kɔlu.
+43. kwandye, choses volées ; de ɔ kwandu : il a volé dérobé.
+44. la lɔ̃ : frappez /impératif/. ma lua : ils ont frappé.
+45. la kɛrania : il ne faut pas voyager.
+46. mallole, avec l'étranger. le a le sens général de contre, à cause de, c'est pourquoi, comment, parce que ; suffixé, prend le sens de : avec.
+47. ɔ...ni : dans le... ; indique l'emplacement : ɔ
+
+## PDF p. 170 (p. 164)
+
+> The first line of this page sits higher than on the others; it was read from a separate render of the top of the page.
+
+- … tala ni : dans la calebasse ; et aussi, pour les personnes, l'appartenance – tyɛy ɔ Fasa ni, la case de Fasa.
+
+48. purando : nom d'action /suffixe ndo/ pour i pura : je lave, ou je me lave,
+49. bwɛy, pour boy, domestique /mot anglais/.
+50. nɔnu, pour moi ; cf. nuni, note 20. Les voyelles changent suivant le contexte.
+51. tyani : futur /i tyɛ = j'ai vu ; i tya = je vois ; i tyani, je verrai/.
+52. soufflets de forge, à pot, couverts en peau /kurã : sac en peau/.
+53. ɔ tyɔra : ce n'est pas /ra, négation/.
+
+    53b. kure pour kuran re.
+54. nira nira ni : la répétition a fréquemment un rôle emphatique.
+55. ma atiya wana yɔya : atiya est-il le verbe ɔ tyan, il se lève, il est parti, qui avec un complément direct prendrait le sens de "rencontrer" ?
+56. wana yɔya : yɔya ? pêche.
+57. yuna : demande.
+58. nya, vous, pour la ou da.
+59. nɛ : part. interrogative.
+60. n'tyɔre : nous allons ? i tyɔ yɔya.
+61. kɔli : adverbe de lieu : derrière, en retard /de kɔ, dos/.
+62. yɔŋu : a donné.
+63. siyã siyã nyani : même forme que plus haut, nirã nirã ni, note 54.
+64. 'andulo : chez lui. ndu = pronom de la troisième personne du singulier. a, ɔ, particule de mouvement, a le sens de envers, contre, devant ; ne s'emploie pas souvent seule, mais dans des expressions comme ɔ...ni, dans ; ɔ...tyo, en haut.
+
+## PDF p. 171 (p. 165)
+
+65. i nɔre la : est-ce une négation redoublée ? /i nɔ = j'ai/ – i nɔre : je n'ai pas, i nɔrela.
+66. nɛu nɔm kɔllo tyundo re : u nɔm : plus que toi.
+
+## PDF p. 172 (p. 166)
+
+> Blank page.
+
+## PDF p. 173 (p. 167) — Table des matières
+
+| Section | Page |
+| --- | --- |
+| Avertissement | p. II |
+| Bibliographie de Denise Paulme sur les Kissi | p. III |
+| Bibliographie de André Schaeffner sur les Kissi | p. III |
+| Bibliographie sur la langue kissi | p. IV |
+| Notations phonétiques | p. V |
+| Lexique | p. 1 à 130 |
+| Textes : les ennemis de la plantation | p. 131 |
+| la cuisson du riz | p. 133 |
+| la sauce du riz | p. 137 |
+| kurye /prière accompagnant l'offrande aux ancêtres des dernières semences et des premiers grains | p. 141 |
+| prière pour le rétablissement d'un malade | p. 143 |
+| malédiction pour la mort d'un enfant en bas-âge | p. 145 |
+| la mort de Kaba | p. 147 |
+| la femme sorcière | p. 151 |
+| les travaux des champs | p. 153 |
+| imprécation /mena/ | p. 155 |
+| le porc-épic et le lièvre | p. 157 |
+| Table des matières | p. 167 |

@@ -88,7 +88,7 @@ The four terminology lists name no author on the pages; the attribution to Keita
 
 | File | Description |
 | --- | --- |
-| [`Denise Paulme - Documents sur la langue kissi.pdf`](archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.pdf) | *Documents sur la langue kissi : lexique et textes* (Glottolog dates it 1964), printed in 2013 from the University of Florida Digital Collections (record UF00073317), 173 pages. Vocabulary and texts collected by the ethnologist Denise Paulme during two field trips to the Kissi country with André Schaeffner (October 1945–June 1946 and October 1948–May 1949), around Kissidougou and Guéckédou; it includes a bibliography of earlier work on Kissi. |
+| [`Denise Paulme - Documents sur la langue kissi.pdf`](archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.pdf) | *Documents sur la langue kissi : lexique et textes* (Glottolog dates it 1964), printed in 2013 from the University of Florida Digital Collections (record UF00073317), 173 pages. Vocabulary and texts collected by the ethnologist Denise Paulme during two field trips to the Kissi country with André Schaeffner (October 1945–June 1946 and October 1948–May 1949), around Kissidougou and Guéckédou; it includes a bibliography of earlier work on Kissi. Full transcription (front matter, lexicon, all eleven texts with interlinear glosses and notes): [`Denise Paulme - Documents sur la langue kissi.md`](archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.md). |
 | [`Denise Paulme - Kissi Vocabulaire_compressed.pdf`](archive/Denise%20Paulme%20-%20Kissi%20Vocabulaire_compressed.pdf) | Another copy of the same work (151 pages), scanned from a typescript, with some handwritten notes. |
 
 ### Other

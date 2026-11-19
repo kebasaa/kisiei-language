@@ -17,7 +17,7 @@ The [`archive/`](https://github.com/kebasaa/kisiei-language/tree/main/archive) f
 
 | Document | Contents |
 | --- | --- |
-| [Documents sur la langue kissi](https://github.com/kebasaa/kisiei-language/blob/main/archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.pdf) | *Documents sur la langue kissi : lexique et textes* [[(Paulme1964)]], 173 pages, printed from the University of Florida Digital Collections. Vocabulary and texts collected by the ethnologist Denise Paulme during two stays in the Kissi country with André Schaeffner (October 1945 – June 1946, October 1948 – May 1949), around Kissidougou and Guéckédou; with a bibliography of earlier work on Kissi. |
+| [Documents sur la langue kissi](https://github.com/kebasaa/kisiei-language/blob/main/archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.pdf) | *Documents sur la langue kissi : lexique et textes* [[(Paulme1964)]], 173 pages, printed from the University of Florida Digital Collections. Vocabulary and texts collected by the ethnologist Denise Paulme during two stays in the Kissi country with André Schaeffner (October 1945 – June 1946, October 1948 – May 1949), around Kissidougou and Guéckédou; with a bibliography of earlier work on Kissi. [Full transcription](https://github.com/kebasaa/kisiei-language/blob/main/archive/Denise%20Paulme%20-%20Documents%20sur%20la%20langue%20kissi.md) (lexicon and all eleven texts, with interlinear glosses and notes). |
 | [Kissi vocabulaire](https://github.com/kebasaa/kisiei-language/blob/main/archive/Denise%20Paulme%20-%20Kissi%20Vocabulaire_compressed.pdf) | Another copy of the same work (151 pages), scanned from a typescript, with a few handwritten notes. |
 
 ## Other documents
