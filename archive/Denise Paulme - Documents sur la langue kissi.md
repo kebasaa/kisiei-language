@@ -6,8 +6,8 @@
 > - **Paulme's notation** (her p. V, "Notations phonétiques"): a straight bar over a vowel = length (written here ā, ē, ī, ō, ū); a wavy mark over a vowel = nasality (written here ã, ẽ, ĩ, õ, ũ); ɛ = French è; ɔ = o of *robe*; ü = French u of *lu*; ny = gn of *hargne*; ŋ = ng of English *single*; ẅ = initial sound of *huit*. Kissi words are underlined in the typescript; underlining is not reproduced.
 > - **Dialect marks:** "/G./" Guéckédou, "/K./" Kissidougou (the colonial *cercles*).
 > - **Word-by-word glosses:** Paulme numbers the words of an example, `a /1/ dimu /2/ … : tu /1/ as /2/ dit …`; kept as typed.
-> - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 for the lexicon.
-> - **Progress:** PDF pp. 1–132 (front matter; lexicon a – yembe ẅisyo, typescript pp. 1–126) done.
+> - **Marks:** `[?]` illegible; `✎` handwritten. Typescript page numbers are given as "p. N"; PDF p. = typescript p. + 6 throughout (lexicon and texts).
+> - **Progress:** PDF pp. 1–152 (front matter; lexicon complete, typescript pp. 1–130; texts 1–6, typescript pp. 131–146) done.
 > - **Bar or wave:** the two marks above vowels are small and sometimes hard to tell apart on this printout; where unsure, the reading is followed by `[?]`.
 
 ## PDF p. 1–6 (front matter)
@@ -1907,3 +1907,539 @@
 - yema, pl. yemarã : bâillement – i yema : je bâille – la yema.
 - yemba : variété d'arbre. On en tire la caisse du dunduo, tambour cylindrique à 2 peaux – grand arbre.
 - yembe ẅisyo, pl. yembɔ̃ : griffe d'un animal, ongle humain.
+
+## PDF p. 133 (p. 127)
+
+- yɛmde, yimdo, pluriel : foie.
+- yɛmyã /S./ : totem – yɛmyano : mon totem /est/.
+- yeŋya, yeŋiya, yeŋiya : espèce de vin de palme, très sucré en hivernage, très fort – se boit aussitôt recueilli.
+- yeyo, pl. yeorã : injure – ɔ yeo ya : il m'insulte – ɔ yeo ndu : il l'a injurié – la yeo ndu : injuriez-le. ɔ yeani nda : il va les insulter – ye na : injuriez-nous. /formule du bɔrɔwa/. yeyo,
+- yewo, pl. yewa : antilope.
+- yi /ou tyi/ : ɔ yi sambiyo : il attache le sambiyo. a yi nɔm dumbuo : ils ont attaché le dumbuo sur toi – koma yia : koma attaché, ficelé. mi yi tumburã : j'ai attaché les gerbes.
+- yikila : eau où l'on fait cuire le riz.
+- yikɔma : variété de riz apportée de Sierra Leone par les Malinké – grain rouge, moyen –
+- yil, pl. yilɔlɛ̃ : salut, saluer. ɔ yil bɔndua re : il ne salue pas les vieux. yilɔ i diyo : salut du matin – yilɔ tyɔllɔ : salut de l'après-midi.
+- yilamalyo : hippopotame /G./.
+- yima : soeur. yima nu : ma soeur – yima Musa : la soeur de Musa. yima nya : mes soeurs. yima Musa a kwɔ ɔ lɔni = les soeurs de Musa, elles sont allées au marché.
+- yimballo : plante. Intervient dans le rituel du yallo à Tengia.
+- yimbo, pl. yimbɔrã : tambour de danse, vertical, à sonnailles. yura yimbo : danse au son du yimbo.
+- yimda, yumda : nuit – pas de singulier – yimda ma tul la nuit est venue – yimda tau : plusieurs nuits.
+
+## PDF p. 134 (p. 128)
+
+- yinda, pl. yindara /peson de/ fuseau.
+- yinde, pl. yinde : poils, cheveux. yinde/n/ Specimens. ede en Krim.
+- yindemi : premier mois, début de la saison sèche /Sud/,
+- yiŋila : profond – kɔlɔndo yiŋila : le puits /est/ profond – ɔ yiŋila ɔ re : ce n'est pas profond.
+- yira : doux, bon /à manger/. nyɛy yira : chose bonne. maŋurua ma yira : les mangues sont bonnes. ɔ tyɔ ɔ yera.
+- yirakama, yirakɔma : hippopotame,
+- yirãnkuo, pl. yirankoa : hippopotame /G./.
+- yɔgbo : petite plante, arbuste, canton Kossa. Ses feuilles donnent une infusion avec laquelle on frotte chasseur, chien et fusil avant la chasse.
+- yɔli : chaque, chacun, tous. nya yɔli : vous tous – nda yɔli : nous tous – na yɔli : eux tous.
+- yɔmba : 1/ nom propre de l'enfant qui naît après les jumeaux – 2/ poissons rayés qui vivent avec les mbona de Kɔledu.
+- yɔmdo, pl. yɔmde – yɔmde : arbre, bois d'arc. yɔm'sola bois sacré – yɔm'nina : l'arbre des djinns résonateur pour joueuse de sɛo /à Tongi/. – yɔmdu yɔmɔ : casser du bois – i yim yɔmdo : je casse du bois. la yim : casser.
+- yɔmdo : brousse, forêt. ẅisya yɔmdoni : les bêtes sauvages.
+- yɔmɔa : force. ɔ nɔ yɔmɔa : il possède la force ; il est fort. wana ma yɔmɔ : l'homme fort.
+- yɔmo : 1/ briser, rompre, 2/ annoncer – lɔ yɔmo : fixer le jour d'une fête /lɔ : marché, réunion/.
+
+## PDF p. 135 (p. 129)
+
+- yɔmɔle, pl. yɔmɔle : grand arbre. Son écorce donne une poudre avec laquelle on soigne la rétention d'urine.
+- yɔna : vite. la tyindu yɔna yɔna : achevez rapidement. mambilo kwa yɔnɔ : l'auto va vite /ou hin yɔna : yɔna = yuna/.
+- yɔnde, pl. yɔnda /G./ : fesse.
+- yɔnɔ : nyɛyi yɔnu ndo : l'affaire s'est passée pour lui.
+- yɔŋɔ, pl. yɔŋura : petite chanteuse de choeur à 3 voix s'accompagnant au sɛo.
+- yɔŋɔ, yɔŋu : donner. i yɔŋu : je donne. pɔno yɔŋu vɛn dɔ walo : le mari donne à sa femme du riz – la yɔŋu.
+- yɔɔ̃ : épines.
+- yɔrɔ, pl. yɔrɔa : tsé-tsé.
+- yɔtyo : oiseau. yɔtyo ɔ yɔmdɔ tyo : l'oiseau est au sommet de l'arbre.
+- yɔwa, pl. yɔwara /K./ : collier européen,
+- yɔwa : franges, en perles ou en cuir.
+- yɔwɛ : pendentif, bijou de cou. yɔwɛ sanyɔ : bijou en or.
+- yɔya : épervier. wana yɔya : pêcheur à l'épervier.
+- yo : épines contenues dans le panier sasa. Portent bonheur et donnent longue vie.
+- yukɔ : le chemin plein de ronces : nɛyu yukɔ, pluriel : nɛyran yukɔ.
+- yule, pl. yuei. yule kurale : bande pour le pagne. yule bɛdale : ficelle. yule bulle : turban /= bande pour la tête/.
+
+## PDF p. 136 (p. 130)
+
+- yule : yule n /1/ tyurɔ /2/ : couper /2/ la corde /1/. accorder un crédit /entre vivants/ – se dit aussi d'une promesse conditionnelle aux ancêtres /"si mon enfant guérit, je donnerai un coq"/.
+- yullo, pas de pluriel : flamboyant /arbre/ – yulo – le bois sert à fabriquer la harpe fourchue.
+- yumasyo : dimanche – yumasɛo.
+- yumo, pl. yumura : souffle, respiration – i yumo : je respire.
+- yumda, nuit – yimda.
+- yuna : demander – mi mallo yuna : l'étranger demande.
+- yuŋo, pl. yuŋɔra : famille patriarcale ; réunion de plusieurs sɛrɔ. yuŋobe /G./ : sans famille – yunɔre /K./.
+- yuŋura : invariable, foyer-trépied /3 blocs en terre/.
+- yura : danse. – yura sambela : danse des excisées – /danse des femmes, aux funérailles d'une femme/. yura yimbɔra – yura wusamba.
+- yura batã : danse guerrière accompagnée aux bɔra /tambours à membrane/ – se danse en 3 occasions : avant la circoncision /birile/ ; à la mort d'un vieillard ; à sa levée de deuil.
+- yura dɔmtã : danse de la dɔmtɔma.
+- yurɔndo, pl. yurɔnta : inhalation.
+- yuwa : i yuwa : j'ai vieilli, je suis vieux – wana yuwɛɔ : vieillard.
+- yuwa : oiseaux. mi tɔa yuwa : je surveille les oiseaux.
+
+> End of the lexicon.
+
+# Texts
+
+> **Layout of the texts.** Each text opens with Paulme's free French translation and her footnotes. The interlinear part follows: each typed line of Kissi words, with the French gloss typed under each word. Each typed line is given here as a small table: Kissi words in the first row, Paulme's gloss under each word in the second. Her spelling is kept; nothing is respelled.
+
+## PDF p. 137 (p. 131) — Text 1: *Les ennemis de la plantation*
+
+**Free translation (Paulme):**
+
+> LES ENNEMIS DE LA PLANTATION /1/ –
+>
+> Le premier ennemi, c'est les crapauds-buffles. Ils déterrent le riz, ils sortent pendant la nuit, on ne peut pas les attraper. Les oiseaux-gendarmes mangent le riz pendant le jour. Les enfants surveillent les oiseaux. Les souris coupent /les tiges/ de riz qui commencent à sortir /de terre/. J'ai enclos la plantation avec des roseaux, j'ai creusé un trou /où tomberont/ les rats-mulots. Ma mère a sarclé la plantation, les femmes ont sarclé le riz dans la plantation. Le nom de ces mauvaises herbes est sandyesayo et yawa. Les ennemis du riz de montagne /2/, ce sont les singes, les souris, les rats-mulots, les herbes yawa. Les enfants chassent les oiseaux dans la brousse, les enfants frappent des bidons dans les plantations pour chasser les singes. J'ai enclos la plantation en brousse.
+
+**Footnotes:**
+
+1. tyɛy : terrain cultivé, par opposition à pɔli, savane ou brousse.
+2. L'informateur a parlé jusqu'ici des rizières de bas-fonds.
+
+**Interlinear: TANA I TYƐƆ /Les ennemis de la plantation/**
+
+| Tana | fɔlɔndo | suŋua | tɛndu | mālo |
+| --- | --- | --- | --- | --- |
+| ennemi | premier | crapauds-buffles | déterrent | le riz |
+
+| ityɔl | da | furani | wana | bi |
+| --- | --- | --- | --- | --- |
+| pendant la nuit | ils | sortent | homme | attraper |
+
+| nda | re | baŋa | a | de |
+| --- | --- | --- | --- | --- |
+| eux | ne ... pas | oiseaux-gendarmes | ils | mangent |
+
+| mālo | ipala | tuambia | a | tu |
+| --- | --- | --- | --- | --- |
+| le riz | pendant le jour | les enfants | ils | surveillent |
+
+| yuwa | bɛla | a | kiri | mālo |
+| --- | --- | --- | --- | --- |
+| les oiseaux | les souris | elles | coupent | le riz |
+
+## PDF p. 138 (p. 132)
+
+| saneyo | i | kuŋa | tyɛy |
+| --- | --- | --- | --- |
+| qui commence à sortir | j' | ai enclos | la plantation |
+
+| a | tɛŋya | i | tuo | sundo |
+| --- | --- | --- | --- | --- |
+| avec | des roseaux | j' | ai creusé | un trou |
+
+| bumbua | mi | ndua | hɔnu | malo |
+| --- | --- | --- | --- | --- |
+| les rats-mulots | ma | mère | a désherbé | le riz |
+
+| ɔ tyɛy ni | wanlandua | a | hɔnu |
+| --- | --- | --- | --- |
+| dans la plantation | les femmes | elles | ont désherbé |
+
+| mālo | ɔ tyɛy | min | billo | dɔla |
+| --- | --- | --- | --- | --- |
+| le riz | dans la plantation | ces | herbes | le nom |
+
+| sandyesayo | a | yawa | tana | malumpullo |
+| --- | --- | --- | --- | --- |
+| – | et | – | les ennemis | riz de montagne |
+
+| a | tye | tɔmda | bɛla | bumbua |
+| --- | --- | --- | --- | --- |
+| vous | voyez | les singes | les souris | les rats-mulots |
+
+| yawa | tuambia | a | tu |
+| --- | --- | --- | --- |
+| les herbes yawa | les enfants | ils | chassent |
+
+| yuwa | ɔ | poli | tuambia | a |
+| --- | --- | --- | --- | --- |
+| les oiseaux | dans | la brousse | les enfants | ils |
+
+| lɔɔ | palantan | ɔ tyɛyni | le |
+| --- | --- | --- | --- |
+| frappent | des bidons | dans la plantation | pour |
+
+| tɔmda | tuo | i | kuŋa | tyɛy |
+| --- | --- | --- | --- | --- |
+| singes | chasser | j' | ai enclos | la plantation |
+
+| o poli |
+| --- |
+| en brousse. |
+
+## PDF p. 139 (p. 133) — Text 2: *La cuisson du riz*
+
+**Free translation (Paulme):**
+
+> LA CUISSON DU RIZ.–
+>
+> Après la récolte, le mari donne à sa femme le riz. /Dix ou vingt bottes. Ça, est pour manger. On met dans de grands paniers, sous la vérandah. Un grand panier tiendra à peu près dix charges.
+>
+> En premier, on bat le riz sur le champ. On met le riz battu dans des sacs qu'on transporte au village, où on met les bottes dans de grands paniers. Un panier bien rempli suffit pour la nourriture de deux personnes pendant toute la saison sèche/.
+>
+> La femme prend un van, vanne longuement, puis met dans une grande marmite, avec beaucoup d'eau ; allume le feu ; fait bouillir. Le riz bouilli, elle l'enlève de l'eau. Elle étale le riz sur des feuilles de bananier à terre, pour le faire sécher.
+>
+> Le lendemain, de bonne heure, le riz bouilli est remis dans la marmite avec juste assez d'eau pour le couvrir. Le riz absorbe la vapeur. La femme le sort du feu, l'étale pour qu'il refroidisse, à l'ombre, dans la case ou sous la vérandah. Refroidi, elle le transporte au soleil. Puis plusieurs femmes ou fillettes s'entendent pour piler le riz.
+>
+> Le riz pilé, le soir la femme allume un feu, met dans la marmite de l'eau, qu'elle laisse bouillir ; elle prend du riz /en moyenne, deux mesures pour quatre personnes/, elle le lave bien, le verse dans l'eau bouillante, le laisse bouillir longtemps, enlève le trop plein d'eau qu'elle donne à son mari, ou garde pour elle-même si elle est très gourmande. Au riz séché elle ajoute du sel, des piments, du soumbara dans une marmite, qu'elle couvre. Quand tout est cuit, elle enlève la marmite du feu. Elle verse dans une calebasse pour son mari, dans une autre calebasse pour elle et les filles, une autre calebasse encore pour les garçons étrangers. Elle donne à son mari. Ils mangent au même moment, mais séparés.
+>
+> /Traduction très libre, beaucoup plus complète que le texte original. On a jugé préférable de laisser les explications, qui témoignent de l'enthousiasme de l'informateur pour un sujet qui lui est cher/.
+
+## PDF p. 140 (p. 134)
+
+**Interlinear: MUMU YAWO /1/ — Riz /cuit/ la cuisson.**
+
+| Malo | tyu | pɛ | kɔwɔ /2/ | pɔno | yɔŋo |
+| --- | --- | --- | --- | --- | --- |
+| Riz | est fini | si | récolter | l'homme | donne |
+
+| vɛndo | malo |
+| --- | --- |
+| sa femme | le riz. |
+
+| vɛndu | tulu | malo | le |
+| --- | --- | --- | --- |
+| la femme | fait chauffer | le riz | pour |
+
+| furula | mu | hɛy | malo | tautau |
+| --- | --- | --- | --- | --- |
+| faire bouillir | Elle | vanne | le riz | beaucoup |
+
+| mu | dau /3/ | malo | ɔ | nɛda | ni |
+| --- | --- | --- | --- | --- | --- |
+| elle | verse | le riz | dans | une marmite | |
+
+| mu | kisu | nyinde | mu | tulu | malo |
+| --- | --- | --- | --- | --- | --- |
+| elle | allume | le feu | elle | chauffe | le riz |
+
+| Malu | tuluo | mo | tyunyi | mɛnda |
+| --- | --- | --- | --- | --- |
+| Le riz | est chaud | elle | jette | l'eau |
+
+| mo | ũɛsya | malo | ɔ | sɛmtɛ |
+| --- | --- | --- | --- | --- |
+| elle | fait sécher | le riz | sous | la vérandah |
+
+| dimando | mo | miŋi | malo |
+| --- | --- | --- | --- |
+| le lendemain | elle | remet | le riz |
+
+| ɔ nɛda ni | mo | dau | mɛnda | nye pɔmbo |
+| --- | --- | --- | --- | --- |
+| dans la marmite | elle | verse | de l'eau | un peu |
+
+| mi | mɛnda | ma | vɛsa | mi | vɛndo | tunyi |
+| --- | --- | --- | --- | --- | --- | --- |
+| l' | eau | elle | est sèche | la | femme | a sorti |
+
+| mālo | ɔ nyi | mo | tɛy | mālo | ɔ wunduã |
+| --- | --- | --- | --- | --- | --- |
+| le riz | du feu | elle | étale | le riz | à l'ombre |
+
+| mo | ũɛsya | mālo | ɔ palle |
+| --- | --- | --- | --- |
+| elle | fait sécher | le riz | au soleil. |
+
+## PDF p. 141 (p. 135)
+
+| mi | wanlandua | tau | a | tyu | mālo |
+| --- | --- | --- | --- | --- | --- |
+| les | femmes | plusieurs | elles | pilent | le riz |
+
+| mu | kisu | nyinde | le | mumu | yawo | mu |
+| --- | --- | --- | --- | --- | --- | --- |
+| elle | allume | un feu | pour | mumu | cuire | elle |
+
+| dau | mɛnda | ɔ nɛda ni | mi | mɛnda |
+| --- | --- | --- | --- | --- |
+| verse | de l'eau | dans la marmite. | l' | eau |
+
+| ma | ŋwul | mu | ɔ tɔa | malo |
+| --- | --- | --- | --- | --- |
+| elle | a bouilli | elle | lave | le riz |
+
+| tautau | mu | dau | malo | ɔ nyin |
+| --- | --- | --- | --- | --- |
+| complètement | elle | verse | le riz | sur le feu |
+
+| ɔ | tara | sɛryo | mu | ɔ kul |
+| --- | --- | --- | --- | --- |
+| elle | enlève | l'eau de riz | elle | elle boit |
+
+| sɛryo | ɔ | mu | yɔŋo | pɔno | ndo. |
+| --- | --- | --- | --- | --- | --- |
+| l'eau de riz | ou | elle | donne | mari | son |
+
+| mumu | vɛsa | ɔ nyi |
+| --- | --- | --- |
+| le riz | sèche | sur le feu |
+
+| mu | ɔ | dau | hɛlle | kɔsiyo | kisaa |
+| --- | --- | --- | --- | --- | --- |
+| elle | | verse | du sel | soumbara | des piments |
+
+| ɔ nyin | mo | kumbu /4/ | mumo |
+| --- | --- | --- | --- |
+| sur le feu | elle | couvre | |
+
+| mu | ɔ | tyɔŋu | mumu | ɔ tala ni | le |
+| --- | --- | --- | --- | --- | --- |
+| elle | | verse | | dans une calebasse | pour |
+
+| pɔno | mu | ndu pila | dau | mumu |
+| --- | --- | --- | --- | --- |
+| le mari | elle | pour elle-même | verse | le riz |
+
+| ɔ tala ni | mi | bɛdda | a tala ndo |
+| --- | --- | --- | --- |
+| dans une calebasse | ils | ont mangé | calebasse sienne |
+
+**Notes (Paulme):**
+
+1. yawo : cuire – yalama : cuisinier
+
+## PDF p. 142 (p. 136)
+
+2. kɔwɔ : récolte, récolter – malu kɔwɔ : la récolte du riz.
+3. dau, dɔɔ : verser un liquide.
+4. kumbu : kumbuo : couvercle en bois ; fɛrɔ : couvercle en paille.
+
+## PDF p. 143 (p. 137) — Text 3: *La sauce du riz*
+
+**Free translation (Paulme):**
+
+> LA SAUCE DU RIZ.
+>
+> Pour le riz en sauce, on fait cuire le riz sans sel. Le riz bout.
+>
+> Pour cuire la sauce, la femme achète sur le marché du sel, des boules d'arachides pilées, du soumbara, des piments, des oignons.
+>
+> Elle rentre à la maison pour faire la cuisine. Elle met une petite marmite sur le feu. Elle pile dans un mortier les boules d'arachides, les piments, les oignons, le soumbara. Elle verse de l'eau dans une marmite. L'eau bout. Elle y verse le sel, les piments, les boules d'arachides, le soumbara, laisse bouillir.
+>
+> Quand la sauce est cuite, elle l'ôte du feu. Elle verse la sauce sur le riz, elle mélange le tout. La femme qui respecte son mari sert la sauce à part. Beaucoup de femmes préfèrent tout mélanger.
+>
+> Quand on n'a pas d'argent, on ne prépare pas de sauce. L'homme demande : "pourquoi n'as-tu pas voulu mettre de sel ? – Tu ne m'as pas donné d'argent pour acheter du sel". L'épouse vole du riz à son mari pour /le vendre et/ acheter du sel.
+
+**Interlinear: MUMU LAMDO. — Riz sauce**
+
+| Mumu | lamdo | yawo | mumu | hɛlle | du |
+| --- | --- | --- | --- | --- | --- |
+| Riz | sauce | cuire | riz | sel | mettre |
+
+| nunte | mumu | ŋul |
+| --- | --- | --- |
+| ne pas | riz | bout |
+
+| Le | lamdo | yawo | wanlana | pindu | ɔ |
+| --- | --- | --- | --- | --- | --- |
+| pour | la sauce | cuire | la femme | achète | au |
+
+| lɔni | hɛlle | tiya | dɛɔ | kɔsyo |
+| --- | --- | --- | --- | --- |
+| marché | du sel | arachides | pilées | soumbara |
+
+| kisaa | yavã | Mu | hun | tyɛy |
+| --- | --- | --- | --- | --- |
+| piments | oignons | Elle | rentre | maison |
+
+## PDF p. 144 (p. 138)
+
+| yawa | ni | Mu | handu | nɛda | pɔmbo |
+| --- | --- | --- | --- | --- | --- |
+| cuisiner | pour | Elle | met | marmite | petite |
+
+| ɔ | nyi | Mu | tyu | ɔ tyɛ ni |
+| --- | --- | --- | --- | --- |
+| sur | le feu | Elle | pile | dans mortier |
+
+| tiya | dɛɔ | kisaa | yavã | kɔsio |
+| --- | --- | --- | --- | --- |
+| arachides | | piments | oignons | soumbara |
+
+| mu | dɔɔ | mɛnda | ɔ nɛda ni |
+| --- | --- | --- | --- |
+| Elle | verse | eau | dans la marmite |
+
+| Mɛnda | ma | ŋul |
+| --- | --- | --- |
+| Eau | elle | bout |
+
+| Mu | dɔɔ | hɛlle | a kisaa | a kɔsio |
+| --- | --- | --- | --- | --- |
+| Elle | verse | sel | de piments | le soumbara |
+
+| a tiya | tyuwa |
+| --- | --- |
+| les arachides | pilées au mortier |
+
+| Mɛnda | ma | ŋul | tau |
+| --- | --- | --- | --- |
+| L'eau | elle | bout | fort |
+
+| Mu | ɔ tunyi | lamdo | ɔ nyi |
+| --- | --- | --- | --- |
+| Elle | a ôté | la sauce | du feu |
+
+| Mu | ɔ dɔɔ | lamdo | ɔ mumu i tyɔ |
+| --- | --- | --- | --- |
+| Elle | verse | la sauce | sur le riz |
+
+| Mu | biŋila | bɔ |
+| --- | --- | --- |
+| Elle | mélange | le tout |
+
+| Wanlana | dɔɔ | pɔno | gbilia | mo | dɔɔ |
+| --- | --- | --- | --- | --- | --- |
+| La femme | verse | mari | respect | elle | verse |
+
+| lamdo | lando | wanlandua | sɛrɛa |
+| --- | --- | --- | --- |
+| la sauce | à part | les femmes | nombreuses |
+
+| a | duo | pɔno | lamdo | landore |
+| --- | --- | --- | --- | --- |
+| elles | versent | homme | sauce | pas à part |
+
+| ti | wuri | ɔ tyɔ re | lamdo | yɔ nunte |
+| --- | --- | --- | --- | --- |
+| si | argent | il n'y a pas | sauce | on ne prépare pas |
+
+## PDF p. 145 (p. 139)
+
+| Pɔno | yuna | lɛɛ | nkɛye |
+| --- | --- | --- | --- |
+| Homme | demande | pourquoi | tu n'as pas voulu |
+
+| hɛlle | dɔwone | a | yɔŋia |
+| --- | --- | --- | --- |
+| sel | verser | tu | n'as pas donné |
+
+| wurionte | le | hɛlle | pundore |
+| --- | --- | --- | --- |
+| argent | pour | sel | acheter |
+
+| vɛndo | kyimbu | malo | pɔnondo |
+| --- | --- | --- | --- |
+| épouse | vole | riz | à son mari |
+
+| ba | le | hɛlle | pundo |
+| --- | --- | --- | --- |
+| mais | pour | sel | acheter. |
+
+## PDF p. 146 (p. 140)
+
+> Blank page.
+
+## PDF p. 147 (p. 141) — Text 4: *Kurye*
+
+**Free translation (Paulme):**
+
+> KURYE –
+> Prière accompagnant l'offrande aux ancêtres des dernières semences et des premiers grains.
+>
+> Ancêtres de jadis, ancêtres Fadaka, Masapisi /et tous ceux dont on se souvient/ voici le kurye. /Faites que/ nous ayions du riz, des colas, des enfants. Faites que nous soyions en bonne santé.
+
+**Interlinear:**
+
+| Bimba | fɔlanda | bimba | Fadaka | Masapisi |
+| --- | --- | --- | --- | --- |
+| Ancêtres | de jadis | | | |
+
+| la tye | kurye | mi | malo | sɔran |
+| --- | --- | --- | --- | --- |
+| voici | le kurye | nous | riz | gagner |
+
+| mi | kulo | sɔran | mi | tua |
+| --- | --- | --- | --- | --- |
+| nous | colas | gagner | nous | enfants |
+
+| sɔran | mi | wa | kɛndya ni /1/ |
+| --- | --- | --- | --- |
+| gagner | nous | être | santé |
+
+**Footnote:**
+
+1. wa ... ni = être.
+
+## PDF p. 148 (p. 142)
+
+> Blank page.
+
+## PDF p. 149 (p. 143) — Text 5: *Prière pour le rétablissement d'un malade*
+
+**Free translation (Paulme):**
+
+> PRIERE /pour le rétablissement d'un malade/.
+>
+> Ancêtres, l'homme est malade. Je me suis adressé au devin, mais la divination ne révèle rien. Faites qu'il guérisse. Je donnerai un coq /quand il sera rétabli/.
+
+**Footnote:** on ne précise pas la couleur du coq, par prudence.
+
+**Interlinear: YULƐN TYURO — Prière**
+
+| Bimba | pɔno | tyɔ | kɛndia | re |
+| --- | --- | --- | --- | --- |
+| Ancêtres | homme | est | santé | ne pas |
+
+| I | vim | yawa | ɔ | sɛŋu re |
+| --- | --- | --- | --- | --- |
+| J' | ai fait la divination | | il | ne guérit pas |
+
+| La mara | tɔ | ɔ | sɛŋu | pɛ | i | yɔŋu |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aidez | s' | il | guérit | | je | donne |
+
+| kuŋilo |
+| --- |
+| un coq. |
+
+## PDF p. 150 (p. 144)
+
+> Blank page.
+
+## PDF p. 151 (p. 145) — Text 6: *Malédiction pour la mort d'un enfant en bas-âge*
+
+**Free translation (Paulme):**
+
+> MALEDICTION /pour la mort d'un enfant en bas-âge/.
+>
+> Mon enfant est mort. Je ne sais ce qui l'a tué, si c'est ma femme, si c'est mon fils, si c'est mon cadet, si c'est mon père ; si c'est au cours d'une attente sur la route, si c'est la nuit, si c'est le jour. Je ne sais pas. Dieu te connaît. Que /le meurtrier inconnu/ meure comme va mourir ce poulet en malédiction.
+
+**Footnote:** La victime offerte en sɛo dɔɔ n'est pas égorgée : le sacrificateur lui arrache le cou.
+
+**Interlinear: SƐO DƆƆ — Malédiction**
+
+| Pɔno | vi | i | sina | nyɛy | i di |
+| --- | --- | --- | --- | --- | --- |
+| Enfant | est mort | je | connais | chose | a tué |
+
+| nte | ɔ tyɔ | vɛn ni | ɔ tyɔ | pɔ |
+| --- | --- | --- | --- | --- |
+| ne...pas | si c'est | ma femme | si c'est | fils |
+
+| ni | ɔ pɔmbo ni | ɔ tyɔ | fiŋa ni | ɔ |
+| --- | --- | --- | --- | --- |
+| mon | si mon cadet | si c'est | mon père | si |
+
+| tyumdo | ɔ nɛy a | a | yumda | a |
+| --- | --- | --- | --- | --- |
+| attente | sur la route | si | la nuit | si |
+
+| palle | yi | sinandure | Hala | nɔm |
+| --- | --- | --- | --- | --- |
+| le jour | je | ne sais pas | Dieu | te |
+
+| sina ni | mo | vi | bil | a tyɔ | sɔɔ |
+| --- | --- | --- | --- | --- | --- |
+| connaît | qu'il | meure | comme | voici | poule |
+
+| sɛo | dɔɔ |
+| --- | --- |
+| en malédiction | |
+
+## PDF p. 152 (p. 146)
+
+> Blank page.
