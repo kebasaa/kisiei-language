@@ -70,6 +70,7 @@ plugins:
             La phrase: The sentence
             Référence: Reference
             Sources: Sources
+            Annexe: Appendix
 
 hooks:
   - tools/kisiei_hooks.py
@@ -163,3 +164,6 @@ nav:
       - sources/bibliography.md
       - sources/archive.md
       - sources/tools.md
+  - Annexe:
+      - appendix/tales.md
+      - appendix/paulme-texts.md

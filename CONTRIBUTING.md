@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | `{{cɛiyo}}` | a Kisiei word or phrase found in the Bible | italic, solid underline; the build fails if a word is not in `references/bible-bkg-wordforms.tsv` |
 | `{{word\|c}}` | confirmed by a speaker, not in the Bible | double underline |
-| `{{word\|r}}` | respelled from Keita 1979, not in the Bible | dashed underline |
+| `{{word\|r}}` | respelled from an older written source (Keita 1979, Paulme 1964, the Lexique, the Académie lists, Sandara Kissia), not in the Bible | dashed underline |
 | `{{word\|s}}` | Southern Kissi only (Childs 2000) | wavy underline |
 | `{{word\|?}}` | uncertain form or meaning | dotted underline |
 | `[[GEN.1.3]]` | a Bible verse | link to bible.com, with the book abbreviation of the page language |
@@ -43,3 +43,23 @@ Use a diagram when a rule is a choice or a sequence that is easier to follow as 
 
   Kisiei inside the diagram is written with `{{…}}` like anywhere else: the build checks it against the Bible list and shows it in italics. For that reason, Mermaid's hexagon shape `{{…}}` and the subroutine shape `[[…]]` cannot be used. Colours are given as hex values (`classDef att stroke:#2e9e63`), since Mermaid does not accept CSS variables; pick mid tones that read in both light and dark mode.
 - **Charts** (vowel chart, timelines, sentence slots): inline SVG inside `<figure class="ks-figure">`, with no blank lines inside the figure. Use `viewBox` so it scales, and the classes `line`, `accent`, `primary`, `muted` and `box` from `docs/assets/site.css` instead of fixed colours, so the figure follows the light and dark themes. SVG text is not checked by the build: keep Kisiei words in SVG to forms already attested on the page.
+
+## Interlinear examples
+
+To show an older text (or a Bible verse) word by word, put one small table per line inside a `ks-interlinear` block. The header row is the source as printed, the first row the Bible spelling with the usual marks, the second row the word-by-word gloss; the free translation follows in a `ks-free` paragraph:
+
+```markdown
+<div class="ks-interlinear" markdown="1">
+
+| *Tana* | *fɔlɔndo* | *suŋua* | *tɛndu* | *mālo* |
+| --- | --- | --- | --- | --- |
+| {{tana}} | {{fɔlɔndo\|r}} | {{suŋua\|r}} | {{tɛndu}} | {{maalon}} |
+| ennemi | premier | crapauds-buffles | déterrent | le riz |
+
+</div>
+
+<p class="ks-free" markdown="1">Le premier ennemi, ce sont les crapauds-buffles.</p>
+```
+
+The tables have no borders, the source line is set small and muted, the gloss in small capitals, and each table scrolls sideways on narrow screens so the columns stay aligned. Keep one table per source line rather than one long table, so the lines wrap naturally. The appendix page of Paulme's texts uses this layout throughout.
+

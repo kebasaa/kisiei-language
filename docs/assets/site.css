@@ -142,3 +142,18 @@
   .ks-hero h1 { color: #000; }
   .md-typeset table, .md-typeset .admonition { break-inside: avoid; }
 }
+
+/* Interlinear texts (<div class="ks-interlinear" markdown="1"> around small tables):
+   header row = the source line as printed (small, muted); first body row = Kisiei in the
+   Bible spelling; second body row = word-by-word gloss (small). Scrolls sideways on phones. */
+.md-typeset .ks-interlinear { margin: .6em 0 1.2em; }
+.md-typeset .ks-interlinear .md-typeset__table { display: block; margin: 0; padding: 0; }
+.md-typeset .ks-interlinear .md-typeset__scrollwrap { margin: 0; overflow-x: auto; }
+.md-typeset .ks-interlinear table:not([class]) { display: table; margin: 0 0 .3em; border: none; box-shadow: none; font-size: .8rem; width: auto; }
+.md-typeset .ks-interlinear table:not([class]) th,
+.md-typeset .ks-interlinear table:not([class]) td { border: none; padding: .05em .9em .05em 0; white-space: nowrap; vertical-align: top; background: none; min-width: 0; }
+.md-typeset .ks-interlinear table:not([class]) th { font-weight: normal; font-size: .72rem; color: var(--md-default-fg-color--light); }
+.md-typeset .ks-interlinear table:not([class]) tbody tr:nth-child(2) td { font-size: .74rem; color: var(--md-default-fg-color--light); font-variant: small-caps; }
+.md-typeset .ks-interlinear table:not([class]) tbody tr:hover { background: none; box-shadow: none; }
+.md-typeset .ks-interlinear + p.ks-free, .md-typeset p.ks-free { margin-top: .2em; font-style: italic; }
+
