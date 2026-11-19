@@ -639,7 +639,8 @@ def export_reverse(lang, entries, words):
 
 
 def main():
-    only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
+    sys.stdout.reconfigure(encoding="utf-8")
+    only =sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else None
     check = "--check" in sys.argv or only is not None
     words = load_words()
     domains, entries = load(only)

@@ -95,7 +95,7 @@ Two further northern sources predate the Bible and follow neither the 1979 spell
 - **Denise Paulme's vocabulary and texts** [[(Paulme1964)]], collected in 1945–1949 around Kissidougou and Guéckédou, use her own phonetic notation (her p. V): a bar over a vowel for length, a tilde for nasality, *ü*, *ẅ* and *ty*, *ny*. She marks many words G. (Guéckédou) or K. (Kissidougou).
 - ***Sandara Kissia***, the fables published by the Protestant Mission of Kissidougou [[(SandaraKisia)]], use an older missionary spelling (*ty*, *ny*, *ŋg*, *gb*, *w*, *r*).
 
-The *Lexique kissi–français* [[(LexiqueAnonyme)]] is already typed in the current spelling and needs no conversion beyond the checks below.
+The *Lexique kissi–français* [[(LexiqueAnonyme)]] is typed in the current letters (*c*, *ɛ*, *ɔ*, *ŋ*, *ɲ*), without tones, but does not follow the Bible everywhere: it writes *r* for *l*, *nb* for *mb* (*kunbi*, Bible {{kumbi}}), *nn* where the Bible has *ŋn* (*lɛnnden*, Bible {{lɛŋnden}}), *ki* where the Bible has *ci* (*kinbu*, Bible {{cimbɔɔ}}), and often leaves out the *i* after *s* (*sanie*, Bible {{sianion}}). Much of it also repeats the glossary of the 1979 manual, typing errors included, so it does not always confirm a 1979 word independently.
 
 Neither Paulme nor *Sandara Kissia* marks tones. The table below was worked out by comparing their words with the Bible's: about 60 of Paulme's headwords with the same meaning in the Bible, and every word of *Sandara Kissia* (with these rules, the share of its running words found in the Bible rises from 59 % to 80 %). The rules hold for most words, not all: always look the result up.
 
