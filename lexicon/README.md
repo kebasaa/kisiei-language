@@ -24,6 +24,7 @@ A structured, machine- and human-readable lexicon of Kisiei, classified by **sem
 | `entries/*.yaml` | The source data: one file per theme or source, each a list of entries. **Edit these.** |
 | `domains.yaml` | The semantic domains used. |
 | `kisiei.csv`, `kisiei.tsv` | Generated: one row per entry, headword first, in Kisiei alphabetical order (comma- and tab-separated). |
+| `to-check.md` | Generated: every entry with status `check` (form or meaning uncertain), with its source form and the reason, as a list to go through with a speaker. Confirmed words leave the list at the next build. |
 | `kisiei.lift` | Generated: [LIFT](https://github.com/sillsdev/lift-standard) 0.13 XML, importable into FieldWorks and other lexicon tools. |
 | `cldf/` | Generated: a [CLDF](https://cldf.clld.org) Dictionary (entries, senses, language with Glottocode `nort2765`, sources), for reuse in cross-linguistic databases. Validate with `uv run --with pycldf cldf validate lexicon/cldf/Dictionary-metadata.json`. |
 | `../docs/reference/dictionary.*.md` | Generated: the alphabetical dictionary pages (Kisiei–French, Kisiei–English). |
