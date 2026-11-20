@@ -49,7 +49,7 @@ Common nouns, verbs and adjectives carry **no** accent: {{pɔmbɔɔ}}, {{cɛiyo}
     4. One accent per vowel: a long vowel gets two ({{ndóò}}, {{háá}}).
 
 !!! note "Note"
-    The exact tone rules of Kisiei (basic tones of words, tone changes in the sentence) are described neither in the 1979 manual nor in the Bible. They are among the [open questions](../reference/open-questions.md). For Southern Kissi they are described in detail [[(Childs1995, p. 43-65, 91-98)]], but it is not yet known which of them also hold for Kisiei.
+    The exact tone rules of Kisiei (basic tones of words, tone changes in the sentence) are described neither in the 1979 manual nor in the Bible. They are among the [open questions](../reference/open-questions.md). For Southern Kissi they are described in detail [[(Childs1995, p. 43-65, 91-98)]], but it is not yet known which of them also hold for Kisiei. The other older northern sources do not mark tone either: in Paulme [[(Paulme1964)]] a bar over a vowel marks length and a tilde nasality, and neither the *Lexique kissi–français*, nor the Académie lists, nor *Sandara Kissia* carry accents.
 
 ## Intonation
 

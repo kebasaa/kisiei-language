@@ -15,7 +15,7 @@ Le kisiei a deux séries principales de pronoms personnels : les pronoms **sujet
 
 !!! rule "Règles d'écriture"
     - Les pronoms s'écrivent **séparés** du verbe : {{I tuei}}, {{N kɔɛ}}.
-    - Le mot d'insistance {{pila}} « même » s'écrit **séparé** : {{ya pila}}, {{nda pila}} (1979 : *yapila* [[(Keita1979, p. 85)]]).
+    - Le mot d'insistance {{pila}} « même » s'écrit **séparé** : {{ya pila}}, {{nda pila}} (1979 : *yapila* [[(Keita1979, p. 85)]] ; *Sandara Kissia* : *ndupila*, *ndupilɛ* [[(SandaraKisia)]]).
     - La 2e personne du singulier s'écrit **{{nɔm}}** (1979 : *num*, corrigé à la main en *nöm* [[(Keita1979, p. 85)]]).
 
 Dans les relatives et les questions, les sujets prennent une autre série : {{ya}}, {{n}} « tu », {{o}}, {{naa n}}, {{niaa}}, {{ndáà}} ; voir [Propositions relatives](relative.md#le-sujet-de-la-relative).
@@ -38,6 +38,8 @@ Exemples : {{Tɛyii tasei diolan Pison, ndi balu lɛŋnde Havila len ni}} « Le 
 
 Attention : {{a}} est à la fois « tu » et « ils, elles » ; {{la}} est à la fois « vous » et le pronom de la classe *lan* ; {{n}} est « nous » et le pronom des pluriels en *-on*. Le contexte lève l'ambiguïté.
 
+Pour dire « on », le kisiei emploie la 3e personne du pluriel : {{Le kɔlɔɔ ho nda ke fonda kon diolan ni aa Babɛl}} « C'est pourquoi on appela ce lieu Babel » [[GEN.11.9]]. Paulme le note déjà dans les années 1940 : « on » se rend par la 3e personne du pluriel, et la même forme a souvent un sens passif [[(Paulme1964, p. 161)]] ({{ma}} {{yɔngu}} {{nda}} {{cɛiyo}} « on leur donne une case », [Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)).
+
 ## Pronoms et marqueurs de récit
 
 Dans le récit, le pronom sujet se combine avec le marqueur **mi** (« et alors ») :
@@ -50,6 +52,9 @@ Dans le récit, le pronom sujet se combine avec le marqueur **mi** (« et alors 
 | {{mí n}}, {{mí la}}, {{mí ya i}} | *mi* + autre pronom | {{mí n komal Esau}} « et nous avons rencontré Ésaü » [Gn 32,7](https://www.bible.com/bible/1394/GEN.32.7.BKG) |
 
 En kissi du Sud, la même fusion donne *mi, ma, mbo, miŋ, mila, ma* [[(Childs1995, p. 75, 107)]]. Les formes à ton bas {{mò}}, {{mà}}, {{mì}} marquent le **subjonctif** (« pour qu'il… ») ; voir [Temps, aspects, modes](../verbs/tense-aspect-mood.md) et [Tons](../../orthography/tone.md).
+
+!!! keita "Usage ancien"
+    Paulme analyse ces formes autrement [[(Paulme1964, p. 63-64, 162-163)]]. Elle prend *mi* pour un article défini à valeur emphatique, « c'est … qui » (*mi Famoti dimi* « c'est Famoti qui a dit ») ; ses textes montrent pourtant la construction de récit de la Bible : {{mí}} {{miallo}} {{dimi}} {{aa}} « (et) l'étranger a dit que ». Elle donne aussi *min* comme pronom inclusif « nous (deux) » (*la velu wanayawa min kɔlu* « appelez le devin, nous boirons tous les deux »). La Bible n'a pas de pronom *min* : elle écrit en deux mots {{mì n}} « que nous » (subjonctif), {{N fula mì n kɔɛ yondoo nin}} « Sortons, allons aux champs » [[GEN.4.8]]. Le guide suit la Bible.
 
 Le pronom indépendant se combine aussi avec la voyelle *oo* / *aa* du passé (1979 : *ndu oo*, *ya oo* [[(Keita1979, p. 87)]]). La Bible [[(BKG)]] l'écrit en un seul mot, avec tons : {{ndóò}} « il, elle (avait) », {{ndáà}} « ils, elles (avaient) », {{yáà}} « je (avais) » : {{yɔmndo ndu pilɛ bɛɛ ndóò vil-lɔ o lɛŋnden coo le}} « aucun arbre n'avait encore poussé sur la terre » [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG).
 

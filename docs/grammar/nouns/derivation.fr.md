@@ -12,7 +12,7 @@ Le suffixe **-nɔɔ** (pluriel **-nda** ou **-a**) forme des noms de personnes :
 - **métier, fonction** : {{kpalilnɔɔ}} « gardien, sentinelle » [2 S 18,24](https://www.bible.com/bible/1394/2SA.18.24.BKG), {{kiilanɔɔ}} « messager » [Gn 50,16](https://www.bible.com/bible/1394/GEN.50.16.BKG), {{mandenɔɔ}} « marabout, devin » ;
 - **qualité** : {{kuubanɔɔ}} « héros », {{langbanɔɔ}} « homme adulte ».
 
-Le kissi du Sud a le même suffixe d'agent, *-nɔ̀ɔ́*, avec un pluriel en *-a* [[(Childs1995, p. 198-199)]].
+Le kissi du Sud a le même suffixe d'agent, *-nɔ̀ɔ́*, avec un pluriel en *-a* [[(Childs1995, p. 198-199)]]. Paulme le note déjà dans les années 1940, écrit *-no* : *dusuno* « chasseur », pluriel *dusua* [[(Paulme1964, p. 17)]], dans la Bible {{doosunɔɔ}} [[PRO.1.17]] et {{doosua}} [[HOS.9.13]].
 
 Le même suffixe forme aussi des noms de familles (*Kambadunɔɔ*) et de locuteurs d'une langue ({{Kisinɔɔ|r}} « un Kisi ») [[(Keita1979, p. 35)]].
 
@@ -63,3 +63,5 @@ Plusieurs noms s'emploient comme premier élément de nombreux dérivés ; ils p
 ## Redoublement
 
 Redoubler un mot ou un radical forme un dérivé à valeur d'intensité, de distribution ou de répétition ; on l'écrit avec un trait d'union : {{taw-taw}} « vraiment beaucoup », {{ɲɛ-ɲɛ}} « quoi que ce soit », {{vana-vana}} « qui que ce soit », {{bɛndu-bɛnduan}} « très grandes ».
+
+Paulme remarque aussi que la simple répétition d'un mot a souvent un rôle emphatique [[(Paulme1964, p. 164)]] : {{nila}} {{nila}} {{ni}} « ce sont des oreilles, des oreilles ! » ([Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)). Les mots répétés restent alors séparés.

@@ -58,6 +58,8 @@ La comparaison se fait avec le verbe {{hiow}} « dépasser » [[(Keita1979, p. 5
 - {{Kɛwvo ndóò hiow visia yondoa … kɔlkalu vɔɔndo ni}} « Le serpent dépassait tous les animaux sauvages en ruse » [Gn 3,1](https://www.bible.com/bible/1394/GEN.3.1.BKG) ;
 - {{pangele hiow vaa}} « le plus grand luminaire » [Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG).
 
+*Sandara Kissia* compare de même avec *heu*, ancienne graphie de {{hiow}} (fable 1) [[(SandaraKisia)]] : {{kpeleko|r}} {{ho hiow kɛwvo bandei}} « ce bâton dépasse le serpent en longueur ».
+
 Le kissi du Sud compare de la même façon avec le verbe « dépasser » ; le superlatif s'y dit « dépasser tous » [[(Childs1995, p. 283-285)]].
 
 !!! rule "Règles d'écriture"

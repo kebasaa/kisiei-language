@@ -12,7 +12,7 @@ Interjections express an emotion, a call or a response; they are set off from th
 | {{Ɛ̀ɛ̀}} | astonishment, admiration | {{Ɛ̀ɛ̀ hɛ́ɛ̀!}} “Ah! Here at last…” [Gen 2:23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{Yàá}} | surprise | {{Yàá Mɛlɛka co o fondaa ho!}} “Surely the Lord is in this place!” [Gen 28:16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
 
-Southern Kissi adds to greetings an emphatic particle *ó* (*ìsɛ̀ó*, *ìdììyó*), which makes them warmer [[(Childs1995, p. 144-145)]]. In the Bible, {{idii}} means “in the morning, early” ({{Siɔdii idii}} “tomorrow morning” [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG); {{idii a icɔl}} “morning and evening” [Exod 27:20](https://www.bible.com/bible/1394/EXO.27.20.BKG)); its use as a leave-taking formula still needs to be checked.
+Southern Kissi adds to greetings an emphatic particle *ó* (*ìsɛ̀ó*, *ìdììyó*), which makes them warmer [[(Childs1995, p. 144-145)]]. In the Bible, {{idii}} means “in the morning, early” ({{Siɔdii idii}} “tomorrow morning” [Gen 19:2](https://www.bible.com/bible/1394/GEN.19.2.BKG); {{idii a icɔl}} “morning and evening” [Exod 27:20](https://www.bible.com/bible/1394/EXO.27.20.BKG)). Paulme already records {{diyo|r}} “goodbye”, next to *di* “morning” [[(Paulme1964, p. 19, 163)]], which supports its use as a leave-taking formula; this still needs to be confirmed with speakers.
 
 !!! rule "Spelling rules"
     - A reduplicated interjection takes a hyphen: {{Ɛ-ɛ}}.

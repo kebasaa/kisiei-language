@@ -29,7 +29,9 @@ Le moyen tourne l'action vers le sujet : sens **réfléchi** (« se… »), **pa
 - {{yɔŋ vɔɔndo va tosanndo}} « le mal se faisait » [Gn 6,11](https://www.bible.com/bible/1394/GEN.6.11.BKG) ;
 - {{le pulɔnndo}} « pour se laver » [Ex 2,5](https://www.bible.com/bible/1394/EXO.2.5.BKG).
 
-La forme longue du moyen se termine en *-nndo* ({{tosanndo}}, {{pulɔnndo}}, {{pilanndo}}). La description de 1979 présente ces verbes comme des **pronominaux réfléchis** en *-ndo* et *-nɔnndo* (*susanndo* « se frotter », *diinɔnndo* « se tuer ») [[(Keita1979, p. 92-93)]] ; pour le kissi du Sud, le moyen (*-nuŋ*) est la seule extension qui porte un ton propre [[(Childs1995, p. 184-190)]].
+De même, {{kɔlan}} « aller » donne {{kɔannun}} « s'en aller » ({{mí Mɛlɛka kɔannun}} « le Seigneur s'en alla » [Gn 18,33](https://www.bible.com/bible/1394/GEN.18.33.BKG)), et {{dɔw … kɔndɔfili}} « étonner » ({{a dɔw naa kɔndɔfili taw}} « elles nous ont fort étonnés » [Lc 24,22](https://www.bible.com/bible/1394/LUK.24.22.BKG)) donne {{dɔwnun kɔndɔfili}} « s'étonner » [Lv 26,32](https://www.bible.com/bible/1394/LEV.26.32.BKG). Les fables *Sandara Kissia* emploient ces deux moyens, qu'elles écrivent *kɔannuŋ* et *daunuŋ* (fable 1) [[(SandaraKisia)]] : {{Mí saŋndo dɔwnun kɔndɔfili taw}} « le lièvre fut très étonné ».
+
+La forme longue du moyen se termine en *-nndo* ({{tosanndo}}, {{pulɔnndo}}, {{pilanndo}}). Paulme la relève déjà comme « nom d'action » en *-ndo* : *purando*, de *i pura* « je lave, je me lave », dans {{i kɔɛ pulɔnndo}} « je vais me laver » [[(Paulme1964, p. 159, 164)]]. La description de 1979 présente ces verbes comme des **pronominaux réfléchis** en *-ndo* et *-nɔnndo* (*susanndo* « se frotter », *diinɔnndo* « se tuer ») [[(Keita1979, p. 92-93)]] ; pour le kissi du Sud, le moyen (*-nuŋ*) est la seule extension qui porte un ton propre [[(Childs1995, p. 184-190)]].
 
 ## Réciproque : *-an*
 

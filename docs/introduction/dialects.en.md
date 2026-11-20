@@ -26,6 +26,26 @@ The handwritten annotations in the digitised copy [[Notes1979]] add other Kissid
 
 *l* and *r* are not two distinct sounds for Kisiei speakers: they are two pronunciations of the same consonant, which varieties distribute differently (confirmed by a speaker). The description of Southern Kissi treats the North as having an *r* of its own and the South only *l*, of which [r] is a rare variant [[(Childs1995, p. 10, 33, 157)]]; for Kisiei, the difference is one of pronunciation between varieties, never of meaning, and the spelling always uses *l*.
 
+## Guéckédou and Kissidougou in the 1940s
+
+Denise Paulme marks many words of her vocabulary, collected in 1945–1949, as Guéckédou (G.) or Kissidougou (K.) [[(Paulme1964)]]. Her pairs show regular correspondences, and in each the Bible has the Guéckédou-type form:
+
+| Meaning | Guéckédou (Paulme) | Kissidougou (Paulme) | Bible |
+| --- | --- | --- | --- |
+| steal | *timbu* | *kimbu* | {{ciimbuu}} |
+| black | *tinyi* | *kinyi*, *kinyo* | {{tiŋio}} |
+| house | *tyɛyo* | *kyɛyo* | {{cɛiyo}} |
+| oil palm | *vavo* | *wawo* | {{vawvo}} |
+| money | *vɔlyɔ̃* | *wurye* | {{volion}} |
+| cloth | *kɔla* | *kura* | {{kolaa}} |
+
+- **t, c / k**: Guéckédou *t* or *ty* (= *c*) before *i* and *ɛ* where Kissidougou has *k*.
+- **v / w**: Guéckédou *v* where Kissidougou has *w*.
+- **l / r**: Guéckédou *l* where Kissidougou has *r* (see above).
+- Some words differ altogether (Guéckédou *sɔmamɛndo*, Kissidougou *kulɔndu* "well").
+
+The [dictionary](../reference/dictionary.md) gives these forms as variants after the headword, labelled *Guéckédou* or *Kissidougou*, together with the *r* pronunciations recorded in the *Lexique kissi–français* (labelled *with r*). The headword is always the Bible form.
+
 ## Words whose meaning changes from one variety to another
 
 Some words that are common in one variety are avoided or have another meaning in the other [[(Keita1979, p. 8-10)]]; for example {{kundei|r}} “clod of earth” in Kissidougou, but an intimate meaning in Guéckédou. When in doubt, choose the term used in the Bible.

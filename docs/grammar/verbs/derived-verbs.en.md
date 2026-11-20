@@ -29,7 +29,9 @@ The middle turns the action back towards the subject: a **reflexive** meaning (�
 - {{yɔŋ vɔɔndo va tosanndo}} “evil was being done” [Gen 6:11](https://www.bible.com/bible/1394/GEN.6.11.BKG);
 - {{le pulɔnndo}} “to wash herself” [Exod 2:5](https://www.bible.com/bible/1394/EXO.2.5.BKG).
 
-The long form of the middle ends in *-nndo* ({{tosanndo}}, {{pulɔnndo}}, {{pilanndo}}). The 1979 description presents these verbs as **reflexive pronominal verbs** in *-ndo* and *-nɔnndo* (*susanndo* “rub oneself”, *diinɔnndo* “kill oneself”) [[(Keita1979, p. 92-93)]]; for Southern Kissi, the middle (*-nuŋ*) is the only extension that carries a tone of its own [[(Childs1995, p. 184-190)]].
+In the same way, {{kɔlan}} “go” gives {{kɔannun}} “go away” ({{mí Mɛlɛka kɔannun}} “the Lord went his way” [Gen 18:33](https://www.bible.com/bible/1394/GEN.18.33.BKG)), and {{dɔw … kɔndɔfili}} “astonish” ({{a dɔw naa kɔndɔfili taw}} “they greatly astonished us” [Luke 24:22](https://www.bible.com/bible/1394/LUK.24.22.BKG)) gives {{dɔwnun kɔndɔfili}} “be astonished” [Lev 26:32](https://www.bible.com/bible/1394/LEV.26.32.BKG). The fables *Sandara Kissia* use both middles, which they write *kɔannuŋ* and *daunuŋ* (fable 1) [[(SandaraKisia)]]: {{Mí saŋndo dɔwnun kɔndɔfili taw}} “the hare was greatly astonished”.
+
+The long form of the middle ends in *-nndo* ({{tosanndo}}, {{pulɔnndo}}, {{pilanndo}}). Paulme already records it as an “action noun” in *-ndo*: *purando*, from *i pura* “I wash, I wash myself”, in {{i kɔɛ pulɔnndo}} “I am going to wash” [[(Paulme1964, p. 159, 164)]]. The 1979 description presents these verbs as **reflexive pronominal verbs** in *-ndo* and *-nɔnndo* (*susanndo* “rub oneself”, *diinɔnndo* “kill oneself”) [[(Keita1979, p. 92-93)]]; for Southern Kissi, the middle (*-nuŋ*) is the only extension that carries a tone of its own [[(Childs1995, p. 184-190)]].
 
 ## Reciprocal: *-an*
 

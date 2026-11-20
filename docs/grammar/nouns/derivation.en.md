@@ -12,7 +12,7 @@ The suffix **-nɔɔ** (plural **-nda** or **-a**) forms nouns for people:
 - **occupation, function**: {{kpalilnɔɔ}} “guard, watchman” [2 Sam 18:24](https://www.bible.com/bible/1394/2SA.18.24.BKG), {{kiilanɔɔ}} “messenger” [Gen 50:16](https://www.bible.com/bible/1394/GEN.50.16.BKG), {{mandenɔɔ}} “marabout, diviner”;
 - **quality**: {{kuubanɔɔ}} “hero”, {{langbanɔɔ}} “grown man”.
 
-Southern Kissi has the same agent suffix, *-nɔ̀ɔ́*, with a plural in *-a* [[(Childs1995, p. 198-199)]].
+Southern Kissi has the same agent suffix, *-nɔ̀ɔ́*, with a plural in *-a* [[(Childs1995, p. 198-199)]]. Paulme already notes it in the 1940s, written *-no*: *dusuno* “hunter”, plural *dusua* [[(Paulme1964, p. 17)]], in the Bible {{doosunɔɔ}} [[PRO.1.17]] and {{doosua}} [[HOS.9.13]].
 
 The same suffix also forms family names (*Kambadunɔɔ*) and names for speakers of a language ({{Kisinɔɔ|r}} “a Kisi person”) [[(Keita1979, p. 35)]].
 
@@ -63,3 +63,5 @@ Several nouns are used as the first element of many derivatives; they then lose 
 ## Reduplication
 
 Reduplicating a word or a stem forms a derivative expressing intensity, distribution or repetition; it is written with a hyphen: {{taw-taw}} “really a lot”, {{ɲɛ-ɲɛ}} “anything at all”, {{vana-vana}} “anyone at all”, {{bɛndu-bɛnduan}} “very great”.
+
+Paulme also observes that simply repeating a word often has an emphatic role [[(Paulme1964, p. 164)]]: {{nila}} {{nila}} {{ni}} “they are ears, ears!” ([Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)). The repeated words then stay separate.

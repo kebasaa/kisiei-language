@@ -12,6 +12,8 @@ Le kisiei n'a que trois prépositions simples, comme le kissi du Sud [[(Childs19
 | {{o}} | à, dans, sur (lieu, temps) | {{o paale ŋɔmmɛwndɔlen coo}} « au septième jour » [Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
 | {{le}} | pour, à cause de | {{le dioo}} « pour manger » [Gn 3,11](https://www.bible.com/bible/1394/GEN.3.11.BKG) ; {{Le hee}} « à cause de cela » [Gn 2,21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
 
+Paulme donne déjà à {{le}} un large éventail de sens : « avec, contre, à cause de, pourquoi, comment, parce que » [[(Paulme1964, p. 56-57, 162-163)]].
+
 Attention aux homonymes : {{o}} préposition et {{o}} pronom « il, elle » ; {{le}} « pour » et {{le}} particule négative ; {{a}} « avec, et » et {{a}} pronom « tu, ils ».
 
 ## Circumpositions : *o* … postposition
@@ -28,7 +30,7 @@ Pour préciser le lieu, on encadre le nom par {{o}} et une **postposition** plac
 | … {{ikɛi}} | avec, auprès de | {{Noe ikɛi}} « auprès de Noé » [Gn 7,15](https://www.bible.com/bible/1394/GEN.7.15.BKG) |
 | … {{kɔɔli}} | après, derrière | {{O kon kɔɔli}} « après cela » [Gn 2,8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
 
-La description de 1979 donne de même *o … lo* « chez » et *o … nin* « dans » [[(Keita1979, p. 119)]].
+La description de 1979 donne de même *o … lo* « chez » et *o … nin* « dans » [[(Keita1979, p. 119)]]. Paulme les relève déjà dans les années 1940 [[(Paulme1964, p. 68, 163-164)]] : *ɔ … ni* « dans », pour le lieu ({{o yondoo nin}} « dans la brousse », [Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)), et *ɔ … tyo* « en haut », c'est-à-dire {{o}} … {{coo}}.
 
 !!! rule "Règle d'écriture"
     {{o}} et la postposition s'écrivent comme des mots séparés : {{o nakɔɔ ho nin}}, {{o mɛnndan coo}}. Quand une relative se termine par la postposition, la terminaison de classe s'y attache par un trait d'union : {{coo-o}}, {{nin-ndan}} (voir [Propositions relatives](../pronouns/relative.md)).
@@ -47,6 +49,9 @@ La description de 1979 donne de même *o … lo* « chez » et *o … nin* « da
 | {{nduyɛ}} | cependant, en effet | {{Kɛ nduyɛ, la dia vision…}} « Seulement, vous ne mangerez pas la chair… » [Gn 9,4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
 
 {{nda}} relie des noms de personnes ou d'animaux, {{a}} les autres noms [[(Keita1979, p. 119)]] : {{Mí Bɛnyamɛn nda Hakub va baalaa tosaa}} « Benjamin et Hachoub travaillaient » [Ne 3,23](https://www.bible.com/bible/1394/NEH.3.23.BKG).
+
+!!! keita "Usage ancien"
+    Les fables de *Sandara Kissia* emploient très souvent {{kɔnɔ|r}} « mais » (49 fois) et {{katu|r}} « parce que » (34 fois) [[(SandaraKisia)]] ; Paulme note aussi {{kɔnɔ|r}} [[(Paulme1964, p. 47)]] : {{i}} {{nɔ le}} {{la|?}} {{nila}}, {{kɔnɔ|r}} {{cuillɔ|r}} {{vi}} « je n'ai plus d'oreilles, mais le porc-épic est mort ». La Bible n'emploie ni l'un ni l'autre : elle dit {{kɛ}} « mais » et {{kani}} ou {{le tùú}} « parce que ». Le guide suit la Bible.
 
 ## Conjonctions de subordination
 

@@ -91,6 +91,12 @@
             "name": "Variants",
             "datatype": "string",
             "separator": ";"
+          },
+          {
+            "name": "Dialect_Variants",
+            "datatype": "string",
+            "separator": ";",
+            "dc:description": "dialect or pronunciation variants, with G (Guéckédou) or K (Kissidougou) where known"
           }
         ],
         "primaryKey": [

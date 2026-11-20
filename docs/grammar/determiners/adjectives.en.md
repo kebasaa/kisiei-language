@@ -58,6 +58,8 @@ Comparison is made with the verb {{hiow}} “surpass” [[(Keita1979, p. 55-56)]
 - {{Kɛwvo ndóò hiow visia yondoa … kɔlkalu vɔɔndo ni}} “The serpent surpassed all the wild animals in cunning” [Gen 3:1](https://www.bible.com/bible/1394/GEN.3.1.BKG);
 - {{pangele hiow vaa}} “the greater light” [Gen 1:16](https://www.bible.com/bible/1394/GEN.1.16.BKG).
 
+*Sandara Kissia* compares in the same way with *heu*, the older spelling of {{hiow}} (fable 1) [[(SandaraKisia)]]: {{kpeleko|r}} {{ho hiow kɛwvo bandei}} “this stick is longer than the snake” (literally “surpasses the snake in length”).
+
 Southern Kissi compares in the same way with the verb “surpass”; the superlative there is expressed as “surpass all” [[(Childs1995, p. 283-285)]].
 
 !!! rule "Spelling rules"

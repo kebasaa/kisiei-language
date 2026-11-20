@@ -36,7 +36,10 @@ The condition opens with {{te}} and closes with {{pɛ}}, placed just **after the
 - {{te o de pɛ kɔmnde yɔm kon, o co vannɔn yoomu le fɛɛn a fɛɛn}} “if he eats of the fruit of this tree, he will live for ever” [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG);
 - unreal condition with the lengthened pronoun: {{te yáà de pɛ visin}} “if I had eaten meat” [Lev 10:19](https://www.bible.com/bible/1394/LEV.10.19.BKG).
 
-A negative condition keeps {{pɛ}} and places the negation at the end of the condition: {{Kɛ taa liila ya le, i kuenin te}} “but if you do not come with me, I will not go” [Judg 4:8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* “if you”).
+A negative condition usually does without {{pɛ}}: the negation closes the condition. {{Kɛ taa liila ya le, i kuenin te}} “but if you do not come with me, I will not go” [Judg 4:8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* “if you”); {{Te i cuu nɔm ndu le, a diw poaa niaa ŋiɔnda}} “if I do not bring him back to you, put my two sons to death” [[GEN.42.37]]. A proverb in Keita's annex has the same shape: {{Te yaw tembu le, vii pim te}} [[(Keita1979Annexe, p. 168)]] (see [Tales, proverbs and riddles](../../appendix/tales.md)).
+
+!!! keita "Older usage"
+    *Sandara Kissia* opens the condition with *ti* and, in the 2nd person, with *ta* [[(SandaraKisia)]]: fable 17 is titled {{Ti Hala cɛl pɛ}} “if God is willing”, and fable 1 uses *ta … pɛ* “if you…”. The Bible writes {{te}} and {{taa}} ({{Taa cɛl pɛ le ya liilaa, i kɔɛ}} “if you agree to come with me, I will go” [[JDG.4.8]]); it has *ti* only once [[PSA.108.14]]. The guide follows the Bible.
 
 <figure class="ks-figure" markdown="1">
 

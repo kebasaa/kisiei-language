@@ -12,7 +12,7 @@ Les interjections expriment une émotion, un appel ou une réponse ; elles sont 
 | {{Ɛ̀ɛ̀}} | étonnement, admiration | {{Ɛ̀ɛ̀ hɛ́ɛ̀!}} « Ah ! Voici enfin… » [Gn 2,23](https://www.bible.com/bible/1394/GEN.2.23.BKG) |
 | {{Yàá}} | surprise | {{Yàá Mɛlɛka co o fondaa ho!}} « Vraiment, le Seigneur est en ce lieu ! » [Gn 28,16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
 
-Le kissi du Sud ajoute aux salutations une particule emphatique *ó* (*ìsɛ̀ó*, *ìdììyó*), qui les rend plus chaleureuses [[(Childs1995, p. 144-145)]]. Dans la Bible, {{idii}} signifie « le matin, tôt » ({{Siɔdii idii}} « demain matin » [Gn 19,2](https://www.bible.com/bible/1394/GEN.19.2.BKG) ; {{idii a icɔl}} « matin et soir » [Ex 27,20](https://www.bible.com/bible/1394/EXO.27.20.BKG)) ; son emploi comme formule de congé reste à vérifier.
+Le kissi du Sud ajoute aux salutations une particule emphatique *ó* (*ìsɛ̀ó*, *ìdììyó*), qui les rend plus chaleureuses [[(Childs1995, p. 144-145)]]. Dans la Bible, {{idii}} signifie « le matin, tôt » ({{Siɔdii idii}} « demain matin » [Gn 19,2](https://www.bible.com/bible/1394/GEN.19.2.BKG) ; {{idii a icɔl}} « matin et soir » [Ex 27,20](https://www.bible.com/bible/1394/EXO.27.20.BKG)) . Paulme relève déjà {{diyo|r}} « au revoir », à côté de *di* « matin » [[(Paulme1964, p. 19, 163)]], ce qui appuie cet emploi comme formule de congé ; il reste à confirmer auprès de locuteurs.
 
 !!! rule "Règles d'écriture"
     - Une interjection redoublée prend le trait d'union : {{Ɛ-ɛ}}.

@@ -9,4 +9,6 @@ Ce chapitre décrit :
 - [Négation](negation.md) : la particule finale et le radical du négatif ;
 - [Verbes dérivés](derived-verbs.md) : bénéfactif, moyen, réciproque, causatif, pluriel.
 
+Les règles sont tirées de la Bible en kisiei [[(BKG)]] ; les pages les comparent aux plus anciennes sources du Nord, les textes et notes de Denise Paulme (années 1940) [[(Paulme1964)]] et les fables *Sandara Kissia* [[(SandaraKisia)]], qui les confirment pour l'essentiel.
+
 Les tableaux de conjugaison se trouvent dans la [Référence](../../reference/verb-tables.md).

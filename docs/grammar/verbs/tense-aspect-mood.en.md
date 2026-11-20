@@ -88,6 +88,8 @@ flowchart LR
 
 The short form of the verb, without an auxiliary, expresses the **completed action**: {{I tuei}} “I have heard”, {{a mam}} “you laughed” [Gen 18:15](https://www.bible.com/bible/1394/GEN.18.15.BKG). The same form also expresses **habit** or a general truth; the two are distinguished by **tone** (low tone for the habitual, high tone for the perfective) [[(Keita1979, p. 95)]], which the description of Southern Kissi confirms [[(Childs1995, p. 224-227)]]. The Bible does not mark this tone: the context decides.
 
+For the alternating verbs, Paulme already distinguished in the 1940s a present, which “does not differ from the habitual”, in *-a*, and a perfect in *-ɛ* [[(Paulme1964, p. 161-162)]]: {{a tiiya}} “they arrive”, {{saŋndo de}} “the hare has eaten”. The Bible has the same two stems: the one in *-a* serves for narrative, habit and the future, the one in *-e* / *-ɛ* for the subjunctive and conditions (see [Stems and groups](stems-and-groups.md)).
+
 ## The progressive: *co* and *va*
 
 The auxiliary {{co}} “to be (in the act of)” followed by the **long form** expresses an action in progress; in the past, {{va}} is used:
@@ -95,7 +97,11 @@ The auxiliary {{co}} “to be (in the act of)” followed by the **long form** e
 - {{i co hunɔɔ mɛmma bɛnduan soli}} “I am going to bring the flood” [Gen 6:17](https://www.bible.com/bible/1394/GEN.6.17.BKG);
 - {{Kɔl Hala-o va o pɛɛngaa o mɛmma man coo}} “the Spirit of God was hovering over the waters” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG).
 
+{{co}} is also used with a noun: {{a co lɔan yondoo nin}} “they sleep in the open fields” [2 Sam 11:11](https://www.bible.com/bible/1394/2SA.11.11.BKG) ({{lɔan}} “sleep”). Paulme already describes this construction as a progressive in the 1940s [[(Paulme1964, p. 162)]]: {{miallo co lɔan}} “Stranger goes on sleeping”.
+
 {{co}} and {{va}} are also the forms of the verb **to be**: {{Lɛŋnden le va tulumasaa}} “the earth was formless” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG). In the negative, {{va}} becomes {{ve}}: {{ɲɛ-ɲɛ ve lecoo le}} “there was nothing on it” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG). Southern Kissi has the same *wa* / *we* contrast [[(Childs1995, p. 233-234)]].
+
+Followed by {{le}} and the long form, {{va}} marks an action that was **about to happen**, or was intended, in the past: {{Tuma nda va le tiiyaa Esipte-o}} “when they were about to enter Egypt” [Gen 12:11](https://www.bible.com/bible/1394/GEN.12.11.BKG). Paulme records the same construction, which she translates “was for, wanted” [[(Paulme1964, p. 119, 162)]]: {{i va le dioo}} “I was about to eat”, {{i va le kɔlan}} “I wanted to leave” (she writes *i wa la duo*, *i wa la kɔrã*).
 
 ## The future
 
@@ -103,6 +109,8 @@ Two constructions exist side by side:
 
 1. **{{co}} + short stem** (near or certain future): {{n co ndu dio}} “(the day) you eat of it” [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG). This is the ordinary future construction in Southern Kissi [[(Childs1995, p. 234-235)]]; the 1979 description calls it the *futur immédiat* (immediate future) [[(Keita1979, p. 95)]].
 2. **stem + -nin** (future, promise, prediction; *futur lointain*, distant future, in 1979): {{I tuisinin nɔm sangalan coo}} “I will multiply your pains” [Gen 3:16](https://www.bible.com/bible/1394/GEN.3.16.BKG), {{I yɔngunin cuavaa nɔmaa imamaa lɛŋnden nden}} “I will give this land to your offspring” [Gen 12:7](https://www.bible.com/bible/1394/GEN.12.7.BKG).
+
+Paulme already analysed this future, which she writes *-ni*, as the habitual stem in *-a* followed by *ni* “intention” [[(Paulme1964, p. 161, 164)]]: {{i ca}} “I see”, {{i canin}} “I will see”. The Bible does build the future of alternating verbs on the stem in *-a*, never on the one in *-e* / *-ɛ*: {{dianin}} “will eat”, {{kɔanin}} “will go”, {{I canin ndu}} “I will see him” [Job 19:27](https://www.bible.com/bible/1394/JOB.19.27.BKG).
 
 In the negative, *-nin* keeps the vowel of the negative: {{i kuenin te}} “I will not go” [Judg 4:8](https://www.bible.com/bible/1394/JDG.4.8.BKG), {{i kɛɛnin te}} “I will not refuse” [1 Kgs 2:20](https://www.bible.com/bible/1394/1KI.2.20.BKG).
 
@@ -129,13 +137,15 @@ The word *mi* “and (then)” combines with the subject pronoun: {{mó}} (*mi* 
 
 Southern Kissi has the same forms (*mbo* = *mi* + *o*, *ma*, *mila*, *miŋ*) and the same tone contrast (*mbó kwɛ̀* “then he left”, *mbò kwɛ̀* “then he leaves”) [[(Childs1995, p. 239-240)]]. In 1979, the subjunctive is described with *maa* + pronoun [[(Keita1979, p. 100)]]; the Bible uses {{maa}} “that” after verbs of saying and knowing ({{mó ca maa n naŋ taw}} “he saw that it was very good” [Gen 1:31](https://www.bible.com/bible/1394/GEN.1.31.BKG)).
 
+**Obligation** is expressed with {{fɔ}} “it is necessary” followed by the subjunctive: {{fɔ mì Po vanacieo sɔla heeloo}} “the Son of Man must be lifted up” [John 3:14](https://www.bible.com/bible/1394/JHN.3.14.BKG); with {{fɔlɔn}} “first”: {{Fɔ mì dimi fɔlɔn}} “I must speak first” [Gen 24:33](https://www.bible.com/bible/1394/GEN.24.33.BKG). The fables *Sandara Kissia* have the same construction (fable 1) [[(SandaraKisia)]]: {{Fɔ mà tosa fɔlɔn}} “you must first do (what I told you)”.
+
 !!! rule "Spelling rule"
     Write the tone on *mi* + pronoun, as the Bible does: **{{mí}}, {{mó}}, {{má}}** (narrative) versus **{{mì}}, {{mò}}, {{mà}}** (subjunctive). This is one of the rare cases where the tone mark is obligatory; see [Tone](../../orthography/tone.md).
 
 ## The imperative and the hortative
 
 - **2nd person singular**: the bare stem: {{Kɔ}} “go”, {{Cua ndu}} “take her” [Gen 12:19](https://www.bible.com/bible/1394/GEN.12.19.BKG).
-- **2nd person plural**: {{la}} + stem: {{La náŋ ipúlú, la kuí}} [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG).
+- **2nd person plural**: {{la}} + stem: {{La náŋ ipúlú, la kuí}} [Gen 1:28](https://www.bible.com/bible/1394/GEN.1.28.BKG); likewise in Paulme: {{la velu}} {{vanayawva|r}} “call the diviner” [[(Paulme1964, p. 158, 163)]].
 - **1st person plural** (“let us go”): {{n}} + stem: {{N kɔ delnun ndu coo}} [Gen 37:20](https://www.bible.com/bible/1394/GEN.37.20.BKG).
 - **3rd person** (“let him…”): subject + stem with **high tone**, which the Bible often marks: {{Ɲɔ́ɔ́ téngá}} “Let there be light” [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG), {{Yondoo fulá}} “let the vegetation come forth” [Gen 1:11](https://www.bible.com/bible/1394/GEN.1.11.BKG).
 
@@ -145,7 +155,7 @@ Southern Kissi likewise distinguishes the imperative and the **hortative** by to
 
 - {{vɔ}} … {{le}} “not yet”: {{Mɛlɛka Hala ndóò tuisi vɔ piɔɔ … le}} “the Lord God had not yet sent rain” [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG) (Southern Kissi *wɔ̀* [[(Childs1995, p. 238-239)]]);
 - {{bɛɛ}} … {{le}} “not yet, not even”: {{O cii bɛɛ piɛilen tosa le}} “he had not yet finished speaking” [Gen 24:15](https://www.bible.com/bible/1394/GEN.24.15.BKG);
-- {{cii}} “finish” + verb expresses the completed action: {{Mɛɛ Hala cii baala kon tosa kpow}} “when God had finished his work” [Gen 2:2](https://www.bible.com/bible/1394/GEN.2.2.BKG).
+- {{cii}} “finish” + verb expresses the completed action: {{Mɛɛ Hala cii baala kon tosa kpow}} “when God had finished his work” [Gen 2:2](https://www.bible.com/bible/1394/GEN.2.2.BKG). Paulme has the same construction (*i tyi tya* “I have finished the hoeing”) [[(Paulme1964, p. 113)]].
 
 !!! keita "1979 usage"
     The 1979 description gives conjugation tables by tense (durative present with *tyo*, habitual present, past, near and distant future, imperfect with *va*, imperative, conditional, subjunctive) [[(Keita1979, p. 94-104)]]. The auxiliary *tyo* is written {{co}} in the Bible. The tone distinctions between habitual present and past are not marked there; they still need to be described with speakers (see the [open questions](../../reference/open-questions.md)).

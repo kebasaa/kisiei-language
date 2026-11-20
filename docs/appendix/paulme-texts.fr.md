@@ -885,7 +885,7 @@ Notes de Paulme :
 
 ## 11. Le porc-épic et le lièvre
 
-{{Cuillɔ|r}} {{a}} {{saŋndo}} {{va|?}} {{kelanin|?}} (*TŨILO a SANDO WA /1/ KƐRANI /2/* « Le porc-épic et le lièvre ils voyageront ») [[(Paulme1964, p. 157-165)]]. Le conte est donné en interlinéaire (p. 157-160), suivi de 66 notes grammaticales (p. 161-165). Plusieurs numéros de notes ne sont pas reportés dans l'interlinéaire dactylographié.
+{{Cuillɔ|r}} {{a}} {{saŋndo}} {{va|?}} {{kelanin}} (*TŨILO a SANDO WA /1/ KƐRANI /2/* « Le porc-épic et le lièvre ils voyageront ») [[(Paulme1964, p. 157-165)]]. Le conte est donné en interlinéaire (p. 157-160), suivi de 66 notes grammaticales (p. 161-165). Plusieurs numéros de notes ne sont pas reportés dans l'interlinéaire dactylographié.
 
 <div class="ks-interlinear" markdown="1">
 
@@ -1076,7 +1076,7 @@ Notes de Paulme :
 
 | *nda* | *bwɛy* /49/ | *nɔnu* /50/ | *la* | *tyani* /51/ | *ɔ* | *nɔ* |
 | --- | --- | --- | --- | --- | --- | --- |
-| {{nda}} | {{buɛi}} | {{nɔnu\|?}} | {{la}} | {{cɔunin\|?}} | {{o}} | {{nɔ}} |
+| {{nda}} | {{buɛi}} | {{nɔnu\|?}} | {{la}} | {{canin}} | {{o}} | {{nɔ}} |
 | à eux | boy | pour moi | vous | verrez | il | possède |
 
 | *kurã* /52/ | *mi* | *dusua* | *kɔluma* | *mallo* |

@@ -38,6 +38,8 @@ Les composés anciens et très courants s'écrivent **en un seul mot** :
 | {{ɲɛdiaa}} | chose + manger | nourriture |
 | {{halataalaa}} | (Dieu, ciel) + … | ciel |
 
+Le lexique de Paulme compte déjà, dans les années 1940, de nombreux composés en *vana-* « personne » [[(Paulme1964, p. 119)]] : {{vana yɔɔya}} « pêcheur à l'épervier », {{vanayawva|r}} « devin ».
+
 !!! rule "Règle d'écriture"
     - Un composé **figé et courant** s'écrit en un seul mot ({{vanapɔnɔɔ}}).
     - Un composé **descriptif**, dont chaque partie garde son sens, s'écrit avec **traits d'union** ({{vana-solia-lasálàá}}).

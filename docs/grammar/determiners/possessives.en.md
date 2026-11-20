@@ -62,7 +62,11 @@ Two other constructions are found [[(Keita1979, p. 62-63)]]:
 1. with the verb *nɔw* “have” and the particle {{ni}}: *Tamba nɔ cɛiyo hoo ni* “Tamba has this house”;
 2. with the class referent and {{ni}}: *Naw Fatee vo ni* “It is Fatee’s cow”.
 
+Paulme records a similar construction in the 1940s: {{cɛi}} {{o}} Fasa {{ni}} “Fasa's hut, the hut for Fasa” [[(Paulme1964, p. 68, 161)]].
+
 In the Bible, a named possessor is placed **after** the noun possessed, followed by the class referent: {{lɛŋnde Esipte len}} “the land of Egypt” [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG), {{nakɔ Mɛlɛka-o}} “the garden of the Lord” [Gen 13:10](https://www.bible.com/bible/1394/GEN.13.10.BKG).
+
+The Bible also has the reverse order, **possessor + possessed noun in its full form**, much less often, notably with {{diolan}} “name”: {{Mí Hava ke ndu diolan aa Sɛt}} “Eve gave him the name Seth” [[GEN.4.25]]; {{Tɛyii tasei diolan Pison}} “the name of the first river is Pison” [[GEN.2.11]]; {{tuei Mɛlɛka sɔɛi}} “hear the voice of the Lord” [[DEU.4.33]]. Paulme makes it the rule for the genitive in the 1940s [[(Paulme1964, p. 161)]]: the possessor comes before the possessed ({{saŋndo}} {{diolan}} “the hare's name”), and {{ya}} used as a possessive comes before the noun ({{ya}} {{diolan}} “my name”).
 
 !!! keita "1979 usage"
     The 1979 spelling writes the 2nd person *num-* (*nummdo*, *nummde*) [[(Keita1979, p. 61)]]; the Bible writes **nɔm-**: {{nɔmndo}}, {{nɔmnde}}. The 1979 forms of the 1st and 2nd plur. for the *len* and *lan* classes (*nialen*, *nialan*) are {{niaalen}}, {{niaalan}} in the Bible.

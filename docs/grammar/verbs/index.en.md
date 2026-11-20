@@ -9,4 +9,6 @@ This chapter describes:
 - [Negation](negation.md): the final particle and the negative stem;
 - [Derived verbs](derived-verbs.md): benefactive, middle, reciprocal, causative, plural.
 
+The rules are drawn from the Kisiei Bible [[(BKG)]]; the pages compare them with the oldest northern sources, the texts and notes of Denise Paulme (1940s) [[(Paulme1964)]] and the fables *Sandara Kissia* [[(SandaraKisia)]], which largely confirm them.
+
 The conjugation tables are in the [Reference](../../reference/verb-tables.md).

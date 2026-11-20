@@ -15,7 +15,7 @@ Kisiei has two main series of personal pronouns: the **subject** pronouns, which
 
 !!! rule "Spelling rules"
     - Pronouns are written **separately** from the verb: {{I tuei}}, {{N kɔɛ}}.
-    - The emphatic word {{pila}} “self” is written **separately**: {{ya pila}}, {{nda pila}} (1979: *yapila* [[(Keita1979, p. 85)]]).
+    - The emphatic word {{pila}} “self” is written **separately**: {{ya pila}}, {{nda pila}} (1979: *yapila* [[(Keita1979, p. 85)]]; *Sandara Kissia*: *ndupila*, *ndupilɛ* [[(SandaraKisia)]]).
     - The 2nd person singular is written **{{nɔm}}** (1979: *num*, corrected by hand to *nöm* [[(Keita1979, p. 85)]]).
 
 In relative clauses and questions, subjects take another series: {{ya}}, {{n}} “you (sing.)”, {{o}}, {{naa n}}, {{niaa}}, {{ndáà}}; see [Relative clauses](relative.md#the-subject-of-the-relative-clause).
@@ -38,6 +38,8 @@ Examples: {{Tɛyii tasei diolan Pison, ndi balu lɛŋnde Havila len ni}} “The 
 
 Note: {{a}} is both “you (sing.)” and “they”; {{la}} is both “you (plur.)” and the pronoun of the *lan* class; {{n}} is “we” and the pronoun of plurals in *-on*. The context removes the ambiguity.
 
+For the impersonal “one, they” (French *on*), Kisiei uses the 3rd person plural: {{Le kɔlɔɔ ho nda ke fonda kon diolan ni aa Babɛl}} “That is why they called the place Babel” [[GEN.11.9]]. Paulme already notes this in the 1940s: *on* is rendered by the 3rd person plural, and the same form often has a passive sense [[(Paulme1964, p. 161)]] ({{ma}} {{yɔngu}} {{nda}} {{cɛiyo}} “they are given a hut”, [Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)).
+
 ## Pronouns and narrative markers
 
 In narrative, the subject pronoun combines with the marker **mi** (“and then”):
@@ -50,6 +52,9 @@ In narrative, the subject pronoun combines with the marker **mi** (“and then�
 | {{mí n}}, {{mí la}}, {{mí ya i}} | *mi* + another pronoun | {{mí n komal Esau}} “and we met Esau” [Gen 32:7](https://www.bible.com/bible/1394/GEN.32.7.BKG) |
 
 In Southern Kissi, the same fusion gives *mi, ma, mbo, miŋ, mila, ma* [[(Childs1995, p. 75, 107)]]. The low-tone forms {{mò}}, {{mà}}, {{mì}} mark the **subjunctive** (“so that he…”); see [Tense, aspect, mood](../verbs/tense-aspect-mood.md) and [Tones](../../orthography/tone.md).
+
+!!! keita "Older usage"
+    Paulme analyses these forms differently [[(Paulme1964, p. 63-64, 162-163)]]. She takes *mi* for a definite article with an emphatic value, “it is … who” (*mi Famoti dimi* “it is Famoti who said”); her texts nevertheless show the Bible's narrative construction: {{mí}} {{miallo}} {{dimi}} {{aa}} “(and) the stranger said that”. She also gives *min* as an inclusive pronoun “we (two)” (*la velu wanayawa min kɔlu* “call the diviner, we will both drink”). The Bible has no pronoun *min*: it writes two words, {{mì n}} “that we” (subjunctive), {{N fula mì n kɔɛ yondoo nin}} “Let us go out into the fields” [[GEN.4.8]]. The guide follows the Bible.
 
 The independent pronoun also combines with the past vowel *oo* / *aa* (1979: *ndu oo*, *ya oo* [[(Keita1979, p. 87)]]). The Bible [[(BKG)]] writes it as a single word, with tones: {{ndóò}} “he, she (had)”, {{ndáà}} “they (had)”, {{yáà}} “I (had)”: {{yɔmndo ndu pilɛ bɛɛ ndóò vil-lɔ o lɛŋnden coo le}} “no tree had yet grown on the earth” [Gen 2:5](https://www.bible.com/bible/1394/GEN.2.5.BKG).
 

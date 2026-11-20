@@ -885,7 +885,7 @@ Paulme's notes:
 
 ## 11. The porcupine and the hare (*Le porc-épic et le lièvre*)
 
-{{Cuillɔ|r}} {{a}} {{saŋndo}} {{va|?}} {{kelanin|?}} (*TŨILO a SANDO WA /1/ KƐRANI /2/*, "The porcupine and the hare, they will travel") [[(Paulme1964, p. 157-165)]]. The tale is given as an interlinear (pp. 157–160), followed by 66 grammatical notes (pp. 161–165). Several note numbers are not marked in the typed interlinear.
+{{Cuillɔ|r}} {{a}} {{saŋndo}} {{va|?}} {{kelanin}} (*TŨILO a SANDO WA /1/ KƐRANI /2/*, "The porcupine and the hare, they will travel") [[(Paulme1964, p. 157-165)]]. The tale is given as an interlinear (pp. 157–160), followed by 66 grammatical notes (pp. 161–165). Several note numbers are not marked in the typed interlinear.
 
 <div class="ks-interlinear" markdown="1">
 
@@ -1076,7 +1076,7 @@ Paulme's notes:
 
 | *nda* | *bwɛy* /49/ | *nɔnu* /50/ | *la* | *tyani* /51/ | *ɔ* | *nɔ* |
 | --- | --- | --- | --- | --- | --- | --- |
-| {{nda}} | {{buɛi}} | {{nɔnu\|?}} | {{la}} | {{cɔunin\|?}} | {{o}} | {{nɔ}} |
+| {{nda}} | {{buɛi}} | {{nɔnu\|?}} | {{la}} | {{canin}} | {{o}} | {{nɔ}} |
 | to them | boy | for me | you | will see | he | has |
 
 | *kurã* /52/ | *mi* | *dusua* | *kɔluma* | *mallo* |

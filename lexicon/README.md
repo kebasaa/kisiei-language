@@ -40,7 +40,10 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
   pos: noun                  # noun verb adj adv pron num det prep postp conj part interj ideo name
   class: len                 # noun class (nouns): o, i, an, len, lan; plural classes a, on
   plural: bóltan             # plural form, if known
-  forms: [bolle]             # other forms: radical form, verb stems, variants
+  forms: [bolle]             # other forms: radical form, verb stems
+  variants: [{form: koraa, dialect: K, source: keita}]   # (example from the entry kolaa "cloth")
+                             # dialect or pronunciation variants (dialect G = Guéckédou, K = Kissidougou;
+                             # source: keita, paulme, lexique, terminologie, sandara, notes1979, speaker, bible)
   gloss: {fr: "tête", en: "head"}
   domains: ["2.1.1"]         # SIL semantic domain codes (quoted strings)
   keita: {form: "Bollen (ten)", page: 131}   # form as printed in Keita 1979, typescript page
@@ -57,6 +60,7 @@ Run `uv run tools/build_lexicon.py` after editing to validate the entries and re
 ```
 
 - **Tone marks:** write lemma, plural and forms with the tone accents the Bible uses for this word in this sense (*vílɛ́iyo*, *yàándɔɔ*, *yáá* "three"). Where the same letters are written with different tones for different words, take the spelling of the word meant (*yáá* "three" vs *yáà* "I (past)"; *kolaa* "cloth" vs *kólaa* "cup"). Leave accents out only when the Bible normally writes the word without them. The build warns when the Bible always writes a word with accents and the entry does not.
+- **Dialect variants:** the lemma is the Bible form (in practice the Guéckédou type). Forms of other varieties go in `variants`, in the Bible's letters but keeping the variety's pronunciation (a Kissidougou *r* stays *r*). The dictionary shows them after the headword, labelled Guéckédou, Kissidougou or "with r".
 - **Verbs:** the lemma is the long form (*tosaa*, *dioo*). The short stems go in `forms`.
 - **Glosses:** short and comma-separated. Use the meaning seen in the Bible; add other northern senses from the older written sources after a semicolon, and say in `note` where each comes from (e.g. "Paulme 1964, p. 37 : aussi « piège »").
 - **Older written sources:** the lemma is always in the Bible's orthography (Paulme's *ty* is *c*, her bar marks length, her wave nasality; see `docs/orthography/old-and-new`). The source field keeps the form exactly as printed, so every respelling can be traced. A word found in the Bible is `attested` even if it came from one of these sources; the source field may still be added. Childs's Southern Kissi senses go in `childs.sense` (see below).

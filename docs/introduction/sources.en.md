@@ -26,6 +26,15 @@ The digitised copy bears many **handwritten annotations** by later readers (tran
 
 The most complete description published since is G. Tucker Childs's grammar in English ([[Childs1995|1995]]), supplemented by his dictionary ([[Childs2000|2000]]). Childs relies mainly on the Kissi spoken in Liberia and Sierra Leone; his analyses (tones, classes, verb) are valuable, but his forms and spelling do not apply as they are to the Kisiei of Guinea. This guide cites them as a point of comparison, never as a standard.
 
+Four other northern written sources, all transcribed in the [archive](../sources/archive.md), were used to extend the lexicon and check the grammar:
+
+- **Denise Paulme's vocabulary and texts** [[(Paulme1964)]], collected in 1945–1949 around Kissidougou and Guéckédou: the oldest record of Northern Kissi, with G. and K. variety marks, eleven texts glossed word by word (see the [appendix](../appendix/paulme-texts.md)) and grammatical notes;
+- an anonymous ***Lexique kissi–français*** [[(LexiqueAnonyme)]], typed in the current letters, which partly repeats Keita's glossary;
+- the **terminology lists of the Académie des langues** [[(AcademieTerminologie)]]: terms proposed in the 1970s for grammar, the arts, history and ideology (see the [glossary](../reference/glossary.md));
+- ***Sandara Kissia***, twenty fables and 83 proverbs published by the Protestant Mission of Kissidougou [[(SandaraKisia)]].
+
+None of them follows the Bible's orthography: words taken from them are respelled (see [From the old to the new spelling](../orthography/old-and-new.md)), and the original form is kept in the lexicon. They often confirm the Bible's usage; where they differ, the guide follows the Bible and says so.
+
 ## Method
 
 For each point of grammar:

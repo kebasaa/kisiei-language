@@ -2,7 +2,7 @@
 
 ## Le principe
 
-En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou le remplacent : pronoms sujets, démonstratifs, possessifs, adjectifs, relatifs. Ce système est appelé **structure allitérative** [[(Keita1979, p. 121-122)]] ; le kissi du Sud a le même système d'accord, qui touche les pronoms, les adjectifs, les possessifs, les démonstratifs et les petits nombres [[(Childs1995, p. 150)]]. Il est dit allitératif parce que la même terminaison revient comme un écho dans la phrase. Les petits mots qui portent cette reprise sont les **référents de classe**.
+En kisiei, la classe d'un nom **se répète** sur les mots qui l'accompagnent ou le remplacent : pronoms sujets, démonstratifs, possessifs, adjectifs, relatifs. Ce système est appelé **structure allitérative** [[(Keita1979, p. 121-122)]] ; le kissi du Sud a le même système d'accord, qui touche les pronoms, les adjectifs, les possessifs, les démonstratifs et les petits nombres [[(Childs1995, p. 150)]]. Il est dit allitératif parce que la même terminaison revient comme un écho dans la phrase. Les petits mots qui portent cette reprise sont les **référents de classe**. Paulme le remarque déjà dans les années 1940 [[(Paulme1964, p. 163)]] : la finale *-o* de {{vuiyo}} « le voleur » est, note-t-elle, le pronom de la 3e personne du singulier {{o}}.
 
 {{Lɛŋnden le va tulumasaa}} — « La terre (*le*) était informe » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) : {{lɛŋnden}} est de classe *len*, et le pronom sujet qui le reprend est {{le}}.
 

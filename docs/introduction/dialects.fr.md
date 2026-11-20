@@ -26,6 +26,26 @@ Les annotations manuscrites de l'exemplaire numérisé [[Notes1979]] ajoutent d'
 
 *l* et *r* ne sont pas deux sons distincts pour les locuteurs du kisiei : ce sont deux prononciations d'une même consonne, que les parlers répartissent différemment (confirmé par un locuteur). La description du kissi du Sud attribue au Nord un *r* propre et au Sud seulement *l*, dont [r] n'est qu'une variante rare [[(Childs1995, p. 10, 33, 157)]] ; en kisiei, la différence est une affaire de prononciation entre parlers, jamais de sens, et l'orthographe écrit toujours *l*.
 
+## Guéckédou et Kissidougou dans les années 1940
+
+Denise Paulme marque beaucoup de mots de son vocabulaire, recueilli en 1945-1949, comme de Guéckédou (G.) ou de Kissidougou (K.) [[(Paulme1964)]]. Ses paires montrent des correspondances régulières, et chaque fois la Bible a la forme du type de Guéckédou :
+
+| Sens | Guéckédou (Paulme) | Kissidougou (Paulme) | Bible |
+| --- | --- | --- | --- |
+| voler, dérober | *timbu* | *kimbu* | {{ciimbuu}} |
+| noir | *tinyi* | *kinyi*, *kinyo* | {{tiŋio}} |
+| maison | *tyɛyo* | *kyɛyo* | {{cɛiyo}} |
+| palmier à huile | *vavo* | *wawo* | {{vawvo}} |
+| argent | *vɔlyɔ̃* | *wurye* | {{volion}} |
+| pagne | *kɔla* | *kura* | {{kolaa}} |
+
+- **t, c / k** : *t* ou *ty* (= *c*) de Guéckédou devant *i* et *ɛ*, là où Kissidougou a *k*.
+- **v / w** : *v* de Guéckédou, là où Kissidougou a *w*.
+- **l / r** : *l* de Guéckédou, là où Kissidougou a *r* (voir plus haut).
+- Certains mots sont tout à fait différents (Guéckédou *sɔmamɛndo*, Kissidougou *kulɔndu* « puits »).
+
+Le [dictionnaire](../reference/dictionary.md) donne ces formes comme variantes après le mot-vedette, avec la mention *Guéckédou* ou *Kissidougou*, ainsi que les prononciations en *r* notées dans le *Lexique kissi–français* (mention *avec r*). Le mot-vedette est toujours la forme de la Bible.
+
 ## Mots dont le sens change d'un parler à l'autre
 
 Certains mots courants dans un parler sont évités ou ont un autre sens dans l'autre [[(Keita1979, p. 8-10)]] ; par exemple {{kundei|r}} « motte de terre » à Kissidougou, mais un sens intime à Guéckédou. En cas de doute, on choisit le terme employé dans la Bible.

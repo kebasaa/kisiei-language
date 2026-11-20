@@ -9,7 +9,7 @@ La particule se place **à la fin de la proposition niée**, après les complém
 - {{I sínà le}} « je ne sais pas » [1 S 17,55](https://www.bible.com/bible/1394/1SA.17.55.BKG) ;
 - {{o di ɲɛdiaa le, o kol vɛlɛ le}} « il ne mangea pas de nourriture et ne but pas non plus » [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG).
 
-Elle prend la forme {{te}} quand le mot qui la précède se termine par une **consonne nasale** (*n*, *m*, *ŋ*) **ou par *l*** ; après une voyelle ou *w*, elle reste {{le}}. Dans la Bible, *te* suit une nasale plus de 2 600 fois et *l* plus de 360 fois, et *le* ne s'y trouve jamais après ces consonnes. La description de 1979 ne mentionne que les nasales [[(Keita1979, p. 72)]] ; celle du kissi du Sud donne *te* après toute consonne [[(Childs1995, p. 142-143)]].
+Elle prend la forme {{te}} quand le mot qui la précède se termine par une **consonne nasale** (*n*, *m*, *ŋ*) **ou par *l*** ; après une voyelle ou *w*, elle reste {{le}}. Dans la Bible, *te* suit une nasale plus de 2 600 fois et *l* plus de 360 fois, et *le* ne s'y trouve jamais après ces consonnes. La description de 1979 ne mentionne que les nasales [[(Keita1979, p. 72)]] ; celle du kissi du Sud donne *te* après toute consonne [[(Childs1995, p. 142-143)]]. Paulme écrit déjà *te* après *l* dans les années 1940 : *lɔlte*, soit {{lɔl te}} « (il) ne dort pas » [[(Paulme1964, p. 162)]].
 
 - {{I mel nɔm te}} « je ne te laisserai pas (partir) » [Gn 32,27](https://www.bible.com/bible/1394/GEN.32.27.BKG) ;
 - {{hali pilanndo bɛɛ la pilan te}} « n'y touchez même pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) ;
@@ -70,7 +70,7 @@ Le futur négatif garde le suffixe *-nin* et, pour les verbes à alternance, la 
 
 ### Défense (impératif négatif)
 
-L'impératif négatif emploie le radical de l'habituel et la particule finale : {{La dia le}} « n'en mangez pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG), {{La suunda le}} « Ne commettez pas d'adultère » [Ex 20,14](https://www.bible.com/bible/1394/EXO.20.14.BKG).
+L'impératif négatif emploie le radical de l'habituel et la particule finale : {{La dia le}} « n'en mangez pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG), {{La suunda le}} « Ne commettez pas d'adultère » [Ex 20,14](https://www.bible.com/bible/1394/EXO.20.14.BKG), {{La kɔa lon te}} « n'y montez pas » [Nb 14,42](https://www.bible.com/bible/1394/NUM.14.42.BKG).
 
 ## « Ne… pas encore », « ne… rien », « personne »
 
@@ -82,5 +82,21 @@ L'impératif négatif emploie le radical de l'habituel et la particule finale : 
 
 Pour nier « c'est X », on emploie {{co}} et la particule finale, là où l'affirmation emploie la particule {{ni}} : {{Hoo co masa Yuifia ni}} « celui-ci est le roi des Juifs » [Lc 23,38](https://www.bible.com/bible/1394/LUK.23.38.BKG) contre {{O co dɛnɛ vana bɛnda le tosa le}} « ce n'est pas une chose qu'on doit faire » [Gn 20,9](https://www.bible.com/bible/1394/GEN.20.9.BKG). Dans cette construction, le kissi du Sud fait précéder le nom de son pronom de classe [[(Childs1995, p. 261-262)]] ; ce point reste à vérifier pour le kisiei de Guinée.
 
+Un conte noté par Paulme dans les années 1940 oppose de la même façon {{co}} … {{le}} et {{ni}} ([Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)) :
+
+<div class="ks-interlinear" markdown="1">
+
+| *ɔ tyɔ* | *kwɔ re* | *siya* | *siya* | *nya ni* |
+| --- | --- | --- | --- | --- |
+| {{o co}} | {{kɔɔn\|?}} {{le}} | {{siyan\|r}} | {{siyan\|r}} | {{ɲa\|?}} {{ni}} |
+| c'est | flèches ne pas | piquants | piquants | pour moi |
+
+</div>
+
+<p class="ks-free" markdown="1">« Ce ne sont pas des flèches, ce sont des piquants, mes piquants ! »</p>
+
 !!! keita "Usage de 1979"
     La règle *le* / *te* est décrite en 1979 pour les seules nasales (« *le* se réalise *te* lorsque la finale du mot qui le précède est nasale ») [[(Keita1979, p. 72)]] ; la Bible l'étend à *l*. Les tableaux de 1979 donnent aussi le négatif de chaque temps (*I tyo kolö le*, *I kol te*, *I kolnin te*) [[(Keita1979, p. 96-104)]].
+
+!!! keita "Usage ancien"
+    Paulme (années 1940) et les fables *Sandara Kissia* écrivent la particule souvent avec *r*, et Paulme l'attache au mot qui précède : *ɔ tyɔ bɔre* « ce n'est pas beaucoup », *ɔ seŋu re* « il ne guérit pas » [[(Paulme1964, p. 91, 163)]], *o nɔra lɛ nyɛ-nyɛ tosa re* « il ne pouvait plus rien faire » (fable 19) [[(SandaraKisia)]]. C'est la prononciation *r* de Kissidougou (voir [De l'ancienne à la nouvelle orthographe](../../orthography/old-and-new.md)). Paulme note aussi *ra* (*ɔ tyɔra* « ce n'est pas ») et se demande si *i nɔre la* « je n'ai plus » est une négation redoublée [[(Paulme1964, p. 164-165)]] ; son futur négatif *ɔ kwani sɔre* « il ne partira pas demain » [[(Paulme1964, p. 48)]] garde la voyelle de l'affirmatif, là où la Bible change de radical ({{kuenin te}}). Le guide suit la Bible : {{o co bɔɔ le}}, {{o sengu le}}, {{o nɔla lɛ ɲɛ-ɲɛ tosa le}}, avec {{le}} / {{te}} écrit séparément.

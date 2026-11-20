@@ -88,6 +88,8 @@ flowchart LR
 
 La forme courte du verbe, sans auxiliaire, exprime l'**action achevée** : {{I tuei}} « j'ai entendu », {{a mam}} « tu as ri » [Gn 18,15](https://www.bible.com/bible/1394/GEN.18.15.BKG). La même forme exprime aussi l'**habitude** ou une vérité générale ; les deux se distinguent par le **ton** (ton bas pour l'habituel, ton haut pour l'accompli) [[(Keita1979, p. 95)]], ce que confirme la description du kissi du Sud [[(Childs1995, p. 224-227)]]. La Bible ne note pas ce ton : le contexte tranche.
 
+Pour les verbes à alternance, Paulme distinguait déjà dans les années 1940 un présent, « qui ne diffère pas de l'habituel », en *-a*, et un parfait en *-ɛ* [[(Paulme1964, p. 161-162)]] : {{a tiiya}} « ils arrivent », {{saŋndo de}} « le lièvre a mangé ». La Bible a les mêmes deux radicaux : celui en *-a* sert au récit, à l'habitude et au futur, celui en *-e* / *-ɛ* au subjonctif et à la condition (voir [Radicaux et groupes](stems-and-groups.md)).
+
 ## Le progressif : *co* et *va*
 
 L'auxiliaire {{co}} « être (en train de) » suivi de la **forme longue** exprime l'action en cours ; au passé, on emploie {{va}} :
@@ -95,7 +97,11 @@ L'auxiliaire {{co}} « être (en train de) » suivi de la **forme longue** expri
 - {{i co hunɔɔ mɛmma bɛnduan soli}} « je vais amener le déluge » [Gn 6,17](https://www.bible.com/bible/1394/GEN.6.17.BKG) ;
 - {{Kɔl Hala-o va o pɛɛngaa o mɛmma man coo}} « l'Esprit de Dieu planait sur les eaux » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG).
 
+{{co}} se construit aussi avec un nom : {{a co lɔan yondoo nin}} « ils dorment dans les champs » [2 S 11,11](https://www.bible.com/bible/1394/2SA.11.11.BKG) ({{lɔan}} « sommeil »). Paulme décrit déjà cette tournure comme un progressif dans les années 1940 [[(Paulme1964, p. 162)]] : {{miallo co lɔan}} « l'Étranger continue de dormir ».
+
 {{co}} et {{va}} sont aussi les formes du verbe **être** : {{Lɛŋnden le va tulumasaa}} « la terre était informe » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG). Au négatif, {{va}} devient {{ve}} : {{ɲɛ-ɲɛ ve lecoo le}} « il n'y avait rien dessus » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG). Le kissi du Sud a la même opposition *wa* / *we* [[(Childs1995, p. 233-234)]].
+
+Suivi de {{le}} et de la forme longue, {{va}} indique une action **sur le point de se faire**, ou voulue, dans le passé : {{Tuma nda va le tiiyaa Esipte-o}} « comme ils allaient arriver en Égypte » [Gn 12,11](https://www.bible.com/bible/1394/GEN.12.11.BKG). Paulme relève la même tournure, qu'elle traduit par « était pour, voulait » [[(Paulme1964, p. 119, 162)]] : {{i va le dioo}} « j'étais pour manger », {{i va le kɔlan}} « je voulais partir » (elle écrit *i wa la duo*, *i wa la kɔrã*).
 
 ## Le futur
 
@@ -103,6 +109,8 @@ Deux constructions coexistent :
 
 1. **{{co}} + radical court** (futur proche ou certain) : {{n co ndu dio}} « (le jour où) tu en mangeras » [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG). C'est la construction ordinaire du futur en kissi du Sud [[(Childs1995, p. 234-235)]] ; la description de 1979 l'appelle *futur immédiat* [[(Keita1979, p. 95)]].
 2. **radical + -nin** (futur, promesse, prédiction ; *futur lointain* en 1979) : {{I tuisinin nɔm sangalan coo}} « je multiplierai tes souffrances » [Gn 3,16](https://www.bible.com/bible/1394/GEN.3.16.BKG), {{I yɔngunin cuavaa nɔmaa imamaa lɛŋnden nden}} « je donnerai ce pays à ta descendance » [Gn 12,7](https://www.bible.com/bible/1394/GEN.12.7.BKG).
+
+Paulme analysait déjà ce futur, qu'elle écrit *-ni*, comme le radical de l'habituel en *-a* suivi de *ni* « intention » [[(Paulme1964, p. 161, 164)]] : {{i ca}} « je vois », {{i canin}} « je verrai ». La Bible forme en effet le futur des verbes à alternance sur le radical en *-a*, jamais sur celui en *-e* / *-ɛ* : {{dianin}} « mangera », {{kɔanin}} « ira », {{I canin ndu}} « je le verrai » [Jb 19,27](https://www.bible.com/bible/1394/JOB.19.27.BKG).
 
 Au négatif, *-nin* garde la voyelle du négatif : {{i kuenin te}} « je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG), {{i kɛɛnin te}} « je ne refuserai pas » [1 R 2,20](https://www.bible.com/bible/1394/1KI.2.20.BKG).
 
@@ -129,13 +137,15 @@ Le mot *mi* « et (alors) » se combine avec le pronom sujet : {{mó}} (*mi* + *
 
 Le kissi du Sud a les mêmes formes (*mbo* = *mi* + *o*, *ma*, *mila*, *miŋ*) et la même opposition de ton (*mbó kwɛ̀* « alors il partit », *mbò kwɛ̀* « alors il part ») [[(Childs1995, p. 239-240)]]. En 1979, le subjonctif est décrit avec *maa* + pronom [[(Keita1979, p. 100)]] ; la Bible emploie {{maa}} « que » après les verbes de dire et de savoir ({{mó ca maa n naŋ taw}} « il vit que c'était très bon » [Gn 1,31](https://www.bible.com/bible/1394/GEN.1.31.BKG)).
 
+L'**obligation** se dit avec {{fɔ}} « il faut » suivi du subjonctif : {{fɔ mì Po vanacieo sɔla heeloo}} « il faut que le Fils de l'homme soit élevé » [Jn 3,14](https://www.bible.com/bible/1394/JHN.3.14.BKG) ; avec {{fɔlɔn}} « d'abord » : {{Fɔ mì dimi fɔlɔn}} « il faut d'abord que je parle » [Gn 24,33](https://www.bible.com/bible/1394/GEN.24.33.BKG). Les fables *Sandara Kissia* ont la même tournure (fable 1) [[(SandaraKisia)]] : {{Fɔ mà tosa fɔlɔn}} « il faut d'abord que tu fasses (ce que je t'ai dit) ».
+
 !!! rule "Règle d'écriture"
     On écrit le ton sur *mi* + pronom, comme la Bible : **{{mí}}, {{mó}}, {{má}}** (récit) contre **{{mì}}, {{mò}}, {{mà}}** (subjonctif). C'est l'un des rares cas où l'accent de ton est obligatoire ; voir [Tons](../../orthography/tone.md).
 
 ## L'impératif et l'exhortation
 
 - **2e personne du singulier** : le radical seul : {{Kɔ}} « va », {{Cua ndu}} « prends-la » [Gn 12,19](https://www.bible.com/bible/1394/GEN.12.19.BKG).
-- **2e personne du pluriel** : {{la}} + radical : {{La náŋ ipúlú, la kuí}} [Gn 1,28](https://www.bible.com/bible/1394/GEN.1.28.BKG).
+- **2e personne du pluriel** : {{la}} + radical : {{La náŋ ipúlú, la kuí}} [Gn 1,28](https://www.bible.com/bible/1394/GEN.1.28.BKG) ; de même chez Paulme : {{la velu}} {{vanayawva|r}} « appelez le devin » [[(Paulme1964, p. 158, 163)]].
 - **1re personne du pluriel** (« allons ») : {{n}} + radical : {{N kɔ delnun ndu coo}} [Gn 37,20](https://www.bible.com/bible/1394/GEN.37.20.BKG).
 - **3e personne** (« qu'il… ») : sujet + radical à **ton haut**, que la Bible note souvent : {{Ɲɔ́ɔ́ téngá}} « Que la lumière soit » [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG), {{Yondoo fulá}} « que la verdure sorte » [Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG).
 
@@ -145,7 +155,7 @@ Le kissi du Sud distingue de même l'impératif et l'**hortatif** par le ton [[(
 
 - {{vɔ}} … {{le}} « pas encore » : {{Mɛlɛka Hala ndóò tuisi vɔ piɔɔ … le}} « le Seigneur Dieu n'avait pas encore fait pleuvoir » [Gn 2,5](https://www.bible.com/bible/1394/GEN.2.5.BKG) (kissi du Sud *wɔ̀* [[(Childs1995, p. 238-239)]]) ;
 - {{bɛɛ}} … {{le}} « pas encore, même pas » : {{O cii bɛɛ piɛilen tosa le}} « il n'avait pas encore fini de parler » [Gn 24,15](https://www.bible.com/bible/1394/GEN.24.15.BKG) ;
-- {{cii}} « finir » + verbe exprime l'action achevée : {{Mɛɛ Hala cii baala kon tosa kpow}} « quand Dieu eut achevé son œuvre » [Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG).
+- {{cii}} « finir » + verbe exprime l'action achevée : {{Mɛɛ Hala cii baala kon tosa kpow}} « quand Dieu eut achevé son œuvre » [Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG). Paulme a la même tournure (*i tyi tya* « j'ai fini le houage ») [[(Paulme1964, p. 113)]].
 
 !!! keita "Usage de 1979"
     La description de 1979 donne des tableaux de conjugaison par temps (présent duratif avec *tyo*, présent habituel, passé, futur proche et lointain, imparfait avec *va*, impératif, conditionnel, subjonctif) [[(Keita1979, p. 94-104)]]. L'auxiliaire *tyo* s'écrit {{co}} dans la Bible. Les distinctions de ton entre présent habituel et passé n'y sont pas notées ; elles restent à décrire auprès de locuteurs (voir les [questions ouvertes](../../reference/open-questions.md)).

@@ -34,6 +34,8 @@ Reduplication with a hyphen forms the indefinites for persons and things:
 - {{vana-vana}} “someone, anyone”; with negation, “nobody”: {{vana-vana ve lasiɛmbu}} “nobody was ashamed” [Gen 2:25](https://www.bible.com/bible/1394/GEN.2.25.BKG);
 - {{ɲɛ-ɲɛ}} “something, anything”; with negation, “nothing”: {{ɲɛ-ɲɛ ve lecoo le}} “there was nothing on it” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG).
 
+With negation, {{vana}} alone also means “nobody”: {{hali mì vana ve niaa tovɔɔ le}} “when no one is pursuing you” [[LEV.26.17]]. *Sandara Kissia* uses it in the same way, written *wanna* (fable 9) [[(SandaraKisia)]].
+
 ## “The same, a single”: agreement
 
 {{pilɛ}} “one” forms an indefinite that agrees with the class of the noun, in the sense of “the same, a single”:

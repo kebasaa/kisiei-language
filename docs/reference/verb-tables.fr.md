@@ -29,8 +29,8 @@ Ces tableaux résument les formes décrites aux pages [Radicaux et groupes](../g
 
 | Forme | Affirmatif | Négatif |
 | --- | --- | --- |
-| Accompli, condition, relative | {{de}} : {{te o de pɛ}} | {{di}} : {{o di … le}} |
-| Habituel, défense | {{dia}} | {{La dia le}} |
+| Récit, habituel, défense | {{dia}} : {{mó dia}} | {{di}} : {{o di … le}} ; {{La dia le}} |
+| Subjonctif, condition, relative | {{de}} : {{mì n de}}, {{te o de pɛ}} | |
 | Progressif présent | {{o co dioo}} | |
 | Futur proche | {{n co ndu dio}} « tu en mangeras » [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) | |
 | Futur | {{o dianin}} | {{o dinin … le}} |
@@ -39,8 +39,8 @@ Ces tableaux résument les formes décrites aux pages [Radicaux et groupes](../g
 
 | Forme | Affirmatif | Négatif |
 | --- | --- | --- |
-| Accompli (récit) | {{má kɔa}} | {{kue … le}} |
-| Subjonctif, souhait | {{mì n kɔɛ}} | |
+| Récit, défense | {{má kɔa}} | {{kue … le}} ; {{La kɔa lon te}} |
+| Subjonctif, condition | {{mì n kɔɛ}}, {{te i kɔɛ pɛ}} | |
 | Radical court (en série, impératif) | {{kɔ}} : {{N kɔ}} | |
 | Progressif | {{o co kɔlan}} | |
 | Futur | {{o kɔanin}} | {{kuenin te}} |
@@ -55,4 +55,4 @@ Ces tableaux résument les formes décrites aux pages [Radicaux et groupes](../g
 | Identification | X {{co}} Y {{ni}} | X {{co}} Y {{le}} |
 
 !!! note "Note"
-    La description de 1979 donne des tableaux complets pour seize verbes, avec les six personnes [[(Keita1979, p. 96-109)]], dans l'ancienne orthographe ; la description du kissi du Sud donne les paradigmes de *cimbu* « partir » et *kiol* « mordre » [[(Childs1995, p. 220-221)]]. Les tableaux ci-dessus ne retiennent que les formes vérifiées dans la Bible.
+    La description de 1979 donne des tableaux complets pour seize verbes, avec les six personnes [[(Keita1979, p. 96-109)]], dans l'ancienne orthographe ; la description du kissi du Sud donne les paradigmes de *cimbu* « partir » et *kiol* « mordre » [[(Childs1995, p. 220-221)]]. Pour « aller », Paulme note dans les années 1940 *ma kwa* « ils vont », *ɔ kwani* « il partira », *ɔ kwɛ* « il est parti » [[(Paulme1964, p. 48)]], soit {{kɔa}}, {{kɔanin}}, {{kɔɛ}}. Les tableaux ci-dessus ne retiennent que les formes vérifiées dans la Bible.

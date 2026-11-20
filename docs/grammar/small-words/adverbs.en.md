@@ -15,6 +15,9 @@ Adverbs are invariable; they are usually placed **after the verb and its objects
 | {{ɲinasiaŋ}} | next year | {{boondei he ɲinasiaŋ-ndo}} “at this time next year” [Gen 17:21](https://www.bible.com/bible/1394/GEN.17.21.BKG) |
 | {{le fɛɛn a fɛɛn}} | for ever | {{o co vannɔn yoomu le fɛɛn a fɛɛn}} “he would live for ever” [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
 | {{few}} | never (with the negation) | {{Ɲɛm mun pɛnginin tosanndo le few}} “these things will never cease” [Gen 8:22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{lɔ́ɔ́-lɔ́ɔ̀}} | always, often; with the negation, never (again) | {{Mɛlɛkanɔ kon cɔmnun lɛ nda lɔ́ɔ́-lɔ́ɔ̀ le}} “the angel never appeared to them again” [[JDG.13.21]] |
+
+Paulme already gives *lɔlɔ* “often, always” and *lɔlɔre* “never” [[(Paulme1964, p. 58)]], and *Sandara Kissia* uses the same construction (fable 3): {{A sɔlanin lɔ́ɔ́-lɔ́ɔ̀ le}} “you will never get any” [[(SandaraKisia)]].
 
 ## Adverbs of place
 

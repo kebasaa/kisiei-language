@@ -27,3 +27,28 @@ Terms used in this guide, with their French equivalent.
 | **stem form** | forme radicale | Noun without a suffix, before a determiner: {{cɛi kon}}. |
 | **subjunctive** | subjonctif | Mood of purpose and wish: {{mò}} + verb. |
 | **tone** | ton | Pitch of the voice on a syllable, which can change the meaning. See [Tone](../orthography/tone.md). |
+
+## Grammatical terms in Kisiei
+
+In the 1970s the Académie des langues in Conakry proposed Kisiei terms for teaching grammar [[(AcademieTerminologie)]]. They are given here respelled in the Bible's orthography. Some are ordinary words used in a technical sense ({{diomndo}} "voice, sound" for tone, {{tumndo}} "base, stump" for stem, {{diolan}} "name, noun"); the others are coinages not found in the Bible. They are proposals; how far they are used today remains to be checked.
+
+| Term | Kisiei (Académie) | No. in the "langue" list |
+| --- | --- | --- |
+| adjective | {{tɛɛsiaao\|r}} | 12 |
+| agreement | {{bɛɛndiaa}} | 7 |
+| alphabet | {{pintaasilasɛvaa\|r}} | 18 |
+| consonant | {{taasipiaandoo\|r}} | 84 |
+| ending | {{mɛɛloo}} | 401 |
+| grammar | {{dɛnɛsinaai\|r}} | 191 |
+| negation | {{kɛo\|r}} | 277 |
+| noun | {{diolan}} | 279 |
+| personal pronoun | {{sɔngɔvanaa\|r}} | 307 |
+| plural | {{hɔlɔbioo\|r}} | 339 |
+| sentence | {{pɛllo\|r}} | 311 |
+| singular | {{denkeloo\|r}} | 374 |
+| stem, root | {{tumndo}} | 344 |
+| suffix | {{kefii hɔlle\|r}} | 383 |
+| syllable | {{tɛndudiomndo\|r}} | 390 |
+| tone, accent | {{diomndo}} | 410 |
+| verb | {{yɔnnɔnndo\|r}} | 417 |
+| vowel | {{taasi sɛvaa laandoo\|r}} | 432 |

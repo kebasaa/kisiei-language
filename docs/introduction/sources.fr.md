@@ -26,6 +26,15 @@ L'exemplaire numérisé porte de nombreuses **annotations manuscrites** de lecte
 
 La description la plus complète publiée depuis est la grammaire en anglais de G. Tucker Childs ([[Childs1995|1995]]), complétée par son dictionnaire ([[Childs2000|2000]]). Childs s'appuie surtout sur le kissi parlé au Libéria et en Sierra Leone ; ses analyses (tons, classes, verbe) sont précieuses, mais ses formes et son orthographe ne s'appliquent pas telles quelles au kisiei de Guinée. Ce guide les cite comme point de comparaison, jamais comme norme.
 
+Quatre autres sources écrites du Nord, toutes transcrites dans les [archives](../sources/archive.md), ont servi à compléter le lexique et à vérifier la grammaire :
+
+- le vocabulaire et les **textes de Denise Paulme** [[(Paulme1964)]], recueillis en 1945-1949 autour de Kissidougou et de Guéckédou : le plus ancien témoin du kisiei du Nord, avec les marques de parler G. et K., onze textes glosés mot à mot (voir l'[annexe](../appendix/paulme-texts.md)) et des notes de grammaire ;
+- un ***Lexique kissi–français*** anonyme [[(LexiqueAnonyme)]], dactylographié avec les lettres actuelles, qui reprend en partie le glossaire de Keita ;
+- les **listes de terminologie de l'Académie des langues** [[(AcademieTerminologie)]] : des termes proposés dans les années 1970 pour la grammaire, les arts, l'histoire et l'idéologie (voir le [glossaire](../reference/glossary.md)) ;
+- ***Sandara Kissia***, vingt fables et 83 proverbes publiés par la Mission protestante de Kissidougou [[(SandaraKisia)]].
+
+Aucune ne suit l'orthographe de la Bible : les mots qui en viennent sont réécrits (voir [De l'ancienne à la nouvelle orthographe](../orthography/old-and-new.md)), et la forme d'origine est conservée dans le lexique. Elles confirment souvent l'usage de la Bible ; quand elles en diffèrent, le guide suit la Bible et le signale.
+
 ## Méthode
 
 Pour chaque point de grammaire :

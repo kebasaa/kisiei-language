@@ -14,6 +14,19 @@ La phrase verbale se compose d'un sujet (nom ou pronom), d'un verbe et de ses co
 | X {{co}} + lieu | X est (se trouve) à… | {{Mɛlɛka co o fondaa ho}} « le Seigneur est en ce lieu » [Gn 28,16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
 | X {{va}} + lieu, état | X était… | {{Lɛŋnden le va tulumasaa}} « la terre était informe » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | X {{ni}} | c'est X | {{Paale taselen le yɔŋnun nden ni}} « ce fut le premier jour » [Gn 1,5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+
+Le verbe « être » peut aussi manquer : les deux noms se suivent simplement, {{Tɛyii tasei diolan Pison}} « le premier fleuve a pour nom Pison » [[GEN.2.11]]. Paulme note déjà que « le verbe être est souvent sous-entendu » [[(Paulme1964, p. 161)]], dans une phrase de même forme ([Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)) :
+
+<div class="ks-interlinear" markdown="1">
+
+| *sando* | *dolã* | *mallo* |
+| --- | --- | --- |
+| {{saŋndo}} | {{diolan}} | {{miallo}} |
+| le lièvre | le nom | l'étranger |
+
+</div>
+
+<p class="ks-free" markdown="1">Le lièvre avait pour nom « Étranger ». [[(Paulme1964, p. 157)]]</p>
 | X {{co}} … {{le}} | X n'est pas… | {{O co dɛnɛ vana bɛnda le tosa le}} [Gn 20,9](https://www.bible.com/bible/1394/GEN.20.9.BKG) |
 
 ## Possession : « avoir »

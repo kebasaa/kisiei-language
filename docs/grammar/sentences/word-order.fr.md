@@ -23,6 +23,19 @@ Quand le sujet est un nom d'une autre classe que *o*, il est **repris par son pr
 
 Avec un nom de la classe *o* au singulier, le verbe suit directement : {{Mí vanalanɔɔ mulul ndu aa}} « Et la femme lui répondit » [Gn 3,2](https://www.bible.com/bible/1394/GEN.3.2.BKG).
 
+Paulme fait la même observation dans les années 1940 : le pronom de la 3e personne « renforce le nom sujet » [[(Paulme1964, p. 163)]]. Ses textes en donnent de nombreux exemples ([Paulme, texte 1](../../appendix/paulme-texts.md#1-les-ennemis-de-la-plantation)) :
+
+<div class="ks-interlinear" markdown="1">
+
+| *tuambia* | *a* | *tu* | *yuwa* |
+| --- | --- | --- | --- |
+| {{cuaambɔa}} | {{a}} | {{tu\|?}} | {{yowva}} |
+| les enfants | ils | surveillent | les oiseaux |
+
+</div>
+
+<p class="ks-free" markdown="1">Les enfants surveillent les oiseaux. [[(Paulme1964, p. 131)]]</p>
+
 !!! rule "Règle"
     Sujet nominal (sauf classe *o*) + **pronom de classe** + verbe : {{Lɛŋnden le va}}, {{kobilan la va}}. Le pronom s'écrit séparé.
 

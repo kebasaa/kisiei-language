@@ -12,6 +12,8 @@ Kisiei has only three simple prepositions, like Southern Kissi [[(Childs1995, p.
 | {{o}} | at, in, on (place, time) | {{o paale ŋɔmmɛwndɔlen coo}} “on the seventh day” [Gen 2:2](https://www.bible.com/bible/1394/GEN.2.2.BKG) |
 | {{le}} | for, because of | {{le dioo}} “to eat” [Gen 3:11](https://www.bible.com/bible/1394/GEN.3.11.BKG); {{Le hee}} “because of that” [Gen 2:21](https://www.bible.com/bible/1394/GEN.2.21.BKG) |
 
+Paulme already gives {{le}} a wide range of meanings: “with, against, because of, why, how, because” [[(Paulme1964, p. 56-57, 162-163)]].
+
 Watch out for homonyms: {{o}} the preposition and {{o}} the pronoun “he, she”; {{le}} “for” and {{le}} the negative particle; {{a}} “with, and” and {{a}} the pronoun “you, they”.
 
 ## Circumpositions: *o* … postposition
@@ -28,7 +30,7 @@ To specify a location, the noun is framed by {{o}} and a **postposition** placed
 | … {{ikɛi}} | with, beside | {{Noe ikɛi}} “to Noah” [Gen 7:15](https://www.bible.com/bible/1394/GEN.7.15.BKG) |
 | … {{kɔɔli}} | after, behind | {{O kon kɔɔli}} “after that” [Gen 2:8](https://www.bible.com/bible/1394/GEN.2.8.BKG) |
 
-The 1979 description likewise gives *o … lo* “at the home of” and *o … nin* “in” [[(Keita1979, p. 119)]].
+The 1979 description likewise gives *o … lo* “at the home of” and *o … nin* “in” [[(Keita1979, p. 119)]]. Paulme already records them in the 1940s [[(Paulme1964, p. 68, 163-164)]]: *ɔ … ni* “in”, for place ({{o yondoo nin}} “in the bush”, [Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)), and *ɔ … tyo* “up, on top”, that is {{o}} … {{coo}}.
 
 !!! rule "Spelling rule"
     {{o}} and the postposition are written as separate words: {{o nakɔɔ ho nin}}, {{o mɛnndan coo}}. When a relative clause ends with the postposition, the class ending is attached to it with a hyphen: {{coo-o}}, {{nin-ndan}} (see [Relative clauses](../pronouns/relative.md)).
@@ -47,6 +49,9 @@ The 1979 description likewise gives *o … lo* “at the home of” and *o … n
 | {{nduyɛ}} | however, indeed | {{Kɛ nduyɛ, la dia vision…}} “Only, you shall not eat the flesh…” [Gen 9:4](https://www.bible.com/bible/1394/GEN.9.4.BKG) |
 
 {{nda}} links names of people or animals, {{a}} other nouns [[(Keita1979, p. 119)]]: {{Mí Bɛnyamɛn nda Hakub va baalaa tosaa}} “Benjamin and Hasshub were working” [Neh 3:23](https://www.bible.com/bible/1394/NEH.3.23.BKG).
+
+!!! keita "Older usage"
+    The fables of *Sandara Kissia* very often use {{kɔnɔ|r}} “but” (49 times) and {{katu|r}} “because” (34 times) [[(SandaraKisia)]]; Paulme also records {{kɔnɔ|r}} [[(Paulme1964, p. 47)]]: {{i}} {{nɔ le}} {{la|?}} {{nila}}, {{kɔnɔ|r}} {{cuillɔ|r}} {{vi}} “I have no more ears, but the porcupine is dead”. The Bible uses neither: it says {{kɛ}} “but” and {{kani}} or {{le tùú}} “because”. The guide follows the Bible.
 
 ## Subordinating conjunctions
 

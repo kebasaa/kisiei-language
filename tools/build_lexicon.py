@@ -39,7 +39,7 @@ LIFT_POS = {"noun": "Noun", "verb": "Verb", "adj": "Adjective", "adv": "Adverb",
             "conj": "Connective", "part": "Particle", "interj": "Interjection", "ideo": "Ideophone",
             "name": "Proper Noun"}
 FIELDS = {"lemma", "status", "pos", "class", "plural", "forms", "gloss", "domains", "keita",
-          "paulme", "lexique", "terminologie", "sandara", "childs", "note", "example"}
+          "paulme", "lexique", "terminologie", "sandara", "childs", "note", "example", "variants"}
 
 # Older northern written sources. An entry records where it found a word in one field per source;
 # a 'respelled' entry needs at least one of them. "keys": allowed sub-fields; "cite": short citation;
@@ -61,6 +61,19 @@ SOURCES = {
                 "cite": lambda s: f"Sandara Kisia, {s.get('section', '?')}", "ref": lambda s: s.get("section")},
 }
 PAULME_DIALECTS = {"G", "K", "G/K"}
+# Dialect and pronunciation variants of a word, in the Bible's letters: {form, dialect: G|K, source}
+DIALECTS = {"G": ("Guéckédou", "Guéckédou"), "K": ("Kissidougou", "Kissidougou")}
+VARIANT_SOURCES = set(SOURCES) | {"notes1979", "speaker", "bible"}
+
+
+def variant_label(e, v, lang):
+    """'(Kissidougou)', '(avec r)' / '(with r)', or '' for a variant of the entry."""
+    parts = []
+    if v.get("dialect") in DIALECTS:
+        parts.append(DIALECTS[v["dialect"]][0 if lang == "fr" else 1])
+    if "r" in key(str(v["form"])) and key(str(v["form"])).replace("r", "l") == key(str(e["lemma"])).replace("r", "l"):
+        parts.append("avec r" if lang == "fr" else "with r")
+    return f" ({', '.join(parts)})" if parts else ""
 
 
 def written_sources(e):
@@ -147,6 +160,11 @@ def validate(domains, entries, words):
             errors.append(f"{where}: paulme.dialect must be one of {sorted(PAULME_DIALECTS)}")
         if isinstance(e.get("terminologie"), dict) and e["terminologie"].get("list") not in TERM_LISTS:
             errors.append(f"{where}: terminologie.list must be one of {sorted(TERM_LISTS)}")
+        for v in e.get("variants") or []:
+            if not isinstance(v, dict) or not v.get("form") or set(v) - {"form", "dialect", "source"}:
+                errors.append(f"{where}: each variant is {{form, dialect, source}} with a form")
+            elif v.get("dialect") not in (None, *DIALECTS) or v.get("source") not in (None, *VARIANT_SOURCES):
+                errors.append(f"{where}: variant dialect must be G or K, source one of {sorted(VARIANT_SOURCES)}")
         if e.get("status") == "respelled" and not written_sources(e):
             errors.append(f"{where}: a 'respelled' entry needs a source field ({', '.join(SOURCES)})")
         lemma = str(e.get("lemma", ""))
@@ -186,7 +204,7 @@ TABLE_COLUMNS = ["headword", "status", "part_of_speech", "noun_class", "plural",
                  "gloss_en", "semantic_domains", "southern_kissi_sense", "bible_count", "bible_example",
                  "keita_form", "keita_page", "paulme_form", "paulme_page", "paulme_dialect",
                  "lexique_form", "lexique_page", "terminologie_form", "terminologie_list", "terminologie_number",
-                 "sandara_form", "sandara_section", "childs_form", "childs_page", "note"]
+                 "sandara_form", "sandara_section", "childs_form", "childs_page", "dialect_variants", "note"]
 
 
 def export_table(entries, domains, words, delimiter):
@@ -204,7 +222,9 @@ def export_table(entries, domains, words, delimiter):
                ch.get("sense", ""), b[0] if b else "", (e.get("example") or b[1]) if b else e.get("example", ""),
                kt.get("form", ""), kt.get("page", ""), pa.get("form", ""), pa.get("page", ""), pa.get("dialect", ""),
                lx.get("form", ""), lx.get("page", ""), te.get("form", ""), te.get("list", ""), te.get("number", ""),
-               sa.get("form", ""), sa.get("section", ""), ch.get("form", ""), ch.get("page", ""), e.get("note", "")]
+               sa.get("form", ""), sa.get("section", ""), ch.get("form", ""), ch.get("page", ""),
+               "; ".join(str(v["form"]) + (f" ({v['dialect']})" if v.get("dialect") else "") for v in e.get("variants") or []),
+               e.get("note", "")]
         w.writerow([str(x).replace("\t", " ") for x in row])
     return out.getvalue()
 
@@ -259,7 +279,9 @@ def cldf_metadata():
                             col("Status", **{"dc:description": "attested (in the Bible), confirmed (by a speaker), "
                                              "respelled (from an older northern written source, converted to the current spelling), "
                                              "check, or southern (Childs 2000 only)"}),
-                            col("Noun_Class"), col("Plural"), col("Variants", separator=";")],
+                            col("Noun_Class"), col("Plural"), col("Variants", separator=";"),
+                            col("Dialect_Variants", separator=";", **{"dc:description": "dialect or pronunciation "
+                                "variants, with G (Guéckédou) or K (Kissidougou) where known"})],
                 "primaryKey": ["ID"],
                 "foreignKeys": [{"columnReference": ["Language_ID"],
                                  "reference": {"resource": "languages.csv", "columnReference": ["ID"]}}]}},
@@ -302,7 +324,8 @@ def export_cldf(entries, words):
             src.append(f"Childs2000[{ch['page']}]" if ch.get("page") else "Childs2000")
         forms = [str(f) for f in e.get("forms") or []]
         erows.append([ids[id(e)], LANGUAGE["ID"], e["lemma"], e["pos"], e["status"], e.get("class", ""),
-                      e.get("plural", ""), ";".join(f.replace(";", ",") for f in forms)])
+                      e.get("plural", ""), ";".join(f.replace(";", ",") for f in forms),
+                      ";".join(str(v["form"]) + (f" ({v['dialect']})" if v.get("dialect") else "") for v in e.get("variants") or [])])
         srows.append([ids[id(e)] + "-s1", ids[id(e)], e["gloss"]["en"], ";".join(src), e["gloss"]["fr"],
                       ";".join(map(str, e["domains"])), ch.get("sense", ""), b[0] if b else "",
                       e.get("example") or (b[1] if b else "")])
@@ -314,7 +337,7 @@ def export_cldf(entries, words):
         "Dictionary-metadata.json": json.dumps(cldf_metadata(), ensure_ascii=False, indent=2) + "\n",
         "languages.csv": table(list(LANGUAGE), [list(LANGUAGE.values())]),
         "entries.csv": table(["ID", "Language_ID", "Headword", "Part_Of_Speech", "Status", "Noun_Class",
-                              "Plural", "Variants"], erows),
+                              "Plural", "Variants", "Dialect_Variants"], erows),
         "senses.csv": table(["ID", "Entry_ID", "Description", "Source", "Description_French", "Semantic_Domain",
                              "Southern_Kissi_Sense", "Bible_Count", "Example_Reference"], srows),
         "sources.bib": "\n\n".join(entries_bib) + "\n",
@@ -337,6 +360,9 @@ def export_lift(entries, domains, words):
             parts.append(f"    <field type=\"plural\">{form('kqs', e['plural'])}</field>")
         for f in e.get("forms") or []:
             parts.append(f"    <variant>{form('kqs', f)}</variant>")
+        for v in e.get("variants") or []:
+            trait = f"<trait name=\"dialect\" value={quoteattr(DIALECTS[v['dialect']][1])}/>" if v.get("dialect") in DIALECTS else ""
+            parts.append(f"    <variant>{form('kqs', v['form'])}{trait}</variant>")
         parts.append(f"    <sense id={quoteattr(eid + '_s1')}>")
         parts.append(f"      <grammatical-info value={quoteattr(LIFT_POS[e['pos']])}/>")
         parts.append(f"      <gloss lang=\"fr\"><text>{escape(e['gloss']['fr'])}</text></gloss>")
@@ -455,7 +481,7 @@ DICT_TEXT = {
            "abbr": {"noun": "n.", "verb": "v.", "adj": "adj.", "adv": "adv.", "pron": "pron.", "num": "num.",
                     "det": "dét.", "prep": "prép.", "postp": "postp.", "conj": "conj.", "part": "part.",
                     "interj": "interj.", "ideo": "idéo.", "name": "n. pr."},
-           "pl": "pl.", "forms": "autres formes", "south_only": "kissi du Sud seulement",
+           "pl": "pl.", "forms": "autres formes", "variants": "variantes", "south_only": "kissi du Sud seulement",
            "south_sense": "kissi du Sud", "letters": "Lettres",
            "intro": (
                "Ce dictionnaire est produit automatiquement à partir du "
@@ -481,7 +507,7 @@ DICT_TEXT = {
            "abbr": {"noun": "n.", "verb": "v.", "adj": "adj.", "adv": "adv.", "pron": "pron.", "num": "num.",
                     "det": "det.", "prep": "prep.", "postp": "postp.", "conj": "conj.", "part": "part.",
                     "interj": "interj.", "ideo": "ideo.", "name": "prop. n."},
-           "pl": "pl.", "forms": "other forms", "south_only": "Southern Kissi only",
+           "pl": "pl.", "forms": "other forms", "variants": "variants", "south_only": "Southern Kissi only",
            "south_sense": "Southern Kissi", "letters": "Letters",
            "intro": (
                "This dictionary is generated automatically from the project's "
@@ -571,6 +597,9 @@ def export_dictionary(lang, entries, words):
             forms = [str(f) for f in e.get("forms") or [] if str(f) != lemma]
             if forms:
                 text += f" {t['forms'].capitalize()}{' :' if lang == 'fr' else ':'} " + ", ".join(f"*{f}*" for f in forms) + "."
+            if e.get("variants"):
+                text += (f" {t['variants'].capitalize()}{' :' if lang == 'fr' else ':'} "
+                         + ", ".join(f"*{v['form']}*{variant_label(e, v, lang)}" for v in e["variants"]) + ".")
             src = entry_source(e, words, lang)
             if src:
                 text += f" <span class=\"ks-src\">{src}</span>"

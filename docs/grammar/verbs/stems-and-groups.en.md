@@ -33,8 +33,8 @@ flowchart LR
     subgraph ALT["Alternating verbs: the vowel changes"]
         M["{{malɔɔ}}"] --> M1["{{mal}} affirmative"]
         M --> M2["{{mel}} negative"]
-        D["{{dioo}}"] --> D1["{{de}} perfective, narrative"]
-        D --> D2["{{dia}} habitual, prohibition"]
+        D["{{dioo}}"] --> D1["{{dia}} narrative, habitual, prohibition"]
+        D --> D2["{{de}} subjunctive, condition"]
         D --> D3["{{dio}} near future"]
         D --> D4["{{di}} negative"]
     end
@@ -86,11 +86,13 @@ The most irregular verbs have four stems. Their use in the Bible:
 | | eat | go | Use | Example |
 | --- | --- | --- | --- | --- |
 | long form | {{dioo}} | {{kɔlan}} | progressive, verbal noun | {{le dioo}} “to eat” |
-| perfective, subordinate | {{de}} | {{kɔa}} | narrative, condition, relative | {{te o de pɛ}} “if he eats” [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG); {{má kɔa yondoo nin}} “they went to the fields” [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
-| habitual, prohibition | {{dia}} | {{kɔɛ}} | habit, negative imperative, subjunctive | {{La dia le}} “do not eat of it” [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG); {{mì n kɔɛ}} “let us go” [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| stem in *-a* | {{dia}} | {{kɔa}} | narrative, habit, prohibition | {{mó dia}} “and he ate” [Gen 3:6](https://www.bible.com/bible/1394/GEN.3.6.BKG); {{má kɔa yondoo nin}} “they went to the fields” [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG); {{La dia le}} “do not eat of it” [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| stem in *-e*, *-ɛ* | {{de}} | {{kɔɛ}} | subjunctive, condition, perfective in a subordinate clause | {{mì n de}} “that we may eat” [Gen 3:2](https://www.bible.com/bible/1394/GEN.3.2.BKG); {{mì n kɔɛ}} “let us go” [Gen 4:8](https://www.bible.com/bible/1394/GEN.4.8.BKG); {{te o de pɛ}} “if he eats” [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG); {{Mɛɛ nda kɔɛ}} “when they had gone” [Num 33:8](https://www.bible.com/bible/1394/NUM.33.8.BKG) |
 | short stem | {{dio}} | {{kɔ}} | near future, serial verb | {{n co ndu dio}} “you will eat of it” [Gen 2:17](https://www.bible.com/bible/1394/GEN.2.17.BKG); {{N kɔ delnun ndu coo}} “let us go and fall upon him” [Gen 37:20](https://www.bible.com/bible/1394/GEN.37.20.BKG) |
 | negative | {{di}} | {{kue}} | negation | {{o di ɲɛdiaa le}} [Exod 34:28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
 | future | {{dianin}} | {{kɔanin}} | future | {{nda dianin}} “they will eat” [Exod 12:7](https://www.bible.com/bible/1394/EXO.12.7.BKG) |
+
+The distribution is clear-cut in the Bible: after {{mí}}, {{mó}}, {{má}} (narrative) we find {{dia}} and {{kɔa}} (in over 600 verses, against 7 for {{de}} or {{kɔɛ}}); after {{mì}}, {{mò}}, {{mà}} (subjunctive), {{de}} and {{kɔɛ}} (in over 300 verses, against a single one for {{dia}}). The future is built on the stem in *-a* ({{dianin}}, {{kɔanin}}). Paulme already described these two stems in the 1940s, as a present-habitual in *-a* and a perfect in *-ɛ*, the future adding *ni* to the first [[(Paulme1964, p. 48, 161)]]: {{o kɔanin}} “he will leave”, {{o kɔɛ}} “he has left” (she writes *ma kwa* “they go”, *ɔ kwani*, *ɔ kwɛ*).
 
 !!! rule "Spelling rules"
     - Write each stem as it is pronounced: {{mal}} / {{mel}}, {{dia}} / {{di}}; do not “regularise” it.
@@ -98,4 +100,4 @@ The most irregular verbs have four stems. Their use in the Bible:
     - The long form is written with its long vowel or its ending: {{tosaa}}, {{malɔɔ}}, {{dioo}}.
 
 !!! keita "1979 usage"
-    The 1979 description names the stems R1 to R4 and gives, for each group, a table of their use [[(Keita1979, p. 101-104)]], as well as a lexicon of verbs sorted by group [[(Keita1979, p. 110-118)]]. These tables are in the old orthography (*Dioo : de, dia, dio, di*; *Kölan : köè, köa, kö, koe*). The distribution of stems found in the Bible broadly agrees, but the Bible writes {{kɔa}} for the narrative perfective and {{kɔɛ}} after *mì*, where 1979 gives *köè* for the past and *köa* for the habitual; this point still needs to be checked with speakers.
+    The 1979 description names the stems R1 to R4 and gives, for each group, a table of their use [[(Keita1979, p. 101-104)]], as well as a lexicon of verbs sorted by group [[(Keita1979, p. 110-118)]]. These tables are in the old orthography (*Dioo : de, dia, dio, di*; *Kölan : köè, köa, kö, koe*). The pairs are the same as in the Bible (*de* with *köè*, *dia* with *köa*), but 1979 calls the first “past” and the second “habitual”, whereas the Bible uses {{dia}} and {{kɔa}} in past narrative and {{de}} and {{kɔɛ}} in the subjunctive; the role of tone in this distribution still needs to be checked with speakers.

@@ -24,7 +24,7 @@ flowchart TD
 
 ### Personnes et animaux : -a
 
-Les noms de personnes et d'animaux en *-o*, *-ɔ* ou *-a* font leur pluriel en **-a** (*-nda* après une nasale, *-la* après *l*, *-va* après *w*). En kissi du Sud aussi, la paire *o / a* réunit pratiquement tous les êtres animés [[(Childs1995, p. 163-164)]] :
+Les noms de personnes et d'animaux en *-o*, *-ɔ* ou *-a* font leur pluriel en **-a** (*-nda* après une nasale, *-la* après *l*, *-va* après *w*). En kissi du Sud aussi, la paire *o / a* réunit pratiquement tous les êtres animés [[(Childs1995, p. 163-164)]]. Paulme relève déjà ce pluriel dans les années 1940 ({{mialla}}, pluriel de {{miallo}} « étranger ») [[(Paulme1964, p. 162)]] :
 
 | Singulier | Pluriel | Sens |
 | --- | --- | --- |

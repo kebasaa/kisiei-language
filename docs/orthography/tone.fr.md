@@ -49,7 +49,7 @@ Les noms, les verbes et les adjectifs courants ne portent **pas** d'accent : {{p
     4. Un accent par voyelle : une voyelle longue en reçoit deux ({{ndóò}}, {{háá}}).
 
 !!! note "Note"
-    Les règles exactes du ton en kisiei (tons de base des mots, changements de ton dans la phrase) ne sont décrites ni dans le manuel de 1979 ni dans la Bible. Elles font partie des [questions ouvertes](../reference/open-questions.md). Pour le kissi du Sud, elles sont décrites en détail [[(Childs1995, p. 43-65, 91-98)]], sans qu'on sache encore lesquelles valent aussi pour le kisiei.
+    Les règles exactes du ton en kisiei (tons de base des mots, changements de ton dans la phrase) ne sont décrites ni dans le manuel de 1979 ni dans la Bible. Elles font partie des [questions ouvertes](../reference/open-questions.md). Pour le kissi du Sud, elles sont décrites en détail [[(Childs1995, p. 43-65, 91-98)]], sans qu'on sache encore lesquelles valent aussi pour le kisiei. Les autres sources anciennes du Nord ne notent pas les tons non plus : chez Paulme [[(Paulme1964)]], la barre sur une voyelle marque la longueur et le tilde la nasalité, et ni le *Lexique kissi–français*, ni les listes de l'Académie, ni *Sandara Kissia* ne portent d'accents.
 
 ## Intonation
 

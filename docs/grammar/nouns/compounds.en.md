@@ -38,6 +38,8 @@ Old and very common compounds are written **as a single word**:
 | {{ɲɛdiaa}} | thing + eat | food |
 | {{halataalaa}} | (God, sky) + … | heaven, sky |
 
+Paulme's lexicon of the 1940s already has many compounds in *vana-* “person” [[(Paulme1964, p. 119)]]: {{vana yɔɔya}} “cast-net fisherman”, {{vanayawva|r}} “diviner”.
+
 !!! rule "Spelling rule"
     - A **fixed, common** compound is written as a single word ({{vanapɔnɔɔ}}).
     - A **descriptive** compound, each part of which keeps its meaning, is written with **hyphens** ({{vana-solia-lasálàá}}).

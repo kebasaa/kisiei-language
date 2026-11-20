@@ -29,7 +29,7 @@ The noun has two forms:
 | {{kalaa}} “the mother” | {{kala ndɔ}} “his mother” |
 | {{pɔmbɔɔ}} “the younger sibling” | {{pɔmbɔ ndɔ}} “his younger brother” |
 
-The stem form is also called the **indefinite form**, and the full form the **definite form** [[(Keita1979, p. 20)]]; the full form indeed plays the role of the French definite article, which Kisiei does not have.
+The stem form is also called the **indefinite form**, and the full form the **definite form** [[(Keita1979, p. 20)]]; the full form indeed plays the role of the French definite article, which Kisiei does not have. In the 1940s, however, Paulme translates the full form sometimes as indefinite ({{cɛiyo}} “a hut”), sometimes as definite ({{vuiyo}} “the thief”) [[(Paulme1964, p. 161, 163)]]: it does not always mark a definite noun.
 
 !!! rule "Rule"
     The suffix is never written twice: *cɛiyo kon* is wrong; write {{cɛi kon}}.

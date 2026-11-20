@@ -29,7 +29,7 @@ Le nom a deux formes :
 | {{kalaa}} « la mère » | {{kala ndɔ}} « sa mère » |
 | {{pɔmbɔɔ}} « le cadet » | {{pɔmbɔ ndɔ}} « son frère cadet » |
 
-La forme radicale est aussi appelée **forme indéfinie**, et la forme pleine **forme définie** [[(Keita1979, p. 20)]] ; la forme pleine joue en effet le rôle de l'article défini français, que le kisiei ne connaît pas.
+La forme radicale est aussi appelée **forme indéfinie**, et la forme pleine **forme définie** [[(Keita1979, p. 20)]] ; la forme pleine joue en effet le rôle de l'article défini français, que le kisiei ne connaît pas. Paulme, dans les années 1940, traduit pourtant la forme pleine tantôt par un indéfini ({{cɛiyo}} « une case »), tantôt par un défini ({{vuiyo}} « le voleur ») [[(Paulme1964, p. 161, 163)]] : elle ne marque donc pas toujours un nom défini.
 
 !!! rule "Règle"
     On n'écrit jamais la terminaison deux fois : *cɛiyo kon* est fautif ; on écrit {{cɛi kon}}.

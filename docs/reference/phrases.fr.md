@@ -33,3 +33,9 @@ Quelques phrases courantes, toutes tirées de la Bible en kisiei [[(BKG)]]. Elle
 | {{Kuɛɛ nɛ n co yɛ?}} | Où es-tu ? | [Gn 3,9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 
 Pour d'autres salutations de la vie courante, voir les dialogues de la description de 1979 (dans l'ancienne orthographe) [[(Keita1979)]] ; les formes qui n'apparaissent pas dans la Bible doivent être vérifiées auprès de locuteurs.
+
+## Formules anciennes et proverbes
+
+La Bible emploie {{La lɔl kɛndɛ}} « portez-vous bien » pour prendre congé ([Ac 15,29](https://www.bible.com/bible/1394/ACT.15.29.BKG)). Dans les années 1940, Denise Paulme relevait *lɔ kɛnde* « au revoir, bonne nuit » et *a lɔ kɛnde* « bonjour », auquel on répond *nyɛnyɛre* « ça va » [[(Paulme1964, p. 42, 72)]], ainsi que la question *a lɔl kɛnde* « as-tu bien dormi ? » [[(Paulme1964, p. 58)]].
+
+Des proverbes et des devinettes, réécrits dans l'orthographe de la Bible, sont réunis dans l'annexe [Contes, proverbes et devinettes](../appendix/tales.md) ; des textes de la vie courante (cuisine, travaux des champs, prières) dans [Textes de Denise Paulme](../appendix/paulme-texts.md).

@@ -62,7 +62,11 @@ On relève deux autres tournures [[(Keita1979, p. 62-63)]] :
 1. avec le verbe *nɔw* « avoir » et la particule {{ni}} : *Tamba nɔ cɛiyo hoo ni* « Tamba a cette maison » ;
 2. avec le référent de classe et {{ni}} : *Naw Fatee vo ni* « C'est la vache de Fatee ».
 
+Paulme relève une tournure voisine dans les années 1940 : {{cɛi}} {{o}} Fasa {{ni}} « la case de Fasa, pour Fasa » [[(Paulme1964, p. 68, 161)]].
+
 Dans la Bible, le possesseur nommé se place **après** le nom possédé, suivi du référent de classe : {{lɛŋnde Esipte len}} « le pays d'Égypte » [Gn 13,10](https://www.bible.com/bible/1394/GEN.13.10.BKG), {{nakɔ Mɛlɛka-o}} « le jardin du Seigneur » [Gn 13,10](https://www.bible.com/bible/1394/GEN.13.10.BKG).
+
+La Bible connaît aussi l'ordre inverse, **possesseur + nom possédé à sa forme pleine**, beaucoup plus rare, notamment avec {{diolan}} « nom » : {{Mí Hava ke ndu diolan aa Sɛt}} « Ève lui donna le nom de Seth » [[GEN.4.25]] ; {{Tɛyii tasei diolan Pison}} « le premier fleuve a pour nom Pison » [[GEN.2.11]] ; {{tuei Mɛlɛka sɔɛi}} « entendre la voix du Seigneur » [[DEU.4.33]]. Paulme en fait la règle du génitif dans les années 1940 [[(Paulme1964, p. 161)]] : le possesseur précède le possédé ({{saŋndo}} {{diolan}} « le nom du lièvre »), et {{ya}} employé comme possessif précède le nom ({{ya}} {{diolan}} « mon nom »).
 
 !!! keita "Usage de 1979"
     L'orthographe de 1979 écrit la 2e personne *num-* (*nummdo*, *nummde*) [[(Keita1979, p. 61)]] ; la Bible écrit **nɔm-** : {{nɔmndo}}, {{nɔmnde}}. Les formes de 1979 de 1re et 2e plur. pour les classes *len* et *lan* (*nialen*, *nialan*) sont dans la Bible {{niaalen}}, {{niaalan}}.

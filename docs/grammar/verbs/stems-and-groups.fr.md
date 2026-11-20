@@ -33,8 +33,8 @@ flowchart LR
     subgraph ALT["Verbes à alternance : la voyelle change"]
         M["{{malɔɔ}}"] --> M1["{{mal}} affirmatif"]
         M --> M2["{{mel}} négatif"]
-        D["{{dioo}}"] --> D1["{{de}} accompli, récit"]
-        D --> D2["{{dia}} habituel, défense"]
+        D["{{dioo}}"] --> D1["{{dia}} récit, habituel, défense"]
+        D --> D2["{{de}} subjonctif, condition"]
         D --> D3["{{dio}} futur proche"]
         D --> D4["{{di}} négatif"]
     end
@@ -86,11 +86,13 @@ Les verbes les plus irréguliers ont quatre radicaux. Leur emploi dans la Bible 
 | | manger | aller | Emploi | Exemple |
 | --- | --- | --- | --- | --- |
 | forme longue | {{dioo}} | {{kɔlan}} | progressif, nom verbal | {{le dioo}} « pour manger » |
-| accompli, subordonnée | {{de}} | {{kɔa}} | récit, condition, relative | {{te o de pɛ}} « s'il mange » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) ; {{má kɔa yondoo nin}} « ils allèrent aux champs » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
-| habituel, défense | {{dia}} | {{kɔɛ}} | habitude, impératif négatif, subjonctif | {{La dia le}} « n'en mangez pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) ; {{mì n kɔɛ}} « allons » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) |
+| radical en *-a* | {{dia}} | {{kɔa}} | récit, habitude, défense | {{mó dia}} « et il mangea » [Gn 3,6](https://www.bible.com/bible/1394/GEN.3.6.BKG) ; {{má kɔa yondoo nin}} « ils allèrent aux champs » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) ; {{La dia le}} « n'en mangez pas » [Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG) |
+| radical en *-e*, *-ɛ* | {{de}} | {{kɔɛ}} | subjonctif, condition, accompli d'une subordonnée | {{mì n de}} « que nous mangions » [Gn 3,2](https://www.bible.com/bible/1394/GEN.3.2.BKG) ; {{mì n kɔɛ}} « allons » [Gn 4,8](https://www.bible.com/bible/1394/GEN.4.8.BKG) ; {{te o de pɛ}} « s'il mange » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) ; {{Mɛɛ nda kɔɛ}} « quand ils furent partis » [Nb 33,8](https://www.bible.com/bible/1394/NUM.33.8.BKG) |
 | radical court | {{dio}} | {{kɔ}} | futur proche, verbe en série | {{n co ndu dio}} « tu en mangeras » [Gn 2,17](https://www.bible.com/bible/1394/GEN.2.17.BKG) ; {{N kɔ delnun ndu coo}} « allons nous jeter sur lui » [Gn 37,20](https://www.bible.com/bible/1394/GEN.37.20.BKG) |
 | négatif | {{di}} | {{kue}} | négation | {{o di ɲɛdiaa le}} [Ex 34,28](https://www.bible.com/bible/1394/EXO.34.28.BKG) |
 | futur | {{dianin}} | {{kɔanin}} | futur | {{nda dianin}} « ils mangeront » [Ex 12,7](https://www.bible.com/bible/1394/EXO.12.7.BKG) |
+
+La répartition est nette dans la Bible : après {{mí}}, {{mó}}, {{má}} (récit), on lit {{dia}} et {{kɔa}} (dans plus de 600 versets, contre 7 pour {{de}} ou {{kɔɛ}}) ; après {{mì}}, {{mò}}, {{mà}} (subjonctif), {{de}} et {{kɔɛ}} (dans plus de 300 versets, contre un seul pour {{dia}}). Le futur se forme sur le radical en *-a* ({{dianin}}, {{kɔanin}}). Paulme décrivait déjà ces deux radicaux dans les années 1940, comme un présent-habituel en *-a* et un parfait en *-ɛ*, le futur ajoutant *ni* au premier [[(Paulme1964, p. 48, 161)]] : {{o kɔanin}} « il partira », {{o kɔɛ}} « il est parti » (elle écrit *ma kwa* « ils vont », *ɔ kwani*, *ɔ kwɛ*).
 
 !!! rule "Règles d'écriture"
     - On écrit chaque radical tel qu'il se prononce : {{mal}} / {{mel}}, {{dia}} / {{di}} ; on ne « régularise » pas.
@@ -98,4 +100,4 @@ Les verbes les plus irréguliers ont quatre radicaux. Leur emploi dans la Bible 
     - La forme longue s'écrit avec sa voyelle longue ou sa terminaison : {{tosaa}}, {{malɔɔ}}, {{dioo}}.
 
 !!! keita "Usage de 1979"
-    La description de 1979 nomme les radicaux R1 à R4 et donne pour chaque groupe un tableau de leur emploi [[(Keita1979, p. 101-104)]], ainsi qu'un lexique de verbes classés par groupe [[(Keita1979, p. 110-118)]]. Ces tableaux sont dans l'ancienne orthographe (*Dioo : de, dia, dio, di* ; *Kölan : köè, köa, kö, koe*). La répartition des radicaux qu'on lit dans la Bible concorde en gros, mais la Bible écrit {{kɔa}} pour l'accompli du récit et {{kɔɛ}} après *mì*, là où 1979 donne *köè* au passé et *köa* à l'habituel ; ce point reste à vérifier auprès de locuteurs.
+    La description de 1979 nomme les radicaux R1 à R4 et donne pour chaque groupe un tableau de leur emploi [[(Keita1979, p. 101-104)]], ainsi qu'un lexique de verbes classés par groupe [[(Keita1979, p. 110-118)]]. Ces tableaux sont dans l'ancienne orthographe (*Dioo : de, dia, dio, di* ; *Kölan : köè, köa, kö, koe*). Les paires sont les mêmes que dans la Bible (*de* avec *köè*, *dia* avec *köa*), mais 1979 nomme la première « passé » et la seconde « habituel », alors que la Bible emploie {{dia}} et {{kɔa}} dans le récit au passé et {{de}} et {{kɔɛ}} au subjonctif ; le rôle du ton dans cette répartition reste à vérifier auprès de locuteurs.

@@ -24,7 +24,7 @@ flowchart TD
 
 ### People and animals: -a
 
-Nouns for people and animals in *-o*, *-ɔ* or *-a* form their plural in **-a** (*-nda* after a nasal, *-la* after *l*, *-va* after *w*). In Southern Kissi too, the *o / a* pair covers practically all animate beings [[(Childs1995, p. 163-164)]]:
+Nouns for people and animals in *-o*, *-ɔ* or *-a* form their plural in **-a** (*-nda* after a nasal, *-la* after *l*, *-va* after *w*). In Southern Kissi too, the *o / a* pair covers practically all animate beings [[(Childs1995, p. 163-164)]]. Paulme already records this plural in the 1940s ({{mialla}}, plural of {{miallo}} “stranger”) [[(Paulme1964, p. 162)]]:
 
 | Singular | Plural | Meaning |
 | --- | --- | --- |

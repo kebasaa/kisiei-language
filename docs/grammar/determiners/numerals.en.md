@@ -14,7 +14,7 @@ The forms and rules on this page are drawn from the texts of the Kisiei Bible [[
 | 4 | {{hiɔɔlu}} | 9 | {{ŋɔmahiɔɔlu}} |
 | 5 | {{ŋuɛɛnu}} | 10 | {{tɔ́}} |
 
-The numbers from 6 to 9 are built on 5: *ŋɔm-* + 1, 2, 3, 4 ({{ŋɔmpum}}, {{ŋɔmmɛw}}, {{ŋɔmaa}}, {{ŋɔmahiɔɔlu}}).
+The numbers from 6 to 9 are built on 5: *ŋɔm-* + 1, 2, 3, 4 ({{ŋɔmpum}}, {{ŋɔmmɛw}}, {{ŋɔmaa}}, {{ŋɔmahiɔɔlu}}). Paulme already notes this counting in fives in the 1940s [[(Paulme1964, p. 69)]]: *nuamu* “seven /5 + 2/”, *nɔma* “eight /5 + 3/”. Her *nɔma nwɔlu*, glossed “four”, is in fact “nine” (5 + 4), {{ŋɔmahiɔɔlu}} in the Bible.
 
 ### Tens, hundreds, thousands
 

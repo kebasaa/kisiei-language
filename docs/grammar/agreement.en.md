@@ -2,7 +2,7 @@
 
 ## The principle
 
-In Kisiei, the class of a noun **is repeated** on the words that accompany or replace it: subject pronouns, demonstratives, possessives, adjectives, relatives. This system is called the **alliterative structure** [[(Keita1979, p. 121-122)]]; Southern Kissi has the same agreement system, which affects pronouns, adjectives, possessives, demonstratives and small numbers [[(Childs1995, p. 150)]]. It is called alliterative because the same ending comes back like an echo through the sentence. The small words that carry this repetition are the **class referents**.
+In Kisiei, the class of a noun **is repeated** on the words that accompany or replace it: subject pronouns, demonstratives, possessives, adjectives, relatives. This system is called the **alliterative structure** [[(Keita1979, p. 121-122)]]; Southern Kissi has the same agreement system, which affects pronouns, adjectives, possessives, demonstratives and small numbers [[(Childs1995, p. 150)]]. It is called alliterative because the same ending comes back like an echo through the sentence. The small words that carry this repetition are the **class referents**. Paulme already noticed this in the 1940s [[(Paulme1964, p. 163)]]: the final *-o* of {{vuiyo}} “the thief” is, she notes, the 3rd person singular pronoun {{o}}.
 
 {{Lɛŋnden le va tulumasaa}} — “The earth (*le*) was without form” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG): {{lɛŋnden}} belongs to the *len* class, and the subject pronoun that refers back to it is {{le}}.
 

@@ -64,7 +64,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{baalalen|?}}** *n.* — devoir. <span class="ks-src">Terminologie (langue), n° 119</span>
 
-**{{baalandoo|r}}** *v.* — attaquer. Autres formes : *baalan*. <span class="ks-src">Lexique kissi–français, p. 3</span>
+**{{baalandoo|r}}** *v.* — attaquer. Autres formes : *baalan*. Variantes : *baarandoo* (avec r), *baaran*. <span class="ks-src">Lexique kissi–français, p. 3</span>
 
 **{{baalanndo|r}}** *n.* (o) — balafon, xylophone (des Peuls et des Malinkés). <span class="ks-src">Paulme 1964, p. 3; Lexique kissi–français, p. 3; Terminologie (arts), n° 19</span>
 
@@ -98,7 +98,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{baa yulullo|r}}** *v.* — tendre le bras, montrer (du bras, du doigt), indiquer. <span class="ks-src">Lexique kissi–français, p. 3</span>
 
-**{{baa}}**<sup>1</sup> *n.* (o), pl. {{balan}} — main, bras. *kissi du Sud (Childs 2000, en anglais) :* hand, arm; also way, fork in a road. Autres formes : *ba*. <span class="ks-src">[Gn 8,9](https://www.bible.com/bible/1394/GEN.8.9.BKG)</span>
+**{{baa}}**<sup>1</sup> *n.* (o), pl. {{balan}} — main, bras. *kissi du Sud (Childs 2000, en anglais) :* hand, arm; also way, fork in a road. Autres formes : *ba*. Variantes : *bao* (Kissidougou), *baran* (Kissidougou). <span class="ks-src">[Gn 8,9](https://www.bible.com/bible/1394/GEN.8.9.BKG)</span>
 
 **{{baa|?}}**<sup>2</sup> *part.* — plus (comparatif, avec le). <span class="ks-src">Lexique kissi–français, p. 3</span>
 
@@ -202,7 +202,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{balufayɛi|r}}** *n.* (i) — relation amoureuse hors mariage ; fiançailles ; amitié profonde. <span class="ks-src">Lexique kissi–français, p. 3</span>
 
-**{{baluo|r}}** *n.* (o) — fourreau. <span class="ks-src">Lexique kissi–français, p. 4</span>
+**{{baluo|r}}** *n.* (o) — fourreau. Variantes : *baruo* (avec r). <span class="ks-src">Lexique kissi–français, p. 4</span>
 
 **{{balu}}** *v.* — faire le tour, entourer ; parcourir. Autres formes : *balunin*. <span class="ks-src">[Gn 2,11](https://www.bible.com/bible/1394/GEN.2.11.BKG)</span>
 
@@ -540,7 +540,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{bɛnduo|r}}** *n.* (o) — grand frère, aîné ; sœur aînée (d'une femme). *kissi du Sud (Childs 2000, en anglais) :* elder, older brother; big one; term of respect. <span class="ks-src">Keita 1979, p. 134; Paulme 1964, p. 7; Lexique kissi–français, p. 5</span>
 
-**{{bɛnɛbɛŋelan|r}}** *n.* (lan) — étincelles. <span class="ks-src">Lexique kissi–français, p. 5</span>
+**{{bɛnɛbɛŋelan|r}}** *n.* (lan) — étincelles. Variantes : *bɛnɛbɛŋeran* (avec r). <span class="ks-src">Lexique kissi–français, p. 5</span>
 
 **{{bɛngufɔnɔ|r}}** *n.* — novembre. *kissi du Sud (Childs 2000, en anglais) :* time around November. <span class="ks-src">Keita 1979, p. 152; Lexique kissi–français, p. 5; Terminologie (langue), n° 447</span>
 
@@ -676,7 +676,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{bingi}}** *adj.* — court ; (telen bingi) un peu de temps ; raccourcir ; petit. *kissi du Sud (Childs 2000, en anglais) :* short; also little, small. Autres formes : *bingio*. <span class="ks-src">[Es 28,20](https://www.bible.com/bible/1394/ISA.28.20.BKG)</span>
 
-**{{bingulanndo}}** *v.* — se mélanger, être mêlé. Autres formes : *bingulan*, *bingilan*. <span class="ks-src">[Ex 9,24](https://www.bible.com/bible/1394/EXO.9.24.BKG)</span>
+**{{bingulanndo}}** *v.* — se mélanger, être mêlé. Autres formes : *bingulan*. Variantes : *bingilan*. <span class="ks-src">[Ex 9,24](https://www.bible.com/bible/1394/EXO.9.24.BKG)</span>
 
 **{{binibini|r}}** *n.* — rhombe (nom secret). <span class="ks-src">Paulme 1964, p. 9</span>
 
@@ -762,7 +762,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{bolofaa}}** *n.* — richesse(s). <span class="ks-src">[Gn 13,2](https://www.bible.com/bible/1394/GEN.13.2.BKG)</span>
 
-**{{bololan}}** *n.* (lan) — cou, gorge ; (kialu … bololan) égorger. Autres formes : *bolola*. <span class="ks-src">[Gn 22,10](https://www.bible.com/bible/1394/GEN.22.10.BKG)</span>
+**{{bololan}}** *n.* (lan) — cou, gorge ; (kialu … bololan) égorger. Autres formes : *bolola*. Variantes : *burulan* (Kissidougou), *burula* (Kissidougou), *bɔŋola* (Guéckédou). <span class="ks-src">[Gn 22,10](https://www.bible.com/bible/1394/GEN.22.10.BKG)</span>
 
 **{{bololen}}** *n.* (len) — gorge ; gourmand. <span class="ks-src">[Jr 2,25](https://www.bible.com/bible/1394/JER.2.25.BKG)</span>
 
@@ -908,9 +908,9 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{bɔlɔɔn|r}}** *n.* — chapelet. <span class="ks-src">Keita 1979, p. 150; Lexique kissi–français, p. 7</span>
 
-**{{bɔlɔɔ}}**<sup>1</sup> *n.* (o), pl. {{bɔlɔlan}} — sac. <span class="ks-src">[Gn 42,27](https://www.bible.com/bible/1394/GEN.42.27.BKG)</span>
+**{{bɔlɔɔ}}**<sup>1</sup> *n.* (o), pl. {{bɔlɔlan}} — sac. Variantes : *bɔrɔɔ* (Kissidougou, avec r). <span class="ks-src">[Gn 42,27](https://www.bible.com/bible/1394/GEN.42.27.BKG)</span>
 
-**{{bɔlɔɔ|r}}**<sup>2</sup> *n.* (o) — banane. *kissi du Sud (Childs 2000, en anglais) :* banana, banana tree. <span class="ks-src">Keita 1979, p. 139; Paulme 1964, p. 11; Lexique kissi–français, p. 7</span>
+**{{bɔlɔɔ|r}}**<sup>2</sup> *n.* (o) — banane. *kissi du Sud (Childs 2000, en anglais) :* banana, banana tree. Variantes : *bɔlɔlɛ* (Guéckédou). <span class="ks-src">Keita 1979, p. 139; Paulme 1964, p. 11; Lexique kissi–français, p. 7</span>
 
 **{{bɔ́lɔ́-pɔ́mbɔ̀ɔ́|s}}** *n.* (o) — **kissi du Sud seulement** — banane naine, petite variété. <span class="ks-src">Childs 2000, p. 27</span>
 
@@ -1116,7 +1116,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{bungɛi}}** *n.* (i), pl. {{bungan}} — part, morceau, portion ; lobe (du foie). *kissi du Sud (Childs 2000, en anglais) :* area, section, plot, portion; also promise, vow. <span class="ks-src">[Jos 17,14](https://www.bible.com/bible/1394/JOS.17.14.BKG)</span>
 
-**{{buŋabotema|r}}** *n.* — pourghère (arbuste). Autres formes : *bukabɔtema*. <span class="ks-src">Paulme 1964, p. 14 (G)</span>
+**{{buŋabotema|r}}** *n.* — pourghère (arbuste). Autres formes : *bukabɔtema*. Variantes : *dɔmndo* (Kissidougou). <span class="ks-src">Paulme 1964, p. 14 (G)</span>
 
 **{{bùŋbùŋndó|s}}** *n.* (o), pl. {{bùŋbùŋndé|s}} — **kissi du Sud seulement** — petit arbre peu commun. <span class="ks-src">Childs 2000, p. 33</span>
 
@@ -1356,7 +1356,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{cɛi tollo|?}}** *n.* — maison en tôle. <span class="ks-src">Keita 1979, p. 142; Lexique kissi–français, p. 10</span>
 
-**{{cɛiyo}}** *n.* (o), pl. {{cɛilan}} — maison ; famille. Autres formes : *cɛi*, *cɛila*, *cɛinin*. <span class="ks-src">[Gn 33,17](https://www.bible.com/bible/1394/GEN.33.17.BKG)</span>
+**{{cɛiyo}}** *n.* (o), pl. {{cɛilan}} — maison ; famille. Autres formes : *cɛi*, *cɛila*, *cɛinin*. Variantes : *kiɛyo* (Kissidougou). <span class="ks-src">[Gn 33,17](https://www.bible.com/bible/1394/GEN.33.17.BKG)</span>
 
 **{{cɛ́kɛ́lɛ́}}** *adv.* — entièrement, à fond (laver, se laver). <span class="ks-src">[Lv 6,21](https://www.bible.com/bible/1394/LEV.6.21.BKG)</span>
 
@@ -1436,7 +1436,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{cieo balɔɔ|r}}** *n.* — siège (d'une ville). <span class="ks-src">Terminologie (histoire), n° 575</span>
 
-**{{cieo}}** *n.* (o), pl. {{cieon}} — village, ville ; cité. Autres formes : *ciee*. <span class="ks-src">[Gn 15,7](https://www.bible.com/bible/1394/GEN.15.7.BKG)</span>
+**{{cieo}}** *n.* (o), pl. {{cieon}} — village, ville ; cité. Autres formes : *ciee*. Variantes : *cɛɔ* (Kissidougou), *cɔ* (Guéckédou). <span class="ks-src">[Gn 15,7](https://www.bible.com/bible/1394/GEN.15.7.BKG)</span>
 
 **{{ciɛɛŋɔnndo|r}}** *n.* — revendication. <span class="ks-src">Terminologie (histoire), n° 552</span>
 
@@ -1468,7 +1468,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{cììmàá|s}}** *v.* — **kissi du Sud seulement** — frotter avec les mains, presser, tordre (le linge). <span class="ks-src">Childs 2000, p. 45</span>
 
-**{{ciimbuu}}** *v.* — voler, dérober. <span class="ks-src">[Gn 31,19](https://www.bible.com/bible/1394/GEN.31.19.BKG)</span>
+**{{ciimbuu}}** *v.* — voler, dérober. Variantes : *kimbu* (Kissidougou), *kiimbu* (Kissidougou), *timbu* (Guéckédou). <span class="ks-src">[Gn 31,19](https://www.bible.com/bible/1394/GEN.31.19.BKG)</span>
 
 **{{ciimiaa}}** *v.* — écraser, piétiner ; réduire en poudre ; frotter (le linge entre les mains). *kissi du Sud (Childs 2000, en anglais) :* rub with the hands, press, squeeze (plural of cììmàá). <span class="ks-src">[2 R 14,9](https://www.bible.com/bible/1394/2KI.14.9.BKG)</span>
 
@@ -1564,7 +1564,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{colɔɔ|r}}**<sup>1</sup> *v.* — mordre. Autres formes : *cal*. <span class="ks-src">Lexique kissi–français, p. 10</span>
 
-**{{colɔɔ|r}}**<sup>2</sup> *v.* — couper ; (colu) se couper. Autres formes : *colu*, *calu*. <span class="ks-src">Lexique kissi–français, p. 10; Sandara Kisia, fable 11</span>
+**{{colɔɔ|r}}**<sup>2</sup> *v.* — couper ; (colu) se couper. Autres formes : *colu*, *calu*. Variantes : *corɔɔ* (avec r), *coru*. <span class="ks-src">Lexique kissi–français, p. 10; Sandara Kisia, fable 11</span>
 
 **{{colundo|r}}** *n.* (o) — arbre très inflammable (écorce contre la toux et pour des remèdes). <span class="ks-src">Paulme 1964, p. 115</span>
 
@@ -1636,7 +1636,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{co}}** *v.* — être ; auxiliaire du progressif. *kissi du Sud (Childs 2000, en anglais) :* also future auxiliary. <span class="ks-src">[Gn 1,7](https://www.bible.com/bible/1394/GEN.1.7.BKG)</span>
 
-**{{cɔcɔɛi}}** *n.* (i), pl. {{cɔcɔn}} — lèvre ; bord, ourlet ; bec. *kissi du Sud (Childs 2000, en anglais) :* lip; beak, bill (also of a cap). <span class="ks-src">[Ex 28,33](https://www.bible.com/bible/1394/EXO.28.33.BKG)</span>
+**{{cɔcɔɛi}}** *n.* (i), pl. {{cɔcɔn}} — lèvre ; bord, ourlet ; bec. *kissi du Sud (Childs 2000, en anglais) :* lip; beak, bill (also of a cap). Variantes : *kuekue* (Kissidougou). <span class="ks-src">[Ex 28,33](https://www.bible.com/bible/1394/EXO.28.33.BKG)</span>
 
 **{{cɔ́cɔ̀l|s}}** *adv.* — **kissi du Sud seulement** — la nuit dernière. <span class="ks-src">Childs 2000, p. 54</span>
 
@@ -1750,7 +1750,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{cɔ̀ɔ́|s}}**<sup>2</sup> *v.* — **kissi du Sud seulement** — être gros, épais, corpulent. <span class="ks-src">Childs 2000, p. 58</span>
 
-**{{cɔpiyo|r}}** *n.*, pl. {{cɔpiya|r}} — écureuil. <span class="ks-src">Paulme 1964, p. 114 (G)</span>
+**{{cɔpiyo|r}}** *n.*, pl. {{cɔpiya|r}} — écureuil. Variantes : *luŋo* (Kissidougou). <span class="ks-src">Paulme 1964, p. 114 (G)</span>
 
 **{{cɔunkpɛɛŋɔɔ|r}}** *n.* (o) — potier. <span class="ks-src">Lexique kissi–français, p. 11</span>
 
@@ -1908,7 +1908,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{cuŋio|r}}** *v.* — jeter (de l'eau, des restes), vider, verser ; jeter par terre, déposer. Autres formes : *cuŋ*. <span class="ks-src">Paulme 1964, p. 116; Lexique kissi–français, p. 12</span>
 
-**{{cuŋo|r}}** *n.*, pl. {{coŋula|r}} — bras (sans l'avant-bras). <span class="ks-src">Paulme 1964, p. 116 (G/K)</span>
+**{{cuŋo|r}}** *n.*, pl. {{coŋula|r}} — bras (sans l'avant-bras). Variantes : *cɔŋo* (Guéckédou). <span class="ks-src">Paulme 1964, p. 116 (G/K)</span>
 
 **{{cùó|s}}** *n.* (o), pl. {{cùléŋ|s}} — **kissi du Sud seulement** — cuillère, louche. <span class="ks-src">Childs 2000, p. 67</span>
 
@@ -2120,7 +2120,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{dɛndɔɔ|r}}** *n.* (o), pl. {{dɛndɛlan|r}} — houe. <span class="ks-src">Keita 1979, p. 159; Paulme 1964, p. 17; Lexique kissi–français, p. 13</span>
 
-**{{dɛ̀ndɔ̀ɔ́}}** *n.* (o), pl. {{dɛ̀ndɛ̀lan}} — pirogue, bateau ; arche. *kissi du Sud (Childs 2000, en anglais) :* canoe, boat; also an airplane. Autres formes : *dɛ̀ndɛ̀*. <span class="ks-src">[Gn 6,14](https://www.bible.com/bible/1394/GEN.6.14.BKG)</span>
+**{{dɛ̀ndɔ̀ɔ́}}** *n.* (o), pl. {{dɛ̀ndɛ̀lan}} — pirogue, bateau ; arche. *kissi du Sud (Childs 2000, en anglais) :* canoe, boat; also an airplane. Autres formes : *dɛ̀ndɛ̀*. Variantes : *dɛndoo* (Guéckédou). <span class="ks-src">[Gn 6,14](https://www.bible.com/bible/1394/GEN.6.14.BKG)</span>
 
 **{{dɛnɛkɛndo|r}}** *n.* — pays des bons après la mort (à l'est). <span class="ks-src">Paulme 1964, p. 18</span>
 
@@ -2172,7 +2172,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{diɛɛmoo|r}}** *n.* — rival ; (diɛɛmaɛi) rivalité. Autres formes : *diɛɛmaɛi*. <span class="ks-src">Terminologie (histoire), n° 555</span>
 
-**{{diɛɛmulen}}** *n.* (len) — langue (organe). <span class="ks-src">[Jb 20,12](https://www.bible.com/bible/1394/JOB.20.12.BKG)</span>
+**{{diɛɛmulen}}** *n.* (len) — langue (organe). Variantes : *dɛmule* (Kissidougou), *diamule* (Guéckédou). <span class="ks-src">[Jb 20,12](https://www.bible.com/bible/1394/JOB.20.12.BKG)</span>
 
 **{{diɛmbe|r}}** *n.* — tambour de danse. Autres formes : *yimbo*. <span class="ks-src">Paulme 1964, p. 19</span>
 
@@ -2326,7 +2326,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{diondɔɔ}}** *v.* — être pur, devenir propre ; briller, être blanc ; (nom) éclat, blancheur, gloire. *kissi du Sud (Childs 2000, en anglais) :* be clean, shine, be white; fade (Childs lists dendu, diandu, dindu as forms). Autres formes : *diandu*, *diandunin*, *diondu*. <span class="ks-src">[Lv 10,3](https://www.bible.com/bible/1394/LEV.10.3.BKG)</span>
 
-**{{dioo}}** *v.* — manger. *kissi du Sud (Childs 2000, en anglais) :* eat, consume, use up. Autres formes : *dio*, *de*, *dia*, *di*, *dianin*, *dinin*. <span class="ks-src">[Gn 2,16](https://www.bible.com/bible/1394/GEN.2.16.BKG)</span>
+**{{dioo}}** *v.* — manger. *kissi du Sud (Childs 2000, en anglais) :* eat, consume, use up. Autres formes : *dio*, *de*, *dia*, *di*, *dianin*, *dinin*. Variantes : *doo* (Kissidougou). <span class="ks-src">[Gn 2,16](https://www.bible.com/bible/1394/GEN.2.16.BKG)</span>
 
 **{{dio|?}}**<sup>1</sup> *n.* — porte. <span class="ks-src">Lexique kissi–français, p. 13</span>
 
@@ -2364,7 +2364,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{dòkpòó|s}}** *n.* (o), pl. {{dòkpòláŋ|s}} — **kissi du Sud seulement** — farine de riz pilé ; pain de riz. <span class="ks-src">Childs 2000, p. 86</span>
 
-**{{dokpo|r}}** *n.* — riz paddy (?). Autres formes : *dukpo*. <span class="ks-src">Paulme 1964, p. 20 (K)</span>
+**{{dokpo|r}}** *n.* — riz paddy (?). Autres formes : *dukpo*. Variantes : *dukpo* (Guéckédou). <span class="ks-src">Paulme 1964, p. 20 (K)</span>
 
 **{{dólàá|s}}** *n.* (o), pl. {{dólàláŋ|s}} — **kissi du Sud seulement** — bobine de fil du tisserand. <span class="ks-src">Childs 2000, p. 86</span>
 
@@ -2690,7 +2690,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{fano|r}}** *n.* — beau-frère. <span class="ks-src">Paulme 1964, p. 25 (G)</span>
 
-**{{fanudo|r}}** *n.* — sabre. Autres formes : *fando*. <span class="ks-src">Paulme 1964, p. 26 (K)</span>
+**{{fanudo|r}}** *n.* — sabre. Autres formes : *fando*. Variantes : *fando* (Guéckédou). <span class="ks-src">Paulme 1964, p. 26 (K)</span>
 
 **{{fan|r}}** *adj.* — rapide, prompt. <span class="ks-src">Lexique kissi–français, p. 14</span>
 
@@ -2924,7 +2924,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{fola}}** *v.* — manquer de, être privé de ; perdre. Autres formes : *folanin*, *folan*. <span class="ks-src">[Es 51,14](https://www.bible.com/bible/1394/ISA.51.14.BKG)</span>
 
-**{{folio}}** *n.* (o) — grossesse. *kissi du Sud (Childs 2000, en anglais) :* pregnancy; also crab's shell. <span class="ks-src">[Gn 4,1](https://www.bible.com/bible/1394/GEN.4.1.BKG)</span>
+**{{folio}}** *n.* (o) — grossesse. *kissi du Sud (Childs 2000, en anglais) :* pregnancy; also crab's shell. Variantes : *puriɛ* (Kissidougou). <span class="ks-src">[Gn 4,1](https://www.bible.com/bible/1394/GEN.4.1.BKG)</span>
 
 **{{fòlìó|s}}** *n.* (o), pl. {{fòlìláŋ|s}} — **kissi du Sud seulement** — carapace (dos) du crabe. <span class="ks-src">Childs 2000, p. 107</span>
 
@@ -3058,7 +3058,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{fulal}}** *v.* — apparaître à, se montrer à ; surgir contre, tomber sur (l'ennemi). *kissi du Sud (Childs 2000, en anglais) :* go out for someone. Autres formes : *fulal-le*. <span class="ks-src">[Jg 13,3](https://www.bible.com/bible/1394/JDG.13.3.BKG)</span>
 
-**{{fula}}** *v.* — sortir ; venir de, provenir ; apparaître. *kissi du Sud (Childs 2000, en anglais) :* go or come out, leave; also shine (sun), beat (heart); resemble. Autres formes : *fulanin*, *fulan*. <span class="ks-src">[Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG)</span>
+**{{fula}}** *v.* — sortir ; venir de, provenir ; apparaître. *kissi du Sud (Childs 2000, en anglais) :* go or come out, leave; also shine (sun), beat (heart); resemble. Autres formes : *fulanin*, *fulan*. Variantes : *fura* (avec r). <span class="ks-src">[Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG)</span>
 
 **{{fulen|r}}** *n.*, pl. {{fulan|r}} — fleur. Autres formes : *fuo*. <span class="ks-src">Paulme 1964, p. 28</span>
 
@@ -3340,7 +3340,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{hɛlul}}** *v.* — choisir pour (qqn) ; (hɛlulun) se choisir. *kissi du Sud (Childs 2000, en anglais) :* select for someone (variant hɛlul). Autres formes : *hɛlulun*. <span class="ks-src">[Ex 17,9](https://www.bible.com/bible/1394/EXO.17.9.BKG)</span>
 
-**{{hɛlun}}** *v.* — échapper, survivre. Autres formes : *helun*, *helunnin*. <span class="ks-src">[Jb 1,17](https://www.bible.com/bible/1394/JOB.1.17.BKG)</span>
+**{{hɛlun}}** *v.* — échapper, survivre. Autres formes : *helun*, *helunnin*. Variantes : *hɛrun* (avec r). <span class="ks-src">[Jb 1,17](https://www.bible.com/bible/1394/JOB.1.17.BKG)</span>
 
 **{{hɛ̀lùŋndó|s}}** *n.* (o), pl. {{hɛ̀lùŋndá|s}} — **kissi du Sud seulement** — chevrotain aquatique. <span class="ks-src">Childs 2000, p. 122</span>
 
@@ -3394,11 +3394,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{hìlló|s}}** *n.* (o) — **kissi du Sud seulement** — termitière (en champignon). <span class="ks-src">Childs 2000, p. 125</span>
 
-**{{hiluan}}** *n.* — envie, convoitise (de nourriture, de viande), appétit. *kissi du Sud (Childs 2000, en anglais) :* greed, excessive appetite (esp. for meat and fish). <span class="ks-src">[Dt 12,20](https://www.bible.com/bible/1394/DEU.12.20.BKG)</span>
+**{{hiluan}}** *n.* — envie, convoitise (de nourriture, de viande), appétit. *kissi du Sud (Childs 2000, en anglais) :* greed, excessive appetite (esp. for meat and fish). Variantes : *hiruan* (avec r). <span class="ks-src">[Dt 12,20](https://www.bible.com/bible/1394/DEU.12.20.BKG)</span>
 
-**{{hilul}}** *v.* — haleter, être hors d'haleine ; être bouleversé, trembler. <span class="ks-src">[1 R 10,5](https://www.bible.com/bible/1394/1KI.10.5.BKG)</span>
+**{{hilul}}** *v.* — haleter, être hors d'haleine ; être bouleversé, trembler. Variantes : *hirul* (avec r). <span class="ks-src">[1 R 10,5](https://www.bible.com/bible/1394/1KI.10.5.BKG)</span>
 
-**{{hiluo|r}}** *v.* — secouer, agiter. Autres formes : *hilu*. <span class="ks-src">Lexique kissi–français, p. 18</span>
+**{{hiluo|r}}** *v.* — secouer, agiter. Autres formes : *hilu*. Variantes : *hiruo* (avec r), *hiru*. <span class="ks-src">Lexique kissi–français, p. 18</span>
 
 **{{hindo|r}}** *n.* — fièvre. <span class="ks-src">Paulme 1964, p. 34</span>
 
@@ -3444,7 +3444,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{hiɔɔlundɔɔ}}** *num.* — quatrième. Autres formes : *hiɔɔlundɔ*, *hiɔɔlundɔlen*, *hiɔɔlundɔɛi*. <span class="ks-src">[Ex 20,5](https://www.bible.com/bible/1394/EXO.20.5.BKG)</span>
 
-**{{hiɔɔlu}}** *num.* — quatre. <span class="ks-src">[Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG)</span>
+**{{hiɔɔlu}}** *num.* — quatre. Variantes : *nuɔlu* (Kissidougou), *ɲɔlu* (Guéckédou). <span class="ks-src">[Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG)</span>
 
 **{{hìɔ̀ɔ̀nɔ̌ŋndó|s}}** *v.* — **kissi du Sud seulement** — rentrer le ventre ; crâner, bluffer. <span class="ks-src">Childs 2000, p. 128</span>
 
@@ -3550,11 +3550,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{hɔ́lɔ̀bí|s}}** *adv.* — **kissi du Sud seulement** — beaucoup, énormément. <span class="ks-src">Childs 2000, p. 132</span>
 
-**{{hɔlɔɔ|r}}** *v.* — saisir, retirer qqch des mains de qqn. <span class="ks-src">Lexique kissi–français, p. 19</span>
+**{{hɔlɔɔ|r}}** *v.* — saisir, retirer qqch des mains de qqn. Variantes : *hɔrɔɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 19</span>
 
-**{{hɔlta kalalan|r}}** *n.* — dureté, cruauté ; avarice. <span class="ks-src">Lexique kissi–français, p. 19</span>
+**{{hɔlta kalalan|r}}** *n.* — dureté, cruauté ; avarice. Variantes : *hɔlta karalan* (avec r). <span class="ks-src">Lexique kissi–français, p. 19</span>
 
-**{{hɔlta vesɛlɛlan|r}}** *n.* — hardiesse, courage ; dureté. <span class="ks-src">Lexique kissi–français, p. 19</span>
+**{{hɔlta vesɛlɛlan|r}}** *n.* — hardiesse, courage ; dureté. Variantes : *hɔlta vesɛlɛran* (avec r). <span class="ks-src">Lexique kissi–français, p. 19</span>
 
 **{{hɔlten}}** *n.* (len), pl. {{hɔltan}} — œil ; (nɔ hɔlten … coo) veiller sur. Autres formes : *hɔlte*, *hɔlta*. <span class="ks-src">[Ex 21,26](https://www.bible.com/bible/1394/EXO.21.26.BKG)</span>
 
@@ -3606,7 +3606,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{huiyo}}** *v.* — tromper, trahir. *kissi du Sud (Childs 2000, en anglais) :* cheat, deceive; also break a promise. Autres formes : *hui*. <span class="ks-src">[Gn 29,25](https://www.bible.com/bible/1394/GEN.29.25.BKG)</span>
 
-**{{hulio|r}}**<sup>1</sup> *v.* — piler finement, réduire en purée. Autres formes : *huli*. <span class="ks-src">Lexique kissi–français, p. 20</span>
+**{{hulio|r}}**<sup>1</sup> *v.* — piler finement, réduire en purée. Autres formes : *huli*. Variantes : *hurio* (avec r), *huri*. <span class="ks-src">Lexique kissi–français, p. 20</span>
 
 **{{hulio|r}}**<sup>2</sup> *v.* — se salir, se couvrir de poussière ; (peau) desquamer. Autres formes : *huli*. <span class="ks-src">Lexique kissi–français, p. 19</span>
 
@@ -3854,7 +3854,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kádò|s}}** *idéo.* — **kissi du Sud seulement** — (saisir) d'un coup ; soudain. <span class="ks-src">Childs 2000, p. 143</span>
 
-**{{kafalaa}}** *v.* — croiser, replier (les mains) ; (kafalan) étreindre, saisir. Autres formes : *kafala*, *káfàlà*, *kafalanndo*. <span class="ks-src">[Pr 6,10](https://www.bible.com/bible/1394/PRO.6.10.BKG)</span>
+**{{kafalaa}}** *v.* — croiser, replier (les mains) ; (kafalan) étreindre, saisir. Autres formes : *kafala*, *káfàlà*, *kafalanndo*. Variantes : *kafara*. <span class="ks-src">[Pr 6,10](https://www.bible.com/bible/1394/PRO.6.10.BKG)</span>
 
 **{{kafalan}}** *n.* — injustice ; ruse, tromperie, mensonge. *kissi du Sud (Childs 2000, en anglais) :* cheating, deceit, trickery. <span class="ks-src">[Dt 24,17](https://www.bible.com/bible/1394/DEU.24.17.BKG)</span>
 
@@ -3886,7 +3886,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kalaa|r}}**<sup>3</sup> *v.* — déterrer ; creuser. *kissi du Sud (Childs 2000, en anglais) :* dig or pull out. <span class="ks-src">Keita 1979, p. 110; Lexique kissi–français, p. 21</span>
 
-**{{kalaa|?}}**<sup>4</sup> *v.* — pagayer. <span class="ks-src">Lexique kissi–français, p. 22</span>
+**{{kalaa|?}}**<sup>4</sup> *v.* — pagayer. Variantes : *karaa* (avec r). <span class="ks-src">Lexique kissi–français, p. 22</span>
 
 **{{kalabala|r}}** *n.* — objet magique (petite calebasse à couvercle contenant racines, feuilles et graisse). <span class="ks-src">Paulme 1964, p. 41</span>
 
@@ -3906,7 +3906,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kàlàmándàá|s}}** *n.* (o), pl. {{kàlàmándàŋ|s}} — **kissi du Sud seulement** — jardin clôturé ; aire de bain clôturée, bassine de bain. <span class="ks-src">Childs 2000, p. 145</span>
 
-**{{kalamɔɔ|r}}** *n.* (o) — maître coranique, pèlerin (el hadj) ; enseignant, maître. <span class="ks-src">Lexique kissi–français, p. 22</span>
+**{{kalamɔɔ|r}}** *n.* (o) — maître coranique, pèlerin (el hadj) ; enseignant, maître. Variantes : *karamɔɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 22</span>
 
 **{{kalamulan}}** *n.* — grammes. Autres formes : *kalamula*. <span class="ks-src">[Gn 24,22](https://www.bible.com/bible/1394/GEN.24.22.BKG)</span>
 
@@ -3918,7 +3918,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kalankafoo|r}}** *n.* (o) — revenant, esprit d'un mort. *kissi du Sud (Childs 2000, en anglais) :* ghost of a dead person not yet among the ancestors. Autres formes : *kalankafo*. <span class="ks-src">Keita 1979, p. 150; Lexique kissi–français, p. 21</span>
 
-**{{kalan te|?}}** *adv.* — pas bientôt. <span class="ks-src">Lexique kissi–français, p. 22</span>
+**{{kalan te|?}}** *adv.* — pas bientôt. Variantes : *karan te* (avec r). <span class="ks-src">Lexique kissi–français, p. 22</span>
 
 **{{kalaŋaa}}** *v.* — être déterré, mis à nu, retourné ; arracher, faire sortir. *kissi du Sud (Childs 2000, en anglais) :* (middle of 'dig up') be dug up, uprooted. Autres formes : *kalaŋan*, *kalaŋanin*, *kalaŋanndo*. <span class="ks-src">[2 S 22,16](https://www.bible.com/bible/1394/2SA.22.16.BKG)</span>
 
@@ -3928,7 +3928,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kale|r}}** *n.* — clan, nom de clan. <span class="ks-src">Paulme 1964, p. 39</span>
 
-**{{kalialahɔllo|r}}** *n.* — insecte fouisseur (qui s'attaque aux yeux). <span class="ks-src">Lexique kissi–français, p. 22</span>
+**{{kalialahɔllo|r}}** *n.* — insecte fouisseur (qui s'attaque aux yeux). Variantes : *karialahɔllo* (avec r). <span class="ks-src">Lexique kissi–français, p. 22</span>
 
 **{{kaliɲan|r}}** *n.* — battant en fer (instrument de musique des griotes). <span class="ks-src">Paulme 1964, p. 41</span>
 
@@ -3944,9 +3944,9 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kalɔɔ|r}}** *adj.* — vert, pas encore mûr. <span class="ks-src">Lexique kissi–français, p. 21</span>
 
-**{{kaluo|r}}** *adj.* — dur, difficile. Autres formes : *kala*. <span class="ks-src">Lexique kissi–français, p. 22; Sandara Kisia, fable 1</span>
+**{{kaluo|r}}** *adj.* — dur, difficile. Autres formes : *kala*. Variantes : *karuo* (avec r). <span class="ks-src">Lexique kissi–français, p. 22; Sandara Kisia, fable 1</span>
 
-**{{kamaa}}**<sup>1</sup> *n.* (o) — éléphant. <span class="ks-src">[1 R 10,18](https://www.bible.com/bible/1394/1KI.10.18.BKG)</span>
+**{{kamaa}}**<sup>1</sup> *n.* (o) — éléphant. Variantes : *sɛmbaa* (Kissidougou). <span class="ks-src">[1 R 10,18](https://www.bible.com/bible/1394/1KI.10.18.BKG)</span>
 
 **{{kamaa|?}}**<sup>2</sup> *n.* — cercle de gens assis (pour jouer ou raconter une histoire). <span class="ks-src">Lexique kissi–français, p. 21</span>
 
@@ -4018,7 +4018,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kangalanndo|r}}** *n.* (o) — obligation, devoir ; droit. <span class="ks-src">Terminologie (idéologie), n° 249</span>
 
-**{{kangalan}}** *adv.* — sûrement, certainement ; obligatoire, il faut. *kissi du Sud (Childs 2000, en anglais) :* truly; marks obligation, must. <span class="ks-src">[Gn 41,32](https://www.bible.com/bible/1394/GEN.41.32.BKG)</span>
+**{{kangalan}}** *adv.* — sûrement, certainement ; obligatoire, il faut. *kissi du Sud (Childs 2000, en anglais) :* truly; marks obligation, must. Variantes : *kangaran* (avec r). <span class="ks-src">[Gn 41,32](https://www.bible.com/bible/1394/GEN.41.32.BKG)</span>
 
 **{{kangbaa|r}}** *n.* — favoris, côtelettes (barbe). *kissi du Sud (Childs 2000, en anglais) :* sideburns; also an agreement with a deceitful person, promise. <span class="ks-src">Keita 1979, p. 15</span>
 
@@ -4060,9 +4060,9 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kàɲàá|s}}** *v.* — **kissi du Sud seulement** — ouvrir de force (bouche, porte), vérifier en ouvrant (épi) ; (kàɲàá hɔ̀ltéŋ) taquiner. <span class="ks-src">Childs 2000, p. 149</span>
 
-**{{kaolaa}}** *v.* — aimer. *kissi du Sud (Childs 2000, en anglais) :* love, be in love with. Autres formes : *kaola*. <span class="ks-src">[Gn 22,2](https://www.bible.com/bible/1394/GEN.22.2.BKG)</span>
+**{{kaolaa}}** *v.* — aimer. *kissi du Sud (Childs 2000, en anglais) :* love, be in love with. Autres formes : *kaola*. Variantes : *kaoraa* (avec r), *kaora*. <span class="ks-src">[Gn 22,2](https://www.bible.com/bible/1394/GEN.22.2.BKG)</span>
 
-**{{kaolianndo}}** *v.* — s'aimer l'un l'autre. Autres formes : *kaolian*. <span class="ks-src">[Rm 13,8](https://www.bible.com/bible/1394/ROM.13.8.BKG)</span>
+**{{kaolianndo}}** *v.* — s'aimer l'un l'autre. Autres formes : *kaolian*. Variantes : *kaorianndo* (avec r), *kaorian*. <span class="ks-src">[Rm 13,8](https://www.bible.com/bible/1394/ROM.13.8.BKG)</span>
 
 **{{kapitɛnnɔ|r}}** *n.* — capitaine. Autres formes : *kapitɛnnɔɔ*. <span class="ks-src">Lexique kissi–français, p. 21; Terminologie (histoire), n° 136</span>
 
@@ -4326,7 +4326,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kɛkɛ|r}}** *n.* — papa ; père. <span class="ks-src">Paulme 1964, p. 42 (G); Lexique kissi–français, p. 23</span>
 
-**{{kɛkulan|r}}** *n.* — coquilles d'œufs. <span class="ks-src">Lexique kissi–français, p. 23</span>
+**{{kɛkulan|r}}** *n.* — coquilles d'œufs. Variantes : *kɛkuran* (avec r). <span class="ks-src">Lexique kissi–français, p. 23</span>
 
 **{{kɛlatɛɛn leyulaa|r}}** *n.* — relation commerciale. Autres formes : *vellaavelle le yulaa*. <span class="ks-src">Terminologie (histoire), n° 529</span>
 
@@ -4354,7 +4354,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kɛmndan}}** *n.* (an) — rosée. <span class="ks-src">[Gn 27,28](https://www.bible.com/bible/1394/GEN.27.28.BKG)</span>
 
-**{{kɛm sɛlan|r}}** *n.* — coques des noix de palme. <span class="ks-src">Lexique kissi–français, p. 23</span>
+**{{kɛm sɛlan|r}}** *n.* — coques des noix de palme. Variantes : *kɛm sɛran* (avec r). <span class="ks-src">Lexique kissi–français, p. 23</span>
 
 **{{kɛndia}}** *n.* — santé, bien-être ; paix, sécurité ; (muungu kɛndia) revenir sain et sauf. *kissi du Sud (Childs 2000, en anglais) :* health, general well-being, being at peace with the ancestors. <span class="ks-src">[Gn 28,21](https://www.bible.com/bible/1394/GEN.28.21.BKG)</span>
 
@@ -4412,7 +4412,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kialaa}}** *v.* — juger ; (kialu yamɛi) rendre la justice. Autres formes : *kialu*, *kialunin*. <span class="ks-src">[Mt 7,1](https://www.bible.com/bible/1394/MAT.7.1.BKG)</span>
 
-**{{kiallo}}** *n.* (o), pl. {{kialla}} — gazelle, biche ; (kial piaandoo) cerf. *kissi du Sud (Childs 2000, en anglais) :* bushbuck, harnessed antelope. Autres formes : *kial*. <span class="ks-src">[Dt 14,5](https://www.bible.com/bible/1394/DEU.14.5.BKG)</span>
+**{{kiallo}}** *n.* (o), pl. {{kialla}} — gazelle, biche ; (kial piaandoo) cerf. *kissi du Sud (Childs 2000, en anglais) :* bushbuck, harnessed antelope. Autres formes : *kial*. Variantes : *callo* (Kissidougou). <span class="ks-src">[Dt 14,5](https://www.bible.com/bible/1394/DEU.14.5.BKG)</span>
 
 **{{kibaro|r}}** *n.* — nouvelle. <span class="ks-src">Lexique kissi–français, p. 24</span>
 
@@ -4466,7 +4466,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kílì-kílì|s}}** *idéo.* — **kissi du Sud seulement** — petits pas rapides (de petits animaux la nuit). <span class="ks-src">Childs 2000, p. 165</span>
 
-**{{kilio|r}}** *n.* (o) — tison (gardé pour rallumer le feu le lendemain) ; bois en partie brûlé. <span class="ks-src">Lexique kissi–français, p. 25</span>
+**{{kilio|r}}** *n.* (o) — tison (gardé pour rallumer le feu le lendemain) ; bois en partie brûlé. Variantes : *kirio* (avec r). <span class="ks-src">Lexique kissi–français, p. 25</span>
 
 **{{kìlìó|s}}** *n.* — **kissi du Sud seulement** — jeu de toupies. <span class="ks-src">Childs 2000, p. 165</span>
 
@@ -4524,7 +4524,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kìòlɔ̀ɔ́-ìkèíyó|s}}** *n.* (o) — **kissi du Sud seulement** — style de danse (« couper à l'intérieur »). <span class="ks-src">Childs 2000, p. 169</span>
 
-**{{kiolɔɔ}}** *v.* — couper ; trancher (une affaire), juger ; décider, trancher ; mordre. *kissi du Sud (Childs 2000, en anglais) :* cut, remove. Autres formes : *kiolu*, *kelu*, *kialu*, *kilu*, *kialunin*, *kial*. <span class="ks-src">[Gn 6,13](https://www.bible.com/bible/1394/GEN.6.13.BKG)</span>
+**{{kiolɔɔ}}** *v.* — couper ; trancher (une affaire), juger ; décider, trancher ; mordre. *kissi du Sud (Childs 2000, en anglais) :* cut, remove. Autres formes : *kiolu*, *kelu*, *kialu*, *kilu*, *kialunin*, *kial*. Variantes : *kil* (Kissidougou), *kɛl* (Guéckédou). <span class="ks-src">[Gn 6,13](https://www.bible.com/bible/1394/GEN.6.13.BKG)</span>
 
 **{{kioŋndo}}** *v.* — abattre (un arbre). *kissi du Sud (Childs 2000, en anglais) :* cut down; scar. Autres formes : *kioŋ*, *kioŋnun*. <span class="ks-src">[Dn 4,11](https://www.bible.com/bible/1394/DAN.4.11.BKG)</span>
 
@@ -4534,7 +4534,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kìó|s}}** *n.* (o), pl. {{kèláŋ|s}} — **kissi du Sud seulement** — don, offrande ; salaire du messager. <span class="ks-src">Childs 2000, p. 169</span>
 
-**{{kiɔndɔɔ}}** *v.* — cueillir. *kissi du Sud (Childs 2000, en anglais) :* pick or pluck. Autres formes : *kiɔndu*, *kiandu*, *kiandunin*, *kendu*. <span class="ks-src">[Lv 23,39](https://www.bible.com/bible/1394/LEV.23.39.BKG)</span>
+**{{kiɔndɔɔ}}** *v.* — cueillir. *kissi du Sud (Childs 2000, en anglais) :* pick or pluck. Autres formes : *kiɔndu*, *kiandu*, *kiandunin*, *kendu*. Variantes : *cɔndɔɔ* (Kissidougou). <span class="ks-src">[Lv 23,39](https://www.bible.com/bible/1394/LEV.23.39.BKG)</span>
 
 **{{kisɛi|r}}** *n.* (i) — piment. Autres formes : *kisai*, *kisan*. <span class="ks-src">Keita 1979, p. 139; Paulme 1964, p. 45; Lexique kissi–français, p. 25</span>
 
@@ -4588,7 +4588,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kolaa tondaa|r}}** *n.* — filature. <span class="ks-src">Terminologie (arts), n° 114</span>
 
-**{{kolaa}}** *n.* (o), pl. {{kolalan}} — pagne, tissu. <span class="ks-src">[Ex 26,7](https://www.bible.com/bible/1394/EXO.26.7.BKG)</span>
+**{{kolaa}}** *n.* (o), pl. {{kolalan}} — pagne, tissu. Variantes : *koraa* (Kissidougou, avec r), *tafeo* (Kissidougou). <span class="ks-src">[Ex 26,7](https://www.bible.com/bible/1394/EXO.26.7.BKG)</span>
 
 **{{kola buiyo|r}}** *n.* — jupon. *kissi du Sud (Childs 2000, en anglais) :* woman's under-wrapper worn as a slip. <span class="ks-src">Keita 1979, p. 144; Lexique kissi–français, p. 25</span>
 
@@ -4606,7 +4606,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kolapuundaa|r}}** *n.* — rideau. <span class="ks-src">Terminologie (arts), n° 219</span>
 
-**{{kola}}** *n.*, pl. {{kolalan}} — tissu, étoffe ; voile ; bande de coton ; pagne de femme. *kissi du Sud (Childs 2000, en anglais) :* standard piece of cloth, wrapper (lappa). Autres formes : *kolala*. <span class="ks-src">[Gn 38,14](https://www.bible.com/bible/1394/GEN.38.14.BKG)</span>
+**{{kola}}** *n.*, pl. {{kolalan}} — tissu, étoffe ; voile ; bande de coton ; pagne de femme. *kissi du Sud (Childs 2000, en anglais) :* standard piece of cloth, wrapper (lappa). Autres formes : *kolala*. Variantes : *kura* (Kissidougou). <span class="ks-src">[Gn 38,14](https://www.bible.com/bible/1394/GEN.38.14.BKG)</span>
 
 **{{kolein|r}}** *n.* — liane (liliacée). <span class="ks-src">Paulme 1964, p. 49</span>
 
@@ -4618,11 +4618,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kólíó-kólíó|s}}** *idéo.* — **kissi du Sud seulement** — grattage, raclage intense. <span class="ks-src">Childs 2000, p. 172</span>
 
-**{{kolio|r}}**<sup>1</sup> *n.* (o) — sauterelle. <span class="ks-src">Lexique kissi–français, p. 26</span>
+**{{kolio|r}}**<sup>1</sup> *n.* (o) — sauterelle. Variantes : *korio* (avec r). <span class="ks-src">Lexique kissi–français, p. 26</span>
 
 **{{kolio|r}}**<sup>2</sup> *v.* — couler, se noyer ; noyer. Autres formes : *koli*. <span class="ks-src">Lexique kissi–français, p. 25</span>
 
-**{{koliyolen|r}}** *n.* (len) — sorte de plante. <span class="ks-src">Lexique kissi–français, p. 26</span>
+**{{koliyolen|r}}** *n.* (len) — sorte de plante. Variantes : *koriyolen* (avec r). <span class="ks-src">Lexique kissi–français, p. 26</span>
 
 **{{kòlìyòmbòó|s}}** *n.* (o), pl. {{kòlìyòmbùéí|s}} — **kissi du Sud seulement** — espèce d'arbre (à ne pas toucher). <span class="ks-src">Childs 2000, p. 173</span>
 
@@ -4698,7 +4698,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kondu}}** *v.* — apporter, procurer ; attirer (un malheur) sur. *kissi du Sud (Childs 2000, en anglais) :* scoop up, draw (water); collect, pile together. Autres formes : *kondul*, *kondunin*, *kondullo*. <span class="ks-src">[Gn 18,4](https://www.bible.com/bible/1394/GEN.18.4.BKG)</span>
 
-**{{kongillo}}** *n.* (o), pl. {{kongilan}} — coq. Autres formes : *kongil*. <span class="ks-src">[Mt 26,74](https://www.bible.com/bible/1394/MAT.26.74.BKG)</span>
+**{{kongillo}}** *n.* (o), pl. {{kongilan}} — coq. Autres formes : *kongil*. Variantes : *kuŋilo* (Kissidougou). <span class="ks-src">[Mt 26,74](https://www.bible.com/bible/1394/MAT.26.74.BKG)</span>
 
 **{{kongio|?}}** *n.* — érosion. <span class="ks-src">Lexique kissi–français, p. 25</span>
 
@@ -4824,7 +4824,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kottoo|r}}** *n.* — institution. <span class="ks-src">Terminologie (histoire), n° 397</span>
 
-**{{kovɔlo|r}}** *n.* (o) — sorte d'instrument de musique. <span class="ks-src">Lexique kissi–français, p. 26</span>
+**{{kovɔlo|r}}** *n.* (o) — sorte d'instrument de musique. Variantes : *kovɔro* (avec r). <span class="ks-src">Lexique kissi–français, p. 26</span>
 
 **{{kovɔɔlan}}** *n.* — moisson, temps de la moisson. <span class="ks-src">[Jn 4,35](https://www.bible.com/bible/1394/JHN.4.35.BKG)</span>
 
@@ -4910,17 +4910,17 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kɔ̀lɔ̀kpòkpòó|s}}** *n.* (o), pl. {{kɔ̀lɔ̀kpòkpùá|s}} — **kissi du Sud seulement** — oiseau rouge et vert à crête rouge (ressemble au calao). <span class="ks-src">Childs 2000, p. 183</span>
 
-**{{kɔlɔlen|r}}** *n.* (len) — fouet. <span class="ks-src">Lexique kissi–français, p. 27</span>
+**{{kɔlɔlen|r}}** *n.* (len) — fouet. Variantes : *kɔrɔlen* (avec r). <span class="ks-src">Lexique kissi–français, p. 27</span>
 
 **{{kɔlɔlɔndɔɔ|r}}** *n.* (o) — mille-pattes. <span class="ks-src">Keita 1979, p. 136; Paulme 1964, p. 47; Lexique kissi–français, p. 27</span>
 
 **{{kɔ́lɔ̀-lɔ̀|s}}** *idéo.* — **kissi du Sud seulement** — bruit d'un liquide versé en abondance. <span class="ks-src">Childs 2000, p. 183</span>
 
-**{{kɔlɔŋndo|r}}** *n.* (o) — puits. <span class="ks-src">Keita 1979, p. 142; Paulme 1964, p. 50; Lexique kissi–français, p. 27</span>
+**{{kɔlɔŋndo|r}}** *n.* (o) — puits. Variantes : *kulɔndu* (Kissidougou). <span class="ks-src">Keita 1979, p. 142; Paulme 1964, p. 50; Lexique kissi–français, p. 27</span>
 
 **{{kɔlɔɔ kpeekpeiyo|r}}** *n.* — sens propre. <span class="ks-src">Terminologie (langue), n° 369</span>
 
-**{{kɔlɔɔ}}**<sup>1</sup> *n.* (o) — affaire, cause, raison ; (le kɔlɔ yɛɛ) pourquoi ; explication, but. *kissi du Sud (Childs 2000, en anglais) :* meaning, significance, rationale. Autres formes : *kɔlɔ*. <span class="ks-src">[Gn 9,5](https://www.bible.com/bible/1394/GEN.9.5.BKG)</span>
+**{{kɔlɔɔ}}**<sup>1</sup> *n.* (o) — affaire, cause, raison ; (le kɔlɔ yɛɛ) pourquoi ; explication, but. *kissi du Sud (Childs 2000, en anglais) :* meaning, significance, rationale. Autres formes : *kɔlɔ*. Variantes : *kɔrɔɔ* (avec r). <span class="ks-src">[Gn 9,5](https://www.bible.com/bible/1394/GEN.9.5.BKG)</span>
 
 **{{kɔlɔɔ|r}}**<sup>2</sup> *n.* — pépinière. <span class="ks-src">Lexique kissi–français, p. 27</span>
 
@@ -4982,7 +4982,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kɔngɔɔ}}** *n.* (o) — rivage, rive, bord. *kissi du Sud (Childs 2000, en anglais) :* bank, shore, dry land; the higher ground around a swamp. <span class="ks-src">[Gn 41,2](https://www.bible.com/bible/1394/GEN.41.2.BKG)</span>
 
-**{{kɔngɔsila|r}}** *n.* — tortue. <span class="ks-src">Lexique kissi–français, p. 27</span>
+**{{kɔngɔsila|r}}** *n.* — tortue. Variantes : *kɔngɔsira* (avec r). <span class="ks-src">Lexique kissi–français, p. 27</span>
 
 **{{kɔngɔ}}** *n.* — terre ferme ; rive, bord (de l'eau). *kissi du Sud (Childs 2000, en anglais) :* bank, shore, dry land; higher ground around a swamp. <span class="ks-src">[Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG)</span>
 
@@ -5164,7 +5164,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpádì|s}}** *idéo.* — **kissi du Sud seulement** — très maigre. <span class="ks-src">Childs 2000, p. 203</span>
 
-**{{kpafalaa|r}}** *n.* — sorte d'aigle. <span class="ks-src">Lexique kissi–français, p. 27</span>
+**{{kpafalaa|r}}** *n.* — sorte d'aigle. Variantes : *kpafaraa* (avec r). <span class="ks-src">Lexique kissi–français, p. 27</span>
 
 **{{kpafaranama|r}}** *n.* — gouverneur. <span class="ks-src">Lexique kissi–français, p. 27; Terminologie (idéologie), n° 324</span>
 
@@ -5202,9 +5202,9 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpàléíyé|s}}** *n.* (i), pl. {{kpàléíyóŋ|s}} — **kissi du Sud seulement** — riz de semence (non battu). <span class="ks-src">Childs 2000, p. 204</span>
 
-**{{kpalillen|r}}** *n.* (len) — travail de geôlier, garde. <span class="ks-src">Lexique kissi–français, p. 28</span>
+**{{kpalillen|r}}** *n.* (len) — travail de geôlier, garde. Variantes : *kparillen* (avec r). <span class="ks-src">Lexique kissi–français, p. 28</span>
 
-**{{kpalillo}}** *n.* (o) — garde, surveillance ; geôlier. <span class="ks-src">[Gn 3,24](https://www.bible.com/bible/1394/GEN.3.24.BKG)</span>
+**{{kpalillo}}** *n.* (o) — garde, surveillance ; geôlier. Variantes : *kparillo* (avec r). <span class="ks-src">[Gn 3,24](https://www.bible.com/bible/1394/GEN.3.24.BKG)</span>
 
 **{{kpalilnɔɔ}}** *n.* (o), pl. {{kpalilaa}} — gardien, sentinelle. <span class="ks-src">[2 S 18,24](https://www.bible.com/bible/1394/2SA.18.24.BKG)</span>
 
@@ -5232,7 +5232,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpándàá|s}}** *n.* (o) — **kissi du Sud seulement** — part qui reste après un partage ; récipient à moitié plein. <span class="ks-src">Childs 2000, p. 205</span>
 
-**{{kpandilen|r}}** *n.* (len) — patate douce. <span class="ks-src">Keita 1979, p. 139; Paulme 1964, p. 77 (G/K); Lexique kissi–français, p. 28</span>
+**{{kpandilen|r}}** *n.* (len) — patate douce. Variantes : *padile* (Guéckédou), *kpadile* (Kissidougou). <span class="ks-src">Keita 1979, p. 139; Paulme 1964, p. 77 (G/K); Lexique kissi–français, p. 28</span>
 
 **{{kpando|r}}** *n.* — arbre (Myrianthus libericus). <span class="ks-src">Paulme 1964, p. 31</span>
 
@@ -5242,7 +5242,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpangbaɲaala}}** *n.* — puce. *kissi du Sud (Childs 2000, en anglais) :* bed bugs. Autres formes : *kpangbaɲaalaa*. <span class="ks-src">[1 S 24,15](https://www.bible.com/bible/1394/1SA.24.15.BKG)</span>
 
-**{{kpankpaa ɲala|r}}** *n.* — punaises (de lit). <span class="ks-src">Lexique kissi–français, p. 28</span>
+**{{kpankpaa ɲala|r}}** *n.* — punaises (de lit). Variantes : *kpankpaa ɲara* (avec r). <span class="ks-src">Lexique kissi–français, p. 28</span>
 
 **{{kpannde}}** *n.* (i) — joue ; tempe (Keita) ; mâchoire. *kissi du Sud (Childs 2000, en anglais) :* temple (upper cheek). <span class="ks-src">[Lm 3,30](https://www.bible.com/bible/1394/LAM.3.30.BKG)</span>
 
@@ -5352,7 +5352,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpélóó|s}}** *n.* (o), pl. {{kpéléláŋ|s}} — **kissi du Sud seulement** — jardin, potager. <span class="ks-src">Childs 2000, p. 210</span>
 
-**{{kpelo|r}}** *n.* (o) — couchette surélevée dans la case. <span class="ks-src">Lexique kissi–français, p. 28</span>
+**{{kpelo|r}}** *n.* (o) — couchette surélevée dans la case. Variantes : *kpero* (avec r). <span class="ks-src">Lexique kissi–français, p. 28</span>
 
 **{{kpemaa}}** *n.* (o) — pacte, alliance. *kissi du Sud (Childs 2000, en anglais) :* pact, covenant; also a vow. Autres formes : *kpema*, *kpemala*. <span class="ks-src">[Gn 9,9](https://www.bible.com/bible/1394/GEN.9.9.BKG)</span>
 
@@ -5444,7 +5444,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpɛlanbɛlɛndo|r}}** *n.* — plante (feuilles utilisées dans le kave kundo). <span class="ks-src">Paulme 1964, p. 31</span>
 
-**{{kpɛlan|r}}** *n.* — entrave en bois (pour maîtriser les fous). <span class="ks-src">Lexique kissi–français, p. 28</span>
+**{{kpɛlan|r}}** *n.* — entrave en bois (pour maîtriser les fous). Variantes : *kpɛran* (avec r). <span class="ks-src">Lexique kissi–français, p. 28</span>
 
 **{{kpɛ̀lɛ̀ŋndéŋ|s}}** *n.* (le) — **kissi du Sud seulement** — plante servant à faire des flèches. Autres formes : *kpɛ̀lɛ̀ŋndé*. <span class="ks-src">Childs 2000, p. 212</span>
 
@@ -5452,7 +5452,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpɛmɔɔ|r}}** *n.* — tabouret. <span class="ks-src">Lexique kissi–français, p. 28</span>
 
-**{{kpɛmɔ|r}}** *n.* — siège. Autres formes : *kpɛmbɛo*. <span class="ks-src">Paulme 1964, p. 31 (K)</span>
+**{{kpɛmɔ|r}}** *n.* — siège. Autres formes : *kpɛmbɛo*. Variantes : *kpɛmbɛo* (Guéckédou). <span class="ks-src">Paulme 1964, p. 31 (K)</span>
 
 **{{kpɛndɛi}}** *n.* (i) — côte. <span class="ks-src">[Gn 2,21](https://www.bible.com/bible/1394/GEN.2.21.BKG)</span>
 
@@ -5540,7 +5540,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kpokoloo|r}}** *n.* (o) — latérite servant au maquillage. <span class="ks-src">Keita 1979, p. 144; Lexique kissi–français, p. 29</span>
 
-**{{kpokolo|r}}** *n.* — moquerie, exclamation. <span class="ks-src">Lexique kissi–français, p. 29</span>
+**{{kpokolo|r}}** *n.* — moquerie, exclamation. Variantes : *kpokoro* (avec r). <span class="ks-src">Lexique kissi–français, p. 29</span>
 
 **{{kpókòló|s}}** *idéo.* — **kissi du Sud seulement** — bruit d'un coup, de noix de palme qu'on casse. <span class="ks-src">Childs 2000, p. 215</span>
 
@@ -5858,7 +5858,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kulaa}}**<sup>2</sup> *v.* — rugir, gronder, crier. *kissi du Sud (Childs 2000, en anglais) :* shout, yell; cheer or jeer. Autres formes : *kula*, *kulanndo*. <span class="ks-src">[Jr 6,23](https://www.bible.com/bible/1394/JER.6.23.BKG)</span>
 
-**{{kulanko|r}}** *n.* — sorte d'araignée (tarentule). <span class="ks-src">Lexique kissi–français, p. 30</span>
+**{{kulanko|r}}** *n.* — sorte d'araignée (tarentule). Variantes : *kuranko* (avec r). <span class="ks-src">Lexique kissi–français, p. 30</span>
 
 **{{kulanndo}}** *v.* — se vanter ; fierté. <span class="ks-src">[Ps 49,19](https://www.bible.com/bible/1394/PSA.49.19.BKG)</span>
 
@@ -5882,7 +5882,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kulio|r}}**<sup>1</sup> *n.* (o) — arbre à bois dur (on y taille le tambour kɛnde). <span class="ks-src">Paulme 1964, p. 51</span>
 
-**{{kulio|r}}**<sup>2</sup> *v.* — prendre, voler (surtout du vin de palme) ; récolter le vin de palme. Autres formes : *kuli*. <span class="ks-src">Lexique kissi–français, p. 30</span>
+**{{kulio|r}}**<sup>2</sup> *v.* — prendre, voler (surtout du vin de palme) ; récolter le vin de palme. Autres formes : *kuli*. Variantes : *kurio* (avec r), *kuri*. <span class="ks-src">Lexique kissi–français, p. 30</span>
 
 **{{kulle}}** *n.* (i), pl. {{kullon}} — graine ; graine, semence ; fruit. *kissi du Sud (Childs 2000, en anglais) :* seed (generic). Autres formes : *kulun*. <span class="ks-src">[1 Co 15,37](https://www.bible.com/bible/1394/1CO.15.37.BKG)</span>
 
@@ -5896,11 +5896,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kulu kpɛsɔ|r}}** *n.* — arbre (bois dont on taille des cure-dents). <span class="ks-src">Paulme 1964, p. 53</span>
 
-**{{kúlù-kùlù}}** *idéo.* — sursaut (animal effrayé) ; à la hâte, soudain. <span class="ks-src">[Es 29,5](https://www.bible.com/bible/1394/ISA.29.5.BKG)</span>
+**{{kúlù-kùlù}}** *idéo.* — sursaut (animal effrayé) ; à la hâte, soudain. Variantes : *kuru-kuru* (avec r). <span class="ks-src">[Es 29,5](https://www.bible.com/bible/1394/ISA.29.5.BKG)</span>
 
 **{{kùlúkúlù}}** *n.* — chaleur brûlante. *kissi du Sud (Childs 2000, en anglais) :* heat. <span class="ks-src">[Ap 7,16](https://www.bible.com/bible/1394/REV.7.16.BKG)</span>
 
-**{{kululan|?}}** *n.* — noix de beurre (karité ?). <span class="ks-src">Lexique kissi–français, p. 30</span>
+**{{kululan|?}}** *n.* — noix de beurre (karité ?). Variantes : *kurulan* (avec r). <span class="ks-src">Lexique kissi–français, p. 30</span>
 
 **{{kulunkulunndo}}** *n.* (o) — margouillat (lézard). <span class="ks-src">[Lv 11,30](https://www.bible.com/bible/1394/LEV.11.30.BKG)</span>
 
@@ -5908,11 +5908,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{kulunndo|r}}**<sup>2</sup> *n.* (o) — espèce d'arbre dont les racines donnent une décoction contre le ténia. <span class="ks-src">Paulme 1964, p. 50</span>
 
-**{{kuluo|r}}**<sup>1</sup> *n.* (o) — cuillère. <span class="ks-src">Lexique kissi–français, p. 30</span>
+**{{kuluo|r}}**<sup>1</sup> *n.* (o) — cuillère. Variantes : *kuruo* (avec r). <span class="ks-src">Lexique kissi–français, p. 30</span>
 
 **{{kuluo|r}}**<sup>2</sup> *n.* — riz paddy. <span class="ks-src">Paulme 1964, p. 51 (K)</span>
 
-**{{kulutu-kulutu|r}}** *idéo.* — bruit de souris ou de cafards qui mangent, de soldats qui marchent. <span class="ks-src">Lexique kissi–français, p. 31</span>
+**{{kulutu-kulutu|r}}** *idéo.* — bruit de souris ou de cafards qui mangent, de soldats qui marchent. Variantes : *kurutu-kurutu* (avec r). <span class="ks-src">Lexique kissi–français, p. 31</span>
 
 **{{kúlú|?}}** *idéo.* — en abondance, bien plein.
 
@@ -6104,7 +6104,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 <div class="ks-dict" markdown="1">
 
-**{{laalanndo}}** *v.* — croire, avoir foi, se fier à ; foi. *kissi du Sud (Childs 2000, en anglais) :* believe, trust; be sure of. Autres formes : *laalan*, *laalannda*. <span class="ks-src">[Gn 15,6](https://www.bible.com/bible/1394/GEN.15.6.BKG)</span>
+**{{laalanndo}}** *v.* — croire, avoir foi, se fier à ; foi. *kissi du Sud (Childs 2000, en anglais) :* believe, trust; be sure of. Autres formes : *laalan*, *laalannda*. Variantes : *laaran*. <span class="ks-src">[Gn 15,6](https://www.bible.com/bible/1394/GEN.15.6.BKG)</span>
 
 **{{laalan ɲɛmcieendon|r}}** *n.* — matérialisme. <span class="ks-src">Terminologie (idéologie), n° 417</span>
 
@@ -6128,7 +6128,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{labɛngunin}}** *adv.* — dessous, en bas ; (o … labɛngunin) sous, aux pieds de. *kissi du Sud (Childs 2000, en anglais) :* under, between. Autres formes : *labɛngu*. <span class="ks-src">[2 R 4,27](https://www.bible.com/bible/1394/2KI.4.27.BKG)</span>
 
-**{{labɛngu}}** *adv.* — avec les pieds, sous les pieds. <span class="ks-src">[Ps 44,6](https://www.bible.com/bible/1394/PSA.44.6.BKG)</span>
+**{{labɛngu}}** *adv.* — avec les pieds, sous les pieds. Variantes : *rabɛngu* (avec r). <span class="ks-src">[Ps 44,6](https://www.bible.com/bible/1394/PSA.44.6.BKG)</span>
 
 **{{làbɛ́ŋù-níŋndó|s}}** *n.* (o) — **kissi du Sud seulement** — « entre les jambes » : euphémisme pour les parties génitales. <span class="ks-src">Childs 2000, p. 221</span>
 
@@ -6152,7 +6152,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lahakio}}** *adj.*, pl. {{lahakia}} — pécheur, coupable. <span class="ks-src">[Lc 19,7](https://www.bible.com/bible/1394/LUK.19.7.BKG)</span>
 
-**{{lahɔl|?}}** *v.* — se réveiller. <span class="ks-src">Lexique kissi–français, p. 45</span>
+**{{lahɔl|?}}** *v.* — se réveiller. Variantes : *rahɔl* (avec r). <span class="ks-src">Lexique kissi–français, p. 45</span>
 
 **{{lakafaa}}** *adj.* — injuste, trompeur, faux ; illégal. <span class="ks-src">[Ps 43,1](https://www.bible.com/bible/1394/PSA.43.1.BKG)</span>
 
@@ -6172,11 +6172,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lalaa|r}}** *n.* — crachat. <span class="ks-src">Lexique kissi–français, p. 31</span>
 
-**{{lalle}}** *n.* (i) — sueur. <span class="ks-src">[Gn 3,19](https://www.bible.com/bible/1394/GEN.3.19.BKG)</span>
+**{{lalle}}** *n.* (i) — sueur. Variantes : *lale* (Guéckédou). <span class="ks-src">[Gn 3,19](https://www.bible.com/bible/1394/GEN.3.19.BKG)</span>
 
 **{{lalumɛɔ|r}}** *n.* — armée. <span class="ks-src">Keita 1979, p. 156; Lexique kissi–français, p. 31; Terminologie (histoire), n° 69</span>
 
-**{{lalu|r}}** *v.* — accuser. <span class="ks-src">Lexique kissi–français, p. 31</span>
+**{{lalu|r}}** *v.* — accuser. Variantes : *laru* (avec r). <span class="ks-src">Lexique kissi–français, p. 31</span>
 
 **{{lámbáá|s}}** *n.* (o) — **kissi du Sud seulement** — espèce d'arbre (amer). <span class="ks-src">Childs 2000, p. 222</span>
 
@@ -6234,7 +6234,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lapitaa|r}}** *n.* — hôpital. <span class="ks-src">Lexique kissi–français, p. 31</span>
 
-**{{lapi}}** *adv.* — bien, clairement, de près ; beaucoup ; mieux. <span class="ks-src">[1 S 3,2](https://www.bible.com/bible/1394/1SA.3.2.BKG)</span>
+**{{lapi}}** *adv.* — bien, clairement, de près ; beaucoup ; mieux. Variantes : *rapi* (avec r). <span class="ks-src">[1 S 3,2](https://www.bible.com/bible/1394/1SA.3.2.BKG)</span>
 
 **{{lapɔw}}** *n.* — égarement, tromperie ; piège. <span class="ks-src">[Ga 6,7](https://www.bible.com/bible/1394/GAL.6.7.BKG)</span>
 
@@ -6278,11 +6278,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lawvo}}** *v.* — se précipiter, se hâter. Autres formes : *law*. <span class="ks-src">[Pr 19,2](https://www.bible.com/bible/1394/PRO.19.2.BKG)</span>
 
-**{{layɛn|r}}** *postp.* — parmi, entre, au milieu. <span class="ks-src">Lexique kissi–français, p. 45</span>
+**{{layɛn|r}}** *postp.* — parmi, entre, au milieu. Variantes : *rayɛn* (avec r). <span class="ks-src">Lexique kissi–français, p. 45</span>
 
 **{{layindɔɔ}}** *n.*, pl. {{layindɔa}} — charpente, menuiserie. <span class="ks-src">[Mt 13,55](https://www.bible.com/bible/1394/MAT.13.55.BKG)</span>
 
-**{{la}}** *pron.* — vous (sujet) ; pronom de la classe lan. <span class="ks-src">[Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG)</span>
+**{{la}}** *pron.* — vous (sujet) ; pronom de la classe lan. Variantes : *da* (Guéckédou). <span class="ks-src">[Gn 1,11](https://www.bible.com/bible/1394/GEN.1.11.BKG)</span>
 
 **{{lebɛngu}}** *adv.* — dessous, en dessous. *kissi du Sud (Childs 2000, en anglais) :* under, between. <span class="ks-src">[Jos 7,22](https://www.bible.com/bible/1394/JOS.7.22.BKG)</span>
 
@@ -6390,11 +6390,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{leyinndo}}** *n.* — flamme, feu ardent ; fournaise. Autres formes : *leyin*, *leyinndan*. <span class="ks-src">[Ex 9,8](https://www.bible.com/bible/1394/EXO.9.8.BKG)</span>
 
-**{{le}}**<sup>1</sup> *part.* — ne… pas (négation finale). Autres formes : *te*. <span class="ks-src">[Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG)</span>
+**{{le}}**<sup>1</sup> *part.* — ne… pas (négation finale). Autres formes : *te*. Variantes : *re* (avec r). <span class="ks-src">[Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG)</span>
 
 **{{le}}**<sup>2</sup> *prép.* — pour, à cause de ; contre ; comment ; pourquoi, parce que. <span class="ks-src">[Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG)</span>
 
-**{{lɛan}}** *n.* (an) — miel. <span class="ks-src">[1 S 14,25](https://www.bible.com/bible/1394/1SA.14.25.BKG)</span>
+**{{lɛan}}** *n.* (an) — miel. Variantes : *luɛn* (Kissidougou), *liɛn* (Guéckédou). <span class="ks-src">[1 S 14,25](https://www.bible.com/bible/1394/1SA.14.25.BKG)</span>
 
 **{{lɛ ba|?}}** *part.* — ne… plus. <span class="ks-src">Lexique kissi–français, p. 32</span>
 
@@ -6616,7 +6616,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lɔalaa}}** *v.* — accuser, dénoncer, calomnier. Autres formes : *lɔalu*, *lɔalunin*. <span class="ks-src">[Dn 3,8](https://www.bible.com/bible/1394/DAN.3.8.BKG)</span>
 
-**{{lɔalianndo|r}}** *v.* — s'accuser (l'un l'autre). Autres formes : *lɔalian*. <span class="ks-src">Lexique kissi–français, p. 32</span>
+**{{lɔalianndo|r}}** *v.* — s'accuser (l'un l'autre). Autres formes : *lɔalian*. Variantes : *lɔarianndo* (avec r), *lɔarian*. <span class="ks-src">Lexique kissi–français, p. 32</span>
 
 **{{lɔan}}** *n.* (an) — sommeil ; rêve. *kissi du Sud (Childs 2000, en anglais) :* sleep (verb). Autres formes : *lɔma*. <span class="ks-src">[Gn 2,21](https://www.bible.com/bible/1394/GEN.2.21.BKG)</span>
 
@@ -6634,7 +6634,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lɔlnun}}** *v.* — se coucher pour dormir, dormir ; passer la nuit. Autres formes : *lɔlnin*. <span class="ks-src">[Ps 4,9](https://www.bible.com/bible/1394/PSA.4.9.BKG)</span>
 
-**{{lɔloo}}** *n.* (o), pl. {{lɔlulan}} — cuisse. Autres formes : *lɔlu*. <span class="ks-src">[Gn 32,32](https://www.bible.com/bible/1394/GEN.32.32.BKG)</span>
+**{{lɔloo}}** *n.* (o), pl. {{lɔlulan}} — cuisse. Autres formes : *lɔlu*. Variantes : *lɔruo* (Kissidougou). <span class="ks-src">[Gn 32,32](https://www.bible.com/bible/1394/GEN.32.32.BKG)</span>
 
 **{{lɔlɔɔ}}** *v.* — dénoncer, accuser (auprès de qqn), parler contre ; se plaindre (de), réclamer. *kissi du Sud (Childs 2000, en anglais) :* envy, resent; grumble against someone. <span class="ks-src">[1 S 22,22](https://www.bible.com/bible/1394/1SA.22.22.BKG)</span>
 
@@ -6728,7 +6728,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{lulundo|r}}** *n.* (o) — arbuste (rubiacée, pêcher africain). <span class="ks-src">Paulme 1964, p. 60</span>
 
-**{{lumbian|r}}** *n.* (ma) — vin de raphia (piassava). <span class="ks-src">Paulme 1964, p. 22 (G/K)</span>
+**{{lumbian|r}}** *n.* (ma) — vin de raphia (piassava). Variantes : *dumbian* (Guéckédou). <span class="ks-src">Paulme 1964, p. 22 (G/K)</span>
 
 **{{lùmbɔ́ɔ́|s}}** *n.* (o), pl. {{lùmbíáŋ|s}} — **kissi du Sud seulement** — palmier raphia (piassava), qui donne du vin. <span class="ks-src">Childs 2000, p. 236</span>
 
@@ -6830,7 +6830,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{málàá|s}}** *n.* (o), pl. {{málàá|s}} — **kissi du Sud seulement** — appât de pêche (petits vers). Autres formes : *mâllá*. <span class="ks-src">Childs 2000, p. 240</span>
 
-**{{malalanndo|r}}** *v.* — s'aider soi-même. <span class="ks-src">Lexique kissi–français, p. 33</span>
+**{{malalanndo|r}}** *v.* — s'aider soi-même. Variantes : *maralanndo* (avec r). <span class="ks-src">Lexique kissi–français, p. 33</span>
 
 **{{malalɛi|r}}** *n.* (i) — pancréas (Keita). <span class="ks-src">Keita 1979, p. 132; Lexique kissi–français, p. 33</span>
 
@@ -7076,7 +7076,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{mɛlio}}** *v.* — faire tomber ; pousser (un cri). Autres formes : *mɛli*, *mɛlinin*. <span class="ks-src">[Dt 22,24](https://www.bible.com/bible/1394/DEU.22.24.BKG)</span>
 
-**{{mɛllo}}** *adj.* — gauche (o ba mɛllo coo « à gauche »). *kissi du Sud (Childs 2000, en anglais) :* left side. Autres formes : *mɛl*. <span class="ks-src">[Gn 13,9](https://www.bible.com/bible/1394/GEN.13.9.BKG)</span>
+**{{mɛllo}}** *adj.* — gauche (o ba mɛllo coo « à gauche »). *kissi du Sud (Childs 2000, en anglais) :* left side. Autres formes : *mɛl*. Variantes : *mɛlo* (Kissidougou), *mialo* (Guéckédou). <span class="ks-src">[Gn 13,9](https://www.bible.com/bible/1394/GEN.13.9.BKG)</span>
 
 **{{mɛmɛan}}** *n.* (an) — larmes. <span class="ks-src">[Ps 42,4](https://www.bible.com/bible/1394/PSA.42.4.BKG)</span>
 
@@ -7118,7 +7118,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{mɛ̀sɛ̀làá|s}}** *v.* — **kissi du Sud seulement** — être petit, maigrir ; réduire (en regroupant, en entassant). <span class="ks-src">Childs 2000, p. 248</span>
 
-**{{mɛsɛla|r}}** *adj.* — fin ; étroit. <span class="ks-src">Lexique kissi–français, p. 34</span>
+**{{mɛsɛla|r}}** *adj.* — fin ; étroit. Variantes : *mɛsɛra* (avec r). <span class="ks-src">Lexique kissi–français, p. 34</span>
 
 **{{mɛ́tɛ́lèíyó|s}}** *n.* (o), pl. {{mɛ́tɛ́lèíyá|s}} — **kissi du Sud seulement** — maître d'école, enseignant. <span class="ks-src">Childs 2000, p. 249</span>
 
@@ -7142,11 +7142,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{mílímáláá|s}}** *n.* (o) — **kissi du Sud seulement** — boue très épaisse. <span class="ks-src">Childs 2000, p. 250</span>
 
-**{{milinndo}}** *n.* (o) — nez. Autres formes : *milin*. <span class="ks-src">[Lv 13,45](https://www.bible.com/bible/1394/LEV.13.45.BKG)</span>
+**{{milinndo}}** *n.* (o) — nez. Autres formes : *milin*. Variantes : *mindo* (Guéckédou). <span class="ks-src">[Lv 13,45](https://www.bible.com/bible/1394/LEV.13.45.BKG)</span>
 
 **{{milionndo}}** *num.*, pl. {{milionndan}} — million. <span class="ks-src">[1 Ch 21,5](https://www.bible.com/bible/1394/1CH.21.5.BKG)</span>
 
-**{{milio|r}}** *n.* (o) — tambour ; grosse caisse. <span class="ks-src">Paulme 1964, p. 64; Lexique kissi–français, p. 35</span>
+**{{milio|r}}** *n.* (o) — tambour ; grosse caisse. Variantes : *mirio* (avec r). <span class="ks-src">Paulme 1964, p. 64; Lexique kissi–français, p. 35</span>
 
 **{{militannɔɔ|r}}** *n.* — militant ; (vau o militannden nin) militer. Autres formes : *militannden*. <span class="ks-src">Terminologie (idéologie), n° 425</span>
 
@@ -7172,7 +7172,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{miniisinɔɔ|r}}** *n.* — ministre ; (bilo miniisinɔɔ) ministère ; (miniisinɔ taso) Premier ministre. Autres formes : *bilo miniisinɔɔ*, *miniisinɔ taso*. <span class="ks-src">Terminologie (idéologie), n° 428</span>
 
-**{{minsɔlɔ|r}}** *n.* — foulard, voile, mouchoir de tête. <span class="ks-src">Lexique kissi–français, p. 35</span>
+**{{minsɔlɔ|r}}** *n.* — foulard, voile, mouchoir de tête. Variantes : *minsɔrɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 35</span>
 
 **{{min|?}}** *pron.* — nous (deux). <span class="ks-src">Paulme 1964, p. 64</span>
 
@@ -7500,7 +7500,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{nde}}** *n.* — mère (terme d'adresse : « Mère ! ») ; (aussi) sœur de la mère ou du père. <span class="ks-src">[1 R 2,20](https://www.bible.com/bible/1394/1KI.2.20.BKG)</span>
 
-**{{ndɛ le|?}}** *adv.* — non plus. <span class="ks-src">Lexique kissi–français, p. 37</span>
+**{{ndɛ le|?}}** *adv.* — non plus. Variantes : *ndɛ re* (avec r). <span class="ks-src">Lexique kissi–français, p. 37</span>
 
 **{{ndɛndɛmɔɔnɔɔ|r}}** *n.* — éclaireur. <span class="ks-src">Terminologie (histoire), n° 293</span>
 
@@ -7648,7 +7648,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{nila keltan|r}}** *n.* — herbe (espèce). <span class="ks-src">Paulme 1964, p. 68</span>
 
-**{{nilen}}** *n.* (len), pl. {{nilan}} — oreille. Autres formes : *nile*. <span class="ks-src">[Ex 29,20](https://www.bible.com/bible/1394/EXO.29.20.BKG)</span>
+**{{nilen}}** *n.* (len), pl. {{nilan}} — oreille. Autres formes : *nile*. Variantes : *nira* (Kissidougou). <span class="ks-src">[Ex 29,20](https://www.bible.com/bible/1394/EXO.29.20.BKG)</span>
 
 **{{nímí-nímí|s}}** *idéo.* — **kissi du Sud seulement** — bon, sucré (souvent par plaisanterie). <span class="ks-src">Childs 2000, p. 263</span>
 
@@ -7658,7 +7658,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ningilaa}}** *adj.* — luisant, (teint) éclatant ; gras, bien portant. *kissi du Sud (Childs 2000, en anglais) :* shining (?). Autres formes : *ningila*. <span class="ks-src">[1 S 17,42](https://www.bible.com/bible/1394/1SA.17.42.BKG)</span>
 
-**{{ningila|?}}** *adj.* — lisse. <span class="ks-src">Lexique kissi–français, p. 38</span>
+**{{ningila|?}}** *adj.* — lisse. Variantes : *ningira* (avec r). <span class="ks-src">Lexique kissi–français, p. 38</span>
 
 **{{ninginangaa}}** *n.* (o) — arc-en-ciel. <span class="ks-src">[Gn 9,13](https://www.bible.com/bible/1394/GEN.9.13.BKG)</span>
 
@@ -7708,7 +7708,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{nɔnnde salasiiya|r}}** *n.* — patrouille. <span class="ks-src">Terminologie (histoire), n° 482</span>
 
-**{{nɔnɔɔ}}** *n.* (o) — lait. <span class="ks-src">[Pr 30,33](https://www.bible.com/bible/1394/PRO.30.33.BKG)</span>
+**{{nɔnɔɔ}}** *n.* (o) — lait. Variantes : *nonuan* (Kissidougou). <span class="ks-src">[Pr 30,33](https://www.bible.com/bible/1394/PRO.30.33.BKG)</span>
 
 **{{nɔ o kɔl}}** *v.* — espérer, imaginer, penser à, avoir en mémoire. <span class="ks-src">Lexique kissi–français, p. 38</span>
 
@@ -7826,7 +7826,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ŋɔɛnŋɔɛn|r}}** *adj.* — autoritaire. <span class="ks-src">Terminologie (histoire), n° 93</span>
 
-**{{ŋɔliŋɔlio|r}}** *n.* (o) — frelon. <span class="ks-src">Lexique kissi–français, p. 40</span>
+**{{ŋɔliŋɔlio|r}}** *n.* (o) — frelon. Variantes : *ŋɔriŋɔrio* (avec r). <span class="ks-src">Lexique kissi–français, p. 40</span>
 
 **{{ŋɔliŋɔliyo|r}}** *n.* — espèce d'insecte. *kissi du Sud (Childs 2000, en anglais) :* a kind of bee, larger than the honeybee. <span class="ks-src">Keita 1979, p. 15</span>
 
@@ -7836,7 +7836,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ŋɔmahiɔɔlundɔɔ}}** *num.* — neuvième. <span class="ks-src">[Ez 24,1](https://www.bible.com/bible/1394/EZK.24.1.BKG)</span>
 
-**{{ŋɔmahiɔɔlu}}** *num.* — neuf. <span class="ks-src">[Nb 29,26](https://www.bible.com/bible/1394/NUM.29.26.BKG)</span>
+**{{ŋɔmahiɔɔlu}}** *num.* — neuf. Variantes : *nɔmanuɔlu* (Kissidougou), *nɔmayɔlɔ* (Guéckédou). <span class="ks-src">[Nb 29,26](https://www.bible.com/bible/1394/NUM.29.26.BKG)</span>
 
 **{{ŋɔmmɛwndɔɔ}}** *num.* — septième. Autres formes : *ŋɔmmɛwndɔlen*, *ŋɔmmɛwndɔɛi*. <span class="ks-src">[Gn 2,2](https://www.bible.com/bible/1394/GEN.2.2.BKG)</span>
 
@@ -7884,7 +7884,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ŋuɛɛnundɔɔ}}** *num.* — cinquième. Autres formes : *ŋuɛɛnundɔɛi*. <span class="ks-src">[Gn 30,17](https://www.bible.com/bible/1394/GEN.30.17.BKG)</span>
 
-**{{ŋuɛɛnu}}** *num.* — cinq. <span class="ks-src">[Gn 14,9](https://www.bible.com/bible/1394/GEN.14.9.BKG)</span>
+**{{ŋuɛɛnu}}** *num.* — cinq. Variantes : *nuɛn* (Kissidougou). <span class="ks-src">[Gn 14,9](https://www.bible.com/bible/1394/GEN.14.9.BKG)</span>
 
 **{{ŋúlííyó|s}}** *n.* (o) — **kissi du Sud seulement** — calebasse moyenne pour le vin ou l'huile de palme. Autres formes : *ŋgúlííyó*. <span class="ks-src">Childs 2000, p. 272</span>
 
@@ -7924,7 +7924,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ɲafennden|r}}** *n.* — piraterie ; (ɲafennɔɔ) pirate. Autres formes : *ɲafennɔɔ*. <span class="ks-src">Terminologie (histoire), n° 477</span>
 
-**{{ɲafindo|r}}** *n.* — panthère. Autres formes : *nafindo*, *ɲafendo*. <span class="ks-src">Paulme 1964, p. 71; Sandara Kisia, fable 6</span>
+**{{ɲafindo|r}}** *n.* — panthère. Autres formes : *nafindo*, *ɲafendo*. Variantes : *nafindo* (Kissidougou). <span class="ks-src">Paulme 1964, p. 71; Sandara Kisia, fable 6</span>
 
 **{{ɲahanama|r}}** *n.* — enfer. <span class="ks-src">Keita 1979, p. 150; Lexique kissi–français, p. 38</span>
 
@@ -8222,7 +8222,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{ɲùlùáŋ|s}}** *n.* (ma) — **kissi du Sud seulement** — potion, remède (eau froide mêlée de feuilles). <span class="ks-src">Childs 2000, p. 282</span>
 
-**{{ɲulullo}}** *v.* — froid ; se refroidir, se rafraîchir ; (kɔllo ɲulullo) être apaisé. <span class="ks-src">[Jb 38,30](https://www.bible.com/bible/1394/JOB.38.30.BKG)</span>
+**{{ɲulullo}}** *v.* — froid ; se refroidir, se rafraîchir ; (kɔllo ɲulullo) être apaisé. Variantes : *ɲurullo* (avec r). <span class="ks-src">[Jb 38,30](https://www.bible.com/bible/1394/JOB.38.30.BKG)</span>
 
 **{{ɲulul}}** *v.* — se calmer, s'apaiser (kɔl). <span class="ks-src">[Gn 27,44](https://www.bible.com/bible/1394/GEN.27.44.BKG)</span>
 
@@ -8278,7 +8278,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 <div class="ks-dict" markdown="1">
 
-**{{o co le}}** *part.* — ce n'est pas ; n'est-ce pas ?. <span class="ks-src">Lexique kissi–français, p. 40</span>
+**{{o co le}}** *part.* — ce n'est pas ; n'est-ce pas ?. Variantes : *o co re* (avec r). <span class="ks-src">Lexique kissi–français, p. 40</span>
 
 **{{o cueo|?}}** *n.* — point. <span class="ks-src">Lexique kissi–français, p. 40</span>
 
@@ -8380,7 +8380,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{paa yomɛiyo|r}}** *n.* — fracture. <span class="ks-src">Keita 1979, p. 162; Lexique kissi–français, p. 40</span>
 
-**{{paa}}** *n.* (o), pl. {{paalan}} — os. *kissi du Sud (Childs 2000, en anglais) :* bone; also gambling tops. <span class="ks-src">[Gn 2,23](https://www.bible.com/bible/1394/GEN.2.23.BKG)</span>
+**{{paa}}** *n.* (o), pl. {{paalan}} — os. *kissi du Sud (Childs 2000, en anglais) :* bone; also gambling tops. Variantes : *paran* (Kissidougou). <span class="ks-src">[Gn 2,23](https://www.bible.com/bible/1394/GEN.2.23.BKG)</span>
 
 **{{pákù|s}}** *adv.* — **kissi du Sud seulement** — tout, entièrement, complètement. <span class="ks-src">Childs 2000, p. 287</span>
 
@@ -8504,7 +8504,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pèlé-cɔ̀mndéŋ|s}}** *n.* (le) — **kissi du Sud seulement** — plante (sert à laver les escargots). <span class="ks-src">Childs 2000, p. 292</span>
 
-**{{pelei}}** *n.* (i), pl. {{pelon}} — pied, jambe. *kissi du Sud (Childs 2000, en anglais) :* back of the mouth, lower jaw. Autres formes : *pelii*. <span class="ks-src">[Ex 21,24](https://www.bible.com/bible/1394/EXO.21.24.BKG)</span>
+**{{pelei}}** *n.* (i), pl. {{pelon}} — pied, jambe. *kissi du Sud (Childs 2000, en anglais) :* back of the mouth, lower jaw. Autres formes : *pelii*. Variantes : *pɛrie* (Kissidougou), *peruo* (Kissidougou). <span class="ks-src">[Ex 21,24](https://www.bible.com/bible/1394/EXO.21.24.BKG)</span>
 
 **{{pélélé|s}}** *idéo.* — **kissi du Sud seulement** — bien clair, limpide (eau décantée) ; élégant (argot). <span class="ks-src">Childs 2000, p. 292</span>
 
@@ -8528,7 +8528,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pèltè-bàŋà|s}}** *adj.* — **kissi du Sud seulement** — bleu (couleur de l'œuf de l'oiseau du riz). <span class="ks-src">Childs 2000, p. 292</span>
 
-**{{pelten|r}}** *n.* (len), pl. {{peltan|r}} — œuf ; testicule. *kissi du Sud (Childs 2000, en anglais) :* egg; any egg-shaped object, e.g. a lamp chimney or a hernia. Autres formes : *pelta*. <span class="ks-src">Keita 1979, p. 137; Paulme 1964, p. 79 (G); Lexique kissi–français, p. 41</span>
+**{{pelten|r}}** *n.* (len), pl. {{peltan|r}} — œuf ; testicule. *kissi du Sud (Childs 2000, en anglais) :* egg; any egg-shaped object, e.g. a lamp chimney or a hernia. Autres formes : *pelta*. Variantes : *pitɛ* (Guéckédou). <span class="ks-src">Keita 1979, p. 137; Paulme 1964, p. 79 (G); Lexique kissi–français, p. 41</span>
 
 **{{pelule|r}}** *n.*, pl. {{pɛluvo|r}} — plante potagère à feuilles (sorte d'épinard). <span class="ks-src">Paulme 1964, p. 79</span>
 
@@ -8588,7 +8588,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pesi}}** *v.* — briser, casser. *kissi du Sud (Childs 2000, en anglais) :* break (several things). <span class="ks-src">[Es 45,2](https://www.bible.com/bible/1394/ISA.45.2.BKG)</span>
 
-**{{pewvo}}** *n.* (o), pl. {{pewva}} — cochon, porc. <span class="ks-src">[Lv 11,7](https://www.bible.com/bible/1394/LEV.11.7.BKG)</span>
+**{{pewvo}}** *n.* (o), pl. {{pewva}} — cochon, porc. Variantes : *poovo* (Kissidougou). <span class="ks-src">[Lv 11,7](https://www.bible.com/bible/1394/LEV.11.7.BKG)</span>
 
 **{{pe|?}}** *part.* — si (après un nom, avec ti). <span class="ks-src">Lexique kissi–français, p. 41</span>
 
@@ -8652,7 +8652,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pɛ̀lɛ̀nɔ̀ɔ́|s}}** *n.* (o), pl. {{pɛ̀lìá|s}} — **kissi du Sud seulement** — chasseur (avec des chiens). <span class="ks-src">Childs 2000, p. 296</span>
 
-**{{pɛlɛpɛlɛlen|r}}** *n.* (len) — petit ruisseau, source. <span class="ks-src">Lexique kissi–français, p. 42</span>
+**{{pɛlɛpɛlɛlen|r}}** *n.* (len) — petit ruisseau, source. Variantes : *pɛrɛpɛrɛlen* (avec r). <span class="ks-src">Lexique kissi–français, p. 42</span>
 
 **{{pɛlɛpɛlɔɔ|r}}** *n.* — étincelles. <span class="ks-src">Lexique kissi–français, p. 42</span>
 
@@ -8790,7 +8790,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pilanndo|r}}**<sup>1</sup> *n.* (o) — tabatière. <span class="ks-src">Lexique kissi–français, p. 43</span>
 
-**{{pilanndo}}**<sup>2</sup> *v.* — toucher ; frapper (pour punir). Autres formes : *pilan*. <span class="ks-src">[Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG)</span>
+**{{pilanndo}}**<sup>2</sup> *v.* — toucher ; frapper (pour punir). Autres formes : *pilan*. Variantes : *piranndo* (avec r), *piran*. <span class="ks-src">[Gn 3,3](https://www.bible.com/bible/1394/GEN.3.3.BKG)</span>
 
 **{{pìlàŋndéŋ|s}}** *n.* (le) — **kissi du Sud seulement** — espèce de bambou. <span class="ks-src">Childs 2000, p. 300</span>
 
@@ -8804,13 +8804,13 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pilɛ}}** *num.* — un ; (après un pronom) seul : ndu pilɛ « lui seul ». <span class="ks-src">[Gn 1,9](https://www.bible.com/bible/1394/GEN.1.9.BKG)</span>
 
-**{{pilianndo|r}}** *v.* — toucher plusieurs fois. Autres formes : *pilian*. <span class="ks-src">Lexique kissi–français, p. 43</span>
+**{{pilianndo|r}}** *v.* — toucher plusieurs fois. Autres formes : *pilian*. Variantes : *pirianndo* (avec r), *pirian*. <span class="ks-src">Lexique kissi–français, p. 43</span>
 
 **{{pilicioo|r}}** *v.* — prêter. <span class="ks-src">Terminologie (histoire), n° 480</span>
 
 **{{pílíkò-pílíkò|s}}** *idéo.* — **kissi du Sud seulement** — l'un après l'autre (choses qui passent en série). <span class="ks-src">Childs 2000, p. 301</span>
 
-**{{pilinnden|r}}** *n.* — vigne. <span class="ks-src">Lexique kissi–français, p. 43</span>
+**{{pilinnden|r}}** *n.* — vigne. Variantes : *pirinnden* (avec r). <span class="ks-src">Lexique kissi–français, p. 43</span>
 
 **{{pìlìŋàá|s}}** *v.* — **kissi du Sud seulement** — gâter (un enfant). <span class="ks-src">Childs 2000, p. 301</span>
 
@@ -8966,7 +8966,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pôŋ|s}}** *idéo.* — **kissi du Sud seulement** — en éclats (ce qui se brise, gicle). <span class="ks-src">Childs 2000, p. 306</span>
 
-**{{poolan}}** *n.* (lan) — excréments, fiente, bouse. Autres formes : *poola*. <span class="ks-src">[Ex 29,14](https://www.bible.com/bible/1394/EXO.29.14.BKG)</span>
+**{{poolan}}** *n.* (lan) — excréments, fiente, bouse. Autres formes : *poola*. Variantes : *posian* (Guéckédou). <span class="ks-src">[Ex 29,14](https://www.bible.com/bible/1394/EXO.29.14.BKG)</span>
 
 **{{póólóó|s}}** *n.* (o), pl. {{póólúá|s}} — **kissi du Sud seulement** — petit insecte (moucheron) dont la piqûre démange. <span class="ks-src">Childs 2000, p. 307</span>
 
@@ -8998,7 +8998,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pow lesumndo}}** *n.* — enclume. <span class="ks-src">Terminologie (arts), n° 100</span>
 
-**{{powvo}}** *n.* (o), pl. {{powtan}} — pierre, caillou. *kissi du Sud (Childs 2000, en anglais) :* rock, large stone; battery. <span class="ks-src">[Gn 28,11](https://www.bible.com/bible/1394/GEN.28.11.BKG)</span>
+**{{powvo}}** *n.* (o), pl. {{powtan}} — pierre, caillou. *kissi du Sud (Childs 2000, en anglais) :* rock, large stone; battery. Variantes : *puo* (Kissidougou). <span class="ks-src">[Gn 28,11](https://www.bible.com/bible/1394/GEN.28.11.BKG)</span>
 
 **{{po|r}}** *n.* — arbre (espèce). Autres formes : *pove*. <span class="ks-src">Paulme 1964, p. 82</span>
 
@@ -9034,7 +9034,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pɔ́lɔ́nndo}}** *n.* (o) — marécage. <span class="ks-src">[Ps 40,3](https://www.bible.com/bible/1394/PSA.40.3.BKG)</span>
 
-**{{pɔlɔɔ|r}}** *n.* — mauvais goût. <span class="ks-src">Lexique kissi–français, p. 44</span>
+**{{pɔlɔɔ|r}}** *n.* — mauvais goût. Variantes : *pɔrɔɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 44</span>
 
 **{{pɔlullo}}** *v.* — se calmer, s'apaiser (colère, douleur) ; apaiser ; pierre sculptée (des tombes et des autels des ancêtres). *kissi du Sud (Childs 2000, en anglais) :* cool (something, someone with a fever). Autres formes : *pɔlul*, *pɔlulnin*. <span class="ks-src">[Dt 13,18](https://www.bible.com/bible/1394/DEU.13.18.BKG)</span>
 
@@ -9162,7 +9162,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pùlóó|s}}** *n.* (o), pl. {{pùlúláŋ|s}} — **kissi du Sud seulement** — grappe, gousse (noix de kola, noix de palme). <span class="ks-src">Childs 2000, p. 311</span>
 
-**{{pulɔnndo}}** *v.* — se laver. Autres formes : *pulun*, *pulɔn*. <span class="ks-src">[Ex 2,5](https://www.bible.com/bible/1394/EXO.2.5.BKG)</span>
+**{{pulɔnndo}}** *v.* — se laver. Autres formes : *pulun*, *pulɔn*. Variantes : *puru* (Kissidougou), *pilu* (Guéckédou). <span class="ks-src">[Ex 2,5](https://www.bible.com/bible/1394/EXO.2.5.BKG)</span>
 
 **{{pulɔn sɛllo|r}}** *n.* — ablution. <span class="ks-src">Keita 1979, p. 150; Lexique kissi–français, p. 44</span>
 
@@ -9170,11 +9170,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pulta}}** *n.*, pl. {{pultan}} — cendre. <span class="ks-src">[Ex 9,8](https://www.bible.com/bible/1394/EXO.9.8.BKG)</span>
 
-**{{puluei|r}}** *n.* — langue des Blancs (français, anglais…). <span class="ks-src">Lexique kissi–français, p. 45</span>
+**{{puluei|r}}** *n.* — langue des Blancs (français, anglais…). Variantes : *puruei* (avec r). <span class="ks-src">Lexique kissi–français, p. 45</span>
 
-**{{pululan|r}}** *n.* — corde (de palmier). <span class="ks-src">Lexique kissi–français, p. 45</span>
+**{{pululan|r}}** *n.* — corde (de palmier). Variantes : *purulan* (avec r). <span class="ks-src">Lexique kissi–français, p. 45</span>
 
-**{{pululen}}** *n.* (len) — gloutonnerie, gourmandise, excès de table ; gourmand, vorace. *kissi du Sud (Childs 2000, en anglais) :* greed. Autres formes : *pulule*. <span class="ks-src">[Ga 5,21](https://www.bible.com/bible/1394/GAL.5.21.BKG)</span>
+**{{pululen}}** *n.* (len) — gloutonnerie, gourmandise, excès de table ; gourmand, vorace. *kissi du Sud (Childs 2000, en anglais) :* greed. Autres formes : *pulule*. Variantes : *purulen* (avec r). <span class="ks-src">[Ga 5,21](https://www.bible.com/bible/1394/GAL.5.21.BKG)</span>
 
 **{{púlùtù|s}}** *idéo.* — **kissi du Sud seulement** — bruit d'herbe arrachée, de tissu déchiré, de petite moto. <span class="ks-src">Childs 2000, p. 312</span>
 
@@ -9222,7 +9222,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{pùóó|s}}** *n.* (o) — **kissi du Sud seulement** — entaille faite pour abattre un arbre. <span class="ks-src">Childs 2000, p. 313</span>
 
-**{{puɔ|r}}**<sup>1</sup> *n.* — arbre (espèce dont l'écorce entre dans le kowã). <span class="ks-src">Paulme 1964, p. 84</span>
+**{{puɔ|r}}**<sup>1</sup> *n.* — arbre (espèce dont l'écorce entre dans le kowã). Variantes : *pɔwvo* (Kissidougou). <span class="ks-src">Paulme 1964, p. 84</span>
 
 **{{puɔ|?}}**<sup>2</sup> *v.* — ramener ; épouser. <span class="ks-src">Lexique kissi–français, p. 45</span>
 
@@ -9400,11 +9400,11 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{salaa pansiɔnndo|r}}** *n.* — pension. <span class="ks-src">Terminologie (histoire), n° 465</span>
 
-**{{salaa}}** *n.* — salaire, paie ; payer ; prix. Autres formes : *sala*. <span class="ks-src">[Gn 29,15](https://www.bible.com/bible/1394/GEN.29.15.BKG)</span>
+**{{salaa}}** *n.* — salaire, paie ; payer ; prix. Autres formes : *sala*. Variantes : *saraa* (avec r), *sara*. <span class="ks-src">[Gn 29,15](https://www.bible.com/bible/1394/GEN.29.15.BKG)</span>
 
 **{{sàlàá|s}}** *n.* (o), pl. {{sàlàláŋ|s}} — **kissi du Sud seulement** — sorte, espèce ; groupe, quantité. <span class="ks-src">Childs 2000, p. 319</span>
 
-**{{sálàá}}** *n.*, pl. {{sálàlan}} — sacrifice, offrande ; protection, amulette. *kissi du Sud (Childs 2000, en anglais) :* sacrifice; blessing; charm, talisman. Autres formes : *sálà*, *sálàla*. <span class="ks-src">[Gn 4,3](https://www.bible.com/bible/1394/GEN.4.3.BKG)</span>
+**{{sálàá}}** *n.*, pl. {{sálàlan}} — sacrifice, offrande ; protection, amulette. *kissi du Sud (Childs 2000, en anglais) :* sacrifice; blessing; charm, talisman. Autres formes : *sálà*, *sálàla*. Variantes : *saraa* (avec r), *sara* (Kissidougou). <span class="ks-src">[Gn 4,3](https://www.bible.com/bible/1394/GEN.4.3.BKG)</span>
 
 **{{sálàbàlàà-sálàbàlàà|s}}** *idéo.* — **kissi du Sud seulement** — très long (objet). <span class="ks-src">Childs 2000, p. 319</span>
 
@@ -9414,7 +9414,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{salakokuo|r}}** *n.*, pl. {{salakokua|r}} — tourterelle (espèce). <span class="ks-src">Paulme 1964, p. 89</span>
 
-**{{salalan|r}}** *n.* — blagues. <span class="ks-src">Lexique kissi–français, p. 46</span>
+**{{salalan|r}}** *n.* — blagues. Variantes : *salaran* (avec r). <span class="ks-src">Lexique kissi–français, p. 46</span>
 
 **{{salamayɛi}}** *n.* — splendeur, gloire, beauté ; (sálámaa) beau, gracieux. *kissi du Sud (Childs 2000, en anglais) :* favourite or cherished child. Autres formes : *sálámaa*. <span class="ks-src">[Es 60,21](https://www.bible.com/bible/1394/ISA.60.21.BKG)</span>
 
@@ -9424,15 +9424,15 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{salasiyaa kundaa|r}}** *n.* — division militaire. <span class="ks-src">Terminologie (histoire), n° 250</span>
 
-**{{salatio|r}}** *n.* (o) — autorité, pouvoir. <span class="ks-src">Lexique kissi–français, p. 47</span>
+**{{salatio|r}}** *n.* (o) — autorité, pouvoir. Variantes : *saratio* (avec r). <span class="ks-src">Lexique kissi–français, p. 47</span>
 
 **{{salavusoo|r}}** *n.* — service militaire ; (en composition) militaire. <span class="ks-src">Terminologie (histoire), n° 571</span>
 
-**{{salavusuo|r}}** *n.* (o) — service militaire. <span class="ks-src">Lexique kissi–français, p. 47</span>
+**{{salavusuo|r}}** *n.* (o) — service militaire. Variantes : *saravusuo* (avec r). <span class="ks-src">Lexique kissi–français, p. 47</span>
 
 **{{sálɛ́kpúúwó|s}}** *n.* (o) — **kissi du Sud seulement** — insecte piqueur (comme un moustique). <span class="ks-src">Childs 2000, p. 319</span>
 
-**{{salikokoo|r}}** *n.* (o) — colombe. <span class="ks-src">Lexique kissi–français, p. 47</span>
+**{{salikokoo|r}}** *n.* (o) — colombe. Variantes : *sarikokoo* (avec r). <span class="ks-src">Lexique kissi–français, p. 47</span>
 
 **{{salile|r}}** *n.* — amulette du purificateur (salino). <span class="ks-src">Paulme 1964, p. 90</span>
 
@@ -9710,7 +9710,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sɛbɛladiomndo|r}}** *n.* — lexique. <span class="ks-src">Terminologie (langue), n° 230</span>
 
-**{{sɛbɛlɔɔ|r}}** *n.* (o) — éperon (de cavalier). <span class="ks-src">Lexique kissi–français, p. 48</span>
+**{{sɛbɛlɔɔ|r}}** *n.* (o) — éperon (de cavalier). Variantes : *sɛbɛrɔɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 48</span>
 
 **{{sɛbɛ sɛvaa|r}}** *n.* — copie ; cahier. <span class="ks-src">Terminologie (langue), n° 101</span>
 
@@ -9778,7 +9778,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sɛksiɔnndo|r}}** *n.* — arrondissement ; section (du parti). <span class="ks-src">Terminologie (histoire), n° 75</span>
 
-**{{sɛlbɛtio|r}}** *n.* (o) — serviette. <span class="ks-src">Lexique kissi–français, p. 48</span>
+**{{sɛlbɛtio|r}}** *n.* (o) — serviette. Variantes : *sɛrbɛtio* (avec r). <span class="ks-src">Lexique kissi–français, p. 48</span>
 
 **{{sɛlela|r}}** *v.* — verser de l'eau en prononçant une imprécation. <span class="ks-src">Paulme 1964, p. 91</span>
 
@@ -9786,13 +9786,13 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sɛlɛ|r}}** *n.*, pl. {{sɛlɛla|r}} — ménage, famille conjugale. <span class="ks-src">Paulme 1964, p. 92</span>
 
-**{{sɛ́lɛ́}}** *adj.* — nombreux, beaucoup. <span class="ks-src">[Gn 16,10](https://www.bible.com/bible/1394/GEN.16.10.BKG)</span>
+**{{sɛ́lɛ́}}** *adj.* — nombreux, beaucoup. Variantes : *sɛrɛ* (avec r). <span class="ks-src">[Gn 16,10](https://www.bible.com/bible/1394/GEN.16.10.BKG)</span>
 
-**{{sɛlio|r}}** *n.* (o) — bouillie (de céréale fine) ; eau de cuisson du riz. <span class="ks-src">Paulme 1964, p. 92; Lexique kissi–français, p. 48</span>
+**{{sɛlio|r}}** *n.* (o) — bouillie (de céréale fine) ; eau de cuisson du riz. Variantes : *sɛrio* (avec r). <span class="ks-src">Paulme 1964, p. 92; Lexique kissi–français, p. 48</span>
 
 **{{sɛllo|r}}** *n.* (o) — fête (musulmane) ; prière musulmane ; religion musulmane. <span class="ks-src">Lexique kissi–français, p. 48</span>
 
-**{{sɛ́lɔ́ɔ́}}** *n.* — foule. <span class="ks-src">[Mc 2,13](https://www.bible.com/bible/1394/MRK.2.13.BKG)</span>
+**{{sɛ́lɔ́ɔ́}}** *n.* — foule. Variantes : *sɛrɔɔ* (avec r). <span class="ks-src">[Mc 2,13](https://www.bible.com/bible/1394/MRK.2.13.BKG)</span>
 
 **{{sɛmbaa}}** *v.* — se détacher (d'un bloc). *kissi du Sud (Childs 2000, en anglais) :* break off or take away a part; whittle. Autres formes : *sɛmba*. <span class="ks-src">[Dn 2,45](https://www.bible.com/bible/1394/DAN.2.45.BKG)</span>
 
@@ -9912,7 +9912,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sialaa}}** *v.* — tailler, graver (la pierre) ; scier. Autres formes : *sial*. <span class="ks-src">[Ex 28,11](https://www.bible.com/bible/1394/EXO.28.11.BKG)</span>
 
-**{{sialten}}** *n.* (len) — saison des pluies. <span class="ks-src">[Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG)</span>
+**{{sialten}}** *n.* (len) — saison des pluies. Variantes : *sallɛn* (Kissidougou), *siaale* (Guéckédou). <span class="ks-src">[Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG)</span>
 
 **{{siama}}** *adj.* — nombreux, beaucoup de. *kissi du Sud (Childs 2000, en anglais) :* a lot, many. <span class="ks-src">[Lc 4,41](https://www.bible.com/bible/1394/LUK.4.41.BKG)</span>
 
@@ -9928,7 +9928,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{siangu}}** *v.* — guérir, se rétablir ; se soigner. <span class="ks-src">[Mt 9,22](https://www.bible.com/bible/1394/MAT.9.22.BKG)</span>
 
-**{{sianion}}** *n.* — or. Autres formes : *sianin*. <span class="ks-src">[Gn 2,11](https://www.bible.com/bible/1394/GEN.2.11.BKG)</span>
+**{{sianion}}** *n.* — or. Autres formes : *sianin*. Variantes : *saɲi* (Kissidougou). <span class="ks-src">[Gn 2,11](https://www.bible.com/bible/1394/GEN.2.11.BKG)</span>
 
 **{{sianio}}** *n.* (o) — bouteille, flacon. <span class="ks-src">[Mt 26,7](https://www.bible.com/bible/1394/MAT.26.7.BKG)</span>
 
@@ -9944,7 +9944,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{siasoa}}** *n.* — cailles. *kissi du Sud (Childs 2000, en anglais) :* a chicken-like bird with red feet. <span class="ks-src">[Ex 16,13](https://www.bible.com/bible/1394/EXO.16.13.BKG)</span>
 
-**{{siawlen|r}}** *n.* (len) — orange. <span class="ks-src">Keita 1979, p. 140; Paulme 1964, p. 92 (G/K); Lexique kissi–français, p. 49</span>
+**{{siawlen|r}}** *n.* (len) — orange. Variantes : *sawele* (Kissidougou). <span class="ks-src">Keita 1979, p. 140; Paulme 1964, p. 92 (G/K); Lexique kissi–français, p. 49</span>
 
 **{{sieesiɛi luɛyɔɔ|r}}** *n.* — révolte. <span class="ks-src">Terminologie (histoire), n° 553</span>
 
@@ -9990,7 +9990,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sifflo|r}}** *v.* — siffler. <span class="ks-src">Lexique kissi–français, p. 49</span>
 
-**{{sigalɛtio|r}}** *n.* (o) — cigarette. <span class="ks-src">Lexique kissi–français, p. 49</span>
+**{{sigalɛtio|r}}** *n.* (o) — cigarette. Variantes : *sigarɛtio* (avec r). <span class="ks-src">Lexique kissi–français, p. 49</span>
 
 **{{sììfáá|s}}** *n.* (o) — **kissi du Sud seulement** — rat de Gambie (rongeur qui mange les poulets). <span class="ks-src">Childs 2000, p. 332</span>
 
@@ -10030,7 +10030,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{síkɔ́ɔ́|s}}** *n.* (o) — **kissi du Sud seulement** — sorcellerie. <span class="ks-src">Childs 2000, p. 333</span>
 
-**{{silaa|r}}**<sup>1</sup> *n.* (o) — arbre (espèce). <span class="ks-src">Lexique kissi–français, p. 50</span>
+**{{silaa|r}}**<sup>1</sup> *n.* (o) — arbre (espèce). Variantes : *siraa* (avec r). <span class="ks-src">Lexique kissi–français, p. 50</span>
 
 **{{silaa}}**<sup>2</sup> *v.* — conseiller, ordonner ; éduquer ; éducation. *kissi du Sud (Childs 2000, en anglais) :* advise or warn. Autres formes : *sila*, *silanin*. <span class="ks-src">[Gn 26,26](https://www.bible.com/bible/1394/GEN.26.26.BKG)</span>
 
@@ -10146,7 +10146,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{siòònde}}** *n.* (i) — peur, crainte, frayeur. <span class="ks-src">[Gn 3,10](https://www.bible.com/bible/1394/GEN.3.10.BKG)</span>
 
-**{{sióónndon}}** *n.* — sable. <span class="ks-src">[Gn 22,17](https://www.bible.com/bible/1394/GEN.22.17.BKG)</span>
+**{{sióónndon}}** *n.* — sable. Variantes : *sionde* (Guéckédou), *suoŋdo* (Kissidougou). <span class="ks-src">[Gn 22,17](https://www.bible.com/bible/1394/GEN.22.17.BKG)</span>
 
 **{{siòòŋii}}** *n.* — crainte, peur ; terreur. <span class="ks-src">[Pr 14,27](https://www.bible.com/bible/1394/PRO.14.27.BKG)</span>
 
@@ -10200,7 +10200,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sìsɛ́íyó|s}}** *n.* (o) — **kissi du Sud seulement** — fibre de la noix de palme. <span class="ks-src">Childs 2000, p. 337</span>
 
-**{{sisɛlan|r}}** *n.* (lan) — résidu des noix de palmiste broyées après extraction de l'huile. <span class="ks-src">Lexique kissi–français, p. 50</span>
+**{{sisɛlan|r}}** *n.* (lan) — résidu des noix de palmiste broyées après extraction de l'huile. Variantes : *sisɛran* (avec r). <span class="ks-src">Lexique kissi–français, p. 50</span>
 
 **{{sisinndo}}** *n.* (o), pl. {{sisinnda}} — fourmi ; petite fourmi rouge ou noire. <span class="ks-src">[Pr 6,6](https://www.bible.com/bible/1394/PRO.6.6.BKG)</span>
 
@@ -10230,7 +10230,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sofɛlnɔɔ|r}}** *n.* (o) — chauffeur. <span class="ks-src">Lexique kissi–français, p. 50</span>
 
-**{{sofɛlɔɔ}}** *n.* (o), pl. {{sofɛlɛa}} — âne. <span class="ks-src">[Gn 22,5](https://www.bible.com/bible/1394/GEN.22.5.BKG)</span>
+**{{sofɛlɔɔ}}** *n.* (o), pl. {{sofɛlɛa}} — âne. Variantes : *sufelɔ* (Kissidougou). <span class="ks-src">[Gn 22,5](https://www.bible.com/bible/1394/GEN.22.5.BKG)</span>
 
 **{{sòké|s}}** *idéo.* — **kissi du Sud seulement** — cri de la pintade. <span class="ks-src">Childs 2000, p. 337</span>
 
@@ -10584,7 +10584,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{suei mɛɛlɛi|r}}** *n.* — auriculaire. <span class="ks-src">Keita 1979, p. 132; Lexique kissi–français, p. 52</span>
 
-**{{suei}}** *n.* (i), pl. {{suon}} — doigt, orteil. <span class="ks-src">[Ex 31,18](https://www.bible.com/bible/1394/EXO.31.18.BKG)</span>
+**{{suei}}** *n.* (i), pl. {{suon}} — doigt, orteil. Variantes : *sue* (Kissidougou), *sui* (Guéckédou). <span class="ks-src">[Ex 31,18](https://www.bible.com/bible/1394/EXO.31.18.BKG)</span>
 
 **{{súéí|s}}**<sup>1</sup> *n.* (i), pl. {{sòóŋ|s}} — **kissi du Sud seulement** — pus. <span class="ks-src">Childs 2000, p. 342</span>
 
@@ -10618,7 +10618,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{súkàá|s}}** *n.* (o) — **kissi du Sud seulement** — arbre à fruit non comestible servant de mordant (teinture). <span class="ks-src">Childs 2000, p. 343</span>
 
-**{{sukalaa|r}}** *n.* (o) — sucre. <span class="ks-src">Lexique kissi–français, p. 52</span>
+**{{sukalaa|r}}** *n.* (o) — sucre. Variantes : *sukaraa* (avec r). <span class="ks-src">Lexique kissi–français, p. 52</span>
 
 **{{sùkàsùkàá|s}}** *v.* — **kissi du Sud seulement** — rincer (la bouche). <span class="ks-src">Childs 2000, p. 343</span>
 
@@ -10670,7 +10670,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{sunsun}}** *adv.* — maintenant, tout de suite. <span class="ks-src">[Gn 21,23](https://www.bible.com/bible/1394/GEN.21.23.BKG)</span>
 
-**{{suntɛndo|r}}** *n.*, pl. {{suntɛndia|r}} — araignée. Autres formes : *suuntɛndo*. <span class="ks-src">Paulme 1964, p. 98 (G/K)</span>
+**{{suntɛndo|r}}** *n.*, pl. {{suntɛndia|r}} — araignée. Autres formes : *suuntɛndo*. Variantes : *suuntɛndo* (Guéckédou). <span class="ks-src">Paulme 1964, p. 98 (G/K)</span>
 
 **{{sun|?}}** *adv.* — bientôt. <span class="ks-src">Lexique kissi–français, p. 52</span>
 
@@ -10874,7 +10874,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{tambilo|r}}** *n.*, pl. {{tambiltan|r}} — timbale (tambour). <span class="ks-src">Paulme 1964, p. 101</span>
 
-**{{tambio|r}}** *n.*, pl. {{tambila|r}} — brancard. <span class="ks-src">Paulme 1964, p. 101 (G)</span>
+**{{tambio|r}}** *n.*, pl. {{tambila|r}} — brancard. Variantes : *savia* (Kissidougou). <span class="ks-src">Paulme 1964, p. 101 (G)</span>
 
 **{{tambiyɛiyo|r}}** *adj.* — abîmé, gâté. <span class="ks-src">Lexique kissi–français, p. 54</span>
 
@@ -11146,7 +11146,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{tɛiyon}}** *n.* — bras (d'un fleuve), branches ; ramification. <span class="ks-src">[Gn 2,10](https://www.bible.com/bible/1394/GEN.2.10.BKG)</span>
 
-**{{tɛi|r}}** *n.* (i) — arachide ; cacahuète. Autres formes : *tiyan*. <span class="ks-src">Keita 1979, p. 140; Paulme 1964, p. 104 (G/K); Lexique kissi–français, p. 54; Sandara Kisia, fable 4</span>
+**{{tɛi|r}}** *n.* (i) — arachide ; cacahuète. Autres formes : *tiyan*. Variantes : *tiɛi* (Kissidougou), *tiyan* (Kissidougou). <span class="ks-src">Keita 1979, p. 140; Paulme 1964, p. 104 (G/K); Lexique kissi–français, p. 54; Sandara Kisia, fable 4</span>
 
 **{{tɛ̀i}}** *v.* — étendre, étaler (au soleil, pour sécher). *kissi du Sud (Childs 2000, en anglais) :* spread, esp. in the sun to dry; spread one's hands or legs apart. Autres formes : *tɛiyo*. <span class="ks-src">[2 S 17,19](https://www.bible.com/bible/1394/2SA.17.19.BKG)</span>
 
@@ -11316,7 +11316,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{tìɲàá|s}}** *v.* — **kissi du Sud seulement** — presser pour extraire la dernière goutte. <span class="ks-src">Childs 2000, p. 360</span>
 
-**{{tiɲio|r}}** *adj.* — noir. Autres formes : *tiɲie*. <span class="ks-src">Paulme 1964, p. 105 (G); Lexique kissi–français, p. 56</span>
+**{{tiɲio|r}}** *adj.* — noir. Autres formes : *tiɲie*. Variantes : *kiɲi* (Kissidougou), *kiɲa* (Kissidougou). <span class="ks-src">Paulme 1964, p. 105 (G); Lexique kissi–français, p. 56</span>
 
 **{{tiondɔɔ}}** *v.* — se réveiller, s'éveiller. Autres formes : *tiondu*, *tiandu*, *tindu*, *tiandunin*. <span class="ks-src">[Gn 41,7](https://www.bible.com/bible/1394/GEN.41.7.BKG)</span>
 
@@ -11620,7 +11620,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{tɔɔkɛndɔɔ|r}}** *n.* — gloire. <span class="ks-src">Terminologie (histoire), n° 366</span>
 
-**{{tɔɔliaa}}** *v.* — accélérer, se dépêcher, faire vite ; faire souvent. <span class="ks-src">[Ha 1,8](https://www.bible.com/bible/1394/HAB.1.8.BKG)</span>
+**{{tɔɔliaa}}** *v.* — accélérer, se dépêcher, faire vite ; faire souvent. Variantes : *tɔɔriaa* (avec r). <span class="ks-src">[Ha 1,8](https://www.bible.com/bible/1394/HAB.1.8.BKG)</span>
 
 **{{tɔɔmaa}}** *n.* — monstre, bête prodigieuse (visi tɔɔmaa). Autres formes : *tɔɔma*. <span class="ks-src">[Ap 13,1](https://www.bible.com/bible/1394/REV.13.1.BKG)</span>
 
@@ -11866,13 +11866,13 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vaa}}**<sup>1</sup> *n.* — sorte, genre (vaa lende « de cette sorte, tel »). <span class="ks-src">[Gn 39,9](https://www.bible.com/bible/1394/GEN.39.9.BKG)</span>
 
-**{{vaa}}**<sup>2</sup> *num.*, pl. {{vàálan}} — mille. <span class="ks-src">[Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG)</span>
+**{{vaa}}**<sup>2</sup> *num.*, pl. {{vàálan}} — mille. Variantes : *vabɛlɛ* (Kissidougou). <span class="ks-src">[Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG)</span>
 
 **{{vaa}}**<sup>3</sup> *v.* — être. Autres formes : *co*, *va*. <span class="ks-src">[Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG)</span>
 
 **{{vàá}}** *v.* — cultiver, labourer. Autres formes : *vee*, *veenin*. <span class="ks-src">[Gn 1,16](https://www.bible.com/bible/1394/GEN.1.16.BKG)</span>
 
-**{{vaiye|r}}** *n.* — taro. <span class="ks-src">Paulme 1964, p. 117 (G); Lexique kissi–français, p. 59</span>
+**{{vaiye|r}}** *n.* — taro. Variantes : *vayele* (Guéckédou), *vaile* (Kissidougou). <span class="ks-src">Paulme 1964, p. 117 (G); Lexique kissi–français, p. 59</span>
 
 **{{vakpa}}** *adv.* — clairement, ouvertement, à découvert. <span class="ks-src">[Ph 3,15](https://www.bible.com/bible/1394/PHP.3.15.BKG)</span>
 
@@ -11880,7 +11880,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{valaa|r}}**<sup>1</sup> *adj.* — aigre. <span class="ks-src">Paulme 1964, p. 119; Lexique kissi–français, p. 59</span>
 
-**{{valaa}}**<sup>2</sup> *n.*, pl. {{valalan}} — natte ; grabat, couche. *kissi du Sud (Childs 2000, en anglais) :* (sleeping) mat. Autres formes : *vala*. <span class="ks-src">[Ac 5,15](https://www.bible.com/bible/1394/ACT.5.15.BKG)</span>
+**{{valaa}}**<sup>2</sup> *n.*, pl. {{valalan}} — natte ; grabat, couche. *kissi du Sud (Childs 2000, en anglais) :* (sleeping) mat. Autres formes : *vala*. Variantes : *varaa* (Kissidougou, avec r). <span class="ks-src">[Ac 5,15](https://www.bible.com/bible/1394/ACT.5.15.BKG)</span>
 
 **{{valaa|?}}**<sup>3</sup> *n.* — texte. <span class="ks-src">Terminologie (langue), n° 402</span>
 
@@ -11898,7 +11898,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{valoo}}** *n.* — sécheresse, temps sec, absence de pluie. *kissi du Sud (Childs 2000, en anglais) :* a short dry spell, a break in the rains. <span class="ks-src">[Ag 1,11](https://www.bible.com/bible/1394/HAG.1.11.BKG)</span>
 
-**{{valuo|r}}** *n.* (o) — saison sèche ; période sans pluie pendant l'hivernage. <span class="ks-src">Paulme 1964, p. 120; Lexique kissi–français, p. 60</span>
+**{{valuo|r}}** *n.* (o) — saison sèche ; période sans pluie pendant l'hivernage. Variantes : *varuo* (avec r). <span class="ks-src">Paulme 1964, p. 120; Lexique kissi–français, p. 60</span>
 
 **{{vanaa bolofaa tɛlɛnnda|r}}** *n.* — bourgeoisie nationale. <span class="ks-src">Terminologie (histoire), n° 118</span>
 
@@ -11910,7 +11910,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vana bala fondoo}}** *n.*, pl. {{vanaa bala fondoa}} — pauvre. <span class="ks-src">Lexique kissi–français, p. 59</span>
 
-**{{vana bala|r}}** *n.* — travailleur ; serviteur. <span class="ks-src">Lexique kissi–français, p. 59</span>
+**{{vana bala|r}}** *n.* — travailleur ; serviteur. Variantes : *vana bara* (avec r). <span class="ks-src">Lexique kissi–français, p. 59</span>
 
 **{{vanabanaa|r}}** *n.* — adulte. <span class="ks-src">Lexique kissi–français, p. 60</span>
 
@@ -11926,7 +11926,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vana caa isɔɔ|r}}** *adj.* — éloquent. <span class="ks-src">Terminologie (langue), n° 151</span>
 
-**{{vana cala lakɔsɔ|r}}** *n.* — juge. <span class="ks-src">Lexique kissi–français, p. 59</span>
+**{{vana cala lakɔsɔ|r}}** *n.* — juge. Variantes : *vana cara lakɔsɔ* (avec r). <span class="ks-src">Lexique kissi–français, p. 59</span>
 
 **{{vanacamndo|r}}** *n.* (o) — magicien. <span class="ks-src">Keita 1979, p. 145; Lexique kissi–français, p. 60</span>
 
@@ -11964,7 +11964,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vanakɛndɛyɛi}}** *n.* (i) — bonté, bienveillance. <span class="ks-src">[Pr 11,17](https://www.bible.com/bible/1394/PRO.11.17.BKG)</span>
 
-**{{vana kilia iyindo|r}}** *n.* — coiffeur. <span class="ks-src">Lexique kissi–français, p. 60</span>
+**{{vana kilia iyindo|r}}** *n.* — coiffeur. Variantes : *vana kiria iyindo* (avec r). <span class="ks-src">Lexique kissi–français, p. 60</span>
 
 **{{vana kɔa mɛɛndanndo|r}}** *n.* — pèlerin. <span class="ks-src">Terminologie (histoire), n° 510</span>
 
@@ -11996,7 +11996,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vana nɔ dina loo|r}}** *n.* — païen. <span class="ks-src">Terminologie (histoire), n° 450</span>
 
-**{{vana nɔ tɛlanndo|r}}** *n.* — accusateur. <span class="ks-src">Lexique kissi–français, p. 60</span>
+**{{vana nɔ tɛlanndo|r}}** *n.* — accusateur. Variantes : *vana nɔ tɛranndo* (avec r). <span class="ks-src">Lexique kissi–français, p. 60</span>
 
 **{{vana ɲaanan|r}}** *n.* — estafette, messager. Autres formes : *sa yaa lasɛbɔɔ*. <span class="ks-src">Terminologie (histoire), n° 294</span>
 
@@ -12014,7 +12014,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vanapɔnɔ kɔllo|r}}** *n.* — héros ; (… kɔllo) héroïque. <span class="ks-src">Terminologie (histoire), n° 379</span>
 
-**{{vanapɔnɔɔ}}** *n.* (o) — homme (de sexe masculin). <span class="ks-src">[Gn 1,27](https://www.bible.com/bible/1394/GEN.1.27.BKG)</span>
+**{{vanapɔnɔɔ}}** *n.* (o) — homme (de sexe masculin). Variantes : *vanapando* (Guéckédou). <span class="ks-src">[Gn 1,27](https://www.bible.com/bible/1394/GEN.1.27.BKG)</span>
 
 **{{vanapɔnɔyɛi}}** *n.* — virilité, courage (tosa vanapɔnɔyɛi « être courageux, agir en homme »). <span class="ks-src">[1 S 4,9](https://www.bible.com/bible/1394/1SA.4.9.BKG)</span>
 
@@ -12196,7 +12196,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vilɛi}}** *adj.* — long, haut, élevé ; géant (objets). *kissi du Sud (Childs 2000, en anglais) :* long, tall, sharp. Autres formes : *vilɛiye*, *vilɛilan*. <span class="ks-src">[Mt 17,1](https://www.bible.com/bible/1394/MAT.17.1.BKG)</span>
 
-**{{vilio}}** *v.* — porter (des charges), transporter ; mener, conduire. *kissi du Sud (Childs 2000, en anglais) :* carry loads, haul, draw (plural of 'bear, carry'). Autres formes : *vili*. <span class="ks-src">[Nb 4,24](https://www.bible.com/bible/1394/NUM.4.24.BKG)</span>
+**{{vilio}}** *v.* — porter (des charges), transporter ; mener, conduire. *kissi du Sud (Childs 2000, en anglais) :* carry loads, haul, draw (plural of 'bear, carry'). Autres formes : *vili*. Variantes : *viri*. <span class="ks-src">[Nb 4,24](https://www.bible.com/bible/1394/NUM.4.24.BKG)</span>
 
 **{{vilul}}** *v.* — enfanter (un enfant) à qqn. *kissi du Sud (Childs 2000, en anglais) :* deliver (a child) for someone, as a midwife. <span class="ks-src">[Gn 30,7](https://www.bible.com/bible/1394/GEN.30.7.BKG)</span>
 
@@ -12204,7 +12204,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vinivinioo|r}}** *n.* — mystification. <span class="ks-src">Terminologie (idéologie), n° 442</span>
 
-**{{violɔɔ}}** *v.* — accoucher, enfanter. *kissi du Sud (Childs 2000, en anglais) :* bear (a child). Autres formes : *vialu*, *vialunin*. <span class="ks-src">[Gn 6,1](https://www.bible.com/bible/1394/GEN.6.1.BKG)</span>
+**{{violɔɔ}}** *v.* — accoucher, enfanter. *kissi du Sud (Childs 2000, en anglais) :* bear (a child). Autres formes : *vialu*, *vialunin*. Variantes : *vɔrɔɔ* (Kissidougou). <span class="ks-src">[Gn 6,1](https://www.bible.com/bible/1394/GEN.6.1.BKG)</span>
 
 **{{vionnɔnndo}}** *v.* — se cacher ; refuge. Autres formes : *vionnun*, *viannun*. <span class="ks-src">[Gn 3,8](https://www.bible.com/bible/1394/GEN.3.8.BKG)</span>
 
@@ -12232,7 +12232,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{volimɔɔ|r}}** *n.* (o) — sorcier. <span class="ks-src">Lexique kissi–français, p. 61</span>
 
-**{{volion}}** *n.* — argent (métal, monnaie). Autres formes : *volin*, *volii*, *voliei*. <span class="ks-src">[Gn 13,2](https://www.bible.com/bible/1394/GEN.13.2.BKG)</span>
+**{{volion}}** *n.* — argent (métal, monnaie). Autres formes : *volin*, *volii*, *voliei*. Variantes : *vurie* (Kissidougou). <span class="ks-src">[Gn 13,2](https://www.bible.com/bible/1394/GEN.13.2.BKG)</span>
 
 **{{volio}}**<sup>1</sup> *v.* — briller, étinceler ; (éclair) jaillir (piɔɔ voli « l'éclair brille »). *kissi du Sud (Childs 2000, en anglais) :* (noun) lightning. Autres formes : *voli*, *volinin*. <span class="ks-src">[Ex 19,16](https://www.bible.com/bible/1394/EXO.19.16.BKG)</span>
 
@@ -12298,13 +12298,13 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vɔla|r}}** *adv.* — loin. <span class="ks-src">Paulme 1964, p. 121</span>
 
-**{{vɔ le}}** *adv.* — pas encore. <span class="ks-src">Lexique kissi–français, p. 62</span>
+**{{vɔ le}}** *adv.* — pas encore. Variantes : *vɔ re* (avec r). <span class="ks-src">Lexique kissi–français, p. 62</span>
 
 **{{vɔ̀lɛ́lan}}** *n.* — enclos, parcs (à bétail). Autres formes : *vɔ̀lɛ́la*. <span class="ks-src">[Nb 32,16](https://www.bible.com/bible/1394/NUM.32.16.BKG)</span>
 
 **{{vɔlɔɔ}}** *n.* (o) — perdrix ; volaille de brousse. *kissi du Sud (Childs 2000, en anglais) :* bush chicken. <span class="ks-src">[1 S 26,20](https://www.bible.com/bible/1394/1SA.26.20.BKG)</span>
 
-**{{vɔlɔtɔɔ}}** *n.* (o), pl. {{vɔlɔtɔlan}} — faucille. Autres formes : *vɔlɔtɔ*. <span class="ks-src">[Dt 23,26](https://www.bible.com/bible/1394/DEU.23.26.BKG)</span>
+**{{vɔlɔtɔɔ}}** *n.* (o), pl. {{vɔlɔtɔlan}} — faucille. Autres formes : *vɔlɔtɔ*. Variantes : *vɔrɔtɔɔ* (avec r). <span class="ks-src">[Dt 23,26](https://www.bible.com/bible/1394/DEU.23.26.BKG)</span>
 
 **{{vɔmbaa|r}}** *v.* — coucher les hautes herbes pour dégager le chemin. Autres formes : *vɔmba*. <span class="ks-src">Lexique kissi–français, p. 62</span>
 
@@ -12370,7 +12370,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{vukɔɔ|r}}** *n.* (o) — lieu où se règlent les affaires du village. <span class="ks-src">Keita 1979, p. 142; Lexique kissi–français, p. 63; Terminologie (histoire), n° 130</span>
 
-**{{vulan}}** *n.* — genoux. *kissi du Sud (Childs 2000, en anglais) :* knee (singular, le class). <span class="ks-src">[Ez 47,4](https://www.bible.com/bible/1394/EZK.47.4.BKG)</span>
+**{{vulan}}** *n.* — genoux. *kissi du Sud (Childs 2000, en anglais) :* knee (singular, le class). Variantes : *vuran* (avec r). <span class="ks-src">[Ez 47,4](https://www.bible.com/bible/1394/EZK.47.4.BKG)</span>
 
 **{{vulen|r}}** *n.* (len), pl. {{vulan|r}} — genou. <span class="ks-src">Keita 1979, p. 133; Paulme 1964, p. 122; Lexique kissi–français, p. 63</span>
 
@@ -12650,7 +12650,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yallo|r}}** *n.* (o) — fétiche ; épouvantail ; culte (yallo). <span class="ks-src">Keita 1979, p. 150; Paulme 1964, p. 125; Lexique kissi–français, p. 63; Terminologie (idéologie), n° 294</span>
 
-**{{yalɔɔ|r}}** *v.* — crier, s'exclamer. Autres formes : *yalu*. <span class="ks-src">Lexique kissi–français, p. 64; Sandara Kisia, fable 4</span>
+**{{yalɔɔ|r}}** *v.* — crier, s'exclamer. Autres formes : *yalu*. Variantes : *yarɔɔ* (avec r), *yaru*. <span class="ks-src">Lexique kissi–français, p. 64; Sandara Kisia, fable 4</span>
 
 **{{yàmáfìkóó|s}}** *n.* (o), pl. {{yàmáfìkóláŋ|s}} — **kissi du Sud seulement** — balançoire ; fronde. <span class="ks-src">Childs 2000, p. 397</span>
 
@@ -12808,15 +12808,15 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yekpandi baa|r}}** *n.* — pistolet. <span class="ks-src">Terminologie (histoire), n° 479</span>
 
-**{{yekpandio|r}}** *n.* (o) — fusil. <span class="ks-src">Keita 1979, p. 156; Paulme 1964, p. 125 (G/K); Lexique kissi–français, p. 64; Terminologie (histoire), n° 354</span>
+**{{yekpandio|r}}** *n.* (o) — fusil. Variantes : *yakpando* (Kissidougou). <span class="ks-src">Keita 1979, p. 156; Paulme 1964, p. 125 (G/K); Lexique kissi–français, p. 64; Terminologie (histoire), n° 354</span>
 
 **{{yekpandi tɔɔliaa|r}}** *n.* — fusil-mitrailleur. <span class="ks-src">Terminologie (histoire), n° 355</span>
 
-**{{yelaa|r}}** *v.* — être sucré, être doux ; faire plaisir. Autres formes : *yela*. <span class="ks-src">Paulme 1964, p. 128; Lexique kissi–français, p. 65</span>
+**{{yelaa|r}}** *v.* — être sucré, être doux ; faire plaisir. Autres formes : *yela*. Variantes : *yeraa* (avec r), *yera*. <span class="ks-src">Paulme 1964, p. 128; Lexique kissi–français, p. 65</span>
 
 **{{yelelanɔ|r}}** *n.* — animateur. <span class="ks-src">Terminologie (arts), n° 8</span>
 
-**{{yelela|?}}** *n.* — annonce d'un événement ou d'une fête à venir. <span class="ks-src">Lexique kissi–français, p. 65; Terminologie (arts), n° 10</span>
+**{{yelela|?}}** *n.* — annonce d'un événement ou d'une fête à venir. Variantes : *yerela* (avec r). <span class="ks-src">Lexique kissi–français, p. 65; Terminologie (arts), n° 10</span>
 
 **{{yelenyelenndo}}** *n.* — flamme. Autres formes : *yelenyelen*, *yelenyelennde*. <span class="ks-src">[Nb 21,28](https://www.bible.com/bible/1394/NUM.21.28.BKG)</span>
 
@@ -12824,7 +12824,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yèlèŋ-yéléŋndó|s}}** *n.* (o) — **kissi du Sud seulement** — grossièreté, conduite folle ou irrespectueuse, crise. <span class="ks-src">Childs 2000, p. 402</span>
 
-**{{yeliaa|r}}** *v.* — sucrer. Autres formes : *yelia*. <span class="ks-src">Lexique kissi–français, p. 65</span>
+**{{yeliaa|r}}** *v.* — sucrer. Autres formes : *yelia*. Variantes : *yeriaa* (avec r), *yeria*. <span class="ks-src">Lexique kissi–français, p. 65</span>
 
 **{{yelnɔɔ|r}}** *n.* — griot. <span class="ks-src">Terminologie (arts), n° 136</span>
 
@@ -12902,7 +12902,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yɛ̀kpɔ̀ɔ́|s}}** *n.* (o), pl. {{yɛ̀kpéláŋ|s}} — **kissi du Sud seulement** — abri (p. ex. de gardien chassant les oiseaux). <span class="ks-src">Childs 2000, p. 404</span>
 
-**{{yɛlaa|r}}** *v.* — multiplier, agrandir. Autres formes : *yɛla*. <span class="ks-src">Lexique kissi–français, p. 65</span>
+**{{yɛlaa|r}}** *v.* — multiplier, agrandir. Autres formes : *yɛla*. Variantes : *yɛraa* (avec r), *yɛra*. <span class="ks-src">Lexique kissi–français, p. 65</span>
 
 **{{yɛlen}}** *n.* (len) — haine, animosité (tol X yɛlen « haïr X » ; yɛlen tollo « persécution, être persécuté »). *kissi du Sud (Childs 2000, en anglais) :* hatred, bad feelings; (yɛ̀lɛ̀-tùlààléŋ) persecution. <span class="ks-src">[Gn 26,27](https://www.bible.com/bible/1394/GEN.26.27.BKG)</span>
 
@@ -13020,9 +13020,9 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yilamalio|r}}** *n.* — hippopotame. <span class="ks-src">Paulme 1964, p. 127 (G)</span>
 
-**{{yilankamaa|r}}** *n.* (o) — hippopotame. <span class="ks-src">Paulme 1964, p. 128; Lexique kissi–français, p. 66</span>
+**{{yilankamaa|r}}** *n.* (o) — hippopotame. Variantes : *yirankamaa* (avec r). <span class="ks-src">Paulme 1964, p. 128; Lexique kissi–français, p. 66</span>
 
-**{{yilankunndo|r}}** *n.* (o) — météore, étoile filante. <span class="ks-src">Lexique kissi–français, p. 66</span>
+**{{yilankunndo|r}}** *n.* (o) — météore, étoile filante. Variantes : *yirankunndo* (avec r). <span class="ks-src">Lexique kissi–français, p. 66</span>
 
 **{{yilankuo|r}}** *n.*, pl. {{yilankoa|r}} — hippopotame. <span class="ks-src">Paulme 1964, p. 128 (G)</span>
 
@@ -13034,7 +13034,7 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yílíŋ|s}}** *idéo.* — **kissi du Sud seulement** — (groupe informe, attroupement). <span class="ks-src">Childs 2000, p. 407</span>
 
-**{{yilisio|r}}** *n.* (o) — richesse ; s'enrichir. <span class="ks-src">Lexique kissi–français, p. 66</span>
+**{{yilisio|r}}** *n.* (o) — richesse ; s'enrichir. Variantes : *yirisio* (avec r). <span class="ks-src">Lexique kissi–français, p. 66</span>
 
 **{{yilɔɔ kɔl diandaa|r}}** *n.* — marche de fidélité. <span class="ks-src">Terminologie (idéologie), n° 414</span>
 
@@ -13380,19 +13380,19 @@ Ce dictionnaire est produit automatiquement à partir du [lexique](https://githu
 
 **{{yùléŋ|s}}** *n.* (le) — **kissi du Sud seulement** — arbre (espèce) à sève rouge (sert à affaiblir les boas). <span class="ks-src">Childs 2000, p. 416</span>
 
-**{{yuliaa|r}}** *v.* — éparpiller (la braise pour l'éteindre). Autres formes : *yulia*. <span class="ks-src">Lexique kissi–français, p. 68</span>
+**{{yuliaa|r}}** *v.* — éparpiller (la braise pour l'éteindre). Autres formes : *yulia*. Variantes : *yuriaa* (avec r), *yuria*. <span class="ks-src">Lexique kissi–français, p. 68</span>
 
-**{{yulianndo|r}}** *v.* — se rouler par terre. Autres formes : *yulian*. <span class="ks-src">Lexique kissi–français, p. 68</span>
+**{{yulianndo|r}}** *v.* — se rouler par terre. Autres formes : *yulian*. Variantes : *yurian*. <span class="ks-src">Lexique kissi–français, p. 68</span>
 
 **{{yullo|r}}** *n.* — flamboyant (arbre), dont le bois sert à fabriquer la harpe fourchue. <span class="ks-src">Paulme 1964, p. 130</span>
 
 **{{yulɔndo|r}}** *n.*, pl. {{yulɔnta|r}} — inhalation (remède). <span class="ks-src">Paulme 1964, p. 130</span>
 
-**{{yulɔɔ}}**<sup>1</sup> *v.* — supporter, endurer ; être patient ; patience. *kissi du Sud (Childs 2000, en anglais) :* smoke out; point at; be patient, withstand pain; stretch. <span class="ks-src">[1 Th 3,1](https://www.bible.com/bible/1394/1TH.3.1.BKG)</span>
+**{{yulɔɔ}}**<sup>1</sup> *v.* — supporter, endurer ; être patient ; patience. *kissi du Sud (Childs 2000, en anglais) :* smoke out; point at; be patient, withstand pain; stretch. Variantes : *yurɔɔ* (avec r). <span class="ks-src">[1 Th 3,1](https://www.bible.com/bible/1394/1TH.3.1.BKG)</span>
 
 **{{yulɔɔ|?}}**<sup>2</sup> *v.* — moisir, s'étendre (moisissure). Autres formes : *yul*. <span class="ks-src">Lexique kissi–français, p. 67</span>
 
-**{{yulullo|r}}** *v.* — indiquer, pointer (du bras, du doigt). Autres formes : *yulul*. <span class="ks-src">Lexique kissi–français, p. 68</span>
+**{{yulullo|r}}** *v.* — indiquer, pointer (du bras, du doigt). Autres formes : *yulul*. Variantes : *yurullo* (avec r), *yurul*. <span class="ks-src">Lexique kissi–français, p. 68</span>
 
 **{{yúlúlló|s}}** *n.* (o) — **kissi du Sud seulement** — champignon comestible (espèce) à longue racine. <span class="ks-src">Childs 2000, p. 416</span>
 

@@ -12,7 +12,23 @@ Les particules sont de petits mots sans sens lexical propre, qui marquent une re
 | {{aa}} | introduit des paroles rapportées | {{Mí Hala dimi aa}} « Et Dieu dit : » [Gn 1,3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{pɛ}} | ferme la condition ouverte par {{te}} | {{te o de pɛ kɔmnde yɔm kon}} [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
 
-La particule {{ni}} termine la phrase qui identifie ou met en relief un élément ; dans la phrase négative correspondante, elle est remplacée par la négation finale (voir [Négation](../verbs/negation.md)). Le kissi du Sud a la même particule de focalisation *ní* [[(Childs1995, p. 124)]].
+La particule {{ni}} termine la phrase qui identifie ou met en relief un élément ; dans la phrase négative correspondante, elle est remplacée par la négation finale (voir [Négation](../verbs/negation.md)). Le kissi du Sud a la même particule de focalisation *ní* [[(Childs1995, p. 124)]]. Le conte noté par Paulme dans les années 1940 oppose ainsi la phrase négative, fermée par {{le}}, et la phrase de mise en relief, fermée par {{ni}} ([Paulme, texte 11](../../appendix/paulme-texts.md#11-le-porc-epic-et-le-lievre)) :
+
+<div class="ks-interlinear" markdown="1">
+
+| *mallo* | *dimi* | *ɔ* | *tyɔra* | *kure* |
+| --- | --- | --- | --- | --- |
+| {{miallo}} | {{dimi}} | {{o}} | {{co le\|?}} | {{kulan\|r}} {{le}} |
+| l'étranger | dit | ce | n'est pas | des soufflets |
+
+| *nira* | *nira* | *ni* |
+| --- | --- | --- |
+| {{nila}} | {{nila}} | {{ni}} |
+| oreilles | oreilles | c'est |
+
+</div>
+
+<p class="ks-free" markdown="1">L'Étranger dit : « Ce ne sont pas des soufflets, ce sont des oreilles ! » [[(Paulme1964, p. 159, 164)]]</p>
 
 ## Particule de politesse : *-ndɔ*, *-yɔ*, *-lɔ*
 
@@ -38,6 +54,8 @@ Placées juste après le nom ou le pronom, elles en précisent la portée [[(Kei
 | {{vɛlɛ}} | encore, aussi (après le verbe) | {{Mí Hala dimi vɛlɛ aa}} « Dieu dit encore » [Gn 1,6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 {{vɛlɛ}} est la seule de ces particules qui se place après le verbe [[(Keita1979, p. 118)]].
+
+Après un pronom, {{pilɛ}} « un » signifie « seul » : {{O niŋ mì vanapɔnɔɔ va ndu pilɛ le}} « Il n'est pas bon que l'homme soit seul » [[GEN.2.18]]. Paulme le relève déjà [[(Paulme1964, p. 79)]] : {{ya pilɛ}} « moi seul ».
 
 !!! rule "Règles d'écriture"
     - Les particules s'écrivent **séparées** : {{ya pila}}, {{nɔm pilɛ kpé}}, {{dimi vɛlɛ}}.

@@ -14,6 +14,19 @@ The verbal sentence consists of a subject (noun or pronoun), a verb and its obje
 | X {{co}} + place | X is (located) at… | {{Mɛlɛka co o fondaa ho}} “the Lord is in this place” [Gen 28:16](https://www.bible.com/bible/1394/GEN.28.16.BKG) |
 | X {{va}} + place, state | X was… | {{Lɛŋnden le va tulumasaa}} “the earth was formless” [Gen 1:2](https://www.bible.com/bible/1394/GEN.1.2.BKG) |
 | X {{ni}} | it is X | {{Paale taselen le yɔŋnun nden ni}} “that was the first day” [Gen 1:5](https://www.bible.com/bible/1394/GEN.1.5.BKG) |
+
+The verb “to be” can also be left out, the two nouns simply following each other: {{Tɛyii tasei diolan Pison}} “the name of the first river is Pison” [[GEN.2.11]]. Paulme already notes that “the verb to be is often understood” [[(Paulme1964, p. 161)]], in a sentence of the same shape ([Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)):
+
+<div class="ks-interlinear" markdown="1">
+
+| *sando* | *dolã* | *mallo* |
+| --- | --- | --- |
+| {{saŋndo}} | {{diolan}} | {{miallo}} |
+| the hare | the name | the stranger |
+
+</div>
+
+<p class="ks-free" markdown="1">The hare's name was “Stranger”. [[(Paulme1964, p. 157)]]</p>
 | X {{co}} … {{le}} | X is not… | {{O co dɛnɛ vana bɛnda le tosa le}} [Gen 20:9](https://www.bible.com/bible/1394/GEN.20.9.BKG) |
 
 ## Possession: “to have”

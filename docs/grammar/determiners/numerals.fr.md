@@ -14,7 +14,7 @@ Les formes et les règles de cette page sont dégagées des textes de la Bible e
 | 4 | {{hiɔɔlu}} | 9 | {{ŋɔmahiɔɔlu}} |
 | 5 | {{ŋuɛɛnu}} | 10 | {{tɔ́}} |
 
-Les nombres de 6 à 9 sont formés sur 5 : *ŋɔm-* + 1, 2, 3, 4 ({{ŋɔmpum}}, {{ŋɔmmɛw}}, {{ŋɔmaa}}, {{ŋɔmahiɔɔlu}}).
+Les nombres de 6 à 9 sont formés sur 5 : *ŋɔm-* + 1, 2, 3, 4 ({{ŋɔmpum}}, {{ŋɔmmɛw}}, {{ŋɔmaa}}, {{ŋɔmahiɔɔlu}}). Paulme note déjà ce calcul sur cinq dans les années 1940 [[(Paulme1964, p. 69)]] : *nuamu* « sept /5 + 2/ », *nɔma* « huit /5 + 3/ ». Son *nɔma nwɔlu*, glosé « quatre », est en fait « neuf » (5 + 4), {{ŋɔmahiɔɔlu}} dans la Bible.
 
 ### Dizaines, centaines, milliers
 

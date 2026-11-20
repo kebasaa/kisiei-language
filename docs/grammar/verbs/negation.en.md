@@ -9,7 +9,7 @@ The particle is placed **at the end of the negated clause**, after the objects a
 - {{I sínà le}} “I do not know” [1 Sam 17:55](https://www.bible.com/bible/1394/1SA.17.55.BKG);
 - {{o di ɲɛdiaa le, o kol vɛlɛ le}} “he ate no food and did not drink either” [Exod 34:28](https://www.bible.com/bible/1394/EXO.34.28.BKG).
 
-It takes the form {{te}} when the word before it ends in a **nasal consonant** (*n*, *m*, *ŋ*) **or in *l***; after a vowel or *w*, it stays {{le}}. In the Bible, *te* follows a nasal more than 2,600 times and *l* more than 360 times, and *le* is never found after these consonants. The 1979 description mentions only the nasals [[(Keita1979, p. 72)]]; the description of Southern Kissi gives *te* after any consonant [[(Childs1995, p. 142-143)]].
+It takes the form {{te}} when the word before it ends in a **nasal consonant** (*n*, *m*, *ŋ*) **or in *l***; after a vowel or *w*, it stays {{le}}. In the Bible, *te* follows a nasal more than 2,600 times and *l* more than 360 times, and *le* is never found after these consonants. The 1979 description mentions only the nasals [[(Keita1979, p. 72)]]; the description of Southern Kissi gives *te* after any consonant [[(Childs1995, p. 142-143)]]. Paulme already writes *te* after *l* in the 1940s: *lɔlte*, that is {{lɔl te}} “(he) does not sleep” [[(Paulme1964, p. 162)]].
 
 - {{I mel nɔm te}} “I will not let you (go)” [Gen 32:27](https://www.bible.com/bible/1394/GEN.32.27.BKG);
 - {{hali pilanndo bɛɛ la pilan te}} “do not even touch it” [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG);
@@ -70,7 +70,7 @@ The negative future keeps the suffix *-nin* and, for alternating verbs, the vowe
 
 ### Prohibition (negative imperative)
 
-The negative imperative uses the habitual stem and the final particle: {{La dia le}} “do not eat of it” [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG), {{La suunda le}} “You shall not commit adultery” [Exod 20:14](https://www.bible.com/bible/1394/EXO.20.14.BKG).
+The negative imperative uses the habitual stem and the final particle: {{La dia le}} “do not eat of it” [Gen 3:3](https://www.bible.com/bible/1394/GEN.3.3.BKG), {{La suunda le}} “You shall not commit adultery” [Exod 20:14](https://www.bible.com/bible/1394/EXO.20.14.BKG), {{La kɔa lon te}} “do not go up” [Num 14:42](https://www.bible.com/bible/1394/NUM.14.42.BKG).
 
 ## “Not yet”, “nothing”, “nobody”
 
@@ -82,5 +82,21 @@ The negative imperative uses the habitual stem and the final particle: {{La dia 
 
 To negate “it is X”, {{co}} and the final particle are used, where the affirmative uses the particle {{ni}}: {{Hoo co masa Yuifia ni}} “this is the king of the Jews” [Luke 23:38](https://www.bible.com/bible/1394/LUK.23.38.BKG) versus {{O co dɛnɛ vana bɛnda le tosa le}} “it is not a thing that ought to be done” [Gen 20:9](https://www.bible.com/bible/1394/GEN.20.9.BKG). In this construction, Southern Kissi puts the noun's class pronoun before it [[(Childs1995, p. 261-262)]]; this point still needs to be checked for the Kisiei of Guinea.
 
+A tale recorded by Paulme in the 1940s contrasts {{co}} … {{le}} and {{ni}} in the same way ([Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)):
+
+<div class="ks-interlinear" markdown="1">
+
+| *ɔ tyɔ* | *kwɔ re* | *siya* | *siya* | *nya ni* |
+| --- | --- | --- | --- | --- |
+| {{o co}} | {{kɔɔn\|?}} {{le}} | {{siyan\|r}} | {{siyan\|r}} | {{ɲa\|?}} {{ni}} |
+| it is | arrows not | quills | quills | for me |
+
+</div>
+
+<p class="ks-free" markdown="1">“These are not arrows, they are quills, my quills!”</p>
+
 !!! keita "1979 usage"
     The *le* / *te* rule is described in 1979 for the nasals only (“*le* is realised as *te* when the final sound of the word before it is nasal”) [[(Keita1979, p. 72)]]; the Bible extends it to *l*. The 1979 tables also give the negative of each tense (*I tyo kolö le*, *I kol te*, *I kolnin te*) [[(Keita1979, p. 96-104)]].
+
+!!! keita "Older usage"
+    Paulme (1940s) and the fables *Sandara Kissia* often write the particle with *r*, and Paulme joins it to the word before: *ɔ tyɔ bɔre* “it is not much”, *ɔ seŋu re* “he does not heal” [[(Paulme1964, p. 91, 163)]], *o nɔra lɛ nyɛ-nyɛ tosa re* “he could no longer do anything” (fable 19) [[(SandaraKisia)]]. This is the *r* pronunciation of Kissidougou (see [From the old to the new spelling](../../orthography/old-and-new.md)). Paulme also notes *ra* (*ɔ tyɔra* “it is not”) and wonders whether *i nɔre la* “I no longer have” is a double negation [[(Paulme1964, p. 164-165)]]; her negative future *ɔ kwani sɔre* “he will not leave tomorrow” [[(Paulme1964, p. 48)]] keeps the vowel of the affirmative, where the Bible changes the stem ({{kuenin te}}). The guide follows the Bible: {{o co bɔɔ le}}, {{o sengu le}}, {{o nɔla lɛ ɲɛ-ɲɛ tosa le}}, with {{le}} / {{te}} written separately.

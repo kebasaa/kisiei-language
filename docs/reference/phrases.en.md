@@ -33,3 +33,9 @@ A few common phrases, all taken from the Kisiei Bible [[(BKG)]]. They show the s
 | {{Kuɛɛ nɛ n co yɛ?}} | Where are you? | [Gen 3:9](https://www.bible.com/bible/1394/GEN.3.9.BKG) |
 
 For other everyday greetings, see the dialogues in the 1979 description (in the old spelling) [[(Keita1979)]]; forms that do not appear in the Bible must be checked with speakers.
+
+## Older formulas and proverbs
+
+The Bible uses {{La lɔl kɛndɛ}} "farewell, stay well" when taking leave ([Acts 15:29](https://www.bible.com/bible/1394/ACT.15.29.BKG)). In the 1940s Denise Paulme recorded *lɔ kɛnde* "goodbye, good night" and *a lɔ kɛnde* "good morning", answered with *nyɛnyɛre* "fine" [[(Paulme1964, p. 42, 72)]], and the question *a lɔl kɛnde* "did you sleep well?" [[(Paulme1964, p. 58)]].
+
+Proverbs and riddles, respelled in the Bible's orthography, are collected in the appendix [Tales, proverbs and riddles](../appendix/tales.md); texts about everyday life (cooking, farm work, prayers) in [Denise Paulme's texts](../appendix/paulme-texts.md).

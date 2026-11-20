@@ -23,6 +23,19 @@ When the subject is a noun of a class other than *o*, it is **taken up again by 
 
 With a singular noun of the *o* class, the verb follows directly: {{Mí vanalanɔɔ mulul ndu aa}} “And the woman answered him” [Gen 3:2](https://www.bible.com/bible/1394/GEN.3.2.BKG).
 
+Paulme makes the same observation in the 1940s: the 3rd person pronoun “reinforces the noun subject” [[(Paulme1964, p. 163)]]. Her texts give many examples ([Paulme, text 1](../../appendix/paulme-texts.md#1-the-enemies-of-the-plantation-les-ennemis-de-la-plantation)):
+
+<div class="ks-interlinear" markdown="1">
+
+| *tuambia* | *a* | *tu* | *yuwa* |
+| --- | --- | --- | --- |
+| {{cuaambɔa}} | {{a}} | {{tu\|?}} | {{yowva}} |
+| the children | they | watch | the birds |
+
+</div>
+
+<p class="ks-free" markdown="1">The children watch over the birds. [[(Paulme1964, p. 131)]]</p>
+
 !!! rule "Rule"
     Noun subject (except class *o*) + **class pronoun** + verb: {{Lɛŋnden le va}}, {{kobilan la va}}. The pronoun is written as a separate word.
 

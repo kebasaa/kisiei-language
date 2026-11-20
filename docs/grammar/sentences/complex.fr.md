@@ -36,7 +36,10 @@ La condition s'ouvre par {{te}} et se ferme par {{pɛ}}, placé juste **après l
 - {{te o de pɛ kɔmnde yɔm kon, o co vannɔn yoomu le fɛɛn a fɛɛn}} « s'il mange du fruit de cet arbre, il vivra éternellement » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) ;
 - condition irréelle avec le pronom allongé : {{te yáà de pɛ visin}} « si j'avais mangé de la viande » [Lv 10,19](https://www.bible.com/bible/1394/LEV.10.19.BKG).
 
-Une condition négative garde {{pɛ}} et place la négation à la fin de la condition : {{Kɛ taa liila ya le, i kuenin te}} « mais si tu ne viens pas avec moi, je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* « si tu »).
+Une condition négative se passe le plus souvent de {{pɛ}} : c'est la négation qui ferme la condition. {{Kɛ taa liila ya le, i kuenin te}} « mais si tu ne viens pas avec moi, je n'irai pas » [Jg 4,8](https://www.bible.com/bible/1394/JDG.4.8.BKG) ({{taa}} = *te* + *a* « si tu ») ; {{Te i cuu nɔm ndu le, a diw poaa niaa ŋiɔnda}} « si je ne te le ramène pas, fais mourir mes deux fils » [[GEN.42.37]]. Un proverbe de l'annexe de Keita a la même forme : {{Te yaw tembu le, vii pim te}} [[(Keita1979Annexe, p. 168)]] (voir [Contes, proverbes et devinettes](../../appendix/tales.md)).
+
+!!! keita "Usage ancien"
+    *Sandara Kissia* ouvre la condition par *ti* et, à la 2e personne, par *ta* [[(SandaraKisia)]] : la fable 17 a pour titre {{Ti Hala cɛl pɛ}} « si Dieu le veut », et la fable 1 emploie *ta … pɛ* « si tu… ». La Bible écrit {{te}} et {{taa}} ({{Taa cɛl pɛ le ya liilaa, i kɔɛ}} « si tu acceptes de m'accompagner, j'irai » [[JDG.4.8]]) ; elle n'a *ti* qu'une fois [[PSA.108.14]]. Le guide suit la Bible.
 
 <figure class="ks-figure" markdown="1">
 

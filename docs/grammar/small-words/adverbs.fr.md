@@ -15,6 +15,9 @@ Les adverbes sont invariables ; ils se placent en général **après le verbe et
 | {{ɲinasiaŋ}} | l'an prochain | {{boondei he ɲinasiaŋ-ndo}} « à cette époque, l'an prochain » [Gn 17,21](https://www.bible.com/bible/1394/GEN.17.21.BKG) |
 | {{le fɛɛn a fɛɛn}} | pour toujours | {{o co vannɔn yoomu le fɛɛn a fɛɛn}} « il vivrait éternellement » [Gn 3,22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
 | {{few}} | jamais (avec la négation) | {{Ɲɛm mun pɛnginin tosanndo le few}} « ces choses ne cesseront jamais » [Gn 8,22](https://www.bible.com/bible/1394/GEN.8.22.BKG) |
+| {{lɔ́ɔ́-lɔ́ɔ̀}} | toujours, souvent ; avec la négation, (plus) jamais | {{Mɛlɛkanɔ kon cɔmnun lɛ nda lɔ́ɔ́-lɔ́ɔ̀ le}} « l'ange ne leur apparut plus jamais » [[JDG.13.21]] |
+
+Paulme donne déjà *lɔlɔ* « souvent, toujours » et *lɔlɔre* « jamais » [[(Paulme1964, p. 58)]], et *Sandara Kissia* emploie la même tournure (fable 3) : {{A sɔlanin lɔ́ɔ́-lɔ́ɔ̀ le}} « tu n'en auras jamais » [[(SandaraKisia)]].
 
 ## Adverbes de lieu
 

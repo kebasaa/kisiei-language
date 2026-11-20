@@ -34,6 +34,8 @@ Le redoublement avec trait d'union forme les indéfinis de personne et de chose 
 - {{vana-vana}} « quelqu'un, qui que ce soit » ; avec la négation, « personne » : {{vana-vana ve lasiɛmbu}} « personne n'avait honte » [Gn 2,25](https://www.bible.com/bible/1394/GEN.2.25.BKG) ;
 - {{ɲɛ-ɲɛ}} « quelque chose, quoi que ce soit » ; avec la négation, « rien » : {{ɲɛ-ɲɛ ve lecoo le}} « il n'y avait rien dessus » [Gn 1,2](https://www.bible.com/bible/1394/GEN.1.2.BKG).
 
+Avec la négation, {{vana}} seul signifie aussi « personne » : {{hali mì vana ve niaa tovɔɔ le}} « sans que personne vous poursuive » [[LEV.26.17]]. *Sandara Kissia* l'emploie de même, écrit *wanna* (fable 9) [[(SandaraKisia)]].
+
 ## « Le même, un seul » : accord
 
 {{pilɛ}} « un » forme un indéfini qui s'accorde avec la classe du nom, au sens de « le même, un seul » :

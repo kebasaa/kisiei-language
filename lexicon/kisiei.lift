@@ -366,6 +366,8 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>balan</text></form></field>
     <variant><form lang="kqs"><text>ba</text></form></variant>
+    <variant><form lang="kqs"><text>bao</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>baran</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="baa_30_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>main, bras</text></gloss>
@@ -374,7 +376,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>hand, arm; also way, fork in a road</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 555 occurrences, first GEN.1.9; Keita 1979, p. 131: Baa; Paulme 1964, p. 3 (G): baa, pl. balã; Lexique kissi–français, p. 3: baa; Childs 2000, p. 2: bàá</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 3 : baa, pl. balã /G./, bao, pl. barã /K./ ; wana ba pilɔ « manchot ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 3 : baa, pl. balã /G./, bao, pl. barã /K./ ; wana ba pilɔ « manchot ». Paulme : baa, pl. balã /G./ ; bao, pl. barã /K./ (p. 3).</text></form></note>
   </entry>
   <entry id="baa_31">
     <lexical-unit><form lang="kqs"><text>baa</text></form></lexical-unit>
@@ -562,6 +564,8 @@
     <lexical-unit><form lang="kqs"><text>baalandoo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>baalan</text></form></variant>
+    <variant><form lang="kqs"><text>baarandoo</text></form></variant>
+    <variant><form lang="kqs"><text>baaran</text></form></variant>
     <sense id="baalandoo_45_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>attaquer</text></gloss>
@@ -1264,6 +1268,7 @@
     <lexical-unit><form lang="kqs"><text>baluo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>baruo</text></form></variant>
     <sense id="baluo_100_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>fourreau</text></gloss>
@@ -3392,7 +3397,7 @@
       <trait name="semantic-domain-ddp4" value="7.5.3 Mix"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 1 occurrences, first PRO.23.30; Paulme 1964, p. 9: biŋilando; Lexique kissi–français, p. 6: bingilanndo/ bingilan</text></form></note>
-    <note><form lang="fr"><text>Le Lexique kissi–français écrit bingilanndo/ bingilan « mélanger ensemble » (p. 6) ; bingilan est dans la Bible (PRO.28.21). Paulme 1964, p. 9 : biŋilando « mélanger, mélange » (i biŋila « je mélange »).</text></form></note>
+    <note><form lang="fr"><text>Le Lexique kissi–français écrit bingilanndo/ bingilan « mélanger ensemble » (p. 6) ; le bingilan de la Bible est un autre mot, « morceaux » (bulula bingilan « des morceaux de pain », EZK.13.19). Paulme 1964, p. 9 : biŋilando « mélanger, mélange » (i biŋila « je mélange »).</text></form></note>
   </entry>
   <entry id="binibini_266">
     <lexical-unit><form lang="kqs"><text>binibini</text></form></lexical-unit>
@@ -3982,6 +3987,9 @@
     <trait name="noun-class" value="lan"/>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>bolola</text></form></variant>
+    <variant><form lang="kqs"><text>burulan</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>burula</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>bɔŋola</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="bololan_311_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>cou, gorge ; (kialu … bololan) égorger</text></gloss>
@@ -3989,7 +3997,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.2 Torso"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 79 occurrences, first GEN.22.10; Paulme 1964, p. 11: bɔlɔlã</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 11 : bɔlɔlã « gorge (des animaux seulement) » ; burule /G./, burulã /K./, bɔnora.</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 11 : bɔlɔlã « gorge (des animaux seulement) » ; burule /G./, burulã /K./, bɔnora. Paulme : bɔlɔlã, pl. burule /G./, burulã /K./ (p. 11) ; burula, burulã /K./, bɔlola, bɔŋora /G./ (p. 15).</text></form></note>
   </entry>
   <entry id="bololen_312">
     <lexical-unit><form lang="kqs"><text>bololen</text></form></lexical-unit>
@@ -5433,6 +5441,7 @@
     <lexical-unit><form lang="kqs"><text>buŋabotema</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>bukabɔtema</text></form></variant>
+    <variant><form lang="kqs"><text>dɔmndo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="buŋabotema_422_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pourghère (arbuste)</text></gloss>
@@ -5440,7 +5449,7 @@
       <trait name="semantic-domain-ddp4" value="1.5.2 Bush, shrub"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 14 (G): buŋabotema /G./, bukabɔtema</text></form></note>
-    <note><form lang="fr"><text>Paulme : nom à Guéckédou de l'arbuste appelé dɔmdo à Kissidougou ; p. 20 : dɔmdo /K./, pl. dɔmda « pourghère » ; dɔm'tyɛo « pourghère à l'entrée du village ».</text></form></note>
+    <note><form lang="fr"><text>Paulme : nom à Guéckédou de l'arbuste appelé dɔmdo à Kissidougou ; p. 20 : dɔmdo /K./, pl. dɔmda « pourghère » ; dɔm'tyɛo « pourghère à l'entrée du village ». Paulme : buŋabotema à Guéckédou, dɔmdo /K./ à Kissidougou (p. 14, 20).</text></form></note>
   </entry>
   <entry id="bùŋbùŋndó_423">
     <lexical-unit><form lang="kqs"><text>bùŋbùŋndó</text></form></lexical-unit>
@@ -5841,6 +5850,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>bɔlɔlan</text></form></field>
+    <variant><form lang="kqs"><text>bɔrɔɔ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="bɔlɔɔ_454_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sac</text></gloss>
@@ -5853,6 +5863,7 @@
     <lexical-unit><form lang="kqs"><text>bɔlɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>bɔlɔlɛ</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="bɔlɔɔ_455_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>banane</text></gloss>
@@ -5862,7 +5873,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>banana, banana tree</text></form></field>
     <note type="source"><form lang="en"><text>Keita 1979, p. 139: Bölöö; Paulme 1964, p. 11: bɔlle, pl. bɔlɛ ; bɔlɔlɛ /G/. bɔlle; Lexique kissi–français, p. 7: bɔlɔɔ; Childs 2000, p. 27: bɔ́lɔ́ɔ́</text></form></note>
-    <note><form lang="fr"><text>Dans la Bible, bɔlɔɔ est un homonyme « sac » (GEN.42.27, 1SA.1.24). Le Lexique kissi–français donne aussi bɔllen « la banane » (p. 7). Paulme 1964, p. 11 : bɔlle, pl. bɔlɛ ; bɔlɔlɛ /G./ « banane ».</text></form></note>
+    <note><form lang="fr"><text>Dans la Bible, bɔlɔɔ est un homonyme « sac » (GEN.42.27, 1SA.1.24). Le Lexique kissi–français donne aussi bɔllen « la banane » (p. 7). Paulme 1964, p. 11 : bɔlle, pl. bɔlɛ ; bɔlɔlɛ /G./ « banane ». Paulme : bɔlle, pl. bɔlɛ ; bɔlɔlɛ /G./ (p. 11).</text></form></note>
   </entry>
   <entry id="bɔ̀lɔ̀ɔbɔ̀lɔ́ɔ́_456">
     <lexical-unit><form lang="kqs"><text>bɔ̀lɔ̀ɔbɔ̀lɔ́ɔ́</text></form></lexical-unit>
@@ -7098,6 +7109,7 @@
     <lexical-unit><form lang="kqs"><text>bɛnɛbɛŋelan</text></form></lexical-unit>
     <trait name="noun-class" value="lan"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>bɛnɛbɛŋeran</text></form></variant>
     <sense id="bɛnɛbɛŋelan_551_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>étincelles</text></gloss>
@@ -8627,6 +8639,8 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>cieon</text></form></field>
     <variant><form lang="kqs"><text>ciee</text></form></variant>
+    <variant><form lang="kqs"><text>cɛɔ</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>cɔ</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="cieo_670_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>village, ville ; cité</text></gloss>
@@ -8634,7 +8648,7 @@
       <trait name="semantic-domain-ddp4" value="4.6.7 Region"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 28 occurrences, first GEN.15.7; Keita 1979, p. 142: Tyieo; Paulme 1964, p. 112 (G/K): tyɛɔ, pl. tyɛa /K./, tyɔ, pl. tyɔ̃ /G./; Lexique kissi–français, p. 10: cieo; Terminologie (histoire), n° 156: Tyieo; Childs 2000, p. 49: cíóó</text></form></note>
-    <note><form lang="fr"><text>Le Lexique kissi–français donne aussi ce « le village » et ceo « la ville, le village » (p. 9). Paulme 1964, p. 112 : tyɛɔ, pl. tyɛa /K./ ; tyɔ, pl. tyɔ̃ /G./ ; tye pɔm « village des morts ».</text></form></note>
+    <note><form lang="fr"><text>Le Lexique kissi–français donne aussi ce « le village » et ceo « la ville, le village » (p. 9). Paulme 1964, p. 112 : tyɛɔ, pl. tyɛa /K./ ; tyɔ, pl. tyɔ̃ /G./ ; tye pɔm « village des morts ». Paulme : tyɛɔ, pl. tyɛa /K./, tyɔ, pl. tyɔ̃ /G./ (p. 112).</text></form></note>
   </entry>
   <entry id="cieo balɔɔ_671">
     <lexical-unit><form lang="kqs"><text>cieo balɔɔ</text></form></lexical-unit>
@@ -8713,6 +8727,9 @@
   <entry id="ciimbuu_677">
     <lexical-unit><form lang="kqs"><text>ciimbuu</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>kimbu</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>kiimbu</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>timbu</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="ciimbuu_677_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>voler, dérober</text></gloss>
@@ -8721,7 +8738,7 @@
       <trait name="semantic-domain-ddp4" value="4.7 Law"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 43 occurrences, first GEN.31.19; Paulme 1964, p. 45 (G/K): kimbu /K./, timbu /G./; Lexique kissi–français, p. 24: kiinbuo/ kiinbu</text></form></note>
-    <note><form lang="fr"><text>Le Lexique kissi–français, p. 24, écrit kiinbuo/kiinbu « voler ». Paulme 1964, p. 45 : kimbu (K.), timbu (G.) « voler » ; nyɛy kimbay « chose volée ». Aussi Paulme 1964, p. 105 : « timbu ». Paulme 1964, p. 105 : timbu /G./, kimbu, kyimbu /K./.</text></form></note>
+    <note><form lang="fr"><text>Le Lexique kissi–français, p. 24, écrit kiinbuo/kiinbu « voler ». Paulme 1964, p. 45 : kimbu (K.), timbu (G.) « voler » ; nyɛy kimbay « chose volée ». Aussi Paulme 1964, p. 105 : « timbu ». Paulme 1964, p. 105 : timbu /G./, kimbu, kyimbu /K./. Paulme : kimbu, kyimbu /K./, timbu /G./ (p. 45, 105).</text></form></note>
   </entry>
   <entry id="ciimiaa_678">
     <lexical-unit><form lang="kqs"><text>ciimiaa</text></form></lexical-unit>
@@ -9483,6 +9500,8 @@
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>colu</text></form></variant>
     <variant><form lang="kqs"><text>calu</text></form></variant>
+    <variant><form lang="kqs"><text>corɔɔ</text></form></variant>
+    <variant><form lang="kqs"><text>coru</text></form></variant>
     <sense id="colɔɔ_736_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>couper ; (colu) se couper</text></gloss>
@@ -10869,6 +10888,7 @@
     <lexical-unit><form lang="kqs"><text>cuŋo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <field type="plural"><form lang="kqs"><text>coŋula</text></form></field>
+    <variant><form lang="kqs"><text>cɔŋo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="cuŋo_843_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>bras (sans l'avant-bras)</text></gloss>
@@ -10876,7 +10896,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.3 Limb"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 116 (G/K): tyuŋo, pl. tyoŋura, tyoŋo, pl. tyɔŋɔrã /K./</text></form></note>
-    <note><form lang="fr"><text>Paulme : tyuŋo, pl. tyoŋura ; tyoŋo, pl. tyɔŋɔrã /K./ ; tyɔŋo, pl. tyɔŋulã /G./.</text></form></note>
+    <note><form lang="fr"><text>Paulme : tyuŋo, pl. tyoŋura ; tyoŋo, pl. tyɔŋɔrã /K./ ; tyɔŋo, pl. tyɔŋulã /G./. Paulme : tyuŋo, tyoŋo /K./ ; tyɔŋo /G./ (p. 116).</text></form></note>
   </entry>
   <entry id="cuɛcuelan_844">
     <lexical-unit><form lang="kqs"><text>cuɛcuelan</text></form></lexical-unit>
@@ -11039,6 +11059,7 @@
     <trait name="noun-class" value="i"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>cɔcɔn</text></form></field>
+    <variant><form lang="kqs"><text>kuekue</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="cɔcɔɛi_856_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>lèvre ; bord, ourlet ; bec</text></gloss>
@@ -11049,7 +11070,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>lip; beak, bill (also of a cap)</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 12 occurrences, first EXO.28.33; Keita 1979, p. 132: Työtyöèi; Paulme 1964, p. 108: tũɛy, tũɛy, pl. tũɛytũɔã; Lexique kissi–français, p. 11: cɔcɔɛi; Childs 2000, p. 55: cɔ̀cùɛ̀í</text></form></note>
-    <note><form lang="fr"><text>Dans la Bible, aussi le bord ou l'ourlet d'un vêtement (EXO.28.33). Paulme 1964, p. 108 : tũɛy, pl. tũɛytũɔã ; tyɔtũe /G./, pl. tyɔtyɔ̃.</text></form></note>
+    <note><form lang="fr"><text>Dans la Bible, aussi le bord ou l'ourlet d'un vêtement (EXO.28.33). Paulme 1964, p. 108 : tũɛy, pl. tũɛytũɔã ; tyɔtũe /G./, pl. tyɔtyɔ̃. Paulme : tyɔtũe /G./ ; kwekwe, pl. kwekɔã /K./ (p. 108, 114).</text></form></note>
   </entry>
   <entry id="cɔ́fùù_857">
     <lexical-unit><form lang="kqs"><text>cɔ́fùù</text></form></lexical-unit>
@@ -11543,6 +11564,7 @@
     <lexical-unit><form lang="kqs"><text>cɔpiyo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <field type="plural"><form lang="kqs"><text>cɔpiya</text></form></field>
+    <variant><form lang="kqs"><text>luŋo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="cɔpiyo_895_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>écureuil</text></gloss>
@@ -11550,7 +11572,7 @@
       <trait name="semantic-domain-ddp4" value="1.6.1 Types of animals"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 114 (G): tyɔpiyo /G./, pl. tyɔpiya</text></form></note>
-    <note><form lang="fr"><text>À Kissidougou : luŋo, pl. luŋua (Paulme ; cf. longoo, Lexique).</text></form></note>
+    <note><form lang="fr"><text>À Kissidougou : luŋo, pl. luŋua (Paulme ; cf. longoo, Lexique). Paulme : tyɔpiyo /G./ ; luŋo /K./, pl. luŋua (p. 114).</text></form></note>
   </entry>
   <entry id="cɔu_896">
     <lexical-unit><form lang="kqs"><text>cɔu</text></form></lexical-unit>
@@ -12042,6 +12064,7 @@
     <variant><form lang="kqs"><text>cɛi</text></form></variant>
     <variant><form lang="kqs"><text>cɛila</text></form></variant>
     <variant><form lang="kqs"><text>cɛinin</text></form></variant>
+    <variant><form lang="kqs"><text>kiɛyo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="cɛiyo_934_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>maison ; famille</text></gloss>
@@ -12050,7 +12073,7 @@
       <trait name="semantic-domain-ddp4" value="4.1.9 Kinship"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 167 occurrences, first GEN.19.11; Keita 1979, p. 142: Tyièiyo; Paulme 1964, p. 53 (G/K): kyɛyo /K./, tyɛyo /G./; Lexique kissi–français, p. 9: cɛiyo; Childs 2000, p. 44: cìɛ̀ìyó</text></form></note>
-    <note><form lang="fr"><text>La forme ciɛiyo proposée par la respelling n'apparaît qu'une fois (Lc 16,20) ; la Bible écrit cɛiyo. cɛinin (cɛi + nin) « dans la maison, chez soi » : o ndu lo cɛinin « chez lui ». Le Lexique kissi–français donne aussi ciɛiyo « la maison, la hutte » (p. 10). Aussi Paulme 1964, p. 112 : « tyɛy, tyɛɔ, pl. tyɛra ». Paulme 1964, p. 112 : aussi tyɛ̄yɔ, pl. tyɛrã ; tyɛy mã « case où circoncis et excisées passent la nuit précédant l'opération ».</text></form></note>
+    <note><form lang="fr"><text>La forme ciɛiyo proposée par la respelling n'apparaît qu'une fois (Lc 16,20) ; la Bible écrit cɛiyo. cɛinin (cɛi + nin) « dans la maison, chez soi » : o ndu lo cɛinin « chez lui ». Le Lexique kissi–français donne aussi ciɛiyo « la maison, la hutte » (p. 10). Aussi Paulme 1964, p. 112 : « tyɛy, tyɛɔ, pl. tyɛra ». Paulme 1964, p. 112 : aussi tyɛ̄yɔ, pl. tyɛrã ; tyɛy mã « case où circoncis et excisées passent la nuit précédant l'opération ». Paulme : kyɛyo /K./, tyɛyo /G./ (p. 53).</text></form></note>
   </entry>
   <entry id="cɛko_935">
     <lexical-unit><form lang="kqs"><text>cɛko</text></form></lexical-unit>
@@ -14299,6 +14322,7 @@
     <variant><form lang="kqs"><text>di</text></form></variant>
     <variant><form lang="kqs"><text>dianin</text></form></variant>
     <variant><form lang="kqs"><text>dinin</text></form></variant>
+    <variant><form lang="kqs"><text>doo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="dioo_1108_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>manger</text></gloss>
@@ -14550,6 +14574,8 @@
     <lexical-unit><form lang="kqs"><text>diɛɛmulen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>dɛmule</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>diamule</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="diɛɛmulen_1127_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>langue (organe)</text></gloss>
@@ -14557,7 +14583,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.1 Head"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 11 occurrences, first JOB.20.12; Keita 1979, p. 131: Dièèmulen; Paulme 1964, p. 17: dɛmule, pl. dɛmuã; Lexique kissi–français, p. 13: diɛɛmulen; Childs 2000, p. 83: dìɔ̀mùléŋ</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 17 : dɛmule, pl. dɛmuã « langue » ; dyamule /G./.</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 17 : dɛmule, pl. dɛmuã « langue » ; dyamule /G./. Paulme : dɛmule /K./, dyamule /G./ (p. 17, 23).</text></form></note>
   </entry>
   <entry id="diɲomaa_1128">
     <lexical-unit><form lang="kqs"><text>diɲomaa</text></form></lexical-unit>
@@ -14588,6 +14614,7 @@
     <lexical-unit><form lang="kqs"><text>dokpo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>dukpo</text></form></variant>
+    <variant><form lang="kqs"><text>dukpo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="dokpo_1130_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>riz paddy (?)</text></gloss>
@@ -14595,7 +14622,7 @@
       <trait name="semantic-domain-ddp4" value="6.2.1 Growing crops"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 20 (K): dogbo /K./, dugbo /G./</text></form></note>
-    <note><form lang="fr"><text>Paulme glose « poddy », sans doute « paddy » ; dugbo /G./. Sens à confirmer.</text></form></note>
+    <note><form lang="fr"><text>Paulme glose « poddy », sans doute « paddy » ; dugbo /G./. Sens à confirmer. Paulme : dogbo /K./, dugbo /G./ (p. 20).</text></form></note>
   </entry>
   <entry id="dòkpòó_1131">
     <lexical-unit><form lang="kqs"><text>dòkpòó</text></form></lexical-unit>
@@ -16083,6 +16110,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>dɛ̀ndɛ̀lan</text></form></field>
     <variant><form lang="kqs"><text>dɛ̀ndɛ̀</text></form></variant>
+    <variant><form lang="kqs"><text>dɛndoo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="dɛ̀ndɔ̀ɔ́_1247_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pirogue, bateau ; arche</text></gloss>
@@ -16092,7 +16120,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>canoe, boat; also an airplane</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 138 occurrences, first GEN.6.18; Keita 1979, p. 159: Dèndöö; Paulme 1964, p. 17: dɛndoo /G./ ou dɛndɔɔ; Lexique kissi–français, p. 13: dɛndɔɔ; Childs 2000, p. 75: dèndɔ̀ɔ́</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 17 : dɛndoo /G./ ou dɛndɔɔ « pirogue ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 17 : dɛndoo /G./ ou dɛndɔɔ « pirogue ». Paulme : dɛndoo /G./ ou dɛndɔɔ (p. 17).</text></form></note>
   </entry>
   <entry id="dɛndɔɔ_1248">
     <lexical-unit><form lang="kqs"><text>dɛndɔɔ</text></form></lexical-unit>
@@ -17053,6 +17081,7 @@
     <lexical-unit><form lang="kqs"><text>fanudo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>fando</text></form></variant>
+    <variant><form lang="kqs"><text>fando</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="fanudo_1323_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sabre</text></gloss>
@@ -17061,7 +17090,7 @@
       <trait name="semantic-domain-ddp4" value="6.7.1 Cutting tool"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 26 (K): fanudo /K./</text></form></note>
-    <note><form lang="fr"><text>Paulme : fando /G./, pl. fanta.</text></form></note>
+    <note><form lang="fr"><text>Paulme : fando /G./, pl. fanta. Paulme : fanudo /K./ ; fando /G./, pl. fanta (p. 26).</text></form></note>
   </entry>
   <entry id="fasa fasan_1324">
     <lexical-unit><form lang="kqs"><text>fasa fasan</text></form></lexical-unit>
@@ -18045,6 +18074,7 @@
     <lexical-unit><form lang="kqs"><text>folio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>puriɛ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="folio_1401_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>grossesse</text></gloss>
@@ -18053,7 +18083,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>pregnancy; also crab's shell</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 47 occurrences, first GEN.3.16; Keita 1979, p. 148: Folio; Paulme 1964, p. 28 (G): furyo /G./, puryɛ /K./; Lexique kissi–français, p. 16: folio; Childs 2000, p. 107: fòlìó</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 28 : furyo /G./, puryɛ /K./ « grossesse ». Aussi Paulme 1964, p. 84 : « purye ». Paulme 1964, p. 84 : purye « grossesse », furyo /G./ ; ɔ tyɔ a purye « elle est enceinte ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 28 : furyo /G./, puryɛ /K./ « grossesse ». Aussi Paulme 1964, p. 84 : « purye ». Paulme 1964, p. 84 : purye « grossesse », furyo /G./ ; ɔ tyɔ a purye « elle est enceinte ». Paulme : furyo /G./, puryɛ /K./ (p. 28).</text></form></note>
   </entry>
   <entry id="fòlìó_1402">
     <lexical-unit><form lang="kqs"><text>fòlìó</text></form></lexical-unit>
@@ -18445,6 +18475,7 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>fulanin</text></form></variant>
     <variant><form lang="kqs"><text>fulan</text></form></variant>
+    <variant><form lang="kqs"><text>fura</text></form></variant>
     <sense id="fula_1432_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>sortir ; venir de, provenir ; apparaître</text></gloss>
@@ -21145,6 +21176,7 @@
   <entry id="hiluan_1646">
     <lexical-unit><form lang="kqs"><text>hiluan</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>hiruan</text></form></variant>
     <sense id="hiluan_1646_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>envie, convoitise (de nourriture, de viande), appétit</text></gloss>
@@ -21159,6 +21191,7 @@
   <entry id="hilul_1647">
     <lexical-unit><form lang="kqs"><text>hilul</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>hirul</text></form></variant>
     <sense id="hilul_1647_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>haleter, être hors d'haleine ; être bouleversé, trembler</text></gloss>
@@ -21173,6 +21206,8 @@
     <lexical-unit><form lang="kqs"><text>hiluo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>hilu</text></form></variant>
+    <variant><form lang="kqs"><text>hiruo</text></form></variant>
+    <variant><form lang="kqs"><text>hiru</text></form></variant>
     <sense id="hiluo_1648_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>secouer, agiter</text></gloss>
@@ -21604,6 +21639,8 @@
   <entry id="hiɔɔlu_1680">
     <lexical-unit><form lang="kqs"><text>hiɔɔlu</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>nuɔlu</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>ɲɔlu</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="hiɔɔlu_1680_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>quatre</text></gloss>
@@ -21611,7 +21648,7 @@
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 157 occurrences, first GEN.2.10; Paulme 1964, p. 70 (G/K): nuɔlu /K./, nyɔlu /G./; Lexique kissi–français, p. 18: hiɔɔlu; Childs 2000, p. 128: hìɔ́ɔ́lú</text></form></note>
-    <note><form lang="fr"><text>Aussi Lexique kissi–français, p. 36 : « n hɔɔlu ». Lexique kissi–français, p. 36 écrit n hɔɔlu « quatre ». Paulme 1964, p. 70 : nuɔlu /K./, nyɔlu /G./ « quatre » (cf. nɔma nwɔlu, nɔma yɔlɔ « neuf »).</text></form></note>
+    <note><form lang="fr"><text>Aussi Lexique kissi–français, p. 36 : « n hɔɔlu ». Lexique kissi–français, p. 36 écrit n hɔɔlu « quatre ». Paulme 1964, p. 70 : nuɔlu /K./, nyɔlu /G./ « quatre » (cf. nɔma nwɔlu, nɔma yɔlɔ « neuf »). Paulme : nuɔlu /K./, nyɔlu /G./ (p. 70).</text></form></note>
   </entry>
   <entry id="hiɔɔlundɔɔ_1681">
     <lexical-unit><form lang="kqs"><text>hiɔɔlundɔɔ</text></form></lexical-unit>
@@ -22060,6 +22097,8 @@
     <lexical-unit><form lang="kqs"><text>hulio</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>huli</text></form></variant>
+    <variant><form lang="kqs"><text>hurio</text></form></variant>
+    <variant><form lang="kqs"><text>huri</text></form></variant>
     <sense id="hulio_1715_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>piler finement, réduire en purée</text></gloss>
@@ -22455,6 +22494,7 @@
   <entry id="hɔlta kalalan_1745">
     <lexical-unit><form lang="kqs"><text>hɔlta kalalan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>hɔlta karalan</text></form></variant>
     <sense id="hɔlta kalalan_1745_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>dureté, cruauté ; avarice</text></gloss>
@@ -22467,6 +22507,7 @@
   <entry id="hɔlta vesɛlɛlan_1746">
     <lexical-unit><form lang="kqs"><text>hɔlta vesɛlɛlan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>hɔlta vesɛlɛran</text></form></variant>
     <sense id="hɔlta vesɛlɛlan_1746_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>hardiesse, courage ; dureté</text></gloss>
@@ -22532,6 +22573,7 @@
   <entry id="hɔlɔɔ_1751">
     <lexical-unit><form lang="kqs"><text>hɔlɔɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>hɔrɔɔ</text></form></variant>
     <sense id="hɔlɔɔ_1751_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>saisir, retirer qqch des mains de qqn</text></gloss>
@@ -22878,6 +22920,7 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>helun</text></form></variant>
     <variant><form lang="kqs"><text>helunnin</text></form></variant>
+    <variant><form lang="kqs"><text>hɛrun</text></form></variant>
     <sense id="hɛlun_1777_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>échapper, survivre</text></gloss>
@@ -24095,6 +24138,7 @@
     <variant><form lang="kqs"><text>kafala</text></form></variant>
     <variant><form lang="kqs"><text>káfàlà</text></form></variant>
     <variant><form lang="kqs"><text>kafalanndo</text></form></variant>
+    <variant><form lang="kqs"><text>kafara</text></form></variant>
     <sense id="kafalaa_1873_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>croiser, replier (les mains) ; (kafalan) étreindre, saisir</text></gloss>
@@ -24311,6 +24355,7 @@
   <entry id="kalaa_1890">
     <lexical-unit><form lang="kqs"><text>kalaa</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>karaa</text></form></variant>
     <sense id="kalaa_1890_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>pagayer</text></gloss>
@@ -24438,6 +24483,7 @@
     <lexical-unit><form lang="kqs"><text>kalamɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>karamɔɔ</text></form></variant>
     <sense id="kalamɔɔ_1900_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>maître coranique, pèlerin (el hadj) ; enseignant, maître</text></gloss>
@@ -24451,6 +24497,7 @@
   <entry id="kalan te_1901">
     <lexical-unit><form lang="kqs"><text>kalan te</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>karan te</text></form></variant>
     <sense id="kalan te_1901_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>pas bientôt</text></gloss>
@@ -24572,6 +24619,7 @@
   <entry id="kalialahɔllo_1910">
     <lexical-unit><form lang="kqs"><text>kalialahɔllo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>karialahɔllo</text></form></variant>
     <sense id="kalialahɔllo_1910_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>insecte fouisseur (qui s'attaque aux yeux)</text></gloss>
@@ -24659,6 +24707,7 @@
     <lexical-unit><form lang="kqs"><text>kaluo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>kala</text></form></variant>
+    <variant><form lang="kqs"><text>karuo</text></form></variant>
     <sense id="kaluo_1917_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>dur, difficile</text></gloss>
@@ -24683,6 +24732,7 @@
     <lexical-unit><form lang="kqs"><text>kamaa</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>sɛmbaa</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kamaa_1919_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>éléphant</text></gloss>
@@ -25142,6 +25192,7 @@
   <entry id="kangalan_1955">
     <lexical-unit><form lang="kqs"><text>kangalan</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>kangaran</text></form></variant>
     <sense id="kangalan_1955_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>sûrement, certainement ; obligatoire, il faut</text></gloss>
@@ -25320,6 +25371,8 @@
     <lexical-unit><form lang="kqs"><text>kaolaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>kaola</text></form></variant>
+    <variant><form lang="kqs"><text>kaoraa</text></form></variant>
+    <variant><form lang="kqs"><text>kaora</text></form></variant>
     <sense id="kaolaa_1969_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>aimer</text></gloss>
@@ -25334,6 +25387,8 @@
     <lexical-unit><form lang="kqs"><text>kaolianndo</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>kaolian</text></form></variant>
+    <variant><form lang="kqs"><text>kaorianndo</text></form></variant>
+    <variant><form lang="kqs"><text>kaorian</text></form></variant>
     <sense id="kaolianndo_1970_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>s'aimer l'un l'autre</text></gloss>
@@ -26821,6 +26876,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>kialla</text></form></field>
     <variant><form lang="kqs"><text>kial</text></form></variant>
+    <variant><form lang="kqs"><text>callo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kiallo_2085_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>gazelle, biche ; (kial piaandoo) cerf</text></gloss>
@@ -27195,6 +27251,7 @@
     <lexical-unit><form lang="kqs"><text>kilio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kirio</text></form></variant>
     <sense id="kilio_2114_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>tison (gardé pour rallumer le feu le lendemain) ; bois en partie brûlé</text></gloss>
@@ -27487,6 +27544,8 @@
     <variant><form lang="kqs"><text>kilu</text></form></variant>
     <variant><form lang="kqs"><text>kialunin</text></form></variant>
     <variant><form lang="kqs"><text>kial</text></form></variant>
+    <variant><form lang="kqs"><text>kil</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>kɛl</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="kiolɔɔ_2136_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>couper ; trancher (une affaire), juger ; décider, trancher ; mordre</text></gloss>
@@ -27497,7 +27556,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>cut, remove</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 168 occurrences, first GEN.6.13; Keita 1979, p. 116: Kiolöö; Paulme 1964, p. 44 (K): kil; Lexique kissi–français, p. 24: kiolɔɔ/ (kial) kiolu, kelu, kialu, kilu; Terminologie (arts), n° 73: Kiolöö; Childs 2000, p. 169: kìòlɔ̀ɔ́</text></form></note>
-    <note><form lang="fr"><text>kiolu / kelu yamɛi « juger » (GEN 16,5 ; 18,19) ; kilu, kilunin : radical négatif (ISA 11,3). Lexique kissi–français, p. 24 : aussi « mordre » ; radical kial. Paulme 1964, p. 44 : ɔ kil (K.), ɔ kɛl (G.) « il mord, il a mordu ». Aussi Paulme 1964, p. 116 : « tyurɔ, tyaru ». Paulme 1964, p. 115-116 : tyulɔ, tyurɔ « morsure, coupure, mordre, couper » ; ma tyaru ndo ũisye « ils ont coupé une partie de sa viande » ; ty- pour ki- (cf. tyallo, Bible kiallo). Académie des langues (terminologie, arts n° 73) : « coupe ». Aussi Terminologie, p. 439 : « Yamèi kiolöö ». Académie des langues (terminologie, histoire n° 439) : yamɛi kiolɔɔ « négocier » (dans la Bible, « juger une affaire », DEU.1.17). Académie des langues (terminologie, idéologie n° 385, 386) : yamɛi kiolɔɔ « jugement, juger » (aussi kittioo kiɔlɔɔ).</text></form></note>
+    <note><form lang="fr"><text>kiolu / kelu yamɛi « juger » (GEN 16,5 ; 18,19) ; kilu, kilunin : radical négatif (ISA 11,3). Lexique kissi–français, p. 24 : aussi « mordre » ; radical kial. Paulme 1964, p. 44 : ɔ kil (K.), ɔ kɛl (G.) « il mord, il a mordu ». Aussi Paulme 1964, p. 116 : « tyurɔ, tyaru ». Paulme 1964, p. 115-116 : tyulɔ, tyurɔ « morsure, coupure, mordre, couper » ; ma tyaru ndo ũisye « ils ont coupé une partie de sa viande » ; ty- pour ki- (cf. tyallo, Bible kiallo). Académie des langues (terminologie, arts n° 73) : « coupe ». Aussi Terminologie, p. 439 : « Yamèi kiolöö ». Académie des langues (terminologie, histoire n° 439) : yamɛi kiolɔɔ « négocier » (dans la Bible, « juger une affaire », DEU.1.17). Académie des langues (terminologie, idéologie n° 385, 386) : yamɛi kiolɔɔ « jugement, juger » (aussi kittioo kiɔlɔɔ). Paulme : ɔ kil /K./, ɔ kɛl /G./ « il mord » (p. 44).</text></form></note>
   </entry>
   <entry id="kìòlɔ̀ɔ́-ìkèíyó_2137">
     <lexical-unit><form lang="kqs"><text>kìòlɔ̀ɔ́-ìkèíyó</text></form></lexical-unit>
@@ -27768,6 +27827,7 @@
     <variant><form lang="kqs"><text>kiandu</text></form></variant>
     <variant><form lang="kqs"><text>kiandunin</text></form></variant>
     <variant><form lang="kqs"><text>kendu</text></form></variant>
+    <variant><form lang="kqs"><text>cɔndɔɔ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kiɔndɔɔ_2157_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>cueillir</text></gloss>
@@ -27980,6 +28040,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>kolalan</text></form></field>
     <variant><form lang="kqs"><text>kolala</text></form></variant>
+    <variant><form lang="kqs"><text>kura</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kola_2174_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>tissu, étoffe ; voile ; bande de coton ; pagne de femme</text></gloss>
@@ -27989,7 +28050,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>standard piece of cloth, wrapper (lappa)</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 616 occurrences, first GEN.9.21; Paulme 1964, p. 46 (G/K): kɔla /G./, kura /K./; Childs 2000, p. 172: kòlàá</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 46 : kɔla (G.), kura (K.) « pagne » ; kurale « sans pagne ». Aussi Paulme 1964, p. 52 : « kura, pl. kurala ». Paulme 1964, p. 52-53 : kura, pl. kurala « bande de coton » ; kura « pagne de femme (10 bandes d'un mètre environ) » ; kura fɔlɔndo « premier pagne cadeau du prétendant, dont l'acceptation scelle le mariage ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 46 : kɔla (G.), kura (K.) « pagne » ; kurale « sans pagne ». Aussi Paulme 1964, p. 52 : « kura, pl. kurala ». Paulme 1964, p. 52-53 : kura, pl. kurala « bande de coton » ; kura « pagne de femme (10 bandes d'un mètre environ) » ; kura fɔlɔndo « premier pagne cadeau du prétendant, dont l'acceptation scelle le mariage ». Paulme : kɔla /G./, kura /K./ (p. 46).</text></form></note>
   </entry>
   <entry id="kola buiyo_2175">
     <lexical-unit><form lang="kqs"><text>kola buiyo</text></form></lexical-unit>
@@ -28083,6 +28144,8 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>kolalan</text></form></field>
+    <variant><form lang="kqs"><text>koraa</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>tafeo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kolaa_2182_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pagne, tissu</text></gloss>
@@ -28183,6 +28246,7 @@
     <lexical-unit><form lang="kqs"><text>kolio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>korio</text></form></variant>
     <sense id="kolio_2190_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sauterelle</text></gloss>
@@ -28208,6 +28272,7 @@
     <lexical-unit><form lang="kqs"><text>koliyolen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>koriyolen</text></form></variant>
     <sense id="koliyolen_2192_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sorte de plante</text></gloss>
@@ -28723,6 +28788,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>kongilan</text></form></field>
     <variant><form lang="kqs"><text>kongil</text></form></variant>
+    <variant><form lang="kqs"><text>kuŋilo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kongillo_2231_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>coq</text></gloss>
@@ -28731,7 +28797,7 @@
       <trait name="semantic-domain-ddp4" value="1.6.1 Types of animals"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 10 occurrences, first JOB.38.36; Paulme 1964, p. 47 (G/K): koŋilo /G./, kuŋilo /K./; Lexique kissi–français, p. 25: kongillo; Childs 2000, p. 176: kòŋgìlló</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 47 : koŋilo (G.), kuŋilo (K.) « coq ». Aussi Paulme 1964, p. 52 : « kuŋilo /K./, koŋilo /G./, pl. kuŋila ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 47 : koŋilo (G.), kuŋilo (K.) « coq ». Aussi Paulme 1964, p. 52 : « kuŋilo /K./, koŋilo /G./, pl. kuŋila ». Paulme : koŋilo /G./, kuŋilo /K./ (p. 47, 52).</text></form></note>
   </entry>
   <entry id="kongio_2232">
     <lexical-unit><form lang="kqs"><text>kongio</text></form></lexical-unit>
@@ -29299,6 +29365,7 @@
     <lexical-unit><form lang="kqs"><text>kovɔlo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kovɔro</text></form></variant>
     <sense id="kovɔlo_2276_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sorte d'instrument de musique</text></gloss>
@@ -29949,6 +30016,7 @@
   <entry id="kpafalaa_2327">
     <lexical-unit><form lang="kqs"><text>kpafalaa</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kpafaraa</text></form></variant>
     <sense id="kpafalaa_2327_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sorte d'aigle</text></gloss>
@@ -30205,6 +30273,7 @@
     <lexical-unit><form lang="kqs"><text>kpalillen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kparillen</text></form></variant>
     <sense id="kpalillen_2347_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>travail de geôlier, garde</text></gloss>
@@ -30218,6 +30287,7 @@
     <lexical-unit><form lang="kqs"><text>kpalillo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>kparillo</text></form></variant>
     <sense id="kpalillo_2348_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>garde, surveillance ; geôlier</text></gloss>
@@ -30379,6 +30449,8 @@
     <lexical-unit><form lang="kqs"><text>kpandilen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>padile</text></form><trait name="dialect" value="Guéckédou"/></variant>
+    <variant><form lang="kqs"><text>kpadile</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kpandilen_2361_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>patate douce</text></gloss>
@@ -30387,7 +30459,7 @@
       <trait name="semantic-domain-ddp4" value="6.2.1 Growing crops"/>
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 139: Kpandilen; Paulme 1964, p. 77 (G/K): padile /G./, gbadile, gbandile /K./; Lexique kissi–français, p. 28: kpandilen; Childs 2000, p. 205: kpàndìwéèŋndéŋ</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 77 : padile /G./, gbadile, gbandile /K./ « patate ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 77 : padile /G./, gbadile, gbandile /K./ « patate ». Paulme : padile /G./, gbadile, gbandile /K./ (p. 77).</text></form></note>
   </entry>
   <entry id="kpando_2362">
     <lexical-unit><form lang="kqs"><text>kpando</text></form></lexical-unit>
@@ -30445,6 +30517,7 @@
   <entry id="kpankpaa ɲala_2366">
     <lexical-unit><form lang="kqs"><text>kpankpaa ɲala</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kpankpaa ɲara</text></form></variant>
     <sense id="kpankpaa ɲala_2366_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>punaises (de lit)</text></gloss>
@@ -31091,6 +31164,7 @@
     <lexical-unit><form lang="kqs"><text>kpelo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kpero</text></form></variant>
     <sense id="kpelo_2417_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>couchette surélevée dans la case</text></gloss>
@@ -31843,6 +31917,7 @@
   <entry id="kpokolo_2476">
     <lexical-unit><form lang="kqs"><text>kpokolo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kpokoro</text></form></variant>
     <sense id="kpokolo_2476_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>moquerie, exclamation</text></gloss>
@@ -33376,6 +33451,7 @@
   <entry id="kpɛlan_2599">
     <lexical-unit><form lang="kqs"><text>kpɛlan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kpɛran</text></form></variant>
     <sense id="kpɛlan_2599_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>entrave en bois (pour maîtriser les fous)</text></gloss>
@@ -33427,6 +33503,7 @@
     <lexical-unit><form lang="kqs"><text>kpɛmɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>kpɛmbɛo</text></form></variant>
+    <variant><form lang="kqs"><text>kpɛmbɛo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="kpɛmɔ_2603_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>siège</text></gloss>
@@ -33434,7 +33511,7 @@
       <trait name="semantic-domain-ddp4" value="5.1.1 Furniture"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 31 (K): gbɛmɔ, pl. bɛmbɛrã</text></form></note>
-    <note><form lang="fr"><text>Paulme : gbɛmɔ, pl. bɛmbɛrã /K./ ; gbɛmbɛo /G./. Cf. kpɛŋɛ « siège » (Bible).</text></form></note>
+    <note><form lang="fr"><text>Paulme : gbɛmɔ, pl. bɛmbɛrã /K./ ; gbɛmbɛo /G./. Cf. kpɛŋɛ « siège » (Bible). Paulme : gbɛmɔ /K./, gbɛmbɛo /G./ (p. 31).</text></form></note>
   </entry>
   <entry id="kpɛmɔɔ_2604">
     <lexical-unit><form lang="kqs"><text>kpɛmɔɔ</text></form></lexical-unit>
@@ -34298,6 +34375,7 @@
   <entry id="kulanko_2670">
     <lexical-unit><form lang="kqs"><text>kulanko</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kuranko</text></form></variant>
     <sense id="kulanko_2670_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sorte d'araignée (tarentule)</text></gloss>
@@ -34421,6 +34499,8 @@
     <lexical-unit><form lang="kqs"><text>kulio</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>kuli</text></form></variant>
+    <variant><form lang="kqs"><text>kurio</text></form></variant>
+    <variant><form lang="kqs"><text>kuri</text></form></variant>
     <sense id="kulio_2680_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>prendre, voler (surtout du vin de palme) ; récolter le vin de palme</text></gloss>
@@ -34515,6 +34595,7 @@
   <entry id="kúlù-kùlù_2687">
     <lexical-unit><form lang="kqs"><text>kúlù-kùlù</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>kuru-kuru</text></form></variant>
     <sense id="kúlù-kùlù_2687_s1">
       <grammatical-info value="Ideophone"/>
       <gloss lang="fr"><text>sursaut (animal effrayé) ; à la hâte, soudain</text></gloss>
@@ -34554,6 +34635,7 @@
   <entry id="kululan_2690">
     <lexical-unit><form lang="kqs"><text>kululan</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>kurulan</text></form></variant>
     <sense id="kululan_2690_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>noix de beurre (karité ?)</text></gloss>
@@ -34607,6 +34689,7 @@
     <lexical-unit><form lang="kqs"><text>kuluo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kuruo</text></form></variant>
     <sense id="kuluo_2694_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>cuillère</text></gloss>
@@ -34631,6 +34714,7 @@
   <entry id="kulutu-kulutu_2696">
     <lexical-unit><form lang="kqs"><text>kulutu-kulutu</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kurutu-kurutu</text></form></variant>
     <sense id="kulutu-kulutu_2696_s1">
       <grammatical-info value="Ideophone"/>
       <gloss lang="fr"><text>bruit de souris ou de cafards qui mangent, de soldats qui marchent</text></gloss>
@@ -36407,6 +36491,7 @@
     <lexical-unit><form lang="kqs"><text>kɔlɔlen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kɔrɔlen</text></form></variant>
     <sense id="kɔlɔlen_2832_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>fouet</text></gloss>
@@ -36484,6 +36569,7 @@
     <lexical-unit><form lang="kqs"><text>kɔlɔŋndo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kulɔndu</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="kɔlɔŋndo_2838_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>puits</text></gloss>
@@ -36492,13 +36578,14 @@
       <trait name="semantic-domain-ddp4" value="1.3.1 Bodies of water"/>
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 142: Kölönndo; Paulme 1964, p. 50: kulɔndu, pl. kulɔntã ; kolɔndo, pl. kolɔnta; Lexique kissi–français, p. 27: kɔlɔnndo; Childs 2000, p. 183: kɔ́lɔ́ŋndó</text></form></note>
-    <note><form lang="fr"><text>ŋ d'après Childs (emprunt au maninka). La Bible dit soon kólaa pour « puits, source » (Gn 16,7). Paulme 1964, p. 50 : kulɔndu, pl. kulɔntã ; kolɔndo, pl. kolɔnta « puits ».</text></form></note>
+    <note><form lang="fr"><text>ŋ d'après Childs (emprunt au maninka). La Bible dit soon kólaa pour « puits, source » (Gn 16,7). Paulme 1964, p. 50 : kulɔndu, pl. kulɔntã ; kolɔndo, pl. kolɔnta « puits ». Paulme : kulɔndu /K./ « puits » (p. 95).</text></form></note>
   </entry>
   <entry id="kɔlɔɔ_2839">
     <lexical-unit><form lang="kqs"><text>kɔlɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>kɔlɔ</text></form></variant>
+    <variant><form lang="kqs"><text>kɔrɔɔ</text></form></variant>
     <sense id="kɔlɔɔ_2839_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>affaire, cause, raison ; (le kɔlɔ yɛɛ) pourquoi ; explication, but</text></gloss>
@@ -36821,6 +36908,7 @@
   <entry id="kɔngɔsila_2863">
     <lexical-unit><form lang="kqs"><text>kɔngɔsila</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kɔngɔsira</text></form></variant>
     <sense id="kɔngɔsila_2863_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>tortue</text></gloss>
@@ -37766,6 +37854,7 @@
   <entry id="kɛkulan_2938">
     <lexical-unit><form lang="kqs"><text>kɛkulan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kɛkuran</text></form></variant>
     <sense id="kɛkulan_2938_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>coquilles d'œufs</text></gloss>
@@ -37891,6 +37980,7 @@
   <entry id="kɛm sɛlan_2948">
     <lexical-unit><form lang="kqs"><text>kɛm sɛlan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>kɛm sɛran</text></form></variant>
     <sense id="kɛm sɛlan_2948_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>coques des noix de palme</text></gloss>
@@ -38461,6 +38551,7 @@
   <entry id="la_2992">
     <lexical-unit><form lang="kqs"><text>la</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>da</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="la_2992_s1">
       <grammatical-info value="Pronoun"/>
       <gloss lang="fr"><text>vous (sujet) ; pronom de la classe lan</text></gloss>
@@ -38468,7 +38559,7 @@
       <trait name="semantic-domain-ddp4" value="9.2.3 Pronouns"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 11817 occurrences, first GEN.1.11; Paulme 1964, p. 17 (G): da /G./; Lexique kissi–français, p. 31: la; Childs 2000, p. 220: là</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 17 : da /G./ « vous (2e personne du pluriel) ». Aussi Paulme 1964, p. 55 : « lā, a ». Paulme 1964, p. 55 : lā, a « pronom personnel du pluriel ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 17 : da /G./ « vous (2e personne du pluriel) ». Aussi Paulme 1964, p. 55 : « lā, a ». Paulme 1964, p. 55 : lā, a « pronom personnel du pluriel ». Paulme : da /G./ « vous » (p. 17).</text></form></note>
   </entry>
   <entry id="laalan ɲɛmcieendon_2993">
     <lexical-unit><form lang="kqs"><text>laalan ɲɛmcieendon</text></form></lexical-unit>
@@ -38488,6 +38579,7 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>laalan</text></form></variant>
     <variant><form lang="kqs"><text>laalannda</text></form></variant>
+    <variant><form lang="kqs"><text>laaran</text></form></variant>
     <sense id="laalanndo_2994_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>croire, avoir foi, se fier à ; foi</text></gloss>
@@ -38612,6 +38704,7 @@
   <entry id="labɛngu_3003">
     <lexical-unit><form lang="kqs"><text>labɛngu</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>rabɛngu</text></form></variant>
     <sense id="labɛngu_3003_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>avec les pieds, sous les pieds</text></gloss>
@@ -38792,6 +38885,7 @@
   <entry id="lahɔl_3017">
     <lexical-unit><form lang="kqs"><text>lahɔl</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>rahɔl</text></form></variant>
     <sense id="lahɔl_3017_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>se réveiller</text></gloss>
@@ -38913,6 +39007,7 @@
     <lexical-unit><form lang="kqs"><text>lalle</text></form></lexical-unit>
     <trait name="noun-class" value="i"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>lale</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="lalle_3027_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sueur</text></gloss>
@@ -38920,10 +39015,12 @@
       <trait name="semantic-domain-ddp4" value="2.2.6 Sweat"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 5 occurrences, first GEN.3.19; Keita 1979, p. 132: Lalle; Paulme 1964, p. 55 (G/K): lale /G./, lalle /K./; Lexique kissi–français, p. 31: lalle; Childs 2000, p. 222: lǎllé</text></form></note>
+    <note><form lang="fr"><text>Paulme : lale /G./, lalle /K./ (p. 55).</text></form></note>
   </entry>
   <entry id="lalu_3028">
     <lexical-unit><form lang="kqs"><text>lalu</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>laru</text></form></variant>
     <sense id="lalu_3028_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>accuser</text></gloss>
@@ -39248,6 +39345,7 @@
   <entry id="lapi_3052">
     <lexical-unit><form lang="kqs"><text>lapi</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>rapi</text></form></variant>
     <sense id="lapi_3052_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>bien, clairement, de près ; beaucoup ; mieux</text></gloss>
@@ -39561,6 +39659,7 @@
   <entry id="layɛn_3077">
     <lexical-unit><form lang="kqs"><text>layɛn</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>rayɛn</text></form></variant>
     <sense id="layɛn_3077_s1">
       <grammatical-info value="Postposition"/>
       <gloss lang="fr"><text>parmi, entre, au milieu</text></gloss>
@@ -39637,6 +39736,7 @@
     <lexical-unit><form lang="kqs"><text>le</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>te</text></form></variant>
+    <variant><form lang="kqs"><text>re</text></form></variant>
     <sense id="le_3083_s1">
       <grammatical-info value="Particle"/>
       <gloss lang="fr"><text>ne… pas (négation finale)</text></gloss>
@@ -41299,6 +41399,7 @@
     <lexical-unit><form lang="kqs"><text>lumbian</text></form></lexical-unit>
     <trait name="noun-class" value="ma"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>dumbian</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="lumbian_3211_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>vin de raphia (piassava)</text></gloss>
@@ -41306,7 +41407,7 @@
       <trait name="semantic-domain-ddp4" value="5.2.6 Stimulant"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 22 (G/K): dumbiã /G./, lumbiã /K./; Childs 2000, p. 236: lùmbìáŋ</text></form></note>
-    <note><form lang="fr"><text>Les notes manuscrites sur Keita portent « lumbian » à côté de Senhan « vin de raphia », avec un point d'interrogation. Confirmé au Nord par Paulme 1964, p. 22 (dumbiã /G./, lumbiã /K./ « vin de raphia »). Pluriel en kissi du Sud (Childs 2000) : lùmbèléŋ.</text></form></note>
+    <note><form lang="fr"><text>Les notes manuscrites sur Keita portent « lumbian » à côté de Senhan « vin de raphia », avec un point d'interrogation. Confirmé au Nord par Paulme 1964, p. 22 (dumbiã /G./, lumbiã /K./ « vin de raphia »). Pluriel en kissi du Sud (Childs 2000) : lùmbèléŋ. Paulme : dumbiã /G./, lumbiã /K./ (p. 22).</text></form></note>
   </entry>
   <entry id="lùmbɔ́ɔ́_3212">
     <lexical-unit><form lang="kqs"><text>lùmbɔ́ɔ́</text></form></lexical-unit>
@@ -41628,6 +41729,8 @@
     <lexical-unit><form lang="kqs"><text>lɔalianndo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>lɔalian</text></form></variant>
+    <variant><form lang="kqs"><text>lɔarianndo</text></form></variant>
+    <variant><form lang="kqs"><text>lɔarian</text></form></variant>
     <sense id="lɔalianndo_3236_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>s'accuser (l'un l'autre)</text></gloss>
@@ -41709,6 +41812,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>lɔlulan</text></form></field>
     <variant><form lang="kqs"><text>lɔlu</text></form></variant>
+    <variant><form lang="kqs"><text>lɔruo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="lɔloo_3242_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>cuisse</text></gloss>
@@ -41716,7 +41820,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.3 Limb"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 5 occurrences, first GEN.32.32; Keita 1979, p. 132: Löluoo; Paulme 1964, p. 58 (G/K): lɔlɔ /G./, lɔruo /K./; Lexique kissi–français, p. 33: lɔluo; Childs 2000, p. 234: lɔ̀lòó</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 58 : lɔlɔ (G.), lɔruo (K.), pl. lɔrula « cuisse ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 58 : lɔlɔ (G.), lɔruo (K.), pl. lɔrula « cuisse ». Paulme : lɔlɔ /G./, lɔruo /K./, pl. lɔrula (p. 58).</text></form></note>
   </entry>
   <entry id="lɔlu_3243">
     <lexical-unit><form lang="kqs"><text>lɔlu</text></form></lexical-unit>
@@ -42116,6 +42220,8 @@
     <lexical-unit><form lang="kqs"><text>lɛan</text></form></lexical-unit>
     <trait name="noun-class" value="an"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>luɛn</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>liɛn</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="lɛan_3274_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>miel</text></gloss>
@@ -42124,7 +42230,7 @@
       <trait name="semantic-domain-ddp4" value="6.4.4 Beekeeping"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 27 occurrences, first GEN.43.11; Keita 1979, p. 136: Lian; Paulme 1964, p. 59 (G/K): luɛ̃; Lexique kissi–français, p. 32: lian; Childs 2000, p. 230: lìáŋ</text></form></note>
-    <note><form lang="fr"><text>Keita écrit Lian ; la Bible écrit lɛan. Lexique kissi–français, p. 32 : écrit lian « le miel ». Paulme 1964, p. 59 : luɛ̃ (K.), lyɛ̃ (G.) « miel ».</text></form></note>
+    <note><form lang="fr"><text>Keita écrit Lian ; la Bible écrit lɛan. Lexique kissi–français, p. 32 : écrit lian « le miel ». Paulme 1964, p. 59 : luɛ̃ (K.), lyɛ̃ (G.) « miel ». Paulme : luɛ̃ /K./, lyɛ̃ /G./ (p. 59).</text></form></note>
   </entry>
   <entry id="lɛfe_3275">
     <lexical-unit><form lang="kqs"><text>lɛfe</text></form></lexical-unit>
@@ -43163,6 +43269,7 @@
   <entry id="malalanndo_3355">
     <lexical-unit><form lang="kqs"><text>malalanndo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>maralanndo</text></form></variant>
     <sense id="malalanndo_3355_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>s'aider soi-même</text></gloss>
@@ -44485,6 +44592,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>milin</text></form></variant>
+    <variant><form lang="kqs"><text>mindo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="milinndo_3455_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>nez</text></gloss>
@@ -44492,12 +44600,13 @@
       <trait name="semantic-domain-ddp4" value="2.1.1 Head"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 8 occurrences, first LEV.13.45; Keita 1979, p. 132: Milinndo; Paulme 1964, p. 63: milindo, pl. milinda; Lexique kissi–français, p. 34: milinndo; Childs 2000, p. 250: mǐŋndó</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 63 : milindo, pl. milinda « nez » ; mindo (G.).</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 63 : milindo, pl. milinda « nez » ; mindo (G.). Paulme : milindo ; mindo /G./ (p. 63).</text></form></note>
   </entry>
   <entry id="milio_3456">
     <lexical-unit><form lang="kqs"><text>milio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>mirio</text></form></variant>
     <sense id="milio_3456_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>tambour ; grosse caisse</text></gloss>
@@ -44709,6 +44818,7 @@
   <entry id="minsɔlɔ_3472">
     <lexical-unit><form lang="kqs"><text>minsɔlɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>minsɔrɔ</text></form></variant>
     <sense id="minsɔlɔ_3472_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>foulard, voile, mouchoir de tête</text></gloss>
@@ -46152,6 +46262,8 @@
     <lexical-unit><form lang="kqs"><text>mɛllo</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>mɛl</text></form></variant>
+    <variant><form lang="kqs"><text>mɛlo</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>mialo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="mɛllo_3583_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>gauche (o ba mɛllo coo « à gauche »)</text></gloss>
@@ -46160,7 +46272,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>left side</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 46 occurrences, first GEN.13.9; Paulme 1964, p. 63 (G/K): mɛlo /K./, myalo /G./, mɛllo; Childs 2000, p. 249: mìàllé</text></form></note>
-    <note><form lang="fr"><text>o ba mɛllo coo … o ba kɛndɔɔ coo « à gauche … à droite » (GEN.13.9) ; o ba mɛl ndaa « à leur gauche » (EXO.14.29). Correspondance ia (Childs) ~ ɛ (Bible), comme lìáŋ ~ lɛan « miel ». Paulme 1964, p. 63 : mɛlo (K.), myalo (G.), mɛllo « gauche » ; ba mɛlo « côté gauche », wana i mɛlo « gaucher ».</text></form></note>
+    <note><form lang="fr"><text>o ba mɛllo coo … o ba kɛndɔɔ coo « à gauche … à droite » (GEN.13.9) ; o ba mɛl ndaa « à leur gauche » (EXO.14.29). Correspondance ia (Childs) ~ ɛ (Bible), comme lìáŋ ~ lɛan « miel ». Paulme 1964, p. 63 : mɛlo (K.), myalo (G.), mɛllo « gauche » ; ba mɛlo « côté gauche », wana i mɛlo « gaucher ». Paulme : mɛlo /K./, myalo /G./, mɛllo (p. 63).</text></form></note>
   </entry>
   <entry id="mɛlɛkanɔɔ_3584">
     <lexical-unit><form lang="kqs"><text>mɛlɛkanɔɔ</text></form></lexical-unit>
@@ -46457,6 +46569,7 @@
   <entry id="mɛsɛla_3606">
     <lexical-unit><form lang="kqs"><text>mɛsɛla</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>mɛsɛra</text></form></variant>
     <sense id="mɛsɛla_3606_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>fin ; étroit</text></gloss>
@@ -47687,6 +47800,7 @@
   <entry id="ndɛ le_3702">
     <lexical-unit><form lang="kqs"><text>ndɛ le</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>ndɛ re</text></form></variant>
     <sense id="ndɛ le_3702_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>non plus</text></gloss>
@@ -47989,6 +48103,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>nilan</text></form></field>
     <variant><form lang="kqs"><text>nile</text></form></variant>
+    <variant><form lang="kqs"><text>nira</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="nilen_3726_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>oreille</text></gloss>
@@ -47996,7 +48111,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.1 Head"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 134 occurrences, first GEN.12.19; Keita 1979, p. 132: Nilen; Paulme 1964, p. 68 (G): nile, pl. nira. nilã /G./; Lexique kissi–français, p. 37: nilen; Childs 2000, p. 263: nìléŋ</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 68 : nile, pl. nira ; nilã /G./.</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 68 : nile, pl. nira ; nilã /G./. Paulme : nile, pl. nira ; nilã /G./ (p. 68).</text></form></note>
   </entry>
   <entry id="nímí-nímí_3727">
     <lexical-unit><form lang="kqs"><text>nímí-nímí</text></form></lexical-unit>
@@ -48052,6 +48167,7 @@
   <entry id="ningila_3731">
     <lexical-unit><form lang="kqs"><text>ningila</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>ningira</text></form></variant>
     <sense id="ningila_3731_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>lisse</text></gloss>
@@ -48559,6 +48675,7 @@
     <lexical-unit><form lang="kqs"><text>nɔnɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>nonuan</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="nɔnɔɔ_3771_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>lait</text></gloss>
@@ -48566,7 +48683,7 @@
       <trait name="semantic-domain-ddp4" value="5.2.3 Types of food"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 3 occurrences, first 2SA.17.29; Keita 1979, p. 132: Nönöö; Paulme 1964, p. 69 (G/K): nono /G./, nonuã /K./; Lexique kissi–français, p. 38: nɔnɔɔ</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 69 : nono /G./, nonuã /K./ ; nonuã nawo « le lait de la vache ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 69 : nono /G./, nonuã /K./ ; nonuã nawo « le lait de la vache ». Paulme : nono /G./, nonuã /K./ (p. 69).</text></form></note>
   </entry>
   <entry id="nɔ̀u_3772">
     <lexical-unit><form lang="kqs"><text>nɔ̀u</text></form></lexical-unit>
@@ -49132,6 +49249,7 @@
   <entry id="o co le_3815">
     <lexical-unit><form lang="kqs"><text>o co le</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>o co re</text></form></variant>
     <sense id="o co le_3815_s1">
       <grammatical-info value="Particle"/>
       <gloss lang="fr"><text>ce n'est pas ; n'est-ce pas ?</text></gloss>
@@ -49296,6 +49414,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>paalan</text></form></field>
+    <variant><form lang="kqs"><text>paran</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="paa_3828_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>os</text></gloss>
@@ -49304,7 +49423,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>bone; also gambling tops</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 42 occurrences, first GEN.2.23; Keita 1979, p. 132: Paa; Paulme 1964, p. 77 (G/K): pā, paa, pl. parã /K./, palã /G./; Lexique kissi–français, p. 40: paa; Childs 2000, p. 286: pàá</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 40 : aussi « le bouton ». Paulme 1964, p. 77 : pl. parã /K./, palã /G./ ; pā bawo « os du bras » ; pā bɛŋuo « os de la jambe ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 40 : aussi « le bouton ». Paulme 1964, p. 77 : pl. parã /K./, palã /G./ ; pā bawo « os du bras » ; pā bɛŋuo « os de la jambe ». Paulme : pā, pl. parã /K./, palã /G./ (p. 77).</text></form></note>
   </entry>
   <entry id="paa congu tumndo_3829">
     <lexical-unit><form lang="kqs"><text>paa congu tumndo</text></form></lexical-unit>
@@ -50422,6 +50541,8 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>pelon</text></form></field>
     <variant><form lang="kqs"><text>pelii</text></form></variant>
+    <variant><form lang="kqs"><text>pɛrie</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>peruo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="pelei_3916_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pied, jambe</text></gloss>
@@ -50430,7 +50551,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>back of the mouth, lower jaw</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 35 occurrences, first GEN.41.44; Keita 1979, p. 132: Pelei; Paulme 1964, p. 79 (G/K): peli, pl. pelo /G./; Lexique kissi–français, p. 41: pelei; Childs 2000, p. 295: pèlèí</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 42 : aussi perie « la jambe ». Paulme 1964, p. 79 : peli, pl. pelo /G./ ; pɛrye, pl. peruã, peruo /K./ « jambe ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 42 : aussi perie « la jambe ». Paulme 1964, p. 79 : peli, pl. pelo /G./ ; pɛrye, pl. peruã, peruo /K./ « jambe ». Paulme : peli, pl. pelo /G./ ; pɛrye, peruo /K./ (p. 79).</text></form></note>
   </entry>
   <entry id="pélélé_3917">
     <lexical-unit><form lang="kqs"><text>pélélé</text></form></lexical-unit>
@@ -50572,6 +50693,7 @@
     <trait name="status" value="respelled"/>
     <field type="plural"><form lang="kqs"><text>peltan</text></form></field>
     <variant><form lang="kqs"><text>pelta</text></form></variant>
+    <variant><form lang="kqs"><text>pitɛ</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="pelten_3928_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>œuf ; testicule</text></gloss>
@@ -50580,7 +50702,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>egg; any egg-shaped object, e.g. a lamp chimney or a hernia</text></form></field>
     <note type="source"><form lang="en"><text>Keita 1979, p. 137: Pelten; Paulme 1964, p. 79 (G): pele, pile, pitɛ /G./, pl. petã; Lexique kissi–français, p. 41: pellen; Childs 2000, p. 292: pèltéŋ</text></form></note>
-    <note><form lang="fr"><text>La Bible a le pluriel peltan et la forme radicale pelta (DEU.22.6). Lexique kissi–français, p. 41-42 : pellen et petan « l'œuf », petasɔva « les œufs de poules ». Paulme 1964, p. 79 : pele, pile, pitɛ /G./, pl. petã « œuf, testicule » ; pile sole « œuf de poule ».</text></form></note>
+    <note><form lang="fr"><text>La Bible a le pluriel peltan et la forme radicale pelta (DEU.22.6). Lexique kissi–français, p. 41-42 : pellen et petan « l'œuf », petasɔva « les œufs de poules ». Paulme 1964, p. 79 : pele, pile, pitɛ /G./, pl. petã « œuf, testicule » ; pile sole « œuf de poule ». Paulme : pele, pile, pitɛ /G./, pl. petã (p. 79).</text></form></note>
   </entry>
   <entry id="pelule_3929">
     <lexical-unit><form lang="kqs"><text>pelule</text></form></lexical-unit>
@@ -50904,6 +51026,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>pewva</text></form></field>
+    <variant><form lang="kqs"><text>poovo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="pewvo_3953_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>cochon, porc</text></gloss>
@@ -51337,6 +51460,8 @@
     <lexical-unit><form lang="kqs"><text>pilanndo</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>pilan</text></form></variant>
+    <variant><form lang="kqs"><text>piranndo</text></form></variant>
+    <variant><form lang="kqs"><text>piran</text></form></variant>
     <sense id="pilanndo_3986_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>toucher ; frapper (pour punir)</text></gloss>
@@ -51412,6 +51537,8 @@
     <lexical-unit><form lang="kqs"><text>pilianndo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>pilian</text></form></variant>
+    <variant><form lang="kqs"><text>pirianndo</text></form></variant>
+    <variant><form lang="kqs"><text>pirian</text></form></variant>
     <sense id="pilianndo_3992_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>toucher plusieurs fois</text></gloss>
@@ -51447,6 +51574,7 @@
   <entry id="pilinnden_3995">
     <lexical-unit><form lang="kqs"><text>pilinnden</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>pirinnden</text></form></variant>
     <sense id="pilinnden_3995_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>vigne</text></gloss>
@@ -52564,6 +52692,7 @@
     <trait name="noun-class" value="lan"/>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>poola</text></form></variant>
+    <variant><form lang="kqs"><text>posian</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="poolan_4079_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>excréments, fiente, bouse</text></gloss>
@@ -52571,7 +52700,7 @@
       <trait name="semantic-domain-ddp4" value="2.2.8 Defecate, feces"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 1 occurrences, first MAL.2.3; Paulme 1964, p. 81 (G/K): pɔla, pɔlã, /K./; Childs 2000, p. 307: pòòléŋ</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 81 : pɔla, pɔlã /K./, posyã /G./ « excréments ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 81 : pɔla, pɔlã /K./, posyã /G./ « excréments ». Paulme : pɔla, pɔlã /K./, posyã /G./ (p. 81).</text></form></note>
   </entry>
   <entry id="póólóó_4080">
     <lexical-unit><form lang="kqs"><text>póólóó</text></form></lexical-unit>
@@ -52751,6 +52880,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>powtan</text></form></field>
+    <variant><form lang="kqs"><text>puo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="powvo_4093_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>pierre, caillou</text></gloss>
@@ -52759,7 +52889,7 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>rock, large stone; battery</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 60 occurrences, first GEN.28.11; Keita 1979, p. 155: Powvo; Paulme 1964, p. 83 (G/K): povo, pl. potã /G./; Lexique kissi–français, p. 44: powvo; Childs 2000, p. 308: pòùwó</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 43-44 : aussi poo « la pierre » ; powvo y est aussi glosé « pile ». Paulme 1964, p. 83 : povo, pl. potã /G./ ; puo /K./, pl. potã « pierre ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 43-44 : aussi poo « la pierre » ; powvo y est aussi glosé « pile ». Paulme 1964, p. 83 : povo, pl. potã /G./ ; puo /K./, pl. potã « pierre ». Paulme : povo, pl. potã /G./ ; puo /K./ (p. 83).</text></form></note>
   </entry>
   <entry id="poŋ_4094">
     <lexical-unit><form lang="kqs"><text>poŋ</text></form></lexical-unit>
@@ -53046,6 +53176,7 @@
   <entry id="puluei_4116">
     <lexical-unit><form lang="kqs"><text>puluei</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>puruei</text></form></variant>
     <sense id="puluei_4116_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>langue des Blancs (français, anglais…)</text></gloss>
@@ -53058,6 +53189,7 @@
   <entry id="pululan_4117">
     <lexical-unit><form lang="kqs"><text>pululan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>purulan</text></form></variant>
     <sense id="pululan_4117_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>corde (de palmier)</text></gloss>
@@ -53072,6 +53204,7 @@
     <trait name="noun-class" value="len"/>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>pulule</text></form></variant>
+    <variant><form lang="kqs"><text>purulen</text></form></variant>
     <sense id="pululen_4118_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>gloutonnerie, gourmandise, excès de table ; gourmand, vorace</text></gloss>
@@ -53110,6 +53243,8 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>pulun</text></form></variant>
     <variant><form lang="kqs"><text>pulɔn</text></form></variant>
+    <variant><form lang="kqs"><text>puru</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>pilu</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="pulɔnndo_4121_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>se laver</text></gloss>
@@ -53117,7 +53252,7 @@
       <trait name="semantic-domain-ddp4" value="5.6.2 Bathe"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 7 occurrences, first EXO.2.5; Keita 1979, p. 115: Pulönndo; Paulme 1964, p. 84 (G/K): purondo; Lexique kissi–français, p. 44: pulɔnndo/ pulɔn, pulun</text></form></note>
-    <note><form lang="fr"><text>Moyen de pulɔɔ. Lexique kissi–français, p. 45 : aussi purɔnndo/ purun « se laver ». Paulme 1964, p. 84 : i puro, i puru /K./, i pilu /G./ « je me lave » ; i kwa purando ɔ pɛo « je vais me laver au marigot ».</text></form></note>
+    <note><form lang="fr"><text>Moyen de pulɔɔ. Lexique kissi–français, p. 45 : aussi purɔnndo/ purun « se laver ». Paulme 1964, p. 84 : i puro, i puru /K./, i pilu /G./ « je me lave » ; i kwa purando ɔ pɛo « je vais me laver au marigot ». Paulme : i puro, i puru /K./ ; i pilu /G./ « je me lave » (p. 84).</text></form></note>
   </entry>
   <entry id="pulɔɔ_4122">
     <lexical-unit><form lang="kqs"><text>pulɔɔ</text></form></lexical-unit>
@@ -53717,6 +53852,7 @@
   <entry id="puɔ_4168">
     <lexical-unit><form lang="kqs"><text>puɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>pɔwvo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="puɔ_4168_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>arbre (espèce dont l'écorce entre dans le kowã)</text></gloss>
@@ -53725,7 +53861,7 @@
       <trait name="semantic-domain-ddp4" value="4.9.8 Religious things"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 84: puɔ</text></form></note>
-    <note><form lang="fr"><text>Paulme : = pɔwo /K./ ; élément du tɛmbo qui protège les excisées (Fangamadou).</text></form></note>
+    <note><form lang="fr"><text>Paulme : = pɔwo /K./ ; élément du tɛmbo qui protège les excisées (Fangamadou). Paulme : puɔ = pɔwo /K./ (p. 84).</text></form></note>
   </entry>
   <entry id="pɔ́_4169">
     <lexical-unit><form lang="kqs"><text>pɔ́</text></form></lexical-unit>
@@ -53936,6 +54072,7 @@
   <entry id="pɔlɔɔ_4185">
     <lexical-unit><form lang="kqs"><text>pɔlɔɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>pɔrɔɔ</text></form></variant>
     <sense id="pɔlɔɔ_4185_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>mauvais goût</text></gloss>
@@ -54861,6 +54998,7 @@
     <lexical-unit><form lang="kqs"><text>pɛlɛpɛlɛlen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>pɛrɛpɛrɛlen</text></form></variant>
     <sense id="pɛlɛpɛlɛlen_4257_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>petit ruisseau, source</text></gloss>
@@ -56136,6 +56274,8 @@
     <field type="plural"><form lang="kqs"><text>sálàlan</text></form></field>
     <variant><form lang="kqs"><text>sálà</text></form></variant>
     <variant><form lang="kqs"><text>sálàla</text></form></variant>
+    <variant><form lang="kqs"><text>saraa</text></form></variant>
+    <variant><form lang="kqs"><text>sara</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="sálàá_4355_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sacrifice, offrande ; protection, amulette</text></gloss>
@@ -56144,12 +56284,14 @@
     </sense>
     <field type="southern-kissi-sense"><form lang="en"><text>sacrifice; blessing; charm, talisman</text></form></field>
     <note type="source"><form lang="en"><text>BKG: 307 occurrences, first GEN.4.3; Paulme 1964, p. 89: sara, sala; Lexique kissi–français, p. 47: saraa; Terminologie (histoire), n° 562: Salaa; Childs 2000, p. 319: sálàá</text></form></note>
-    <note><form lang="fr"><text>vana-solia-lasálàá « prêtre » ; fonda-loamaa-lasálàá « autel ». Paulme 1964, p. 89 : sara « sacrifice, protection, amulette » ; kafu ɔ sara « la fête de l'initiation » ; sara bimba « l'amulette des aïeux » ; sara puɔ « sacrifice avec la pierre » ; sara mumo « avec le riz » ; sara tyɛyɔ « pour le village » ; sara i ballo « sacrifice pour la lance » ; saragbɛo « pour la famille ».</text></form></note>
+    <note><form lang="fr"><text>vana-solia-lasálàá « prêtre » ; fonda-loamaa-lasálàá « autel ». Paulme 1964, p. 89 : sara « sacrifice, protection, amulette » ; kafu ɔ sara « la fête de l'initiation » ; sara bimba « l'amulette des aïeux » ; sara puɔ « sacrifice avec la pierre » ; sara mumo « avec le riz » ; sara tyɛyɔ « pour le village » ; sara i ballo « sacrifice pour la lance » ; saragbɛo « pour la famille ». Paulme : vɛn sara /K./, sala /G./ « épouse talisman du chef » (p. 117).</text></form></note>
   </entry>
   <entry id="salaa_4356">
     <lexical-unit><form lang="kqs"><text>salaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>sala</text></form></variant>
+    <variant><form lang="kqs"><text>saraa</text></form></variant>
+    <variant><form lang="kqs"><text>sara</text></form></variant>
     <sense id="salaa_4356_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>salaire, paie ; payer ; prix</text></gloss>
@@ -56235,6 +56377,7 @@
   <entry id="salalan_4363">
     <lexical-unit><form lang="kqs"><text>salalan</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>salaran</text></form></variant>
     <sense id="salalan_4363_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>blagues</text></gloss>
@@ -56303,6 +56446,7 @@
     <lexical-unit><form lang="kqs"><text>salatio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>saratio</text></form></variant>
     <sense id="salatio_4368_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>autorité, pouvoir</text></gloss>
@@ -56328,6 +56472,7 @@
     <lexical-unit><form lang="kqs"><text>salavusuo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>saravusuo</text></form></variant>
     <sense id="salavusuo_4370_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>service militaire</text></gloss>
@@ -56341,6 +56486,7 @@
     <lexical-unit><form lang="kqs"><text>salikokoo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sarikokoo</text></form></variant>
     <sense id="salikokoo_4371_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>colombe</text></gloss>
@@ -58177,6 +58323,8 @@
     <lexical-unit><form lang="kqs"><text>sialten</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>sallɛn</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>siaale</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="sialten_4514_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>saison des pluies</text></gloss>
@@ -58185,7 +58333,7 @@
       <trait name="semantic-domain-ddp4" value="1.1.3 Weather"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 18 occurrences, first GEN.8.22; Keita 1979, p. 154: Sialten; Paulme 1964, p. 87 (G/K): sallɛ̃ /K./, syāle /G./; Lexique kissi–français, p. 46: sallen; Childs 2000, p. 329: sìàlléŋ</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 46 écrit sallen « la saison de pluie ». Aussi Lexique kissi–français, p. 49 : « sialten ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 46 écrit sallen « la saison de pluie ». Aussi Lexique kissi–français, p. 49 : « sialten ». Paulme : sallɛ̃ /K./, syāle /G./ (p. 87).</text></form></note>
   </entry>
   <entry id="siama_4515">
     <lexical-unit><form lang="kqs"><text>siama</text></form></lexical-unit>
@@ -58290,6 +58438,7 @@
     <lexical-unit><form lang="kqs"><text>sianion</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>sianin</text></form></variant>
+    <variant><form lang="kqs"><text>saɲi</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="sianion_4523_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>or</text></gloss>
@@ -58298,7 +58447,7 @@
       <trait name="semantic-domain-ddp4" value="6.8 Finance"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 264 occurrences, first GEN.2.11; Paulme 1964, p. 88: sanye, sanyi, pl. sanyo; Lexique kissi–français, p. 46: sanie; Childs 2000, p. 320: sánìèí</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 46 : écrit sanie (suivi de sanion, sans définition). Paulme 1964, p. 88 : kɛlɛ sanyi « bague en or » ; yɔwɛ sanyo « bijou de cou en or » ; p. 92 : sianye /G./, sanyi /K./.</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 46 : écrit sanie (suivi de sanion, sans définition). Paulme 1964, p. 88 : kɛlɛ sanyi « bague en or » ; yɔwɛ sanyo « bijou de cou en or » ; p. 92 : sianye /G./, sanyi /K./. Paulme : sianye /G./, sanyi /K./ (p. 92).</text></form></note>
   </entry>
   <entry id="siasoa_4524">
     <lexical-unit><form lang="kqs"><text>siasoa</text></form></lexical-unit>
@@ -58317,6 +58466,7 @@
     <lexical-unit><form lang="kqs"><text>siawlen</text></form></lexical-unit>
     <trait name="noun-class" value="len"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sawele</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="siawlen_4525_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>orange</text></gloss>
@@ -58325,7 +58475,7 @@
       <trait name="semantic-domain-ddp4" value="5.2.3 Types of food"/>
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 140: Siawlen; Paulme 1964, p. 92 (G/K): siaole /G./; Lexique kissi–français, p. 49: siawlen; Childs 2000, p. 330: síáùwáŋ</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 47 : aussi saulen. Paulme 1964, p. 92 : siaole /G./, sawele /K./, pl. sawa « orange » ; siaotumdo, sautundo, sawo « oranger ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 47 : aussi saulen. Paulme 1964, p. 92 : siaole /G./, sawele /K./, pl. sawa « orange » ; siaotumdo, sautundo, sawo « oranger ». Paulme : siaole /G./ ; sawele /K./, pl. sawa (p. 92).</text></form></note>
   </entry>
   <entry id="síáŋ_4526">
     <lexical-unit><form lang="kqs"><text>síáŋ</text></form></lexical-unit>
@@ -58422,6 +58572,7 @@
     <lexical-unit><form lang="kqs"><text>sigalɛtio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sigarɛtio</text></form></variant>
     <sense id="sigalɛtio_4533_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>cigarette</text></gloss>
@@ -58697,6 +58848,7 @@
     <lexical-unit><form lang="kqs"><text>silaa</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>siraa</text></form></variant>
     <sense id="silaa_4554_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>arbre (espèce)</text></gloss>
@@ -59386,6 +59538,8 @@
   <entry id="sióónndon_4607">
     <lexical-unit><form lang="kqs"><text>sióónndon</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>sionde</text></form><trait name="dialect" value="Guéckédou"/></variant>
+    <variant><form lang="kqs"><text>suoŋdo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="sióónndon_4607_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sable</text></gloss>
@@ -59393,7 +59547,7 @@
       <trait name="semantic-domain-ddp4" value="1.2.2 Substance, matter"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 19 occurrences, first GEN.22.17; Keita 1979, p. 155: Sioonde; Paulme 1964, p. 99 (G/K): syonde /G./, suoŋdo /K./; Lexique kissi–français, p. 52: suendon; Childs 2000, p. 335: sìòŋndé</text></form></note>
-    <note><form lang="fr"><text>Keita écrit Sioonde ; la Bible emploie sióónndon (GEN.22.17, MAT.7.26). siòònde y signifie « peur ». Lexique kissi–français, p. 50 : aussi sioonde « le sable ». Paulme 1964, p. 99 : syonde /G./, suoŋdo /K./.</text></form></note>
+    <note><form lang="fr"><text>Keita écrit Sioonde ; la Bible emploie sióónndon (GEN.22.17, MAT.7.26). siòònde y signifie « peur ». Lexique kissi–français, p. 50 : aussi sioonde « le sable ». Paulme 1964, p. 99 : syonde /G./, suoŋdo /K./. Paulme : syonde /G./, suoŋdo /K./ (p. 99).</text></form></note>
   </entry>
   <entry id="siòòŋii_4608">
     <lexical-unit><form lang="kqs"><text>siòòŋii</text></form></lexical-unit>
@@ -59503,6 +59657,7 @@
     <lexical-unit><form lang="kqs"><text>sisɛlan</text></form></lexical-unit>
     <trait name="noun-class" value="lan"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sisɛran</text></form></variant>
     <sense id="sisɛlan_4616_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>résidu des noix de palmiste broyées après extraction de l'huile</text></gloss>
@@ -60251,6 +60406,7 @@
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>sofɛlɛa</text></form></field>
+    <variant><form lang="kqs"><text>sufelɔ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="sofɛlɔɔ_4674_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>âne</text></gloss>
@@ -60259,6 +60415,7 @@
       <trait name="semantic-domain-ddp4" value="6.3.1 Domesticated animal"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 27 occurrences, first GEN.22.5; Keita 1979, p. 137: Sofèlöö; Paulme 1964, p. 94 (G/K): sɔfelɔ /G./, sufelɔ /K./, pl. sufemsa; Lexique kissi–français, p. 50: sofɛlɔɔ</text></form></note>
+    <note><form lang="fr"><text>Paulme : sɔfelɔ /G./, sufelɔ /K./, pl. sufemsa (p. 94).</text></form></note>
   </entry>
   <entry id="sòké_4675">
     <lexical-unit><form lang="kqs"><text>sòké</text></form></lexical-unit>
@@ -61132,6 +61289,8 @@
     <trait name="noun-class" value="i"/>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>suon</text></form></field>
+    <variant><form lang="kqs"><text>sue</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>sui</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="suei_4742_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>doigt, orteil</text></gloss>
@@ -61139,7 +61298,7 @@
       <trait name="semantic-domain-ddp4" value="2.1.3 Limb"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 34 occurrences, first GEN.24.30; Keita 1979, p. 132: Suei; Paulme 1964, p. 97 (G/K): sue /K./, pl. suɔ̃, sui /G./; Lexique kissi–français, p. 52: suei; Childs 2000, p. 342: sùèí</text></form></note>
-    <note><form lang="fr"><text>Lexique kissi–français, p. 50 et 52 : aussi soei, sue. Paulme 1964, p. 96-97 : so ; sue /K./, pl. suɔ̃, sui /G./ « doigt » ; sw̃i bɛndye « pouce » ; sw̃i daŋai « index » ; swi tw̃ɛi « petit doigt ».</text></form></note>
+    <note><form lang="fr"><text>Lexique kissi–français, p. 50 et 52 : aussi soei, sue. Paulme 1964, p. 96-97 : so ; sue /K./, pl. suɔ̃, sui /G./ « doigt » ; sw̃i bɛndye « pouce » ; sw̃i daŋai « index » ; swi tw̃ɛi « petit doigt ». Paulme : sue /K./, pl. suɔ̃, sui /G./ (p. 97).</text></form></note>
   </entry>
   <entry id="súéí_4743">
     <lexical-unit><form lang="kqs"><text>súéí</text></form></lexical-unit>
@@ -61384,6 +61543,7 @@
     <lexical-unit><form lang="kqs"><text>sukalaa</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sukaraa</text></form></variant>
     <sense id="sukalaa_4762_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>sucre</text></gloss>
@@ -61710,6 +61870,7 @@
     <trait name="status" value="respelled"/>
     <field type="plural"><form lang="kqs"><text>suntɛndia</text></form></field>
     <variant><form lang="kqs"><text>suuntɛndo</text></form></variant>
+    <variant><form lang="kqs"><text>suuntɛndo</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="suntɛndo_4787_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>araignée</text></gloss>
@@ -61717,7 +61878,7 @@
       <trait name="semantic-domain-ddp4" value="1.6.1 Types of animals"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 98 (G/K): suntɛndo, pl. suntɛndya /K./</text></form></note>
-    <note><form lang="fr"><text>Paulme : suntɛndo, pl. suntɛndya /K./ ; suuntɛndo /G./.</text></form></note>
+    <note><form lang="fr"><text>Paulme : suntɛndo, pl. suntɛndya /K./ ; suuntɛndo /G./. Paulme : suntɛndo /K./, suuntɛndo /G./ (p. 98).</text></form></note>
   </entry>
   <entry id="sunɔnndo_4788">
     <lexical-unit><form lang="kqs"><text>sunɔnndo</text></form></lexical-unit>
@@ -63680,6 +63841,7 @@
     <lexical-unit><form lang="kqs"><text>sɛbɛlɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sɛbɛrɔɔ</text></form></variant>
     <sense id="sɛbɛlɔɔ_4941_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>éperon (de cavalier)</text></gloss>
@@ -63844,6 +64006,7 @@
     <lexical-unit><form lang="kqs"><text>sɛlbɛtio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sɛrbɛtio</text></form></variant>
     <sense id="sɛlbɛtio_4954_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>serviette</text></gloss>
@@ -63870,6 +64033,7 @@
     <lexical-unit><form lang="kqs"><text>sɛlio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>sɛrio</text></form></variant>
     <sense id="sɛlio_4956_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>bouillie (de céréale fine) ; eau de cuisson du riz</text></gloss>
@@ -63896,6 +64060,7 @@
   <entry id="sɛ́lɔ́ɔ́_4958">
     <lexical-unit><form lang="kqs"><text>sɛ́lɔ́ɔ́</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>sɛrɔɔ</text></form></variant>
     <sense id="sɛ́lɔ́ɔ́_4958_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>foule</text></gloss>
@@ -63907,6 +64072,7 @@
   <entry id="sɛ́lɛ́_4959">
     <lexical-unit><form lang="kqs"><text>sɛ́lɛ́</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>sɛrɛ</text></form></variant>
     <sense id="sɛ́lɛ́_4959_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>nombreux, beaucoup</text></gloss>
@@ -65620,6 +65786,7 @@
     <lexical-unit><form lang="kqs"><text>tambio</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <field type="plural"><form lang="kqs"><text>tambila</text></form></field>
+    <variant><form lang="kqs"><text>savia</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="tambio_5092_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>brancard</text></gloss>
@@ -65627,7 +65794,7 @@
       <trait name="semantic-domain-ddp4" value="6.7.3 Carrying tool"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 101 (G): tambio, pl. tambira /G./</text></form></note>
-    <note><form lang="fr"><text>Paulme : brancard pour pyɔmdo ; = savia à Kissidougou.</text></form></note>
+    <note><form lang="fr"><text>Paulme : brancard pour pyɔmdo ; = savia à Kissidougou. Paulme : tambio /G./ = savia /K./ (p. 101).</text></form></note>
   </entry>
   <entry id="tambiyɛiyo_5093">
     <lexical-unit><form lang="kqs"><text>tambiyɛiyo</text></form></lexical-unit>
@@ -67889,6 +68056,8 @@
     <lexical-unit><form lang="kqs"><text>tiɲio</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>tiɲie</text></form></variant>
+    <variant><form lang="kqs"><text>kiɲi</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>kiɲa</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="tiɲio_5268_s1">
       <grammatical-info value="Adjective"/>
       <gloss lang="fr"><text>noir</text></gloss>
@@ -67896,7 +68065,7 @@
       <trait name="semantic-domain-ddp4" value="8.3.3 Light"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 105 (G): tinyi; Lexique kissi–français, p. 56: tiɲio</text></form></note>
-    <note><form lang="fr"><text>Le Lexique donne tiɲie et tiɲio « noir » (formes d'accord). Paulme 1964, p. 105 : tinyi /G./, kinyi, kinya /K./.</text></form></note>
+    <note><form lang="fr"><text>Le Lexique donne tiɲie et tiɲio « noir » (formes d'accord). Paulme 1964, p. 105 : tinyi /G./, kinyi, kinya /K./. Paulme : tinyi /G./ ; kinyi, kinya /K./ (p. 105).</text></form></note>
   </entry>
   <entry id="to_5269">
     <lexical-unit><form lang="kqs"><text>to</text></form></lexical-unit>
@@ -70908,6 +71077,7 @@
   <entry id="tɔɔliaa_5502">
     <lexical-unit><form lang="kqs"><text>tɔɔliaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>tɔɔriaa</text></form></variant>
     <sense id="tɔɔliaa_5502_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>accélérer, se dépêcher, faire vite ; faire souvent</text></gloss>
@@ -71053,6 +71223,8 @@
     <trait name="noun-class" value="i"/>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>tiyan</text></form></variant>
+    <variant><form lang="kqs"><text>tiɛi</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>tiyan</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="tɛi_5513_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>arachide ; cacahuète</text></gloss>
@@ -71061,7 +71233,7 @@
       <trait name="semantic-domain-ddp4" value="6.2.1 Growing crops"/>
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 140: Tèi; Paulme 1964, p. 104 (G/K): tɛy, pl. tɛɔ̃ /G./, tiɛy, tiyã /K./; Lexique kissi–français, p. 54: tɛi; Sandara Kisia, fable 4: tiyaŋ; Childs 2000, p. 362: tìɔ́ŋ</text></form></note>
-    <note><form lang="fr"><text>Dans la Bible, tɛ̀i est un homonyme sans rapport (2SA.1.10). Lexique kissi–français, p. 55 : [ti]an « les arachides » (pluriel ?). Paulme 1964, p. 104 : tɛy, pl. tɛɔ̃ /G./ ; tiɛy, pl. tiyã /K./. Sandara Kissia, fables 4 et 17 : tiyaŋ « les arachides » (pluriel, comme Paulme tiyã /K./).</text></form></note>
+    <note><form lang="fr"><text>Dans la Bible, tɛ̀i est un homonyme sans rapport (2SA.1.10). Lexique kissi–français, p. 55 : [ti]an « les arachides » (pluriel ?). Paulme 1964, p. 104 : tɛy, pl. tɛɔ̃ /G./ ; tiɛy, pl. tiyã /K./. Sandara Kissia, fables 4 et 17 : tiyaŋ « les arachides » (pluriel, comme Paulme tiyã /K./). Paulme : tɛy, pl. tɛɔ̃ /G./ ; tiɛy, pl. tiyã /K./ (p. 104, 111).</text></form></note>
   </entry>
   <entry id="tɛilullo_5514">
     <lexical-unit><form lang="kqs"><text>tɛilullo</text></form></lexical-unit>
@@ -71934,6 +72106,7 @@
     <lexical-unit><form lang="kqs"><text>vaa</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>vàálan</text></form></field>
+    <variant><form lang="kqs"><text>vabɛlɛ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="vaa_5581_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>mille</text></gloss>
@@ -71941,7 +72114,7 @@
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 666 occurrences, first GEN.1.16; Paulme 1964, p. 117 (G): vā, vaa /G./; Lexique kissi–français, p. 59: vaa; Childs 2000, p. 377: wàá</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 117 et 119 : vā, vaa /G./ ; wabɛlɛ /K./ « mille ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 117 et 119 : vā, vaa /G./ ; wabɛlɛ /K./ « mille ». Paulme : vā /G./ ; wabɛlɛ /K./ (p. 117, 119).</text></form></note>
   </entry>
   <entry id="vàá_5582">
     <lexical-unit><form lang="kqs"><text>vàá</text></form></lexical-unit>
@@ -72034,6 +72207,8 @@
   <entry id="vaiye_5589">
     <lexical-unit><form lang="kqs"><text>vaiye</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>vayele</text></form><trait name="dialect" value="Guéckédou"/></variant>
+    <variant><form lang="kqs"><text>vaile</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="vaiye_5589_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>taro</text></gloss>
@@ -72042,7 +72217,7 @@
       <trait name="semantic-domain-ddp4" value="6.2.1 Growing crops"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 117 (G): vayele /G./; Lexique kissi–français, p. 59: [va]iye</text></form></note>
-    <note><form lang="fr"><text>Le Lexique met va- entre crochets : lecture incertaine. Paulme 1964, p. 117 et 120 : vayele /G./, wayle /K./, pl. waye.</text></form></note>
+    <note><form lang="fr"><text>Le Lexique met va- entre crochets : lecture incertaine. Paulme 1964, p. 117 et 120 : vayele /G./, wayle /K./, pl. waye. Paulme : vayele /G./ ; wayle /K./ (p. 117).</text></form></note>
   </entry>
   <entry id="vakpa_5590">
     <lexical-unit><form lang="kqs"><text>vakpa</text></form></lexical-unit>
@@ -72062,6 +72237,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>valalan</text></form></field>
     <variant><form lang="kqs"><text>vala</text></form></variant>
+    <variant><form lang="kqs"><text>varaa</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="valaa_5591_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>natte ; grabat, couche</text></gloss>
@@ -72206,6 +72382,7 @@
     <lexical-unit><form lang="kqs"><text>valuo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>varuo</text></form></variant>
     <sense id="valuo_5602_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>saison sèche ; période sans pluie pendant l'hivernage</text></gloss>
@@ -72233,6 +72410,7 @@
   <entry id="vana bala_5604">
     <lexical-unit><form lang="kqs"><text>vana bala</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>vana bara</text></form></variant>
     <sense id="vana bala_5604_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>travailleur ; serviteur</text></gloss>
@@ -72309,6 +72487,7 @@
   <entry id="vana cala lakɔsɔ_5610">
     <lexical-unit><form lang="kqs"><text>vana cala lakɔsɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>vana cara lakɔsɔ</text></form></variant>
     <sense id="vana cala lakɔsɔ_5610_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>juge</text></gloss>
@@ -72446,6 +72625,7 @@
   <entry id="vana kilia iyindo_5621">
     <lexical-unit><form lang="kqs"><text>vana kilia iyindo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>vana kiria iyindo</text></form></variant>
     <sense id="vana kilia iyindo_5621_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>coiffeur</text></gloss>
@@ -72615,6 +72795,7 @@
   <entry id="vana nɔ tɛlanndo_5634">
     <lexical-unit><form lang="kqs"><text>vana nɔ tɛlanndo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>vana nɔ tɛranndo</text></form></variant>
     <sense id="vana nɔ tɛlanndo_5634_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>accusateur</text></gloss>
@@ -73176,6 +73357,7 @@
     <lexical-unit><form lang="kqs"><text>vanapɔnɔɔ</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>vanapando</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="vanapɔnɔɔ_5678_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>homme (de sexe masculin)</text></gloss>
@@ -73183,6 +73365,7 @@
       <trait name="semantic-domain-ddp4" value="2.6.5 Male, female"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 110 occurrences, first GEN.1.27; Keita 1979, p. 134: Vanapönöö; Lexique kissi–français, p. 60: vanapɔnɔɔ</text></form></note>
+    <note><form lang="fr"><text>Paulme : tuambo wanapono /K./, tuambo wanapando /G./ « petit garçon » (p. 107).</text></form></note>
   </entry>
   <entry id="vanasialaa_5679">
     <lexical-unit><form lang="kqs"><text>vanasialaa</text></form></lexical-unit>
@@ -73896,6 +74079,7 @@
     <lexical-unit><form lang="kqs"><text>vilio</text></form></lexical-unit>
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>vili</text></form></variant>
+    <variant><form lang="kqs"><text>viri</text></form></variant>
     <sense id="vilio_5733_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>porter (des charges), transporter ; mener, conduire</text></gloss>
@@ -73986,6 +74170,7 @@
     <trait name="status" value="attested"/>
     <variant><form lang="kqs"><text>vialu</text></form></variant>
     <variant><form lang="kqs"><text>vialunin</text></form></variant>
+    <variant><form lang="kqs"><text>vɔrɔɔ</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="violɔɔ_5739_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>accoucher, enfanter</text></gloss>
@@ -74218,6 +74403,7 @@
     <variant><form lang="kqs"><text>volin</text></form></variant>
     <variant><form lang="kqs"><text>volii</text></form></variant>
     <variant><form lang="kqs"><text>voliei</text></form></variant>
+    <variant><form lang="kqs"><text>vurie</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="volion_5756_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>argent (métal, monnaie)</text></gloss>
@@ -74225,7 +74411,7 @@
       <trait name="semantic-domain-ddp4" value="6.8.6 Money"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 187 occurrences, first GEN.13.2; Keita 1979, p. 149: Volion; Paulme 1964, p. 118 (G/K): vɔlyɔ̃ /G./, wurye /K./; Lexique kissi–français, p. 61: volion; Terminologie (idéologie), n° 433: Volion</text></form></note>
-    <note><form lang="fr"><text>Le Lexique kissi–français (p. 62) écrit aussi vorion. Paulme 1964, p. 118 : vɔlyɔ̃ /G./, wurye /K./ ; volibe /G./, wurile /K./ « sans argent ».</text></form></note>
+    <note><form lang="fr"><text>Le Lexique kissi–français (p. 62) écrit aussi vorion. Paulme 1964, p. 118 : vɔlyɔ̃ /G./, wurye /K./ ; volibe /G./, wurile /K./ « sans argent ». Paulme : vɔlyɔ̃, wɔlye /G./ ; wurye, pl. wuryɔ̃ /K./ (p. 118, 121, 123).</text></form></note>
   </entry>
   <entry id="vólotótoo_5757">
     <lexical-unit><form lang="kqs"><text>vólotótoo</text></form></lexical-unit>
@@ -74625,6 +74811,7 @@
   <entry id="vulan_5786">
     <lexical-unit><form lang="kqs"><text>vulan</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>vuran</text></form></variant>
     <sense id="vulan_5786_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>genoux</text></gloss>
@@ -74941,6 +75128,7 @@
   <entry id="vɔ le_5810">
     <lexical-unit><form lang="kqs"><text>vɔ le</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>vɔ re</text></form></variant>
     <sense id="vɔ le_5810_s1">
       <grammatical-info value="Adverb"/>
       <gloss lang="fr"><text>pas encore</text></gloss>
@@ -74983,6 +75171,7 @@
     <trait name="status" value="attested"/>
     <field type="plural"><form lang="kqs"><text>vɔlɔtɔlan</text></form></field>
     <variant><form lang="kqs"><text>vɔlɔtɔ</text></form></variant>
+    <variant><form lang="kqs"><text>vɔrɔtɔɔ</text></form></variant>
     <sense id="vɔlɔtɔɔ_5813_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>faucille</text></gloss>
@@ -76989,6 +77178,8 @@
     <lexical-unit><form lang="kqs"><text>yalɔɔ</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yalu</text></form></variant>
+    <variant><form lang="kqs"><text>yarɔɔ</text></form></variant>
+    <variant><form lang="kqs"><text>yaru</text></form></variant>
     <sense id="yalɔɔ_5971_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>crier, s'exclamer</text></gloss>
@@ -78008,6 +78199,7 @@
     <lexical-unit><form lang="kqs"><text>yekpandio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>yakpando</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="yekpandio_6050_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>fusil</text></gloss>
@@ -78016,12 +78208,14 @@
       <trait name="semantic-domain-ddp4" value="6.4.1 Hunt"/>
     </sense>
     <note type="source"><form lang="en"><text>Keita 1979, p. 156: Yekpandio; Paulme 1964, p. 125 (G/K): yagbando /K./, yebandi /G./; Lexique kissi–français, p. 64: yekpandio; Terminologie (histoire), n° 354: Yekpandioo; Childs 2000, p. 401: yèkpándìó</text></form></note>
-    <note><form lang="fr"><text>Le Lexique kissi–français (p. 64, 66) écrit aussi yekpando et yokpando. Paulme 1964, p. 125 : yagbando /K./, yebandi /G./, pl. yagbanta.</text></form></note>
+    <note><form lang="fr"><text>Le Lexique kissi–français (p. 64, 66) écrit aussi yekpando et yokpando. Paulme 1964, p. 125 : yagbando /K./, yebandi /G./, pl. yagbanta. Paulme : yagbando /K./, yebandi /G./ (p. 125).</text></form></note>
   </entry>
   <entry id="yelaa_6051">
     <lexical-unit><form lang="kqs"><text>yelaa</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yela</text></form></variant>
+    <variant><form lang="kqs"><text>yeraa</text></form></variant>
+    <variant><form lang="kqs"><text>yera</text></form></variant>
     <sense id="yelaa_6051_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>être sucré, être doux ; faire plaisir</text></gloss>
@@ -78035,6 +78229,7 @@
   <entry id="yelela_6052">
     <lexical-unit><form lang="kqs"><text>yelela</text></form></lexical-unit>
     <trait name="status" value="check"/>
+    <variant><form lang="kqs"><text>yerela</text></form></variant>
     <sense id="yelela_6052_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>annonce d'un événement ou d'une fête à venir</text></gloss>
@@ -78102,6 +78297,8 @@
     <lexical-unit><form lang="kqs"><text>yeliaa</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yelia</text></form></variant>
+    <variant><form lang="kqs"><text>yeriaa</text></form></variant>
+    <variant><form lang="kqs"><text>yeria</text></form></variant>
     <sense id="yeliaa_6057_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>sucrer</text></gloss>
@@ -78880,6 +79077,7 @@
     <lexical-unit><form lang="kqs"><text>yilankamaa</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>yirankamaa</text></form></variant>
     <sense id="yilankamaa_6118_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>hippopotame</text></gloss>
@@ -78893,6 +79091,7 @@
     <lexical-unit><form lang="kqs"><text>yilankunndo</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>yirankunndo</text></form></variant>
     <sense id="yilankunndo_6119_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>météore, étoile filante</text></gloss>
@@ -78956,6 +79155,7 @@
     <lexical-unit><form lang="kqs"><text>yilisio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>yirisio</text></form></variant>
     <sense id="yilisio_6124_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>richesse ; s'enrichir</text></gloss>
@@ -80360,6 +80560,8 @@
     <lexical-unit><form lang="kqs"><text>yuliaa</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yulia</text></form></variant>
+    <variant><form lang="kqs"><text>yuriaa</text></form></variant>
+    <variant><form lang="kqs"><text>yuria</text></form></variant>
     <sense id="yuliaa_6232_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>éparpiller (la braise pour l'éteindre)</text></gloss>
@@ -80373,6 +80575,7 @@
     <lexical-unit><form lang="kqs"><text>yulianndo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yulian</text></form></variant>
+    <variant><form lang="kqs"><text>yurian</text></form></variant>
     <sense id="yulianndo_6233_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>se rouler par terre</text></gloss>
@@ -80425,6 +80628,8 @@
     <lexical-unit><form lang="kqs"><text>yulullo</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yulul</text></form></variant>
+    <variant><form lang="kqs"><text>yurullo</text></form></variant>
+    <variant><form lang="kqs"><text>yurul</text></form></variant>
     <sense id="yulullo_6237_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>indiquer, pointer (du bras, du doigt)</text></gloss>
@@ -80474,6 +80679,7 @@
   <entry id="yulɔɔ_6241">
     <lexical-unit><form lang="kqs"><text>yulɔɔ</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>yurɔɔ</text></form></variant>
     <sense id="yulɔɔ_6241_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>supporter, endurer ; être patient ; patience</text></gloss>
@@ -81760,6 +81966,8 @@
     <lexical-unit><form lang="kqs"><text>yɛlaa</text></form></lexical-unit>
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>yɛla</text></form></variant>
+    <variant><form lang="kqs"><text>yɛraa</text></form></variant>
+    <variant><form lang="kqs"><text>yɛra</text></form></variant>
     <sense id="yɛlaa_6340_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>multiplier, agrandir</text></gloss>
@@ -82583,6 +82791,7 @@
   <entry id="ŋuɛɛnu_6405">
     <lexical-unit><form lang="kqs"><text>ŋuɛɛnu</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>nuɛn</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="ŋuɛɛnu_6405_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>cinq</text></gloss>
@@ -82590,7 +82799,7 @@
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 130 occurrences, first GEN.14.9; Paulme 1964, p. 69 (G/K): nuɛn /K./, nuɛnu /G./; Lexique kissi–français, p. 40: ŋuɛnu; Childs 2000, p. 272: ŋùɛ́ɛ́nú</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 69 : nuɛn /K./, nuɛnu /G./ « cinq ».</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 69 : nuɛn /K./, nuɛnu /G./ « cinq ». Paulme : nuɛn /K./, nuɛnu /G./ (p. 69).</text></form></note>
   </entry>
   <entry id="ŋuɛɛnundɔɔ_6406">
     <lexical-unit><form lang="kqs"><text>ŋuɛɛnundɔɔ</text></form></lexical-unit>
@@ -82608,6 +82817,7 @@
     <lexical-unit><form lang="kqs"><text>ŋɔliŋɔlio</text></form></lexical-unit>
     <trait name="noun-class" value="o"/>
     <trait name="status" value="respelled"/>
+    <variant><form lang="kqs"><text>ŋɔriŋɔrio</text></form></variant>
     <sense id="ŋɔliŋɔlio_6407_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>frelon</text></gloss>
@@ -82657,6 +82867,8 @@
   <entry id="ŋɔmahiɔɔlu_6411">
     <lexical-unit><form lang="kqs"><text>ŋɔmahiɔɔlu</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>nɔmanuɔlu</text></form><trait name="dialect" value="Kissidougou"/></variant>
+    <variant><form lang="kqs"><text>nɔmayɔlɔ</text></form><trait name="dialect" value="Guéckédou"/></variant>
     <sense id="ŋɔmahiɔɔlu_6411_s1">
       <grammatical-info value="Numeral"/>
       <gloss lang="fr"><text>neuf</text></gloss>
@@ -82664,7 +82876,7 @@
       <trait name="semantic-domain-ddp4" value="8.1.1 Number"/>
     </sense>
     <note type="source"><form lang="en"><text>BKG: 13 occurrences, first NUM.29.26; Paulme 1964, p. 69 (G/K): nɔma nwɔlu /K./, nɔma yɔlɔ /G./; Lexique kissi–français, p. 40: ŋɔmahɔɔlu; Childs 2000, p. 270: ŋɔ̀máhìɔ́ɔ́lú</text></form></note>
-    <note><form lang="fr"><text>Paulme 1964, p. 69 : nɔma nwɔlu /K./, nɔma yɔlɔ /G./, glosé « quatre » ; il s'agit sans doute de neuf (5 + 4).</text></form></note>
+    <note><form lang="fr"><text>Paulme 1964, p. 69 : nɔma nwɔlu /K./, nɔma yɔlɔ /G./, glosé « quatre » ; il s'agit sans doute de neuf (5 + 4). Paulme : nɔma nwɔlu /K./, nɔma yɔlɔ /G./, glosé « quatre » par erreur (5 + 4) (p. 69).</text></form></note>
   </entry>
   <entry id="ŋɔmahiɔɔlundɔɔ_6412">
     <lexical-unit><form lang="kqs"><text>ŋɔmahiɔɔlundɔɔ</text></form></lexical-unit>
@@ -83497,6 +83709,7 @@
     <trait name="status" value="respelled"/>
     <variant><form lang="kqs"><text>nafindo</text></form></variant>
     <variant><form lang="kqs"><text>ɲafendo</text></form></variant>
+    <variant><form lang="kqs"><text>nafindo</text></form><trait name="dialect" value="Kissidougou"/></variant>
     <sense id="ɲafindo_6478_s1">
       <grammatical-info value="Noun"/>
       <gloss lang="fr"><text>panthère</text></gloss>
@@ -83504,7 +83717,7 @@
       <trait name="semantic-domain-ddp4" value="1.6.1 Types of animals"/>
     </sense>
     <note type="source"><form lang="en"><text>Paulme 1964, p. 71: nyafindo, nafindo /K./; Sandara Kisia, fable 6: nyafendo</text></form></note>
-    <note><form lang="fr"><text>Paulme : nafindo /K./ ; nyafindo buri wana pɔno « la panthère a tué un homme ». Cf. tambillo dans la Bible. Sandara Kissia, fable 6 : nyafendo « la panthère » (porte le lièvre, puis dévore les singes).</text></form></note>
+    <note><form lang="fr"><text>Paulme : nafindo /K./ ; nyafindo buri wana pɔno « la panthère a tué un homme ». Cf. tambillo dans la Bible. Sandara Kissia, fable 6 : nyafendo « la panthère » (porte le lièvre, puis dévore les singes). Paulme : nyafindo, nafindo /K./ (p. 71).</text></form></note>
   </entry>
   <entry id="ɲahanama_6479">
     <lexical-unit><form lang="kqs"><text>ɲahanama</text></form></lexical-unit>
@@ -84356,6 +84569,7 @@
   <entry id="ɲulullo_6546">
     <lexical-unit><form lang="kqs"><text>ɲulullo</text></form></lexical-unit>
     <trait name="status" value="attested"/>
+    <variant><form lang="kqs"><text>ɲurullo</text></form></variant>
     <sense id="ɲulullo_6546_s1">
       <grammatical-info value="Verb"/>
       <gloss lang="fr"><text>froid ; se refroidir, se rafraîchir ; (kɔllo ɲulullo) être apaisé</text></gloss>

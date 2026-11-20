@@ -12,7 +12,23 @@ Particles are small words with no lexical meaning of their own, which mark a gra
 | {{aa}} | introduces reported speech | {{Mí Hala dimi aa}} “And God said:” [Gen 1:3](https://www.bible.com/bible/1394/GEN.1.3.BKG) |
 | {{pɛ}} | closes the condition opened by {{te}} | {{te o de pɛ kɔmnde yɔm kon}} [Gen 3:22](https://www.bible.com/bible/1394/GEN.3.22.BKG) |
 
-The particle {{ni}} ends the sentence that identifies or focuses an element; in the corresponding negative sentence, it is replaced by the final negation (see [Negation](../verbs/negation.md)). Southern Kissi has the same focus particle *ní* [[(Childs1995, p. 124)]].
+The particle {{ni}} ends the sentence that identifies or focuses an element; in the corresponding negative sentence, it is replaced by the final negation (see [Negation](../verbs/negation.md)). Southern Kissi has the same focus particle *ní* [[(Childs1995, p. 124)]]. The tale Paulme recorded in the 1940s contrasts in this way the negative sentence, closed by {{le}}, with the focus sentence, closed by {{ni}} ([Paulme, text 11](../../appendix/paulme-texts.md#11-the-porcupine-and-the-hare-le-porc-epic-et-le-lievre)):
+
+<div class="ks-interlinear" markdown="1">
+
+| *mallo* | *dimi* | *ɔ* | *tyɔra* | *kure* |
+| --- | --- | --- | --- | --- |
+| {{miallo}} | {{dimi}} | {{o}} | {{co le\|?}} | {{kulan\|r}} {{le}} |
+| the stranger | says | it | is not | bellows |
+
+| *nira* | *nira* | *ni* |
+| --- | --- | --- |
+| {{nila}} | {{nila}} | {{ni}} |
+| ears | ears | it is |
+
+</div>
+
+<p class="ks-free" markdown="1">The Stranger says: “They are not bellows, they are ears!” [[(Paulme1964, p. 159, 164)]]</p>
 
 ## Politeness particle: *-ndɔ*, *-yɔ*, *-lɔ*
 
@@ -38,6 +54,8 @@ Placed just after the noun or pronoun, they specify its scope [[(Keita1979, p. 1
 | {{vɛlɛ}} | again, also (after the verb) | {{Mí Hala dimi vɛlɛ aa}} “God said again” [Gen 1:6](https://www.bible.com/bible/1394/GEN.1.6.BKG) |
 
 {{vɛlɛ}} is the only one of these particles that is placed after the verb [[(Keita1979, p. 118)]].
+
+After a pronoun, {{pilɛ}} “one” means “alone”: {{O niŋ mì vanapɔnɔɔ va ndu pilɛ le}} “It is not good that the man should be alone” [[GEN.2.18]]. Paulme already records it [[(Paulme1964, p. 79)]]: {{ya pilɛ}} “I alone”.
 
 !!! rule "Spelling rules"
     - Particles are written **separately**: {{ya pila}}, {{nɔm pilɛ kpé}}, {{dimi vɛlɛ}}.
